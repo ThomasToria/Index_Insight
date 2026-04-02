@@ -2,8 +2,8 @@ from pathlib import Path
 import csv
 import re
 import unicodedata
-import requests
-from pypdf import PdfReader
+import requests # type: ignore
+from pypdf import PdfReader # type: ignore
 
 
 PDF_URL = "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf"
