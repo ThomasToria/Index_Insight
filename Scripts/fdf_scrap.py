@@ -16,7 +16,6 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-
 def clean_filename(name, max_length=120):
     name = re.sub(r'[<>:"/\\|?*]', "", name)
     name = name.replace("’", "'").replace("«", "").replace("»", "")
@@ -24,7 +23,6 @@ def clean_filename(name, max_length=120):
     if len(name) > max_length:
         name = name[:max_length].rstrip()
     return name
-
 
 def make_unique_filepath(directory, filename):
     path = directory / filename
@@ -38,13 +36,15 @@ def make_unique_filepath(directory, filename):
 
     return path
 
+def normalize_text(text):
+    text = text.replace("\xa0", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 def get_soup(url, session):
-    print(f"[GET] {url}")
     response = session.get(url, headers=HEADERS, timeout=30)
     response.raise_for_status()
     return BeautifulSoup(response.text, "html.parser")
-
 
 def extract_listing_links(soup):
     links = set()
@@ -57,7 +57,6 @@ def extract_listing_links(soup):
             links.add(full_url)
 
     return sorted(links)
-
 
 def find_next_page(current_url, soup):
     current_start = 0
@@ -84,7 +83,6 @@ def find_next_page(current_url, soup):
     candidates.sort(key=lambda x: x[0])
     return candidates[0][1]
 
-
 def extract_article_content(article_url, session):
     soup = get_soup(article_url, session)
 
@@ -93,13 +91,13 @@ def extract_article_content(article_url, session):
 
     paragraphs = []
     for tag in soup.find_all(["p", "h2", "h3", "li"]):
-        text = tag.get_text(" ", strip=True)
+        text = normalize_text(tag.get_text(" ", strip=True))
         if text:
             paragraphs.append(text)
 
-    body = "\n\n".join(paragraphs).strip()
-    return title, body
+    body = "\n".join(paragraphs)
 
+    return title, body
 
 def save_article(title, body, article_url):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -112,12 +110,7 @@ def save_article(title, body, article_url):
 
     print(f"[SAVE] {filepath.name}")
 
-
 def main():
-    print("[START] Script lancé")
-    print(f"[ROOT] {PROJECT_ROOT}")
-    print(f"[OUT] {OUTPUT_DIR}")
-
     session = requests.Session()
 
     visited_listing_pages = set()
@@ -127,17 +120,11 @@ def main():
     total_saved = 0
 
     while current_url and current_url not in visited_listing_pages:
-        print(f"\n[LIST PAGE] {current_url}")
+        print(f"[LIST PAGE] {current_url}")
         visited_listing_pages.add(current_url)
 
-        try:
-            soup = get_soup(current_url, session)
-        except Exception as e:
-            print(f"[ERROR] Impossible de lire la page liste : {e}")
-            break
-
+        soup = get_soup(current_url, session)
         links = extract_listing_links(soup)
-        print(f"[FOUND LINKS] {len(links)} lien(s) trouvé(s)")
 
         for article_url in links:
             if article_url in visited_article_urls:
@@ -147,8 +134,8 @@ def main():
 
             try:
                 title, body = extract_article_content(article_url, session)
+
                 if not body:
-                    print(f"[SKIP] Contenu vide : {article_url}")
                     continue
 
                 save_article(title, body, article_url)
@@ -156,14 +143,11 @@ def main():
                 time.sleep(0.3)
 
             except Exception as e:
-                print(f"[ERROR] Article ignoré : {article_url} -> {e}")
+                print(f"[ERROR] {article_url} -> {e}")
 
-        next_url = find_next_page(current_url, soup)
-        print(f"[NEXT] {next_url}")
-        current_url = next_url
+        current_url = find_next_page(current_url, soup)
 
-    print(f"\n[END] {total_saved} article(s) sauvegardé(s).")
-
+    print(f"[END] {total_saved} article(s) sauvegardé(s).")
 
 if __name__ == "__main__":
     main()
