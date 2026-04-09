@@ -6,8 +6,8 @@ import csv
 import re
 import time
 
-import requests
-from bs4 import BeautifulSoup
+import requests # type: ignore
+from bs4 import BeautifulSoup # type: ignore
 
 
 BASE_LIST_URL = "https://hcfea.gouv.fr/conseil-de-lage-0"
