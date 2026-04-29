@@ -3,23 +3,18 @@ from __future__ import annotations
 import csv
 import re
 import unicodedata
+import sys
 from collections import OrderedDict
 from pathlib import Path
 from typing import Dict, List
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATABASE_DIR = PROJECT_ROOT / "Database"
 OUTPUT_DIR = PROJECT_ROOT / "Scripts"
 
 MIN_WORDS = 50
 BOTTOM_N = 10
 TOP_N = 10
-
-FULL_RESULTS_CSV = OUTPUT_DIR / "keyword_scores_full.csv"
-BOTTOM_RESULTS_CSV = OUTPUT_DIR / "keyword_scores_bottom_10.csv"
-TOP_RESULTS_CSV = OUTPUT_DIR / "keyword_scores_top_10.csv"
-
 
 KEYWORDS = OrderedDict({
     "agisme": 5,
@@ -68,9 +63,7 @@ def normalize_text(text: str) -> str:
 
 
 def count_words(normalized_text: str) -> int:
-    if not normalized_text:
-        return 0
-    return len(normalized_text.split())
+    return len(normalized_text.split()) if normalized_text else 0
 
 
 def build_keyword_pattern(keyword: str) -> re.Pattern:
@@ -92,16 +85,16 @@ KEYWORD_PATTERNS = {
 }
 
 
-def analyze_file(file_path: Path) -> Dict[str, object]:
+def analyze_file(file_path: Path, base_dir: Path) -> Dict[str, object]:
     raw_text = file_path.read_text(encoding="utf-8", errors="ignore")
     normalized = normalize_text(raw_text)
     filename_normalized = normalize_text(file_path.stem)
 
     word_count = count_words(normalized)
 
-    keyword_counts: Dict[str, int] = {}
-    weighted_details: Dict[str, int] = {}
-    title_bonus_details: Dict[str, int] = {}
+    keyword_counts = {}
+    weighted_details = {}
+    title_bonus_details = {}
     total_score = 0
 
     for keyword, weight in KEYWORDS.items():
@@ -114,122 +107,43 @@ def analyze_file(file_path: Path) -> Dict[str, object]:
         title_bonus_details[keyword] = title_bonus
         total_score += count * weight + title_bonus
 
-    score_normalized = (total_score / word_count) if word_count > 0 else 0.0
+    score_normalized = total_score / word_count if word_count > 0 else 0.0
 
     return {
         "file_name": file_path.name,
-        "relative_path": str(file_path.relative_to(PROJECT_ROOT)),
+        "relative_path": str(file_path.relative_to(base_dir)),
         "absolute_path": str(file_path.resolve()),
         "word_count": word_count,
         "score_raw": total_score,
         "score_normalized": score_normalized,
-        "keyword_counts": keyword_counts,
-        "weighted_details": weighted_details,
-        "title_bonus_details": title_bonus_details,
     }
 
 
-def find_txt_files(database_dir: Path) -> List[Path]:
-    return sorted(database_dir.rglob("*.txt"))
+def find_txt_files(target_dir: Path) -> List[Path]:
+    return sorted(target_dir.rglob("*.txt"))
 
 
-def write_full_results_csv(results: List[Dict[str, object]], output_path: Path) -> None:
-    fieldnames = [
-        "file_name",
-        "relative_path",
-        "absolute_path",
-        "word_count",
-        "score_raw",
-        "score_normalized",
-    ]
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python score_keywords.py <dossier>")
+        return
 
-    for keyword in KEYWORDS:
-        fieldnames.append(f"count__{keyword}")
+    target_dir = Path(sys.argv[1]).resolve()
 
-    for keyword in KEYWORDS:
-        fieldnames.append(f"weighted__{keyword}")
+    if not target_dir.exists():
+        print(f"Dossier introuvable : {target_dir}")
+        return
 
-    for keyword in KEYWORDS:
-        fieldnames.append(f"title_bonus__{keyword}")
+    print(f"\nDossier analysé : {target_dir}")
 
-    with output_path.open("w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=";")
-        writer.writeheader()
+    txt_files = find_txt_files(target_dir)
 
-        for result in results:
-            row = {
-                "file_name": result["file_name"],
-                "relative_path": result["relative_path"],
-                "absolute_path": result["absolute_path"],
-                "word_count": result["word_count"],
-                "score_raw": result["score_raw"],
-                "score_normalized": f"{result['score_normalized']:.8f}",
-            }
+    if not txt_files:
+        print("Aucun fichier .txt trouvé.")
+        return
 
-            keyword_counts = result["keyword_counts"]
-            weighted_details = result["weighted_details"]
-            title_bonus_details = result["title_bonus_details"]
+    results = [analyze_file(path, target_dir) for path in txt_files]
 
-            for keyword in KEYWORDS:
-                row[f"count__{keyword}"] = keyword_counts[keyword]
-
-            for keyword in KEYWORDS:
-                row[f"weighted__{keyword}"] = weighted_details[keyword]
-
-            for keyword in KEYWORDS:
-                row[f"title_bonus__{keyword}"] = title_bonus_details[keyword]
-
-            writer.writerow(row)
-
-
-def write_ranked_results_csv(
-    results: List[Dict[str, object]],
-    output_path: Path,
-    n: int,
-    reverse: bool,
-) -> None:
-    eligible = [r for r in results if r["word_count"] >= MIN_WORDS]
-
-    if reverse:
-        ranked = sorted(
-            eligible,
-            key=lambda r: (r["score_normalized"], r["score_raw"], r["word_count"]),
-            reverse=True
-        )[:n]
-    else:
-        ranked = sorted(
-            eligible,
-            key=lambda r: (r["score_normalized"], r["word_count"], r["score_raw"])
-        )[:n]
-
-    fieldnames = [
-        "rank",
-        "file_name",
-        "relative_path",
-        "absolute_path",
-        "word_count",
-        "score_raw",
-        "score_normalized",
-    ]
-
-    with output_path.open("w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=";")
-        writer.writeheader()
-
-        for i, result in enumerate(ranked, start=1):
-            writer.writerow({
-                "rank": i,
-                "file_name": result["file_name"],
-                "relative_path": result["relative_path"],
-                "absolute_path": result["absolute_path"],
-                "word_count": result["word_count"],
-                "score_raw": result["score_raw"],
-                "score_normalized": f"{result['score_normalized']:.8f}",
-            })
-
-
-def print_summary(results: List[Dict[str, object]]) -> None:
-    total_files = len(results)
     eligible = [r for r in results if r["word_count"] >= MIN_WORDS]
 
     bottom = sorted(
@@ -243,58 +157,15 @@ def print_summary(results: List[Dict[str, object]]) -> None:
         reverse=True
     )[:TOP_N]
 
-    print(f"\nProjet racine      : {PROJECT_ROOT}")
-    print(f"Dossier analysé    : {DATABASE_DIR}")
-    print(f"Nombre de fichiers : {total_files}")
-    print(f"Seuil min. de mots : {MIN_WORDS}")
-    print(f"CSV complet        : {FULL_RESULTS_CSV}")
-    print(f"CSV bottom {BOTTOM_N:<2}     : {BOTTOM_RESULTS_CSV}")
-    print(f"CSV top {TOP_N:<5}      : {TOP_RESULTS_CSV}")
+    print(f"Nombre de fichiers : {len(results)}")
 
-    print(f"\nTop {BOTTOM_N} des textes au score normalisé le plus bas :\n")
-    for i, result in enumerate(bottom, start=1):
-        clickable_path = f"{result['absolute_path']}:1"
-        print(
-            f"{i:>2}. "
-            f"{clickable_path} | "
-            f"mots={result['word_count']} | "
-            f"score_brut={result['score_raw']} | "
-            f"score_norm={result['score_normalized']:.8f}"
-        )
+    print(f"\nTop {BOTTOM_N} plus faibles :\n")
+    for i, r in enumerate(bottom, 1):
+        print(f"{i}. {r['absolute_path']}:1 | score={r['score_normalized']:.6f}")
 
-    print(f"\nTop {TOP_N} des textes au score normalisé le plus élevé :\n")
-    for i, result in enumerate(top, start=1):
-        clickable_path = f"{result['absolute_path']}:1"
-        print(
-            f"{i:>2}. "
-            f"{clickable_path} | "
-            f"mots={result['word_count']} | "
-            f"score_brut={result['score_raw']} | "
-            f"score_norm={result['score_normalized']:.8f}"
-        )
-
-
-def main() -> None:
-    if not DATABASE_DIR.exists():
-        raise FileNotFoundError(f"Dossier introuvable : {DATABASE_DIR}")
-
-    txt_files = find_txt_files(DATABASE_DIR)
-
-    if not txt_files:
-        print("Aucun fichier .txt trouvé dans Database.")
-        return
-
-    results = [analyze_file(path) for path in txt_files]
-
-    results_sorted = sorted(
-        results,
-        key=lambda r: (r["score_normalized"], -r["score_raw"], r["file_name"])
-    )
-
-    write_full_results_csv(results_sorted, FULL_RESULTS_CSV)
-    write_ranked_results_csv(results_sorted, BOTTOM_RESULTS_CSV, BOTTOM_N, reverse=False)
-    write_ranked_results_csv(results_sorted, TOP_RESULTS_CSV, TOP_N, reverse=True)
-    print_summary(results_sorted)
+    print(f"\nTop {TOP_N} plus forts :\n")
+    for i, r in enumerate(top, 1):
+        print(f"{i}. {r['absolute_path']}:1 | score={r['score_normalized']:.6f}")
 
 
 if __name__ == "__main__":
