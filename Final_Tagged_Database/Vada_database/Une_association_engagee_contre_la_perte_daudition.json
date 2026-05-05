@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Une association engagée contre la perte d’audition",
+    "territoire": "Titre: Une association engagée contre la perte d’audition Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/327-pe-asso-contre-la-perte-d-audition.pdf  ---  --- PERMETTRE DE (RÉ) ENTENDRE POUR FAVORISER LE LIEN SOCIAL À l’origine de ce projet, les adhérents de l’association « Un moment de détente » ont tout d’abord constaté la perte d’audition d’un certain nombre de personnes, y compris parmi eux.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "L’association « Un moment de détente », en partenariat avec l’association Alerte et des audioprothésistes, collecte auprès du public des appareils (uniquement des contours d’oreilles) lors d’un changement d’équipement ou autre.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Une association engagée contre la perte d’audition Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/327-pe-asso-contre-la-perte-d-audition.pdf  ---  --- PERMETTRE DE (RÉ) ENTENDRE POUR FAVORISER LE LIEN SOCIAL À l’origine de ce projet, les adhérents de l’association « Un moment de détente » ont tout d’abord constaté la perte d’audition d’un certain nombre de personnes, y compris parmi eux.",
+        "problematique": "En participant à des forums et en questionnant son réseau, l’association est partie à la recherche des freins que les personnes décrivaient expliquant leur « non-équipement » en prothèses auditives.",
+        "solution_envisagee": "L’accès à ce service est possible sans condition d’âge: il s’applique à toute personne souffrant d’un déficit auditif.",
+        "objectifs": "Titre: Une association engagée contre la perte d’audition Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/327-pe-asso-contre-la-perte-d-audition.pdf  ---  --- PERMETTRE DE (RÉ) ENTENDRE POUR FAVORISER LE LIEN SOCIAL À l’origine de ce projet, les adhérents de l’association « Un moment de détente » ont tout d’abord constaté la perte d’audition d’un certain nombre de personnes, y compris parmi eux."
+    },
+    "porteur_initiative": "L’accès à ce service est possible sans condition d’âge: il s’applique à toute personne souffrant d’un déficit auditif.",
+    "date": [
+        "2025",
+        "2015",
+        "2009",
+        "depuis",
+        "depuis 2009",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_association_engagee_contre_la_perte_daudition.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_association_engagee_contre_la_perte_daudition.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

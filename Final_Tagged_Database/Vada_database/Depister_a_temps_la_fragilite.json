@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Dépister à temps la fragilité",
+    "territoire": "Titre: Dépister à temps la fragilité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/555-pe-depister-a-temps-la-fragilite.pdf  ---  --- LA FRAGILITÉ, UNE VULNÉRABILITÉ ACCRUE PAR LE VIEILLISSEMENT La fragilité est une diminution des réserves physiologiques liée au vieillissement, qui induit un risque de pertes fonctionnelles.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "ÊTRE AU PLUS PROCHE DES HABITANTS Les agents du guichet Atout seniors fixent les rendez-vous avec l’infirmière, qui assure les consultations une fois par semaine au sein du cadre rassurant et familier du CCAS.",
+    "description": {
+        "description_generale": "Le CCAS de Colomiers a participé à des groupes de travail avec d’autres communes de Toulouse Métropole afin d’échanger sur l’expérimentation du dispositif de dépistage de la fragilité.",
+        "contexte": "C’est pour cette raison que le guichet Atout seniors du CCAS de Colomiers a décidé de signer une convention partenariale avec le Gérontopôle de Toulouse afin de mettre en place des diagnostics de fragilité, à la suite desquels sont proposés, en fonction des résultats, des préconisations adaptées sur plusieurs niveaux: le lien social, l’alimentation, l’activité physique, etc.",
+        "problematique": "Un suivi post consultation permettra également de détecter les freins à la mise en oeuvre des préconisations faites en consultation: problème de mobilité, finances, manque de connaissance des activités proposées sur le territoire, etc.",
+        "solution_envisagee": "UNE MISE EN PLACE PROGRESSIVE Afin de vérifier le bien-fondé de ce projet, une phase expérimentale a tout d’abord été mise en place.",
+        "objectifs": "C’est pour cette raison que le guichet Atout seniors du CCAS de Colomiers a décidé de signer une convention partenariale avec le Gérontopôle de Toulouse afin de mettre en place des diagnostics de fragilité, à la suite desquels sont proposés, en fonction des résultats, des préconisations adaptées sur plusieurs niveaux: le lien social, l’alimentation, l’activité physique, etc."
+    },
+    "porteur_initiative": "Titre: Dépister à temps la fragilité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/555-pe-depister-a-temps-la-fragilite.pdf  ---  --- LA FRAGILITÉ, UNE VULNÉRABILITÉ ACCRUE PAR LE VIEILLISSEMENT La fragilité est une diminution des réserves physiologiques liée au vieillissement, qui induit un risque de pertes fonctionnelles.",
+    "date": [
+        "2025",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Depister_a_temps_la_fragilite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Depister_a_temps_la_fragilite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

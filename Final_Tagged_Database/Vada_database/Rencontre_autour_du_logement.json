@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Rencontre autour du logement",
+    "territoire": "Titre: Rencontre autour du logement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/923-concours-2023-rencontre-autour-du-logement.pdf  ---  --- L'UTR 21 POUR ACCOMPAGNER LES SENIORS La commission CSCV de l’UTR 21 (Union territoriale des retraités - Côte d'or) travaille sur le logement et ses différentes modalités de vie qui vont de l’habitat individuel à l’hébergement en EHPAD en passant par l’Habitat Inclusif.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Réflexions autours de thématiques sur l'aménagement des logement Organisation de rencontres avec des personnes âgées, des personnes en situation de handicap et des aidants Exemples concrets et échange avec les participants pour comprendre leur problématique et apporter des solutions Retours des participants après les rencontres pour améliorer le contenu proposé  ---  --- PERSPECTIVES D'ÉVOLUTION Les bénéficiaires de ces rencontres sont des personnes âgées, des personnes en situation de handicap ou à mobilité réduite, mais aussi des aidants, des proches, et du personnel de l’aide à la personne.",
+    "description": {
+        "description_generale": "Si, comme l'UTR CFDT 21, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "La commission CSCV se réunit plusieurs fois par trimestre pour faire le point de l’actualité et des activités des instances où des mandatés de l’UTR 21 siègent: CDCA, CCAS, CTS de l’ARS.",
+        "problematique": "Elles sont fonction des évolutions personnelles de santé, des difficultés de mobilité, de choix de vie… THÉMATIQUES ET ORGANISATION DE LA RENCONTRE En début 2022, des discussions ont eu lieu au sein de la commission CSCV sur les domaines à traiter et dans quel ordre les présenter.",
+        "solution_envisagee": "C'est dans ce cadre qu'est venue l'idée d'une rencontre qui propose aux participants d’imaginer les aménagements de leur logement actuel et d’anticiper le choix et l’aménagement d’un futur logement.",
+        "objectifs": "La commission CSCV se réunit plusieurs fois par trimestre pour faire le point de l’actualité et des activités des instances où des mandatés de l’UTR 21 siègent: CDCA, CCAS, CTS de l’ARS."
+    },
+    "porteur_initiative": "La commission CSCV se réunit plusieurs fois par trimestre pour faire le point de l’actualité et des activités des instances où des mandatés de l’UTR 21 siègent: CDCA, CCAS, CTS de l’ARS.",
+    "date": [
+        "28 avril 2023",
+        "juin 2022",
+        "avril 2023",
+        "juin 2023",
+        "2025",
+        "2023",
+        "2022",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Rencontre_autour_du_logement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Rencontre_autour_du_logement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

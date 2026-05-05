@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Projet révélations - l'accompagnement des seniors vers la vie en colocation dans le logement social",
+    "territoire": "Mettre en place un suivi personnalisé des résidents.  ---  --- SUITES DU PROJET L'ensemble de l'accompagnement de LOKI ORA est financé grâce aux subventions \"actions collectives prévention\" de la perte d'autonomie de la conférence des financeurs, le conseil départemental 44, la CARSAT, la ville de Nantes, la fondation Autonomia, le bailleur Nantes Métropole Habitat qui contribue au projet en finançant la vacance locative.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "L’objectif est de faire connaître les bienfaits de la colocation accompagnée aux professionnels au contact des seniors.",
+    "description": {
+        "description_generale": "Mettre en place un suivi personnalisé des résidents.  ---  --- SUITES DU PROJET L'ensemble de l'accompagnement de LOKI ORA est financé grâce aux subventions \"actions collectives prévention\" de la perte d'autonomie de la conférence des financeurs, le conseil départemental 44, la CARSAT, la ville de Nantes, la fondation Autonomia, le bailleur Nantes Métropole Habitat qui contribue au projet en finançant la vacance locative.",
+        "contexte": "Une seule session d’ateliers Logement a pu être organisée en raison de la crise sanitaire et des confinements.",
+        "problematique": "D'une manière générale, le parcours s’adapte à chacune des situations de vie rencontrée et des besoins exprimés par les seniors.",
+        "solution_envisagee": "Titre: Projet révélations - l'accompagnement des seniors vers la vie en colocation dans le logement social Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/840-concours-2022-67-projet-revelation-loki-ora.pdf  ---  --- UN LOGEMENT POUR LE BIEN-VIELLIR EN COLOCATION La colocation entre seniors est une solution de logement qui permet de favoriser le maintien à domicile mais aussi de bénéficier d’une dynamique de groupe favorable au bien vieillir.",
+        "objectifs": "Titre: Projet révélations - l'accompagnement des seniors vers la vie en colocation dans le logement social Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/840-concours-2022-67-projet-revelation-loki-ora.pdf  ---  --- UN LOGEMENT POUR LE BIEN-VIELLIR EN COLOCATION La colocation entre seniors est une solution de logement qui permet de favoriser le maintien à domicile mais aussi de bénéficier d’une dynamique de groupe favorable au bien vieillir."
+    },
+    "porteur_initiative": "Si, comme l'Association Loki Ora, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "février 2018",
+        "2025",
+        "2022",
+        "2018",
+        "2017",
+        "2020",
+        "depuis 2017",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_revelations_-_laccompagnement_des_seniors_vers_la_vie_en_colocation_dans_le_logement_social.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_revelations_-_laccompagnement_des_seniors_vers_la_vie_en_colocation_dans_le_logement_social.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.8,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

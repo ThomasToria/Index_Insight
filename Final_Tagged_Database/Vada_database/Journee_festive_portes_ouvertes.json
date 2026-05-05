@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Journée festive \"portes ouvertes\"",
+    "territoire": "Titre: Journée festive \"portes ouvertes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1014-concours-2023-journee-festive-portes-ouvertes-a-villeneuve-d-ascq.pdf  ---  --- FAIRE CONNAÎTRE La journée festive a été mise en place afin de faire connaître les offres en matières d'activités que le service municipal de la Maison des aînés (créé en 2017) offrait aux usagers Villeneuvois.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Journée festive \"portes ouvertes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1014-concours-2023-journee-festive-portes-ouvertes-a-villeneuve-d-ascq.pdf  ---  --- FAIRE CONNAÎTRE La journée festive a été mise en place afin de faire connaître les offres en matières d'activités que le service municipal de la Maison des aînés (créé en 2017) offrait aux usagers Villeneuvois.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Villeneuve d'Ascq, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com JOURNÉE FESTIVE DES AÎNÉS 2023 Cette année la journée festive s'est déroulée le samedi 10 juin de 13 heures à 17 heures.",
+        "contexte": "Si, comme la Ville de Villeneuve d'Ascq, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com JOURNÉE FESTIVE DES AÎNÉS 2023 Cette année la journée festive s'est déroulée le samedi 10 juin de 13 heures à 17 heures.",
+        "problematique": "Si, comme la Ville de Villeneuve d'Ascq, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com JOURNÉE FESTIVE DES AÎNÉS 2023 Cette année la journée festive s'est déroulée le samedi 10 juin de 13 heures à 17 heures.",
+        "solution_envisagee": "Titre: Journée festive \"portes ouvertes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1014-concours-2023-journee-festive-portes-ouvertes-a-villeneuve-d-ascq.pdf  ---  --- FAIRE CONNAÎTRE La journée festive a été mise en place afin de faire connaître les offres en matières d'activités que le service municipal de la Maison des aînés (créé en 2017) offrait aux usagers Villeneuvois.",
+        "objectifs": "Titre: Journée festive \"portes ouvertes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1014-concours-2023-journee-festive-portes-ouvertes-a-villeneuve-d-ascq.pdf  ---  --- FAIRE CONNAÎTRE La journée festive a été mise en place afin de faire connaître les offres en matières d'activités que le service municipal de la Maison des aînés (créé en 2017) offrait aux usagers Villeneuvois."
+    },
+    "porteur_initiative": "Si, comme la Ville de Villeneuve d'Ascq, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com JOURNÉE FESTIVE DES AÎNÉS 2023 Cette année la journée festive s'est déroulée le samedi 10 juin de 13 heures à 17 heures.",
+    "date": [
+        "2025",
+        "1014",
+        "2023",
+        "2017",
+        "2200",
+        "2022",
+        "depuis 2022",
+        "en",
+        "en 2017"
+    ],
+    "thematique": [
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_festive_portes_ouvertes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Journee_festive_portes_ouvertes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN",
+    "territoire": "LA TEMPORALITÉ Depuis mai 2021 LA LOCALISATION Nationale Plus d’informations sur • bien-chez-soi.lassuranceretraite.fr • https://www.youtube.com/ watch?v=UPjohm3-vZQ",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Professionnels: professionnels avec un rôle de conseil et d’accompagnement auprès des retraités (évaluateurs, assistant social) Autres: grand public (famille, aidant).",
+    "description": {
+        "description_generale": "LA FINALITÉ L ’Assurance retraite a développé le site bien-chez-soi. lassuranceretraite.fr dans le cadre de sa politique d’action sociale.",
+        "contexte": "Titre: BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN Pages: 18  Habitat BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+        "problematique": "Titre: BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN Pages: 18  Habitat BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+        "solution_envisagee": "Professionnels: professionnels avec un rôle de conseil et d’accompagnement auprès des retraités (évaluateurs, assistant social) Autres: grand public (famille, aidant).",
+        "objectifs": "Les objectifs: proposer un outil dynamique à ses partenaires et un site informatif au grand public pour préserver l’autonomie des retraités, en présentant plus de 200 fiches pratiques rédigées avec l’aide d’ergothérapeutes."
+    },
+    "porteur_initiative": "Titre: BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN Pages: 18  Habitat BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+    "date": [
+        "mai 2021",
+        "2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

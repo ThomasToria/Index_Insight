@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: La cité des aînés",
+    "territoire": "Titre: La cité des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/694-pe-52-la-cite-des-aines-saintetienne.pdf  ---  --- UNE CITÉ ORIGINALE ET INNOVANTE Dans le cadre d'une recomposition de l'offre médico-sociale à Saint-Etienne, AESIO Santé et la Ville de Saint-Etienne ont souhaité mener une réflexion globale et innovante, à partir d'une feuille blanche, pour créer un lieu unique capable de prendre en charge toutes les dépendances, dans un environnement générateur de lien social et de bien-être.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "INTÉGRATION DES USAGERS DANS LA RÉALISATION DU PROJET Ce projet a fait l'objet d'un travail pluridisciplinaire: architecte et constructeurs, industriels, psychiatres, spécialistes en neurosciences, ingénieurs, gériatres, gestionnaires, permettant ainsi d'aborder tous les axes de la prise en charge des personnes âgées (médical, psychologique et social).",
+    "description": {
+        "description_generale": "Concours  RFVAA 2021 Crédit photo: Emile Ludier  ---  --- SUITE DE L’ACTION Après l'ouverture de la Cité des Aînés à Saint-Etienne, AESIO Santé a ouvert deux nouvelles structures: à Montpellier en novembre 2020 et à Valence en juin 2021.",
+        "contexte": "Concours  RFVAA 2021 Crédit photo: Emile Ludier  ---  --- SUITE DE L’ACTION Après l'ouverture de la Cité des Aînés à Saint-Etienne, AESIO Santé a ouvert deux nouvelles structures: à Montpellier en novembre 2020 et à Valence en juin 2021.",
+        "problematique": "Ce concept entend répondre à tous les besoins de la personne âgée en termes de santé, bien-être, lien social, hôtellerie et restauration.",
+        "solution_envisagee": "Concours  RFVAA 2021 Crédit photo: Emile Ludier  ---  --- SUITE DE L’ACTION Après l'ouverture de la Cité des Aînés à Saint-Etienne, AESIO Santé a ouvert deux nouvelles structures: à Montpellier en novembre 2020 et à Valence en juin 2021.",
+        "objectifs": "L'objectif est d’améliorer le lieu en permanence et s'adapter à l'évolution des prises en charge, faire progresser la prévention de la dépendance et de répondre aux attentes des usagers et de leurs familles."
+    },
+    "porteur_initiative": "Concours  RFVAA 2021 Crédit photo: Emile Ludier  ---  --- SUITE DE L’ACTION Après l'ouverture de la Cité des Aînés à Saint-Etienne, AESIO Santé a ouvert deux nouvelles structures: à Montpellier en novembre 2020 et à Valence en juin 2021.",
+    "date": [
+        "novembre 2020",
+        "juin 2021",
+        "2025",
+        "2016",
+        "2021",
+        "2020",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_cite_des_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_cite_des_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

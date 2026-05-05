@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Repas des aînés",
+    "territoire": "Titre: Repas des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1003-pe-repas-des-aines.pdf  ---  --- UNE TRADITION ANNUELLE La municipalité de Savigny-le-Sec a organisé, dimanche 11 février 2024, son traditionnel repas des aînés.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Il a confirmé le souhait de la municipalité de s’investir dans la politique de l’âge, avec notamment l’ouverture très prochaine, de la résidence services senior ‘Savign’Or’ afin de répondre aux attentes des habitants du village.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Savigny-le-Sec, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Repas des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1003-pe-repas-des-aines.pdf  ---  --- UNE TRADITION ANNUELLE La municipalité de Savigny-le-Sec a organisé, dimanche 11 février 2024, son traditionnel repas des aînés.",
+        "problematique": "Titre: Repas des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1003-pe-repas-des-aines.pdf  ---  --- UNE TRADITION ANNUELLE La municipalité de Savigny-le-Sec a organisé, dimanche 11 février 2024, son traditionnel repas des aînés.",
+        "solution_envisagee": "Cette coutume a été mise en place il y a plusieurs années déjà par les directrices d’école qui ont à cœur d’entretenir le lien intergénérationnel au sein du village.",
+        "objectifs": "Il a confirmé le souhait de la municipalité de s’investir dans la politique de l’âge, avec notamment l’ouverture très prochaine, de la résidence services senior ‘Savign’Or’ afin de répondre aux attentes des habitants du village."
+    },
+    "porteur_initiative": "Titre: Repas des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1003-pe-repas-des-aines.pdf  ---  --- UNE TRADITION ANNUELLE La municipalité de Savigny-le-Sec a organisé, dimanche 11 février 2024, son traditionnel repas des aînés.",
+    "date": [
+        "11 février 2024",
+        "février 2024",
+        "2025",
+        "1003",
+        "2024",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Repas_des_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Repas_des_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

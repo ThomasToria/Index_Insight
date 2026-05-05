@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Mise en oeuvre du dispositif de \"l'heure civique\"",
+    "territoire": "Titre: Mise en oeuvre du dispositif de \"l'heure civique\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Mise-en-oeuvre-du-dispositif-de-lheure-civique-sur-la-commune-de-Saint-Palais-sur-Mer.pdf  ---  --- UNE AIDE DE PROXIMITÉ Suite aux réunions Ville Amie des Aînés (une des préconisations était la \"mise en place d'une plateforme d'échanges de savoirs et/ou de service\"), et les sollicitations de certains seniors au niveau du CCAS, la municipalité a décidé de suivre l'élan départemental et de s'inscrire dans le dispositif de l'heure civique.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Les critères restent les mêmes qu'initialement: le service est à l'attention des seniors de plus de 65 ans, autonomes, résidents à l'année, et non imposables.",
+    "description": {
+        "description_generale": "Inscription de volontaires bénévoles pour ces actions Deux types d'aides: collective (aide à la commune, à l'EHPAD, aux associations...) et individuelle (aide aux administrés) Logistique et contact géré par le CCAS Coût du projet: 1 000 €  ---  --- UN DISPOSITIF PERTINENT QUI CRÉE DU LIEN Une réuni on est organisée tous les ans (à minima), pour présenter aux volontaires le nombre d'actions, leurs interventions, et les problématiques rencontrées.",
+        "contexte": "LES AIDES INDIVIDUELLES Lorsque des missions d'aides individuelles sont proposées aux volontaires, le CCAS leur précise en amont le contexte et le type d'action (aide aux courses, aide au rangement suite à un cambriolage, aide à rentrer du bois...).",
+        "problematique": "MISE EN OEUVRE DU DISPOSITIF DE \"L'HEURE CIVIQUE\" SUR LA COMMUNE DE SAINT-PALAIS-SUR-MER Fiche PARTAGE D'EXPÉRIENCE N°944 Villes Amies des Aînés en France Ville de Saint-Palais-sur-Mer Ville Amie des Aînés depuis 2021 Saint-Palais-sur-Mer (17) Apporter une aide de \"bon voisinage\" et de proximité aux administrés en difficulté passagère, Privilégier les besoins primaires (aide aux courses, lien social, aide aux petits bricolages), Développer la relation d'aide, le lien social, la solidarité de proximité, Animer un réseau de volontaires.",
+        "solution_envisagee": "Les interventions se font à deux niveaux: d'une part l'aide individuelle, de proximité (\" de bon voisinage\") à destination des administrés, et d'autre part l'aide collective au niveau des festivités de la commune (accueil, mise en place, ou nettoyage citoyen des plages), de l'EHPAD (confection de déco ou autres, aide à l'installation), ou des associations (aide à l'installation).",
+        "objectifs": "Il s'agit de mettre en place une aide de proximité à l'attention des administrés: les administrés offrent une heure de leur temps par mois à d'autres administrés ou à la commune."
+    },
+    "porteur_initiative": "Il s'agit de mettre en place une aide de proximité à l'attention des administrés: les administrés offrent une heure de leur temps par mois à d'autres administrés ou à la commune.",
+    "date": [
+        "avril 2025",
+        "2025",
+        "2021",
+        "depuis 2021",
+        "en 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_oeuvre_du_dispositif_de_lheure_civique.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mise_en_oeuvre_du_dispositif_de_lheure_civique.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

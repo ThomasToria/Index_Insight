@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Le béguinage solidaire d'Arles concours",
+    "territoire": "C'est aussi une phase de communication active dans le quartier, la ville et le territoire pour permettre au projet de s'enraciner dans l'écosystème local.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Ce projet permet ainsi de favoriser les liens intergénérationnels par les actions qui seront entreprises dans le Tiers lieu et qui seront à l'initiative des habitants, de proposer un alternatve entre le lgement classique et l'EHPAD et de lutter contre l'isolement et la solitude car il est directement né de la demande des personnes âgées: \"puis-je contre être utile?\", \"puis-je encore être aimé?\".",
+    "description": {
+        "description_generale": "Ce projet permet ainsi de favoriser les liens intergénérationnels par les actions qui seront entreprises dans le Tiers lieu et qui seront à l'initiative des habitants, de proposer un alternatve entre le lgement classique et l'EHPAD et de lutter contre l'isolement et la solitude car il est directement né de la demande des personnes âgées: \"puis-je contre être utile?\", \"puis-je encore être aimé?\".",
+        "contexte": "Titre: Le béguinage solidaire d'Arles concours Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/719-pe-587-150422le-beguinage-solidaire-arles.pdf  ---  --- UN HABITAT SOLIDAIRE ET PARTICIPATIF Le projet consiste en la construction, dans l'enceinte de l'ancien Carmel, un Béguinage Solidaire.",
+        "problematique": "Ce projet permet ainsi de favoriser les liens intergénérationnels par les actions qui seront entreprises dans le Tiers lieu et qui seront à l'initiative des habitants, de proposer un alternatve entre le lgement classique et l'EHPAD et de lutter contre l'isolement et la solitude car il est directement né de la demande des personnes âgées: \"puis-je contre être utile?\", \"puis-je encore être aimé?\".",
+        "solution_envisagee": "Ce projet permet ainsi de favoriser les liens intergénérationnels par les actions qui seront entreprises dans le Tiers lieu et qui seront à l'initiative des habitants, de proposer un alternatve entre le lgement classique et l'EHPAD et de lutter contre l'isolement et la solitude car il est directement né de la demande des personnes âgées: \"puis-je contre être utile?\", \"puis-je encore être aimé?\".",
+        "objectifs": "Un tableau à impacts avec des objectifs et indicateurs qui permettront d'évaluer l'action a été établi."
+    },
+    "porteur_initiative": "Ce projet permet ainsi de favoriser les liens intergénérationnels par les actions qui seront entreprises dans le Tiers lieu et qui seront à l'initiative des habitants, de proposer un alternatve entre le lgement classique et l'EHPAD et de lutter contre l'isolement et la solitude car il est directement né de la demande des personnes âgées: \"puis-je contre être utile?\", \"puis-je encore être aimé?\".",
+    "date": [
+        "septembre 2020",
+        "octobre 2022",
+        "mai 2022",
+        "2025",
+        "2020",
+        "2021",
+        "2017",
+        "2022",
+        "2023",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_beguinage_solidaire_dArles_concours.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_beguinage_solidaire_dArles_concours.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: L'attractivité médicale au service des médecins et des habitants",
+    "territoire": "Fiche PARTAGE D'EXPÉRIENCE N°19-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS L'ATTRACTIVITÉ MÉDICALE AU SERVICE DES MÉDECINS ET DES HABITANTS Ville de Gravelines Ville Amie des Aînés depuis 2017 Gravelines (59) Renforcer l'attractivité médicale sur le territoire de la commune pour favoriser l'installation de médecins généralistes et spécialistes; Consolider la démographie médicale et veiller au maintien de l'offre de soins sur la commune pour garantir et/ou améliorer le recours aux soins de la population; Encourager la coordination entre professionnels de santé; Développer et coordonner des actions de santé publique avec les acteurs locaux.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Plus récemment, une étude de l'offre de soins à été réalisée par la rencontre des professionnels de santé, des partenaires, des habitants afin de dresser un état des lieux de l'offre de santé à Gravelines.",
+    "description": {
+        "description_generale": "Enfin, le travail de prévention auprès des habitants étant primordial, diverses actions de prévention avec les partenaires sont prévus (conférences santé, stands de prévention, création d'un projet sport-santé).",
+        "contexte": "En effet, du constat que l'offre de soins en médecine générale ne permettait pas de répondre aux besoins des habitants et que cette situation inquiétait fortement la population qui se retrouvait démunie, la Ville de Gravelines a entrepris de mettre en œuvre un certain nombre d’actions.",
+        "problematique": "En effet, du constat que l'offre de soins en médecine générale ne permettait pas de répondre aux besoins des habitants et que cette situation inquiétait fortement la population qui se retrouvait démunie, la Ville de Gravelines a entrepris de mettre en œuvre un certain nombre d’actions.",
+        "solution_envisagee": "C'est un projet qui s'inscrit à court, moyen et à long terme, qui a permis le déploiement d'une stratégie de santé au travers d'une coordination et l'installation de plusieurs médecins généralistes et spécialistes.",
+        "objectifs": "Fiche PARTAGE D'EXPÉRIENCE N°19-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS L'ATTRACTIVITÉ MÉDICALE AU SERVICE DES MÉDECINS ET DES HABITANTS Ville de Gravelines Ville Amie des Aînés depuis 2017 Gravelines (59) Renforcer l'attractivité médicale sur le territoire de la commune pour favoriser l'installation de médecins généralistes et spécialistes; Consolider la démographie médicale et veiller au maintien de l'offre de soins sur la commune pour garantir et/ou améliorer le recours aux soins de la population; Encourager la coordination entre professionnels de santé; Développer et coordonner des actions de santé publique avec les acteurs locaux."
+    },
+    "porteur_initiative": "Si, comme la Ville de Gravelines, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "1062",
+        "2024",
+        "2017",
+        "2021",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lattractivite_medicale_au_service_des_medecins_et_des_habitants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lattractivite_medicale_au_service_des_medecins_et_des_habitants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

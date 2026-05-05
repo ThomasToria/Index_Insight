@@ -1,0 +1,58 @@
+{
+    "titre": "La lutte contre la maladie d'Alzheimer: un défi social",
+    "territoire": "Pour le programme Personnes âgées de la Fondation de France, cette démarche entrait en résonnance avec notre approche globale, bien résumée par notre appel à projet: « Vieillir acteur et citoyen de son territoire ».",
+    "echelle": [
+        "quartier",
+        "communale",
+        "internationale"
+    ],
+    "public_vise": "Pour le programme Personnes âgées de la Fondation de France, cette démarche entrait en résonnance avec notre approche globale, bien résumée par notre appel à projet: « Vieillir acteur et citoyen de son territoire ».",
+    "description": {
+        "description_generale": "Pour le programme Personnes âgées de la Fondation de France, cette démarche entrait en résonnance avec notre approche globale, bien résumée par notre appel à projet: « Vieillir acteur et citoyen de son territoire ».",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Nous espérons donc que d’autres s’empareront du sujet: acteurs économiques et sociaux, associations de malades, collectivités territoriales… C’est le sens des rencontres territoriales de Nice, qui permettent aux acteurs de partager et confronter leurs expériences et du Prix Fondation Médéric Alzheimer/Fondation de France, qui met en lumière des initiatives particulièrement fortes et innovantes. « L’enjeu de la «société inclusive »: organiser collectivement un environnement solidaire et bienveillant, qui soit porteur et évite ou retarde les phénomènes d’isolement et d’exclusion. » Agathe Gestin, responsable du programme personnes âgées Des commerces sensibilisés Pour améliorer l’inclusion des personnes malades dans la cité, l’Institut Claude Pompidou à Nice a décidé d’ouvrir la structure sur le quartier, en profitant de sa situation géographique en proximité d’une rue commerçante desservie par le tram.",
+        "solution_envisagee": "Les accompagnements se font pour les déplacements à pied, en transport en commun ou en voiture.",
+        "objectifs": "Objectif: offrir aux personnes malades et à leurs proches des moments de convivialité et de distraction, mobiliser les acteurs de proximité et ainsi permettre aux personnes malades de continuer à être incluses dans la vie de la cité."
+    },
+    "porteur_initiative": "Des séances de cinéma adaptées aux personnes malades (avec une luminosité et une sonorité modulées, intégrant un entracte, un temps d’échange à l’issue de la séance, des animations spécifiques, etc): c’est le projet porté par Thérèse Jonveaux, neurologue au CHRU de Nancy.",
+    "date": [
+        "9 septembre 2019",
+        "septembre 2019",
+        "février 2019",
+        "2019",
+        "2030",
+        "2016",
+        "2017",
+        "1996",
+        "en 2030",
+        "en 2017",
+        "en 1996"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La lutte contre la maladie d'Alzheimer un défi social.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\La lutte contre la maladie d'Alzheimer un défi social.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

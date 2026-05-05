@@ -1,0 +1,41 @@
+{
+    "titre": "Arlon 2025",
+    "territoire": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°2 Mobilités Quoi?Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°2 Mobilités Quoi?Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon.",
+    "description": {
+        "description_generale": "ObjectifsAméliorer l’accès aux soins des personnes ayant des problèmes de mobilité et/ou à faibles revenusRéduire les inégalités de mobilité dans la commune d’ArlonObjectifsAméliorer l’accès aux soins des personnes ayant des problèmes de mobilité et/ou à faibles revenusRéduire les inégalités de mobilité dans la commune d’ArlonIndicateurs de réussiteNombres de transportsPrix de la prise en chargeIndicateurs de réussiteNombres de transportsPrix de la prise en chargeHumaines: Coordinateur ou coordinatrice du projetMatérielles: Impression du matériel d’informationInformation et communication:Flyers et affichagesFinancières:Budgétisation par la Commune d’Arlon ou CPASRESSOURCESHumaines: Coordinateur ou coordinatrice du projetMatérielles: Impression du matériel d’informationInformation et communication:Flyers et affichagesFinancières:Budgétisation par la Commune d’Arlon ou CPASRESSOURCES",
+        "contexte": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°2 Mobilités Quoi?Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon.",
+        "problematique": "Solution: mettre en place le service LocoMobile dans la commune d’ArlonPour qui?Personnes ayant des problèmes de mobilité et/ou à faibles revenus Où et quand?Commune d’ArlonDESCRIPTIONQuoi?Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon.",
+        "solution_envisagee": "Solution: mettre en place le service LocoMobile dans la commune d’ArlonPour qui?Personnes ayant des problèmes de mobilité et/ou à faibles revenus Où et quand?Commune d’ArlonDESCRIPTIONQuoi?Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon.",
+        "objectifs": "Améliorer l’accès aux soins des personnes ayant des problèmes de mobilité et/ou à faibles revenus\nRéduire les inégalités de mobilité dans la commune d’Arlon\nIndicateurs de réussite\nNombres de transports\nPrix de la prise en charge\nHumaines:\nCoordinateur ou coordinatrice du projet\nMatérielles:\nImpression du matériel d’information\nInformation et communication:\nFlyers et affichages\nFinancières:\nBudgétisation par la Commune d’Arlon ou CPAS\nRESSOURCES"
+    },
+    "porteur_initiative": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°2 Mobilités Quoi?Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon.",
+    "date": [
+        "2025"
+    ],
+    "thematique": [
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_2.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FICHE_Arlon_2.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.25,
+        "description_generale": 0.95,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

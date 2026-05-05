@@ -1,0 +1,46 @@
+{
+    "titre": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19",
+    "territoire": "Parmi eux, l’association Nouveau Souffle, en région parisienne soutient les aidants familiaux.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Pour lutter contre l’isolement des personnes âgées, l’association Delta 7, qui accueille habituellement dans ses centres de jours des personnes atteintes par des troubles de la mémoire, (maladie d’Alzheimer ou autres maladies apparentées), a proposé une webtélé, avec deux programmes quotidiens réalisés par des professionnels de santé pour les seniors.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Pour lutter contre l’isolement des personnes âgées, l’association Delta 7, qui accueille habituellement dans ses centres de jours des personnes atteintes par des troubles de la mémoire, (maladie d’Alzheimer ou autres maladies apparentées), a proposé une webtélé, avec deux programmes quotidiens réalisés par des professionnels de santé pour les seniors.",
+        "solution_envisagee": "Durant le confinement, un accompagnement personnalisé par téléphone a été proposé à une centaine d’aidants afin de les aider dans leur quotidien, la gestion du stress et de la fatigue et favoriser la communication avec le proche dont ils avaient la charge.",
+        "objectifs": "Durant le confinement, un accompagnement personnalisé par téléphone a été proposé à une centaine d’aidants afin de les aider dans leur quotidien, la gestion du stress et de la fatigue et favoriser la communication avec le proche dont ils avaient la charge."
+    },
+    "porteur_initiative": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19  https://www.fondationdefrance.org/fr/cat-personnes-agees/les-actions-soutenues-par-le-programme-personnes-agees-pendant-la-crise-covid  Qui sommes-nous?",
+    "date": [
+        "juillet 2020",
+        "2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

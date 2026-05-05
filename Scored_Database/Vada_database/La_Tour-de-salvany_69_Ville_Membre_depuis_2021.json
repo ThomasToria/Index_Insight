@@ -1,0 +1,182 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Tour-de-salvany_69_Ville_Membre_depuis_2021.txt",
+    "nom_fichier": "La_Tour-de-salvany_69_Ville_Membre_depuis_2021.txt",
+    "lignes": [
+        "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021",
+        "Catégories:",
+        "Commune:",
+        "Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf"
+    ],
+    "paragraphes": [
+        "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021\nCatégories:\nCommune:\nSource PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf"
+    ],
+    "phrases": [
+        "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf"
+    ],
+    "stats": {
+        "nombre_lignes": 4,
+        "nombre_paragraphes": 1,
+        "nombre_phrases": 1,
+        "nombre_caracteres": 207,
+        "nombre_sections_detectees": 0,
+        "nombre_dates_candidates": 3,
+        "nombre_territoires_candidates": 0,
+        "nombre_organisations_candidates": 1,
+        "nombre_public_vise_candidates": 1,
+        "nombre_porteur_candidates": 1,
+        "nombre_territoire_candidates": 1,
+        "nombre_description_candidates": 1,
+        "nombre_contexte_candidates": 1,
+        "nombre_problematique_candidates": 1,
+        "nombre_solution_candidates": 1,
+        "nombre_objectifs_candidates": 1
+    },
+    "sections_detectees": {},
+    "entites_candidates": {
+        "dates_candidates": [
+            "2021",
+            "2025",
+            "depuis 2021"
+        ],
+        "territoires_candidates": [],
+        "organisations_candidates": [
+            "Commune:"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 6
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+                "score": 2
+            }
+        ]
+    },
+    "champs_scores": {
+        "titre": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021",
+            "score": 8,
+            "confiance": 0.8,
+            "source": "premiere_ligne"
+        },
+        "date": {
+            "valeur": [
+                "2021",
+                "2025",
+                "depuis 2021"
+            ],
+            "score": 7,
+            "confiance": 0.8,
+            "source": "regex_dates"
+        },
+        "thematique": {
+            "valeur": [],
+            "score": 0,
+            "confiance": 0.0,
+            "source": "keywords_thematiques"
+        },
+        "echelle": {
+            "valeur": [
+                "communale"
+            ],
+            "score": 2,
+            "confiance": 0.25,
+            "source": "keywords_echelles"
+        },
+        "public_vise": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "porteur_initiative": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "territoire": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 6,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "description": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "contexte": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "problematique": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "solution_envisagee": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "objectifs": {
+            "valeur": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "source_site": {
+            "valeur": "VADA",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "nom_dossier"
+        }
+    }
+}

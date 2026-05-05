@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Carte séniors Tisséo",
+    "territoire": "Titre: Carte séniors Tisséo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/131-131-carte-seniors-tisseo-voyager-gratuitement-a-toulouse.pdf  ---  --- LA GRATUITÉ DES TRANSPORTS EN COMMUN Depuis 1972, les bénéficiaires de la Carte Seniors Tisséo peuvent se déplacer gratuitement sur l’en - semble du réseau de transport en commun de la ville de Toulouse.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Carte séniors Tisséo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/131-131-carte-seniors-tisseo-voyager-gratuitement-a-toulouse.pdf  ---  --- LA GRATUITÉ DES TRANSPORTS EN COMMUN Depuis 1972, les bénéficiaires de la Carte Seniors Tisséo peuvent se déplacer gratuitement sur l’en - semble du réseau de transport en commun de la ville de Toulouse.",
+    "description": {
+        "description_generale": "Ils existent plusieurs points de distribution: le Point Info Seniors, les mairies annexes et la Maison de l a Citoyenneté.",
+        "contexte": "Ils existent plusieurs points de distribution: le Point Info Seniors, les mairies annexes et la Maison de l a Citoyenneté.",
+        "problematique": "Ils existent plusieurs points de distribution: le Point Info Seniors, les mairies annexes et la Maison de l a Citoyenneté.",
+        "solution_envisagee": "Enfin, la Carte Seniors Tisséo permet des simplifications administratives: extension de la carte pour les abonnements à Vélo Toulouse, entrées au Museum etc.",
+        "objectifs": "L’accès gratuit pour les seniors de plus de 65 ans à l’ensemble du réseau de\ntransport en commun de la ville de Toulouse.\nPRATIQUE\nCréer un partenariat entre la ville et les services de\ntransports urbains.\nCoût: 500 000€ par an (prise en charge de 10€ par\npersonne de cotisation annuelle et frais annexes: support de la carte, étui\nde protection, frais de gestion...)\nTOULOUSE\nVille Amie des Aînés depuis 01-2015\nToulouse (31)\nFiche publiée le 31/03/2015\nTRANSPORTS ET MOBILITÉ\nwww.villesamiesdesaines-rf.fr\nCULTURE ET LOISIRS\nAPPEL À CONTRIBUTION\nSi, comme T oulouse, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com"
+    },
+    "porteur_initiative": "Ils existent plusieurs points de distribution: le Point Info Seniors, les mairies annexes et la Maison de l a Citoyenneté.",
+    "date": [
+        "31/03/2015",
+        "2025",
+        "1972",
+        "2015",
+        "Depuis 1972"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_seniors_Tisseo.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Carte_seniors_Tisseo.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

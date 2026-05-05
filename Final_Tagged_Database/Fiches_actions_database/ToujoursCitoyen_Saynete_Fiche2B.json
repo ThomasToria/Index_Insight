@@ -1,0 +1,36 @@
+{
+    "titre": "---  ---",
+    "territoire": "Il reste au milieu de la rue car il n’y a pas de possibilité de place de stationnement dédiée à proximité.] - Animatrice [au volant]: o « Nous voilà arrivées au théâtre, Mesdames!",
+    "echelle": [],
+    "public_vise": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B.",
+    "description": {
+        "description_generale": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B.",
+        "contexte": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B.",
+        "problematique": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B.",
+        "solution_envisagee": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B.",
+        "objectifs": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B."
+    },
+    "porteur_initiative": "Mais comment? »: ateliers de design citoyen – Pays de Mormal 1 Saynete en appui à la fiche -action n°2B.",
+    "date": [],
+    "thematique": [
+        "mobilité"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\ToujoursCitoyen_Saynete_Fiche2B.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\ToujoursCitoyen_Saynete_Fiche2B.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.0,
+        "public_vise": 0.25,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

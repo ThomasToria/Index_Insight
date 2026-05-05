@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Philémon",
+    "territoire": "Titre: Philémon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/686-pe-37-philemon-angers-2.pdf  ---  --- PHILÉMON ACCOMPAGNER ET ADAPTER POUR LE MAINTIEN A DOMICILE Face au constat d'une volonté de vieillir à domicile, la SOCLOVA (Société Economie Mixte de Construction et de Gestion de Logements de la Ville d'Angers) défend une approche préventive du vieillissement en déployant de nouveaux services dans sa réponse aux enjeux du \"bien vieillir\" à domicile.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "PRÉSERVER L'IDENTITÉ D'UN \"CHEZ SOI\" GRACE A DE MULTIPLES AIDES Facilitant le maintien à domicile, Philémon a pour objectif d’offrir des prestations se rapprochant de celles proposées à des résidents en EHPAD, avec un accompagnement permanent des personnes âgées en perte d’autonomie et de leurs aidants, à tout moment de la semaine.",
+    "description": {
+        "description_generale": "Philémon s'inscrit dans une expérimentation du dispositif d'accompagnement renforcé à domicile et vient renforcer le plan d'aides humaines et de soins.",
+        "contexte": "Titre: Philémon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/686-pe-37-philemon-angers-2.pdf  ---  --- PHILÉMON ACCOMPAGNER ET ADAPTER POUR LE MAINTIEN A DOMICILE Face au constat d'une volonté de vieillir à domicile, la SOCLOVA (Société Economie Mixte de Construction et de Gestion de Logements de la Ville d'Angers) défend une approche préventive du vieillissement en déployant de nouveaux services dans sa réponse aux enjeux du \"bien vieillir\" à domicile.",
+        "problematique": "Titre: Philémon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/686-pe-37-philemon-angers-2.pdf  ---  --- PHILÉMON ACCOMPAGNER ET ADAPTER POUR LE MAINTIEN A DOMICILE Face au constat d'une volonté de vieillir à domicile, la SOCLOVA (Société Economie Mixte de Construction et de Gestion de Logements de la Ville d'Angers) défend une approche préventive du vieillissement en déployant de nouveaux services dans sa réponse aux enjeux du \"bien vieillir\" à domicile.",
+        "solution_envisagee": "L'équipe pluridisciplinaire \"CENTICH SPASAD\" avec le CHU évaluent les situations pour proposer des solutions, le CENTICH et la SOCLOVA adaptent le logement et compensent la perte d'autonomie (accessibilité, domotique, système intelligent), la Maison départementale de l'autonomie met à jour le plan d'aide, CENTICH et SPASAD mettent en œuvre et coordonnent le plan d'aide et l'accès aux services (transports, rééducation), les EHPAD proposent le droit au répit, l’hébergement d'urgence, la restauration et l’animation.",
+        "objectifs": "Favoriser le maintien à domicile des personnes âgées en adaptant le logement (accessibilité, domotique, téléassistance...) et en offrant une palette de services à domicile, en veillant à la sécurité, la qualité et la permanence de l’accompagnement, afin de retarder ou d’éviter l’entrée en établissement (EHPAD et hôpital)."
+    },
+    "porteur_initiative": "Si, comme la société de SOCLOVA, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2012",
+        "2021",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Philemon.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Philemon.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

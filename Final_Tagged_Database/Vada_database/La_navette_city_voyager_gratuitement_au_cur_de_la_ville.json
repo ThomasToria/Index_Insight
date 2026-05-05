@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: La navette city, voyager gratuitement au cœur de la ville",
+    "territoire": "UNE NAVETTE PENSÉE POUR RÉPONDRE AUX ATTENTES Les arrêts de City se trouvent près des places, des commerces, des administrations (Préfec - ture, Conseil Régional, Hôtel de Ville, CPAM, La Poste...) et des lieux culturels (musées, biblio - thèque, théâtre...).",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Très fréquentée par les personnes âgées, City l’est aussi par les personnes LA NAVETTE CITY, VOYAGER GRATUITEMENT AU CŒUR DE LA VILLE OBJECTIFS Favoriser la mobilité des âgés et de tous les habitants avec un accès gratuit à une navette parcourant le centre-ville.",
+    "description": {
+        "description_generale": "Titre: La navette city, voyager gratuitement au cœur de la ville Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/152-152-diviacity.pdf  ---  --- UN SOUTIEN GRATUIT A LA MOBILITE Le réseau de transports en commun Divia desservant la ville de Dijon et son agglomération met à dispo - sition de tous une navette gratuite complémentaire au réseau.",
+        "contexte": "Titre: La navette city, voyager gratuitement au cœur de la ville Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/152-152-diviacity.pdf  ---  --- UN SOUTIEN GRATUIT A LA MOBILITE Le réseau de transports en commun Divia desservant la ville de Dijon et son agglomération met à dispo - sition de tous une navette gratuite complémentaire au réseau.",
+        "problematique": "Ayant à cœur de permettre aux dijonnais de tout âge de se déplacer sans difficulté, Divia a mis en place il y a une dizaine d’années la navette City.",
+        "solution_envisagee": "Cette fréquence permet de ne pas générer d’anxiété à l’idée de rater la navette, notamment pour les personnes âgées qui n’ ont pas à anticiper leur voyage.",
+        "objectifs": "Favoriser la mobilité des âgés et de tous les habitants\navec un accès gratuit à une navette parcourant le\ncentre-ville.\nPRATIQUE\nDisposer de minibus adaptés aux personnes à\nmobilité réduite. Dé¿nir un tracé reliant les principaux\nlieux du centre-ville.\nCoût: 1 million d’euros\nGRAND DIJON\nDijon (21)\nFiche publiée le 24/04/2015\nTRANSPORTS ET MOBILITÉ\nwww.villesamiesdesaines-rf.fr\n---  ---\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nAPPEL À CONTRIBUTION\nwww.villesamiesdesaines-rf.fr\nde tout âge. Jeunes mamans et leurs enfants, adoles -\ncents, personnes chargées de sacs de courses, touri stes,\ntous peuvent profiter de la navette pour se déplace r d’un\nbout à l’autre du centre-ville.\nUNE NAVETTE PENSÉE POUR RÉPONDRE\nAUX ATTENTES\nLes arrêts de City se trouvent près des places,\ndes commerces, des administrations (Préfec -\nture, Conseil Régional, Hôtel de Ville, CPAM,\nLa Poste...) et des lieux culturels (musées, biblio -\nthèque, théâtre...). Ces nombreuses dessertes en -\ncouragent les personnes âgées à sortir et à s’y ren dre\nplus régulièrement et de façon autonome. Les arrêts\nsont signalés par un panneau représentant le logo\nCity et par un marquage au sol. De même les ar -\nrêts sont sur de courtes distances, environ tous\nles 250 mètres (voire 150 à 200m sur les rues les\nplus commerçantes). Sortir n’ est plus synonyme de\nfatigue pour les aînés, la navette passe forcément\nprès de soi et de la destination désirée.\nTRANSPORTS ET MOBILITÉ"
+    },
+    "porteur_initiative": "Titre: La navette city, voyager gratuitement au cœur de la ville Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/152-152-diviacity.pdf  ---  --- UN SOUTIEN GRATUIT A LA MOBILITE Le réseau de transports en commun Divia desservant la ville de Dijon et son agglomération met à dispo - sition de tous une navette gratuite complémentaire au réseau.",
+    "date": [
+        "24/04/2015",
+        "2025",
+        "2014",
+        "2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_city_voyager_gratuitement_au_cur_de_la_ville.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_navette_city_voyager_gratuitement_au_cur_de_la_ville.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Le café solidaire d'Allo Sébastien",
+    "territoire": "Titre: Le café solidaire d'Allo Sébastien Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/800-concours2022-22-allo-sebastien.pdf  ---  --- ALLO SÉBASTIEN, UNE ASSOCIATION DE QUARTIER La ville de Saint Sébastien s'urbanise de plus en plus et les liens sociaux se distendent entre les habitants.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "BILAN DE L'ACTION Au delà de l'aide apportée aux personnes âgées, ce sont des temps de répit offerts aux aidants.",
+    "description": {
+        "description_generale": "Si, comme Allo Sébastien, vous avez mis en place de s projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Le café solidaire d'Allo Sébastien Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/800-concours2022-22-allo-sebastien.pdf  ---  --- ALLO SÉBASTIEN, UNE ASSOCIATION DE QUARTIER La ville de Saint Sébastien s'urbanise de plus en plus et les liens sociaux se distendent entre les habitants.",
+        "problematique": "Allo Sébastien s’engage à lutter contre l’isolement et à encourager les interactions sociales.",
+        "solution_envisagee": "Ainsi en 2022 ils vont proposer un atelier autour du dessin avec la co- construction d'une fresque inspirée de l'artiste Arthur Simony dans l'esprit des mandalas dans le but de développer la créativité des participants.",
+        "objectifs": "Allo Sébastien s'est donc créé dans le but de développer l’entraide intergénérationnelle de proximité dans un esprit de réciprocité solidaire."
+    },
+    "porteur_initiative": "Titre: Le café solidaire d'Allo Sébastien Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/800-concours2022-22-allo-sebastien.pdf  ---  --- ALLO SÉBASTIEN, UNE ASSOCIATION DE QUARTIER La ville de Saint Sébastien s'urbanise de plus en plus et les liens sociaux se distendent entre les habitants.",
+    "date": [
+        "2025",
+        "2016",
+        "2022",
+        "depuis 2016",
+        "en 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cafe_solidaire_dAllo_Sebastien.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_cafe_solidaire_dAllo_Sebastien.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

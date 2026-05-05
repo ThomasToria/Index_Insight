@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Et si on sortait à la filature?",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/875-pe-et-si-on-sortait-a-la-filature.pdf  ---  --- RENOUER AVEC LES SORTIES CULTURELLES Sortir seul le soir, aller seul au spectacle, payer une place de concert.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Pour les lever et permettre à des seniors isolés de renouer avec la vie culturelle, la ville de Mulhouse, en partenariat avec la Filature scène nationale, a inventé le dispositif \"Et si on sortait à la Filature?\".",
+    "description": {
+        "description_generale": "UN PARTENARIAT HISTORIQUE Les 3 porteurs de projet sont la ville de Mulhouse “service initiatives et actions jeunesse”, le CCAS de la ville de Mulhouse et la Filature scène nationale.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/875-pe-et-si-on-sortait-a-la-filature.pdf  ---  --- RENOUER AVEC LES SORTIES CULTURELLES Sortir seul le soir, aller seul au spectacle, payer une place de concert.",
+        "problematique": "Les freins à la participation culturelle sont nombreux lorsque l'on est âgé et isolé.",
+        "solution_envisagee": "Cette action est itérative: en début de saison, la Filature scène nationale propose un cycle de spectacle que la Ville propose alors à un partenaire de terrain.",
+        "objectifs": "Des binômes sont constitués avec un jeune et un senior afin de renforcer le dialogue entre les différentes générations."
+    },
+    "porteur_initiative": "UN PARTENARIAT HISTORIQUE Les 3 porteurs de projet sont la ville de Mulhouse “service initiatives et actions jeunesse”, le CCAS de la ville de Mulhouse et la Filature scène nationale.",
+    "date": [
+        "2025",
+        "2015",
+        "2023",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_sortait_a_la_filature.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Et_si_on_sortait_a_la_filature.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

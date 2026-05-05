@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: La mobilité se réinvente à Saint-Sébastien-sur-Loire",
+    "territoire": "Titre: La mobilité se réinvente à Saint-Sébastien-sur-Loire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/750-pe592-la-mobilite-se-reinvente-a-saint-sebastien-sur-loire.pdf  ---  --- UN PROJET ISSU DE LA VOLONTÉ DES SÉNIORS Le diagnostic réalisé, dans le cadre de la démarche Villes Amies des Aînés, a mis en évidence le besoin de mobilité des seniors Sébastiennais.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Le réseau de transport en commun de Nantes Métropole et les entreprises privées ne répondent pas toujours aux attentes des personnes âgées: la difficulté de monter et descendre du bus, le mode de conduite, l’insécurité, le coût, etc.",
+    "description": {
+        "description_generale": "Ils ont travaillé autour de ces difficultés de mobilité et ont créé un projet: le point mobilité.",
+        "contexte": "Moyens humains: 2 chauffeurs + 1 agent d'accueil senior pour la gestion des plannings (0,5 équivalent temps plein)  ---  --- LE POINT MOBILITÉ EST ALLÉ PLUS LOIN A plusieurs reprises des personnes utilisant le transport solidaire ont témoigné qu’elles n’arrivaient plus à s’intégrer aux activités proposées par les associations: gym douce, marche, sophrologie… Face à ces besoins et au constat de l’impact du confinement sur les seniors, le point mobilité a proposé, à partir de l’été 2020, des promenades en petits groupes accompagnées par une animatrice senior et un bénévole.",
+        "problematique": "Le réseau de transport en commun de Nantes Métropole et les entreprises privées ne répondent pas toujours aux attentes des personnes âgées: la difficulté de monter et descendre du bus, le mode de conduite, l’insécurité, le coût, etc.",
+        "solution_envisagee": "LA MOBILITÉ SE RÉINVENTE À SAINT-SÉBASTIEN-SUR-LOIR E Fiche PARTAGE D'EXPÉRIENCE N°617 Villes Amies des Aînés en France Saint-Sébastien-Sur-Loire (44) Ville Amie des Aînés depuis octobre 2016 Fiche publiée le xx/xx/xxxx Permettre des déplacements pour développer les liens sociaux, accéder aux loisirs et au bien-être Inciter les seniors en perte de mobilité à sortir de chez eux et leur proposer des moyens de déplacements adaptés Prévenir l'isolement Maintenir le sentiment d'appartenance à la collectivité Le minibus du Point Mobilité de Saint-Sébastien-Sur -Loire Achat d'un véhicule et d'un fauteuil roulant Frais de fonctionnement liés aux véhicules: assurance, entretien, réparations, etc.",
+        "objectifs": "LA MOBILITÉ SE RÉINVENTE À SAINT-SÉBASTIEN-SUR-LOIR E Fiche PARTAGE D'EXPÉRIENCE N°617 Villes Amies des Aînés en France Saint-Sébastien-Sur-Loire (44) Ville Amie des Aînés depuis octobre 2016 Fiche publiée le xx/xx/xxxx Permettre des déplacements pour développer les liens sociaux, accéder aux loisirs et au bien-être Inciter les seniors en perte de mobilité à sortir de chez eux et leur proposer des moyens de déplacements adaptés Prévenir l'isolement Maintenir le sentiment d'appartenance à la collectivité Le minibus du Point Mobilité de Saint-Sébastien-Sur -Loire Achat d'un véhicule et d'un fauteuil roulant Frais de fonctionnement liés aux véhicules: assurance, entretien, réparations, etc."
+    },
+    "porteur_initiative": "Le réseau de transport en commun de Nantes Métropole et les entreprises privées ne répondent pas toujours aux attentes des personnes âgées: la difficulté de monter et descendre du bus, le mode de conduite, l’insécurité, le coût, etc.",
+    "date": [
+        "octobre",
+        "mars 2022",
+        "octobre 2016",
+        "2025",
+        "2016",
+        "2020",
+        "2021",
+        "2022",
+        "en 2021",
+        "en"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_mobilite_se_reinvente_a_Saint-Sebastien-sur-Loire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_mobilite_se_reinvente_a_Saint-Sebastien-sur-Loire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

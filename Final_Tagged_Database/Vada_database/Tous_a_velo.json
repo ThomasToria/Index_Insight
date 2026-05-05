@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Tous à vélo",
+    "territoire": "Titre: Tous à vélo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/896-concours-2023-tous-a-velo.pdf  ---  --- UNE DEMANDE DES SENIORS Les associations sportives font le constat qu’en sortie de crise sanitaire, les seniors ne sont pas tous revenus vers eux.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Tous à vélo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/896-concours-2023-tous-a-velo.pdf  ---  --- UNE DEMANDE DES SENIORS Les associations sportives font le constat qu’en sortie de crise sanitaire, les seniors ne sont pas tous revenus vers eux.",
+    "description": {
+        "description_generale": "Nous souhaitons également, en partenariat avec l'entreprise Néomouv, nous lancer vers un autre projet: l'achat d'un vélo cargo, ce qui permettrait à des personnes privées de mobilité de pouvoir goûter au plaisir du vélo.",
+        "contexte": "Titre: Tous à vélo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/896-concours-2023-tous-a-velo.pdf  ---  --- UNE DEMANDE DES SENIORS Les associations sportives font le constat qu’en sortie de crise sanitaire, les seniors ne sont pas tous revenus vers eux.",
+        "problematique": "Titre: Tous à vélo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/896-concours-2023-tous-a-velo.pdf  ---  --- UNE DEMANDE DES SENIORS Les associations sportives font le constat qu’en sortie de crise sanitaire, les seniors ne sont pas tous revenus vers eux.",
+        "solution_envisagee": "Un balade inter génération a été mise en place avec un groupe d'enfants de l'accueil de loisirs sur la commune.",
+        "objectifs": "Nous souhaitons développer ces temps de découverte d'une activité physique et faire prendre conscience que l'activité physique peut être vécue autrement qu'une contrainte."
+    },
+    "porteur_initiative": "Titre: Tous à vélo Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/896-concours-2023-tous-a-velo.pdf  ---  --- UNE DEMANDE DES SENIORS Les associations sportives font le constat qu’en sortie de crise sanitaire, les seniors ne sont pas tous revenus vers eux.",
+    "date": [
+        "mai 2023",
+        "2025",
+        "2023",
+        "2021",
+        "2024",
+        "depuis 2021",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tous_a_velo.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tous_a_velo.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

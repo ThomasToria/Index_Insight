@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Projet artistique, inclusif et participatif: Ma montagne",
+    "territoire": "Titre: Projet artistique, inclusif et participatif: Ma montagne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/757-pe624-projet-artistique-ma-montagne-ville-de-libourne.pdf  ---  --- UN SPECTACLE DE RUE ORIGINAL ET GRATUIT Le service Culture de la Ville de Libourne, dans le cadre du festival des arts de la rue 2021, Fest’arts, a présenté « Ma Montagne », un spectacle de rue original et gratuit, sur le thème des handicaps.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Le spectacle est chorégraphié et créé à partir de témoignages qui sont collectés auprès de personnes âgées, de personnes en situation d’handicap, physique ou mental, de tous âges ainsi que leurs familles, aidants, soignants… La compagnie « La Baleine Cargo » explore avec gaieté et amusement, le regard porté sur les handicaps, l’avancée dans l’âge.",
+    "description": {
+        "description_generale": "Projet artistique, inclusif et participatif: Ma mo ntagne Fiche PARTAGE D'EXPÉRIENCE N°624 Villes Amies des Aînés en France Offrir un spectacle de rue pour le public.",
+        "contexte": "Au fil du récit, les comédiens découvrent leurs propres montagnes et s’aperçoivent que la rencontre est avant tout une histoire humaine, d’expériences vécues, peu importe le contexte.",
+        "problematique": "D'autre part, les comédiens se rencontrent et le récit s’installe: l’attente d’un enfant.",
+        "solution_envisagee": "D'autre part, les comédiens se rencontrent et le récit s’installe: l’attente d’un enfant.",
+        "objectifs": "Favoriser la mixité sociale et l'intergénérationnel Créer un spectacle avec des personnes âgées vivant en Résidence Autonomie, des jeunes de l’IME de Lussac et des adultes de la Miséricorde et du Groupement D’Entraide Mutuelle (GEM)."
+    },
+    "porteur_initiative": "D'autre part, les comédiens se rencontrent et le récit s’installe: l’attente d’un enfant.",
+    "date": [
+        "2025",
+        "2021",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_artistique_inclusif_et_participatif_Ma_montagne.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_artistique_inclusif_et_participatif_Ma_montagne.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "titre": "« À plus dans le bus »! A la rencontre des personnes âgées en milieu rural",
+    "territoire": "Pour faire émerger de telles initiatives sur les territoires ruraux, la Fondation de France Région Nord organise régulièrement des réunions pour aller à la rencontre des porteurs de projets et leur présenter les programmes de la Fondation de France: Laon (02), Saint-Quentin (02), Avesnes-sur-Helpe (59), et dernièrement Charleville-Mézières (08) » POUR ALLER PLUS LOIN → Découvrez le programme Personnes âgées → Retrouvez toutes les actualités de la Fondation de France région Nord Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "A la rencontre des personnes âgées en milieu rural  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/a-plus-dans-le-bus-a-la-rencontre-des-personnes-agees-en-milieu-rural  Qui sommes-nous?",
+    "description": {
+        "description_generale": "Pour faire émerger de telles initiatives sur les territoires ruraux, la Fondation de France Région Nord organise régulièrement des réunions pour aller à la rencontre des porteurs de projets et leur présenter les programmes de la Fondation de France: Laon (02), Saint-Quentin (02), Avesnes-sur-Helpe (59), et dernièrement Charleville-Mézières (08) » POUR ALLER PLUS LOIN → Découvrez le programme Personnes âgées → Retrouvez toutes les actualités de la Fondation de France région Nord Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Et en milieu rural, où les problèmes de mobilité sont importants, ce sentiment d’isolement peut être accentué.",
+        "solution_envisagee": "Pendant tout le mois de juillet au volant d’un \"food truck\" et accompagnée d’une petite équipe de bénévoles, Céline, animatrice, est allée à la rencontre des personnes âgées isolées résidant sur cinq communes de l’Argonne Ardennais pour leur proposer des activités le temps d’un après-midi.",
+        "objectifs": "L'objectif? \" Partager un moment convivial, créer du lien et rompre l’isolement en participant à des activités intergénérationnelles\", précise l’animatrice."
+    },
+    "porteur_initiative": "Pour faire émerger de telles initiatives sur les territoires ruraux, la Fondation de France Région Nord organise régulièrement des réunions pour aller à la rencontre des porteurs de projets et leur présenter les programmes de la Fondation de France: Laon (02), Saint-Quentin (02), Avesnes-sur-Helpe (59), et dernièrement Charleville-Mézières (08) » POUR ALLER PLUS LOIN → Découvrez le programme Personnes âgées → Retrouvez toutes les actualités de la Fondation de France région Nord Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: Politique envers les personnes âgées de la direction habitat social à Rennes",
+    "territoire": "Titre: Politique envers les personnes âgées de la direction habitat social à Rennes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/838-concours-2022-64-politique-de-l-habitat-social-a-rennes.pdf  ---  --- RENNES, VILLE AMIE DES AÎNÉS Dans le cadre de sa démarche Ville Amie Des Aînés et sa politique globale liée à l'Habitat, la ville de Rennes et Rennes Métropole développent une prise en compte des besoins spécifiques des personnes âgées souhaitant effectuer une demande de logement social plus adapté à leur vieillissement.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Politique envers les personnes âgées de la direction habitat social à Rennes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/838-concours-2022-64-politique-de-l-habitat-social-a-rennes.pdf  ---  --- RENNES, VILLE AMIE DES AÎNÉS Dans le cadre de sa démarche Ville Amie Des Aînés et sa politique globale liée à l'Habitat, la ville de Rennes et Rennes Métropole développent une prise en compte des besoins spécifiques des personnes âgées souhaitant effectuer une demande de logement social plus adapté à leur vieillissement.",
+    "description": {
+        "description_generale": "En 2021, 18 personnes ont intégré le dispositif; 34 en 2020 et 20 en 2019.",
+        "contexte": "La Direction Habitat Social a fait le constat que davantage de personnes âgées font la demande d'un logement social en comparaison du nombre de personnes âgées avant la mise en place de ce dispositif.",
+        "problematique": "Aujourd'hui, Rennes Métropole prévoit de renforcer son action en faveur de l'habitat favorable au vieillissement dans son futur Plan Local de l'Habitat 2023-2028 au vu des enjeux démographiques sur le territoire.",
+        "solution_envisagee": "La Direction Habitat Social a fait le constat que davantage de personnes âgées font la demande d'un logement social en comparaison du nombre de personnes âgées avant la mise en place de ce dispositif.",
+        "objectifs": "Un demandeur ayant moins de 60 ans doit sélectionner 10 quartiers dans sa demande tandis qu'un demandeur âgé de plus de 60 ans peut ne cibler que son quartier d'habitation pour lui permettre de rester dans un secteur qu'il connait et ne pas perturber ses repères géographiques."
+    },
+    "porteur_initiative": "Titre: Politique envers les personnes âgées de la direction habitat social à Rennes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/838-concours-2022-64-politique-de-l-habitat-social-a-rennes.pdf  ---  --- RENNES, VILLE AMIE DES AÎNÉS Dans le cadre de sa démarche Ville Amie Des Aînés et sa politique globale liée à l'Habitat, la ville de Rennes et Rennes Métropole développent une prise en compte des besoins spécifiques des personnes âgées souhaitant effectuer une demande de logement social plus adapté à leur vieillissement.",
+    "date": [
+        "2025",
+        "2022",
+        "2016",
+        "2021",
+        "2020",
+        "2019",
+        "2023",
+        "2028",
+        "2012",
+        "depuis 2016",
+        "depuis 2012",
+        "En 2021",
+        "en 2020",
+        "en 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

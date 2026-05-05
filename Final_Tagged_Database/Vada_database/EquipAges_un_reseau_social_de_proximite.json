@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: EquipAges, un réseau social de proximité",
+    "territoire": "Titre: EquipAges, un réseau social de proximité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/270-pe-participation-citoyenne-equipages-mise-en-forme-2023.pdf  ---  --- UN PROJET PARTICIPATIF En mai 2014, lors de l’Assemblée Générale du centre social Saint Just, les habitants retraités ont exprimé leur souhait d’avoir leur place au centre social.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Dès décembre 2015, le centre social a fait le choix d’agrandir ses locaux pour créer une adresse dédiée à ce projet seniors et intergénérationnel qui prend dès lors le nom “EquipAges”, suite à la décision et au vote des habitants venus rejoindre le projet.",
+    "description": {
+        "description_generale": "Titre: EquipAges, un réseau social de proximité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/270-pe-participation-citoyenne-equipages-mise-en-forme-2023.pdf  ---  --- UN PROJET PARTICIPATIF En mai 2014, lors de l’Assemblée Générale du centre social Saint Just, les habitants retraités ont exprimé leur souhait d’avoir leur place au centre social.",
+        "contexte": "Titre: EquipAges, un réseau social de proximité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/270-pe-participation-citoyenne-equipages-mise-en-forme-2023.pdf  ---  --- UN PROJET PARTICIPATIF En mai 2014, lors de l’Assemblée Générale du centre social Saint Just, les habitants retraités ont exprimé leur souhait d’avoir leur place au centre social.",
+        "problematique": "Les activités étant laissées à l’initiative des habitants, les seniors peuvent partager leurs intérêts (rando, conférence débat, exposition, jeux, lecture, bricolage, table d’hôtes) ou faire part de leurs besoins, comme celui d’organiser des ateliers numériques, qui seront proposés à partir d’octobre 2016.",
+        "solution_envisagee": "Proposer des activités en fonction des propositions des habitants.",
+        "objectifs": "Dans ce lieu, les objectifs sont multiples: réserver des moments pour des activités intergénérationnelles, mettre en valeur celles qui existent déjà, en créer de nouvelles, accueillir des jeunes mamans, créer un réseau d’échanges de pratiques entre parents et éducateurs, organiser des ateliers numériques avec des lycéens, des moments partagés avec les enfants de la crèche et du centre de loisirs, des après-midis jeux en famille."
+    },
+    "porteur_initiative": "Les activités étant laissées à l’initiative des habitants, les seniors peuvent partager leurs intérêts (rando, conférence débat, exposition, jeux, lecture, bricolage, table d’hôtes) ou faire part de leurs besoins, comme celui d’organiser des ateliers numériques, qui seront proposés à partir d’octobre 2016.",
+    "date": [
+        "2 avril 2016",
+        "mai 2014",
+        "mai 2015",
+        "décembre 2015",
+        "août 2016",
+        "avril 2016",
+        "octobre 2016",
+        "16/11/2016",
+        "2025",
+        "2023",
+        "2014",
+        "2015",
+        "2016",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\EquipAges_un_reseau_social_de_proximite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\EquipAges_un_reseau_social_de_proximite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

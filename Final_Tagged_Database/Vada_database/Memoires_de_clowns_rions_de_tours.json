@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Mémoire(s) de clowns, rions de tours",
+    "territoire": "Titre: Mémoire(s) de clowns, rions de tours Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/949-concours-2023-memoire-s-de-clowns-rions-de-tours-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LES OISEAUX DE PASSAGE A l‘occasion de la semaine sur l'art organisée à l'EHPAD du CCAS, la Cie les Oiseaux de Passage a joué un spectacle déambulatoire d'improvisations clownesques à l'attention de ses résidents.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Un temps fort final, prenant la forme d‘un cabaret, Mémoire(s) de Clowns, le cabaret des Trois Rivières, ouvert aux familles et résidents, aux soignants, au personnel du site et aux collaborateurs du projet.  ---  --- DÉCOUVRIR UNE HISTOIRE, UNE PERSONNALITÉ, UN UNIVERS Deux anciennes gloires fantasques du music hall rêvent de monter un cabaret pour briller à nouveau.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Tours, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Au croisement d‘une démarche ascendante reposant sur les besoins déclarés par les Aînés et d’une démarche descendante par le biais des observations des élus, des équipes médico- sociales et de la direction, un constat émerge quant à la perte d'estime, de confiance en soi et de joie de vivre de nombreux résidents: ce qui influe fortement sur leur santé et sur la prise en charge globale de celle-ci.",
+        "problematique": "La crise sanitaire n'a fait qu’accentuer ces difficultés, renforçant un sentiment de solitude et d’isolement.",
+        "solution_envisagee": "Suite à cette journée, la direction et l'équipe d'animation ont exprimé le souhait que ces rencontres soient renouvelées et que la Cie Les Oiseaux de Passage propose également des rencontres plus régulières, axées sur une dimension thérapeutique.",
+        "objectifs": "Développer le propos artistique pour une plus grande implication des résidents et des soignants dans l’imaginaire proposé avec la pratique du jeu interactif et l’utilisation des codes de l'improvisation théâtrale, de l’écriture collective et avec l'appui des différents arts du spectacle (répertoires de théâtre, musique, chant, poésie, danse et de la dramaturgie du clown)."
+    },
+    "porteur_initiative": "Au croisement d‘une démarche ascendante reposant sur les besoins déclarés par les Aînés et d’une démarche descendante par le biais des observations des élus, des équipes médico- sociales et de la direction, un constat émerge quant à la perte d'estime, de confiance en soi et de joie de vivre de nombreux résidents: ce qui influe fortement sur leur santé et sur la prise en charge globale de celle-ci.",
+    "date": [
+        "2025",
+        "2023",
+        "2019",
+        "2024",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoires_de_clowns_rions_de_tours.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Memoires_de_clowns_rions_de_tours.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

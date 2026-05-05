@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Remise en mouvement",
+    "territoire": "Titre: Remise en mouvement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1055-concours-2024-remise-en-mouvement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°3-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS RECONNECTER LES SENIORS AVEC L'ACTIVITÉ PHYSIQUE Dans un contexte démographique, où le vieillissement de la population s’accélère, la commune de Châtillon a souhaité que la Maison des seniors propose aux personnes âgées la possibilité d'entrer dans un schéma de parcours complets de soins et de prévention.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Remise en mouvement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1055-concours-2024-remise-en-mouvement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°3-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS RECONNECTER LES SENIORS AVEC L'ACTIVITÉ PHYSIQUE Dans un contexte démographique, où le vieillissement de la population s’accélère, la commune de Châtillon a souhaité que la Maison des seniors propose aux personnes âgées la possibilité d'entrer dans un schéma de parcours complets de soins et de prévention.",
+    "description": {
+        "description_generale": "Ce projet permet de travailler le renforcement musculaire et d'encourager à la pratique d'une activité physique régulière dans un cadre convivial, qui favorise également le lien social.",
+        "contexte": "Titre: Remise en mouvement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1055-concours-2024-remise-en-mouvement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°3-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS RECONNECTER LES SENIORS AVEC L'ACTIVITÉ PHYSIQUE Dans un contexte démographique, où le vieillissement de la population s’accélère, la commune de Châtillon a souhaité que la Maison des seniors propose aux personnes âgées la possibilité d'entrer dans un schéma de parcours complets de soins et de prévention.",
+        "problematique": "Titre: Remise en mouvement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1055-concours-2024-remise-en-mouvement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°3-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS RECONNECTER LES SENIORS AVEC L'ACTIVITÉ PHYSIQUE Dans un contexte démographique, où le vieillissement de la population s’accélère, la commune de Châtillon a souhaité que la Maison des seniors propose aux personnes âgées la possibilité d'entrer dans un schéma de parcours complets de soins et de prévention.",
+        "solution_envisagee": "Titre: Remise en mouvement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1055-concours-2024-remise-en-mouvement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°3-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS RECONNECTER LES SENIORS AVEC L'ACTIVITÉ PHYSIQUE Dans un contexte démographique, où le vieillissement de la population s’accélère, la commune de Châtillon a souhaité que la Maison des seniors propose aux personnes âgées la possibilité d'entrer dans un schéma de parcours complets de soins et de prévention.",
+        "objectifs": "C'est pourquoi, depuis septembre 2023, des cycles de six séances collectives de \"remise en mouvement \" sont dispensés par des kinésithérapeutes afin de maintenir l'autonomie et la mobilité des seniors."
+    },
+    "porteur_initiative": "Il est organisé par la maison des seniors.",
+    "date": [
+        "septembre 2023",
+        "2025",
+        "1055",
+        "2024",
+        "2023",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Remise_en_mouvement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Remise_en_mouvement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

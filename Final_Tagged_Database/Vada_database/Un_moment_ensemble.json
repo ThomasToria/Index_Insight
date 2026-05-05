@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Un moment ensemble",
+    "territoire": "Titre: Un moment ensemble Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/519-pe-un-moment-ensemble.pdf  ---  --- UN PROJET CULTUREL SOLIDAIRE “Un moment ensemble” est un dispositif gratuit, mis en place directement au domicile de personnes âgées volontaires.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Budget global de l’action: 52 500 €  ---  --- UN BILAN POSITIF 25 représentations ont été organisées au domicile de personnes âgées de 85 à 100 ans, et deux représentations grand public ont été jouées dans des salles communes d’immeubles auprès de 250 spectateurs.",
+    "description": {
+        "description_generale": "La Compagnie a été sollicitée pour organiser des représentations dans les EHPAD et résidences autonomie. http://www.compagnie-kaleidoscope.com VALORISER LES SENIORS Cette action permet aux personnes âgées de prendre part à un projet culturel à vocation solidaire et intergénérationnelle.",
+        "contexte": "Constater une non participation de certains seniors aux activités en raison de problèmes de mobilité.",
+        "problematique": "UN MOMENT ENSEMBLE Fiche PARTAGE D'EXPÉRIENCE N°519 Villes Amies des Aînés en France Compagnie KaleidoScope Ville Amie des Aînés depuis 2016 Grenoble (38) Lutter contre l’isolement.",
+        "solution_envisagee": "Le temps du goûter permet de prolonger la magie créée lors de la représentation, tandis que l’interview permet aux personnes âgées de se raconter et d’en garder une trace.",
+        "objectifs": "Favoriser l’accès à la culture et aux loisirs pour tous, tout au long de la vie."
+    },
+    "porteur_initiative": "Bien que le coût financier ne soit pas supporté par l’hôte, il a la possibilité d’animer le projet en tant qu’accueillant et peut inviter les personnes de son choix pour partager ce moment.",
+    "date": [
+        "2025",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_moment_ensemble.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_moment_ensemble.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

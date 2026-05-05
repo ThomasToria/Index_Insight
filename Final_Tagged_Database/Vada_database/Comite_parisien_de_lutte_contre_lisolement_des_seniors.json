@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Comité parisien de lutte contre l'isolement des séniors",
+    "territoire": "Titre: Comité parisien de lutte contre l'isolement des séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/946-pe-comite-parisien-de-lutte-contre-l-isolement-des-seniors.pdf  ---  --- CRÉATION DU COMITÉ EN NOVEMBRE 2021 Plus de la moitié des séniors parisiens de 75 ans et plus vivent seuls.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Des associations représentant des personnes âgées et des bénéficiaires d'autres associations étaient quant à eux présents au comité.",
+    "description": {
+        "description_generale": "Le Comité a pu établir un plan d'actions en la matière comportant deux volets (Prévention et Restauration du lien social  ---  --- UN PROJET ENCORE EN COURS Le plan d'actions comporte deux volets: la prévention (repérage et facilitation de la prise en charge des personnes isolées, communication de proximité, et mobilisation des Services d'Aide et d'Accompagnement à Domicile ou SAAD). la restauration du lien social (association “Paris en Compagnie”, inclusion numérique, référent sénior).",
+        "contexte": "Dans ce contexte, la création du Comité parisien de lutte contre l'isolement en novembre 2021 a pour vocation de lutter contre ces situations.",
+        "problematique": "FAIRE ÉMERGER LES BESOINS ET LES POSSIBLES SOLUTIONS À APPORTER Le Comité parisien de lutte contre l'isolement s'est réuni à 3 reprises autour de divers ateliers organisés par groupes de travail thématiques afin d’identifier les problèmes, les solutions possibles, leurs leviers et leurs freins.",
+        "solution_envisagee": "FAIRE ÉMERGER LES BESOINS ET LES POSSIBLES SOLUTIONS À APPORTER Le Comité parisien de lutte contre l'isolement s'est réuni à 3 reprises autour de divers ateliers organisés par groupes de travail thématiques afin d’identifier les problèmes, les solutions possibles, leurs leviers et leurs freins.",
+        "objectifs": "Améliorer l'interconnaissance des différents acteurs et projets à l'échelle de tout Paris et des arrondissements."
+    },
+    "porteur_initiative": "Titre: Comité parisien de lutte contre l'isolement des séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/946-pe-comite-parisien-de-lutte-contre-l-isolement-des-seniors.pdf  ---  --- CRÉATION DU COMITÉ EN NOVEMBRE 2021 Plus de la moitié des séniors parisiens de 75 ans et plus vivent seuls.",
+    "date": [
+        "NOVEMBRE 2021",
+        "2025",
+        "2021",
+        "2022",
+        "2026",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Comite_parisien_de_lutte_contre_lisolement_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Comite_parisien_de_lutte_contre_lisolement_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

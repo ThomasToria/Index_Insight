@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: \"Le numérique se partage\"",
+    "territoire": "Titre: \"Le numérique se partage\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/723-pe591-200422-le-numerique-se-partage.pdf  ---  --- UN PARCOURS D'ACCOMPAGNEMENT DES SENIORS POUR L'USAGE NUMÉRIQUE La population seniors étant particulièrement touchée par l'exclusion numérique.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: \"Le numérique se partage\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/723-pe591-200422-le-numerique-se-partage.pdf  ---  --- UN PARCOURS D'ACCOMPAGNEMENT DES SENIORS POUR L'USAGE NUMÉRIQUE La population seniors étant particulièrement touchée par l'exclusion numérique.",
+    "description": {
+        "description_generale": "UN PROJET INTERGÉNÉRATIONNEL Le dispositif \"Le numérique se partage\" a donc été lancé le 26 mars 2021 par la direction des seniors, en partenariat avec la direction Jeunesse, la vie étudiante et associative.",
+        "contexte": "En effet, il a été constaté que les étudiants sont souvent absents à cause des changements réguliers de leurs emplois du temps.",
+        "problematique": "L'objectif du dispositif est de favoriser l’autonomie des seniors dans l'usage des nouvelles technologies et ainsi de lutter contre leur isolement social.",
+        "solution_envisagee": "Titre: \"Le numérique se partage\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/723-pe591-200422-le-numerique-se-partage.pdf  ---  --- UN PARCOURS D'ACCOMPAGNEMENT DES SENIORS POUR L'USAGE NUMÉRIQUE La population seniors étant particulièrement touchée par l'exclusion numérique.",
+        "objectifs": "Les objectifs de l'action ont été atteints: depuis le premier octobre 2020, huit ateliers d'une durée d'une heure trente par session (débutants et intermédiaire) sont dispensés dans les sept maisons des seniors de la ville de Nice."
+    },
+    "porteur_initiative": "Titre: \"Le numérique se partage\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/723-pe591-200422-le-numerique-se-partage.pdf  ---  --- UN PARCOURS D'ACCOMPAGNEMENT DES SENIORS POUR L'USAGE NUMÉRIQUE La population seniors étant particulièrement touchée par l'exclusion numérique.",
+    "date": [
+        "26 mars 2021",
+        "mars 2021",
+        "octobre 2020",
+        "novembre 2022",
+        "2025",
+        "2021",
+        "2015",
+        "2020",
+        "2022",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_numerique_se_partage.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_numerique_se_partage.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

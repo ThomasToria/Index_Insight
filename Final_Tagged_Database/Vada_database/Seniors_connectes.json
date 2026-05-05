@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Seniors connectés",
+    "territoire": "Titre: Seniors connectés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/848-pe-seniors-connectes.pdf  ---  --- L'ENJEU DU NUMÉRIQUE La transformation numérique de la société est un enjeu majeur, une véritable avancée sociétale, permettant de tisser des liens, de faire des rencontres, de partager des loisirs, et d’obtenir de l’aide.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Mais aussi le profil des seniors, le ressenti des usagers et des volontaires de l'association, ainsi que le degré de satisfaction.",
+    "description": {
+        "description_generale": "Organiser des ateliers intergénérationnels en partenariat avec Unis-Cité Prêter gratuitement et pour une durée limitée des tablettes numériques Etablir une convention entre la collectivité et le bénéficiaire pour définir les modalités de prêt  ---  --- DÉTAILS SUPPLÉMENTAIRES SUR L'ACTION Le pôle prévention santé et le référent numérique du CCAS s'occupent du suivi administratif et financier du projet, mais aussi de mobiliser le public, et de coordonner les différents partenaires.",
+        "contexte": "Titre: Seniors connectés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/848-pe-seniors-connectes.pdf  ---  --- L'ENJEU DU NUMÉRIQUE La transformation numérique de la société est un enjeu majeur, une véritable avancée sociétale, permettant de tisser des liens, de faire des rencontres, de partager des loisirs, et d’obtenir de l’aide.",
+        "problematique": "L’inclusion numérique des seniors est devenu un enjeu vital: le quotidien est de plus en plus rythmé par des procédures numériques, et c'est également un facteur aggravant de l’isolement social et familial.",
+        "solution_envisagee": "ATELIERS COLLECTIFS ET ACCOMPAGNEMENT INDIVIDUALISÉ Le projet « seniors connectés » consiste à proposer aux seniors belfortains une aide à l'accès aux équipements nécessaires, un accompagnement individualisé à domicile dans une démarche intergénérationnelle, et un accompagnement collectif sous la forme d'ateliers.",
+        "objectifs": "Il est impératif de combattre l'exclusion numérique des seniors, c'est pourquoi le CCAS de la ville de Belfort souhaite favoriser l’accès au numérique des seniors Belfortains à travers son projet « seniors connectés »."
+    },
+    "porteur_initiative": "Titre: Seniors connectés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/848-pe-seniors-connectes.pdf  ---  --- L'ENJEU DU NUMÉRIQUE La transformation numérique de la société est un enjeu majeur, une véritable avancée sociétale, permettant de tisser des liens, de faire des rencontres, de partager des loisirs, et d’obtenir de l’aide.",
+    "date": [
+        "décembre 2022",
+        "mai 2023",
+        "novembre 2023",
+        "2025",
+        "2018",
+        "2023",
+        "2022",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_connectes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Seniors_connectes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

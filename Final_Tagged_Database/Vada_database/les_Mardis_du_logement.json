@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: les Mardis du logement",
+    "territoire": "Titre: les Mardis du logement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/714-pe130422-des-mardis-du-logement-nice.pdf  ---  --- COMMUNIQUER AUTOUR DES QUESTIONS SUR L'HABITAT Le questionnement des seniors en matière d'habitat est courant mais leur éloignement du numérique est un frein à l'accessibilité des renseignements.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Le public visé concerne les seniors occupants, les copropriétaires, les propriétaires bailleurs ou locataires du parc social ou classique, désireux de s'informer sur les thématiques du logement.",
+    "description": {
+        "description_generale": "Si, comme la ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com SUITE DE L'ACTION Les objectifs ont été atteints mais il reste encore quatre conférences qui n'ont pas été réalisées.",
+        "contexte": "Titre: les Mardis du logement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/714-pe130422-des-mardis-du-logement-nice.pdf  ---  --- COMMUNIQUER AUTOUR DES QUESTIONS SUR L'HABITAT Le questionnement des seniors en matière d'habitat est courant mais leur éloignement du numérique est un frein à l'accessibilité des renseignements.",
+        "problematique": "ÉCHANGER SUR DES ENJEUX SOCIÉTAUX COMMUNS L'idée de ces conférences a émergé lors d'une réunion.",
+        "solution_envisagee": "Titre: les Mardis du logement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/714-pe130422-des-mardis-du-logement-nice.pdf  ---  --- COMMUNIQUER AUTOUR DES QUESTIONS SUR L'HABITAT Le questionnement des seniors en matière d'habitat est courant mais leur éloignement du numérique est un frein à l'accessibilité des renseignements.",
+        "objectifs": "Si, comme la ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com SUITE DE L'ACTION Les objectifs ont été atteints mais il reste encore quatre conférences qui n'ont pas été réalisées."
+    },
+    "porteur_initiative": "Titre: les Mardis du logement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/714-pe130422-des-mardis-du-logement-nice.pdf  ---  --- COMMUNIQUER AUTOUR DES QUESTIONS SUR L'HABITAT Le questionnement des seniors en matière d'habitat est courant mais leur éloignement du numérique est un frein à l'accessibilité des renseignements.",
+    "date": [
+        "2025",
+        "2015",
+        "2021",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\les_Mardis_du_logement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\les_Mardis_du_logement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

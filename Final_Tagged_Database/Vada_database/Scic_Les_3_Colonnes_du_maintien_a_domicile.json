@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Scic Les 3 Colonnes du maintien à domicile",
+    "territoire": "Titre: Scic Les 3 Colonnes du maintien à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/811-concours-2022-33-scic-les-3-colonnes-du-maintien-a-domicile.pdf  ---  --- LE VIAGER SOLIDAIRE OU L'INVERSE D'UN EHPAD Depuis 2013, la SCIC les 3 Colonnes du maintien au domicile a pour mission d’offrir aux personnes qui le souhaitent, les moyens financiers et sociaux qui leur permettront de créer sereinement leur maison de retraite à domicile.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Cette solution, soutenue par la Caisse des Dépôts et Consignations et plus de 7 000 partenaires, permet le maintien au domicile des personnes âgées grâce au Viager Solidaire: les bénéficiaires vendent leur logement en échange d'un accompagnement à domicile adapté à leur besoin.",
+    "description": {
+        "description_generale": "Aujourd'hui différentes banques soutiennent le projet: la Banque des territoires, la Caisse d'Epargne, la Banque Postale, La NEF mais aussi un grand nombre de particuliers.",
+        "contexte": "Cette solution, soutenue par la Caisse des Dépôts et Consignations et plus de 7 000 partenaires, permet le maintien au domicile des personnes âgées grâce au Viager Solidaire: les bénéficiaires vendent leur logement en échange d'un accompagnement à domicile adapté à leur besoin.",
+        "problematique": "Cette solution, soutenue par la Caisse des Dépôts et Consignations et plus de 7 000 partenaires, permet le maintien au domicile des personnes âgées grâce au Viager Solidaire: les bénéficiaires vendent leur logement en échange d'un accompagnement à domicile adapté à leur besoin.",
+        "solution_envisagee": "Cette solution, soutenue par la Caisse des Dépôts et Consignations et plus de 7 000 partenaires, permet le maintien au domicile des personnes âgées grâce au Viager Solidaire: les bénéficiaires vendent leur logement en échange d'un accompagnement à domicile adapté à leur besoin.",
+        "objectifs": "SUITE DE L'ACTION L'objectif de 2022 est de faire l'acquisition de 150 logements et d'ouvrir une antenne à Paris afin de garder la réactivité et la proximité entretenue avec les bénéficiaires du Rhône."
+    },
+    "porteur_initiative": "Cette solution, soutenue par la Caisse des Dépôts et Consignations et plus de 7 000 partenaires, permet le maintien au domicile des personnes âgées grâce au Viager Solidaire: les bénéficiaires vendent leur logement en échange d'un accompagnement à domicile adapté à leur besoin.",
+    "date": [
+        "2025",
+        "2022",
+        "2013",
+        "2017",
+        "Depuis 2013",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Scic_Les_3_Colonnes_du_maintien_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Scic_Les_3_Colonnes_du_maintien_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

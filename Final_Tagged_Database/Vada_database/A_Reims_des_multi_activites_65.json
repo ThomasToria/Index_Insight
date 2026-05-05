@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: A Reims des multi activités 65+",
+    "territoire": "Titre: A Reims des multi activités 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1027-concours-2023-a-reims-des-multi-activiyes-65.pdf  ---  --- LE CONSTAT D'UNE OFFRE INADAPTÉE À L'ORIGINE DU PROJET Suite à un groupe de travail dans la cadre de la marche bleue, avec des bénévoles et des animateurs sportifs, le constat a été partagé que nombre de seniors refusaient de pratiquer une activité sportive, et cela pour différentes raisons.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "UN PROJET LANCÉ EN SEPTEMBRE 2021 Les attentes des usagers ont tout d'abord été identifiées suite à la réalisation par quartier d'une enquête sur la sédentarité des seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Reims, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: A Reims des multi activités 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1027-concours-2023-a-reims-des-multi-activiyes-65.pdf  ---  --- LE CONSTAT D'UNE OFFRE INADAPTÉE À L'ORIGINE DU PROJET Suite à un groupe de travail dans la cadre de la marche bleue, avec des bénévoles et des animateurs sportifs, le constat a été partagé que nombre de seniors refusaient de pratiquer une activité sportive, et cela pour différentes raisons.",
+        "problematique": "Le coût pouvait également être un frein dans la dynamique d'impulsion de remise en mouvement.",
+        "solution_envisagee": "Une nouvelle offre a aussi été déployée: il s'agit de \"Un jour, Un parc\" qui propose une fois par mois, de partir à la découverte d'un parc de la ville de Reims pour pratiquer des activités douces et ludiques.",
+        "objectifs": "Les activités aquatiques se déroulent à la piscine et ont pour objectif de travailler la mise en confiance et en sécurité en milieu aquatique afin de lutter contre l'aquaphobie."
+    },
+    "porteur_initiative": "Des créneaux ouverts selon deux formats: des journées découvertes à thème ou des créneaux hebdomadaires sur l'année.",
+    "date": [
+        "SEPTEMBRE 2021",
+        "2025",
+        "1027",
+        "2023",
+        "2021",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Reims_des_multi_activites_65.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Reims_des_multi_activites_65.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

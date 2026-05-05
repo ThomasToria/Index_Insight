@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Maison d'accueil pour personnes âgées et marginalisées",
+    "territoire": "Titre: Maison d'accueil pour personnes âgées et marginalisées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/687-pe-50-maison-d-accueil-pa-et-marginalisees-dijon-2.pdf  ---  --- Concours  RFVAA 2021 UN LIEU RESSOURÇANT En 1992, la SDAT (Société Dijonnaise de l’Assistance par le Travail), qui gérait des CHRS (Centres d’Hébergement et de Réinsertion Sociale), a constaté le vieillissement des personnes accueillies et les difficultés rencontrées pour les intégrer dans les établissements classiques d’hébergement.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Maison d'accueil pour personnes âgées et marginalisées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/687-pe-50-maison-d-accueil-pa-et-marginalisees-dijon-2.pdf  ---  --- Concours  RFVAA 2021 UN LIEU RESSOURÇANT En 1992, la SDAT (Société Dijonnaise de l’Assistance par le Travail), qui gérait des CHRS (Centres d’Hébergement et de Réinsertion Sociale), a constaté le vieillissement des personnes accueillies et les difficultés rencontrées pour les intégrer dans les établissements classiques d’hébergement.",
+    "description": {
+        "description_generale": "Si, comme la Société Dijonaise de l'Assistance par le Travail, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Maison d'accueil pour personnes âgées et marginalisées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/687-pe-50-maison-d-accueil-pa-et-marginalisees-dijon-2.pdf  ---  --- Concours  RFVAA 2021 UN LIEU RESSOURÇANT En 1992, la SDAT (Société Dijonnaise de l’Assistance par le Travail), qui gérait des CHRS (Centres d’Hébergement et de Réinsertion Sociale), a constaté le vieillissement des personnes accueillies et les difficultés rencontrées pour les intégrer dans les établissements classiques d’hébergement.",
+        "problematique": "Du fait de son statut d’EHPA, la MAPAM a pour mission d’accueillir des hommes et des femmes de plus de 60 ans, (sauf dérogation d’âge ne pouvant pas dépasser 10% de ses capacités d’accueil), pouvant prétendre à l’aide sociale départementale, pas ou très peu dépendants (GIR 5 ET 6) dont les problématiques médico-sociales ou les troubles du comportement sont des freins à l’accueil en établissement d’hébergement pour personnes âgées classiques.",
+        "solution_envisagee": "ANIMER LA STRUCTURE, ACCOMPAGNER LES RÉSIDENTS Tandis que la direction et le Conseil d’Administration de la SDAT sont gestionnaires et décideurs, une équipe  pluridisciplinaire médicosociale anime la structure, met en place un accompagnement éducatif, élabore le projet de vie individualisé, recueille l’histoire et les habitudes de vie de chaque personne, évalue la dépendance des résidents et propose des solutions adaptées à chacun.",
+        "objectifs": "Ses objectifs sont donc de maintenir l’autonomie des personnes avec un étayage médico-social adapté à l’âge, de mettre en place un accompagnement éducatif adapté aux personnes en situation d’exclusion, de mettre en œuvre les soins et accompagnements médicaux nécessaires, d’évaluer la dépendance des personnes et mettre en œuvre des solutions d’orientation adaptées."
+    },
+    "porteur_initiative": "Afin de poursuivre la rénovation de ce lieu, l’installation d’une douche « à l’italienne » spécialement adaptée pour les personnes porteurs d’handicaps est programmée.",
+    "date": [
+        "2025",
+        "2021",
+        "1992",
+        "2012",
+        "2020",
+        "depuis 2012",
+        "En 1992",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_daccueil_pour_personnes_agees_et_marginalisees.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Maison_daccueil_pour_personnes_agees_et_marginalisees.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "titre": "Titre: Associations Maison des Sages",
+    "territoire": "Titre: Associations Maison des Sages Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/721-pe-589-190422associations-maison-des-sages-dep-yvelines.pdf  ---  --- UN HABITAT ALTERNATIF Les Maisons des Sages sont deux habitats Accompagnés Partagés et Insérés dans la cité (API) à Buc et aux Loges-en-Josas (Yvelines) qui accueillent chacune huit personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Concours  RFVAA 2021  ---  --- Si la SARL a participé à la gestion d'un service mandataire d'aide à domicile permettant aux habitants et à leurs familles de recruter les huit auxiliaires de vie, c'est l'ARS qui subventionne le salaire de l'animatrice de la vie sociale et partagée.",
+    "description": {
+        "description_generale": "Si, comme le conseil départemental des Yvelines, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme le conseil départemental des Yvelines, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "ASSOCIATIONS MAISON DES SAGES Fiche PARTAGE D'EXPÉRIENCE N°589 Villes Amies des Aînés en France Associations Maison des Sages de Buc et Maison des Sages des Loges en Josas Conseil départemental des Yvelines (78) Ami des Aînés depuis 2020 Offrir un choix alternatif à l'entrée en institution pour des personnes âgées présentant un handicap cognitif, dont l'isolement, les symptômes et la perte d'autonomie ne leur permettent plus de rester dans leur ancien domicile.",
+        "solution_envisagee": "Ce projet permet donc de proposer un logement alternatif entre le logement classique et l'EHPAD.",
+        "objectifs": "En 2013/2014, deux structures ont été créées avec pour objectif la réalisation d' une première maison, une SARL préfigurant un service mandataire d'aide à dom icile, un fonds de dotation destiné au recueil de fonds pour l’ingénie rie de projet et pour l’investissement immobilier."
+    },
+    "porteur_initiative": "Si, comme le conseil départemental des Yvelines, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "mai 2018",
+        "octobre 2019",
+        "avril 2021",
+        "2025",
+        "2006",
+        "2008",
+        "2013",
+        "2014",
+        "2018",
+        "2019",
+        "2021",
+        "2020",
+        "depuis 2020",
+        "En 2006",
+        "En 2013"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Associations_Maison_des_Sages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Associations_Maison_des_Sages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

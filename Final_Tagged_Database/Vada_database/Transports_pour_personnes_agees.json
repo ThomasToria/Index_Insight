@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Transports pour personnes âgées",
+    "territoire": "Titre: Transports pour personnes âgées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1095-concours-2024-transports-pour-personnes-agees-1.pdf  ---  --- ACCOMPAGNER LES SENIORS Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix- Rouge genevoise.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Transports pour personnes âgées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1095-concours-2024-transports-pour-personnes-agees-1.pdf  ---  --- ACCOMPAGNER LES SENIORS Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix- Rouge genevoise.",
+    "description": {
+        "description_generale": "Titre: Transports pour personnes âgées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1095-concours-2024-transports-pour-personnes-agees-1.pdf  ---  --- ACCOMPAGNER LES SENIORS Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix- Rouge genevoise.",
+        "contexte": "Titre: Transports pour personnes âgées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1095-concours-2024-transports-pour-personnes-agees-1.pdf  ---  --- ACCOMPAGNER LES SENIORS Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix- Rouge genevoise.",
+        "problematique": "Actuellement, la difficulté principale est de trouver des bénévoles possédant un véhicule afin de répondre à la demande.",
+        "solution_envisagee": "La prestation \"Transports pour personnes âgées\" propose un accompagnement aux seniors sous la forme de transports réalisés par des bénévoles formé.e.s, avec leur propre véhicule.",
+        "objectifs": "Actuellement, la difficulté principale est de trouver des bénévoles possédant un véhicule afin de répondre à la demande."
+    },
+    "porteur_initiative": "Titre: Transports pour personnes âgées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1095-concours-2024-transports-pour-personnes-agees-1.pdf  ---  --- ACCOMPAGNER LES SENIORS Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix- Rouge genevoise.",
+    "date": [
+        "décembre 2022",
+        "juillet 2023",
+        "2025",
+        "1095",
+        "2024",
+        "2022",
+        "2023",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transports_pour_personnes_agees.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Transports_pour_personnes_agees.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

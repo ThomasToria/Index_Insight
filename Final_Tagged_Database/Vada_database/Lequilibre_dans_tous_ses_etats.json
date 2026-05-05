@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: L'équilibre dans tous ses états",
+    "territoire": "Titre: L'équilibre dans tous ses états Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/989-concours-2023-l-equilibre-dans-tous-ses-etats.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'EQUILIBRE, CLÉ DU MAINTIEN À DOMICILE La communauté de communes de Pévèle Carembault souhaite accompagner les seniors en leur donnant les clés pour préserver leur capital autonomie et favoriser le maintien à domicile.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Les seniors visés sont des usagers du portage de repas et bénéficiaires de l'APA.",
+    "description": {
+        "description_generale": "Si, comme la Communauté de communes Pévèle Carembau lt, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Cette volonté est renforcée par les échanges avec les partenaires de l'EPCI (aidants, acteurs du domicile, médecins, CLIC, etc.), leurs constats dans l’accompagnement quotidien des usagers du portage de repas à domicile, les préconisations nationales, etc.",
+        "problematique": "Il s’adresse, non pas aux jeunes seniors, mais à ceux, généralement plus âgés, confrontés à des difficultés ou freins dans leur quotidien au domicile.",
+        "solution_envisagee": "Mise en place d'ateliers sur un double axe: l'équilibre physique et alimentaire.",
+        "objectifs": "Titre: L'équilibre dans tous ses états Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/989-concours-2023-l-equilibre-dans-tous-ses-etats.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'EQUILIBRE, CLÉ DU MAINTIEN À DOMICILE La communauté de communes de Pévèle Carembault souhaite accompagner les seniors en leur donnant les clés pour préserver leur capital autonomie et favoriser le maintien à domicile."
+    },
+    "porteur_initiative": "Le projet d’ateliers de l’équilibre porté par Pévèle Carembault cible les personnes âgées dont le maintien à domicile est un sujet d’actualité.",
+    "date": [
+        "2025",
+        "2023",
+        "2024",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lequilibre_dans_tous_ses_etats.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lequilibre_dans_tous_ses_etats.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

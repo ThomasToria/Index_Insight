@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: La transition démographique a Nantes et ses quartiers",
+    "territoire": "Titre: La transition démographique a Nantes et ses quartiers Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/854-pe-transition-demographique.pdf  ---  --- LA TRANSITION DEMOGRAPHIQUE: UN ENJEU A PRENDRE EN COMPTE Lors de l'animation transversale des phases du diagnostic et du plan d'action, l'importance de la prise de conscience de la réalité de la transition démographique a été relevée ainsi que ses impacts sur les politiques publiques.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Afin de sortir de l'effet silo des huit thématiques VAA et pour plus de visibilité, la démarche a été déclinée en 6 axes stratégiques transversaux: 1.Accompagner les parcours de vie - 2. \"Aller vers\" les seniors Agir au plus près d'eux - 3.Rendre visible les invisibles - 4.Facilité la mobilité pour maintenir l'autonomie - 5.Vieillir en bonne santé - 6.Etre acteur la cité.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nantes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: La transition démographique a Nantes et ses quartiers Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/854-pe-transition-demographique.pdf  ---  --- LA TRANSITION DEMOGRAPHIQUE: UN ENJEU A PRENDRE EN COMPTE Lors de l'animation transversale des phases du diagnostic et du plan d'action, l'importance de la prise de conscience de la réalité de la transition démographique a été relevée ainsi que ses impacts sur les politiques publiques.",
+        "problematique": "Ces deux supports présentent les grands enjeux démographiques de la longévité à Nantes entre 2014 et 2032 à l'échelle de la ville et de chacun des quartiers, puisque la Ville décline la démarche en \"quartiers amis des ainés\".",
+        "solution_envisagee": "Afin de mobiliser l'ensemble des acteurs de son territoire autour des huit axes de la démarche Villes Amies des Aînés, la Ville de Nantes a conçu deux documents: un cahier de huit pages et une vidéo de deux minutes.",
+        "objectifs": "Les objectifs sont la prise de conscience des acteurs ainsi que les sujets abordés lors de la présentation du 9 décembre 2022 et le débat qui a suivi entre élus."
+    },
+    "porteur_initiative": "Afin de mobiliser l'ensemble des acteurs de son territoire autour des huit axes de la démarche Villes Amies des Aînés, la Ville de Nantes a conçu deux documents: un cahier de huit pages et une vidéo de deux minutes.",
+    "date": [
+        "9 décembre 2022",
+        "décembre 2022",
+        "2025",
+        "2014",
+        "2032",
+        "2022",
+        "2026",
+        "2017",
+        "depuis 2017",
+        "en 2026",
+        "entre 2014 et 2032"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_transition_demographique_a_Nantes_et_ses_quartiers.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_transition_demographique_a_Nantes_et_ses_quartiers.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

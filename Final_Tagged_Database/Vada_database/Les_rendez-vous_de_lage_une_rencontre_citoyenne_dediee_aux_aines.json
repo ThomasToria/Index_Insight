@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: Les rendez-vous de l'âge: une rencontre citoyenne dédiée aux aînés",
+    "territoire": "Titre: Les rendez-vous de l'âge: une rencontre citoyenne dédiée aux aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/113-pe-les-rendez-vous-de-l-age-une-rencontre-citoyenne-dediee-aux-aines-mise-a-jour-2023.pdf  ---  --- UN ÉVÈNEMENT ANNUEL ORGANISÉ AVEC ET POUR LES AÎNÉS La première édition des Rendez-Vous de l’Âge de Besançon a eu lieu en 2001, suite à une proposition faite par le Conseil des Sages de la ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "L’objectif était alors d’organiser pour les habitants les plus âgés un débat citoyen sur un thème de société.",
+    "description": {
+        "description_generale": "UNE ORGANISATION CONSIDÉRABLE ET MINUTIEUSE Le thème de la rencontre à venir est défini en fonction des questionnaires de satisfaction retournés à l’occasion de l’édition précédente.",
+        "contexte": "C’est ainsi que les thèmes ont varié au fil des années: S’engager, Participer, Transmettre (2005), Plaisirs, Plaisirs (2007), Oser (2009), Flâneries bisontines (2011), Femmes, Femmes, Femmes (2014), Voir plus loin (2016), Comprendre demain (2017), Besançon,visionnaires et bâtisseurs (2019), Célèbres? (2021), Le voyage (2022), Rester actifs (2023).",
+        "problematique": "Des aînés bénévoles et des étudiants en restauration sont chargés d’accueillir les participants, de leur indiquer les places disponibles dans la salle et éventuellement de les aider à se déplacer en cas de besoin.",
+        "solution_envisagee": "LES RENDEZ-VOUS DE L’ÂGE: UNE RENCONTRE CITOYENNE DÉDIÉE AUX AÎNÉS Fiche PARTAGE D'EXPÉRIENCE N°113 Villes Amies des Aînés en France Besançon Ville amie des aînés depuis 2011 Besançon (25) Proposer aux aînés une journée de conférences et d’échanges autour d’une thématique donnée.",
+        "objectifs": "Via les listes électorales, un courrier d’invitation leur est envoyé afin de leur permettre de profiter gratuitement de la journée, repas du midi inclus."
+    },
+    "porteur_initiative": "C’est ainsi que les thèmes ont varié au fil des années: S’engager, Participer, Transmettre (2005), Plaisirs, Plaisirs (2007), Oser (2009), Flâneries bisontines (2011), Femmes, Femmes, Femmes (2014), Voir plus loin (2016), Comprendre demain (2017), Besançon,visionnaires et bâtisseurs (2019), Célèbres? (2021), Le voyage (2022), Rester actifs (2023).",
+    "date": [
+        "2025",
+        "2023",
+        "2001",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2014",
+        "2016",
+        "2017",
+        "2019",
+        "2021",
+        "2022",
+        "depuis 2011",
+        "depuis 2021",
+        "en",
+        "en 2001"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rendez-vous_de_lage_une_rencontre_citoyenne_dediee_aux_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_rendez-vous_de_lage_une_rencontre_citoyenne_dediee_aux_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Alzheimer: habiter ensemble et autrement avec la Maison des cultures",
+    "territoire": "Nous soutenons de plus en plus de projets de ce type, avec des critères transverses: la mixité, l’implication et la participation des habitants dans le projet, l’ouverture sur le territoire et la création de liens sociaux, sans oublier les critères écologiques », souligne Patrice Cieutat, responsable du programme Habitat.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Habitat À l'occasion de la journée mondiale Alzheimer, focus sur l'approche innovante de la Maison des cultures, située à Thomery en Seine-et-Marne, qui réunit sous le même toit des personnes en situation de handicap moteur ou présentant des troubles cognitifs, des personnes âgées dépendantes et d’autres autonomes… Soutenue par la Fondation de France depuis son ouverture en janvier 2021, elle compte déjà dix habitants.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Tous sont colocataires dans cette maison qui favorise l’autonomie de chacun et a été pensée pour répondre à leurs besoins.",
+        "solution_envisagee": "L’ouverture d’une salle de cinéma est ainsi envisagée pour pouvoir proposer des projections ouvertes à tous.",
+        "objectifs": "Changer le regard sur les personnes fragiles Pour éviter ou rompre l’isolement, la Maison des cultures favorise les liens sociaux entre les colocataires, mais aussi avec les habitants du village, puisque l’un des objectifs du projet est de casser les préjugés pour que chacun trouve sa place dans la société."
+    },
+    "porteur_initiative": "Par exemple, une personnes âgée autonome peut apporter son aide à un jeune adulte ayant des difficultés d'organisation », explique Mallaury Kolodziej, chargée de développement du projet. © Cyril Marcilhacy / Fondation de France À terme, quatre maisons pourront accueillir des colocataires porteurs de différentes formes de handicap, ainsi que des personnes autonomes en difficulté sociale.",
+    "date": [
+        "janvier 2021",
+        "2021",
+        "2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Alzheimer habiter ensemble et autrement avec la Maison des cultures.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Alzheimer habiter ensemble et autrement avec la Maison des cultures.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

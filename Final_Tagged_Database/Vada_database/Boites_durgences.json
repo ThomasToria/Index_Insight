@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Boîtes d'urgences",
+    "territoire": "Titre: Boîtes d'urgences Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1097-concours-2024-boites-d-urgences-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°47 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS GÉRER LES URGENCES EN RÉSIDENCE AUTONOMIE La sécurité des résidents a toujours tenu une place primordiale dans le fonctionnement de la résidence Autonomie « Les Cordeliers ».",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "BOÎTES D'URGENCES Résidence Autonomie \" Les Cordeliers\" Louhans-Châteaurenaud (71) Ville Amie des Aînés depuis 2023 Améliorer la prise en charge des personnes âgées, particulièrement dans les situations d’urgence Fluidifier la diffusion d'informations essentielles \"de base\" entre les différents acteurs du maintien à domicile Soulager la personne de cette charge mentale Réflexion sur les informations nécessaires lors d'une prise en charge urgente Choix du placement de la boîte et création de la signalétique Les seniors choisissent s’il veulent où non de la boite  ---  --- UN SYSTÈME APPRÉCIÉ Les résidents, les familles de résidents ont été informés et les fiches d'urgences ont été remplies pour chaque résident.",
+    "description": {
+        "description_generale": "Le cabinet infirmier à l'initiative de ce projet a proposé de travailler sur un moyen de communication qui permettrait de fluidifier la circulation des informations les plus pertinentes, considérant le fait qu'en résidence autonomie, la personne est autonome et n'est, en aucun cas, tenue de communiquer les données médicales qui la concernent.",
+        "contexte": "Si le statut d’établissement non médicalisé laisse à chacun toute liberté dans la gestion de son parcours de soin, il a toutefois été régulièrement constaté que dans une situation d'urgence (malaise, chute,...), la personne n'est pas toujours en mesure de donner les premières informations pour une prise en charge rapide et efficace.",
+        "problematique": "Mis en place sur l'établissement, ce dispositif pourrait être déployé pour les personnes âgées à domicile qui en ressentiraient le besoin.",
+        "solution_envisagee": "Elles ont été vérifiées et validées avant la mise en place dans le réfrigérateur.",
+        "objectifs": "L'objectif était de mettre en adéquation les moyens de l'établissement avec la réalité concrète et pratique de terrain des professionnels de santé."
+    },
+    "porteur_initiative": "Le cabinet infirmier à l'initiative de ce projet a proposé de travailler sur un moyen de communication qui permettrait de fluidifier la circulation des informations les plus pertinentes, considérant le fait qu'en résidence autonomie, la personne est autonome et n'est, en aucun cas, tenue de communiquer les données médicales qui la concernent.",
+    "date": [
+        "2025",
+        "1097",
+        "2024",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Boites_durgences.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Boites_durgences.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

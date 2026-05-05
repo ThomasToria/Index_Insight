@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration",
+    "territoire": "Titre: Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/508-pe-l-olivier-des-sages-mise-en-forme-2023.pdf  ---  --- TROUVER SA PLACE DANS SA VILLE ET SON QUARTIER Les personnes âgées occupent une place prépondérante dans la vie d’un quartier.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Dans le 3ème arrondissement de Lyon par exemple, les personnes âgées sont très présentes dans l’espace public: la place Gabriel Péri, place sur laquelle donnent les bouches de métro “Guillotière”, est un lieu de rencontre et de sociabilité pour les hommes, anciens migrants, dont la grosse majorité vient d’autres quartiers de l’agglomération lyonnaise.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/508-pe-l-olivier-des-sages-mise-en-forme-2023.pdf  ---  --- TROUVER SA PLACE DANS SA VILLE ET SON QUARTIER Les personnes âgées occupent une place prépondérante dans la vie d’un quartier.",
+        "problematique": "Les difficultés des personnes dans l’accès aux droits, leur isolement social, ainsi que les questions de cohabitation entre des populations diverses l’ont amené à réfléchir à leur place dans son projet et dans sa dynamique d’animation globale.",
+        "solution_envisagee": "Titre: Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/508-pe-l-olivier-des-sages-mise-en-forme-2023.pdf  ---  --- TROUVER SA PLACE DANS SA VILLE ET SON QUARTIER Les personnes âgées occupent une place prépondérante dans la vie d’un quartier.",
+        "objectifs": "L’Olivier des Sages travaille à créer un espace de convivialité afin de rompre cet isolement et développer des liens sociaux entre les personnes âgées via des après- midi jeux et rencontres, activités dans les structures et sorties culturelles."
+    },
+    "porteur_initiative": "Titre: Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/508-pe-l-olivier-des-sages-mise-en-forme-2023.pdf  ---  --- TROUVER SA PLACE DANS SA VILLE ET SON QUARTIER Les personnes âgées occupent une place prépondérante dans la vie d’un quartier.",
+    "date": [
+        "18/06/2019",
+        "2025",
+        "2023",
+        "2012",
+        "2019",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

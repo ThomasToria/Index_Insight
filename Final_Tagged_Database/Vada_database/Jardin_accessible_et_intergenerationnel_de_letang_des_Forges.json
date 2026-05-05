@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Jardin accessible et intergénérationnel de l’étang des Forges",
+    "territoire": "Titre: Jardin accessible et intergénérationnel de l’étang des Forges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/560-pe-jardin-accessible-et-intergenerationnel-de-l-etang-des-forges-mise-en-dorme-2023.pdf  ---  --- UN ESPACE OUVERT À TOUS Le jardin accessible et intergénérationnel est un espace ouvert à tous qui réunit des espaces potagers, arborés et fleuris permettant une accessibilité universelle tant pour les personnes âgées que pour les personnes porteuses de handicap (moteur, sensoriel, intellectuel).",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Jardin accessible et intergénérationnel de l’étang des Forges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/560-pe-jardin-accessible-et-intergenerationnel-de-l-etang-des-forges-mise-en-dorme-2023.pdf  ---  --- UN ESPACE OUVERT À TOUS Le jardin accessible et intergénérationnel est un espace ouvert à tous qui réunit des espaces potagers, arborés et fleuris permettant une accessibilité universelle tant pour les personnes âgées que pour les personnes porteuses de handicap (moteur, sensoriel, intellectuel).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Ce projet est né suite au constat que les personnes âgées et en situation de handicap à Belfort vivent majoritairement en appartement.",
+        "problematique": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "La recherche de la rencontre entre différents publics étant un objectif important, la maison de quartier la plus proche s’est associée à ce projet pour que des passerelles puissent être faites entre les associations qui s’investissent dans ce jardin et les activités de la maison de quartier."
+    },
+    "porteur_initiative": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "2018",
+        "depuis 2018",
+        "En 2023",
+        "en 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jardin_accessible_et_intergenerationnel_de_letang_des_Forges.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Jardin_accessible_et_intergenerationnel_de_letang_des_Forges.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

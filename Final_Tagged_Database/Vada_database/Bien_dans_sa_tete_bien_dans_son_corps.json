@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Bien dans sa tête, bien dans son corps",
+    "territoire": "Titre: Bien dans sa tête, bien dans son corps Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/940-concours-2023-bien-dans-sa-tete-bien-dans-son-corps.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LE BIEN-ÊTRE EN RÉSIDENCE AUTONOMIE À la Résidence Alain de Raimond de Cognac, le bien-être des résidents est le cœur du projet d'établissement et constitue une valeur essentielle à l'ensemble des actions.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Au programme, des temps de coiffure (coupe/coiffage), soins des amis, manucures, mais aussi découverte du yoga du rire, de la sophrologie, et des conseils diététique par des professionnels qui ont complété les propositions faites aux résidents.",
+    "description": {
+        "description_generale": "Titre: Bien dans sa tête, bien dans son corps Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/940-concours-2023-bien-dans-sa-tete-bien-dans-son-corps.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LE BIEN-ÊTRE EN RÉSIDENCE AUTONOMIE À la Résidence Alain de Raimond de Cognac, le bien-être des résidents est le cœur du projet d'établissement et constitue une valeur essentielle à l'ensemble des actions.",
+        "contexte": "Parallèlement, et face à la pénurie de logements en centre-ville, la résidence propose un hébergement aux jeunes du CFA de Cognac en filière esthétique.",
+        "problematique": "Acquérir de nouveaux réflexes favorables à un bien-être durable: bien se nourrir pour rester en forme.",
+        "solution_envisagee": "Parallèlement, et face à la pénurie de logements en centre-ville, la résidence propose un hébergement aux jeunes du CFA de Cognac en filière esthétique.",
+        "objectifs": "Développer une attitude mentale qui aide à mieux faire face aux défis quotidiens, à renforcer ses capacités, à développer un mental positif (yoga du rire)."
+    },
+    "porteur_initiative": "Acquérir de nouveaux réflexes favorables à un bien-être durable: bien se nourrir pour rester en forme.",
+    "date": [
+        "7 juillet 2023",
+        "juillet 2023",
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_dans_sa_tete_bien_dans_son_corps.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bien_dans_sa_tete_bien_dans_son_corps.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

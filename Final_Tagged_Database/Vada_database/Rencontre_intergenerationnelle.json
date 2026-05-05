@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Rencontre intergénérationnelle",
+    "territoire": "Titre: Rencontre intergénérationnelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1043-pe-rencontre-intergenerationnelle.pdf  ---  --- RACONTER LE VILLAGE Dans le cadre de la Semaine Bleue nationale qui a pour but de changer le regard sur les aînés, la commune de Wickerschwihr a organisé un échange entre les enfants de l’école et les aînés pour raconter le village d’autrefois.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "WICKERSCHWIHR AUTREFOIS A l’époque, le village ne comptait que 140 habitants et était constitué de fermes.",
+    "description": {
+        "description_generale": "Organiser des séances d’intervention d’aînés dans les classes de l’école du village; Présentation “le village d’autrefois”: deux aînés par classe, avec diaporama de photos; Interaction avec les enfants, questions réponses; Inscription dans le plan d’action de la ville pour renouveler ce type de projets.  ---  --- UNE TRANSMISSION RÉUSSIE Cette séance intergénérationnelle a certes permis de comparer les modes de vie d’autrefois et d’aujourd’hui, mais a aussi rappelé combien la mémoire était importante pour ne pas oublier le vécu des grands-parents.",
+        "contexte": "Les enfants ont pu constater que l’écriture n’a pas changé, mais les méthodes, beaucoup.",
+        "problematique": "Les enfants ont bu leurs paroles et les ont questionnés; ils ne demandent qu’une chose: que de tels moments soient réitérés.",
+        "solution_envisagee": "Organiser des séances d’intervention d’aînés dans les classes de l’école du village; Présentation “le village d’autrefois”: deux aînés par classe, avec diaporama de photos; Interaction avec les enfants, questions réponses; Inscription dans le plan d’action de la ville pour renouveler ce type de projets.  ---  --- UNE TRANSMISSION RÉUSSIE Cette séance intergénérationnelle a certes permis de comparer les modes de vie d’autrefois et d’aujourd’hui, mais a aussi rappelé combien la mémoire était importante pour ne pas oublier le vécu des grands-parents.",
+        "objectifs": "Titre: Rencontre intergénérationnelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1043-pe-rencontre-intergenerationnelle.pdf  ---  --- RACONTER LE VILLAGE Dans le cadre de la Semaine Bleue nationale qui a pour but de changer le regard sur les aînés, la commune de Wickerschwihr a organisé un échange entre les enfants de l’école et les aînés pour raconter le village d’autrefois."
+    },
+    "porteur_initiative": "Les enfants ont bu leurs paroles et les ont questionnés; ils ne demandent qu’une chose: que de tels moments soient réitérés.",
+    "date": [
+        "2025",
+        "1043",
+        "1940",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Rencontre_intergenerationnelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Rencontre_intergenerationnelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Journée intergénérations",
+    "territoire": "Titre: Journée intergénérations Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/860-pe-journee-intergeneration-1.pdf  ---  --- UNE RENCONTRE INTERGÉNÉRATIONNELLE Ce projet, qui a débuté en 1992, vient de la volonté de l’Office des Retraités et Personnes Agées du Choletais (ORPAC) de créer un lien entre les enfants, les adolescents, et les personnes âgées.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Enfin, des animateurs de structures d'accueil pour personnes âgées proposent à leurs résidents de participer à la journée.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Cholet, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Cholet, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la Ville de Cholet, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "ORGANISATION DE LA JOURNÉE La mise en place de cette journée demande une réunion de préparation avec les participants et les partenaires.",
+        "objectifs": "Ceux-ci se réunissent autour d'activités, de savoir et de compétences, afin de fédérer un moment de convivialité entre les générations."
+    },
+    "porteur_initiative": "Si, comme la Ville de Cholet, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "1992",
+        "1000",
+        "2018",
+        "2023",
+        "2024",
+        "depuis 2018",
+        "en 1992",
+        "En",
+        "En 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_intergenerations.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Journee_intergenerations.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

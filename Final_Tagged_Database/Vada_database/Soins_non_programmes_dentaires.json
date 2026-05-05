@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Soins non programmés dentaires",
+    "territoire": "Titre: Soins non programmés dentaires Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1104-concours-2024-soins-non-programmes-dentaires-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°40 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS UN CONSTAT DES CHIRURGIENS-DENTISTES Plusieurs constats ont été dressés par les chirurgiens-dentistes de la CPTS Caluire.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Conception du dispositif; Gestion à partir du site internet; Inscription des disponibilité par les chirurgiens-dentistes; Prises de rendez-vous par les professionnels de santé pour leurs patients.  ---  --- Une communication a été menée dès le lancement pour informer les professionnels de santé et les institutions, et une publicité régulière est assurée via le site internet et le réseau LinkedIn.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Caluire et Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Soins non programmés dentaires Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1104-concours-2024-soins-non-programmes-dentaires-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°40 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS UN CONSTAT DES CHIRURGIENS-DENTISTES Plusieurs constats ont été dressés par les chirurgiens-dentistes de la CPTS Caluire.",
+        "problematique": "Tout d'abord la difficulté pour les habitants de trouver un dentiste disponible pour un soin non-programmé à effectuer dans les 72 heures, mais aussi que la prise en charge de certains de ces patients pouvait compliquer l'organisation des cabinets, et qu'il n'existait pas d'offre de prise en charge rapide de ce type de soin sur le territoire.",
+        "solution_envisagee": "C'est pourquoi l'association a souhaité proposer à tous les habitants du territoire la possibilité d'obtenir un rendez-vous chez un chirurgien-dentiste dans les 72 heures pour un problème dentaire.",
+        "objectifs": "SOINS NON PROGRAMMÉS DENTAIRES CPTS Caluire Ville Amie des Aînés depuis 2016 Caluire Et Cuire (69) Proposer une offre de soins dentaires non programmés pour répondre aux besoins de santé de tous les habitants; Permettre aux praticiens d'organiser leur cabinet pour proposer des créneaux de disponibilités pour ce dispositif; Compenser financièrement la participation au dispositif; Répondre aux objectifs de la mission contractuelle d'organisation des soins non programmés."
+    },
+    "porteur_initiative": "Si, comme la Ville de Caluire et Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "avril 2023",
+        "décembre 2023",
+        "janvier 2024",
+        "2025",
+        "1104",
+        "2024",
+        "2023",
+        "2016",
+        "depuis 2016",
+        "En 2023",
+        "En 2024"
+    ],
+    "thematique": [
+        "santé",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soins_non_programmes_dentaires.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Soins_non_programmes_dentaires.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

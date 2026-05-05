@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Saint-denis de la réunion dispositif \"seniors en action\"",
+    "territoire": "Titre: Saint-denis de la réunion dispositif \"seniors en action\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/900-concours-2023-saint-denis-de-la-reunion-dispositif-seniors-en-action-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN PROJET QUI EXISTE ET SE DÉVELOPPE DEPUIS 2016 Ce dispositif a vu le jour suite à une demande croissante du public Senior mise en évidence lors d'une première étude de 2016.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Saint-denis de la réunion dispositif \"seniors en action\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/900-concours-2023-saint-denis-de-la-reunion-dispositif-seniors-en-action-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN PROJET QUI EXISTE ET SE DÉVELOPPE DEPUIS 2016 Ce dispositif a vu le jour suite à une demande croissante du public Senior mise en évidence lors d'une première étude de 2016.",
+    "description": {
+        "description_generale": "Titre: Saint-denis de la réunion dispositif \"seniors en action\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/900-concours-2023-saint-denis-de-la-reunion-dispositif-seniors-en-action-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN PROJET QUI EXISTE ET SE DÉVELOPPE DEPUIS 2016 Ce dispositif a vu le jour suite à une demande croissante du public Senior mise en évidence lors d'une première étude de 2016.",
+        "contexte": "Si, comme la Ville de Saint-Denis de la Réunion, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la Ville de Saint-Denis de la Réunion, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Un bilan financier en fin d'année permet de valider le nouveau budget de l'année qui suit.",
+        "objectifs": "Si, comme la Ville de Saint-Denis de la Réunion, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com"
+    },
+    "porteur_initiative": "Si, comme la Ville de Saint-Denis de la Réunion, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "2016",
+        "2013",
+        "DEPUIS 2016",
+        "depuis 2013",
+        "en",
+        "en 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-denis_de_la_reunion_dispositif_seniors_en_action.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Saint-denis_de_la_reunion_dispositif_seniors_en_action.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

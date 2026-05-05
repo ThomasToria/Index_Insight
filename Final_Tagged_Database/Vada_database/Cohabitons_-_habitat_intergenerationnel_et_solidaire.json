@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Cohabitons - habitat intergénérationnel et solidaire",
+    "territoire": "Titre: Cohabitons - habitat intergénérationnel et solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/701-pe-9-solidarite-habitats-valence.pdf  ---  --- Concours  RFVAA 2021 DES GÉNÉRATIONS QUI SE RENCONTRENT Le vieillissement de la population est indéniable: d'ici 2060, une personne sur trois aura plus de soixante ans.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "En parallèle, lorsqu'il est bien pensé, le maintien à domicile est souvent souhaité par les seniors et leurs familles.",
+    "description": {
+        "description_generale": "Si, comme Solidarité Habitats, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Si une cohabitation se concrétise, il s’agit alors de procéder à la rédaction de la convention et de la charte de cohabitation en ayant au préalable déterminé avec les deux parties la durée et les conditions de la cohabitation.",
+        "contexte": "Titre: Cohabitons - habitat intergénérationnel et solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/701-pe-9-solidarite-habitats-valence.pdf  ---  --- Concours  RFVAA 2021 DES GÉNÉRATIONS QUI SE RENCONTRENT Le vieillissement de la population est indéniable: d'ici 2060, une personne sur trois aura plus de soixante ans.",
+        "problematique": "L’organisation de la rencontre au domicile entre l’hébergeur et le demandeur permet un premier contact, une visite du lieu de vie, des discussions autour du projet de l’hébergé, du besoin de l’hébergeur et des échanges entre les personnes.",
+        "solution_envisagee": "Proposer une offre d’accompagnement pour le logeur et le logé lors de la cohabitation.  ---  --- UNE COHABITATION INNOVANTE SUIVIE ET ACCOMPAGNÉE De nombreuses étapes ont été nécessaires pour mener à bien le projet.",
+        "objectifs": "COHABITONS - HABITAT INTERGENERATIONNEL ET SOLIDAIRE Fiche PARTAGE D'EXPÉRIENCE N°570 Villes Amies des Aînés en France SOLIDARITE HABITATS À Valence (26) Ville Amie des Aînés depuis 2017 Améliorer les conditions d'accueil des étudiants, apprentis, travailleurs."
+    },
+    "porteur_initiative": "Titre: Cohabitons - habitat intergénérationnel et solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/701-pe-9-solidarite-habitats-valence.pdf  ---  --- Concours  RFVAA 2021 DES GÉNÉRATIONS QUI SE RENCONTRENT Le vieillissement de la population est indéniable: d'ici 2060, une personne sur trois aura plus de soixante ans.",
+    "date": [
+        "2025",
+        "2021",
+        "2060",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cohabitons_-_habitat_intergenerationnel_et_solidaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cohabitons_-_habitat_intergenerationnel_et_solidaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

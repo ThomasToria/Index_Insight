@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: Yarn Bombing - tricot collaboratif",
+    "territoire": "Titre: Yarn Bombing - tricot collaboratif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/972-concours-2023-yarn-bombing-tricot-collaboratif.pdf  ---  --- UN DRIVE DE PELOTES DE LAINE Lors du premier confinement, il est apparu important pour la Médiathèque de la Ville de Périgueux de garder un contact avec ses usagers au travers de différentes actions.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Yarn Bombing - tricot collaboratif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/972-concours-2023-yarn-bombing-tricot-collaboratif.pdf  ---  --- UN DRIVE DE PELOTES DE LAINE Lors du premier confinement, il est apparu important pour la Médiathèque de la Ville de Périgueux de garder un contact avec ses usagers au travers de différentes actions.",
+    "description": {
+        "description_generale": "L'action prendra sans doute une autre forme (nouveau projet de création) une fois que toutes les rambardes de la médiathèque auront été décorées par le tricot.",
+        "contexte": "Les réalisations sont régulièrement installées sur les rambardes permettant à chacun de constater l'avancement du projet.",
+        "problematique": "Cet atelier a permis de lutter contre l'isolement et a contribué à mettre en place un dialogue intergénérationnel en valorisant le savoir faire des ainés.",
+        "solution_envisagee": "Une boite de dons de pelotes fut mise en place une fois les restrictions sanitaires levées.",
+        "objectifs": "ENTHOUSIASTES ET FIÈRES L’objectif est de décorer l'ensemble des rambardes de la médiathèque en tricot ou crochet au cours d'ateliers organisés tous les samedis après midis de 16h à 18h."
+    },
+    "porteur_initiative": "Si, comme la Ville de Périgueux, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Yarn_Bombing_-_tricot_collaboratif.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Yarn_Bombing_-_tricot_collaboratif.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

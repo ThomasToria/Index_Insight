@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: 7ème édition du forum des seniors atlantique (2022)",
+    "territoire": "Titre: 7ème édition du forum des seniors atlantique (2022) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/876-pe-7e-edition-du-forum-des-seniors-atlantique-2022.pdf  ---  --- LE FORUM DES SENIORS ATLANTIQUE Depuis 2014, Le Parc des Expositions de la Beaujoire à Nantes co-organise chaque année avec Nantes Métropole, la Ville de Nantes, le Département de Loire Atlantique, le Forum des Seniors Atlantique et de nombreux autres acteurs, le Forum des Seniors Atlantique.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "À cette occasion, les seniors et les proches aidants ont pu échanger, demander des informations auprès de différents actrices et acteurs du secteur de la gérontologie (associations, entreprises, collectivités territoriales, organismes).",
+    "description": {
+        "description_generale": "Ils étaient repartis en 8 pôles: Les organisateurs du Parc des Expositions Nantes La Beaujoire (ExpoNantes) ont réalisé un comptage et ont tenu des entretiens de satisfaction.",
+        "contexte": "Village Associations Village Santé, Sport & Bien-être Village Retraite et Emploi Village Logement: solutions et équipements Village Patrimoine Village Tourisme & Passion Village Services à Domicile Village Digital & Tech.",
+        "problematique": "7ÈME ÉDITION DU FORUM DES SENIORS ATLANTIQUE (2022) Fiche PARTAGE D'EXPÉRIENCE N°741 Villes Amies des Aînés en France Nantes Métrople Métropole Amie des Aînés depuis 2019 Ville de Nantes (44) Ville Amie des Aînés depuis 2017 Publiée le 07.11.2023 Proposer un évènement d’information et sensibilisation d'ampleur dédié aux besoins des seniors.",
+        "solution_envisagee": "Village Associations Village Santé, Sport & Bien-être Village Retraite et Emploi Village Logement: solutions et équipements Village Patrimoine Village Tourisme & Passion Village Services à Domicile Village Digital & Tech.",
+        "objectifs": "Renforcer les interconnaissances entre les différents acteurs du secteur de la gérontologie (acteurs publics, entreprises, associations)."
+    },
+    "porteur_initiative": "UN ACCÈS GRATUIT POUR TOUTES ET TOUS L'accès au Forum était gratuit pour toutes et tous, tout comme l'accès aux conférences prévention des chutes et au pôle d'information animé par Nantes Métropole et d'autres partenaires pendant les 3 journées du Forum.",
+    "date": [
+        "26 novembre 2022",
+        "novembre 2022",
+        "2022",
+        "2025",
+        "2014",
+        "2019",
+        "2017",
+        "2023",
+        "Depuis 2014",
+        "depuis 2019",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\7eme_edition_du_forum_des_seniors_atlantique_2022.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\7eme_edition_du_forum_des_seniors_atlantique_2022.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: A Dijon, un calendrier des manifestations",
+    "territoire": "Titre: A Dijon, un calendrier des manifestations Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/335-335-calendrier-manif-dijon.pdf  ---  --- ENCOURAGER LES SORTIES POUR MAINTE - NIR LE LIEN SOCIAL Chaque semaine, le service Accueil – Information – Animation propose une animation aux dijonnais âgés de plus de 60 ans.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "INFORMER ET SIMPLIFIER LES SORTIES Les structures associatives et institutionnelles de la ville de Dijon offraient déjà un large panel d’acti vi- tés culturelles et de loisirs à destination de tous les publics ou du public seniors (Office des personnes âgées).",
+    "description": {
+        "description_generale": "Chaque semaine, l’actualité culturelle et sociale est déli - vrée aux participants (manifestations organisées par d’autres services ou associations, séances de préventions sur les thèmes de la vie quotidienne, dispositifs canicule, déneigement...).",
+        "contexte": "Titre: A Dijon, un calendrier des manifestations Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/335-335-calendrier-manif-dijon.pdf  ---  --- ENCOURAGER LES SORTIES POUR MAINTE - NIR LE LIEN SOCIAL Chaque semaine, le service Accueil – Information – Animation propose une animation aux dijonnais âgés de plus de 60 ans.",
+        "problematique": "L ’objectif est d’agir dans le cadre de la prévention d’un vieillissement actif, en lut - tant contre l’isolement des seniors et en motivant le maintien d’une vie sociale.",
+        "solution_envisagee": "Titre: A Dijon, un calendrier des manifestations Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/335-335-calendrier-manif-dijon.pdf  ---  --- ENCOURAGER LES SORTIES POUR MAINTE - NIR LE LIEN SOCIAL Chaque semaine, le service Accueil – Information – Animation propose une animation aux dijonnais âgés de plus de 60 ans.",
+        "objectifs": "Diversifier les activités proposées aux retraités. Mieux infor -\nmer sur les manifestations se déroulant dans la ville. Faciliter\nl’accès aux activités pour maintenir le lien social.\nPRATIQUE\nInitier une dynamique partenariale afin de diversifier les\nactivités proposées. Réaliser un support de communication\nadapté pour informer les retraités des activités organisées.\nDIJON\nVille Amie des Aînés depuis 06-2009\nDijon (21)\nFiche publiée le 11/09/2017\nINFORMATION ET COMMUNICATION\nwww.villesamiesdesaines-rf.fr\nCULTURE ET LOISIRS LIEN SOCIAL ET SOLIDARITÉ\n---  ---\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nwww.villesamiesdesaines-rf.fr\nd’animation obligeait: adhésion, inscription à l’a c-\ntivité, engagement annuel, coût plus ou moins éle -\nvé. Cette organisation satisfaisait certains public s\nseniors, mais était reconnue par d’autres comme\nsource de freins. Parallèlement la ville proposait un\nthé dansant mensuel. Pour offrir aux seniors une\nproposition diversifiée d’activités sans trop de\ncontraintes, il a été décidé de mettre en place une\nanimation par semaine à destination des dijonnais\nâgés de 60 ans et plus. Ces animations gratuites\ndevaient permettre une fréquentation libre, favo -\nrable à la rencontre, aux échanges et à la création\nde lien social. Au fil des années, elles sont égale -\nment devenues un support d’information. Chaque\nsemaine, l’actualité culturelle et sociale est déli -\nvrée aux participants (manifestations organisées\npar d’autres services ou associations, séances de\npréventions sur les thèmes de la vie quotidienne,\ndispositifs canicule, déneigement...). Les anima -\ntions ont évolué au cours des années en fonction\ndes envies et des besoins du public.\nINFORMATION ET COMMUNICATION\nCULTURE ET LOISIRS LIEN SOCIAL ET SOLIDARITÉ"
+    },
+    "porteur_initiative": "Titre: A Dijon, un calendrier des manifestations Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/335-335-calendrier-manif-dijon.pdf  ---  --- ENCOURAGER LES SORTIES POUR MAINTE - NIR LE LIEN SOCIAL Chaque semaine, le service Accueil – Information – Animation propose une animation aux dijonnais âgés de plus de 60 ans.",
+    "date": [
+        "11/09/2017",
+        "2025",
+        "2001",
+        "4000",
+        "8000",
+        "2004",
+        "2017",
+        "2009",
+        "En",
+        "en 2004",
+        "en 2017",
+        "En 2001"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_un_calendrier_des_manifestations.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Dijon_un_calendrier_des_manifestations.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

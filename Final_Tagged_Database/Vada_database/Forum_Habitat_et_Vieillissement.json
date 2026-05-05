@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Forum \"Habitat et Vieillissement\"",
+    "territoire": "Titre: Forum \"Habitat et Vieillissement\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/104-pe-forum-habitat-et-vieillissemet.pdf  ---  --- Faciliter le partage et la diffusion de l’information entre les différents acteurs, concernant les aides et les dispositifs auxquels les usagers ont droit pour adapter leur logement; Sensibiliser et rappeler l’importance de l’anticipation pour engager des travaux et éviter les situations d’urgences; Informer en donnant des exemples de typologies de travaux (du basique au plus important) et en communiquant les coûts et les modalités de financements possible; Rassurer quant à d’éventuelles craintes: peur d’un déménagement, abus de certaines entreprises.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Évaluer la journée à l’aide d’un questionnaire de satisfaction.  ---  --- DES STANDS, DES CONFÉRENCES ET DES PROFESSIONNELS Le public peut avoir accès à des stands d’informations, animés par des représentants de différents organismes (financeurs et institutionnels, conseils techniques, bailleurs sociaux, formes alternatives d’habitat, représentants d’usagers et d’habitants) ainsi qu’à plusieurs conférences tout au long de la journée.",
+    "description": {
+        "description_generale": "Afin d’évaluer l’accueil et l’organisation de cette action, deux questionnaires sont distribués au cours de la journée: un à destination des participants, le second, à destination des intervenants.",
+        "contexte": "Les objectifs de ce forum sont les suivant: FORUM “HABITAT ET VIEILLISSEMENT” Fiche PARTAGE D'EXPÉRIENCE N°104 Villes Amies des Aînés en France Ville de Rennes Ville Amie des Aînés depuis 2011 Rennes (35) Créer un événement permettant de trouver des solutions pour vivre dans un habitat adapté et favorable au vieillissement.",
+        "problematique": "UN FORUM POUR RÉPONDRE À UN BESOIN RÉEL Depuis 2013 a lieu à Rennes le Forum habitat et vieillissement organisé par le CLIC de la ville.",
+        "solution_envisagee": "Ce rendez-vous d’information, ouvert à tout public, propose des solutions pour adapter l’habitat des aînés.",
+        "objectifs": "Les objectifs de ce forum sont les suivant: FORUM “HABITAT ET VIEILLISSEMENT” Fiche PARTAGE D'EXPÉRIENCE N°104 Villes Amies des Aînés en France Ville de Rennes Ville Amie des Aînés depuis 2011 Rennes (35) Créer un événement permettant de trouver des solutions pour vivre dans un habitat adapté et favorable au vieillissement."
+    },
+    "porteur_initiative": "UN FORUM POUR RÉPONDRE À UN BESOIN RÉEL Depuis 2013 a lieu à Rennes le Forum habitat et vieillissement organisé par le CLIC de la ville.",
+    "date": [
+        "2025",
+        "2013",
+        "2011",
+        "2014",
+        "Depuis 2013",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_Habitat_et_Vieillissement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forum_Habitat_et_Vieillissement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

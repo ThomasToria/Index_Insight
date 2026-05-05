@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Les trétaux chantants",
+    "territoire": "Titre: Les trétaux chantants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/853-pe-les-tretaux-chantants.pdf  ---  --- UN CONCOURS DE CHANT ANCESTRAL A la foire exposition de 1950, pendant la quinzaine commerciale, naissent les Tréteaux Chantants dans les quartiers de Brest.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Les partenaires du projet sont les entreprises locales et commerçants locaux, qui offrent des lots pour les finales Les personnes âgées constituent quant à elles à la fois la ressource (candidats) et le public.",
+    "description": {
+        "description_generale": "Coût financier global: 65 000 euros.  ---  --- DES PARTICIPANTS DE MOINS EN MOINS NOMBREUX Ce sont les r éunions de bilan après chaque édition et les bilans chiffrés avec le nombre de candidats et les chiffres de fréquentation qui constituent les outils d'évaluation de l'action.",
+        "contexte": "Titre: Les trétaux chantants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/853-pe-les-tretaux-chantants.pdf  ---  --- UN CONCOURS DE CHANT ANCESTRAL A la foire exposition de 1950, pendant la quinzaine commerciale, naissent les Tréteaux Chantants dans les quartiers de Brest.",
+        "problematique": "Titre: Les trétaux chantants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/853-pe-les-tretaux-chantants.pdf  ---  --- UN CONCOURS DE CHANT ANCESTRAL A la foire exposition de 1950, pendant la quinzaine commerciale, naissent les Tréteaux Chantants dans les quartiers de Brest.",
+        "solution_envisagee": "L'ORGANISATION DU CONCOURS La mise en place du calendrier a permis le contact avec tous les acteurs pour caler les dates des sélections en fonction des agendas des salles et des élus.",
+        "objectifs": "Si la manifestation a atteint ses objectifs et est attendue chaque année, elle arrive aujourd’hui à la fin d’un cycle."
+    },
+    "porteur_initiative": "La manifestation est portée par la Ville de Brest mais regroupe les communes de Brest métropole et trois communautés de communes du Pays de Brest (CCPA, CCPLCL et CCCAM).",
+    "date": [
+        "2025",
+        "1950",
+        "1982",
+        "1993",
+        "2016",
+        "depuis 2016",
+        "En 1982",
+        "En 1993"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_tretaux_chantants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_tretaux_chantants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

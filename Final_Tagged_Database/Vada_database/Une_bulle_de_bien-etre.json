@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Une bulle de bien-être",
+    "territoire": "Titre: Une bulle de bien-être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/804-concours-2022-26-une-bulle-de-bien-etre.pdf  ---  --- \"LA PAUSE SOURIRE\" POUR TOUS Ce projet est destiné aux aidants de la halte relais \"La pause sourire\", lieu d'accueil convivial (non médicalisé), d'échanges et de soutien, où des activités sont proposées pour les couples aidants/aidés, tous les lundis après- midi.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Une bulle de bien-être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/804-concours-2022-26-une-bulle-de-bien-etre.pdf  ---  --- \"LA PAUSE SOURIRE\" POUR TOUS Ce projet est destiné aux aidants de la halte relais \"La pause sourire\", lieu d'accueil convivial (non médicalisé), d'échanges et de soutien, où des activités sont proposées pour les couples aidants/aidés, tous les lundis après- midi.",
+    "description": {
+        "description_generale": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "RÉPONDRE AUX ATTENTES DES AIDANTS Dans un premier temps, un sondage a été réalisé auprès de chaque aidant, afin de connaitre leur intérêt pour cette \"bulle de bien-être\"."
+    },
+    "porteur_initiative": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "septembre 2022",
+        "juin 2023",
+        "2025",
+        "2022",
+        "2013",
+        "2018",
+        "2023",
+        "depuis 2018",
+        "en 2013"
+    ],
+    "thematique": [
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_bulle_de_bien-etre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_bulle_de_bien-etre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

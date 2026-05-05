@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Navette seniors",
+    "territoire": "Titre: Navette seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1052-pe-navette-seniors.pdf  ---  --- FACILITER LA MOBILITÉ DES SENIORS Une enquête auprès des seniors saint-saulviens a fait ressortir le besoin d'un service de transport plus adapté aux aînés.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "NAVETTE SENIORS Fiche PARTAGE D'EXPÉRIENCE N°915 Villes Amies des Aînés en France CCAS de Saint-Saulve Ville Amie des Aînés depuis 2021 Saint-Saulve (59) Prolonger l'autonomie des Senior Rompre l'isolement et favoriser la socialisation Offrir un moyen de transport abordable et proche des Seniors Garantir la sécurité des Seniors Élaboration du projet suite à une demande des aînés Demande de subvention au département du Nord Recrutement d'un agent et mise en place du règlement de fonctionnement Communication du projet Navette fonctionnant 4 jours/semaine Coût pour les bénéficiaires: 1€/trajet/personne  ---  --- ORGANISATION DE LA NAVETTE La navette Seniors circule le lundi, le mardi et le jeudi de 9h45 à 11h30 et de 14h30 à 16h45, et le vendredi seulement l'après-midi.",
+    "description": {
+        "description_generale": "DE MULTIPLES ACTTIONS Ce projet s'est inscrit dans un ensemble d'actions visant à lutter contre l'isolement social (aux côtés d'ateliers prévention des chutes, ou d'ateliers gymnastique par exemple), qui a fait l'objet d'une demande de subvention au département du Nord.",
+        "contexte": "UNE LARGE UTILISATION DU SERVICE Le CCAS a pu constater une augmentation progressive du nombre de réservations et les seniors sont très satisfaits.",
+        "problematique": "Titre: Navette seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1052-pe-navette-seniors.pdf  ---  --- FACILITER LA MOBILITÉ DES SENIORS Une enquête auprès des seniors saint-saulviens a fait ressortir le besoin d'un service de transport plus adapté aux aînés.",
+        "solution_envisagee": "NAVETTE SENIORS Fiche PARTAGE D'EXPÉRIENCE N°915 Villes Amies des Aînés en France CCAS de Saint-Saulve Ville Amie des Aînés depuis 2021 Saint-Saulve (59) Prolonger l'autonomie des Senior Rompre l'isolement et favoriser la socialisation Offrir un moyen de transport abordable et proche des Seniors Garantir la sécurité des Seniors Élaboration du projet suite à une demande des aînés Demande de subvention au département du Nord Recrutement d'un agent et mise en place du règlement de fonctionnement Communication du projet Navette fonctionnant 4 jours/semaine Coût pour les bénéficiaires: 1€/trajet/personne  ---  --- ORGANISATION DE LA NAVETTE La navette Seniors circule le lundi, le mardi et le jeudi de 9h45 à 11h30 et de 14h30 à 16h45, et le vendredi seulement l'après-midi.",
+        "objectifs": "NAVETTE SENIORS Fiche PARTAGE D'EXPÉRIENCE N°915 Villes Amies des Aînés en France CCAS de Saint-Saulve Ville Amie des Aînés depuis 2021 Saint-Saulve (59) Prolonger l'autonomie des Senior Rompre l'isolement et favoriser la socialisation Offrir un moyen de transport abordable et proche des Seniors Garantir la sécurité des Seniors Élaboration du projet suite à une demande des aînés Demande de subvention au département du Nord Recrutement d'un agent et mise en place du règlement de fonctionnement Communication du projet Navette fonctionnant 4 jours/semaine Coût pour les bénéficiaires: 1€/trajet/personne  ---  --- ORGANISATION DE LA NAVETTE La navette Seniors circule le lundi, le mardi et le jeudi de 9h45 à 11h30 et de 14h30 à 16h45, et le vendredi seulement l'après-midi."
+    },
+    "porteur_initiative": "Titre: Navette seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1052-pe-navette-seniors.pdf  ---  --- FACILITER LA MOBILITÉ DES SENIORS Une enquête auprès des seniors saint-saulviens a fait ressortir le besoin d'un service de transport plus adapté aux aînés.",
+    "date": [
+        "février 2023",
+        "2025",
+        "1052",
+        "2023",
+        "2021",
+        "depuis 2021",
+        "en 2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Navette_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Navette_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

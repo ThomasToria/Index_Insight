@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Renforcer son offre culturelle",
+    "territoire": "Titre: Renforcer son offre culturelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1112-pe-renforcer-son-offre-culturelle-1.pdf  ---  --- UN PROJET CONSTRUIT EN CONSULTATION DES HABITANTS Suite à l'Analyse des Besoins Sociaux (ABS), un constat a été dressé au sein du CCAS de la Plaine-sur-Mer, révélant des besoins spécifiques dans le cadre de l'accompagnement des publics concernés, notamment des seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Renforcer son offre culturelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1112-pe-renforcer-son-offre-culturelle-1.pdf  ---  --- UN PROJET CONSTRUIT EN CONSULTATION DES HABITANTS Suite à l'Analyse des Besoins Sociaux (ABS), un constat a été dressé au sein du CCAS de la Plaine-sur-Mer, révélant des besoins spécifiques dans le cadre de l'accompagnement des publics concernés, notamment des seniors.",
+    "description": {
+        "description_generale": "Enfin, un plan d'action concret a été élaboré pour la mise en œuvre du projet, en tenant compte des ressources disponibles et des partenaires potentiels.",
+        "contexte": "Titre: Renforcer son offre culturelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1112-pe-renforcer-son-offre-culturelle-1.pdf  ---  --- UN PROJET CONSTRUIT EN CONSULTATION DES HABITANTS Suite à l'Analyse des Besoins Sociaux (ABS), un constat a été dressé au sein du CCAS de la Plaine-sur-Mer, révélant des besoins spécifiques dans le cadre de l'accompagnement des publics concernés, notamment des seniors.",
+        "problematique": "Consultation des habitants et analyse des besoins; Construction du projet, prise en compte des ressources et des partenaires potentiels; Une offre en deux axes: les Pauses-Café bimensuelles, et une offre culturelle élargie Large communication du programme Système de transport communal  ---  --- UN GRAND SUCCÈS, À POURSUIVRE!",
+        "solution_envisagee": "Titre: Renforcer son offre culturelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1112-pe-renforcer-son-offre-culturelle-1.pdf  ---  --- UN PROJET CONSTRUIT EN CONSULTATION DES HABITANTS Suite à l'Analyse des Besoins Sociaux (ABS), un constat a été dressé au sein du CCAS de la Plaine-sur-Mer, révélant des besoins spécifiques dans le cadre de l'accompagnement des publics concernés, notamment des seniors.",
+        "objectifs": "RENFORCER SON OFFRE CULTURELLE Fiche PARTAGE D'EXPÉRIENCE N°932 Villes Amies des Aînés en France Ville de La Plaine-sur-Mer Ville Amie des Aînés depuis 2025 La Plaine-sur-Mer (44) Créer du lien; Rompre l'isolement; Développer l'activité culturelle ou sa continuité; Favoriser l'entraide et les échanges, par exemple avec le covoiturage."
+    },
+    "porteur_initiative": "Consultation des habitants et analyse des besoins; Construction du projet, prise en compte des ressources et des partenaires potentiels; Une offre en deux axes: les Pauses-Café bimensuelles, et une offre culturelle élargie Large communication du programme Système de transport communal  ---  --- UN GRAND SUCCÈS, À POURSUIVRE!",
+    "date": [
+        "2025",
+        "1112",
+        "depuis 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Renforcer_son_offre_culturelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Renforcer_son_offre_culturelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

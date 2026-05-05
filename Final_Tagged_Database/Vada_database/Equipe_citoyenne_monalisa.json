@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Equipe citoyenne monalisa",
+    "territoire": "Titre: Equipe citoyenne monalisa Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/852-pe-equipe-citoyenne-monalisa.pdf  ---  --- UN FORT ISOLEMENT DES AÎNÉS Une enquête, menée en 2015 à Maxéville par le bailleur Meurthe et Moselle Habitat, axée sur les seniors-locataires, a révélé que 67% des locataires âgés de 60 ans et plus souffraient de solitude et d'isolement.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Equipe citoyenne monalisa Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/852-pe-equipe-citoyenne-monalisa.pdf  ---  --- UN FORT ISOLEMENT DES AÎNÉS Une enquête, menée en 2015 à Maxéville par le bailleur Meurthe et Moselle Habitat, axée sur les seniors-locataires, a révélé que 67% des locataires âgés de 60 ans et plus souffraient de solitude et d'isolement.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Titre: Equipe citoyenne monalisa Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/852-pe-equipe-citoyenne-monalisa.pdf  ---  --- UN FORT ISOLEMENT DES AÎNÉS Une enquête, menée en 2015 à Maxéville par le bailleur Meurthe et Moselle Habitat, axée sur les seniors-locataires, a révélé que 67% des locataires âgés de 60 ans et plus souffraient de solitude et d'isolement.",
+        "solution_envisagee": "L'équipe se compose d'une quinzaine de personnes et propose, selon les besoins, des visites de courtoisie, de l'aide aux déplacements, de l'accompagnement aux sorties de loisirs, et des activités à domicile.",
+        "objectifs": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com"
+    },
+    "porteur_initiative": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2015",
+        "2019",
+        "depuis 2019",
+        "en 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Equipe_citoyenne_monalisa.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Equipe_citoyenne_monalisa.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

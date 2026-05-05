@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: De nouvelles assises pour mieux se déplacer et se rencontrer",
+    "territoire": "Titre: De nouvelles assises pour mieux se déplacer et se rencontrer Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/392-pe-nouvelles-assises-1.pdf  ---  --- UNE DYNAMIQUE DE CO-CONSTRUCTION L’analyse des besoins sociaux effectuée sur la ville en 2015 et l’entrée dans la démarche Ville amie des aînés ont mis en lumière le manque d’assises adaptées dans les rues les plus empruntées par les seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "L’objectif était double: identifier les principaux parcours des personnes âgées pour leurs déplacements quotidiens et tester le mobilier urbain existant afin de donner un avis sur les différents modèles et sur les critères qui en font ou non un mobilier adapté aux attentes des seniors.",
+    "description": {
+        "description_generale": "Ce projet est également une des actions mises en valeur dans l’axe « Favoriser la mobilité dans la ville » du plan d’action de la démarche Ville amie des aînés.",
+        "contexte": "Prendre acte des éléments principaux issus du diagnostic territorial réalisé avec les habitants.",
+        "problematique": "Titre: De nouvelles assises pour mieux se déplacer et se rencontrer Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/392-pe-nouvelles-assises-1.pdf  ---  --- UNE DYNAMIQUE DE CO-CONSTRUCTION L’analyse des besoins sociaux effectuée sur la ville en 2015 et l’entrée dans la démarche Ville amie des aînés ont mis en lumière le manque d’assises adaptées dans les rues les plus empruntées par les seniors.",
+        "solution_envisagee": "Proposer aux aînés de tester différents types de structures de pause afin qu’ils puissent choisir celui qui leur convient le mieux.",
+        "objectifs": "L’objectif était double: identifier les principaux parcours des personnes âgées pour leurs déplacements quotidiens et tester le mobilier urbain existant afin de donner un avis sur les différents modèles et sur les critères qui en font ou non un mobilier adapté aux attentes des seniors."
+    },
+    "porteur_initiative": "Certains membres ont participé aux marches exploratoires et ont eu un rôle de rapporteurs auprès de l’ensemble des membres en réunion plénière.",
+    "date": [
+        "décembre 2015",
+        "2025",
+        "2015",
+        "2016",
+        "depuis 2015",
+        "en 2015",
+        "en 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

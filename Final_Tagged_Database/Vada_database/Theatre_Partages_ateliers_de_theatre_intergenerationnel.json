@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Théâtre & Part'âges: ateliers de théâtre intergénérationnel",
+    "territoire": "Afin de permettre au plus grand nombre de bénéficier de cette action, il serait souhaitable de pouvoir la développer dans d'autres lieux de rencontre sociale de proximité tels que les Maisons de Quartier de la Métropole Nantaise.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Théâtre & Part'âges: ateliers de théâtre intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/829-concours-2022-57-theatre-part-ages-ateliers-de-theatre-intergenerationnel.pdf  ---  --- DES ATELIERS DE THÉÂTRE INTERGÉNÉRATIONNELS Les ateliers de théâtre intergénérationnels sont des cours de théâtre amateurs, donnés au Théâtre du Cyclope, et qui forment des groupes mixant des enfants de quatre à douze ans avec des seniors de plus de soixante ans, toutes conditions physiques confondues, dans le but de favoriser la culture par et pour tous et de tisser des liens intergénérationnels.",
+    "description": {
+        "description_generale": "Ouverts à tous les habitants de la Ville de Nantes et de la Métropole Nantaise, des moyens de transports sont proposés dans le cadre de l'action pour favoriser la mobilité et rendre le projet accessible.",
+        "contexte": "Initialement, ce projet avait lieu dans deux salles différentes: l'une étant celle du Théâtre du Cyclope et l'autre implantée dans le quartier Malakoff, permettant une mixité sociale accrue et l'accueil de plus nombreux participants.",
+        "problematique": "CONTRE L'EXCLUSION ET POUR L'ACCÈS À LA CULTURE Le projet a été mis en place par l'association Ecosysteme Production en collaboration avec le Théâtre du Cyclope afin de répondre à un besoin social.",
+        "solution_envisagee": "Proposer un accompagnement à la mobilité.",
+        "objectifs": "S'ajoute à ces séances une sortie culturelle dans un autre lieu de la Métropole afin de renforcer la cohésion des groupes de participants."
+    },
+    "porteur_initiative": "CONTRE L'EXCLUSION ET POUR L'ACCÈS À LA CULTURE Le projet a été mis en place par l'association Ecosysteme Production en collaboration avec le Théâtre du Cyclope afin de répondre à un besoin social.",
+    "date": [
+        "2025",
+        "2022",
+        "2021",
+        "2017",
+        "En 2021",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Theatre_Partages_ateliers_de_theatre_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Theatre_Partages_ateliers_de_theatre_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

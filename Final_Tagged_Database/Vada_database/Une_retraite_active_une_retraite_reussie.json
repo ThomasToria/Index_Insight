@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Une retraite active, une retraite réussie",
+    "territoire": "Titre: Une retraite active, une retraite réussie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/307-pe-une-retraite-active.pdf  ---  --- UN CCAS ATTENTIF ET ENGAGÉ La ville d’Angers, par le biais du CCAS, a créé un réseau très important de bénévoles qui s’impliquent chaque jour dans la solidarité et dans la vie des quartiers.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "DES TEMPS D’ÉCHANGE ET DE RENCONTRE POUR SE PRÉPARER À L’ENGAGEMENT Dans ce cadre, le Service Vie Sociale et Aide aux Aidants du CCAS de la Ville d’Angers propose des moments pour s’informer, agir et découvrir des actions d’engagement.",
+    "description": {
+        "description_generale": "C’est une matinée où les personnes du CCAS sont présentes et disponibles pour aiguiller les bénévoles retraités vers une action leur convenant en fonction de leur temps, leurs envies, leurs projets.",
+        "contexte": "Partant du constat que le passage de l’activité salariée à la retraite est souvent source de questionnement et de doutes quant à sa place et fonction dans la société.",
+        "problematique": "C’est pour répondre à cette problématique que le CCAS d’Angers à mis en place le dispositif « une retraite active, une retraite réussie ».",
+        "solution_envisagee": "DES TEMPS D’ÉCHANGE ET DE RENCONTRE POUR SE PRÉPARER À L’ENGAGEMENT Dans ce cadre, le Service Vie Sociale et Aide aux Aidants du CCAS de la Ville d’Angers propose des moments pour s’informer, agir et découvrir des actions d’engagement.",
+        "objectifs": "C’est aussi un temps pour développer des projets collectifs, commencer à agir de manière concrète."
+    },
+    "porteur_initiative": "Titre: Une retraite active, une retraite réussie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/307-pe-une-retraite-active.pdf  ---  --- UN CCAS ATTENTIF ET ENGAGÉ La ville d’Angers, par le biais du CCAS, a créé un réseau très important de bénévoles qui s’impliquent chaque jour dans la solidarité et dans la vie des quartiers.",
+    "date": [
+        "2025",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_retraite_active_une_retraite_reussie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_retraite_active_une_retraite_reussie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

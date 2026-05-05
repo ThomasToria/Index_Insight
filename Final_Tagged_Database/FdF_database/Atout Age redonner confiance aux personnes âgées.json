@@ -1,0 +1,46 @@
+{
+    "titre": "Atout Age: redonner confiance aux personnes âgées",
+    "territoire": "Nous vous invitons également à vous adresser au CCAS (Centre Communal d'Action Sociale) de votre ville.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Développer des services de proximité à destination des familles, des enfants et des personnes âgées.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "Beaucoup de personnes âgées sortent en effet de chez le médecin sans avoir compris le diagnostic établi ou le traitement à suivre.",
+        "problematique": "Redonner confiance aux personnes âgées À Beuvrages, près de Lille, l’Association ATOUT AGE favorise les relations intergénérationnelles pour lutter contre l’isolement.",
+        "solution_envisagee": "ATOUT AGE propose des accompagnements, des visites à domicile, et organise régulièrement des festivités.",
+        "objectifs": "Développer des services de proximité à destination des familles, des enfants et des personnes âgées."
+    },
+    "porteur_initiative": "Atout Age: redonner confiance aux personnes âgées  https://www.fondationdefrance.org/fr/cat-personnes-agees/atout-age-redonner-confiance-aux-personnes-agees  Qui sommes-nous?",
+    "date": [
+        "juin 2017",
+        "2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Atout Age redonner confiance aux personnes âgées.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Atout Age redonner confiance aux personnes âgées.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

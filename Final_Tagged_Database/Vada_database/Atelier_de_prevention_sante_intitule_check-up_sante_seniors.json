@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Atelier de prévention santé intitulé \"check-up santé séniors\"",
+    "territoire": "Titre: Atelier de prévention santé intitulé \"check-up santé séniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1072-concours-2024-atelier-de-prevention-sante-intitule-check-up-sante-seniors.pdf  ---  --- UN BESOIN DE PRÉVENTION La Ville de La Ciotat compte 36 000 habitants, dont 35% de seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Atelier de prévention santé intitulé \"check-up santé séniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1072-concours-2024-atelier-de-prevention-sante-intitule-check-up-sante-seniors.pdf  ---  --- UN BESOIN DE PRÉVENTION La Ville de La Ciotat compte 36 000 habitants, dont 35% de seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de La Ciotat, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Forte de ce constat, la Maison des Seniors a pris le parti dès son ouverture en 2016, d'œuvrer en direction du \"bien vieillir\".",
+        "problematique": "Titre: Atelier de prévention santé intitulé \"check-up santé séniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1072-concours-2024-atelier-de-prevention-sante-intitule-check-up-sante-seniors.pdf  ---  --- UN BESOIN DE PRÉVENTION La Ville de La Ciotat compte 36 000 habitants, dont 35% de seniors.",
+        "solution_envisagee": "La MDS a également pris contact avec le lycée Méditerranée pour associer au projet la classe d'élèves préparant le diplôme d'accompagnement au grand âge.",
+        "objectifs": "Titre: Atelier de prévention santé intitulé \"check-up santé séniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1072-concours-2024-atelier-de-prevention-sante-intitule-check-up-sante-seniors.pdf  ---  --- UN BESOIN DE PRÉVENTION La Ville de La Ciotat compte 36 000 habitants, dont 35% de seniors."
+    },
+    "porteur_initiative": "Titre: Atelier de prévention santé intitulé \"check-up santé séniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1072-concours-2024-atelier-de-prevention-sante-intitule-check-up-sante-seniors.pdf  ---  --- UN BESOIN DE PRÉVENTION La Ville de La Ciotat compte 36 000 habitants, dont 35% de seniors.",
+    "date": [
+        "février 2023",
+        "janvier 2024",
+        "2025",
+        "1072",
+        "2024",
+        "2016",
+        "2023",
+        "depuis 2023",
+        "en",
+        "en 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_de_prevention_sante_intitule_check-up_sante_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_de_prevention_sante_intitule_check-up_sante_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

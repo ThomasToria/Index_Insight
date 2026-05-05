@@ -1,0 +1,47 @@
+{
+    "titre": "L'intergénérationnel ou l’art du gagnant-gagnant",
+    "territoire": "Pour rapprocher les uns et les autres, la Maison familiale rurale d’Aillevillers monte un projet d’atelier bricolage intergénérationnel: « De l’ancien au renouveau ».",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Changer le regard porté sur les seniors et mettre en valeur leur participation à la vie sociale: ce sont les objectifs de la Semaine Bleue.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Les projets que nous finançons associent jeunes, moins jeunes et seniors, permettant ainsi de lutter contre l’isolement, la ghettoïsation des anciens. » C’est par exemple le projet du quartier intergénérationnel Saint-Apollinaire, en Côte d’Or, conçu pour permettre à de jeunes couples et des retraités de bien vivre ensemble, et soutenu par la Fondation de France dès les années 2000.",
+        "solution_envisagee": "Ainsi, si vous souhaitez proposer un projet dans ce cadre, veuillez remplir le formulaire suivant.",
+        "objectifs": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Changer le regard porté sur les seniors et mettre en valeur leur participation à la vie sociale: ce sont les objectifs de la Semaine Bleue."
+    },
+    "porteur_initiative": "L'intergénérationnel ou l’art du gagnant-gagnant  https://www.fondationdefrance.org/fr/cat-personnes-agees/l-intergenerationnel-ou-l-art-du-gagnant-gagnant  Qui sommes-nous?",
+    "date": [
+        "1975",
+        "2000",
+        "2018",
+        "en 1975",
+        "en 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\L'intergénérationnel ou l'art du gagnant-gagnant.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\L'intergénérationnel ou l'art du gagnant-gagnant.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

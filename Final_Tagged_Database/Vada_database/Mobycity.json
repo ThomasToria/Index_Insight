@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Mobycity",
+    "territoire": "Titre: Mobycity Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/376-pe-mobycity.pdf  ---  --- durable, avec un outil de covoiturage courte distance fonctionnelle, avec une cartographie collaborative des lieux de vie éthiques et solidaires des savoirs, avec un système d’échanges locaux intergénérationnel et intercommunal.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "UNE PLATEFORME NUMÉRIQUE MOBYCITY est une plateforme numérique dédiée aux mobilités du quotidien, selon trois types: Sa mise en oeuvre est issue d’une démarche participative afin de répondre et de s’adapter à tous les publics, en particulier les seniors.",
+    "description": {
+        "description_generale": "LES PARTENAIRES DE L’ACTION La participation de plusieurs partenaires a rendu ce projet possible.",
+        "contexte": "Titre: Mobycity Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/376-pe-mobycity.pdf  ---  --- durable, avec un outil de covoiturage courte distance fonctionnelle, avec une cartographie collaborative des lieux de vie éthiques et solidaires des savoirs, avec un système d’échanges locaux intergénérationnel et intercommunal.",
+        "problematique": "A moyen terme, elle a pour objectifs de: A plus long terme, ses objectifs sont d’arriver à toucher les deux tiers de la population senior du territoire et de faire de MOBYCITY le premier espace ressource en ligne de la Ville et de la Métropole de Lyon sur les enjeux de mobilité des seniors.",
+        "solution_envisagee": "Titre: Mobycity Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/376-pe-mobycity.pdf  ---  --- durable, avec un outil de covoiturage courte distance fonctionnelle, avec une cartographie collaborative des lieux de vie éthiques et solidaires des savoirs, avec un système d’échanges locaux intergénérationnel et intercommunal.",
+        "objectifs": "A moyen terme, elle a pour objectifs de: A plus long terme, ses objectifs sont d’arriver à toucher les deux tiers de la population senior du territoire et de faire de MOBYCITY le premier espace ressource en ligne de la Ville et de la Métropole de Lyon sur les enjeux de mobilité des seniors."
+    },
+    "porteur_initiative": "Titre: Mobycity Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/376-pe-mobycity.pdf  ---  --- durable, avec un outil de covoiturage courte distance fonctionnelle, avec une cartographie collaborative des lieux de vie éthiques et solidaires des savoirs, avec un système d’échanges locaux intergénérationnel et intercommunal.",
+    "date": [
+        "2025",
+        "2009",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mobycity.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mobycity.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

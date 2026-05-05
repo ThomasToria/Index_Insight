@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Référentiel adaptations logement neuf et réhabilitation",
+    "territoire": "Titre: Référentiel adaptations logement neuf et réhabilitation Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/663-pe-531-demarche-habitat-favorable-au-vieillissement-rennes-metropole.pdf  ---  --- UN OUTIL PRATIQUE POUR UN HABITAT FAVORABLE AU VIEILLISSEMENT Le besoin de ce référentiel a été engagé dans le cadre de la démarche \"Villes Amies des Aînés\" conduite par la Ville de Rennes depuis 2011 et par Rennes Métropole qui, dans son PLH (Programme Local de l'Habitat) de 2015, a identifié une action pour développer une politique de l'habitat favorable au vieillissement.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Des exemplaires sont mis à disposition au service documentation (ouvert au public et aux professionnels) de l’Hôtel de Rennes Métropole ainsi qu’à la Maison des Aînés et des Aidants où se trouve un logement témoin.",
+    "description": {
+        "description_generale": "D’ores et déjà, la porte coulissante suggérée pour les toilettes ne semble pas donner satisfaction: difficulté à ouvrir et fermer la serrure, peur de rester bloqué dans les toilettes et système ne présentant pas la même préservation de l’intimité qu’une porte classique.",
+        "contexte": "D’ores et déjà, la porte coulissante suggérée pour les toilettes ne semble pas donner satisfaction: difficulté à ouvrir et fermer la serrure, peur de rester bloqué dans les toilettes et système ne présentant pas la même préservation de l’intimité qu’une porte classique.",
+        "problematique": "D’ores et déjà, la porte coulissante suggérée pour les toilettes ne semble pas donner satisfaction: difficulté à ouvrir et fermer la serrure, peur de rester bloqué dans les toilettes et système ne présentant pas la même préservation de l’intimité qu’une porte classique.",
+        "solution_envisagee": "Il a une finalité opérationnelle, allant au-delà de la réglementation et propose des aménagements pour le logement et ses abords.",
+        "objectifs": "Titre: Référentiel adaptations logement neuf et réhabilitation Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/663-pe-531-demarche-habitat-favorable-au-vieillissement-rennes-metropole.pdf  ---  --- UN OUTIL PRATIQUE POUR UN HABITAT FAVORABLE AU VIEILLISSEMENT Le besoin de ce référentiel a été engagé dans le cadre de la démarche \"Villes Amies des Aînés\" conduite par la Ville de Rennes depuis 2011 et par Rennes Métropole qui, dans son PLH (Programme Local de l'Habitat) de 2015, a identifié une action pour développer une politique de l'habitat favorable au vieillissement."
+    },
+    "porteur_initiative": "Coût: 800 € (mise en page et impression du référentiel).  ---  --- UN PROJET PARTICIPATIF ET PARTENARIAL En amont dans le cadre de l’axe 1 de ReVAA (Rennes Ville Amie des Aînés) « Préconiser un habitat favorable au vieillissement », des représentants d’aînés du collège « Habitat » du CODEM de Rennes d’une part et un groupe de 20 personnes, animé par une sociologue externe, d’autre part, ont travaillé pendant plusieurs séances pour exprimer les besoins, attentes, points de vigilance pour un habitat favorable au vieillissement.",
+    "date": [
+        "13 octobre 2016",
+        "octobre 2016",
+        "2025",
+        "2011",
+        "2015",
+        "2017",
+        "2016",
+        "depuis 2011",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Referentiel_adaptations_logement_neuf_et_rehabilitation.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS",
+    "territoire": "LA TEMPORALITÉ Le 21 novembre 2022 LA LOCALISATION L ’action s’est déroulée à l’hôtel Arawak au gosier cependant les structures conviées interviennent sur tout le territoire guadeloupéen.",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Titre: SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS Pages: 71  Formation des professionnels SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS LES ACTEURS Porteur(s) de la pépite: le service Action Sociale Retraite.",
+    "description": {
+        "description_generale": "Titre: SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS Pages: 71  Formation des professionnels SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS LES ACTEURS Porteur(s) de la pépite: le service Action Sociale Retraite.",
+        "contexte": "Titre: SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS Pages: 71  Formation des professionnels SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS LES ACTEURS Porteur(s) de la pépite: le service Action Sociale Retraite.",
+        "problematique": "Ils ont été reçus durant une journée au cours de laquelle des informations et conseils pratiques sur la dénutrition et ses enjeux, leurs ont été dispensés par des professionnels de santé (un gériatre, un dentiste, un ergothérapeute, une diététicienne).",
+        "solution_envisagee": "LES RÉSULTATS / IMPACTS Tout d’abord, nous avions prévu vingt places pour la 1ère édition de cette formation, mais nous avons reçu plus d’une cinquantaine de réponses favorables à notre invitation, ce qui montre d’une part l’intérêt des professionnels pour la thématique de la dénutrition et leur besoin en formations / informations.",
+        "objectifs": "LA FINALITÉ Les objectifs de cette journée de formation sont de permettre aux professionnels intervenant à domicile de: • acquérir des notions de base concernant le vieillissement humain; • acquérir des notions pratiques sur la prévention de la perte d’autonomie et sur la promotion du bien-vieillir; • acquérir des notions théoriques sur les besoins nutritionnels de base de la Personne âgée; • aborder les aspects de repérage de la dénutrition, les moyens de prévention et de prise en charge au domicile; • acquérir les notions de base pour la gestion de l’alimentation des Personnes âgées en situations pathologiques (maladies neurodégénératives, fin de vie, diabète et HTA – refus alimentaire); • alerter et orienter vers des personnes ressources et des professionnels de santé du territoire."
+    },
+    "porteur_initiative": "Titre: SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS Pages: 71  Formation des professionnels SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS LES ACTEURS Porteur(s) de la pépite: le service Action Sociale Retraite.",
+    "date": [
+        "21 novembre 2022",
+        "novembre 2022",
+        "2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

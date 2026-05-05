@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Parcours prévention santé seniors",
+    "territoire": "Titre: Parcours prévention santé seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1026-concours-2023-parcours-prevention-sante-seniors.pdf  ---  --- POUR L'AUTONOMIE DES AÎNÉS Le département de la Réunion a une population vieillissante.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Au vu de ce constat, la ville a signé son contrat local de santé: une des priorités est portée sur l'autonomie des personnes âgées afin de retarder l’entrée dans la dépendance et de rompre l'isolement de ce public vulnérable.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Paul, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Au vu de ce constat, la ville a signé son contrat local de santé: une des priorités est portée sur l'autonomie des personnes âgées afin de retarder l’entrée dans la dépendance et de rompre l'isolement de ce public vulnérable.",
+        "problematique": "Au vu de ce constat, la ville a signé son contrat local de santé: une des priorités est portée sur l'autonomie des personnes âgées afin de retarder l’entrée dans la dépendance et de rompre l'isolement de ce public vulnérable.",
+        "solution_envisagee": "Le service seniors permet de mobiliser les club de 3ème âge, et les services proximité.",
+        "objectifs": "CONTENU DES ATELIERS La gym seniors a pour objectif est de développer les activités physiques en gardant comme ligne directrice la notion de santé, de bien-être et de plaisir."
+    },
+    "porteur_initiative": "Titre: Parcours prévention santé seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1026-concours-2023-parcours-prevention-sante-seniors.pdf  ---  --- POUR L'AUTONOMIE DES AÎNÉS Le département de la Réunion a une population vieillissante.",
+    "date": [
+        "décembre 2023",
+        "2025",
+        "1026",
+        "2023",
+        "2030",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_prevention_sante_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Parcours_prevention_sante_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Portage de livres à domicile",
+    "territoire": "Titre: Portage de livres à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/383-pe-portage-de-livres-a-domicile-mise-a-jour-2023.pdf  ---  --- UN SERVICE SOCIAL ET SOLIDAIRE La charte de l’UNESCO prône l’accès à tous à la connaissance, à l’information et au développement culturel.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Dans le but de favoriser la lecture, une activité permettant d’exercer son esprit critique et de s’ouvrir au monde extérieur, mais aussi de lutter contre l’isolement des seniors, la Ville de Blagnac a mis en place un dispositif de portage de livres à domicile pour les personnes âgées à mobilité très réduite.",
+    "description": {
+        "description_generale": "Mettre en place le portage de jeux, livre- audio, cd, dvd.  ---  --- Si, comme la Ville de Blagnac, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN SERVICE GRATIFIANT Actuellement, sept personnes bénéficient de ce service pour une capacité maximale annuelle estimée à quinze usagers.",
+        "contexte": "Titre: Portage de livres à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/383-pe-portage-de-livres-a-domicile-mise-a-jour-2023.pdf  ---  --- UN SERVICE SOCIAL ET SOLIDAIRE La charte de l’UNESCO prône l’accès à tous à la connaissance, à l’information et au développement culturel.",
+        "problematique": "Dans le but de favoriser la lecture, une activité permettant d’exercer son esprit critique et de s’ouvrir au monde extérieur, mais aussi de lutter contre l’isolement des seniors, la Ville de Blagnac a mis en place un dispositif de portage de livres à domicile pour les personnes âgées à mobilité très réduite.",
+        "solution_envisagee": "Les personnes âgées apprécient le portage de livres qui leur permet de continuer ou de renouer avec la lecture.",
+        "objectifs": "Dans le but de favoriser la lecture, une activité permettant d’exercer son esprit critique et de s’ouvrir au monde extérieur, mais aussi de lutter contre l’isolement des seniors, la Ville de Blagnac a mis en place un dispositif de portage de livres à domicile pour les personnes âgées à mobilité très réduite."
+    },
+    "porteur_initiative": "La compagnie apportée par le bibliothécaire lors de sa visite mensuelle permet également aux seniors de développer un lien social et de lutter contre l’isolement.",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Portage_de_livres_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Portage_de_livres_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

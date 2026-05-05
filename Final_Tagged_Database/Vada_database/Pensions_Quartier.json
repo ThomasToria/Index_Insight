@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Pens(i)ons Quartier",
+    "territoire": "Titre: Pens(i)ons Quartier Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/277-pe-pensions-quartier.pdf  ---  --- L‘ENTRAIDE ENTRE VOISINS Afin d’activer et de renforcer l’entraide entre voisins de tout âge et de toute origine socio-culturelle, via la création de petits réseaux locaux, une collaboration s’est installée entre la Ville de Bruxelles, le Kenniscentrum Woonzorg Brussel (KWC), le Service d’Aide aux Seniors bruxellois et le Service Seniors de la Ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Il est ouvert à tous les habitants: les personnes âgées qui vivent seules, personnes à charge, handicapés, salariés et chômeurs, femmes au foyer, les hommes, les jeunes, etc.",
+    "description": {
+        "description_generale": "ENTHOUSIASME ET RECONNAISSANCE Les bénévoles sont enthousiastes au sujet de cette initiative, ils s’engagent chaque jour pour s’entraider, se réunissent régulièrement pour améliorer la qualité du service et se sont engagés à la poursuite de la croissance du projet, à la fois dans leur propre quartier et ailleurs.",
+        "contexte": "Il est ouvert à tous les habitants: les personnes âgées qui vivent seules, personnes à charge, handicapés, salariés et chômeurs, femmes au foyer, les hommes, les jeunes, etc.",
+        "problematique": "Les bénévoles s’engagent pour des raisons très différentes: par altruisme parce que cela leur donne un sentiment positif, parce qu’ils pourraient aussi avoir besoin d’aide sur le long terme, pour le contact social, pour connaître d’autres bénévoles, pour acquérir une expérience, pour apporter quelque chose à la société, pour lutter contre l’exclusion sociale dans leur environnement etc.",
+        "solution_envisagee": "Il est ouvert à tous les habitants: les personnes âgées qui vivent seules, personnes à charge, handicapés, salariés et chômeurs, femmes au foyer, les hommes, les jeunes, etc.",
+        "objectifs": "Organiser des réunions mensuelles afin d’expliquer le projet aux membres et les objectifs."
+    },
+    "porteur_initiative": "Il est ouvert à tous les habitants: les personnes âgées qui vivent seules, personnes à charge, handicapés, salariés et chômeurs, femmes au foyer, les hommes, les jeunes, etc.",
+    "date": [
+        "novembre 2013",
+        "2025",
+        "2013",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pensions_Quartier.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Pensions_Quartier.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

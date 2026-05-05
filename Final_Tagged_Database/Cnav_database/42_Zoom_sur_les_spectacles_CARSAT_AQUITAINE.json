@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Zoom sur les spectacles CARSAT AQUITAINE",
+    "territoire": "LA TEMPORALITÉ Depuis le 01/01/2016 LA LOCALISATION Départements de l’Ancienne Aquitaine: Dordogne / Gironde / Landes / Lot-et-Garonne /Pyrénées-Atlantiques.",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Les objectifs du théâtre forum « trois marches » sont donc de: • promouvoir la démarche d’accompagnement de la Carsat « Aidants, Aidés, une qualité de vie à préserver » auprès des structures d’aide à domicile pour les faire adhérer à la démarche; • faire connaître la démarche et les mesures de prévention pour prévenir les chutes à domicile, dont les aides techniques adaptées, aux aidants professionnels / familiaux et seniors aidés; • permettre le débat entre intervenantes à domicile, aidants familiaux, retraités, sur la question du logement, lieu de vie et lieu de travail, comment le rendre plus sûr pour permettre un maintien à domicile de qualité, en évitant notamment les chutes pour les bénéficiaires mais également pour toutes personnes présentes au domicile.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE Le théâtre-forum de prévention: Cette forme de théâtre mêle représentation théâtrale, participation des spectateurs, débats et information.",
+        "contexte": "Titre: Zoom sur les spectacles CARSAT AQUITAINE Pages: 80, 81, 82, 83, 84  Zoom sur les spectacles CARSAT AQUITAINE LES ACTEURS Porteur(s) de la pépite: Carsat Aquitaine, service risques professionnels et action sanitaire et sociale.",
+        "problematique": "C’est un dispositif original, interactif d’intelligence collective permettant notamment de sensibiliser ses publics au repérage des risques au domicile, à présenter un panel d’aides techniques existantes et de réfléchir ensemble à des situations problématiques que nous pourrions éviter ou améliorer.",
+        "solution_envisagee": "Quand une solution pour aider un des personnages est proposée, le médiateur invite le spectateur à l’expérimenter sur scène, en improvisation avec les acteurs. • Conclusion: un retour sur les échanges, idées, propositions faites permet de spécifier certains sujets abordés et de renvoyer vers les professionnels locaux qui peuvent aider les spectateurs à aller plus loin.",
+        "objectifs": "Les objectifs du théâtre forum « trois marches » sont donc de: • promouvoir la démarche d’accompagnement de la Carsat « Aidants, Aidés, une qualité de vie à préserver » auprès des structures d’aide à domicile pour les faire adhérer à la démarche; • faire connaître la démarche et les mesures de prévention pour prévenir les chutes à domicile, dont les aides techniques adaptées, aux aidants professionnels / familiaux et seniors aidés; • permettre le débat entre intervenantes à domicile, aidants familiaux, retraités, sur la question du logement, lieu de vie et lieu de travail, comment le rendre plus sûr pour permettre un maintien à domicile de qualité, en évitant notamment les chutes pour les bénéficiaires mais également pour toutes personnes présentes au domicile."
+    },
+    "porteur_initiative": "Titre: Zoom sur les spectacles CARSAT AQUITAINE Pages: 80, 81, 82, 83, 84  Zoom sur les spectacles CARSAT AQUITAINE LES ACTEURS Porteur(s) de la pépite: Carsat Aquitaine, service risques professionnels et action sanitaire et sociale.",
+    "date": [
+        "01/01/2016",
+        "2016",
+        "7000",
+        "2024",
+        "Depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

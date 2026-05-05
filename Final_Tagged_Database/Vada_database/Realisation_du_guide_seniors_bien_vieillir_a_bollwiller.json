@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Réalisation du guide seniors \" bien vieillir à bollwiller\"",
+    "territoire": "Le besoin de réaliser le guide s'est exprimé dans le cadre de tables rondes organisées par la ville et de l'enquête (par questionnaire) menée conjointement avec l'agence d'urbanisme de la région mulhousienne auprès de toutes les personnes de notre commune âgées de plus de 60 ans.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Réalisation du guide seniors \" bien vieillir à bollwiller\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1021-pe-realisation-du-guide-seniors-bien-vieillir-a-bollwiller-1.pdf  ---  --- UN GUIDE POUR LES SENIORS ET LEUR ENTOURAGE Le but de ce guide est de proposer aux seniors et à leur famille, mais également aux aidants un outil qui apporte des informations utiles et des réponses concrètes et pratiques concernant un ensemble de thématiques relatives aux problématiques auxquelles les publics concernés peuvent être confrontées dans leur vie quotidienne.",
+    "description": {
+        "description_generale": "Appel à candidature et constitution d’un groupe de travail Réunions de travail, rédaction du guide Présentation du guide à l'assemblée des seniors et publication  ---  --- UNE COMMUNICATION IMPORTANTE Le guide a également été présenté dans le bulletin municipal et dans le journal local.",
+        "contexte": "Si, comme la Ville de Bollwiller, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Titre: Réalisation du guide seniors \" bien vieillir à bollwiller\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1021-pe-realisation-du-guide-seniors-bien-vieillir-a-bollwiller-1.pdf  ---  --- UN GUIDE POUR LES SENIORS ET LEUR ENTOURAGE Le but de ce guide est de proposer aux seniors et à leur famille, mais également aux aidants un outil qui apporte des informations utiles et des réponses concrètes et pratiques concernant un ensemble de thématiques relatives aux problématiques auxquelles les publics concernés peuvent être confrontées dans leur vie quotidienne.",
+        "solution_envisagee": "Titre: Réalisation du guide seniors \" bien vieillir à bollwiller\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1021-pe-realisation-du-guide-seniors-bien-vieillir-a-bollwiller-1.pdf  ---  --- UN GUIDE POUR LES SENIORS ET LEUR ENTOURAGE Le but de ce guide est de proposer aux seniors et à leur famille, mais également aux aidants un outil qui apporte des informations utiles et des réponses concrètes et pratiques concernant un ensemble de thématiques relatives aux problématiques auxquelles les publics concernés peuvent être confrontées dans leur vie quotidienne.",
+        "objectifs": "Par ailleurs, le guide a été relu par des personnes extérieures au groupe de travail afin de vérifier, d'une part la fiabilité des informations communiquées, et d'autre part la bonne compréhension des sujets développés, le format et la forme."
+    },
+    "porteur_initiative": "Si, comme la Ville de Bollwiller, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "1021",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

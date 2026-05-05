@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Couleurs seniors",
+    "territoire": "Titre: Couleurs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf  ---  --- UN MAGAZINE POUR S'INFORMER Le diagnostic vieillissement réalisé en 2015 a mis en évidence un besoin d’informations ciblées à destination des retraités.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Couleurs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf  ---  --- UN MAGAZINE POUR S'INFORMER Le diagnostic vieillissement réalisé en 2015 a mis en évidence un besoin d’informations ciblées à destination des retraités.",
+    "description": {
+        "description_generale": "Ci-dessous la page \"je l'ai vécu\" du magazine coule urs seniors.  ---  --- BILAN DU PROJET Pour évaluer l’action, un questionnaire de satisfaction a été distribué en décembre 2017 et des retours de vive voix ont été appréciés lors des activités et temps organisés par le CCAS.",
+        "contexte": "Titre: Couleurs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf  ---  --- UN MAGAZINE POUR S'INFORMER Le diagnostic vieillissement réalisé en 2015 a mis en évidence un besoin d’informations ciblées à destination des retraités.",
+        "problematique": "Titre: Couleurs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf  ---  --- UN MAGAZINE POUR S'INFORMER Le diagnostic vieillissement réalisé en 2015 a mis en évidence un besoin d’informations ciblées à destination des retraités.",
+        "solution_envisagee": "Titre: Couleurs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf  ---  --- UN MAGAZINE POUR S'INFORMER Le diagnostic vieillissement réalisé en 2015 a mis en évidence un besoin d’informations ciblées à destination des retraités.",
+        "objectifs": "ADAPTER LA DIFFUSION DU MAGAZINE AU TERRITOIRE Pour réaliser ce projet, des réflexions sur le contenu du magazine ont eu lieu, sur les intentions des informations, leurs objectifs et les rubriques thématiques."
+    },
+    "porteur_initiative": "Titre: Couleurs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf  ---  --- UN MAGAZINE POUR S'INFORMER Le diagnostic vieillissement réalisé en 2015 a mis en évidence un besoin d’informations ciblées à destination des retraités.",
+    "date": [
+        "avril 2016",
+        "décembre 2017",
+        "2025",
+        "2015",
+        "2016",
+        "2019",
+        "2017",
+        "depuis 2019",
+        "en 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Couleurs_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Couleurs_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

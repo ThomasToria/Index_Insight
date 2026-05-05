@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Mix'Âges: savoir partagés",
+    "territoire": "Titre: Mix'Âges: savoir partagés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/244-244-mixages.pdf  ---  --- UNE JOURNÉE POUR PAR - TAGER Le 19 avril 2016, la Ville d’ Am - bérieu-en-Bugey a organisé une journée placée sous le signe de l’intergénération et du partage de savoirs pour ses habitants.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Mix'Âges: savoir partagés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/244-244-mixages.pdf  ---  --- UNE JOURNÉE POUR PAR - TAGER Le 19 avril 2016, la Ville d’ Am - bérieu-en-Bugey a organisé une journée placée sous le signe de l’intergénération et du partage de savoirs pour ses habitants.",
+    "description": {
+        "description_generale": "L’ORGANISATION LOGISTIQUE DU PROJET La MJC de la Ville (Maison des Jeunes et de la Culture) a prêté les locaux pour que les animations se déroulent dans les meilleures conditions.",
+        "contexte": "Titre: Mix'Âges: savoir partagés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/244-244-mixages.pdf  ---  --- UNE JOURNÉE POUR PAR - TAGER Le 19 avril 2016, la Ville d’ Am - bérieu-en-Bugey a organisé une journée placée sous le signe de l’intergénération et du partage de savoirs pour ses habitants.",
+        "problematique": "Titre: Mix'Âges: savoir partagés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/244-244-mixages.pdf  ---  --- UNE JOURNÉE POUR PAR - TAGER Le 19 avril 2016, la Ville d’ Am - bérieu-en-Bugey a organisé une journée placée sous le signe de l’intergénération et du partage de savoirs pour ses habitants.",
+        "solution_envisagee": "Trouver les locaux où se déroule l’action et des par- tenaires pouvant proposer des animations.",
+        "objectifs": "Permettre un échange de savoirs entre les générations par\nla création d’un événement intergénérationnel articulé autour\nd’ateliers\nPRATIQUE\nRéunir les membres du Comité de Pilotage. Organiser des\nréunions d’échange avec le Conseil Municipal des Jeunes)\n(CMJ) en préparant plusieurs groupes de travail. Créer les\nflyers et penser la communication sur les divers supports mu-\nnicipaux. Trouver les locaux où se déroule l’action et des par-\ntenaires pouvant proposer des animations. Prévoir un lieu où\nse restaurer le midi et un moment de partage et de convivialité\navec l’ensemble des participants en ¿n de journée.\nCoût: 200 euros.\nAMBÉRIEU-EN-BUGEY\nVille Amie des Aînés depuis 03-2015\nAmbérieu-en-Bugey (01)\nFiche publiée le 03/06/2016\nwww.villesamiesdesaines-rf.fr\nLIEN SOCIAL ET SOLIDARITÉ\nCULTURE ET LOISIRS\nSi vous avez mis en place des projets pour\nles aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Titre: Mix'Âges: savoir partagés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/244-244-mixages.pdf  ---  --- UNE JOURNÉE POUR PAR - TAGER Le 19 avril 2016, la Ville d’ Am - bérieu-en-Bugey a organisé une journée placée sous le signe de l’intergénération et du partage de savoirs pour ses habitants.",
+    "date": [
+        "19 avril 2016",
+        "avril 2016",
+        "03/06/2016",
+        "2025",
+        "2016",
+        "2017",
+        "2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\MixAges_savoir_partages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\MixAges_savoir_partages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

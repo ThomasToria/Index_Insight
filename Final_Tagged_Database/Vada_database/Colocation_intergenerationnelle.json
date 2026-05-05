@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Colocation intergénérationnelle",
+    "territoire": "Titre: Colocation intergénérationnelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/710-pe110422-15-colocation-intergenerationnelle-caluireetcuire.pdf  ---  --- CRÉER DES LIENS: UNE VOLONTÉ COMMUNE L'idée du projet est de profiter du logement vacant du gardien de la Résidence Autonomie de Caluire-et-Cuire pour proposer l'appartement à la location à deux jeunes étudiants à un prix modéré pour créer du lien avec les résidents retraités.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Ensuite, le choix d'une formule financière intermédiaire a été énoncé: il s'agissait de proposer un logement modéré contre une présence physique, un week-end sur deux, et un engagement moral de créer du lien avec les résidents.",
+    "description": {
+        "description_generale": "Une offre d'actions et d'animations par les jeunes en lien avec leurs études (par exemple école de textile, école des Beaux Arts...) serait peut-être un autre moyen de faire évoluer le projet.",
+        "contexte": "Ensuite, le choix d'une formule financière intermédiaire a été énoncé: il s'agissait de proposer un logement modéré contre une présence physique, un week-end sur deux, et un engagement moral de créer du lien avec les résidents.",
+        "problematique": "Répondre aux difficultés de logement des étudiants en région lyonnaise.",
+        "solution_envisagee": "Ensuite, le choix d'une formule financière intermédiaire a été énoncé: il s'agissait de proposer un logement modéré contre une présence physique, un week-end sur deux, et un engagement moral de créer du lien avec les résidents.",
+        "objectifs": "Ensuite, le choix d'une formule financière intermédiaire a été énoncé: il s'agissait de proposer un logement modéré contre une présence physique, un week-end sur deux, et un engagement moral de créer du lien avec les résidents."
+    },
+    "porteur_initiative": "Ensuite, le choix d'une formule financière intermédiaire a été énoncé: il s'agissait de proposer un logement modéré contre une présence physique, un week-end sur deux, et un engagement moral de créer du lien avec les résidents.",
+    "date": [
+        "2025",
+        "2016",
+        "2021",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Colocation_intergenerationnelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Colocation_intergenerationnelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

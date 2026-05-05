@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: A petits pas dans mon quartier",
+    "territoire": "Titre: A petits pas dans mon quartier Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/352-pe-a-petits-pas-dans-mon-quartier-mise-en-forme-2023.pdf  ---  --- À PETITS PAS DANS MON QUARTIER Fiche PARTAGE D'EXPÉRIENCE N°352 Villes Amies des Aînés en France Lyon Ville Amie des Aînés depuis 2012 Lyon (69) Fiche publiée le 21/12/2017 Améliorer l’autonomie des personnes âgées au quotidien.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Pour faciliter l’i nvestissement des commerces de proximité, la psychomotricienne de la résidence autonomie seniors Chalumeaux, ainsi qu’une psychomotricienne- stagiaire ont mis en place un groupe psychomoteur de personnes âgées des résidences autonomie seniors de la Ville de Lyon.",
+    "description": {
+        "description_generale": "Coût: 1 786€.  ---  --- LES PERSPECTIVES DU PROJET Le CCAS de la Ville de Lyon a pour objectif de développer l’action “A petits pas dans mon quartier” aux 15 autres résidences autonomie, ainsi qu’aux personnes âgées avoisinantes, et de distribuer en nombre suffisant des plans avec des supports attractifs (impression grand format, couleurs, etc.).",
+        "contexte": "C e questionnaire a été distribué en amont et en aval de la réalisation de l’action, permettant de constater les résultats obtenus.",
+        "problematique": "Celui-ci s’e st composé des résidents de Chalumeaux ayant des pathologies neurologiques ou isolées, notamment en raison de douleurs chroniques et difficultés à l a marche.",
+        "solution_envisagee": "Coût: 1 786€.  ---  --- LES PERSPECTIVES DU PROJET Le CCAS de la Ville de Lyon a pour objectif de développer l’action “A petits pas dans mon quartier” aux 15 autres résidences autonomie, ainsi qu’aux personnes âgées avoisinantes, et de distribuer en nombre suffisant des plans avec des supports attractifs (impression grand format, couleurs, etc.).",
+        "objectifs": "Coût: 1 786€.  ---  --- LES PERSPECTIVES DU PROJET Le CCAS de la Ville de Lyon a pour objectif de développer l’action “A petits pas dans mon quartier” aux 15 autres résidences autonomie, ainsi qu’aux personnes âgées avoisinantes, et de distribuer en nombre suffisant des plans avec des supports attractifs (impression grand format, couleurs, etc.)."
+    },
+    "porteur_initiative": "Coût: 1 786€.  ---  --- LES PERSPECTIVES DU PROJET Le CCAS de la Ville de Lyon a pour objectif de développer l’action “A petits pas dans mon quartier” aux 15 autres résidences autonomie, ainsi qu’aux personnes âgées avoisinantes, et de distribuer en nombre suffisant des plans avec des supports attractifs (impression grand format, couleurs, etc.).",
+    "date": [
+        "septembre 2016",
+        "Janvier 2017",
+        "mai 2017",
+        "21/12/2017",
+        "2025",
+        "2023",
+        "2012",
+        "2017",
+        "2016",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_petits_pas_dans_mon_quartier.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_petits_pas_dans_mon_quartier.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

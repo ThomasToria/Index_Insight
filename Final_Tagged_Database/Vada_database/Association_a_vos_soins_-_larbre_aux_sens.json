@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Association \"a vos soins\" - l'arbre aux sens",
+    "territoire": "Titre: Association \"a vos soins\" - l'arbre aux sens Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1010-concours-2023-association-a-vos-soins-l-arbre-aux-sens.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN CONSTAT PERSONNEL À L'ORIGINE DU PROJET L’idée de ce projet est partie d’un constat personnel.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ASSOCIATION \"A VOS SOINS\" - L'ARBRE AUX SENS Fiche PARTAGE D'EXPÉRIENCE N°872 Villes Amies des Aînés en France Association \"A VOS SOINS\" Saint-Nazaire (44) Ville Amie des Aînés depuis 2019 Préserver le bien vieillir à travers le bien-être de sa santé et des liens sociaux dans des lieux en extérieur pour les publics seniors.",
+    "description": {
+        "description_generale": "Une évaluation fine de l'impact du projet chez les bénéficiaires.  ---  --- UNE APPLICATION SPÉCIALEMENT DÉDIÉE CRÉE PAR L'ASSOCIATION \"À VOS SOINS\" Une application a été crée, dédiée aux recueils des différents indicateurs recherchés, comme le niveau d’autonomie, les interactions sociales, la motivation et la confiance en soi, en œuvrant à la stimulation des sens.",
+        "contexte": "Titre: Association \"a vos soins\" - l'arbre aux sens Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1010-concours-2023-association-a-vos-soins-l-arbre-aux-sens.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN CONSTAT PERSONNEL À L'ORIGINE DU PROJET L’idée de ce projet est partie d’un constat personnel.",
+        "problematique": "Lutter contre l'isolement des personnes, la perte de liens sociaux et les problèmes de mémoire dû aux manques d'interactions.",
+        "solution_envisagee": "LE THÈME DES CINQ SENS COMME IDÉE DIRECTRICE Pour la planification du projet, de multiples étapes ont été franchies: identification et rencontres des intervenants professionnels, recherche de financements du projet, rencontres de multiples acteurs locaux pour la mise en place de partenariats.",
+        "objectifs": "Pour finir, chaque intervenant répond à la fin de sa séance à quelques questions par écrit concernant les objectifs prévus de la séance, les objectifs atteints, les difficultés éventuellement rencontrées, les progrès (ou le recul) observés chez les bénéficiaires et la tendance générale du groupe."
+    },
+    "porteur_initiative": "Titre: Association \"a vos soins\" - l'arbre aux sens Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1010-concours-2023-association-a-vos-soins-l-arbre-aux-sens.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN CONSTAT PERSONNEL À L'ORIGINE DU PROJET L’idée de ce projet est partie d’un constat personnel.",
+    "date": [
+        "septembre 2022",
+        "2025",
+        "1010",
+        "2023",
+        "2019",
+        "4768",
+        "2020",
+        "2022",
+        "depuis 2019",
+        "depuis 2020",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_a_vos_soins_-_larbre_aux_sens.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Association_a_vos_soins_-_larbre_aux_sens.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

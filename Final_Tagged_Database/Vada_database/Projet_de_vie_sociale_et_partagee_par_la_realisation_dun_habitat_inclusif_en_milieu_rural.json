@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural",
+    "territoire": "Titre: Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/725-pe-593-210422projet-d-habitat-inclusif-meaulne.pdf  ---  --- PROJET DE VIE SOCIALE ET PARTAGÉE PAR LA RÉALISATION D'UN HABITAT INCLUSIF EN MILIEU RURAL Concours  RFVAA 2021 UN PROJET RÉFLÉCHI AVEC LES HABITANTS Depuis octobre 2015, une réflexion est menée en partenariat avec les habitants de Meaulne-Vitray, village de 900 habitants, pour la création en centre bourg d'un lotissement inclusif destiné aux personnes âgées de la commune, intéressées par une vie semi individuelle et semi collective.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale",
+        "internationale"
+    ],
+    "public_vise": "Titre: Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/725-pe-593-210422projet-d-habitat-inclusif-meaulne.pdf  ---  --- PROJET DE VIE SOCIALE ET PARTAGÉE PAR LA RÉALISATION D'UN HABITAT INCLUSIF EN MILIEU RURAL Concours  RFVAA 2021 UN PROJET RÉFLÉCHI AVEC LES HABITANTS Depuis octobre 2015, une réflexion est menée en partenariat avec les habitants de Meaulne-Vitray, village de 900 habitants, pour la création en centre bourg d'un lotissement inclusif destiné aux personnes âgées de la commune, intéressées par une vie semi individuelle et semi collective.",
+    "description": {
+        "description_generale": "Si, comme Meaulne, vous avez mis en place des proje ts pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Le coût total pour ce projet serait d’environ 900 000 euros (financements normalement par l'Europe, la Région Auvergne Rhône-Alpes, le département, et autres).",
+        "contexte": "L'objectif étant d'anticiper les besoins face à la perte d'autonomie et de lutter contre l'isolement.",
+        "problematique": "L'objectif étant d'anticiper les besoins face à la perte d'autonomie et de lutter contre l'isolement.",
+        "solution_envisagee": "La structure proposera huit logements aménagés de manière à ce que chacun ait son propre espace intérieur comme extérieur afin de pouvoir recevoir et choisir les moments de contacts.",
+        "objectifs": "L'objectif étant d'anticiper les besoins face à la perte d'autonomie et de lutter contre l'isolement."
+    },
+    "porteur_initiative": "Il est imaginé comme l'organisation d'un petit village, les logements devant rayonner autour d'un bourg: véritable lieu de rencontres et d'échanges.",
+    "date": [
+        "octobre 2015",
+        "2025",
+        "2021",
+        "2015",
+        "2014",
+        "Depuis 2015",
+        "depuis 2014"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

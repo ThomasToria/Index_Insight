@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Programme été",
+    "territoire": "Titre: Programme été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/667-pe-535-programme-ete-saint-priest.pdf  ---  --- UN PROGRAMME D'ACTIVITÉS VARIÉES POUR L'ÉTÉ Ce projet est né du constat qu’une partie des personnes âgées ne partent pas en vacances par manque de ressources (financières, sociales, état de santé…).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "A l’origine, le public visé était les retraités isolés et ayant de faibles ressources qui ne partent pas en vacances.",
+    "description": {
+        "description_generale": "Pour les professionnels, ce dispositif a été pensé pour développer un réseau d’acteurs de proximité et coordonner l’ensemble des actions.",
+        "contexte": "Titre: Programme été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/667-pe-535-programme-ete-saint-priest.pdf  ---  --- UN PROGRAMME D'ACTIVITÉS VARIÉES POUR L'ÉTÉ Ce projet est né du constat qu’une partie des personnes âgées ne partent pas en vacances par manque de ressources (financières, sociales, état de santé…).",
+        "problematique": "Favoriser le lien social pour rompre l’isolement qui augmente pendant la période estivale.",
+        "solution_envisagee": "Le CCAS avec les partenaires socio-culturels de la Ville de Saint-Priest proposent donc, grâce au projet, un panel d’activités variées en juillet et en août aux seniors.",
+        "objectifs": "Cependant, ce projet atteint les objectifs de favoriser la vie sociale l’été et d’initier à de nouvelles pratiques de loisirs."
+    },
+    "porteur_initiative": "Titre: Programme été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/667-pe-535-programme-ete-saint-priest.pdf  ---  --- UN PROGRAMME D'ACTIVITÉS VARIÉES POUR L'ÉTÉ Ce projet est né du constat qu’une partie des personnes âgées ne partent pas en vacances par manque de ressources (financières, sociales, état de santé…).",
+    "date": [
+        "2025",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Programme_ete.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Programme_ete.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

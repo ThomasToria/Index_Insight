@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Pass'sport santé séniors les voies d'un vieillissement réussi",
+    "territoire": "Titre: Pass'sport santé séniors les voies d'un vieillissement réussi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/965-concours-2023-pass-sport-sante-seniors-les-voies-d-un-vieillissement-reussi.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN MANQUE D'ACTIVITÉS ADAPTÉES MIS EN ÉVIDENCE LORS DE LA CRISE DU COVID Les différentes périodes de confinements ont mis en évidence le manque au niveau des activités, la perte de lien mais aussi une augmentation des demandes d'Allocation pour la Personne âgée pour les séniors ayant un accroissement de leur perte d'autonomie.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Pass'sport santé séniors les voies d'un vieillissement réussi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/965-concours-2023-pass-sport-sante-seniors-les-voies-d-un-vieillissement-reussi.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN MANQUE D'ACTIVITÉS ADAPTÉES MIS EN ÉVIDENCE LORS DE LA CRISE DU COVID Les différentes périodes de confinements ont mis en évidence le manque au niveau des activités, la perte de lien mais aussi une augmentation des demandes d'Allocation pour la Personne âgée pour les séniors ayant un accroissement de leur perte d'autonomie.",
+    "description": {
+        "description_generale": "UN PROJET INITIÉ EN 2012 Pour répondre à la demande des adhérents et élargir le choix des disciplines proposées, le CCAS a recherché des intervenants qualifiés pour la pratique des activités suivantes: équilibre et souplesse, endurance (système cardio- respiratoire), aisance aquatique, gymnastique mémorielle, créativité, communication, adresse et mobilité fine.",
+        "contexte": "UN PROJET INITIÉ EN 2012 Pour répondre à la demande des adhérents et élargir le choix des disciplines proposées, le CCAS a recherché des intervenants qualifiés pour la pratique des activités suivantes: équilibre et souplesse, endurance (système cardio- respiratoire), aisance aquatique, gymnastique mémorielle, créativité, communication, adresse et mobilité fine.",
+        "problematique": "Pour lutter contre l'isolement et les problématiques de transports que peuvent rencontrer certains de nos aînés, une expérimentation de service mobilité est en cours.",
+        "solution_envisagee": "PASS'SPORT SANTÉ SÉNIORS LES VOIES D'UN VIEILLISSEMENT RÉUSSI Fiche PARTAGE D'EXPÉRIENCE N°828 Villes Amies des Aînés en France Schoelcher (972) Ville Amie des Aînés depuis 2015 Proposer des contenus spécifiques pour le développement du tonus cardio vasculaire, de la tonicité, de l’équilibre, de la souplesse pour les personnes de plus de 50 ans.",
+        "objectifs": "Ils sont en effet en recherche d'activités sportives, culturelles, cognitives et sensitives adaptées afin de maintenir leur état de forme, de garder le lien avec un réseau social et de découvrir de nouvelles pratiques ou d'en renforcer."
+    },
+    "porteur_initiative": "UN PROJET INITIÉ EN 2012 Pour répondre à la demande des adhérents et élargir le choix des disciplines proposées, le CCAS a recherché des intervenants qualifiés pour la pratique des activités suivantes: équilibre et souplesse, endurance (système cardio- respiratoire), aisance aquatique, gymnastique mémorielle, créativité, communication, adresse et mobilité fine.",
+    "date": [
+        "2025",
+        "2023",
+        "2012",
+        "2015",
+        "depuis 2015",
+        "EN 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

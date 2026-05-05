@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Une navette au service des seniors",
+    "territoire": "Titre: Une navette au service des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/229-pe-une-navette-au-service-des-seniors.pdf  ---  --- SOUTENIR LA MOBILITÉ DES PLUS ÂGÉS Depuis plusieurs années, la commune de Saint-Germain au Mont d’Or a mis en place une navette interne gratuite.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Une navette au service des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/229-pe-une-navette-au-service-des-seniors.pdf  ---  --- SOUTENIR LA MOBILITÉ DES PLUS ÂGÉS Depuis plusieurs années, la commune de Saint-Germain au Mont d’Or a mis en place une navette interne gratuite.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Germain au Mont d’Or, v ous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Une navette au service des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/229-pe-une-navette-au-service-des-seniors.pdf  ---  --- SOUTENIR LA MOBILITÉ DES PLUS ÂGÉS Depuis plusieurs années, la commune de Saint-Germain au Mont d’Or a mis en place une navette interne gratuite.",
+        "problematique": "Les habitués n’ont plus besoin de s’inscrire: il leur suffit de se rendre à leur arrêt de bus dédié ou d’attendre en bas de chez eux.",
+        "solution_envisagee": "Accompagner les aînés rencontrant des difficultés à se déplacer afin qu’ils puissent se rendre dans la ville voisine pour bénéficier des services/commerces qui n’existent pas dans le village Proposer gratuitement aux habitants âgés de la commune un service de transport accompagné dans le village et dans la commune voisine.",
+        "objectifs": "Le service a ainsi été élargi afin de permettre aux bénéficiaires d’avoir accès notamment aux services financiers de La Poste, le bureau du village ayant fermé et le point Poste ne proposant que le service courrier."
+    },
+    "porteur_initiative": "Titre: Une navette au service des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/229-pe-une-navette-au-service-des-seniors.pdf  ---  --- SOUTENIR LA MOBILITÉ DES PLUS ÂGÉS Depuis plusieurs années, la commune de Saint-Germain au Mont d’Or a mis en place une navette interne gratuite.",
+    "date": [
+        "2025",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_navette_au_service_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_navette_au_service_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

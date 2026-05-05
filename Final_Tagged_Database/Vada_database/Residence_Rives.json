@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Résidence Rives",
+    "territoire": "Titre: Résidence Rives Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/680-sia-habitat-laureats-concours-villes-amies-des-aines-2021-13-14.pdf  ---  --- UN HABITAT INCLUSIF Livrée en juin 2018 à Lille, RIVES (« Résidence Intergénérationnelle de Vie Eco-citoyenne Solidaire ») est une résidence d’habitat social où l’inclusion, au sens large, a été érigée en principe directeur.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "La résidence mêle ainsi des familles, des personnes âgées, des personnes valides et des personnes en situation de handicap.",
+    "description": {
+        "description_generale": "Sia Habitat a rejoint ce groupe via un appel à projets lancé par la Ville de Lille, groupe auxquels se sont joints l’ASRL, l’APES, Co-Porteurs et l’action sociale retraite du groupe Malakoff Humanis pour poursuivre la réflexion et la construction du projet immobilier qui a vu le jour.",
+        "contexte": "Si, comme Sia habitat, vous avez mis en place des p rojets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme Sia habitat, vous avez mis en place des p rojets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Si, comme Sia habitat, vous avez mis en place des p rojets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "PENSER UN PROJET COLLECTIVEMENT Au cours des années 2000, l’APF France Handicap et l’association Générations et Culture ont été sollicités par le CCAS de Lille pour mener une réflexion sur l’aménagement d’un terrain, avec pour objectif d’en faire un lieu favorisant les liens intergénérationnels et l’inclusion des personnes en situation de handicap."
+    },
+    "porteur_initiative": "Sia Habitat a rejoint ce groupe via un appel à projets lancé par la Ville de Lille, groupe auxquels se sont joints l’ASRL, l’APES, Co-Porteurs et l’action sociale retraite du groupe Malakoff Humanis pour poursuivre la réflexion et la construction du projet immobilier qui a vu le jour.",
+    "date": [
+        "juin 2018",
+        "2025",
+        "2021",
+        "2018",
+        "2000",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_Rives.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Residence_Rives.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

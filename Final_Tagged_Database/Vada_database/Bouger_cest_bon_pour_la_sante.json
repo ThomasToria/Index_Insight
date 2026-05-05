@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Bouger, c’est bon pour la santé!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-physioparc-AOUT-2025.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°380 Villes Amies des Aînés en France  BOUGER, C’EST BON POUR LA SANTÉ!",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Une rénovation du Physio-Parc est programmée pour la fin de l’année 2025, afin de moderniser les équipements et de renforcer leur accessibilité à tous les publics  ---  --- Si, comme la Ville de Saint-Etienne, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com  DES SENTIERS DE DÉCOUVERTE DE LA VILLE ADAPTÉS À TOUS Toujours dans l’objectif d’encourager les habitants à “bouger dans la ville”, le balisage de parcours “rando - seniors” a été mis en place avec un premier parcours “balade” qui devrait être actif prochainement.",
+    "description": {
+        "description_generale": "EXPÉRIMENTATION ET CONSULTATION: LES CLÉS D’UNE ACTION RÉUSSIE L’objectif de cette politique de prévention innovante et globale consiste à promouvoir la pratique d’activités physiques chez les seniors en aménageant un parc urbain avec du matériel innovant, en balisant des parcours urbains rando-seniors et en accompagnant l’appropriation de ces espaces et de leurs usages par la mise en place de séances d’entraînement collectif par des éducateurs sportifs.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-physioparc-AOUT-2025.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°380 Villes Amies des Aînés en France  BOUGER, C’EST BON POUR LA SANTÉ!",
+        "problematique": "La principale difficulté de la mise en œuvre de ce projet concerne l’accessibilité totale sur un parcours déterminé.",
+        "solution_envisagee": "Si l’objectif premier est celui de la prévention du vieillissement par la promotion de la pratique d’activités physiques, les objectifs secondaires sont tout aussi importants: l’accompagnement assuré par des éducateurs sportifs permet de s’assurer de la bonne utilisation et de bénéficier de conseils individualisés mais aussi de créer du lien social et de la convivialité au sein des groupes.",
+        "objectifs": "Une rénovation du Physio-Parc est programmée pour la fin de l’année 2025, afin de moderniser les équipements et de renforcer leur accessibilité à tous les publics  ---  --- Si, comme la Ville de Saint-Etienne, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com  DES SENTIERS DE DÉCOUVERTE DE LA VILLE ADAPTÉS À TOUS Toujours dans l’objectif d’encourager les habitants à “bouger dans la ville”, le balisage de parcours “rando - seniors” a été mis en place avec un premier parcours “balade” qui devrait être actif prochainement."
+    },
+    "porteur_initiative": "Ce projet porté par l’Association Seniors Autonomie en partenariat avec l’Association Unis -Cité Loire, la Mutualité française Loire Haute-Loire, la Fédération Française de Randonnée de la Loire et Saint-Étienne Métropole, a vu le jour à Saint-Étienne.",
+    "date": [
+        "9 avril 2017",
+        "avril 2017",
+        "septembre 2016",
+        "2025",
+        "2016",
+        "2017",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bouger_cest_bon_pour_la_sante.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bouger_cest_bon_pour_la_sante.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

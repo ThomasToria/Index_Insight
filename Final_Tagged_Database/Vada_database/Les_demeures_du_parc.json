@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Les demeures du parc",
+    "territoire": "Titre: Les demeures du parc Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/720-pe-588-190422les-demeures-du-parc-nantes.pdf  ---  --- UN LOGEMENT ALTERNATIF POUR LE MAINTIEN DE L'AUTONOMIE A l’origine, le projet des Demeures du Parc est issu d’une réflexion d’une équipe des Petits Frères des Pauvres basée à Nantes permettant de répondre à des besoins repérés localement.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Cet habitat regroupé permet aux personnes âgées de 50 ans, de retrouver une stabilité et maintenir leur autonomie que ce soit dans le domaine de la santé, de l’accès aux droits mais également dans le domaine de la vie sociale.",
+    "description": {
+        "description_generale": "Au-delà de la simple écriture du projet, le processus engagé a également permis à l’équipe de s’interroger sur le devenir du projet des Demeures du Parc aujourd’hui existant; conçu il y a de nombreuses années, il est temps de l’inscrire davantage dans les dispositifs réglementaires existants afin de lui donner une reconnaissance réelle auprès des différents partenaires institutionnels et être ainsi éligible à des financements en cohérence avec les besoins identifiés des personnes du territoire.",
+        "contexte": "Les demeures du Parc: la sécurité d'une présence d e proximité, le confort du logement autonomie et l'ac cès à tous les services de maintien et de soin à domicile.",
+        "problematique": "Titre: Les demeures du parc Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/720-pe-588-190422les-demeures-du-parc-nantes.pdf  ---  --- UN LOGEMENT ALTERNATIF POUR LE MAINTIEN DE L'AUTONOMIE A l’origine, le projet des Demeures du Parc est issu d’une réflexion d’une équipe des Petits Frères des Pauvres basée à Nantes permettant de répondre à des besoins repérés localement.",
+        "solution_envisagee": "La petite unité de vie constitue une alternative à la maison de retraite et propose le confort d'un logement autonome, la sécurité d'une présence de proximité et l’accès à tous les services de maintien et de soin à domicile.",
+        "objectifs": "Faire réaliser une évalution externe du projet pour le développer."
+    },
+    "porteur_initiative": "Les demeures du Parc: la sécurité d'une présence d e proximité, le confort du logement autonomie et l'ac cès à tous les services de maintien et de soin à domicile.",
+    "date": [
+        "mai 2016",
+        "2025",
+        "1991",
+        "2019",
+        "2021",
+        "2016",
+        "2017",
+        "depuis 2019",
+        "Depuis 2017",
+        "en 1991"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_demeures_du_parc.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_demeures_du_parc.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

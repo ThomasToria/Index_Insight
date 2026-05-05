@@ -1,0 +1,40 @@
+{
+    "titre": "Ehpad Notre Dame de la Roselière: un lieu ouvert sur les autres et la nature",
+    "territoire": "Ehpad Notre Dame de la Roselière: un lieu ouvert sur les autres et la nature  https://www.fondationdefrance.org/fr/cat-personnes-agees/ehpad-notre-dame-de-la-roseliere  Qui sommes-nous?",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Une parcelle de terrain clôturée, aménagée et adaptée aux personnes âgés pour faciliter la culture de plantes, de fleurs et d’un potager a été mise à la disposition des résidents, des familles, des professionnels de l’établissement et auprès d’autres services du pole médico-social du centre hospitalier de Calais.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Pendant la période de confinement, ils ont eu l’idée de créer un jardin participatif citoyen pour pallier l’isolement des aînés.",
+        "solution_envisagee": "Proposer aux familles un nouveau lieu de visite et de partage, avec des temps de jardinage, et redynamiser la vie collective de l’établissement en permettant aux soignants de sortir des soins et de leurs actes quotidiens.",
+        "objectifs": "L’Ehpad La Roselière souhaite également renforcer la complicité entre les différents acteurs locaux en ouvrant le jardin aux écoles primaires, lycées, professionnels d’horticulture… pour favoriser les échanges et renforcer le lien social."
+    },
+    "porteur_initiative": "Ehpad Notre Dame de la Roselière: un lieu ouvert sur les autres et la nature  https://www.fondationdefrance.org/fr/cat-personnes-agees/ehpad-notre-dame-de-la-roseliere  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Ehpad Notre Dame de la Roselière un lieu ouvert sur les autres et la nature.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Ehpad Notre Dame de la Roselière un lieu ouvert sur les autres et la nature.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

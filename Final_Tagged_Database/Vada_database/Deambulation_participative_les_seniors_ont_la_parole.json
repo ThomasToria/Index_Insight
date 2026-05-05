@@ -1,0 +1,58 @@
+{
+    "titre": "Titre: Déambulation participative: les seniors ont la parole!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1118-pe-deambulation-participative-les-seniors-ont-la-parole.pdf  ---  --- UNE ACTION DANS LE CADRE DE LA DÉMARCHE VADA À l’image de la dém ographie nationale, à l’horizon 2030, la Ville de Montivilliers sera fortement impactée par le vieillissement de sa population.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "ADAPTER L’ESPACE URBAIN AUX SENIORS La ville a fait connaître cette démarche via des articles et des publications sur les réseaux sociaux, mais aussi en prévenant directement par mail ses partenaires et les structures du territoire.",
+    "description": {
+        "description_generale": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1118-pe-deambulation-participative-les-seniors-ont-la-parole.pdf  ---  --- UNE ACTION DANS LE CADRE DE LA DÉMARCHE VADA À l’image de la dém ographie nationale, à l’horizon 2030, la Ville de Montivilliers sera fortement impactée par le vieillissement de sa population.",
+        "contexte": "Cette expérimentation a pris la forme d’un diagnostic participatif en marchant avec repérage des parcours empruntés en centre-ville et des difficultés rencontrées (aménagement urbain, signalétique, etc.).",
+        "problematique": "Fiche PARTAGE D'EXPÉRIENCE N°941 Villes Amies des Aînés en France Identifier les freins et obstacles à la mobilité des anciens Impliquer les aînés dans une démarche citoyenne participative Favoriser la mobilité dans la ville Améliorer la sécurité et le confort dans les déplacements piétons Adapter le territoire au défi de la longévité Identification du besoin en septembre 2022, en lien avec la démarche d'implication des ainés de la ville dans les projets seniors futurs.",
+        "solution_envisagee": "Le vieillissement et la dépendance croissante soulignent l'importance de s'engager dans le maintien à domicile et de l'accompagnement du bien- vieillir.",
+        "objectifs": "Fiche PARTAGE D'EXPÉRIENCE N°941 Villes Amies des Aînés en France Identifier les freins et obstacles à la mobilité des anciens Impliquer les aînés dans une démarche citoyenne participative Favoriser la mobilité dans la ville Améliorer la sécurité et le confort dans les déplacements piétons Adapter le territoire au défi de la longévité Identification du besoin en septembre 2022, en lien avec la démarche d'implication des ainés de la ville dans les projets seniors futurs."
+    },
+    "porteur_initiative": "Titre: Déambulation participative: les seniors ont la parole!",
+    "date": [
+        "septembre 2022",
+        "août 2023",
+        "décembre 2024",
+        "2025",
+        "1118",
+        "2030",
+        "2022",
+        "2023",
+        "2024",
+        "depuis 2022",
+        "en 2022",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deambulation_participative_les_seniors_ont_la_parole.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Deambulation_participative_les_seniors_ont_la_parole.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

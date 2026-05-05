@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Atelier prévention des chutes en résidence autonomie",
+    "territoire": "Titre: Atelier prévention des chutes en résidence autonomie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/951-concours-2023-atelier-prevention-des-chutes-en-residence-autonomie-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS PRÉVENIR LES CHUTES: UN ENJEU DE L'AUTONOMIE Suite à l’observation du vieillissement, et de l'augmentation du nombre de seniors ayant pour habitudes des activités de loisirs mais n’y associant, ou très peu, d’activités ciblées dans le domaine de l’entretien physique ou de la prévention des chutes, le CIAS du Chotelais a voulu agir.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "DES ATELIERS COMPLETS Dans un premier temps, le CIAS a évalué les besoins en élaborant un questionnaire auprès du public ciblé et en étudiant les réponses obtenues, puis a pris contact avec un professionnel en lien avec la thématique: une psychomotricienne qui sera l'intervenante et la coordinatrice de l'activité.",
+    "description": {
+        "description_generale": "Si, comme l'Agglomération du Chotelais, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "DES ATELIERS COMPLETS Dans un premier temps, le CIAS a évalué les besoins en élaborant un questionnaire auprès du public ciblé et en étudiant les réponses obtenues, puis a pris contact avec un professionnel en lien avec la thématique: une psychomotricienne qui sera l'intervenante et la coordinatrice de l'activité.",
+        "problematique": "DES ATELIERS COMPLETS Dans un premier temps, le CIAS a évalué les besoins en élaborant un questionnaire auprès du public ciblé et en étudiant les réponses obtenues, puis a pris contact avec un professionnel en lien avec la thématique: une psychomotricienne qui sera l'intervenante et la coordinatrice de l'activité.",
+        "solution_envisagee": "DES ATELIERS COMPLETS Dans un premier temps, le CIAS a évalué les besoins en élaborant un questionnaire auprès du public ciblé et en étudiant les réponses obtenues, puis a pris contact avec un professionnel en lien avec la thématique: une psychomotricienne qui sera l'intervenante et la coordinatrice de l'activité.",
+        "objectifs": "L’objectif de lutte contre isolement est atteint en favorisant le contact durant ces ateliers pour des personnes isolées."
+    },
+    "porteur_initiative": "DES ATELIERS COMPLETS Dans un premier temps, le CIAS a évalué les besoins en élaborant un questionnaire auprès du public ciblé et en étudiant les réponses obtenues, puis a pris contact avec un professionnel en lien avec la thématique: une psychomotricienne qui sera l'intervenante et la coordinatrice de l'activité.",
+    "date": [
+        "2025",
+        "2023",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_prevention_des_chutes_en_residence_autonomie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_prevention_des_chutes_en_residence_autonomie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

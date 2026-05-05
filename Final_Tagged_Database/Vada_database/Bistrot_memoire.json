@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Bistrot mémoire",
+    "territoire": "Titre: Bistrot mémoire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/395-pe-bistrot-memoire-mise-en-forme-2023.pdf  ---  --- VERS UNE SOCIÉTÉ PLUS INCLUSIVE Une société plus inclusive en faveur des personnes souffrant de troubles de la mémoire, c’est ce que le Bistrot Mémoire rennais (association qui soutient les personnes touchées par des troubles cognitifs et leurs proches) souhaite développer à travers son projet qui vise à développer des initiatives locales, dans le sens des « Dementia Friendly Communities » ou « villes inclusives », en s’inspirant d’exemples européens prenant racine sur des initiatives déjà développées: Bistrot Mémoire, plateforme de répit, visites de musée, etc.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "nationale"
+    ],
+    "public_vise": "Elle sera liée aux indications fournies par les différentes catégories de personnes impliquées: les usagers concernés par la maladie d’abord, mais aussi les citoyens, les bénévoles, les professionnels du secteur santé-social et autres secteurs… Pour les personnes directement concernées, il conviendra de mesurer un changement dans le sentiment d’inclusion dans son environnement, d’être comprises et acceptées par les personnes qu’elles rencontrent.",
+    "description": {
+        "description_generale": "Le séminaire organisé le 22 et 23 juin 2017 a inauguré le lancement de cette démarche: une première action menée pour sensibiliser et fédérer autour de ce projet citoyen.",
+        "contexte": "Le séminaire organisé le 22 et 23 juin 2017 a inauguré le lancement de cette démarche: une première action menée pour sensibiliser et fédérer autour de ce projet citoyen.",
+        "problematique": "Il a fait prendre conscience: - qu’il est possible de vivre bien avec ces maladies à condition d’avoir un environnement humain et matériel adaptés «amical», accueillant; - que les personnes qui vivent avec la maladie ont besoin d’exprimer ce qu’elles veulent, ce à quoi elles aspirent, les manières dont elles vivent le quotidien (bonheur et/ou difficultés): au-delà de la seule expression des besoins; - que ces personnes ont à nous enseigner sur le “vivre ensemble”: que nous devons nous laisser enseigner et guider par elles.",
+        "solution_envisagee": "Le séminaire organisé le 22 et 23 juin 2017 a inauguré le lancement de cette démarche: une première action menée pour sensibiliser et fédérer autour de ce projet citoyen.",
+        "objectifs": "Titre: Bistrot mémoire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/395-pe-bistrot-memoire-mise-en-forme-2023.pdf  ---  --- VERS UNE SOCIÉTÉ PLUS INCLUSIVE Une société plus inclusive en faveur des personnes souffrant de troubles de la mémoire, c’est ce que le Bistrot Mémoire rennais (association qui soutient les personnes touchées par des troubles cognitifs et leurs proches) souhaite développer à travers son projet qui vise à développer des initiatives locales, dans le sens des « Dementia Friendly Communities » ou « villes inclusives », en s’inspirant d’exemples européens prenant racine sur des initiatives déjà développées: Bistrot Mémoire, plateforme de répit, visites de musée, etc."
+    },
+    "porteur_initiative": "Le séminaire organisé le 22 et 23 juin 2017 a inauguré le lancement de cette démarche: une première action menée pour sensibiliser et fédérer autour de ce projet citoyen.",
+    "date": [
+        "23 juin 2017",
+        "juin 2017",
+        "2025",
+        "2023",
+        "2017",
+        "2012",
+        "2018",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bistrot_memoire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bistrot_memoire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Des seniors en forme à Nice",
+    "territoire": "Titre: Des seniors en forme à Nice Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/999-concours-2023-des-seniors-en-forme-a-nice.pdf  ---  --- PRATIQUER UNE ACTIVITÉ SPORTIVE POUR UN BIEN-ÊTRE PHYSIQUE ET MENTAL La Ville de Nice mène depuis plusieurs années une politique très active en faveur de ses 100 000 seniors âgés de plus de 55 ans.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Des \"Seniors en forme\" sont présents lors d'événements sportifs avec tous les publics, qu'il s'agisse de participations ou de bénévolat.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Des seniors en forme à Nice Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/999-concours-2023-des-seniors-en-forme-a-nice.pdf  ---  --- PRATIQUER UNE ACTIVITÉ SPORTIVE POUR UN BIEN-ÊTRE PHYSIQUE ET MENTAL La Ville de Nice mène depuis plusieurs années une politique très active en faveur de ses 100 000 seniors âgés de plus de 55 ans.",
+        "problematique": "La crise sanitaire a confirmé ce besoin de pratiquer une activité sportive pour un bien-être physique et mental mais également pour créer du lien social, facteur très important pour ce public fragile.",
+        "solution_envisagee": "Ville sportive accueillant de nombreux événements internationaux, la municipalité a souhaité proposer des activités sportives de proximité, de convivialité et de prévention sur la santé et le bien-être des aînés.",
+        "objectifs": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DES SENIORS EN FORME À NICE Fiche PARTAGE D'EXPÉRIENCE N°861 Villes Amies des Aînés en France Nice Ville Amie des Aînés depuis 2015 Nice (06) Améliorer la tonicité musculaire, l'équilibre et la coordination."
+    },
+    "porteur_initiative": "Titre: Des seniors en forme à Nice Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/999-concours-2023-des-seniors-en-forme-a-nice.pdf  ---  --- PRATIQUER UNE ACTIVITÉ SPORTIVE POUR UN BIEN-ÊTRE PHYSIQUE ET MENTAL La Ville de Nice mène depuis plusieurs années une politique très active en faveur de ses 100 000 seniors âgés de plus de 55 ans.",
+    "date": [
+        "avril 2011",
+        "2025",
+        "2023",
+        "2015",
+        "2011",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_en_forme_a_Nice.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_seniors_en_forme_a_Nice.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

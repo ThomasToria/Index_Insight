@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Atelier gymnastique adaptée aux aînés",
+    "territoire": "Titre: Atelier gymnastique adaptée aux aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1116-pe-atelier-gymnastique-adaptee-aux-aines-1.pdf  ---  --- BESOIN D’ACTIVITÉS ADAPTÉES POUR LES AÎNÉS La présidente de l'association généraliste, ayant participé au Séminaire Ville Amie des Aînés, s'est rendu compte de la nécessité d'adapter les offres d'activités physiques.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ATELIER GYMNASTIQUE ADAPTÉE AUX AÎNÉS Fiche PARTAGE D'EXPÉRIENCE N°934 Villes Amies des Aînés en France Ville de Canet-en-Roussillon et Association \"Vivre à Canet\" Ville Amie des Aînés depuis 2025 Canet-en-Roussillon (66) Permettre aux seniors de maintenir une activité physique, adaptée à leurs capacités et à leurs besoins et à leurs attentes.",
+    "description": {
+        "description_generale": "Le projet est financé par une partie du budget du CCAS, dédiée à cette action, soit 450 euros pour 5 personnes aidées (revenus trop faibles), et une subvention de la mairie de Canet est également fournie à hauteur de 600 euros.",
+        "contexte": "Si, comme la Ville de Canet-en-Roussillon, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Titre: Atelier gymnastique adaptée aux aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1116-pe-atelier-gymnastique-adaptee-aux-aines-1.pdf  ---  --- BESOIN D’ACTIVITÉS ADAPTÉES POUR LES AÎNÉS La présidente de l'association généraliste, ayant participé au Séminaire Ville Amie des Aînés, s'est rendu compte de la nécessité d'adapter les offres d'activités physiques.",
+        "solution_envisagee": "Il était donc important de s'adapter et de proposer une offre plus adaptée à ces personnes.",
+        "objectifs": "Une réflexion est envisagée pour continuer ces actions pendant le mois de juillet afin de ne pas être confronté à une trop grosse rupture."
+    },
+    "porteur_initiative": "Si, comme la Ville de Canet-en-Roussillon, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "janvier 2025",
+        "2025",
+        "1116",
+        "depuis 2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_gymnastique_adaptee_aux_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_gymnastique_adaptee_aux_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Dispositif Nice acti'santé, un parcours médico-actif",
+    "territoire": "Titre: Dispositif Nice acti'santé, un parcours médico-actif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1023-concours-2023-dispositif-nice-acti-sante-un-parcours-medico-actif.pdf  ---  --- UN PROJET LANCÉ EN DÉCEMBRE 2019 Le dispositif \"Nice Acti'Santé\" a été mis en place pour répondre au besoin croissant d'accompagnement des seniors vers la pratique d'une activité physique à des fins de santé.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Au regard des données démographiques 30% de la population niçoise est composée de seniors, avec 101 303 habitants âgées de 60 ans ou plus.",
+    "description": {
+        "description_generale": "Titre: Dispositif Nice acti'santé, un parcours médico-actif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1023-concours-2023-dispositif-nice-acti-sante-un-parcours-medico-actif.pdf  ---  --- UN PROJET LANCÉ EN DÉCEMBRE 2019 Le dispositif \"Nice Acti'Santé\" a été mis en place pour répondre au besoin croissant d'accompagnement des seniors vers la pratique d'une activité physique à des fins de santé.",
+        "contexte": "Si, comme la Ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Titre: Dispositif Nice acti'santé, un parcours médico-actif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1023-concours-2023-dispositif-nice-acti-sante-un-parcours-medico-actif.pdf  ---  --- UN PROJET LANCÉ EN DÉCEMBRE 2019 Le dispositif \"Nice Acti'Santé\" a été mis en place pour répondre au besoin croissant d'accompagnement des seniors vers la pratique d'une activité physique à des fins de santé.",
+        "solution_envisagee": "Titre: Dispositif Nice acti'santé, un parcours médico-actif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1023-concours-2023-dispositif-nice-acti-sante-un-parcours-medico-actif.pdf  ---  --- UN PROJET LANCÉ EN DÉCEMBRE 2019 Le dispositif \"Nice Acti'Santé\" a été mis en place pour répondre au besoin croissant d'accompagnement des seniors vers la pratique d'une activité physique à des fins de santé.",
+        "objectifs": "Son objectif opérationnel était la mise en place d'un parcours médico-actif ciblant prioritairement les seniors les plus fragiles et les plus éloignés de la pratique d'une activité physique et pour qui la pratique régulière est recommandée par le médecin."
+    },
+    "porteur_initiative": "Si, comme la Ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "DÉCEMBRE 2019",
+        "septembre 2023",
+        "2025",
+        "1023",
+        "2023",
+        "2019",
+        "2015",
+        "depuis 2015",
+        "depuis",
+        "Depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_Nice_actisante_un_parcours_medico-actif.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Dispositif_Nice_actisante_un_parcours_medico-actif.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

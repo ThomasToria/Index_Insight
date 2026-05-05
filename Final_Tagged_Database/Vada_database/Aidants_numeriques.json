@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Aidants numériques",
+    "territoire": "Titre: Aidants numériques Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/788-pe-aidants-numeriques.pdf  ---  --- FAVORISER L'INCLUSION NUMERIQUE En 2018 la ville de Dijon et son CCAS ont mené une réflexion globale et initié un projet de lutte contre la fracture numérique afin de permettre aux usagers l'accès aux droits et aux services en développant leur autonomie.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "DES ATELIERS COLLECTIFS ET DIVERSES MODALITES D'ACCOMPAGNEMENT AU NUMERIQUE Pour mettre en place le projet, il s'agissait d'abord de s 'appuyer sur l'expertise des différents professionnels qui accueillent du public et qui sont confrontés quotidiennement à la question de l'accès numérique; en recensant les espaces numériques existants et le niveau d'accompagnement proposé au sein d'une cartographie, mais aussi en établissant un plan d'intervention des aidants numériques, tout en déterminant les missions confiées, les limites d'intervention et les critères d'orientation vers les relais professionnels compétents.",
+    "description": {
+        "description_generale": "Différents acteurs ont participé au projet: le CESAM a aidé pour la formation des acteurs \"aidants numériques\" et le CCAS pour la mise en œuvre organisationnelle de l'action.",
+        "contexte": "Deux modalités d'aide ont été définies et mises en place: des ateliers thématiques collectifs ainsi que des permanences d'aidants pour un accueil individuel afin de proposer une écoute et une aide respectueuse du rythme d'apprentissage de chacun.",
+        "problematique": "Le but du projet est donc de lutter contre l'exclusion et l'isolement numérique par la mise en place d'un réseau de bénévoles \"aidants numériques\".",
+        "solution_envisagee": "Deux modalités d'aide ont été définies et mises en place: des ateliers thématiques collectifs ainsi que des permanences d'aidants pour un accueil individuel afin de proposer une écoute et une aide respectueuse du rythme d'apprentissage de chacun.",
+        "objectifs": "Titre: Aidants numériques Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/788-pe-aidants-numeriques.pdf  ---  --- FAVORISER L'INCLUSION NUMERIQUE En 2018 la ville de Dijon et son CCAS ont mené une réflexion globale et initié un projet de lutte contre la fracture numérique afin de permettre aux usagers l'accès aux droits et aux services en développant leur autonomie."
+    },
+    "porteur_initiative": "Deux modalités d'aide ont été définies et mises en place: des ateliers thématiques collectifs ainsi que des permanences d'aidants pour un accueil individuel afin de proposer une écoute et une aide respectueuse du rythme d'apprentissage de chacun.",
+    "date": [
+        "novembre 2019",
+        "décembre 2020",
+        "mars 2021",
+        "juillet 2021",
+        "2025",
+        "2018",
+        "2012",
+        "8200",
+        "2300",
+        "2019",
+        "2020",
+        "2021",
+        "6615",
+        "depuis 2012",
+        "En 2018",
+        "en 2019",
+        "en 2020",
+        "en 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aidants_numeriques.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Aidants_numeriques.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

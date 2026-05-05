@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Ateliers de consultation sur les nouveaux pictogrammes naolib",
+    "territoire": "Titre: Ateliers de consultation sur les nouveaux pictogrammes naolib Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1041-pe-ateliers-de-consultation-sur-les-nouveaux-pictogrammes-naolib.pdf  ---  --- DE NOUVEAUX PICTOGRAMMES Depuis septembre 2023, les offres de transports en commun TAN, les parkings en ouvrage et les vélos Bicloo, sont réunis sous un même nom, Naolib, avec une nouvelle identité visuelle, dont des pictogrammes \"mobilités\" (trams, accès gare SNCF, cars ALEOP, vélos, distributeurs de titres de transport).",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Par ailleurs, pour veiller à la compréhension et à la lisibilité des pictogrammes, Naolib, en lien avec des directions de Nantes Métropole (Mobilités, Égalité, Communication externe, Mission Territoire de Longévité) a organisé des ateliers \"test\" avec des usagers porteurs de handicap et des personnes âgées.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nantes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Les premières préconisations exprimées: éviter des traits discontinus et privilégier la simplicité visuelle.",
+        "problematique": "Les premières préconisations exprimées: éviter des traits discontinus et privilégier la simplicité visuelle.",
+        "solution_envisagee": "Les premières préconisations exprimées: éviter des traits discontinus et privilégier la simplicité visuelle.",
+        "objectifs": "L'objectif est de créer des logiques de systèmes et de cohérence graphique."
+    },
+    "porteur_initiative": "Par ailleurs, pour veiller à la compréhension et à la lisibilité des pictogrammes, Naolib, en lien avec des directions de Nantes Métropole (Mobilités, Égalité, Communication externe, Mission Territoire de Longévité) a organisé des ateliers \"test\" avec des usagers porteurs de handicap et des personnes âgées.",
+    "date": [
+        "septembre 2023",
+        "mai 2023",
+        "avril 2024",
+        "2025",
+        "1041",
+        "2023",
+        "2024",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_de_consultation_sur_les_nouveaux_pictogrammes_naolib.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ateliers_de_consultation_sur_les_nouveaux_pictogrammes_naolib.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

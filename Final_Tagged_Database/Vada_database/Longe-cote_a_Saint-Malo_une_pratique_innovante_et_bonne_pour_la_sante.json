@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Longe-côte à Saint-Malo: une pratique innovante et bonne pour la santé",
+    "territoire": "Titre: Longe-côte à Saint-Malo: une pratique innovante et bonne pour la santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/887-concours-2023-longe-cote-a-saint-malo-une-pratique-innovante-et-bonne-pour-la-sante.pdf  ---  --- UN MAÎTRE-NAGEUR PASSIONNÉ À L'ORIGINE DU PROJET L'association Sports, Mer et Santé a été créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Cette marche en mer a attiré rapidement de nombreux adeptes en majorité seniors séduits par l'éventail de bienfaits physiques qu'elle englobe.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Malo, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LONGE-CÔTE À SAINT-MALO: UNE PRATIQUE INNOVANTE ET BONNE POUR LA SANTÉ Fiche PARTAGE D'EXPÉRIENCE N°749 Villes Amies des Aînés en France Saint-Malo Ville Amie des Aînés depuis 2022 Ville de Saint-Malo (35) Faire découvrir le longe-côte, ou marche en mer, une nouvelle activité accessible à tous.",
+        "problematique": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LONGE-CÔTE À SAINT-MALO: UNE PRATIQUE INNOVANTE ET BONNE POUR LA SANTÉ Fiche PARTAGE D'EXPÉRIENCE N°749 Villes Amies des Aînés en France Saint-Malo Ville Amie des Aînés depuis 2022 Ville de Saint-Malo (35) Faire découvrir le longe-côte, ou marche en mer, une nouvelle activité accessible à tous.",
+        "solution_envisagee": "En effet, elle permet de réduire le taux de mauvais cholestérol et la tension artérielle, prévient le diabète, lutte contre la sédentarité et le stress.",
+        "objectifs": "Ainsi à la fin de chaque séance, un café partagé est proposé afin de favoriser les échanges et les moments de convivialité, de renforcer les liens entre les participants et de créer une véritable communauté autour de l'activité."
+    },
+    "porteur_initiative": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LONGE-CÔTE À SAINT-MALO: UNE PRATIQUE INNOVANTE ET BONNE POUR LA SANTÉ Fiche PARTAGE D'EXPÉRIENCE N°749 Villes Amies des Aînés en France Saint-Malo Ville Amie des Aînés depuis 2022 Ville de Saint-Malo (35) Faire découvrir le longe-côte, ou marche en mer, une nouvelle activité accessible à tous.",
+    "date": [
+        "2025",
+        "2023",
+        "2009",
+        "2022",
+        "2016",
+        "depuis 2022",
+        "en 2009",
+        "en 2016",
+        "en 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Longe-cote_a_Saint-Malo_une_pratique_innovante_et_bonne_pour_la_sante.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Longe-cote_a_Saint-Malo_une_pratique_innovante_et_bonne_pour_la_sante.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: CARSAT HAUTS-DE-FRANCE",
+    "territoire": "Habitat PARTENARIAT A VEC LA COMPAGNIE DES TIERS-LIEUX LA TEMPORALITÉ Depuis le 18/10/2022 LA LOCALISATION Région Hauts-de-France en fonction de la localisation des lauréats de l’appel à projets PAI « Tiers-lieux » chaque année.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "LA CIBLE Retraités: résidents de résidences autonomie, seniors à domicile dans les villes ciblées par les tiers-lieux.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE La thématique des tiers-lieux étant nouvelle et peu appréhendée par les gestionnaires des résidences autonomie mais pour autant primordiale dans le développement de leurs projets sociaux et de prévention, il nous a paru indispensable de faire bénéficier aux gestionnaires lauréats l’expertise développée par le réseau de la Compagnie des Tiers-Lieux en développant un programme d’accompagnement basé sur 2 axes: Axe 1: l’accompagnement renforcé des lauréats de l’appel à projets annuel Objectif: monter en compétences et les aiguiller dans la mise en œuvre de leurs projets respectifs sur la mise en réseau avec les acteurs du territoire, l’animation du lieu, sa programmation, la communication autour du projet, le modèle économique, l’aménagement du lieu, etc. • mise en place d’un programme d’accompagnement sur 6 à 12 mois par résidence lauréate, mené par deux accompagnatrices spécialistes du réseau; • plusieurs étapes: entretiens exploratoires / ateliers de créativité / séance collective de formation sur l’animation de la communauté et du lieu et de la gouvernance partagée / construction de plans stratégiques / coaching individuel; • production d’un rapport de préconisations à long-terme à la fin de l’accompagnement.",
+        "contexte": "Titre: CARSAT HAUTS-DE-FRANCE Pages: 24, 25  CARSAT HAUTS-DE-FRANCE LES ACTEURS Porteur(s) de la pépite: Carsat Hauts-de-France.",
+        "problematique": "LES RÉSULTATS / IMPACTS • Ce partenariat contribue à l’objectif n° 60 « Associer les collaborateurs/partenaires au service de l’innovation sociétale » (Domaine « Responsabilité dans le domaine économique et territorial » / Enjeu n° 2: « Renforcer notre implication sociétale ») de notre politique ESG. • Résultats relatifs à l’accompagnement renforcé de nos 3 gestionnaires lauréats de l’AAP 2022: utilité & satisfaction du programme proposé et recommandation du programme aux prochains lauréats. • Résultats relatifs à la sensibilisation de l’ensemble des gestionnaires à la thématique des tiers-lieux: - 68 participants aux webinaires (sur 221 gestionnaires) – utilité: 4/5, - 37 participants aux visites de tiers-lieux inspirants – utilité: 4,6/5.",
+        "solution_envisagee": "LA DESCRIPTION DE LA PÉPITE La thématique des tiers-lieux étant nouvelle et peu appréhendée par les gestionnaires des résidences autonomie mais pour autant primordiale dans le développement de leurs projets sociaux et de prévention, il nous a paru indispensable de faire bénéficier aux gestionnaires lauréats l’expertise développée par le réseau de la Compagnie des Tiers-Lieux en développant un programme d’accompagnement basé sur 2 axes: Axe 1: l’accompagnement renforcé des lauréats de l’appel à projets annuel Objectif: monter en compétences et les aiguiller dans la mise en œuvre de leurs projets respectifs sur la mise en réseau avec les acteurs du territoire, l’animation du lieu, sa programmation, la communication autour du projet, le modèle économique, l’aménagement du lieu, etc. • mise en place d’un programme d’accompagnement sur 6 à 12 mois par résidence lauréate, mené par deux accompagnatrices spécialistes du réseau; • plusieurs étapes: entretiens exploratoires / ateliers de créativité / séance collective de formation sur l’animation de la communauté et du lieu et de la gouvernance partagée / construction de plans stratégiques / coaching individuel; • production d’un rapport de préconisations à long-terme à la fin de l’accompagnement.",
+        "objectifs": "LES RÉSULTATS / IMPACTS • Ce partenariat contribue à l’objectif n° 60 « Associer les collaborateurs/partenaires au service de l’innovation sociétale » (Domaine « Responsabilité dans le domaine économique et territorial » / Enjeu n° 2: « Renforcer notre implication sociétale ») de notre politique ESG. • Résultats relatifs à l’accompagnement renforcé de nos 3 gestionnaires lauréats de l’AAP 2022: utilité & satisfaction du programme proposé et recommandation du programme aux prochains lauréats. • Résultats relatifs à la sensibilisation de l’ensemble des gestionnaires à la thématique des tiers-lieux: - 68 participants aux webinaires (sur 221 gestionnaires) – utilité: 4/5, - 37 participants aux visites de tiers-lieux inspirants – utilité: 4,6/5."
+    },
+    "porteur_initiative": "Titre: CARSAT HAUTS-DE-FRANCE Pages: 24, 25  CARSAT HAUTS-DE-FRANCE LES ACTEURS Porteur(s) de la pépite: Carsat Hauts-de-France.",
+    "date": [
+        "18/10/2022",
+        "2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\09_CARSAT_HAUTS-DE-FRANCE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\09_CARSAT_HAUTS-DE-FRANCE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

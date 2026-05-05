@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Arles (13) Ville Membre depuis 2017",
+    "territoire": "Titre: Arles (13) Ville Membre depuis 2017 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/826-concours-2022-54-la-mobilite-pour-les-seniors-caudry.pdf  ---  --- LA MOBILITÉ POUR LES SENIORS: MISE EN PLACE D'UN PARCOURS DE PRÉVENTION ET D'ACCOMPAGEMENT SOCIAL DE PROXIMITÉ UNE JOURNÉE POUR TESTER SES CAPACITÉS, DES ATELIERS ET UN SERVICE D'ACCOMPAGNEMENT Ce projet s'inscrit dans un contexte géographique et socio-démographique particulier.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "La mobilisation du public et la récolte de leur besoin est possible grâce à l'implication de ces professionnels.",
+    "description": {
+        "description_generale": "Le projet proposé, axé à la fois sur la prévention et la proposition de solutions alternatives aux déplacements véhiculés autonomes, comprend trois volets: une journée grand public pour tester ses capacités, deux séances d'atelier de trois heures pour approfondir le sujet et un service d'accompagnement véhiculé par le CCAS.",
+        "contexte": "Titre: Arles (13) Ville Membre depuis 2017 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/826-concours-2022-54-la-mobilite-pour-les-seniors-caudry.pdf  ---  --- LA MOBILITÉ POUR LES SENIORS: MISE EN PLACE D'UN PARCOURS DE PRÉVENTION ET D'ACCOMPAGEMENT SOCIAL DE PROXIMITÉ UNE JOURNÉE POUR TESTER SES CAPACITÉS, DES ATELIERS ET UN SERVICE D'ACCOMPAGNEMENT Ce projet s'inscrit dans un contexte géographique et socio-démographique particulier.",
+        "problematique": "Cette action permettrait de palier aux difficultés de déplacements mais aussi de lutter contre l'isolement social grandissant.",
+        "solution_envisagee": "Le projet proposé, axé à la fois sur la prévention et la proposition de solutions alternatives aux déplacements véhiculés autonomes, comprend trois volets: une journée grand public pour tester ses capacités, deux séances d'atelier de trois heures pour approfondir le sujet et un service d'accompagnement véhiculé par le CCAS.",
+        "objectifs": "Aussi, le projet se poursuit et se développe autour d'une troisième étape afin de répondre aux besoins évoqués."
+    },
+    "porteur_initiative": "De plus, l'accompagnement véhiculé est amené à se pérenniser et à devenir un service à part entière porté par le Pôle senior du CCAS.",
+    "date": [
+        "18 janvier 2022",
+        "21 avril",
+        "21 avril 2022",
+        "janvier 2022",
+        "avril",
+        "avril 2022",
+        "2017",
+        "2025",
+        "2022",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Arles_13_Ville_Membre_depuis_2017.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Arles_13_Ville_Membre_depuis_2017.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

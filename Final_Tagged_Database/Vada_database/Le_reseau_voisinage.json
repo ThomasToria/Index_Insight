@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Le réseau voisin’âge",
+    "territoire": "Titre: Le réseau voisin’âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/379-pe-le-reseau-voisin-age-mise-a-jour-2023.pdf  ---  --- UNE VOLONTÉ SOLIDAIRE Né dans les années 2000 au cœur du quartier le plus vieillissant (St Marc) de Brest, le réseau Voisin’âge incarne la volonté d’un groupe d’habitants de lutter contre l’isolement.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Après avoir rencontré les acteurs du quartiers (commerçants, habitants, équipements socio-culturels…), une proposition d’accompagnement des personnes âgées à leurs activités de loisirs a été émise.",
+    "description": {
+        "description_generale": "Coût global du projet: 10 000 € par an (soutien aux équipements référents du dispositif).  ---  --- UN BILAN POSITIF Le réseau Voisin’âge accompagne régulièrement une cinquantaine de personnes âgées, soit plus de 700 accompagnements à l’année.",
+        "contexte": "Titre: Le réseau voisin’âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/379-pe-le-reseau-voisin-age-mise-a-jour-2023.pdf  ---  --- UNE VOLONTÉ SOLIDAIRE Né dans les années 2000 au cœur du quartier le plus vieillissant (St Marc) de Brest, le réseau Voisin’âge incarne la volonté d’un groupe d’habitants de lutter contre l’isolement.",
+        "problematique": "Créer un dispositif luttant contre les difficultés de mobilité des aînés, principale cause de leur isolement.",
+        "solution_envisagee": "Coût global du projet: 10 000 € par an (soutien aux équipements référents du dispositif).  ---  --- UN BILAN POSITIF Le réseau Voisin’âge accompagne régulièrement une cinquantaine de personnes âgées, soit plus de 700 accompagnements à l’année.",
+        "objectifs": "FAVORISER LE LIEN SOCIAL Le réseau s’appuie sur le soutien de bénévoles et d’équipements socio- culturels désireux de participer à cette démarche."
+    },
+    "porteur_initiative": "Titre: Le réseau voisin’âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/379-pe-le-reseau-voisin-age-mise-a-jour-2023.pdf  ---  --- UNE VOLONTÉ SOLIDAIRE Né dans les années 2000 au cœur du quartier le plus vieillissant (St Marc) de Brest, le réseau Voisin’âge incarne la volonté d’un groupe d’habitants de lutter contre l’isolement.",
+    "date": [
+        "2025",
+        "2023",
+        "2000",
+        "2011",
+        "2019",
+        "2016",
+        "depuis 2011",
+        "depuis 2016",
+        "en 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_reseau_voisinage.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_reseau_voisinage.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

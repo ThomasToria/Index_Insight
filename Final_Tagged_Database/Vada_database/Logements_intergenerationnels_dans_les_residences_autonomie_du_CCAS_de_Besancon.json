@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon",
+    "territoire": "Titre: Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/681-besancon-laureats-concours-villes-amies-des-aines-2021-19-20.pdf  ---  --- Concours RFVAA 2021 Le projet consiste en un programme d'échanges intergénérationnels au sein de résidences autonomie, visant à favoriser les liens et les rencontres entre résidents seniors et jeunes.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Titre: Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/681-besancon-laureats-concours-villes-amies-des-aines-2021-19-20.pdf  ---  --- Concours RFVAA 2021 Le projet consiste en un programme d'échanges intergénérationnels au sein de résidences autonomie, visant à favoriser les liens et les rencontres entre résidents seniors et jeunes.",
+    "description": {
+        "description_generale": "UN PROJET DURABLE ET PARTICIPATIF Cette démarche est à la fois innovante et durable: la récurrence et la pérennisation de cette action sont essentielles.",
+        "contexte": "Dès lors que le constat a été posé qu’aucune relation n’existait entre les jeunes et les aînés du logement, il a été décidé de mettre en œuvre une démarche intergénérationnelle expérimentale pour six logements.",
+        "problematique": "FAVORISER LA RENCONTRE ET LE VIVRE ENSEMBLE La première étape consistait à repérer une difficulté.",
+        "solution_envisagee": "Ils pouvaient percevoir l’APL et sur la base d’un engagement d’un LOGEMENTS INTERGENERATIONNELS DANS LES RESIDENCES AUTONOMIE DU CCAS DE BESANCON Fiche PARTAGE D'EXPÉRIENCE Villes Amies des Aînés en France Ville de Besançon Ville adhérente depuis 2012 Besançon (25) Créer une relation entre habitants de résidences autonomie: aînés et jeunes.",
+        "objectifs": "Titre: Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/681-besancon-laureats-concours-villes-amies-des-aines-2021-19-20.pdf  ---  --- Concours RFVAA 2021 Le projet consiste en un programme d'échanges intergénérationnels au sein de résidences autonomie, visant à favoriser les liens et les rencontres entre résidents seniors et jeunes."
+    },
+    "porteur_initiative": "Ils pouvaient percevoir l’APL et sur la base d’un engagement d’un LOGEMENTS INTERGENERATIONNELS DANS LES RESIDENCES AUTONOMIE DU CCAS DE BESANCON Fiche PARTAGE D'EXPÉRIENCE Villes Amies des Aînés en France Ville de Besançon Ville adhérente depuis 2012 Besançon (25) Créer une relation entre habitants de résidences autonomie: aînés et jeunes.",
+    "date": [
+        "Octobre 2005",
+        "2025",
+        "2021",
+        "2005",
+        "2012",
+        "depuis 2012",
+        "Depuis 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logements_intergenerationnels_dans_les_residences_autonomie_du_CCAS_de_Besancon.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Logements_intergenerationnels_dans_les_residences_autonomie_du_CCAS_de_Besancon.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "titre": "La participation politique des personnes handicapées",
+    "territoire": "Cette recherche s’intéresse également à la participation politique des personnes vivant avec un handicap selon deux axes d’analyse: 1) L’exercice du droit de vote des personnes sous tutelle atteintes de déficiences multiples.",
+    "echelle": [
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "L’ensemble du projet sera suivi par un groupe de travail francophone réunissant des acteurs concernés par le sujet (personnes handicapées, proches aidants, professionnels, institutionnels et chercheurs).",
+    "description": {
+        "description_generale": "La participation politique des personnes handicapées  Statut tri: accepted Source: IReSP URL: https://iresp.net/projets_finances/la-participation-politique-des-personnes-handicapees/ Programme concerné: Autonomie Nom de l'appel: Blanc Année: 2023 État du projet: En cours Durée: 36 mois Subvention allouée: 250 000,00 € Financeurs: CNSA Disciplines: Sociologie  La participation politique des personnes handicapées - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » La participation politique des personnes handicapées Programme concerné Autonomie Nom de l'appel Blanc Année 2023 Modalité de soutien Projet de recherche complet Démarche de recherche du projet Recherche participative État du projet En cours Durée 36 mois Subvention allouée 250 000,00 € Financeurs CNSA Disciplines Sociologie La participation politique des personnes handicapées Résumé de soumission HandiPPolitique est une recherche participative et appliquée qui porte sur l’implication politique des personnes vivant avec un handicap.",
+        "contexte": "Cette recherche s’intéresse également à la participation politique des personnes vivant avec un handicap selon deux axes d’analyse: 1) L’exercice du droit de vote des personnes sous tutelle atteintes de déficiences multiples.",
+        "problematique": "La participation de ces personnes au projet ainsi que leur participation à la vie de la cité sont des enjeux majeurs de la vie démocratique.",
+        "solution_envisagee": "Le partenariat avec la Suisse additionné à la dynamique participative (qui implique notamment le CFHE et EDF) et aux voyages d’étude favorisera également la mise en place d’une plateforme ressources de partage d’expérience entre pairs au niveau national et international.",
+        "objectifs": "La recherche aura notamment pour objectif de mieux comprendre la manière de rendre effectif ce droit pour ces personnes."
+    },
+    "porteur_initiative": "Equipes du projet Coordonnateur: DESJEUX Cyril Structure administrative de rattachement: Handéo Laboratoire ou équipe: Handéo Autres équipes participantes: Responsable de l'équipe 2: SINIGAGLIA Sabrina ANCREAI Responsable de l'équipe 3: MARTIN Nora ProInfirmis Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2023",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\075_2023_la_participation_politique_des_personnes_handicapees.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\075_2023_la_participation_politique_des_personnes_handicapees.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

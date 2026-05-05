@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Calendrier seniors: un nouvel outil d'information et de prévention à destination des seniors stéphanois",
+    "territoire": "Titre: Calendrier seniors: un nouvel outil d'information et de prévention à destination des seniors stéphanois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-Calendrier-senior-AOUT-2025s-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°663 Villes Amies des Aînés en France  CALENDRIER SENIORS: UN NOUVEL OUTIL D'INFORMATION ET DE PREVENTION A DESTINATION DES SENIORS STEPHANOIS  UN CALENDRIER AFFICHÉ DANS LA CUISINE, A COTÉ DU SMARTPHONE!",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "L'une des problématiques soulevées et récurrentes de la part des seniors qui ont été rencontrés dans différentes instances (lors du conseil consultatif seniors, des commissions du bien vieillir au sein des quartiers…), est la difficulté d'accès à l'information tant par les personnes elles-mêmes, leurs aidants familiaux que par les professionnels.",
+    "description": {
+        "description_generale": "En réponse à ce problème, différentes actions de communication ont été conduites: refonte du site internet de la Ville, nouvelle conception des documents et flyers papiers, et enfin, édition d'un calendrier de prévention et d'informations locales.",
+        "contexte": "Si le recours à internet est souvent bien utile, force est de constater que les renseignements trouvés nécessitent d'être bien analysés et que la réponse locale est souvent absente.",
+        "problematique": "L'une des problématiques soulevées et récurrentes de la part des seniors qui ont été rencontrés dans différentes instances (lors du conseil consultatif seniors, des commissions du bien vieillir au sein des quartiers…), est la difficulté d'accès à l'information tant par les personnes elles-mêmes, leurs aidants familiaux que par les professionnels.",
+        "solution_envisagee": "En réponse à ce problème, différentes actions de communication ont été conduites: refonte du site internet de la Ville, nouvelle conception des documents et flyers papiers, et enfin, édition d'un calendrier de prévention et d'informations locales.",
+        "objectifs": "En réponse à ce problème, différentes actions de communication ont été conduites: refonte du site internet de la Ville, nouvelle conception des documents et flyers papiers, et enfin, édition d'un calendrier de prévention et d'informations locales."
+    },
+    "porteur_initiative": "En réponse à ce problème, différentes actions de communication ont été conduites: refonte du site internet de la Ville, nouvelle conception des documents et flyers papiers, et enfin, édition d'un calendrier de prévention et d'informations locales.",
+    "date": [
+        "2025",
+        "2016",
+        "2021",
+        "9816",
+        "6000",
+        "2022",
+        "7000",
+        "depuis 2016",
+        "Depuis 2022",
+        "en 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Calendrier_seniors_un_nouvel_outil_dinformation_et_de_prevention_a_destination_des_seniors_stephanois.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Calendrier_seniors_un_nouvel_outil_dinformation_et_de_prevention_a_destination_des_seniors_stephanois.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE",
+    "territoire": "LA TEMPORALITÉ Du 09/11/2023 au 14/03/2024 LA LOCALISATION Rennes LES RÉSULTATS / IMPACTS Un bilan sera réalisé à l’issue du parcours.",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Titre: UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE Pages: 70  Aller vers UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE LES ACTEURS Porteur(s) de la pépite: Carsat Bretagne, pôle des actions collectives de prévention de l’ASR.",
+    "description": {
+        "description_generale": "Titre: UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE Pages: 70  Aller vers UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE LES ACTEURS Porteur(s) de la pépite: Carsat Bretagne, pôle des actions collectives de prévention de l’ASR.",
+        "contexte": "Titre: UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE Pages: 70  Aller vers UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE LES ACTEURS Porteur(s) de la pépite: Carsat Bretagne, pôle des actions collectives de prévention de l’ASR.",
+        "problematique": "Titre: UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE Pages: 70  Aller vers UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE LES ACTEURS Porteur(s) de la pépite: Carsat Bretagne, pôle des actions collectives de prévention de l’ASR.",
+        "solution_envisagee": "Aussi, un parcours spécifique a été créé dans l’optique de leur proposer un cycle d’ateliers adaptés afin de leur dispenser des conseils de prévention dans un environnement sécurisé (dans les locaux connus des Petits Frères des Pauvres et avec la participation des bénévoles).",
+        "objectifs": "Si les objectifs sont atteints, ce parcours pourrait être dupliqué auprès des autres antennes départementales des Petits Frères de Pauvres en Bretagne et pourrait être proposé aux retraités accueillis par les Restos du Cœur."
+    },
+    "porteur_initiative": "Titre: UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE Pages: 70  Aller vers UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE LES ACTEURS Porteur(s) de la pépite: Carsat Bretagne, pôle des actions collectives de prévention de l’ASR.",
+    "date": [
+        "09/11/2023",
+        "14/03/2024",
+        "2023",
+        "2024"
+    ],
+    "thematique": [
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

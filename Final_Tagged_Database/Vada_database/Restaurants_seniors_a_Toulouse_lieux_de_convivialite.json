@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Restaurants seniors à Toulouse: lieux de convivialité",
+    "territoire": "Titre: Restaurants seniors à Toulouse: lieux de convivialité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/156-156-restaurant-seniors-toulouse.pdf  ---  --- DES RESTAURANTS POUR LES SENIORS La Ville de Toulouse propose depuis quelques an - nées aux seniors de 60 ans et plus l’ opportunité d e se rendre dans des restaurants qui leur sont desti - nés.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "RESTAURANTS SENIORS À TOULOUSE: LIEUX DE CONVIVIALITÉ OBJECTIFS Favoriser les rencontres et les échanges entre seniors lors des repas.",
+    "description": {
+        "description_generale": "RESTAURANTS SENIORS À TOULOUSE: LIEUX DE CONVIVIALITÉ OBJECTIFS Favoriser les rencontres et les échanges entre seniors lors des repas.",
+        "contexte": "RESTAURANTS SENIORS À TOULOUSE: LIEUX DE CONVIVIALITÉ OBJECTIFS Favoriser les rencontres et les échanges entre seniors lors des repas.",
+        "problematique": "Ils permettent de lutter contre l’isolement en favorisant les rencont res et les échanges.",
+        "solution_envisagee": "Titre: Restaurants seniors à Toulouse: lieux de convivialité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/156-156-restaurant-seniors-toulouse.pdf  ---  --- DES RESTAURANTS POUR LES SENIORS La Ville de Toulouse propose depuis quelques an - nées aux seniors de 60 ans et plus l’ opportunité d e se rendre dans des restaurants qui leur sont desti - nés.",
+        "objectifs": "Favoriser les rencontres et les échanges entre seniors lors des repas.\nLutter contre l’isolement.\nPRATIQUE\nRéunir des seniors en semaine pour le déjeuner, dans des salles de\nrestaurant qui leur sont dédiées le midi. Proposer des repas équilibrés\nà moindre coût.\nTOULOUSE\nVille Amie des Aînés depuis 01-2015\nToulouse (31)\nFiche publiée le 11/05/2015\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nAPPEL À CONTRIBUTION\nSi, comme T oulouse, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nRestaurant seniors de Saint-Cyprien\nAUTONOMIE, SERVICES ET SOINS"
+    },
+    "porteur_initiative": "RESTAURANTS SENIORS À TOULOUSE: LIEUX DE CONVIVIALITÉ OBJECTIFS Favoriser les rencontres et les échanges entre seniors lors des repas.",
+    "date": [
+        "11/05/2015",
+        "2025",
+        "2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Restaurants_seniors_a_Toulouse_lieux_de_convivialite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Restaurants_seniors_a_Toulouse_lieux_de_convivialite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

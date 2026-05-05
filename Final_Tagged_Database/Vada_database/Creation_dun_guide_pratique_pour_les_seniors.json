@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Création d'un guide pratique pour les seniors",
+    "territoire": "Titre: Création d'un guide pratique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/869-pe-creation-d-un-guide-pratique-pour-les-seniors.pdf  ---  --- UNE DEMANDE FORMULÉE PAR LES SENIORS Ce projet résulte d'un besoin de la population senior ayant émergé lors de l'état des lieux du territoire mais également lors des différentes réunions mise en place dans le cadre du diagnostic participatif.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Le service communication de la ville de Périgueux va se charger de la communication au grand public de la disponibilité de ce nouveau guide pratique à destination des seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Périgueux, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Création d'un guide pratique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/869-pe-creation-d-un-guide-pratique-pour-les-seniors.pdf  ---  --- UNE DEMANDE FORMULÉE PAR LES SENIORS Ce projet résulte d'un besoin de la population senior ayant émergé lors de l'état des lieux du territoire mais également lors des différentes réunions mise en place dans le cadre du diagnostic participatif.",
+        "problematique": "Titre: Création d'un guide pratique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/869-pe-creation-d-un-guide-pratique-pour-les-seniors.pdf  ---  --- UNE DEMANDE FORMULÉE PAR LES SENIORS Ce projet résulte d'un besoin de la population senior ayant émergé lors de l'état des lieux du territoire mais également lors des différentes réunions mise en place dans le cadre du diagnostic participatif.",
+        "solution_envisagee": "Titre: Création d'un guide pratique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/869-pe-creation-d-un-guide-pratique-pour-les-seniors.pdf  ---  --- UNE DEMANDE FORMULÉE PAR LES SENIORS Ce projet résulte d'un besoin de la population senior ayant émergé lors de l'état des lieux du territoire mais également lors des différentes réunions mise en place dans le cadre du diagnostic participatif.",
+        "objectifs": "Ce guide pratique sera mis à jour tous les ans pour permettre de continuer à faciliter l'accès des seniors à une information actualisée et ciblée.."
+    },
+    "porteur_initiative": "Il sera disponible dans les lieux stratégiques de la ville: tiers-lieu l’Ostalet, centre social, espaces de vie sociale, mairie, maison des associations.",
+    "date": [
+        "2025",
+        "2021",
+        "2023",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_guide_pratique_pour_les_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Creation_dun_guide_pratique_pour_les_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

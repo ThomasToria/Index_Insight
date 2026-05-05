@@ -1,0 +1,51 @@
+{
+    "titre": "Vivre le grand âge: cap sur l’innovation",
+    "territoire": "Cette démarche milite pour que les villes, les lieux publics et les logements prennent en compte la diversité des utilisateurs, y compris quand ils sont handicapés ou âgés.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "L’établissement a fait le choix de l’ouverture, du droit au choix et du droit au risque pour ses résidents: ils peuvent sortir quand ils le souhaitent; il n’y a ni sonnette ni interphone; le jardin non clôturé est fréquenté par les habitants.",
+    "description": {
+        "description_generale": "Mais avant tout, nous inscrivons nos actions sur un territoire riche d’initiatives… et notre premier défi est donc de mettre en avant les projets « pépites » pour que l’innovation se diffuse.",
+        "contexte": "Plus globalement, l’un des changements majeurs que j’ai pu constater est l’attention portée à la fin de vie.",
+        "problematique": "Quels sont selon vous les enjeux de demain sur la question du grand âge?",
+        "solution_envisagee": "Aujourd’hui, les personnes de 80 à 90 ans souhaitent rester chez elles mais ont besoin d’accompagnement.",
+        "objectifs": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France Centre-Est Comment améliorer la vie quotidienne et l’inclusion des personnes âgées dans la société, en région Centre-Est?"
+    },
+    "porteur_initiative": "Aujourd’hui, elle devient déléguée régionale de l’Ecole de la Philanthropie, projet porté par la Fondation de France et la Fondation Edmond de Rotschild. « Après m’être intéressée à la question du grand âge, de l’enfance et des collégiens, c’est une belle façon de compléter ma carrière à la Fondation de France en m’investissant dans un projet d’apprentissage de la philanthropie pour les enfants ».",
+    "date": [
+        "septembre 2011",
+        "janvier 2016",
+        "2011",
+        "2016",
+        "2017",
+        "depuis 2011",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Vivre le grand âge cap sur l'innovation.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Vivre le grand âge cap sur l'innovation.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

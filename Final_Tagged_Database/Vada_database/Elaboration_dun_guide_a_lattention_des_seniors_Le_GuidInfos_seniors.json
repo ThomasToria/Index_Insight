@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Elaboration d'un guide à l'attention des seniors: Le \"Guid'Infos seniors\"",
+    "territoire": "Titre: Elaboration d'un guide à l'attention des seniors: Le \"Guid'Infos seniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Le-GuidInfos-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS La population de Saint-Palais-Sur-Mer est composée de plus de 60 % d'habitants de plus de 65 ans.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Elaboration d'un guide à l'attention des seniors: Le \"Guid'Infos seniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Le-GuidInfos-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS La population de Saint-Palais-Sur-Mer est composée de plus de 60 % d'habitants de plus de 65 ans.",
+    "description": {
+        "description_generale": "Création du guide: 3 ateliers avec des administrés volontaires; Temps de travail CCAS / Service communication / infographiste; Présentation de la maquette; Impression; Coût: 8 800 € pour l'impression de 2 000 exemplaires  ---  --- LES OBJECTIFS SONT ATTEINTS La ville a eu des retours de certains administrés, qui sont globalement satisfaits du guide, que ça soit sur sa forme ou son fond.",
+        "contexte": "En effet, malgré la communication existante sur la commune, lors des réunions VADA-diagnostic, les ainés ont mis en lumière une volonté forte d'être informés sur des éléments les concernant (santé, sortie, actions ou activités, etc.) dans un document unique.",
+        "problematique": "La question majeure des administrés consultés est: quel interlocuteur dois-je contacter et/ou voir si j'ai tel problème, ou tel besoin?",
+        "solution_envisagee": "Titre: Elaboration d'un guide à l'attention des seniors: Le \"Guid'Infos seniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Le-GuidInfos-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS La population de Saint-Palais-Sur-Mer est composée de plus de 60 % d'habitants de plus de 65 ans.",
+        "objectifs": "Création du guide: 3 ateliers avec des administrés volontaires; Temps de travail CCAS / Service communication / infographiste; Présentation de la maquette; Impression; Coût: 8 800 € pour l'impression de 2 000 exemplaires  ---  --- LES OBJECTIFS SONT ATTEINTS La ville a eu des retours de certains administrés, qui sont globalement satisfaits du guide, que ça soit sur sa forme ou son fond."
+    },
+    "porteur_initiative": "Titre: Elaboration d'un guide à l'attention des seniors: Le \"Guid'Infos seniors\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Le-GuidInfos-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS La population de Saint-Palais-Sur-Mer est composée de plus de 60 % d'habitants de plus de 65 ans.",
+    "date": [
+        "2025",
+        "2021",
+        "2023",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_guide_a_lattention_des_seniors_Le_GuidInfos_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Elaboration_dun_guide_a_lattention_des_seniors_Le_GuidInfos_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

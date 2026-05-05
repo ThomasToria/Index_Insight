@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Registre solidarités",
+    "territoire": "Titre: Registre solidarités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/677-pe-545-registre-des-solidarites-limonest.pdf  ---  --- AGIR RAPIDEMENT ET DE MANIERE ÉCO- RESPONSABLE La crise sanitaire a profondément impacté et modifié les relations sociales.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Ce service supplémentaire permet donc de joindre facilement les Seniors pour leur transmettre des informations importantes concernant l’actualité (confinement, vaccination…), des invitations pour des manifestations et des ateliers concernant ce public et des propositions de démarches participatives sur des thématiques liées au « Bien Vivre à Limonest, Ville Amie des Ainés.",
+    "description": {
+        "description_generale": "Un fichier nominatif a été ouvert sur un tableau Excel Une adresse mail a été créée à cet effet: solidarite@limonest.fr Le choix de recevoir l’information par mail ou par courrier a été souhaité par les élus pour n’exclure personne mais la communication par mail a été favorisée par la mise en avant d’une action éco-responsable.",
+        "contexte": "Titre: Registre solidarités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/677-pe-545-registre-des-solidarites-limonest.pdf  ---  --- AGIR RAPIDEMENT ET DE MANIERE ÉCO- RESPONSABLE La crise sanitaire a profondément impacté et modifié les relations sociales.",
+        "problematique": "REGISTRE SOLIDARITES Fiche PARTAGE D'EXPÉRIENCE N°5XX Villes Amies des Aînés en France Ville de Limonest Ville adhérente depuis 2011 Limonest (69) Informer rapidement et rester au plus proche des Ainés; Tisser des liens et éviter l’isolement; Moderniser la communication envers les Seniors.",
+        "solution_envisagee": "La réponse retenue fut la mise en place d’un registre dédié pour une communication rapide et éco-responsable.",
+        "objectifs": "AMÉLIORER LE LIEN AVEC NOS AINÉS Les objectifs du projet ont été atteints."
+    },
+    "porteur_initiative": "Titre: Registre solidarités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/677-pe-545-registre-des-solidarites-limonest.pdf  ---  --- AGIR RAPIDEMENT ET DE MANIERE ÉCO- RESPONSABLE La crise sanitaire a profondément impacté et modifié les relations sociales.",
+    "date": [
+        "2025",
+        "2011",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Registre_solidarites.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Registre_solidarites.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

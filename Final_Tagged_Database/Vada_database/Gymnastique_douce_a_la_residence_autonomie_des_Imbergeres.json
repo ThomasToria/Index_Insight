@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Gymnastique douce à la résidence autonomie des Imbergères",
+    "territoire": "Titre: Gymnastique douce à la résidence autonomie des Imbergères Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/992-concours-2023-gymnastique-douce-a-la-residence-autonomie-des-imbergeres.pdf  ---  --- LA VOLONTÉ DE LA GRATUITÉ POUR TOUCHER LE PLUS GRAND NOMBRE Il existait déjà des ateliers équilibre proposées au sein de la résidence depuis plusieurs années sous forme de stages (un cycle de dix séances) mais uniquement sur inscription et payantes.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS GYMNASTIQUE DOUCE À LA RÉSIDENCE AUTONOMIE DES IMBERGÈRES Fiche PARTAGE D'EXPÉRIENCE N°854 Villes Amies des Aînés en France Sceaux Ville Amie des Aînés depuis 2015 Sceaux (92) Maintenir l'autonomie des personnes âgées, résidentes des Imbergères mais également à l'ensemble des seniors scéens.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Sceaux, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com EXEMPLE D'UNE SÉANCE \"TYPE\" Le travail s'effectue exclusivement assis.",
+        "contexte": "Si, comme la Ville de Sceaux, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com EXEMPLE D'UNE SÉANCE \"TYPE\" Le travail s'effectue exclusivement assis.",
+        "problematique": "UNE INSCRIPTION SUR LA PLATEFORME E-AUTONOMIE Il a fallu en premier lieu procéder à un r ecensement des besoins et des demandes puis étudier la possibilité de la mise en œuvre de l'activité.",
+        "solution_envisagee": "Cette nouvelle formule permet de plus une certaine souplesse dans l'assiduité.",
+        "objectifs": "L'écran tactile a été fourni par l'agence \"Autonomy\" créée par les départements des Yvelines et des Hauts-de-Seine, Elle a pour objectif de favoriser l'autonomie à domicile des personnes âgées ou en situation de handicap tout en développant l'attractivité du territoire."
+    },
+    "porteur_initiative": "Si, comme la Ville de Sceaux, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com EXEMPLE D'UNE SÉANCE \"TYPE\" Le travail s'effectue exclusivement assis.",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Gymnastique_douce_a_la_residence_autonomie_des_Imbergeres.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Gymnastique_douce_a_la_residence_autonomie_des_Imbergeres.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

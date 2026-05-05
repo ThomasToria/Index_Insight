@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Plus d'autonomie avec Silver XIII Équilibre",
+    "territoire": "Titre: Plus d'autonomie avec Silver XIII Équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/511-pe-plus-d-autonomie-avec-silver-xiii.pdf  ---  --- DU SPORT POUR LES SENIORS Un programme d’activités physiques destiné aux seniors a été mis en place afin de permettre aux participants de travailler leur condition physique et leur équilibre.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Plus d'autonomie avec Silver XIII Équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/511-pe-plus-d-autonomie-avec-silver-xiii.pdf  ---  --- DU SPORT POUR LES SENIORS Un programme d’activités physiques destiné aux seniors a été mis en place afin de permettre aux participants de travailler leur condition physique et leur équilibre.",
+    "description": {
+        "description_generale": "Coût global du projet: 26 000 €  ---  --- DES PARTICIPANTS CONQUIS Le nombre de bénéficiaires de cette action dépasse la centaine.",
+        "contexte": "Titre: Plus d'autonomie avec Silver XIII Équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/511-pe-plus-d-autonomie-avec-silver-xiii.pdf  ---  --- DU SPORT POUR LES SENIORS Un programme d’activités physiques destiné aux seniors a été mis en place afin de permettre aux participants de travailler leur condition physique et leur équilibre.",
+        "problematique": "Titre: Plus d'autonomie avec Silver XIII Équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/511-pe-plus-d-autonomie-avec-silver-xiii.pdf  ---  --- DU SPORT POUR LES SENIORS Un programme d’activités physiques destiné aux seniors a été mis en place afin de permettre aux participants de travailler leur condition physique et leur équilibre.",
+        "solution_envisagee": "En plus des nombreux bienfaits physiques, participer à ces séances permet de créer du lien social et de se faire plaisir dans une ambiance ludique et enthousiaste.",
+        "objectifs": "Renforcer l’autonomie des aînés et favoriser le maintien à domicile)."
+    },
+    "porteur_initiative": "Titre: Plus d'autonomie avec Silver XIII Équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/511-pe-plus-d-autonomie-avec-silver-xiii.pdf  ---  --- DU SPORT POUR LES SENIORS Un programme d’activités physiques destiné aux seniors a été mis en place afin de permettre aux participants de travailler leur condition physique et leur équilibre.",
+    "date": [
+        "2025",
+        "2009",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plus_dautonomie_avec_Silver_XIII_Equilibre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plus_dautonomie_avec_Silver_XIII_Equilibre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Atelier « bienvenue à la retraite »",
+    "territoire": "Titre: Atelier « bienvenue à la retraite » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1121-pe-atelier-bienvenue-a-la-retraite-1.pdf  ---  --- PRÉPARER À LA RETRAITE Le passage à la retraite marque le début d’une nouvelle étape de vie.",
+    "echelle": [
+        "communale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "De plus, cet atelier \"Bienvenue à la retraite”, particulièrement adapté à un public fragilisé et isolé, est une belle occasion de promouvoir l’ensemble des activités de prévention réalisées à destination des seniors en lien avec la structure de proximité et de vivre ensemble qu’est le Centre Social Jean Moulin, et ainsi de leur faire bénéficier d’un programme global d’accompagnement.",
+    "description": {
+        "description_generale": "FONCTIONNEMENT DE L’ATELIER Début 2023, le centre social municipal identifiant le besoin a sollicité NEOSILVER suite à une présentation de la CARSAT et de la fédération des centres sociaux pour la mise en place de l’action sur Montivilliers.",
+        "contexte": "Titre: Atelier « bienvenue à la retraite » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1121-pe-atelier-bienvenue-a-la-retraite-1.pdf  ---  --- PRÉPARER À LA RETRAITE Le passage à la retraite marque le début d’une nouvelle étape de vie.",
+        "problematique": "FONCTIONNEMENT DE L’ATELIER Début 2023, le centre social municipal identifiant le besoin a sollicité NEOSILVER suite à une présentation de la CARSAT et de la fédération des centres sociaux pour la mise en place de l’action sur Montivilliers.",
+        "solution_envisagee": "FONCTIONNEMENT DE L’ATELIER Début 2023, le centre social municipal identifiant le besoin a sollicité NEOSILVER suite à une présentation de la CARSAT et de la fédération des centres sociaux pour la mise en place de l’action sur Montivilliers.",
+        "objectifs": "Les objectifs paraissent selon les participants atteints."
+    },
+    "porteur_initiative": "Titre: Atelier « bienvenue à la retraite » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1121-pe-atelier-bienvenue-a-la-retraite-1.pdf  ---  --- PRÉPARER À LA RETRAITE Le passage à la retraite marque le début d’une nouvelle étape de vie.",
+    "date": [
+        "2025",
+        "1121",
+        "2023",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bienvenue_a_la_retraite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_bienvenue_a_la_retraite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

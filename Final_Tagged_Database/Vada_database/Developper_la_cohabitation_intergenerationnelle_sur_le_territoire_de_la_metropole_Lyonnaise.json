@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Développer la cohabitation intergénérationnelle sur le territoire de la métropole Lyonnaise",
+    "territoire": "Titre: Développer la cohabitation intergénérationnelle sur le territoire de la métropole Lyonnaise Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/197-pe-intergenerations-lyon.pdf  ---  --- DES LOGEMENTS INTERGÉNÉRATIONNELS L’association ESDES Intergénérations cherche à promouvoir la solution du logement intergénérationnel qui permet à des seniors et à de jeunes adultes de vivre ensemble dans un climat de solidarité où chacun tire profit de la situation tout en aidant l’autre.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "DÉVELOPPER CE DISPOSITIF Afin d’étendre cette pratique, une communication est effectuée auprès des personnes en contact avec les seniors: médecins, kinés, infirmières, aidants… mais aussi via internet et les réseaux sociaux.",
+    "description": {
+        "description_generale": "DÉVELOPPER CE DISPOSITIF Afin d’étendre cette pratique, une communication est effectuée auprès des personnes en contact avec les seniors: médecins, kinés, infirmières, aidants… mais aussi via internet et les réseaux sociaux.",
+        "contexte": "DÉVELOPPER CE DISPOSITIF Afin d’étendre cette pratique, une communication est effectuée auprès des personnes en contact avec les seniors: médecins, kinés, infirmières, aidants… mais aussi via internet et les réseaux sociaux.",
+        "problematique": "Traiter les questionnaires de satisfaction des participants.  ---  --- MIXITÉ, SOLIDARITÉ ET CONVIVIALITÉ Le logement intergénérationnel apporte une réponse aux enjeux sociétaux de mixité, de solidarité et de convivialité.",
+        "solution_envisagee": "Proposer des solutions de logements fiables et solidaires.",
+        "objectifs": "DÉVELOPPER CE DISPOSITIF Afin d’étendre cette pratique, une communication est effectuée auprès des personnes en contact avec les seniors: médecins, kinés, infirmières, aidants… mais aussi via internet et les réseaux sociaux."
+    },
+    "porteur_initiative": "DÉVELOPPER CE DISPOSITIF Afin d’étendre cette pratique, une communication est effectuée auprès des personnes en contact avec les seniors: médecins, kinés, infirmières, aidants… mais aussi via internet et les réseaux sociaux.",
+    "date": [
+        "2025",
+        "2004",
+        "2017",
+        "2018",
+        "2009",
+        "depuis 2009",
+        "en 2004"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Developper_la_cohabitation_intergenerationnelle_sur_le_territoire_de_la_metropole_Lyonnaise.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Developper_la_cohabitation_intergenerationnelle_sur_le_territoire_de_la_metropole_Lyonnaise.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

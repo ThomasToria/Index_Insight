@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Dispositif \"danse dans les jardins\"",
+    "territoire": "Titre: Dispositif \"danse dans les jardins\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/897-concours-2023-dispositif-danse-dans-les-jardins.pdf  ---  --- L'EXTÉRIEUR POUR SE RETROUVER APRÈS LA CRISE Dans le contexte de crise sanitaire, et dans l'impossibilité de tenir la programmation en intérieur, la Direction des Seniors a développé une offre renforcée en extérieur.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "UNE OFFRE ADAPTÉE AUX SENIORS Suite à la pérennisation du dispositif, un travail a été effectué sur la recherche de danses adaptées aux seniors, les lieux pouvant accueillir les cours, les intervenants en capacité d'adapter leurs cours au public tout en maintenant une dynamique entraînante.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Dispositif \"danse dans les jardins\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/897-concours-2023-dispositif-danse-dans-les-jardins.pdf  ---  --- L'EXTÉRIEUR POUR SE RETROUVER APRÈS LA CRISE Dans le contexte de crise sanitaire, et dans l'impossibilité de tenir la programmation en intérieur, la Direction des Seniors a développé une offre renforcée en extérieur.",
+        "problematique": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DISPOSITIF \"DANSE DANS LES JARDINS\" Fiche PARTAGE D'EXPÉRIENCE N°761 Villes Amies des Aînés en France Nice Ville Amie des Aînés depuis 2015 Nice (06) Casser l'isolement social post-covid.",
+        "solution_envisagee": "La variété des cours proposés permet de couvrir une large gamme selon les envies et les conditions de chacun, chaque senior pouvant participer à plusieurs cours.",
+        "objectifs": "Adaptation des offres selon les demandes des seniors.  ---  --- UN BILAN POSITIF Outre les retours très positifs du public au fil de l'eau, une enquête a été réalisée d'une année sur l'autre pour affiner et développer l'offre."
+    },
+    "porteur_initiative": "Des liens ont été créés et on retrouve les groupes d'amitié forgés dans le cadre des cours de danse sur d'autres activités: covoiturage, sorties culturelles collectives et restauration.",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_danse_dans_les_jardins.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Dispositif_danse_dans_les_jardins.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: La Compagnie des voisins",
+    "territoire": "Titre: La Compagnie des voisins Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/551-pe-la-compagnie-des-voisins-mise-a-jour-2023.pdf  ---  --- FAVORISER LA CRÉATION D’ « IMMEUBLES SOLIDAIRES » Le projet de La Compagnie des voisins a été imaginé en 2017, en constatant que l’idée originelle qui avait prévalu à la création, en 2002, des démarches communautaires « Quartiers Solidaires » requérait un complément à la plus petite échelle de l’habitat.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Coût: CHF 36’000.- (environ 32 000€) pour le développement, la mise en œuvre et la communication.  ---  --- Approfondissement du partage communautaire sur le projet lors de la Plateforme inter-régionale 2017 de Quartiers Solidaires, au cours d’un atelier dédié, réunissant des habitants-citoyens, des représentants communaux et associatifs ainsi que des professionnels de l’animation socioculturelle; Agrégation des avis et propositions issus des consultations communautaires; Mandat à une agence de communication pour la conception des « messages » et des supports de diffusion; Réalisation de la version-test d’une brochure de présentation et de la signalétique; Phase-test de la démarche et de la signalétique auprès des habitants de 9 immeubles intergénérationnels dans plusieurs régions du canton de Vaud et dans 3 immeubles de logements seniors à Lausanne; Invitation des habitants à des rencontres d’information dans leur immeuble, avec le concours actif des concierges; Évaluation de la phase-test; Adaptation des supports de communication et de la signalétique en fonction des avis et propositions recueillis; Définition et élaboration des moyens de promotion et de diffusion (brochure et vignettes, site Internet, vidéos de présentation, fonctionnalités de commande des « kits », communiqué de presse, mailings aux communes vaudoises et aux associations, diffusion sur les réseaux sociaux); Lancement de la communication et de la diffusion le 24 mai 2019, à l’occasion de la Fête des voisins.",
+    "description": {
+        "description_generale": "Concrètement, pour participer à ce projet, il suffit de se rendre dans un premier temps sur le site dédié (https://compagniedesvoisins.ch/) qui donne accès à la description du projet et à trois vidéos illustratives.",
+        "contexte": "Titre: La Compagnie des voisins Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/551-pe-la-compagnie-des-voisins-mise-a-jour-2023.pdf  ---  --- FAVORISER LA CRÉATION D’ « IMMEUBLES SOLIDAIRES » Le projet de La Compagnie des voisins a été imaginé en 2017, en constatant que l’idée originelle qui avait prévalu à la création, en 2002, des démarches communautaires « Quartiers Solidaires » requérait un complément à la plus petite échelle de l’habitat.",
+        "problematique": "LA COMPAGNIE DES VOISINS Fiche PARTAGE D'EXPÉRIENCE N°551 Villes Amies des Aînés en France Pro Senectute Vaud Ville Amie des Aînés depuis 2017 Pro Senectute Vaud (Suisse) Favoriser une vie à domicile le plus longtemps possible, en luttant contre l’isolement et en favorisant le lien social.",
+        "solution_envisagee": "Ensuite, elles choisissent les gommettes spécifiques représentant les activités, rencontres ou coups de main qu’elles souhaitent proposer à leurs voisins (comme par exemple: conversation, courses, promenade, prendre le thé, aide aux devoirs, arroser les plantes, etc.).",
+        "objectifs": "Titre: La Compagnie des voisins Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/551-pe-la-compagnie-des-voisins-mise-a-jour-2023.pdf  ---  --- FAVORISER LA CRÉATION D’ « IMMEUBLES SOLIDAIRES » Le projet de La Compagnie des voisins a été imaginé en 2017, en constatant que l’idée originelle qui avait prévalu à la création, en 2002, des démarches communautaires « Quartiers Solidaires » requérait un complément à la plus petite échelle de l’habitat."
+    },
+    "porteur_initiative": "Site de présentation: https://compagniedesvoisins.ch/ COMMENT ÇA MARCHE?",
+    "date": [
+        "24",
+        "24 mai 2019",
+        "mai 2019",
+        "2025",
+        "2023",
+        "2017",
+        "2002",
+        "2019",
+        "depuis 2017",
+        "en 2017",
+        "en 2002"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Compagnie_des_voisins.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_Compagnie_des_voisins.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

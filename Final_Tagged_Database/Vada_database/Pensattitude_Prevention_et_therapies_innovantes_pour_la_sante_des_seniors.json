@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Pens'attitude: Prevention et thérapies innovantes pour la santé des seniors",
+    "territoire": "Titre: Pens'attitude: Prevention et thérapies innovantes pour la santé des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/997-2023-pens-attitude-prevention-et-therapies-innovantes-pour-la-sante-des-seniors.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DÉVELOPPER LES ACTIONS DE PRÉVENTION ALTERNATIVES Considérant la démographie spécifique de la Ville de Royan, qui comprend 55% de personnes âgées de 60 ans et plus, un intérêt particulier est porté aux enjeux liés au vieillissement.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Pens'attitude: Prevention et thérapies innovantes pour la santé des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/997-2023-pens-attitude-prevention-et-therapies-innovantes-pour-la-sante-des-seniors.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DÉVELOPPER LES ACTIONS DE PRÉVENTION ALTERNATIVES Considérant la démographie spécifique de la Ville de Royan, qui comprend 55% de personnes âgées de 60 ans et plus, un intérêt particulier est porté aux enjeux liés au vieillissement.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Royan, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Par ailleurs, depuis plusieurs années, la Ville de Royan fait face à une baisse de la densité médicale locale: 23 médecins généralistes étaient comptabilisés en 2017, contre 16 actuellement.",
+        "problematique": "Titre: Pens'attitude: Prevention et thérapies innovantes pour la santé des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/997-2023-pens-attitude-prevention-et-therapies-innovantes-pour-la-sante-des-seniors.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DÉVELOPPER LES ACTIONS DE PRÉVENTION ALTERNATIVES Considérant la démographie spécifique de la Ville de Royan, qui comprend 55% de personnes âgées de 60 ans et plus, un intérêt particulier est porté aux enjeux liés au vieillissement.",
+        "solution_envisagee": "La construction du programme PENSA (Préservons Ensemble Notre Santé) a nécessité ensuite de rechercher des professionnels compétents pour animer les différents ateliers, de proposer des horaires adaptés aux seniors et de rechercher des locaux.",
+        "objectifs": "Elles apportent une approche différente et font appel à des compétences psychosociales intéressantes: avoir conscience de soi, de ses émotions, de son stress, savoir communiquer efficacement, être dans l'empathie, développer une pensée créative."
+    },
+    "porteur_initiative": "Par ailleurs, depuis plusieurs années, la Ville de Royan fait face à une baisse de la densité médicale locale: 23 médecins généralistes étaient comptabilisés en 2017, contre 16 actuellement.",
+    "date": [
+        "2025",
+        "2023",
+        "2017",
+        "2021",
+        "2009",
+        "2013",
+        "2022",
+        "depuis 2013",
+        "Depuis 2021",
+        "en 2017",
+        "EN 2021",
+        "en 2009"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pensattitude_Prevention_et_therapies_innovantes_pour_la_sante_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Pensattitude_Prevention_et_therapies_innovantes_pour_la_sante_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

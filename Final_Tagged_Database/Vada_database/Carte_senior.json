@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Carte senior",
+    "territoire": "Titre: Carte senior Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/664-pe-532-carte-senior-saint-priest.pdf  ---  --- UNE CARTE AVANTAGEUSE La réalisation d’un diagnostic sur le vieillissement de la population a mis en relief le besoin de favoriser l’accès des seniors à la culture et à des espaces de sociabilité.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Carte senior Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/664-pe-532-carte-senior-saint-priest.pdf  ---  --- UNE CARTE AVANTAGEUSE La réalisation d’un diagnostic sur le vieillissement de la population a mis en relief le besoin de favoriser l’accès des seniors à la culture et à des espaces de sociabilité.",
+    "description": {
+        "description_generale": "Coût financier global: 25 200€.  ---  --- L'ÉVALUATION DU PROJET Ce projet, dont le coût s'élève à environ 25 200€ a été financé par la ville de Saint-Priest.",
+        "contexte": "Face à ce constat et dans le cadre de ses actions en faveur des personnes âgées, et notamment celles concernant la lutte contre l’isolement, la Ville de Saint-Priest, en partenariat avec des institutions culturelles, de loisirs et de services, propose une carte permettant aux retraités de bénéficier de tarifs adaptés à leurs revenus.",
+        "problematique": "Titre: Carte senior Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/664-pe-532-carte-senior-saint-priest.pdf  ---  --- UNE CARTE AVANTAGEUSE La réalisation d’un diagnostic sur le vieillissement de la population a mis en relief le besoin de favoriser l’accès des seniors à la culture et à des espaces de sociabilité.",
+        "solution_envisagee": "Face à ce constat et dans le cadre de ses actions en faveur des personnes âgées, et notamment celles concernant la lutte contre l’isolement, la Ville de Saint-Priest, en partenariat avec des institutions culturelles, de loisirs et de services, propose une carte permettant aux retraités de bénéficier de tarifs adaptés à leurs revenus.",
+        "objectifs": "Cependant, peu de cartes ont pour le moment été délivrées au regard des objectifs visés (environ 250 cartes sur 7 000 retraités potentiellement concernés) mais la carte est très utilisée pour le service de transports à la demande et les services du CCAS."
+    },
+    "porteur_initiative": "Titre: Carte senior Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/664-pe-532-carte-senior-saint-priest.pdf  ---  --- UNE CARTE AVANTAGEUSE La réalisation d’un diagnostic sur le vieillissement de la population a mis en relief le besoin de favoriser l’accès des seniors à la culture et à des espaces de sociabilité.",
+    "date": [
+        "2025",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_senior.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Carte_senior.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

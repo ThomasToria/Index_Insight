@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Le jeu des récits et des vies",
+    "territoire": "Titre: Le jeu des récits et des vies Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/397-397-pe-jeu-des-recits-et-des-vies.pdf  ---  --- UN DISPOSITIF INCLUSIF Parce que les groupes de parole s’adressent aux per - sonnes qui ont la capacité de trouver les bons mots au bon moment et les ateliers d’ écriture a celles q ui osent écrire et qui ont la motricité pour le faire, ils écartent tout un public qui n’a pas ces facultés.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "DES DÉBUTS PROMETTEURS Les retours des professionnels du médico-social et des bénéficiaires eux-mêmes sont très positifs.",
+    "description": {
+        "description_generale": "Le jeu, sorti en 2017, fait un démarrage prometteur: les demandes de formations et d’animations se mul - tiplient autour du dispositif.",
+        "contexte": "Le jeu est souple d’utilis ation: la durée du jeu peut varier selon les besoins et le s dis- ponibilités et l’ objet est léger et maniable, facil ement transportable d’un endroit à l’autre.",
+        "problematique": "Le jeu est souple d’utilis ation: la durée du jeu peut varier selon les besoins et le s dis- ponibilités et l’ objet est léger et maniable, facil ement transportable d’un endroit à l’autre.",
+        "solution_envisagee": "Le jeu est souple d’utilis ation: la durée du jeu peut varier selon les besoins et le s dis- ponibilités et l’ objet est léger et maniable, facil ement transportable d’un endroit à l’autre.",
+        "objectifs": "Libérer la parole. Prévenir les effets néfastes du vieillissement.\nRepérer les personnes en situation de fragilité. Lutter contre\nl’isolement des personnes âgées sur le territoire. Soutenir les\naidants. Créer des liens intergénérationnels.\nPRATIQUE\nConcevoir le jeu. Réaliser des prototypes. Rencontrer des\nprofessionnels (médecins, psychologues, animateurs, etc).\nTester l’objet en EHPAD et via le CCAS. Évaluer le dispositif.\nDES RÉCITS ET DES VIES\nToulouse (31)\nFiche publiée le 22/06/2018\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nAUTONOMIE, SERVICES ET SOINS\nSi vous avez mis en place des projets pour\nles aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nCULTURE ET LOISIRS"
+    },
+    "porteur_initiative": "Le jeu est souple d’utilis ation: la durée du jeu peut varier selon les besoins et le s dis- ponibilités et l’ objet est léger et maniable, facil ement transportable d’un endroit à l’autre.",
+    "date": [
+        "décembre 2016",
+        "22/06/2018",
+        "2025",
+        "2017",
+        "2016",
+        "2018",
+        "en 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_jeu_des_recits_et_des_vies.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_jeu_des_recits_et_des_vies.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

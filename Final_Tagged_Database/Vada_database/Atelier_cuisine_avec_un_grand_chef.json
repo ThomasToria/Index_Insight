@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Atelier cuisine avec un grand chef",
+    "territoire": "Titre: Atelier cuisine avec un grand chef Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/318-pe-cours-cuisine-mise-en-forme-2023.pdf  ---  --- UNE VILLE À L’ÉCOUTE DES SENIORS Dans le cadre de la Semaine Bleue, la semaine nationale des personnes âgées, la ville de Tassin la Demi-Lune a souhaité mettre en place un certain nombre d’activités.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Atelier cuisine avec un grand chef Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/318-pe-cours-cuisine-mise-en-forme-2023.pdf  ---  --- UNE VILLE À L’ÉCOUTE DES SENIORS Dans le cadre de la Semaine Bleue, la semaine nationale des personnes âgées, la ville de Tassin la Demi-Lune a souhaité mettre en place un certain nombre d’activités.",
+    "description": {
+        "description_generale": "Suite à cela, plusieurs actions ont alors été mises en place: de la gymnastique douce, une présentation sur le “Tassin d’hier” proposé par le groupe de Recherche Historique, du cinéma, un thé dansant, une intervention de de France Alzheimer ainsi qu’un cours de cuisine proposé par un chef étoilé.",
+        "contexte": "Titre: Atelier cuisine avec un grand chef Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/318-pe-cours-cuisine-mise-en-forme-2023.pdf  ---  --- UNE VILLE À L’ÉCOUTE DES SENIORS Dans le cadre de la Semaine Bleue, la semaine nationale des personnes âgées, la ville de Tassin la Demi-Lune a souhaité mettre en place un certain nombre d’activités.",
+        "problematique": "Titre: Atelier cuisine avec un grand chef Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/318-pe-cours-cuisine-mise-en-forme-2023.pdf  ---  --- UNE VILLE À L’ÉCOUTE DES SENIORS Dans le cadre de la Semaine Bleue, la semaine nationale des personnes âgées, la ville de Tassin la Demi-Lune a souhaité mettre en place un certain nombre d’activités.",
+        "solution_envisagee": "UN COURS AVEC UN CHEF ÉTOILÉ C’est l’élue déléguée aux seniors et aux affaires sociales qui est allée à la rencontre du chef restaurateur de Tassin la Demi-Lune afin d’évoquer ce projet et de lui proposer d’intervenir dans le cadre de cette semaine en réalisant un cours de cuisine auprès des personnes âgées de la commune.",
+        "objectifs": "Construire un questionnaire de satisfaction pour évaluer l’action.  ---  --- Afin d’améliorer les prestations offertes par la ville lors de cette semaine, un questionnaire à été proposé aux participants afin de savoir comment ils avaient eu connaissance de la Semaine Bleue, ce qu’ils avaient pensé de la qualité de l’accueil, des horaires ou encore de la durée des activités."
+    },
+    "porteur_initiative": "Titre: Atelier cuisine avec un grand chef Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/318-pe-cours-cuisine-mise-en-forme-2023.pdf  ---  --- UNE VILLE À L’ÉCOUTE DES SENIORS Dans le cadre de la Semaine Bleue, la semaine nationale des personnes âgées, la ville de Tassin la Demi-Lune a souhaité mettre en place un certain nombre d’activités.",
+    "date": [
+        "16/05/2017",
+        "2025",
+        "2023",
+        "2015",
+        "2016",
+        "2017",
+        "depuis 2017",
+        "En 2015",
+        "en 2016",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_cuisine_avec_un_grand_chef.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_cuisine_avec_un_grand_chef.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

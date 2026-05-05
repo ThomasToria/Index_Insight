@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: La fin de vie, et si on en parlait!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/815-concours-2022-36-la-fin-de-vie-et-si-on-en-parlait.pdf  ---  --- SENSIBILISER ET INFORMER SUR LES DROITS EN MATIÈRE DE FIN DE VIE La fin de vie est un moment difficile aussi bien pour le malade que pour ses proches lorsque les médicaments et les traitements ne sont plus efficaces.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Prendre en compte le nombre de participants pour évaluer l'action.  ---  --- une présentation spécifique présentant les grandes lignes du cadre législatif sur la fin de vie qui a été présenté; l'intervention d'experts: médecins gériatres, médecins hospitaliers en soins palliatifs, infirmiers, membres du comité consultatif national d'éthique; une table ronde avec des usagers qui témoignent sur leurs choix autour de ce sujet; un échange interactif entre le public, les experts et les usagers de la table-ronde.",
+    "description": {
+        "description_generale": "Prendre en compte le nombre de participants pour évaluer l'action.  ---  --- une présentation spécifique présentant les grandes lignes du cadre législatif sur la fin de vie qui a été présenté; l'intervention d'experts: médecins gériatres, médecins hospitaliers en soins palliatifs, infirmiers, membres du comité consultatif national d'éthique; une table ronde avec des usagers qui témoignent sur leurs choix autour de ce sujet; un échange interactif entre le public, les experts et les usagers de la table-ronde.",
+        "contexte": "Le c onseil territorial de santé de l'Yonne veille à conserver la spécificité des dispositifs et des démarches locales, il participe à la réalisation du diagnostic territorial partagé et contribue au projet.",
+        "problematique": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/815-concours-2022-36-la-fin-de-vie-et-si-on-en-parlait.pdf  ---  --- SENSIBILISER ET INFORMER SUR LES DROITS EN MATIÈRE DE FIN DE VIE La fin de vie est un moment difficile aussi bien pour le malade que pour ses proches lorsque les médicaments et les traitements ne sont plus efficaces.",
+        "solution_envisagee": "Ce dernier sera composé d'élus, du Conseil territorial de santé de l'Yonne, d'associations intervenant dans le champ de l'accompagnement de la fin de fin (OPAL89, JALMALV89), de membres du comité consultatif national d'éthique et de l'espace de réflexion éthique Bourgogne-Franche-Comté.",
+        "objectifs": "PERSPECTIVES DU PROJET Dans le cadre de cette action, l'objectif est de renforcer les liens avec les partenaires locaux et institutionnels sur l'accompagnement des personnes âgées sur cette thématique de la fin de vie."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/815-concours-2022-36-la-fin-de-vie-et-si-on-en-parlait.pdf  ---  --- SENSIBILISER ET INFORMER SUR LES DROITS EN MATIÈRE DE FIN DE VIE La fin de vie est un moment difficile aussi bien pour le malade que pour ses proches lorsque les médicaments et les traitements ne sont plus efficaces.",
+    "date": [
+        "28 septembre 2019",
+        "22 avril 2005",
+        "septembre 2019",
+        "avril 2005",
+        "novembre 2022",
+        "2025",
+        "2022",
+        "2019",
+        "2005",
+        "2023",
+        "depuis 2019",
+        "en",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_fin_de_vie_et_si_on_en_parlait.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_fin_de_vie_et_si_on_en_parlait.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

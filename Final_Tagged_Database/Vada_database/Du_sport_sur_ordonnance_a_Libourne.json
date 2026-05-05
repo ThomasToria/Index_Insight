@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Du sport sur ordonnance à Libourne",
+    "territoire": "La ville a également participé aux réunions de la DRDJS et du CDOMS (Comité Départemental du mouvement sportif) pour élaborer des dispositifs régionaux communs.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "S'en sont suivies des réunions avec le centre hospitalier, clinique du Libournais, médecins généralistes et spécialistes et associations de santé (Cœur et santé, Ora Oxyssouffle) afin de définir les publics aux quels s'adresser et de connaître leurs besoins en termes de \"Sport Santé\".",
+    "description": {
+        "description_generale": "La ville de Libourne y a acté sa participation avec la mise en place de deux fiches action (renforcer et promouvoir le nombre d’équipements sportifs en accès libre - instaurer le dispositif \"Sport sur Ordonnance\").",
+        "contexte": "Titre: Du sport sur ordonnance à Libourne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/984-concours-2023-du-sport-sur-ordonnance-a-libourne.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE ACTION LANCÉE EN SEPTEMBRE 2019 La Direction des sports a établi fin 2017 un diagnostic des pratiques existantes dans notre collectivité et a conclu que les médecins hospitaliers, généralistes et spécialistes étaient démunis quant aux propositions existantes en termes d'activités physiques adaptées en direction des patients atteints de pathologies chroniques.",
+        "problematique": "S'en sont suivies des réunions avec le centre hospitalier, clinique du Libournais, médecins généralistes et spécialistes et associations de santé (Cœur et santé, Ora Oxyssouffle) afin de définir les publics aux quels s'adresser et de connaître leurs besoins en termes de \"Sport Santé\".",
+        "solution_envisagee": "Une journée « Tous en forme » sur la plaine des Dagueys a enfin été mise en place afin de proposer aux usagers une découverte des dispositifs existant sur la collectivité, avec la participation de diverses associations sportives et institution de santé.",
+        "objectifs": "Des enquêtes de satisfaction sont remplies par les participants pour développer et améliorer le dispositif."
+    },
+    "porteur_initiative": "Si, comme la Ville de Libourne, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "SEPTEMBRE 2019",
+        "2025",
+        "2023",
+        "2019",
+        "2017",
+        "2020",
+        "2024",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_sport_sur_ordonnance_a_Libourne.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Du_sport_sur_ordonnance_a_Libourne.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Création d'un tiers-lieu: « l’ostalet »",
+    "territoire": "Titre: Création d'un tiers-lieu: « l’ostalet » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/870-pe-creation-d-un-tiers-lieu.pdf  ---  --- CRÉER UN LIEU UNIQUE DE RENCONTRE Ce projet résulte d'un besoin de la population senior de bénéficier d'un lieu unique pour s'informer mais également d'un besoin de créer et maintenir le lien social à travers des rencontres ou des activités.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "UN AVIS FAVORABLE DU CVS Il a fallu étudier la faisabilité du projet (coût, lieu, besoins) et rechercher du mobilier et des aménagements adaptés aux seniors.",
+    "description": {
+        "description_generale": "La présentation indispensable du projet lors du conseil de vie sociale (CVS) de la résidence Autonomie a eu lieu le 23 mai et reçu un avis favorable à l’unanimité.",
+        "contexte": "L’Ostalet comprend 5 espaces distincts sur 180m2: un espace d’accueil, un espace de convivialité avec une cuisine aménagée, un espace de détente et de lecture, un espace informatique et un espace pour la pratique d’activités physiques et sportives.",
+        "problematique": "Titre: Création d'un tiers-lieu: « l’ostalet » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/870-pe-creation-d-un-tiers-lieu.pdf  ---  --- CRÉER UN LIEU UNIQUE DE RENCONTRE Ce projet résulte d'un besoin de la population senior de bénéficier d'un lieu unique pour s'informer mais également d'un besoin de créer et maintenir le lien social à travers des rencontres ou des activités.",
+        "solution_envisagee": "Il y sera proposé un accompagnement personnalisé, des ateliers et des animations, des informations pratiques sur tous les sujets de la vie quotidienne.",
+        "objectifs": "UN GUICHET UNIQUE D'INFORMATION La création d’un tiers-lieu intergénérationnel au sein d'une résidence autonomie gérée par le centre communal d'action sociale (CCAS) de Périgueux va permettre de créer un lieu unique d'information, de partage et d'animation."
+    },
+    "porteur_initiative": "L’Ostalet comprend 5 espaces distincts sur 180m2: un espace d’accueil, un espace de convivialité avec une cuisine aménagée, un espace de détente et de lecture, un espace informatique et un espace pour la pratique d’activités physiques et sportives.",
+    "date": [
+        "2025",
+        "2022",
+        "2021",
+        "2023",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_tiers-lieu_lostalet.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Creation_dun_tiers-lieu_lostalet.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

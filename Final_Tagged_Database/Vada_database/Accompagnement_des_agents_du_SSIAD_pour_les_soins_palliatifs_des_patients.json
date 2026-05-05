@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Accompagnement des agents du SSIAD pour les soins palliatifs des patients",
+    "territoire": "Titre: Accompagnement des agents du SSIAD pour les soins palliatifs des patients Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/813-concours-2022-34-accompagnement-des-agents-du-ssiad-soins-palliatifs.pdf  ---  --- ACCOMPAGNER LES PERSONNES ÂGÉES À LA FIN DE VIE La question de la fin de vie, de l'évaluation et de la prise en charge de la douleur constitue une question centrale, individuelle et collective, éthique et médicale.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "L'action présentée ici est innovante et surtout bienveillante: elle a comme finalité d'accompagner les personnes âgées dans une période de leur vie délicate et complexe pour eux mêmes et leurs entourages.",
+    "description": {
+        "description_generale": "L'action présentée ici est innovante et surtout bienveillante: elle a comme finalité d'accompagner les personnes âgées dans une période de leur vie délicate et complexe pour eux mêmes et leurs entourages.",
+        "contexte": "L'action présentée ici est innovante et surtout bienveillante: elle a comme finalité d'accompagner les personnes âgées dans une période de leur vie délicate et complexe pour eux mêmes et leurs entourages.",
+        "problematique": "Les enjeux sont encore prégnants depuis la loi du 2 février 2016 relative aux droits en faveur des malades et des personnes en fin de vie.",
+        "solution_envisagee": "L'équipe bénéficie désormais d'un accompagnement de l'E.M.D.S.P. (équipe mobile douleur et soins palliatifs) afin de recueillir conseil et soutien, tant sur l'approche éthique que la dimension pratique (prise en compte de la douleur, des symptômes d'inconfort et mise en place de la démarche palliative).",
+        "objectifs": "Le service de Soins Infirmiers à Domicile (S.S.I.A.D.) intervient au domicile des personnes âgées et ou handicapées afin de favoriser le maintien à domicile."
+    },
+    "porteur_initiative": "L'action présentée ici est innovante et surtout bienveillante: elle a comme finalité d'accompagner les personnes âgées dans une période de leur vie délicate et complexe pour eux mêmes et leurs entourages.",
+    "date": [
+        "2 février 2016",
+        "19 janvier",
+        "19 janvier 2022",
+        "février 2016",
+        "octobre 2022",
+        "janvier",
+        "janvier 2022",
+        "2025",
+        "2022",
+        "2016",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_agents_du_SSIAD_pour_les_soins_palliatifs_des_patients.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Accompagnement_des_agents_du_SSIAD_pour_les_soins_palliatifs_des_patients.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

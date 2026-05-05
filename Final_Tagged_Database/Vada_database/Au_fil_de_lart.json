@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Au fil de l'art",
+    "territoire": "Titre: Au fil de l'art Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/535-pe-au-fil-de-l-art-maj-2025.pdf  ---  --- LES ACTIVITÉS ARTISTIQUES CRÉENT DU LIEN E n 2014, au vu de la population vieillissante, la m unicipalité souhaite pré venir et lutter con tre l’isolemen t.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Favoriser la participation des seniors aux animations culturelles et associatives de la commune.",
+    "description": {
+        "description_generale": "P ar le biais de la culture et des loisirs, le dispositif A u F il de l’A rt est donc mi s en place sur la comm une de G ravelines et porté par le S ervice P rotocole.",
+        "contexte": "Titre: Au fil de l'art Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/535-pe-au-fil-de-l-art-maj-2025.pdf  ---  --- LES ACTIVITÉS ARTISTIQUES CRÉENT DU LIEN E n 2014, au vu de la population vieillissante, la m unicipalité souhaite pré venir et lutter con tre l’isolemen t.",
+        "problematique": "UN EFFORT BIEN ORGANISÉ P lusieurs difficulté s on t é té rencon trée s comme le taux de participation des seniors, l’inté rê t pour l’action ou le main tien du lien au travers des ateliers et vis à vis des structures partenaires.",
+        "solution_envisagee": "F ace à cela, des solutions on t é té envisagée s afin d’éla rgir la comm unication du dispositif via un courrier, une comm unication dan s G ravelines-M agazine, l’organisation d’une ré trospective, le G uide seniors et une page F acebook, en plus du bo uche à oreille.",
+        "objectifs": "U n comi té de pilotage, com posé du M aire, d’él us, de la direction du CCAS et de partenaires divers se ré unit chaque déb ut d’année afin de faire le bilan de l’année éco ulée et de valider les prochains thème s."
+    },
+    "porteur_initiative": "P ar le biais de la culture et des loisirs, le dispositif A u F il de l’A rt est donc mi s en place sur la comm une de G ravelines et porté par le S ervice P rotocole.",
+    "date": [
+        "2025",
+        "2014",
+        "2017",
+        "2019",
+        "2023",
+        "2018",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_de_lart.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Au_fil_de_lart.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Préserver les liens dans les moments de rupture: l’engagement d’Entour’âge Solidaire",
+    "territoire": "Titre: Préserver les liens dans les moments de rupture: l’engagement d’Entour’âge Solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/465-465-pe-entourage.pdf  ---  --- ACCOMPAGNER LES MOMENTS CHARNIÈRES Tout au long de l’avancée en âge, la vie est ponctu ée d’ événements plus ou moins difficiles tels que la retraite, la perte de proches, le déménagement, l’ éloignement des enfants, la maladie, etc.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Entour’âge solidaire est une association qui recrée du lien entre les personnes âgées et leurs voisins à travers deux actions: la mise en relation d’une personne âgée endeuillée avec un bénévole de son quartier et la mise en place d’une communauté de quartier avec des rencontres hebdomadaires.",
+    "description": {
+        "description_generale": "Entour’âge solidaire est une association qui recrée du lien entre les personnes âgées et leurs voisins à travers deux actions: la mise en relation d’une personne âgée endeuillée avec un bénévole de son quartier et la mise en place d’une communauté de quartier avec des rencontres hebdomadaires.",
+        "contexte": "Entour’âge solidaire est une association qui recrée du lien entre les personnes âgées et leurs voisins à travers deux actions: la mise en relation d’une personne âgée endeuillée avec un bénévole de son quartier et la mise en place d’une communauté de quartier avec des rencontres hebdomadaires.",
+        "problematique": "En partenariat avec la mairie de Lyon, une conférence a également été organisée sur l’isolement des senio rs et un groupe de travail a été créé avec plusieurs seniors afin de cerner au mieux leurs besoins.",
+        "solution_envisagee": "Entour’âge solidaire est une association qui recrée du lien entre les personnes âgées et leurs voisins à travers deux actions: la mise en relation d’une personne âgée endeuillée avec un bénévole de son quartier et la mise en place d’une communauté de quartier avec des rencontres hebdomadaires.",
+        "objectifs": "Lutter contre l’isolement social et la perte d’autonomie liés à\ndes ruptures comme le deuil, un déménagement, une hos -\npitalisation, etc. Recréer du lien social intergénérationnel de\nproximité.\nPRATIQUE\nRechercher des partenaires pour repérer les personnes\nâgées isolées suite à une rupture. Mettre en place des outils\nde communication. Trouver des bénévoles par quartier.\nCréer une formation pour les bénévoles. Trouver des lieux\npar quartier pour accueillir régulièrement les communautés.\nENTOUR’ÂGE SOLIDAIRE\nLyon (69)\nFiche publiée le 07/02/2019\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\n---  ---\nUN TRAVAIL D’ÉQUIPE ENTRE\nPARTENAIRES, COACHS ET BÉNÉVOLES\nUn réseau de partenaires a été mis en place pour\nfaciliter l’ orientation vers l’association des personnes\nâgées se trouvant en situation d’isolement suite à\nune rupture. Pour ce faire, Entour’âge solidaire\ns’appuie sur des acteurs tels que la Mairie de Lyon,\nla Métropole de Lyon, la Carsat, les CCAS ou encore\nles Hospices Civils de Lyon.\nAu départ, en règle générale, c’ est l’un de ces\npartenaires qui est à l’ origine du signalement\nd’une situation d’isolement suite à un décès. Un\nplan d’aide personnalisé est ainsi défini après la\nrencontre du nouveau bénéficiaire, en fonction\nde ses besoins et de ses envies. Un bénévole vient\nrégulièrement au domicile pour aider la personne\nâgée à remonter la pente et à recréer des réseaux\nde sociabilité en s’appuyant sur le plan d’aide. Après\nl’accompagnement, des bénévoles des Petits Frères\ndes Pauvres pourront prendre le relais si la person ne\nâgée le souhaite.\nUne formation pour les bénévoles a été conçue afin\nde leur permettre de mieux appréhender le processus\nde deuil, et de leur donner des clés pour accompagner\nla personne âgée, notamment grâce à l’ écoute active.\nUne mise en pratique est aussi proposée lors de la\nformation. Les objectifs de cette formation sont\nde mieux accompagner une personne en situation\nde rupture (deuil, chute, accident, éloignement\ngéographique…) pour prévenir l’isolement social\net lutter contre la perte d’autonomie, d’ être capable\nd’apporter un soutien moral pour aider la personne\naccompagnée à surmonter cette épreuve et d’ être\ncapable de se positionner comme coach dans la\nrelation d’accompagnement.\nSi vous avez mis en place des projets pour\nles aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nwww.villesamiesdesaines-rf.fr\nLIEN SOCIAL ET SOLIDARITÉ"
+    },
+    "porteur_initiative": "Entour’âge solidaire est une association qui recrée du lien entre les personnes âgées et leurs voisins à travers deux actions: la mise en relation d’une personne âgée endeuillée avec un bénévole de son quartier et la mise en place d’une communauté de quartier avec des rencontres hebdomadaires.",
+    "date": [
+        "07/02/2019",
+        "2025",
+        "2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Preserver_les_liens_dans_les_moments_de_rupture_lengagement_dentourage_solidaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Preserver_les_liens_dans_les_moments_de_rupture_lengagement_dentourage_solidaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,144 @@
+Emulation d’essais cliniques en présence de biais d’immortalité: Etude de cas sur le rôle de la chirurgie après un traitement systémique chez les patientes ayant un cancer du sein métastatique de novo
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/emulation-dessais-cliniques-en-presence-de-biais-dimmortalite-etude-de-cas-sur-le-role-de-la-chirurgie-apres-un-traitement-systemique-chez-les-patientes-ayant-un-cancer-du-sein-meta/
+Programme concerné : MESSIDORE
+Nom de l'appel : Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année : 2023
+État du projet : En cours
+Durée : 36 mois
+Subvention allouée : 296 204,00 €
+Financeurs : INSERM
+Disciplines : Methodology-Biostatistics / Breast cancer / Oncology
+
+Emulation d’essais cliniques en présence de biais d’immortalité: Etude de cas sur le rôle de la chirurgie après un traitement systémique chez les patientes ayant un cancer du sein métastatique de novo - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Emulation d’essais cliniques en présence de biais d’immortalité: Etude de cas sur le rôle de la chirurgie après un traitement systémique chez les patientes ayant un cancer du sein métastatique de novo
+Programme concerné
+MESSIDORE
+Nom de l'appel
+Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année
+2023
+Modalité de soutien
+Projet de recherche complet
+État du projet
+En cours
+Durée
+36 mois
+Subvention allouée
+296 204,00 €
+Financeurs
+INSERM
+Disciplines
+Methodology-Biostatistics / Breast cancer / Oncology
+Emulation d’essais cliniques en présence de biais d’immortalité: Etude de cas sur le rôle de la chirurgie après un traitement systémique chez les patientes ayant un cancer du sein métastatique de novo
+Résumé de soumission
+Contexte
+Seulement 10 % des patientes atteintes d’un cancer du sein présentent des métastases à distance lors du premier diagnostic et le cancer du sein métastatique de novo représente jusqu’à 25 % de l’ensemble des cancers du sein métastatiques. Ces patientes ont un meilleur pronostic que celles qui présentent une rechute à distance après le traitement primaire. Leur prise en charge par traitement systémique est bien codifiée, mais la place du traitement chirurgical de la tumeur primitive est largement controversée dans la littérature. De nombreuses études rétrospectives ont mis en évidence un meilleur pronostic chez les patientes traitées par chirurgie mais ces résultats n’ont pas été confirmés dans les essais randomisés. Cette discordance entre les résultats peut s’expliquer par le biais de sélection et également par le biais d’immortalité dans les études rétrospectives. Dans la majorité des études, ce dernier biais n’était pas pris en considération. Plusieurs auteurs remettent également en cause les résultats des essais randomisés en précisant que les traitements systémiques réalisés n’étaient pas optimaux. A ce jour, les recommandations précisent en se basant sur un avis d’expert qu’un sous-groupe de patients pourrait avoir un bénéfice à un traitement local de la tumeur primitive. Ces recommandations concluent sur l’importance de réaliser un essai randomisé dans cette situation.
+Mener un essai pour évaluer une stratégie chirurgicale est complexe et de nombreuses publications ont souligné les freins potentiels. L’un d’entre eux est la complexité de proposer à des patients une randomisation entre la chirurgie et l’absence de chirurgie. Les différents freins peuvent conduire à la clôture prématurée d’un essai ou la réévaluation du nombre de patients à inclure en raison d’un manque de recrutement. Afin de répondre à cette question clinique, nous proposons de réaliser une série d’essais cliniques émulés en utilisant la base de données sein du programme ESME.
+* Objectifs
+L’objectif principal de cette étude est de réaliser une série d’essais cliniques émulés pour :
+* Evaluer le rôle de la chirurgie après un traitement systémique optimal comme dans l’étude ECOG ACRIN 2018 en associant l’émulation d’essais Cliniques et des techniques avancées pour éviter les biais de confusion et le biais d’immortalité ;
+* Evaluer la place de la chirurgie après traitement systémique optimal dans deux populations spécifiques: RH+/HER2- et HER2+.
+Les objectifs secondaires sont;
+* Estimer l’effet de la chirurgie après une thérapie systémique optimale chez les patientes qui survivent au moins 8 mois après une thérapie systémique optimale.
+* Comparer l’approche de l’essai émulé à d’autres approches d’inférence causale tenant compte des facteurs de confusion variables dans le temps et du biais d’immortalité.
+* Méthodes
+L’essai cible ECOG ACRIN sera mimé en utilisant un processus formel de sélection des patients et en définissant l’exposition, le résultat et l’estimateur causal. Cette étude est conçue conformément à l’approche d’émulation d’essai décrite par Hernan et Robin. Les données proviendront de la base de données cancer du sein du programme UNICANCER dans laquelle sont enregistrés actuellement 32598 patients (base de données extraite en février 2023).
+Pour prendre en compte le biais de confusion et le biais d’’immortalité, la stratégie en plusieurs étapes proposée par Hernan sera mise en œuvre (28,29) : (1) spécification de l’essai cible, (2) mise en œuvre pratique [clonage, définition de la durée de survie et du statut vital pour chaque clone en fonction de son bras ; estimation des poids de censure] ; et (3) estimation du contraste causal.
+Pour estimer l’effet de la chirurgie chez les patients en vie au moins 8 mois après le traitement systémique une approche combinant le landmark avec le score de propension sera réalisée. Une évaluation des biais sera également réalisée.
+Pour le dernier objectif, le travail méthodologique proposé visera à identifier les différents « estimands » qui peuvent être obtenues en utilisant des méthodes causales (Modèle marginaux structurels,…), en les comparant aux estimations obtenues dans les essais émulés, et en contrastant les hypothèses sous-jacentes. Les performances des différentes méthodes sont difficiles à comparer, en particulier parce que les estimations de la variance dans les essais émulés sont généralement obtenues par bootstrapping, étant donné qu’il n’existe pas de formules fermées. Des comparaisons seront donc effectuées en analysant les données de l’ESME, ainsi que des simulations numériques.
+* Perspectives
+Trois méthodes produisant des « estimands » différents sont proposées dans ce projet pour prendre en compte le biais d’immortalité et le biais de confusion. Un travail méthodologique sera également réalisé pour comparer par simulations les différentes approches. Ce travail collaboratif entre biostatisticiens et cliniciens est conçu pour aider les cliniciens dans leurs décisions de proposer ou non une chirurgie après une thérapie systémique optimale chez les patientes présentant un cancer du sein métastatique de novo.
+Equipes du projet
+Coordonnateur :
+FILLERON Thomas
+N° ORCID :
+0000-0003-0724-0659
+Structure administrative de rattachement :
+Oncopole Claudius Regaud
+Laboratoire ou équipe :
+Biostatistic and Health Data Science
+Autres équipes participantes :
+Responsable de l'équipe 2 : PORCHER Raphael
+CRESS Centre de Recherche Épidémiologie et StatistiqueS - équipe METHODS
+Responsable de l'équipe 3 : MARTIN Anne-Laure
+GCS-UNICANCER
+Responsable de l'équipe 4 : MICHIELS Stefan
+ONCOSTAT Centre de recherche en Epidémiologie et Santé des Populations/UMR1018
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

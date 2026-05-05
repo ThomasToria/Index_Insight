@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Actions culturelles partagées en direction des résidents en ehpad",
+    "territoire": "Titre: Actions culturelles partagées en direction des résidents en ehpad Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/861-pe-actions-culturelles-partagees-en-direction-de-residents-en-ehpad.pdf  ---  --- THÉÂTRE, SENIORS, ET LYCÉEN Le théâtre de Charleville-Mézières (TCM) et le Pôle Gérontologique du CCAS se sont rapprochés dans le cadre de la saison culturelle 2022-2023 afin de proposer au sein de l’EHPAD les Pâquis, une représentation théâtrale “Le peintre et son modèle”, par la compagnie Les Animaux en Paradis en résidence au TCM pour une durée de 12 mois.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Actions culturelles partagées en direction des résidents en ehpad Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/861-pe-actions-culturelles-partagees-en-direction-de-residents-en-ehpad.pdf  ---  --- THÉÂTRE, SENIORS, ET LYCÉEN Le théâtre de Charleville-Mézières (TCM) et le Pôle Gérontologique du CCAS se sont rapprochés dans le cadre de la saison culturelle 2022-2023 afin de proposer au sein de l’EHPAD les Pâquis, une représentation théâtrale “Le peintre et son modèle”, par la compagnie Les Animaux en Paradis en résidence au TCM pour une durée de 12 mois.",
+    "description": {
+        "description_generale": "PRÉPARATION ET REPRÉSENTATION Pour mettre en place le projet, la compagnie de théâtre a présenté l’action aux élèves lors de deux jours d’ateliers au sein du lycée où étaient également proposés des exercices de lecture à voix haute.",
+        "contexte": "Face à l'importante adhésion des résidents de l'EHPAD à l'atelier de lectures sonorisées et à la qualité d'encadrement de l'équipe animation de l'EHPAD, le TCM a étendu son offre par une animation culturelle supplémentaire: des ateliers de « musique en chantier » animés par l'association Les concerts de poches dont la mission vise à créer du lien social entre artistes et institutions, grâce au levier de la musique classique, lyrique ou du jazz.",
+        "problematique": "Les résidents, qui étaient jusqu'alors en position de retrait et d'isolement, sont désormais dans une dynamique plus collective et plus participative.",
+        "solution_envisagee": "Titre: Actions culturelles partagées en direction des résidents en ehpad Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/861-pe-actions-culturelles-partagees-en-direction-de-residents-en-ehpad.pdf  ---  --- THÉÂTRE, SENIORS, ET LYCÉEN Le théâtre de Charleville-Mézières (TCM) et le Pôle Gérontologique du CCAS se sont rapprochés dans le cadre de la saison culturelle 2022-2023 afin de proposer au sein de l’EHPAD les Pâquis, une représentation théâtrale “Le peintre et son modèle”, par la compagnie Les Animaux en Paradis en résidence au TCM pour une durée de 12 mois.",
+        "objectifs": "Titre: Actions culturelles partagées en direction des résidents en ehpad Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/861-pe-actions-culturelles-partagees-en-direction-de-residents-en-ehpad.pdf  ---  --- THÉÂTRE, SENIORS, ET LYCÉEN Le théâtre de Charleville-Mézières (TCM) et le Pôle Gérontologique du CCAS se sont rapprochés dans le cadre de la saison culturelle 2022-2023 afin de proposer au sein de l’EHPAD les Pâquis, une représentation théâtrale “Le peintre et son modèle”, par la compagnie Les Animaux en Paradis en résidence au TCM pour une durée de 12 mois."
+    },
+    "porteur_initiative": "Si, comme la Ville de Charleville-Mézières, vous av ez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "08/09/2023",
+        "23/03/2023",
+        "2025",
+        "2022",
+        "2023",
+        "2018",
+        "2024",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

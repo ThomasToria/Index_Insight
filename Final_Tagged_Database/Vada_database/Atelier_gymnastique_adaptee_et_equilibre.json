@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Atelier gymnastique adaptée et équilibre",
+    "territoire": "Titre: Atelier gymnastique adaptée et équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1107-concours-2024-atelier-gymnastique-adaptee-et-equilibre-1.pdf  ---  --- UNE POPULATION VIEILLISSANTE La commune de Villeneuve d’Ascq compte plus de 13 000 retraités dont 6 123 sont inscrits au service municipal des aînés.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "C'est pourquoi la commune souhaite proposer aux usagers aînés de 63 ans et plus de suivre une activité hebdomadaire adaptée à leur besoin.",
+    "description": {
+        "description_generale": "Pour évaluer le projet, le service municipal de la Maison des Aînés s’intéresse à la fréquentation des usagers, à la satisfaction et aux retours d'expériences.",
+        "contexte": "Titre: Atelier gymnastique adaptée et équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1107-concours-2024-atelier-gymnastique-adaptee-et-equilibre-1.pdf  ---  --- UNE POPULATION VIEILLISSANTE La commune de Villeneuve d’Ascq compte plus de 13 000 retraités dont 6 123 sont inscrits au service municipal des aînés.",
+        "problematique": "La commune essaie de s’adapter aux besoins et aux attentes des aînés, à la problématique d’accessibilité et dispersion des équipements.",
+        "solution_envisagee": "C'est pourquoi la commune souhaite proposer aux usagers aînés de 63 ans et plus de suivre une activité hebdomadaire adaptée à leur besoin.",
+        "objectifs": "Fiche PARTAGE D'EXPÉRIENCE N°78 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS ATELIER GYMNASTIQUE ADAPTÉE ET ÉQUILIBRE Villeneuve d'Ascq Ville Amie des Aînés depuis 2022 Villeneuve d'Ascq (59) Aborder de manière transversale le lien social et intergénérationnel; Encourager la pratique sportive; Développer l’épanouissement personnel et la confiance en soi; Réaliser des rencontres, des échanges afin de lutter contre l’isolement; Préserver l'autonomie de la personne âgée à risque moyen et faible de chute."
+    },
+    "porteur_initiative": "Titre: Atelier gymnastique adaptée et équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1107-concours-2024-atelier-gymnastique-adaptee-et-equilibre-1.pdf  ---  --- UNE POPULATION VIEILLISSANTE La commune de Villeneuve d’Ascq compte plus de 13 000 retraités dont 6 123 sont inscrits au service municipal des aînés.",
+    "date": [
+        "2025",
+        "1107",
+        "2024",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_gymnastique_adaptee_et_equilibre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_gymnastique_adaptee_et_equilibre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

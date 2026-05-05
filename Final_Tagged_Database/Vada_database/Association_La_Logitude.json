@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Association La Logitude",
+    "territoire": "Titre: Association La Logitude Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/708-pe080422-576-association-la-logitude-avignon.pdf  ---  --- RAPPROCHER JEUNES ET SENIORS Il a été établi que les jeunes et les seniors sont souvent confrontés aux mêmes problèmes: ils sont mis à l’écart et déconsidérés et ils partagent un sentiment d’exclusion.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "En s’occupant de rapprocher des personnes âgées et des jeunes, l'association la Logitude (Loi 1901 à but non lucratif) souhaite créer ou retisser les liens entre les générations, prévenir l’isolement des seniors mais aussi des jeunes et augmenter leur qualité de vie.",
+    "description": {
+        "description_generale": "PÉRENNISER LE PROJET Forts de ses douze ans d'expérience sur le territoire du grand Avignon, l'action est reconduite tous les ans.",
+        "contexte": "Après la canicu le de 2003, le constat de l’isolement de certaines personnes âgées a été confirmé.",
+        "problematique": "Titre: Association La Logitude Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/708-pe080422-576-association-la-logitude-avignon.pdf  ---  --- RAPPROCHER JEUNES ET SENIORS Il a été établi que les jeunes et les seniors sont souvent confrontés aux mêmes problèmes: ils sont mis à l’écart et déconsidérés et ils partagent un sentiment d’exclusion.",
+        "solution_envisagee": "L'action permet de faciliter, pour les jeunes, l’accès à un logement dans de bonnes conditions financières en offrant une alternative nouvelle et solidaire à la pénurie de logements de courts séjours.",
+        "objectifs": "Afin de créer du lien entre les binôm es, des actions et animations sont organisées pour les réunir et leur permettre de se rencontrer entre accueillants et hébergés (théâtre intergénérationnel, goûters, init iation tango, ateliers informatique etc….)."
+    },
+    "porteur_initiative": "Titre: Association La Logitude Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/708-pe080422-576-association-la-logitude-avignon.pdf  ---  --- RAPPROCHER JEUNES ET SENIORS Il a été établi que les jeunes et les seniors sont souvent confrontés aux mêmes problèmes: ils sont mis à l’écart et déconsidérés et ils partagent un sentiment d’exclusion.",
+    "date": [
+        "mars 2009",
+        "2025",
+        "1901",
+        "2009",
+        "2003",
+        "2004",
+        "2006",
+        "2021",
+        "depuis 2021",
+        "en 2004",
+        "en 2006"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_La_Logitude.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Association_La_Logitude.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

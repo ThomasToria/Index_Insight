@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Parcours culture-loisirs",
+    "territoire": "Titre: Parcours culture-loisirs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/842-pe-parcours-culture-loisirs.pdf  ---  --- UN PARCOURS COMPRENANT UNE DIVERSITÉ D'ACTIVITÉS Dans le cadre de la démarche Ville Amie des Aînés, le comité de pilotage a choisi de travailler sur trois thématiques prioritaires en 2021, dont celle de \"Culture-Loisirs\".",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Pour amener les aînés à expérimenter de nouvelles activités culturelles et sportives sur leur territoire, un groupe de travail constitué de partenaires locaux et d’usagers retraités a imaginé un parcours composé de dix défis culturels et sportifs, sous forme d'un engagement dans un challenge qui donnait droit à une récompense finale.",
+    "description": {
+        "description_generale": "UN PROJET MULTIPARTENARIAL De nombreux partenaires ont participé au projet: le Grand R; le cinéma le Concorde; le musée; l'Ecole d'art; le conservatoire; l'Etoile Sportive Ornaysienne de Football; le Tennis Entente Yonnaise; le Système Défense Technique; le Boxing Club Yonnais; le Comité Départemental Olympique et Sportif de Vendée et l'Office des Sports Yonnais.",
+        "contexte": "Titre: Parcours culture-loisirs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/842-pe-parcours-culture-loisirs.pdf  ---  --- UN PARCOURS COMPRENANT UNE DIVERSITÉ D'ACTIVITÉS Dans le cadre de la démarche Ville Amie des Aînés, le comité de pilotage a choisi de travailler sur trois thématiques prioritaires en 2021, dont celle de \"Culture-Loisirs\".",
+        "problematique": "Il s'agit d'une démarche de promotion de la santé qui vise également à lutter contre l'âgisme et l'isolement.",
+        "solution_envisagee": "Il est prévu de pérenniser le projet en relançant un nouveau Parcours Culture-Loisirs qui proposera des activités inédites, à partir des propositions les propositions suggérées par les participants dans l'enquête d'évaluation.",
+        "objectifs": "Ces partenaires ont pris part à l'élaboration du Parcours culture-loisirs, ils ont assisté à la cérémonie de remise de la carte \"Parcours +\" et ils ont proposé des offres de spectacle ou d'activités sportives à des tarifs préférentiels ou gratuits.  ---  --- ÉVALUATION, OBJECTIFS ET SUITE DE L'ACTION Le recueil des données et des commentaires montre que les objectifs ont été atteints."
+    },
+    "porteur_initiative": "Titre: Parcours culture-loisirs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/842-pe-parcours-culture-loisirs.pdf  ---  --- UN PARCOURS COMPRENANT UNE DIVERSITÉ D'ACTIVITÉS Dans le cadre de la démarche Ville Amie des Aînés, le comité de pilotage a choisi de travailler sur trois thématiques prioritaires en 2021, dont celle de \"Culture-Loisirs\".",
+    "date": [
+        "17 mai 2022",
+        "octobre 2021",
+        "mars 2022",
+        "mai 2022",
+        "2025",
+        "2021",
+        "2022",
+        "depuis 2022",
+        "en 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_culture-loisirs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Parcours_culture-loisirs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

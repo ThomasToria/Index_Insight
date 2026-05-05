@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Concours d'entreprises \"Bien vivre et bien vieillir\" en Sud Gironde",
+    "territoire": "Titre: Concours d'entreprises \"Bien vivre et bien vieillir\" en Sud Gironde Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/828-pe-pole-territorial-sud-gironde.pdf  ---  --- DÉVELOPPER LA FILIÈRE DU \"BIEN VIEILLIR\" Depuis 2015, le Pôle territorial du Sud Gironde développe la filière du \"Bien Vieillir\" en privilégiant une vision sur l'ensemble du territoire en s'appuyant sur un programme d'actions transversal, régulièrement mis à jour.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Parmi les 4 lauréats, on peut retrouver autant de\nnouveaux services qui seront proposés sur le Sud Gironde\ncomme:\nEn plus de ces nouveaux services, le concours a permis la\nconstitution d'un Réseau des Entrepreneurs du Bien\nVieillir en Sud Gironde en réunissant les lauréats et les\ncandidats des deux éditions du concours. Un\naccompagnement et un suivi de leurs projets ont aussi été\nproposés à tous les candidats.\nLes retours qui ont pu être réalisés à l'aide d'une\nsollicitation par mail et d'entretiens individuels de chacun\ndes candidats sont très positifs. Il en ressort une grande\nsatisfaction, tant par rapport à la progression apportée par\nla dynamique du concours dans l'avancée de leurs projets,\nque par les rencontres, les échanges et la mise en réseau\ndont ils ont pu bénéficier. Les candidats ont d'ailleurs mis\nen valeur une ambiance bienveillante et d'entraide entre\neux plutôt que celle d'une compétition.\nDÉROULÉ DU CONCOURS\nAprès une phase d'inscription de deux mois entre\nnovembre et décembre 2021, un accompagnement de\ntrois mois des candidats inscrits a pu démarrer autour de 5\nateliers spécifiques. De très nombreux acteurs, régionaux\net locaux, ont assisté les candidats, si bien que chacun\nd'entre eux a pu bénéficier de 5 coachs afin de faire\névoluer son projet et tenter de remporter un prix à l'issue\ndu concours.\nAprès deux journées intenses de concours les 31 mars et\n1er avril 2022, 4 lauréats, qui représentent autant de\nnouveaux services sur le territoire, ont été récompensés\npar une dotation de 25 000 € attribuée grâce à AG2R La\nMondiale et versée en deux fois.\nSi, comme le Pôle Territorial Sud Gironde, vous ave z mis en place des projets pour les\naînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "description": {
+        "description_generale": "Il en ressort une grande satisfaction, tant par rapport à la progression apportée par la dynamique du concours dans l'avancée de leurs projets, que par les rencontres, les échanges et la mise en réseau dont ils ont pu bénéficier.",
+        "contexte": "Si, comme le Pôle Territorial Sud Gironde, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "CONCOURS D'ENTREPRISES \"BIEN VIVRE ET BIEN VIEILLIR\" EN SUD GIRONDE Fiche PARTAGE D'EXPÉRIENCE N°694 Villes Amies des Aînés en France Pôle Territorial du Sud Gironde (33) Ville Amie des Aînés depuis 2023 Accompagner et réduire le sentiment d'isolement des créateurs d'entreprise en territoire rural.",
+        "solution_envisagee": "Celui-ci s'est déroulé sur 4 mois par l'accompagnement des entreprises et des associations dans le développement de leur projet ou de leur activité déjà existante au service des aînés du territoire.",
+        "objectifs": "La volonté est de se rassembler autour de valeurs et d'objectifs communs tels que l'amélioration de la qualité de service auprès des personnes âgées, la professionnalisation des métiers de l'autonomie par le développement d'emplois qualifiés pour le \"bien vieillir\" en Sud Gironde en favorisant la solidarité et l'intergénérationnel."
+    },
+    "porteur_initiative": "Il en ressort une grande satisfaction, tant par rapport à la progression apportée par la dynamique du concours dans l'avancée de leurs projets, que par les rencontres, les échanges et la mise en réseau dont ils ont pu bénéficier.",
+    "date": [
+        "décembre 2021",
+        "avril 2022",
+        "2025",
+        "2015",
+        "2021",
+        "2022",
+        "2023",
+        "Depuis 2015",
+        "depuis 2023",
+        "En 2021",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Concours_dentreprises_Bien_vivre_et_bien_vieillir_en_Sud_Gironde.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Concours_dentreprises_Bien_vivre_et_bien_vieillir_en_Sud_Gironde.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.95,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Accompagnement des personnes à mobilité réduite aux bureaux de vote",
+    "territoire": "Titre: Accompagnement des personnes à mobilité réduite aux bureaux de vote Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/410-410-accompagnement-vote.pdf  ---  --- ACCOMPLIR SON DEVOIR CIVIQUE N’A PAS D’ÂGE La fragilité de mobilité de certaines personnes âgé es peut compromettre l’ exercice des droits, dont les droits civiques tel que le droit de vote.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Enfin, le service des élections relaye l’inf or- mation sur le dispositif au public et transmet la l iste des bureaux de vote à jour à la Maison des Seniors.",
+    "description": {
+        "description_generale": "UN DISPOSITIF BIEN PENSÉ C’ est la Maison des seniors (MDS) qui assure les in s- criptions, l’ organisation des trajets, coordonne le dis- positif et encadre l’action le jour des élections.",
+        "contexte": "Ce der - nier est proposé aux dijonnais âgé de 65 ans ou plu s, isolés (absence d’ entourage: famille, ami, voisin qui pourraient les accompagner) et dans l’incapacité de se déplacer par leurs propres moyens.",
+        "problematique": "Pour lever ce frein et permet tre aux personnes âgées de continuer à accomplir leur devoir civique, la ville a décidé de proposer un se r- vice de transport et d’accompagnement.",
+        "solution_envisagee": "Pour lever ce frein et permet tre aux personnes âgées de continuer à accomplir leur devoir civique, la ville a décidé de proposer un se r- vice de transport et d’accompagnement.",
+        "objectifs": "Permettre aux personnes âgées qui éprouvent des dif¿cultés\nà se déplacer d’accomplir leurs droits et devoirs civiques.\nPRATIQUE\nÉlaborer le projet et le présenter au conseil d’administration\ndu CCAS pour autorisation et mise en place. Dé¿nir les\nmodalités d’inscription et d’organisation des transports.\nRechercher des volontaires parmi le personnel du CCAS\npour conduire les véhicules de service. Réserver les\nvoitures adaptées auprès du garage municipal. Informer le\npublic, les services sociaux et les partenaires.\nDIJON\nVille Amie des Aînés depuis 06-2009\nDijon (21)\nFiche publiée le 02/08/2018\nPARTICIPATION CITOYENNE ET EMPLOI\nwww.villesamiesdesaines-rf.fr\nTRANSPORTS ET MOBILITÉ\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nAUTONOMIE, SERVICES ET SOINS"
+    },
+    "porteur_initiative": "Ce der - nier est proposé aux dijonnais âgé de 65 ans ou plu s, isolés (absence d’ entourage: famille, ami, voisin qui pourraient les accompagner) et dans l’incapacité de se déplacer par leurs propres moyens.",
+    "date": [
+        "02/08/2018",
+        "2025",
+        "2009",
+        "2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

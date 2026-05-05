@@ -1,0 +1,46 @@
+{
+    "titre": "Colloque « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie »",
+    "territoire": "Informations pratiques Colloque « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie » Mardi 16 octobre 2018, de 14h à 18h Salons de l'Hôtel de Ville - Place de la Comédie - 69001 Lyon Métro: Hôtel de ville (ligne A) POUR ALLER PLUS LOIN → Découvrez le programme Personnes âgées Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En Auvergne et en Rhône-Alpes, la Fondation de France a soutenu 94 projets qui démontrent la volonté des aidants, professionnels ou non, de mieux prendre en compte les désirs, les habitudes et les choix des personnes âgées accompagnées.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "Ainsi, si vous souhaitez proposer un projet dans ce cadre, veuillez remplir le formulaire suivant.",
+        "objectifs": "Ce colloque a pour objectif de permettre l’échange d’expériences et de bonnes pratiques entre tous les acteurs concernés: les personnes âgées elles-mêmes, leur entourage, les professionnels de l’aide à domicile et des établissements."
+    },
+    "porteur_initiative": "Colloque « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie »  https://www.fondationdefrance.org/fr/cat-personnes-agees/colloque-vivre-ses-choix-prendre-des-risques-jusqu-a-la-fin-de-sa-vie  Qui sommes-nous?",
+    "date": [
+        "16 octobre 2018",
+        "octobre 2018",
+        "2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

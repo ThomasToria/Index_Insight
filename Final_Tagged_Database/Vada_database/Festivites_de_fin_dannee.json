@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Festivités de fin d’année",
+    "territoire": "Titre: Festivités de fin d’année Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/758-pe-625-vienne-festivites-de-fin-d-annee.pdf  ---  --- DES FÊTES DE FIN D'ANNÉE POUR TOUS La période des fêtes de fin d'année est appréciée de tous, particulièrement des personnes âgées qui trouvent là l'occasion de partager des temps conviviaux avec leurs entourages (familles et amis).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Festivités de fin d’année Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/758-pe-625-vienne-festivites-de-fin-d-annee.pdf  ---  --- DES FÊTES DE FIN D'ANNÉE POUR TOUS La période des fêtes de fin d'année est appréciée de tous, particulièrement des personnes âgées qui trouvent là l'occasion de partager des temps conviviaux avec leurs entourages (familles et amis).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Vienne, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "LA COMMUNICATION Différents moyens de communication ont été utilisés: un courrier nominatif a été envoyé aux bénéficiaires, un article est paru dans le magazine municipal, l'information a quant à elle tourné sur les panneaux lumineux d'information, sur le site Internet de la Ville sur la page Facebook.",
+        "problematique": "Ce sont principalement des personnes absentes pour raisons de santé ou rencontrant des difficultés de déplacement.",
+        "solution_envisagee": "Cette dégustation permet de sélectionner le prestataire.",
+        "objectifs": "Afin de permettre aux habitants âgés de partager une journée conviviale ou de déguster des produits qualitatifs, la Ville de Vienne déploie chaque année une action forte au moment des fêtes de fin d'année."
+    },
+    "porteur_initiative": "LA COMMUNICATION Différents moyens de communication ont été utilisés: un courrier nominatif a été envoyé aux bénéficiaires, un article est paru dans le magazine municipal, l'information a quant à elle tourné sur les panneaux lumineux d'information, sur le site Internet de la Ville sur la page Facebook.",
+    "date": [
+        "2025",
+        "1800",
+        "2022",
+        "1500",
+        "1300",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Festivites_de_fin_dannee.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Festivites_de_fin_dannee.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

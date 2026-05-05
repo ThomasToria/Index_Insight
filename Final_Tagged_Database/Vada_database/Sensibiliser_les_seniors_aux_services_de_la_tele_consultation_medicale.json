@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Sensibiliser les seniors aux services de la télé consultation médicale",
+    "territoire": "Titre: Sensibiliser les seniors aux services de la télé consultation médicale Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1117-pe-sensibiliser-les-seniors-aux-services-de-la-tele-consultation-medicale-1.pdf  ---  --- LA SANTÉ: UN ENJEU MAJEUR La Commune de Canet-en-Roussillon a décidé de faire du sujet de la Santé, et notamment de l’accès aux soins, une des priorités du mandat 2020-2026.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "SENSIBILISER LES SENIORS AUX SERVICES DE LA TÉLÉ- CONSULTATION MÉDICALE Fiche PARTAGE D'EXPÉRIENCE N°935 Villes Amies des Aînés en France Répondre aux besoins de santé publique des canétois Sensibiliser les seniors aux nouvelles technologies médicales Choisir le prestataire Trouver un local où implanter la borne de téléconsultation Effectuer les travaux d'aménagement de la salle Recrutement d'un jeune en service civique et sélection d'un agent du CCAS pour l'encadrement de ce service Signalétique extérieure Communication Cout mensuel de la borne de téléconsultation médicale: 565.00€ Ville de Canet-en-Roussillon Ville Amie des Aînés depuis 2025 Canet-en-Roussillon (66)  ---  --- CHOIX DE COMMUNICATION La communication était tout aussi importante pour porter ce service à la connaissance du public, son fonctionnement, mais aussi son mode d'utilisation.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Canet-en-Roussillon, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "En effet, depuis quelques années, Canet doit faire face à un phénomène de sous-densification médicale, avec un vieillissement de ces médecins généralistes.",
+        "problematique": "Titre: Sensibiliser les seniors aux services de la télé consultation médicale Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1117-pe-sensibiliser-les-seniors-aux-services-de-la-tele-consultation-medicale-1.pdf  ---  --- LA SANTÉ: UN ENJEU MAJEUR La Commune de Canet-en-Roussillon a décidé de faire du sujet de la Santé, et notamment de l’accès aux soins, une des priorités du mandat 2020-2026.",
+        "solution_envisagee": "UNE SOLUTION TEMPORAIRE Face à ces besoins exprimés, la Municipalité de Canet-en-Roussillon a décidé dans un premier temps, de construire un Centre de Santé Municipal.",
+        "objectifs": "UN DISPOSITIF QUI FONCTIONNE Les objectifs initiaux sont remplis."
+    },
+    "porteur_initiative": "Si, comme la Ville de Canet-en-Roussillon, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "Septembre 2024",
+        "septembre",
+        "2025",
+        "1117",
+        "2020",
+        "2026",
+        "2024",
+        "depuis 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sensibiliser_les_seniors_aux_services_de_la_tele_consultation_medicale.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sensibiliser_les_seniors_aux_services_de_la_tele_consultation_medicale.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

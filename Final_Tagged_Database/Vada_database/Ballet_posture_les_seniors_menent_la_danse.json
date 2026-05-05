@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Ballet posture \"les seniors mènent la danse\"",
+    "territoire": "La ville a souhaité étendre ce projet en lien avec les maisons de quartier « A tes côtés » en proposant ce cycle de danse dans les quatre quartiers de la ville sur 2025 et 2026 grâce à un appui financier du Département du Nord via l’appel à projet Phosphor’âge Dans le même projet des ateliers Qi gong et créadiaz sont également proposés.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "De plus, en 2023, le travail sur le plan d’action Ville Amie des Aînés, mené en co-construction avec les habitants, a également mis en évidence ce besoin d’avoir des activités physiques qui prennent en compte la condition physique des personnes de plus de 60 ans avec des actions retenues comme développer des actions sportives compatibles avec les publics seniors (horaires, rythme…), mettre en place des essais gratuits pour les activités, pour donner envie aux seniors d’y participer et lutter contre l’isolement.",
+    "description": {
+        "description_generale": "Titre: Ballet posture \"les seniors mènent la danse\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1123-pe-ballet-posture-les-seniors-menent-la-danse.pdf  ---  --- LES FREINS DE L'ACCÈS À UNE ACTIVITÉ PHYSIQUE Les seniors ont été consultés en 2022 par le biais d’un questionnaire puis lors de 16 ateliers Fabrique d’Initiatives Locales (FIL).",
+        "contexte": "Titre: Ballet posture \"les seniors mènent la danse\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1123-pe-ballet-posture-les-seniors-menent-la-danse.pdf  ---  --- LES FREINS DE L'ACCÈS À UNE ACTIVITÉ PHYSIQUE Les seniors ont été consultés en 2022 par le biais d’un questionnaire puis lors de 16 ateliers Fabrique d’Initiatives Locales (FIL).",
+        "problematique": "Titre: Ballet posture \"les seniors mènent la danse\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1123-pe-ballet-posture-les-seniors-menent-la-danse.pdf  ---  --- LES FREINS DE L'ACCÈS À UNE ACTIVITÉ PHYSIQUE Les seniors ont été consultés en 2022 par le biais d’un questionnaire puis lors de 16 ateliers Fabrique d’Initiatives Locales (FIL).",
+        "solution_envisagee": "Ce projet a plusieurs finalités: lancer un défi aux seniors et les accompagner dans la découverte d’une activité vers laquelle ils n’auraient pas osé se rendre seuls, mais aussi participer et s’inscrire dans le projet de la communauté urbaine autour de la danse, le festival « Allure folle\", et proposer un coût à 0 € pour les seniors afin que l’aspect financier ne soit pas un frein.",
+        "objectifs": "Ces ateliers avaient pour objectif d’améliorer les animations et les activités proposées par la Mission Seniors."
+    },
+    "porteur_initiative": "Titre: Ballet posture \"les seniors mènent la danse\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1123-pe-ballet-posture-les-seniors-menent-la-danse.pdf  ---  --- LES FREINS DE L'ACCÈS À UNE ACTIVITÉ PHYSIQUE Les seniors ont été consultés en 2022 par le biais d’un questionnaire puis lors de 16 ateliers Fabrique d’Initiatives Locales (FIL).",
+    "date": [
+        "mai 2024",
+        "janvier 2024",
+        "2025",
+        "1123",
+        "2022",
+        "2023",
+        "2024",
+        "2026",
+        "depuis 2022",
+        "en 2022",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ballet_posture_les_seniors_menent_la_danse.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ballet_posture_les_seniors_menent_la_danse.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,138 @@
+Balance bénéfice-risque des thérapies avancées dans les maladies inflammatoires chroniques intestinales : développement et validation d’un modèle basé sur plusieurs sources de données de vie réelle
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/balance-benefice-risque-des-therapies-avancees-dans-les-maladies-inflammatoires-chroniques-intestinales-developpement-et-validation-dun-modele-base-sur-plusieurs-sources-de-donnees-de-vie-r/
+Programme concerné : MESSIDORE
+Nom de l'appel : Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année : 2023
+État du projet : En cours
+Durée : 48 mois
+Subvention allouée : 762 996,00 €
+Financeurs : INSERM
+Disciplines : Pharmaco-épidémiologie / Méthodologie / Gastro-entérologie / Intelligence artificielle
+
+Balance bénéfice-risque des thérapies avancées dans les maladies inflammatoires chroniques intestinales : développement et validation d’un modèle basé sur plusieurs sources de données de vie réelle - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Balance bénéfice-risque des thérapies avancées dans les maladies inflammatoires chroniques intestinales : développement et validation d’un modèle basé sur plusieurs sources de données de vie réelle
+Programme concerné
+MESSIDORE
+Nom de l'appel
+Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année
+2023
+Modalité de soutien
+Projet de recherche complet
+État du projet
+En cours
+Durée
+48 mois
+Subvention allouée
+762 996,00 €
+Financeurs
+INSERM
+Disciplines
+Pharmaco-épidémiologie / Méthodologie / Gastro-entérologie / Intelligence artificielle
+Balance bénéfice-risque des thérapies avancées dans les maladies inflammatoires chroniques intestinales : développement et validation d’un modèle basé sur plusieurs sources de données de vie réelle
+Résumé de soumission
+Contexte :
+L’évaluation de la balance bénéfice-risque des traitements est essentielle en pratique clinique pour proposer aux patients les traitements appropriés en fonction de leur profil. Ce processus est confronté à de nombreux défis, notamment la manière de résumer les résultats d’efficacité et de sécurité pour les patients et les cliniciens, en particulier pour les traitements récemment mis sur le marché, tout en tenant compte des préférences des patients. Plusieurs sources de données de vie réelle sont disponibles pour évaluer la sécurité et l’efficacité des traitements, notamment les bases de données médico-administratives, les bases de données issues de dossiers cliniques informatisés et les cohortes dédiées, mais chacune de ces sources de données a des forces et limites spécifiques pouvant impacter la validité des résultats. Utiliser au cours d’une même recherche toutes ces sources de données chaînées pourrait permettre de dépasser les limites et potentialiser les forces de chacune d’entre elles.
+Les maladies inflammatoires chroniques intestinales (MICI) incluent la maladie de Crohn et la rectocolite hémorragique et affectent 300 000 personnes en France. Les MICI sont majoritairement diagnostiquées chez le sujet jeune et durent toute la vie avec un impact significatif sur la qualité de vie et une histoire naturelle faites de poussées entrecoupées de périodes de rémissions. Les traitements actuels sont immunosuppresseurs et seulement suspensifs, ils sont alors administrés pour des périodes prolongées. L’immunosuppression induite permet d’obtenir une rémission mais expose à des risques potentiels tels que les infections sévères et cancers. De nouvelles thérapies avancées ont récemment été autorisées, sans essai face à face permettant de clarifier leur position dans la prise en charge.
+Objectifs :
+L’objectif de FORECAST est de développer une nouvelle approche pour évaluer la balance bénéfice-risque des thérapies avancées dans les MICI à partir de trois sources de données de vie réelle : une base de données médico-administratives (le Système National des Données de Santé (SNDS)), une base de données issues de dossiers cliniques informatisés (l’entrepôt de données de santé de l’Assistance Publique-Hôpitaux de Paris (EDS AP-HP)), et une cohorte prospective de patients atteints de MICI suivis dans des centres de l’AP-HP (SUVIMIC).
+Méthodes :
+Les patients atteints de MICI seront tout d’abord identifiés dans le SNDS et l’EDS AP-HP puis une cohorte de patients atteints de MICI sera extraite de chaque source de données séparément. Les données de SUVIMIC, de l’EDS AP-HP et du SNDS seront chaînées entre elles pour obtenir une unique cohorte. Cette cohorte permettra de développer et d’évaluer dans le SNDS les performances d’algorithmes identifiant des variables non ou partiellement collectés dans le SNDS, notamment des caractéristiques de la MICI, des critères d’efficacité des traitements utilisés dans les essais de phase III et des évènements indésirables, en utilisant comme gold standard les données de SUVIMIC et l’EDS AP-HP. Ces algorithmes seront développés à partir de deux approches : une basée sur des avis d’experts et une basée sur des techniques d’apprentissage automatique. Pour chaque variable, l’approche avec la meilleure performance diagnostique basée sur la valeur prédictive positive sera retenue.
+Secondairement, des essais cliniques seront émulés dans le SNDS pour chaque comparaison face à face et chaque sous-type de MICI, en se basant sur les critères d’efficacité et de sécurité identifiés par les algorithmes précédemment validés. Les traitements d’intérêt seront les biothérapies ciblant le tumor necrosis factor (anti-TNF) (infliximab, adalimumab, golimumab), des intégrines (vedolizumab), l’interleukine 12 et 23 (ustekinumab), et les inhibiteurs de Janus kinase (tofacitinib, filgotinib, upadacitinib). Le critère de jugement principal sera la rémission clinique sans corticoïdes à un an. Le risque relatif sera estimé pour chaque critère de jugement après appariement sur un score de propension prenant en compte les comorbidités, les caractéristiques et l’activité de la MICI, et les traitements antérieurs. Des analyses stratifiées sur les caractéristiques de la MICI d’après les algorithmes précédemment validés seront réalisées afin d’évaluer la balance-bénéfice des thérapies avancées dans des sous-groupes pertinents de patients.
+Finalement, une solution digitale incorporant les résultats des essais émulés sera mise à disposition des cliniciens. Cette solution sera basée sur une analyse de décision multicritères et permettra de résumer en une seule mesure les résultats d’efficacité et de sécurité des traitements, tout en prenant en compte les préférences des patients. Cet outil sera disponible pour tout gastroentérologue et son impact sur l’efficacité et la sécurité des traitements sera évalué en vie réelle par un essai randomisé en cluster niché dans le SNDS. Les gastroentérologues participants seront randomisés entre un groupe ayant accès à l’outil et un groupe suivant le soin courant. Tous les patients atteints de MICI et nécessitant une thérapie avancée seront éligibles. Le critère de jugement principal sera la rémission sans corticoïdes à un an et la sécurité sera évaluée comme critère de jugement secondaire.
+Perspectives :
+Basé sur une approche méthodologique innovante évaluant la balance bénéfice-risque des traitements, ce projet permettra de clarifier la position de chaque traitement dans les MICI et disséminer les résultats aux patients et cliniciens à l’aide d’un outil numérique d’aide à la décision. De nombreux traitements vont prochainement être autorisés dans les MICI, cette approche méthodologique permettra d’évaluer à faible coût leur balance bénéfice-risque et dans un délai beaucoup plus court qu’un essai clinique randomisé. Finalement, cette approche méthodologique pourra être répliquée dans d’autres maladies.
+Equipes du projet
+Coordonnateur :
+KIRCHGESNER Julien
+N° ORCID :
+0000-0002-2314-9284
+Structure administrative de rattachement :
+Sorbonne Université / INSERM
+Laboratoire ou équipe :
+Institut Pierre Louis d’Épidémiologie et de Santé Publique (Equipe PEPITES)
+N° RNSR :
+201420917E
+Autres équipes participantes :
+Responsable de l'équipe 2 : TUBACH Florence
+Centre de Pharmaco-épidémiologie de l'AP-HP (CEPHEPI)
+Responsable de l'équipe 3 : BIAU Gerard
+Probability, Statistics, and Modeling Laboratory (LPSM)
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

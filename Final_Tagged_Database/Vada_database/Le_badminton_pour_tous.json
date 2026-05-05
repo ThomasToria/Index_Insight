@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Le badminton pour tous",
+    "territoire": "Titre: Le badminton pour tous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/996-concours-2023-le-badminton-pour-tous.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LE BADMINTON ASSOCIATIF CHOLETAIS ET SES BÉNÉVOLES Le \"Badminton Associatif Choletais\" a été choisi par le CIAS pour répondre à un manque de pratique ludique au sein des résidences autonomies.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Les bénéficiaires de ce projets sont les résidents des différents structures d'accueil de l'agglomération du Choletais.",
+    "description": {
+        "description_generale": "Si, comme l'Agglomération du Choletais, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme l'Agglomération du Choletais, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Nécessaire en terme d'organisation (le besoin d'encadrants étant plus important du fait du manque d'autonomie dans le jeu des participants), leur présence en nombre amène du lien intergénérationnel et favorise les échanges.",
+        "solution_envisagee": "Si, comme l'Agglomération du Choletais, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "L'objectif conjoint a toujours été d'amener dans un premier temps la pratique sportive (notamment le badminton) au sein même des résidences autonomes, pour ensuite conduire les pratiquants à venir à la salle de sport dans le cadre d'animations ponctuelles et vers une pratique plus régulière au gymnase."
+    },
+    "porteur_initiative": "Si, comme l'Agglomération du Choletais, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "17 avril 2019",
+        "AVRIL 2019",
+        "septembre 2018",
+        "2025",
+        "2023",
+        "2019",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_badminton_pour_tous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_badminton_pour_tous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

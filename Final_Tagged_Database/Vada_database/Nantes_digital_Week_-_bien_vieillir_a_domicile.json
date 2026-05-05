@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Nantes digital Week - bien vieillir à domicile",
+    "territoire": "Titre: Nantes digital Week - bien vieillir à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/929-concours-2023-nantes-digital-week-bien-vieillir-a-domicile.pdf  ---  --- UN ENGAGEMENT QUI RÉPOND À DES BESOINS En 2019, Nantes Métropole organisait le Grand débat \"Longévité, ouvrons les possibles\" sur son territoire.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Les 23 000 contributions apportées par les habitantes et habitants de la Métropole ont permis d'identifier les besoins des seniors sur le territoire et de co-construire, avec les services municipaux et acteurs issus des 24 communes de la Métropole, la feuille de route de longévité métropolitaine.",
+    "description": {
+        "description_generale": "PRÉPARATION DE LA DIGITAL WEEK Pour préparer cette action, il a fallu identifier le contenu à présenter: outils digitaux et connectés en faveur du soutien à domicile et bien vieillir, complémentarités aides humaines et aides technologiques à mettre en valeur, etc.",
+        "contexte": "Titre: Nantes digital Week - bien vieillir à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/929-concours-2023-nantes-digital-week-bien-vieillir-a-domicile.pdf  ---  --- UN ENGAGEMENT QUI RÉPOND À DES BESOINS En 2019, Nantes Métropole organisait le Grand débat \"Longévité, ouvrons les possibles\" sur son territoire.",
+        "problematique": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS NANTES DIGITAL WEEK - BIEN VIEILLIR À DOMICILE Fiche PARTAGE D'EXPÉRIENCE N°792 Villes Amies des Aînés en France Nantes Métropole Ville Amie des Aînés depuis 2019 Nantes (44) Donner à voir au grand public et aux professionnelles / professionnels du territoire métropolitain les outils connectés et digitaux, les services innovants, les expérimentations au service du bien vieillir à domicile Mettre en lumière les enjeux, réflexions, innovations et expérimentations Échanger des bonnes pratiques entre acteurs de l'innovation numérique et digitale, de la gérontologie et de l'habitat Intégrer à la Nantes Digital Week un focus sur le public senior (engagement n°22 de la feuille de route Longévité métropolitaine) Organisation de la semaine, discussion avec différents partenaires Préparation d'une table ronde \"Soutien à domicile: quelles complémentarités entre aides humaines et aides technologiques?\" Portes ouvertes: possibilité aux visiteurs de discuter avec les partenaires pour connaître les diverses offres.  ---  --- UN BILAN TRÈS POSITIF Une trentaine de personnes a assisté à la table ronde du vendredi matin (essentiellement des professionnels) et une cinquantaine de visiteurs a découvert le parcours sur les 2 jours: cette fréquentation est très positive au regard de la fréquentation moyenne des évènements proposés dans la NDW (+/- 30 personnes par évènement).",
+        "solution_envisagee": "Dans ce cadre, Nantes Métropole a pris l'engagement de proposer un focus \"seniors et numérique\" à la Nantes Digital Week 2022.",
+        "objectifs": "Titre: Nantes digital Week - bien vieillir à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/929-concours-2023-nantes-digital-week-bien-vieillir-a-domicile.pdf  ---  --- UN ENGAGEMENT QUI RÉPOND À DES BESOINS En 2019, Nantes Métropole organisait le Grand débat \"Longévité, ouvrons les possibles\" sur son territoire."
+    },
+    "porteur_initiative": "Titre: Nantes digital Week - bien vieillir à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/929-concours-2023-nantes-digital-week-bien-vieillir-a-domicile.pdf  ---  --- UN ENGAGEMENT QUI RÉPOND À DES BESOINS En 2019, Nantes Métropole organisait le Grand débat \"Longévité, ouvrons les possibles\" sur son territoire.",
+    "date": [
+        "24 septembre 2022",
+        "septembre 2022",
+        "2025",
+        "2023",
+        "2019",
+        "2022",
+        "depuis 2019",
+        "En 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Nantes_digital_Week_-_bien_vieillir_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Nantes_digital_Week_-_bien_vieillir_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.95,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

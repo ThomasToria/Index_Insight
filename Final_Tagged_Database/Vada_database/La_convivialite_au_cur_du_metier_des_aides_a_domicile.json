@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: La convivialité au cœur du métier des aides à domicile",
+    "territoire": "Titre: La convivialité au cœur du métier des aides à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/924-pe-la-convivialite-au-coeur-du-metier-des-aides-a-domicile.pdf  ---  --- LES EFFETS NÉGATIFS DES CONFINEMENTS À la suite des confinements en 2020, le service séniors s'est aperçu que l'isolement des personnes âgées du territoire s'est amplifié.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: La convivialité au cœur du métier des aides à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/924-pe-la-convivialite-au-coeur-du-metier-des-aides-a-domicile.pdf  ---  --- LES EFFETS NÉGATIFS DES CONFINEMENTS À la suite des confinements en 2020, le service séniors s'est aperçu que l'isolement des personnes âgées du territoire s'est amplifié.",
+    "description": {
+        "description_generale": "Le Centre communal d'Action Sociale a choisi de mettre en avant la lutte contre l'isolement au cœur de son projet 2021-2026 du service séniors- maintien à domicile.",
+        "contexte": "Ce diagnostic d'un besoin pérenne d'appels de convivialité des inscrits au registre des personnes vulnérables a été acté en juin 2020.",
+        "problematique": "LA CONVIVIALITÉ AU COEUR DU MÉTIER DES AIDES À DOMICILE Fiche PARTAGE D'EXPÉRIENCE N°788 Villes Amies des Aînés en France Saint-Germain-en-Laye Ville Amie des Aînés depuis 2023 Saint-Germain-en-Laye (78) Du point de vue des séniors: rompre leur isolement, identifier les besoins supplémentaires des personnes isolées (téléassistance, portage de repas à domicile, aide à domicile, accompagnement véhiculé), resociabiliser les personnes âgées.",
+        "solution_envisagee": "Depuis 2022 les appels et les visites sont complétés par un accompagnement à des animations pour les bénéficiaires en été et lors des fêtes de fin d’année.",
+        "objectifs": "De nouvelles actions animées par les aides à domicile elles-mêmes sont programmées au second semestre 2023, après une formation par les animatrices des clubs, afin de pouvoir développer le nombre d'animations proposées."
+    },
+    "porteur_initiative": "Du côté des aides à domicile: valoriser un métier peu reconnu avant 2020, faire évoluer leur vision du métier d'aide ménagère en aide à domicile, améliorer leurs conditions de vie au travail en diversifiant les missions des agents.",
+    "date": [
+        "juin 2020",
+        "2025",
+        "2020",
+        "2021",
+        "2026",
+        "2022",
+        "2023",
+        "Depuis 2022",
+        "depuis 2023",
+        "en 2020",
+        "en 2021",
+        "en 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_convivialite_au_cur_du_metier_des_aides_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_convivialite_au_cur_du_metier_des_aides_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

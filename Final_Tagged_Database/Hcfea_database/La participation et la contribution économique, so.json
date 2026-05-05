@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: La participation et la contribution économique, sociale et environnementale des seniors",
+    "territoire": "Leur présence en augmentation sur nombre de territoires est un « or gris » qui représente des opportunités de développement économique pour ces derniers: l’économie du vieillissement représente déjà plus de 15 % des emplois privés dans un territoire sur cinq en France.",
+    "echelle": [],
+    "public_vise": "Titre: La participation et la contribution économique, sociale et environnementale des seniors Sous-titre: Revisiter et renouveler les regards sur l’âge et les seniors Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge La participation et la contribution économique, sociale et environnementale des seniors Imprimer Courriel Linkedin Facebook Twitter Bluesky La participation et la contribution économique, sociale et environnementale des seniors Revisiter et renouveler les regards sur l’âge et les seniors Publié le 17/09/2025 | Temps de lecture: 3 minutes Conseil de l'âge Rapports Le Conseil de l’âge a adopté un rapport sur la participation sociale et la contribution économique, sociale et environnementale des seniors, fruit d'un travail mené entre septembre 2024 et juillet 2025.",
+    "description": {
+        "description_generale": "Or, la participation sociale apparaît comme un levier de plus grande satisfaction dans la vie, de rupture de l’isolement social ainsi que de contribution au maintien des personnes âgées dans l’autonomie.",
+        "contexte": "Le Conseil de l’âge s’appuie sur ses constats et propose des objectifs de politiques publiques visant à renforcer la participation sociale des seniors (particulièrement pour les groupes les moins favorisés).",
+        "problematique": "À l’avenir, cet engagement est susceptible de continuer de diminuer structurellement, du fait de nouvelles attentes de flexibilité et des freins financiers, juridiques et en lien avec la santé (23 % des personnes de 75 ans et plus qui ne déclarent pas de limitation ont une activité sociale contre 8 % seulement de celles qui se déclarent fortement limitée), s’il n’est pas mieux accompagné.",
+        "solution_envisagee": "Il se propose de revisiter et renouveler nos visions de l'avancée en âge et des seniors, en s'inscrivant dans une démarche de lutte contre l'âgisme.",
+        "objectifs": "Le Conseil de l’âge s’appuie sur ses constats et propose des objectifs de politiques publiques visant à renforcer la participation sociale des seniors (particulièrement pour les groupes les moins favorisés)."
+    },
+    "porteur_initiative": "Il montre que la participation au marché du travail des seniors augmente significativement en période récente (notamment sous l'effet des réformes des retraites), et que leur engagement dans des démarches collectives connaît un tassement: par exemple 31,1 % des 65 – 74 ans se déclarent bénévoles en association en 2024 contre 40,8 % en 2004.",
+    "date": [
+        "1 octobre 2025",
+        "30 septembre 2025",
+        "27 septembre 2024",
+        "septembre 2024",
+        "juillet 2025",
+        "octobre 2025",
+        "septembre 2025",
+        "17/09/2025",
+        "2025",
+        "2024",
+        "2004",
+        "2019",
+        "2023",
+        "en 2024",
+        "en 2004"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\La participation et la contribution économique, so.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\La participation et la contribution économique, so.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.0,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

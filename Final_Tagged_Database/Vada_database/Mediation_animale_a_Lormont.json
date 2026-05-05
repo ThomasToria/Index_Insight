@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Médiation animale à Lormont",
+    "territoire": "Titre: Médiation animale à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/958-concours-2023-mediation-animale-a-lormont.pdf  ---  --- CONTRE LA PERTE D‘AUTONOMIE Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Apporter un mieux-être aux seniors: bienfaits physiques et psychiques.",
+    "description": {
+        "description_generale": "En effet, il répond chaque année à l'appel à projets de la Conférence des financeurs, ce qui permet de développer l'offre d'activités sur l'Espace senior.",
+        "contexte": "Titre: Médiation animale à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/958-concours-2023-mediation-animale-a-lormont.pdf  ---  --- CONTRE LA PERTE D‘AUTONOMIE Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+        "problematique": "Titre: Médiation animale à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/958-concours-2023-mediation-animale-a-lormont.pdf  ---  --- CONTRE LA PERTE D‘AUTONOMIE Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+        "solution_envisagee": "Titre: Médiation animale à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/958-concours-2023-mediation-animale-a-lormont.pdf  ---  --- CONTRE LA PERTE D‘AUTONOMIE Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+        "objectifs": "En effet, il répond chaque année à l'appel à projets de la Conférence des financeurs, ce qui permet de développer l'offre d'activités sur l'Espace senior."
+    },
+    "porteur_initiative": "Titre: Médiation animale à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/958-concours-2023-mediation-animale-a-lormont.pdf  ---  --- CONTRE LA PERTE D‘AUTONOMIE Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+    "date": [
+        "2025",
+        "2023",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediation_animale_a_Lormont.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mediation_animale_a_Lormont.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

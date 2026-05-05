@@ -1,0 +1,147 @@
+Prédiction des complications après revascularisation des membres inférieurs grâce à l’intelligence artificielle et les données du système national des données de santé
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/prediction-des-complications-apres-revascularisation-des-membres-inferieurs-grace-a-lintelligence-artificielle-et-les-donnees-du-systeme-national-des-donnees-de-sante/
+Programme concerné : MESSIDORE
+Nom de l'appel : Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année : 2024
+État du projet : En cours
+Durée : 48 mois
+Subvention allouée : 527 529,00
+Financeurs : INSERM
+Disciplines : public health / statistics / epidemiology / vascular medicine
+
+Prédiction des complications après revascularisation des membres inférieurs grâce à l'intelligence artificielle et les données du système national des données de santé - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Prédiction des complications après revascularisation des membres inférieurs grâce à l’intelligence artificielle et les données du système national des données de santé
+Programme concerné
+MESSIDORE
+Nom de l'appel
+Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année
+2024
+Modalité de soutien
+Projet de recherche complet
+État du projet
+En cours
+Durée
+48 mois
+Subvention allouée
+527 529,00
+Financeurs
+INSERM
+Disciplines
+public health / statistics / epidemiology / vascular medicine
+Prédiction des complications après revascularisation des membres inférieurs grâce à l’intelligence artificielle et les données du système national des données de santé
+Résumé de soumission
+Contexte
+En France, les artériopathies oblitérantes des membres inférieurs (AOMI) sont à l’origine de 10 500 années vécues avec une incapacité, 25 % des cas graves ayant recours à une amputation (~500/an). Les AOMI critiques nécessitent une revascularisation par chirurgie ouverte et/ou intervention endovasculaire mais, quel que soit le traitement, des événements indésirables majeurs (e.g. amputation, décès) peuvent survenir pendant les phases opératoires ou post-opératoires. A partir des données du Système National des Données de Santé (SNDS), nous avons notamment montré que les patients atteints d’AOMI pris en charge en ambulatoire ou en hospitalisation complète pour revascularisation avaient une probabilité similaire d’événements indésirables dans les 30 jours suivant l’intervention. Lors du choix des traitements de revascularisation, les caractéristiques cliniques sont priorisées par les cliniciens. Cependant, de nombreuses études ont montré le poids des inégalité sociales et territoriales de santé (e.g. stabilité économique, éducation, accès aux soins de santé) dans l’évolution et la prise en charge de l’AOMI.
+Dans ce contexte, des algorithmes d’apprentissage automatique (machine Learning – ML) entrainer sur des entrepôts des données médicales incluant des variables socio-démographiques ont été proposés pour aider les cliniciens dans leur choix de traitements. Les résultats sont prometteurs mais l’estimation de l’impact des erreurs dans les données (entrée de données, inadéquation, …) ou de l’impact des biais de sélection des populations (fairness) sur ces modèles ont à étudier. En effet, comme dans de nombreux domaines d’application de l’intelligence artificielle, il faut veiller à l’équité de l’utilisation de ces algorithmes de ML. Dans le parcours de soins de l’AOMI, où les disparités de soins sont déjà documentées, les algorithmes de ML doivent tenir compte des caractéristiques sociodémographiques des patients afin d’éviter les modèles qui ignoreraient les populations défavorisées ou en discrimineraient certaines.
+Objectifs
+Ce projet de recherche explorer comment les méthodes d’apprentissage automatique et les données massives en santé (incluant consommation de soins et données socio-démographiques) peuvent aider les chirurgiens vasculaires et endovasculaires à choisir un traitement efficace, raisonnable, et équitable pour de meilleurs résultats dans la prise en charge de l’AOMI.
+Pour répondre à cette question, nous suivrons trois objectifs :
+* proposer une stratégie et les outils ML associés pour prédire le risque de complications après revascularisation pour AOMI afin d’aider les chirurgiens vasculaires et endovasculaires dans leur choix de protocole de traitement.
+* proposer une amélioration d’un algorithme de ML pour prédire la probabilité brute de décès par AOMI ou autres causes chez les patients atteints d’AOMI en tenant compte du risque compétitif de décès.
+* évaluer la performance de nos outils en utilisant des données externes dans le but de généraliser nos méthodes et stratégies pour aider les chirurgiens vasculaires et endovasculaires dans leur choix de traitement de la AOMI.
+Méthodes
+Nous identifierons les parcours de soins des patients ayant bénéficiés d’une revascularisation d’un membre pour AOMI à partir les données de vie réelle recueillies dans le SNDS sur la période 2014-2024. Ces données seront ensuite réparties en jeux de données d’apprentissage et jeux de données de test pour développer et valider nos algorithmes.
+Pour notre premier objectif, nous comparerons les performances (précision, sensibilité, spécificité…) des modèles d’apprentissage automatique existants (forêt aléatoires, réseaux de neurones…) aux modèles traditionnels (régression logistique). Nous testerons également les indicateurs d’équité existants (fairness) et les adapterons, cas échéant, aux données du SNDS. L’impact des erreurs dans les données sera évalué par simulation.
+Pour notre second objectif, nous utiliserons les données du SNDS et des données simulées pour prendre en compte les risques compétitifs de décès dans l’estimation de la probabilité brute de décès par algorithmes de ML.
+Pour notre troisième objectif, nous testerons nos développements sur des entrepôts de données externes. Nous proposons ainsi de réaliser une étude ancillaire au projet EMC2, dans lequel le Groupe Hospitalier Paris Saint Joseph est partenaire. Le projet EMC2 est un entrepôt de données cliniques appariées au SNDS, porté par le Health data Hub et financé par l’agence européenne du médicament, fédérant actuellement avec 4 centres hospitaliers français. Parallèlement, nous appliquerons nos stratégies et modèles à des données issues de entrepôts de données américains et japonais. Ces nouvelles données seront l’occasion d’évaluer la valeur ajoutée des données cliniques sur la performance de nos algorithmes et de tester la généralisation de nos méthodes.
+Perspectives
+Les résultats de ce projet fourniront des stratégies et des algorithmes pour la prédiction des complications après revascularisation pour AOMI grâce à l’utilisation secondaire de données de vie réelle. Ces outils donneront des éléments d’aide à la décision pour les cliniciens dans le choix des protocoles de traitement de l’AOMI. Ainsi, leurs décisions pourront s’appuyer sur des paramètres médicaux, cliniques et socio-démographiques au regard des parcours de soins des patients AOMI. Enfin, le partage de nos méthodes et stratégies d’analyse par apprentissage automatique (Machine Learning) sur des données de vie réelle constituera une base importante pour de futures recherches qui pourront s’étendre à d’autres pathologies chroniques que l’AOMI.
+Equipes du projet
+Coordonnateur :
+LE MEUR Nolwenn
+N° ORCID :
+0000-0001-8451-4014
+Structure administrative de rattachement :
+EHESP
+Laboratoire ou équipe :
+Laboratoire ARENES UMR CNRS 6051 - ERL RSMS INSERM U1309
+N° RNSR :
+200012142C
+Autres équipes participantes :
+Responsable de l'équipe 2 : GOUEFFIC Yann
+Fondation Hôpital Saint Joseph
+Responsable de l'équipe 3 : GARES Valérie
+INSA (Composante IRMAR)
+Responsable de l'équipe 4 : SECEMSKY Eric
+Beth Israel Deaconess Medical Center Inc
+Responsable de l'équipe 5 : IIDA Osamu
+Osaka Police Hospital
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

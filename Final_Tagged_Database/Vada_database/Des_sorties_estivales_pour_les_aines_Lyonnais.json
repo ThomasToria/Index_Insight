@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Des sorties estivales pour les aînés Lyonnais",
+    "territoire": "Titre: Des sorties estivales pour les aînés Lyonnais Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/111-pe-sorties-estivales-lyon.pdf  ---  --- UNE ORGANISATION COMPLEXE ET RIGOUREUSE Depuis 1997, le CCAS de la Ville de Lyon, via son Service Gérontologie, organise deux types de sorties à la journée à destination des retraités lyonnais: Intra-muros: des « sorties estivales » pendant les mois de juillet et août, entièrement gratuites, soit 20 journées Extra-muros: des « voyages » sur juillet et août, avec participation financière des seniors définie selon leurs revenus, soit 20 voyages.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Des sorties estivales pour les aînés Lyonnais Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/111-pe-sorties-estivales-lyon.pdf  ---  --- UNE ORGANISATION COMPLEXE ET RIGOUREUSE Depuis 1997, le CCAS de la Ville de Lyon, via son Service Gérontologie, organise deux types de sorties à la journée à destination des retraités lyonnais: Intra-muros: des « sorties estivales » pendant les mois de juillet et août, entièrement gratuites, soit 20 journées Extra-muros: des « voyages » sur juillet et août, avec participation financière des seniors définie selon leurs revenus, soit 20 voyages.",
+    "description": {
+        "description_generale": "Ces sorties interviennent en complémentarité d’une autre action, également portée par le CCAS: séjours d’une semaine à l’extérieur de la ville, à des tarifs préférentiels (en partenariat avec l’ANCV).",
+        "contexte": "Ces sorties interviennent en complémentarité d’une autre action, également portée par le CCAS: séjours d’une semaine à l’extérieur de la ville, à des tarifs préférentiels (en partenariat avec l’ANCV).",
+        "problematique": "Ces journées « détente au vert » se déroulent à l’internat Favre, (un site appartenant à la Ville de Lyon et accueillant sur les périodes scolaires des enfants en difficultés).",
+        "solution_envisagee": "Ces sorties à l’internat sont également proposées aux 4 EHPAD gérés par le CCAS de la Ville de Lyon, avec la mise en place d’un transport adapté et d’une animation spécifique.",
+        "objectifs": "Afin de permettre à tous ceux qui le souhaitent de profiter de ces sorties à la journée, le CCAS travaille en lien avec les mairies des neuf arrondissements."
+    },
+    "porteur_initiative": "Ces sorties interviennent en complémentarité d’une autre action, également portée par le CCAS: séjours d’une semaine à l’extérieur de la ville, à des tarifs préférentiels (en partenariat avec l’ANCV).",
+    "date": [
+        "18 juillet 2014",
+        "juillet 2014",
+        "2025",
+        "1997",
+        "2014",
+        "2009",
+        "Depuis 1997",
+        "depuis 2009",
+        "En 2014"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sorties_estivales_pour_les_aines_Lyonnais.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_sorties_estivales_pour_les_aines_Lyonnais.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

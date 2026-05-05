@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Viens je t’emmène... prendre soin de toi",
+    "territoire": "Titre: Viens je t’emmène... prendre soin de toi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/320-pe-prendre-soin-de-toi.pdf  ---  --- LE BIEN-ÊTRE COMME VECTEUR DE CONVIVIALITÉ Cette action a eu lieu le 24 novembre 2016 dans le cadre de la semaine « Viens, je t’emmène... » du magazine Notre Temps.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Pendant un après-midi, plusieurs professionnels du bien-être se sont réunis pour détendre, masser, donner des conseil aux personnes.",
+    "description": {
+        "description_generale": "Titre: Viens je t’emmène... prendre soin de toi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/320-pe-prendre-soin-de-toi.pdf  ---  --- LE BIEN-ÊTRE COMME VECTEUR DE CONVIVIALITÉ Cette action a eu lieu le 24 novembre 2016 dans le cadre de la semaine « Viens, je t’emmène... » du magazine Notre Temps.",
+        "contexte": "Titre: Viens je t’emmène... prendre soin de toi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/320-pe-prendre-soin-de-toi.pdf  ---  --- LE BIEN-ÊTRE COMME VECTEUR DE CONVIVIALITÉ Cette action a eu lieu le 24 novembre 2016 dans le cadre de la semaine « Viens, je t’emmène... » du magazine Notre Temps.",
+        "problematique": "Titre: Viens je t’emmène... prendre soin de toi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/320-pe-prendre-soin-de-toi.pdf  ---  --- LE BIEN-ÊTRE COMME VECTEUR DE CONVIVIALITÉ Cette action a eu lieu le 24 novembre 2016 dans le cadre de la semaine « Viens, je t’emmène... » du magazine Notre Temps.",
+        "solution_envisagee": "En revanche, concernant le déroulement de la journée, proposer une inscription pour les ateliers individuels dès l’accueil aurait été préférable.",
+        "objectifs": "Titre: Viens je t’emmène... prendre soin de toi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/320-pe-prendre-soin-de-toi.pdf  ---  --- LE BIEN-ÊTRE COMME VECTEUR DE CONVIVIALITÉ Cette action a eu lieu le 24 novembre 2016 dans le cadre de la semaine « Viens, je t’emmène... » du magazine Notre Temps."
+    },
+    "porteur_initiative": "Titre: Viens je t’emmène... prendre soin de toi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/320-pe-prendre-soin-de-toi.pdf  ---  --- LE BIEN-ÊTRE COMME VECTEUR DE CONVIVIALITÉ Cette action a eu lieu le 24 novembre 2016 dans le cadre de la semaine « Viens, je t’emmène... » du magazine Notre Temps.",
+    "date": [
+        "24 novembre 2016",
+        "novembre 2016",
+        "novembre",
+        "novembre 2017",
+        "2025",
+        "2016",
+        "2011",
+        "2017",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_prendre_soin_de_toi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Viens_je_temmene_prendre_soin_de_toi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

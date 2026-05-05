@@ -1,0 +1,41 @@
+{
+    "titre": "---  ---",
+    "territoire": "Metz D E S C R I P T O N Humaines: Organisation de l’action Matérielles: Tablettes adaptées et tarifs spéciaux d’abonnement d’accès à internet Information et communication: Campagne de publicité Financières: Organismes publics: CARSAT, ARS, CD57, Région Grand Est, CAF, etc.",
+    "echelle": [
+        "régionale"
+    ],
+    "public_vise": "Metz D E S C R I P T O N Humaines: Organisation de l’action Matérielles: Tablettes adaptées et tarifs spéciaux d’abonnement d’accès à internet Information et communication: Campagne de publicité Financières: Organismes publics: CARSAT, ARS, CD57, Région Grand Est, CAF, etc.",
+    "description": {
+        "description_generale": "Metz D E S C R I P T O N Humaines: Organisation de l’action Matérielles: Tablettes adaptées et tarifs spéciaux d’abonnement d’accès à internet Information et communication: Campagne de publicité Financières: Organismes publics: CARSAT, ARS, CD57, Région Grand Est, CAF, etc.",
+        "contexte": "En plus de l’équipement il faudrait travailler pour assurer un accès à internet pour les personnes qui n’en ont pas les moyens: accès wifi facilité, abonnement internet (ou 4G) abordable (comme les offres à 2€, par exemple).",
+        "problematique": "---  --- FICHE-ACTION N°16 Équiper les personnes âgées de matériel numérique adapté Objectifs • Lutter contre la fracture numérique et l’isolement • Faciliter les démarches dématérialisées • Indicateurs de réussite • Nombre de tablettes distribuées • Nombre de personnes en fracture numérique et isolés touchées • … Quoi?",
+        "solution_envisagee": "En plus de l’équipement il faudrait travailler pour assurer un accès à internet pour les personnes qui n’en ont pas les moyens: accès wifi facilité, abonnement internet (ou 4G) abordable (comme les offres à 2€, par exemple).",
+        "objectifs": "• Lutter contre la fracture numérique et l’isolement\n• Faciliter les démarches dématérialisées\n•\nIndicateurs de réussite\n• Nombre de tablettes distribuées\n• Nombre de personnes en fracture numérique et isolés touchées\n• …\nQuoi?\nÉquiper les seniors avec du matériel informatique adapté (tablettes adaptées aux besoins des\nseniors) pour lutter contre la fracture numérique. Ces tablettes pourront être distribuées\ngratuitement ou avec une participation (sous condition de ressources), elles pourront\nremplacer les colis de Noël pour les personnes qui le souhaitent (mais aussi pour les personnes\nde moins de 75 ans). Cet équipement devra être adapté aux usages des seniors et à certaines\ndéficiences. En plus de l’équipement il faudrait travailler pour assurer un accès à internet pour\nles personnes qui n’en ont pas les moyens: accès wifi facilité, abonnement internet (ou 4G)\nabordable (comme les offres à 2€, par exemple).\nUne possibilité sont les Tablettes Ardoiz proposées par la Poste (https://www.ardoiz.com/ )\nPour qui?\nPersonnes âgées sans équipement informatique\nOù et quand?\nMetz\nD\nE\nS\nC\nR\nI\nP\nT\nO\nN\nHumaines:\nOrganisation de l’action\nMatérielles:\nTablettes adaptées et tarifs spéciaux d’abonnement d’accès à internet\nInformation et communication:\nCampagne de publicité\nFinancières:\nOrganismes publics: CARSAT, ARS, CD57, Région Grand Est, CAF, etc. Organismes privés:\nFondations, Mutuelles, Associations, Entreprises\nU\nNumérique"
+    },
+    "porteur_initiative": "En plus de l’équipement il faudrait travailler pour assurer un accès à internet pour les personnes qui n’en ont pas les moyens: accès wifi facilité, abonnement internet (ou 4G) abordable (comme les offres à 2€, par exemple).",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_16_-_Materiel_informatique.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche-action_16_-_Materiel_informatique.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

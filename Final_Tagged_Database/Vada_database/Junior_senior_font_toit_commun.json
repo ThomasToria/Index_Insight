@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Junior senior font toit commun",
+    "territoire": "Titre: Junior senior font toit commun Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/699-pe-8-la-maison-en-ville-rennes.pdf  ---  --- UNE RENCONTRE QUI BÉNÉFICIE AUX ACCUEILLANTS ET ACCUEILLIS La population des retraités est croissante en Bretagne, et certains aînés vivent un sentiment de solitude et d'isolement, mais souhaitent néanmoins rester à leur domicile avant d'envisager un autre parcours résidentiel.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Pour pérenniser et faire évoluer le projet, il pourrait être possible de mettre en place la cohabitation intergénérationnelle au sein de résidences seniors en mettant à disposition quelques logements ou un appartement en colocation pour des jeunes en contrepartie d'une présence conviviale auprès des résidents.",
+    "description": {
+        "description_generale": "UN PROJET COLLECTIF À ÉLARGIR Pour mettre en place l’action, de nombreux partenaires ont été sollicités.",
+        "contexte": "Ce sentiment est aussi présent chez les jeunes comme l'a montré le deuxième rapport annuel sur les solitudes de la Fondation de France: 13 % des jeunes de 18-29 ans sont touchés par l'isolement contre 2 % il y a 10 ans.",
+        "problematique": "Ce sentiment est aussi présent chez les jeunes comme l'a montré le deuxième rapport annuel sur les solitudes de la Fondation de France: 13 % des jeunes de 18-29 ans sont touchés par l'isolement contre 2 % il y a 10 ans.",
+        "solution_envisagee": "Un des freins du déploiement du dispositif est la méconnaissance du service par les aînés.",
+        "objectifs": "JUNIOR SENIOR FONT TOIT COMMUNConcours  RFVAA 2021 Fiche PARTAGE D'EXPÉRIENCE N°568 Villes Amies des Aînés en France L'association la Maison en ville À Rennes (35) Ville Amie des Aînés depuis 2012 Favoriser la transmission intergénérationnelle et l'accueil solidaire."
+    },
+    "porteur_initiative": "Ce sentiment est aussi présent chez les jeunes comme l'a montré le deuxième rapport annuel sur les solitudes de la Fondation de France: 13 % des jeunes de 18-29 ans sont touchés par l'isolement contre 2 % il y a 10 ans.",
+    "date": [
+        "2025",
+        "2006",
+        "2021",
+        "2012",
+        "depuis 2012",
+        "En 2006"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Junior_senior_font_toit_commun.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Junior_senior_font_toit_commun.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

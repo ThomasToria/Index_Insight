@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: À Saint-Étienne, un conseil consultatif seniors",
+    "territoire": "Le Code général des collectivités territoriales prévoit cette possibilité: “Le conseil municipal peut créer des comités consultatifs sur tout sujet d’intérêt communal concernant tout ou partie du territoire de la commune…”.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Tout d’abord, le collège des seniors réunit dix représentants des personnes âgées, désignés suite à un appel à candidature diffusé dans le journal municipal (puis tirage au sort), avec une parité hommes/femmes autant que possible, une représentativité territoriale et une répartition des différentes classes d’âge.",
+    "description": {
+        "description_generale": "Les communications effectuées par les invités ont quant à elles permis un réel débat avec l’assemblée, sur les thèmes suivants: Pôle des Technologies Médicales; Comité d’éthique de la recherche; Expérimentation de compteurs d’eau intelligents; Économie et Vieillissement par un Professeur d’Université réunions de travail dans le cadre de la méthodologie Villes amies des aînés, le développement des compétences des membres en qualité “d’expert d’usage” et la poursuite du suivi de la mise en œuvre des actions retenues comme prioritaires.",
+        "contexte": "Le Code général des collectivités territoriales prévoit cette possibilité: “Le conseil municipal peut créer des comités consultatifs sur tout sujet d’intérêt communal concernant tout ou partie du territoire de la commune…”.",
+        "problematique": "Il s’agit d’une part de garantir la prise en compte des besoins des plus âgés et d’autre part de renforcer leur participation à la société.",
+        "solution_envisagee": "Le Code général des collectivités territoriales prévoit cette possibilité: “Le conseil municipal peut créer des comités consultatifs sur tout sujet d’intérêt communal concernant tout ou partie du territoire de la commune…”.",
+        "objectifs": "Consciente de ces évolutions démographiques et des modifications sociales qu’elles entraînent, la Ville de Saint-Etienne s’est engagée à développer une politique gérontologique ambitieuse afin de favoriser le “bon vieillir” dans la cité."
+    },
+    "porteur_initiative": "Les CCS a également été à l’initiative de la création des groupes « Si on se retrouvait » dans les différents quartiers de la ville avec comme réfèrent un habitant du quartier nommé « Ambassadeur VADA ».",
+    "date": [
+        "19/10/2016",
+        "2025",
+        "2030",
+        "2016",
+        "depuis 2016",
+        "en 2030"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Saint-Etienne_un_conseil_consultatif_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Saint-Etienne_un_conseil_consultatif_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

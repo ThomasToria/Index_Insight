@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Le bonheur d’être grands-parents",
+    "territoire": "Titre: Le bonheur d’être grands-parents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/833-concours-2022-61-le-bonheur-d-etre-grands-parents.pdf  ---  --- UN PROGRAMME POUR LE RÔLE DE GRANDS-PARENTS La structure de la famille a considérablement évolué au cours de ces dernières décennies (famille monoparentale, situation de précarité…) entrainant souvent un besoin accru de l'aide des grands-parents.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Cette action répond à la thématique du concours \"la grand-parentalité: une nouvelle étape de la vie\" par l'accompagnement et le cheminement qu'elle propose aux seniors.",
+    "description": {
+        "description_generale": "Cette action répond à la thématique du concours \"la grand-parentalité: une nouvelle étape de la vie\" par l'accompagnement et le cheminement qu'elle propose aux seniors.",
+        "contexte": "Ce programme se déroule en deux temps: une conférence d'une durée de deux heures et un cycle de trois ateliers de deux heures permettant de mieux connaitre ses aspirations et son rôle de grand-parent.",
+        "problematique": "Titre: Le bonheur d’être grands-parents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/833-concours-2022-61-le-bonheur-d-etre-grands-parents.pdf  ---  --- UN PROGRAMME POUR LE RÔLE DE GRANDS-PARENTS La structure de la famille a considérablement évolué au cours de ces dernières décennies (famille monoparentale, situation de précarité…) entrainant souvent un besoin accru de l'aide des grands-parents.",
+        "solution_envisagee": "Cette action répond à la thématique du concours \"la grand-parentalité: une nouvelle étape de la vie\" par l'accompagnement et le cheminement qu'elle propose aux seniors.",
+        "objectifs": "Apprendre à communiquer pour favoriser le lien intergénérationnel."
+    },
+    "porteur_initiative": "Ce programme se déroule en deux temps: une conférence d'une durée de deux heures et un cycle de trois ateliers de deux heures permettant de mieux connaitre ses aspirations et son rôle de grand-parent.",
+    "date": [
+        "2025",
+        "2022",
+        "2018",
+        "2023",
+        "depuis 2018",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_bonheur_detre_grands-parents.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_bonheur_detre_grands-parents.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

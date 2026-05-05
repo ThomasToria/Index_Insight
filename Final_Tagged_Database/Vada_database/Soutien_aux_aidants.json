@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Soutien aux aidants",
+    "territoire": "Titre: Soutien aux aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/808-concours-2022-30-soutien-aux-aidants.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°674Villes Amies des Aînés en France PROPOSER UN ACCOMPAGNEMENT POUR LES BINÔMES AIDANTS-AIDÉS Le rôle d'aidant fragilisant les liens sociaux et familiaux, les aidants sont confrontés à un risque d'isolement et d'épuisement, comme les personnes en perte d'autonomie dont ils s'occupent.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Soutien aux aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/808-concours-2022-30-soutien-aux-aidants.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°674Villes Amies des Aînés en France PROPOSER UN ACCOMPAGNEMENT POUR LES BINÔMES AIDANTS-AIDÉS Le rôle d'aidant fragilisant les liens sociaux et familiaux, les aidants sont confrontés à un risque d'isolement et d'épuisement, comme les personnes en perte d'autonomie dont ils s'occupent.",
+    "description": {
+        "description_generale": "UN PROJET MULTIPARTENARIAL Des p artenaires territoriaux en charge de l'accompagnement médico-social des personnes âgées, mobilisés dans le cadre de la promotion de cette action mais aussi dans le cadre du repérage des personnes cibles ont participé à l'action: le dispositif d'Appui et de Coordination du Doubs; l'unité mobile de gériatrie du CHU de Besançon, le service Autonomie du Département du Doubs… L'accueil de jour l'Escapade du CCAS de Besançon a permis l'accueil des personnes aidées simultanément à l'accueil de leurs aidants dans un groupe de parole.",
+        "contexte": "Il est constaté que les aidants ne font pas toujours appel aux solutions de répit pour deux raisons principales: le coût financier et les freins d'ordre psychologique.",
+        "problematique": "Il est constaté que les aidants ne font pas toujours appel aux solutions de répit pour deux raisons principales: le coût financier et les freins d'ordre psychologique.",
+        "solution_envisagee": "Titre: Soutien aux aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/808-concours-2022-30-soutien-aux-aidants.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°674Villes Amies des Aînés en France PROPOSER UN ACCOMPAGNEMENT POUR LES BINÔMES AIDANTS-AIDÉS Le rôle d'aidant fragilisant les liens sociaux et familiaux, les aidants sont confrontés à un risque d'isolement et d'épuisement, comme les personnes en perte d'autonomie dont ils s'occupent.",
+        "objectifs": "Plusieurs outils permettent de collecter les informations permettant de juger de l'atteinte des objectifs: la feuille de présence; la boîte à idées; les observations des intervenants après chaque séance et le questionnaire d'évaluation initiale et finale."
+    },
+    "porteur_initiative": "Le groupe de pairs aidés est pris en charge par un accompagnant éducatif et social et est animé par une art-thérapeute pour les premières séances puis par une musicothérapeute pour les suivantes.",
+    "date": [
+        "2025",
+        "2022",
+        "2012",
+        "2019",
+        "2020",
+        "2021",
+        "2023",
+        "depuis 2012",
+        "en 2019",
+        "en",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soutien_aux_aidants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Soutien_aux_aidants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "titre": "L'été, période de vulnérabilité pour les personnes âgées",
+    "territoire": "D’un point de vue pratique, on constate de nombreuses initiatives: des relais ont été mis en place, par exemple les systèmes de liste d’appels proposés par la ville de Rennes.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "L’évolution majeure réside sans doute dans une prise de conscience, une plus forte sensibilisation à la situation des personnes âgées qui vieillissent à domicile et au rôle des familles vis-à-vis de leurs proches.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "D’un point de vue pratique, on constate de nombreuses initiatives: des relais ont été mis en place, par exemple les systèmes de liste d’appels proposés par la ville de Rennes.",
+        "problematique": "Elles partagent leur regard expert sur les enjeux du grand âge et reviennent sur les projets qui les ont marqués.",
+        "solution_envisagee": "L’objectif: proposer un espace de vie proche d’une maison classique, au centre d’un Ehpad, pour les personnes atteintes d’Alzheimer.",
+        "objectifs": "L’objectif: proposer un espace de vie proche d’une maison classique, au centre d’un Ehpad, pour les personnes atteintes d’Alzheimer."
+    },
+    "porteur_initiative": "L'été, période de vulnérabilité pour les personnes âgées  https://www.fondationdefrance.org/fr/cat-fondation-de-france-grand-ouest/l-ete-periode-de-vulnerabilite-pour-les-personnes-agees  Qui sommes-nous?",
+    "date": [
+        "2003",
+        "Depuis 2003"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\L'été, période de vulnérabilité pour les personnes âgées.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\L'été, période de vulnérabilité pour les personnes âgées.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

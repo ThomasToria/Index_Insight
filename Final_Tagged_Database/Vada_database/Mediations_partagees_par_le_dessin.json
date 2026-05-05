@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Médiations \"part'âgées\" par le dessin",
+    "territoire": "Titre: Médiations \"part'âgées\" par le dessin Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/941-concours-2023-mediations-part-agees-par-le-dessin.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS PROJET INCLUSIF AUTOUR DE LA PEINTURE ET DU DESSIN Le CCAS du Chambon Feugerolles propose chaque année des activités sous forme d'ateliers à destination des Aînés.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les ateliers ont été ouvert à tous: seniors, professionnels et familles.",
+    "description": {
+        "description_generale": "L'adhésion de la ville au Réseau Francophone des Villes Amies des Aînés présentait une opportunité intéressante pour proposer comme thème sur un des deux axes du projet: “C'est quoi pour vous une ville amie des aînés inclusive et bienveillante”.",
+        "contexte": "L'adhésion de la ville au Réseau Francophone des Villes Amies des Aînés présentait une opportunité intéressante pour proposer comme thème sur un des deux axes du projet: “C'est quoi pour vous une ville amie des aînés inclusive et bienveillante”.",
+        "problematique": "Ces propositions répondent aux besoins exprimés des seniors de bénéficier d'activités leur permettant de se sentir bien dans leur corps, leur tête, et d'avoir des relations sociales de qualité.",
+        "solution_envisagee": "L'adhésion de la ville au Réseau Francophone des Villes Amies des Aînés présentait une opportunité intéressante pour proposer comme thème sur un des deux axes du projet: “C'est quoi pour vous une ville amie des aînés inclusive et bienveillante”.",
+        "objectifs": "Favoriser le bien-être, l’estime de soi et les liens sociaux."
+    },
+    "porteur_initiative": "Le projet intergénérationnelle de réalisation d'une fresque, animé par Audrey Pecolo, débuta en septembre avec la mise en œuvre de 4 séances de 1h30 sur les 4 sites des partenaires pour le recueil des éléments que les participants souhaitaient voir apparaître sur la fresque.",
+    "date": [
+        "14 juin 2023",
+        "mai 2022",
+        "septembre 2022",
+        "mai 2023",
+        "juin 2023",
+        "mai",
+        "2025",
+        "2023",
+        "2022",
+        "2024",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediations_partagees_par_le_dessin.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mediations_partagees_par_le_dessin.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

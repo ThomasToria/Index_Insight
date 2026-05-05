@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Manifestation pour un EHPAD de rêve",
+    "territoire": "Titre: Manifestation pour un EHPAD de rêve Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/786-concours-2022-7-manifestation-pour-un-ephad-de-reve.pdf  ---  --- UN ATELIER MANIFESTATION POUR REVENDIQUER SES DROITS Début 2022, un atelier \"manifestation\" a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "En ce qui concerne le déroulé de l'atelier, la première partie consistait d'abord par un temps d'échange entre bénévoles et résidents afin de récolter les paroles de chacun en répondant entre-autre aux questions suivantes: \"Qu'est ce qu'on voudrait changer dans notre lieu de vie?",
+    "description": {
+        "description_generale": "PANNEAUX, SLOGANS, RENCONTRES Pour réaliser le projet, il s'agissait en amont de procéder à la rédaction et à la création du projet d'ateliers: des panneaux légers, réutilisables et facilement transportables ont ainsi pu être créés.",
+        "contexte": "Titre: Manifestation pour un EHPAD de rêve Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/786-concours-2022-7-manifestation-pour-un-ephad-de-reve.pdf  ---  --- UN ATELIER MANIFESTATION POUR REVENDIQUER SES DROITS Début 2022, un atelier \"manifestation\" a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement.",
+        "problematique": "Un mégaphone était à disposition pour soutenir les voix et occuper l'espace sonore en exprimant à haute voix leurs besoins, leur envie de changement, leur colère ou leurs rêves.",
+        "solution_envisagee": "Titre: Manifestation pour un EHPAD de rêve Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/786-concours-2022-7-manifestation-pour-un-ephad-de-reve.pdf  ---  --- UN ATELIER MANIFESTATION POUR REVENDIQUER SES DROITS Début 2022, un atelier \"manifestation\" a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement.",
+        "objectifs": "En parallèle, une rencontre a aussi été organisée avec les bénévoles afin d'expliquer les objectifs et le déroulement de l'atelier."
+    },
+    "porteur_initiative": "Titre: Manifestation pour un EHPAD de rêve Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/786-concours-2022-7-manifestation-pour-un-ephad-de-reve.pdf  ---  --- UN ATELIER MANIFESTATION POUR REVENDIQUER SES DROITS Début 2022, un atelier \"manifestation\" a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement.",
+    "date": [
+        "2025",
+        "2022",
+        "7652",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Manifestation_pour_un_EHPAD_de_reve.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Manifestation_pour_un_EHPAD_de_reve.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

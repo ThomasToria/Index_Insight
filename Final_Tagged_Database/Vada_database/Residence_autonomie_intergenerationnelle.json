@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Résidence autonomie intergénérationnelle",
+    "territoire": "Titre: Résidence autonomie intergénérationnelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/735-pe-603-residence-autonomie-intergenerationnelle-saint-priest.pdf  ---  --- DES ÉTUDIANTS EN RÉSIDENCE AUTONOMIE Ce projet a pour origine la volonté d’utiliser des logements inoccupés au septième étage d’une résidence autonomie de Saint-Priest, ces derniers ne pouvant plus être attribués à des personnes âgées pour des questions règlementaires liées à la sécurité incendie.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Résidence autonomie intergénérationnelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/735-pe-603-residence-autonomie-intergenerationnelle-saint-priest.pdf  ---  --- DES ÉTUDIANTS EN RÉSIDENCE AUTONOMIE Ce projet a pour origine la volonté d’utiliser des logements inoccupés au septième étage d’une résidence autonomie de Saint-Priest, ces derniers ne pouvant plus être attribués à des personnes âgées pour des questions règlementaires liées à la sécurité incendie.",
+    "description": {
+        "description_generale": "Concours  RFVAA 2021  ---  --- UN DISPOSITIF INNOVANT QUI A RENCONTRÉ SON PUBLIC Ce projet partenarial est aujourd’hui pérenne et les étudiants sont totalement intégrés à la structure.",
+        "contexte": "Il a également été constaté que ce projet permettait aux étudiants de valoriser leurs connaissances et de développer pour leurs projets futurs de nouvelles compétences.",
+        "problematique": "Il a par la suite été ressenti le besoin de renforcer le lien avec les étudiants (perte de motivation de certains, besoin de structurer et d’articuler les relations avec le personnel de l’établissement sur le volet activités...).",
+        "solution_envisagee": "Chaque année, 330€ par logement sont reversés à l’association PariSolidaire pour l’accompagnement des étudiants sur l’année (recherche d’étudiants, suivi des étudiants, des projets intergénérationnels mis en place...).",
+        "objectifs": "Ce projet répond donc aux objectifs initiaux visant à développer le lien social, renforcer les activités et développer les liens intergénérationnels."
+    },
+    "porteur_initiative": "Si, comme Saint-Priest, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "septembre 2014",
+        "janvier 2016",
+        "2025",
+        "2014",
+        "2016",
+        "2021",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_autonomie_intergenerationnelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Residence_autonomie_intergenerationnelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

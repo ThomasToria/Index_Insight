@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Quelle offre culturelle nantaise pour les seniors?",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/399-pe-offre-culturelle-seniors-1.pdf  ---  --- UN ACCÈS ADAPTÉ A L‘OFFRE CULTURELLE Dans le cadre de sa politique publique en faveur des personnes âgées, la Ville de Nantes vise à favoriser la participation à la vie sociale des seniors afin de lutter contre l’isolement.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/399-pe-offre-culturelle-seniors-1.pdf  ---  --- UN ACCÈS ADAPTÉ A L‘OFFRE CULTURELLE Dans le cadre de sa politique publique en faveur des personnes âgées, la Ville de Nantes vise à favoriser la participation à la vie sociale des seniors afin de lutter contre l’isolement.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nantes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "La Ville a donc réalisé un diagnostic relatif au rapport entre les personnes âgées et l’ensemble de l’offre culturelle du territoire nantais: pratiques et besoins ont été recensés grâce à une collaboration entre la ville, les seniors, les directions municipales et les acteurs des secteurs de la gérontologie, de la médiation et de la culture.",
+        "problematique": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/399-pe-offre-culturelle-seniors-1.pdf  ---  --- UN ACCÈS ADAPTÉ A L‘OFFRE CULTURELLE Dans le cadre de sa politique publique en faveur des personnes âgées, la Ville de Nantes vise à favoriser la participation à la vie sociale des seniors afin de lutter contre l’isolement.",
+        "solution_envisagee": "Des acteurs des secteurs de la gérontologie, de la médiation et de la culture ont collaboré afin de trouver des réponses aux besoins, aux envies exprimés par les personnes âgées et de rendre l’application de ces solutions possible.",
+        "objectifs": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/399-pe-offre-culturelle-seniors-1.pdf  ---  --- UN ACCÈS ADAPTÉ A L‘OFFRE CULTURELLE Dans le cadre de sa politique publique en faveur des personnes âgées, la Ville de Nantes vise à favoriser la participation à la vie sociale des seniors afin de lutter contre l’isolement."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/399-pe-offre-culturelle-seniors-1.pdf  ---  --- UN ACCÈS ADAPTÉ A L‘OFFRE CULTURELLE Dans le cadre de sa politique publique en faveur des personnes âgées, la Ville de Nantes vise à favoriser la participation à la vie sociale des seniors afin de lutter contre l’isolement.",
+    "date": [
+        "2025",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Quelle_offre_culturelle_nantaise_pour_les_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Quelle_offre_culturelle_nantaise_pour_les_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

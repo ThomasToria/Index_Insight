@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Plaquettes d'informations",
+    "territoire": "Titre: Plaquettes d'informations Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/952-concours-2023-plaquettes-d-informations-lormont.pdf  ---  --- UN ÉDITORIAL LANCÉ EN 2017 Cela fait plusieurs années maintenant que, dans un souci d'amélioration de la communication externe, le service du CCAS de la ville de Lormont a lancé une plaquette d'informations sur les \"activités et services\" proposés.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "C'est en effet u n besoin de communiquer sur les actions mise en place afin de fédérer les seniors sur les activités proposées par l'Espace senior.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lormont, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "L'étape suivante repose sur la volonté d'associer la population senior lors du diagnostic participatif et notamment sur le volet communication.",
+        "problematique": "C'est en effet u n besoin de communiquer sur les actions mise en place afin de fédérer les seniors sur les activités proposées par l'Espace senior.",
+        "solution_envisagee": "C'est en effet u n besoin de communiquer sur les actions mise en place afin de fédérer les seniors sur les activités proposées par l'Espace senior.",
+        "objectifs": "C'est en effet u n besoin de communiquer sur les actions mise en place afin de fédérer les seniors sur les activités proposées par l'Espace senior."
+    },
+    "porteur_initiative": "Si, comme la Ville de Lormont, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "2017",
+        "2019",
+        "2000",
+        "depuis 2019",
+        "EN 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plaquettes_dinformations.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plaquettes_dinformations.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

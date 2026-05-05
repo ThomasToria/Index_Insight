@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Semaine du bien vieillir sur le territoire granvillais",
+    "territoire": "Titre: Semaine du bien vieillir sur le territoire granvillais Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/950-concours-2023-semaine-du-bien-vieillir-sur-le-territoire-granvillaisiche-vierge-1.pdf  ---  --- GRANVILLE VERS LE LABEL La ville de Granville est adhérente à la démarche Ville Amie des aînés depuis 2016 et souhaite concourir pour le LABEL \"AMI DES AÎNÉS\".",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Le vendredi, dernière journée, portait sur l'autonomie et la santé, y fut proposé: des ateliers, conférences, tables rondes, stands d'informations et mise en situation autour de la prévention des chutes, de la mémoire, du sommeil, de la douleur, de la nutrition, de la sexualité, de l'estime de soi, de la prévention de l'épuisement des aidants, de l'accès aux soins et aux services, et du numérique.",
+    "description": {
+        "description_generale": "Par ailleurs, Granville a fait également l'objet d'un accompagnement spécifique au travers de la Fabrique Prospective, un dispositif financé et piloté par l'Agence nationale de la cohésion des territoires, dont le projet d'organiser une semaine du bien vieillir à Granville faisait partie de la feuille de route.",
+        "contexte": "PRÉPARATION DE L'ACTION Pour mettre en place cette semaine d'actions, la municipalité a constitué trois instances: un comité de direction (CODIR), un comité de pilotage (COPIL) et des comités techniques (COTECH).",
+        "problematique": "UN PROGRAMME EXHAUSTIF Chaque besoin et directives ayant été co-construites et co- décidées en groupes de travail, la coordination des actions journée par journée a été très fluide.",
+        "solution_envisagee": "Par ailleurs, Granville a fait également l'objet d'un accompagnement spécifique au travers de la Fabrique Prospective, un dispositif financé et piloté par l'Agence nationale de la cohésion des territoires, dont le projet d'organiser une semaine du bien vieillir à Granville faisait partie de la feuille de route.",
+        "objectifs": "L'objectif de la semaine est de proposer une action de sensibilisation, d'information et de prévention autour du bien vieillir en communiquant sur les projets et ressources existants sur le territoire."
+    },
+    "porteur_initiative": "Par ailleurs, Granville a fait également l'objet d'un accompagnement spécifique au travers de la Fabrique Prospective, un dispositif financé et piloté par l'Agence nationale de la cohésion des territoires, dont le projet d'organiser une semaine du bien vieillir à Granville faisait partie de la feuille de route.",
+    "date": [
+        "mai 2023",
+        "septembre",
+        "septembre 2023",
+        "2025",
+        "2023",
+        "2016",
+        "depuis",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Semaine_du_bien_vieillir_sur_le_territoire_granvillais.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Semaine_du_bien_vieillir_sur_le_territoire_granvillais.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

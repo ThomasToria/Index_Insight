@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Viens, je t’emmène... à la Maison de quartier La Touche pour une journée placée sous le thème du jeu",
+    "territoire": "Titre: Viens, je t’emmène... à la Maison de quartier La Touche pour une journée placée sous le thème du jeu Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/254-pe-maison-de-quartier-jeu.pdf  ---  --- UNE JOURNÉE PLACÉE SOUS LE SIGNE DE LA SOLIDARITÉ Le 27 novembre 2015, une journée d’animation organisée autour du jeu s’est déroulée à la Maison de Quartier La Touche.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "S’entourer de partenaires afin de communiquer l’action et de toucher le public visé (ici les personnes âgées isolées).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Il a par ailleurs été constaté qu’il était difficile de faire venir les personnes âgées si elles n’étaient pas accompagnées.",
+        "problematique": "Ils ont partagé un moment convivial et n’ont pas rencontré de difficultés pour créer des liens.",
+        "solution_envisagee": "Cette structure propose tout au long de l’année des manifestations sur le jeu et à destination de tous.",
+        "objectifs": "La commission senior a dès lors réfléchi à l’organisation d’animations à proximité du domicile des personnes isolées, dans un cadre sécurisé et adapté afin de les encourager à créer du lien."
+    },
+    "porteur_initiative": "Une visite du lieu a permis de présenter les différents espaces organisés pour la journée: lieu d’échange et de repos; pôle vidéo, Wii; pôle jeux géants, d’adresse et de motricité et pôle jeux de société.",
+    "date": [
+        "27 novembre 2015",
+        "novembre 2015",
+        "2025",
+        "2015",
+        "2011",
+        "1583",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

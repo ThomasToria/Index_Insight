@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Forum habitat",
+    "territoire": "Titre: Forum habitat Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/729-pe-597-forum-habitat-saint-nazaire.pdf  ---  --- INFORMER GRÂCE À UN FORUM La ville de Saint-Nazaire s’est engagée à développer une politique volontariste favorable au vieillissement actif de son territoire.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Ville et CARENE se retrouvent aujourd'hui avec la volonté commune de vérifier si les préconisations correspondent bien aux besoins des habitants.",
+    "description": {
+        "description_generale": "Pour pérenniser le projet, il sera nécessaire de maintenir les débats, de continuer à recueillir les avis de la population et de développer les actions de prévention pour accompagner les cheminements de tous.",
+        "contexte": "La CARENE a ainsi mené un premier diagnostic et des préconisations ont été proposées.",
+        "problematique": "L’action commencera avec l’intervention d’une sociologue pour une prise de hauteur sur les enjeux de l’habitat.",
+        "solution_envisagee": "IDENTIFIER LES BESOINS DES HABITANTS ET PROPOSER DES SOLUTIONS En présentant les différentes alternatives possibles, l’occasion est donnée à tous de cheminer sur son propre projet de vie et ainsi de se projeter dans l’avenir.",
+        "objectifs": "Ce forum sera l’occasion de recueillir suffisamment d'éléments pour permettre de développer un programme politique adapté pour l'habitat."
+    },
+    "porteur_initiative": "Par ailleurs, la compétence \"habitat\" est portée par l'intercommunalité de l'agglomération de Saint-Nazaire et un travail de renouvellement du programme local de l'habitat est actuellement en cours.",
+    "date": [
+        "juin 2019",
+        "2025",
+        "2019",
+        "2021",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_habitat.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forum_habitat.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

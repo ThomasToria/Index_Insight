@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Cocardes \"made in romans\"",
+    "territoire": "Titre: Cocardes \"made in romans\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/449-pe-cocardes-mise-en-forme-2023.pdf  ---  --- PARTICIPER AU DEVOIR DE MÉMOIRE Disposer de cocardes riches de sens et de symbole pour le Centenaire de l’Armistice de Romans-sur-Isère: si c’est dans cette idée initiale que le projet a pris racines, c’est surtout la volonté d’impliquer tous les Romanais dans la riche programmation de cet événement qui l’a porté à son aboutissement.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Proposer l’idée de la confection de cocardes au Foyer restaurant de la Villa Boréa; Recruter des volontaires pour participer aux ateliers; Ouvrir la proposition aux différents accueils de jour; Récupérer et redistribuer les cocardes tout au long de la programmation du Centenaire de l’Armistice.  ---  --- Si, comme la Ville de Romans-sur-Isère, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN PROJET QUI EN FAIT NAÎTRE D'AUTRES En partenariat avec le Musée de la Résistance en Drôme et de la Déportation, ce projet aura impliqué une dizaine de professionnels et une quarantaine de personnes âgées dans trois résidences autonomie et accueils de jours.",
+    "description": {
+        "description_generale": "Titre: Cocardes \"made in romans\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/449-pe-cocardes-mise-en-forme-2023.pdf  ---  --- PARTICIPER AU DEVOIR DE MÉMOIRE Disposer de cocardes riches de sens et de symbole pour le Centenaire de l’Armistice de Romans-sur-Isère: si c’est dans cette idée initiale que le projet a pris racines, c’est surtout la volonté d’impliquer tous les Romanais dans la riche programmation de cet événement qui l’a porté à son aboutissement.",
+        "contexte": "Les ateliers de création de cocardes, encadrés par les animatrices des différentes structures, se sont alors naturellement organisés comme de petites entreprises autour de thématiques: la table des “coupeuses de ruban”, celle des “marqueuses de pointillés au crayon”, des “passeuses” ou des “tireuses de fil” (pour que la cocarde prenne forme)...",
+        "problematique": "Les ateliers de création de cocardes, encadrés par les animatrices des différentes structures, se sont alors naturellement organisés comme de petites entreprises autour de thématiques: la table des “coupeuses de ruban”, celle des “marqueuses de pointillés au crayon”, des “passeuses” ou des “tireuses de fil” (pour que la cocarde prenne forme)...",
+        "solution_envisagee": "Proposer l’idée de la confection de cocardes au Foyer restaurant de la Villa Boréa; Recruter des volontaires pour participer aux ateliers; Ouvrir la proposition aux différents accueils de jour; Récupérer et redistribuer les cocardes tout au long de la programmation du Centenaire de l’Armistice.  ---  --- Si, comme la Ville de Romans-sur-Isère, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN PROJET QUI EN FAIT NAÎTRE D'AUTRES En partenariat avec le Musée de la Résistance en Drôme et de la Déportation, ce projet aura impliqué une dizaine de professionnels et une quarantaine de personnes âgées dans trois résidences autonomie et accueils de jours.",
+        "objectifs": "Les ateliers de création de cocardes, encadrés par les animatrices des différentes structures, se sont alors naturellement organisés comme de petites entreprises autour de thématiques: la table des “coupeuses de ruban”, celle des “marqueuses de pointillés au crayon”, des “passeuses” ou des “tireuses de fil” (pour que la cocarde prenne forme)..."
+    },
+    "porteur_initiative": "Les ateliers de création de cocardes, encadrés par les animatrices des différentes structures, se sont alors naturellement organisés comme de petites entreprises autour de thématiques: la table des “coupeuses de ruban”, celle des “marqueuses de pointillés au crayon”, des “passeuses” ou des “tireuses de fil” (pour que la cocarde prenne forme)...",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "2018",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cocardes_made_in_romans.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cocardes_made_in_romans.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

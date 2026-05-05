@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Cafés santé",
+    "territoire": "Titre: Cafés santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1075-concours-2024-cafes-santes.pdf  ---  --- UN MANQUE D'INFORMATIONS Le Service social de la ville de Genève compte deux infirmières en santé communautaire, qui assurent des permanences info-santé deux fois par mois à Cité Seniors.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Cafés santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1075-concours-2024-cafes-santes.pdf  ---  --- UN MANQUE D'INFORMATIONS Le Service social de la ville de Genève compte deux infirmières en santé communautaire, qui assurent des permanences info-santé deux fois par mois à Cité Seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Genève, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Cafés santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1075-concours-2024-cafes-santes.pdf  ---  --- UN MANQUE D'INFORMATIONS Le Service social de la ville de Genève compte deux infirmières en santé communautaire, qui assurent des permanences info-santé deux fois par mois à Cité Seniors.",
+        "problematique": "Titre: Cafés santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1075-concours-2024-cafes-santes.pdf  ---  --- UN MANQUE D'INFORMATIONS Le Service social de la ville de Genève compte deux infirmières en santé communautaire, qui assurent des permanences info-santé deux fois par mois à Cité Seniors.",
+        "solution_envisagee": "Cette formule permet un approfondissement pour toutes et tous, mais également une possibilité d'avoir des réponses individualisées.",
+        "objectifs": "Renforcer le pouvoir d’agir des personnes sur leur santé en permettant à chacun-une de maintenir et ou améliorer son état de santé grâce à des conseils de santé individualisés et accessibles."
+    },
+    "porteur_initiative": "Titre: Cafés santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1075-concours-2024-cafes-santes.pdf  ---  --- UN MANQUE D'INFORMATIONS Le Service social de la ville de Genève compte deux infirmières en santé communautaire, qui assurent des permanences info-santé deux fois par mois à Cité Seniors.",
+    "date": [
+        "2025",
+        "1075",
+        "2024",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafes_sante.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cafes_sante.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

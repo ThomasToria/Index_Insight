@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Ma maison A'venir",
+    "territoire": "Titre: Ma maison A'venir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/695-pe-ma-maison-a-venir-2.pdf  ---  --- UN APPARTEMENT TÉMOIN POUR LE MAINTIEN À DOMICILE Lors de l'audit urbain mené par le CCAS de La rochelle, il a été constaté que de nombreuses personnes âgées se trouvaient en difficulté dans leur domicile en raison d'un logement non adapté.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Informer également les aidants sur les mesures à mettre en place pour le maintien à domicile des seniors.",
+    "description": {
+        "description_generale": "L'éclaira ge nocturne est un dispositif qui détecte et éclaire automatiquement en cas de chutes nocturnes.  ---  --- UNE ACTION COLLABORATIVE Différentes étapes ont été nécessaires pour la réalisation du projet.",
+        "contexte": "Titre: Ma maison A'venir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/695-pe-ma-maison-a-venir-2.pdf  ---  --- UN APPARTEMENT TÉMOIN POUR LE MAINTIEN À DOMICILE Lors de l'audit urbain mené par le CCAS de La rochelle, il a été constaté que de nombreuses personnes âgées se trouvaient en difficulté dans leur domicile en raison d'un logement non adapté.",
+        "problematique": "Titre: Ma maison A'venir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/695-pe-ma-maison-a-venir-2.pdf  ---  --- UN APPARTEMENT TÉMOIN POUR LE MAINTIEN À DOMICILE Lors de l'audit urbain mené par le CCAS de La rochelle, il a été constaté que de nombreuses personnes âgées se trouvaient en difficulté dans leur domicile en raison d'un logement non adapté.",
+        "solution_envisagee": "Les objectifs du projet ont été atteints: l'Association \"Ma Maison A'Venir\" a su présenter des solutions simples et non onéreuses pour simplifier la vie au quotidien au domicile et l'action sera donc reconduite en 2022.",
+        "objectifs": "Les objectifs du projet ont été atteints: l'Association \"Ma Maison A'Venir\" a su présenter des solutions simples et non onéreuses pour simplifier la vie au quotidien au domicile et l'action sera donc reconduite en 2022."
+    },
+    "porteur_initiative": "Communiquer autour de l'action.Comme sur la photo, quelques équipements peuvent êt re très utiles: l'horloge affiche l'heure et la date du jour dans la pièce pr incipale, elle est préconisée pour l'Alzheimer.",
+    "date": [
+        "2025",
+        "2021",
+        "2016",
+        "2022",
+        "depuis 2016",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ma_maison_Avenir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ma_maison_Avenir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

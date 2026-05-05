@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Activité qi gong",
+    "territoire": "Titre: Activité qi gong Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/982-concours-2023-activite-qi-gong.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'ENGAGEMENT DU CCAS Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Proposition de l'activité en fonction des besoins relevés par les seniors: le Qi Gong.",
+    "description": {
+        "description_generale": "En effet, il répond chaque année à l'appel à projets de la Conférence des financeurs, ce qui permet de développer l'offre d'activités sur l'Espace senior.",
+        "contexte": "C'est dans ce contexte que, depuis novembre 2022, le Qi Gong est proposé aux seniors de Lormont.",
+        "problematique": "Proposition de l'activité en fonction des besoins relevés par les seniors: le Qi Gong.",
+        "solution_envisagee": "PARTENARIAT ET DÉROULEMENT DES SÉANCES C'est via l'association AGIRAS, qui propose l'intervenant pour les séances, que cette action a pu être mise en place.",
+        "objectifs": "En effet, il répond chaque année à l'appel à projets de la Conférence des financeurs, ce qui permet de développer l'offre d'activités sur l'Espace senior."
+    },
+    "porteur_initiative": "Titre: Activité qi gong Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/982-concours-2023-activite-qi-gong.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'ENGAGEMENT DU CCAS Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant.",
+    "date": [
+        "novembre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activite_qi_gong.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Activite_qi_gong.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

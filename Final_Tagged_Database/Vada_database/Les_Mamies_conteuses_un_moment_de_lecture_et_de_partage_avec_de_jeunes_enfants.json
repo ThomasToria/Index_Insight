@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Les \"Mamies conteuses\" un moment de lecture et de partage avec de jeunes enfants",
+    "territoire": "Titre: Les \"Mamies conteuses\" un moment de lecture et de partage avec de jeunes enfants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/237-pe-les-mamies-conteuses-mise-en-forme-2023.pdf  ---  --- RÉUNIR DIFFÉRENTES GÉNÉRATIONS AUTOUR D’UNE HISTOIRE Depuis janvier 2014, le centre social et socioculturel de Gerland (Lyon - 7ème arrondissement) met en place le projet « les mamies conteuses », une action qui favorise la rencontre entre les générations autour de la littérature.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Mettre en place un temps d’échange avec les professionnels, les seniors bénévoles et les parents d’élèves.",
+    "description": {
+        "description_generale": "Titre: Les \"Mamies conteuses\" un moment de lecture et de partage avec de jeunes enfants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/237-pe-les-mamies-conteuses-mise-en-forme-2023.pdf  ---  --- RÉUNIR DIFFÉRENTES GÉNÉRATIONS AUTOUR D’UNE HISTOIRE Depuis janvier 2014, le centre social et socioculturel de Gerland (Lyon - 7ème arrondissement) met en place le projet « les mamies conteuses », une action qui favorise la rencontre entre les générations autour de la littérature.",
+        "contexte": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "L’OCCASION DE CRÉER DU LIEN Ce projet est l’occasion de rompre l’isolement des personnes âgées et de créer, pour les enfants des crèches, un événement dans la semaine.",
+        "solution_envisagee": "Un travail a alors été mené avec le centre social sur l’intérêt de la mise en place d’un projet intergénérationnel.",
+        "objectifs": "LES “MAMIES CONTEUSES” UN MOMENT DE LECTURE ET DE PARTAGE AVEC DE JEUNES ENFANTS Fiche PARTAGE D'EXPÉRIENCE N°237 Villes Amies des Aînés en France Centre Social & Socioculturel de Gerland Lyon (69) Ville Amie des Aînés depuis 2012 Fiche publiée le 15/04/2016 Favoriser les rencontres intergénérationnelles seniors / petite enfance autour d’un moment de lecture."
+    },
+    "porteur_initiative": "Il s’est développé à l’initiative des professionnels de la petite enfance, qui souhaitaient mettre en place une action en lien avec les seniors.",
+    "date": [
+        "janvier 2014",
+        "15/04/2016",
+        "2025",
+        "2023",
+        "2014",
+        "2012",
+        "2016",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_Mamies_conteuses_un_moment_de_lecture_et_de_partage_avec_de_jeunes_enfants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_Mamies_conteuses_un_moment_de_lecture_et_de_partage_avec_de_jeunes_enfants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

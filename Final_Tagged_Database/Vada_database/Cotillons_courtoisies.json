@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: “Cotillons & courtoisies”",
+    "territoire": "Titre: “Cotillons & courtoisies” Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/439-pe-cotillons-et-courtoisie-mise-en-forme-2023.pdf  ---  --- DES ARTISTES-CLOWNS AUPRÈS DE PERSONNES ATTEINTES DE TROUBLES COGNITIFS Depuis 2007, l’association VIVRE AUX ÉCLATS met en place le programme “Cotillons & Courtoisies”, des spectacles itinérants de clowns dans les services gériatriques et les unités Alzheimer.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Du côté de l’équipe soignante, les professionnels se retrouvaient parfois démunis pour communiquer avec des résidents désorientés, une baisse de motivation pouvait alors se faire sentir en cas d’absence de progrès ou d’amélioration notoire.",
+    "description": {
+        "description_generale": "Cela débute par une présentation de l’action aux équipes de soins avec un temps d’échange avec les artistes.",
+        "contexte": "En effet, lors des interventions, un bon éveil de la part de personnes atteintes de troubles cognitifs a été constaté.",
+        "problematique": "UNE RÉPONSE ADAPTÉE ET PROGRESSIVE Pour répondre à ces besoins, plusieurs étapes préalables ont été nécessaires avant l’intervention du duo de clowns professionnels.",
+        "solution_envisagee": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com A travers ce projet, financé par la Ville de Lyon, il s’agit de proposer aux équipes une première sensibilisation à la relation ludique et sensible à travers trois temps par établissements.",
+        "objectifs": "Suite à cet événement, les directeurs de quatre EHPAD de la Ville de Lyon se sont réunis afin de découvrir le projet “Cotillons & Courtoisie”, et les animatrices de chacun de ces établissements ont été sollicitées afin de mettre en place un calendrier. “COTILLONS & COURTOISIES” Fiche PARTAGE D'EXPÉRIENCE N°439 Villes Amies des Aînés en France Association Vivre aux éclats Lyon (69) Ville Amie des Aînés depuis 2012 Fiche publiée le 21/11/2018 Proposer des espaces d’expression et de créativité par le biais de l’art clownesque."
+    },
+    "porteur_initiative": "Coût financier global: 3 300 €.  ---  --- ÉVALUATION ET BILAN D’UN PROJET EN PLEINE EXPANSION A l’issue de chaque demi-journée clownesque, un temps a été pris pour échanger avec les équipes au sujet de leur ressenti et de ce qui a été vécu avec les résidents lors du passage des clowns dans le service.",
+    "date": [
+        "21/11/2018",
+        "2025",
+        "2023",
+        "2007",
+        "2012",
+        "2018",
+        "Depuis 2007",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cotillons_courtoisies.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cotillons_courtoisies.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

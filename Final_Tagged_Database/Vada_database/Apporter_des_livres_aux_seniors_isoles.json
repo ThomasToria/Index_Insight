@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Apporter des livres aux seniors isolés",
+    "territoire": "Titre: Apporter des livres aux seniors isolés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/161-161-portage-de-livres.pdf  ---  --- UN DISPOSITIF RÉUSSI GRÂCE À UN PAR - TENARIAT L ’OPAD (une association de loisirs pour les seniors dijonnais) a établi un partenariat avec l’École Sup é- rieur de Commerce (ESC) de Dijon.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Apporter des livres aux seniors isolés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/161-161-portage-de-livres.pdf  ---  --- UN DISPOSITIF RÉUSSI GRÂCE À UN PAR - TENARIAT L ’OPAD (une association de loisirs pour les seniors dijonnais) a établi un partenariat avec l’École Sup é- rieur de Commerce (ESC) de Dijon.",
+    "description": {
+        "description_generale": "Titre: Apporter des livres aux seniors isolés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/161-161-portage-de-livres.pdf  ---  --- UN DISPOSITIF RÉUSSI GRÂCE À UN PAR - TENARIAT L ’OPAD (une association de loisirs pour les seniors dijonnais) a établi un partenariat avec l’École Sup é- rieur de Commerce (ESC) de Dijon.",
+        "contexte": "Il leur est deman dé de signaler s’ils constatent quelque chose d’anorma l: soupçon de maltraitance, pauvreté, malnutrition...",
+        "problematique": "Les former à la problématique du vieillissement et de l’isolement.",
+        "solution_envisagee": "Titre: Apporter des livres aux seniors isolés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/161-161-portage-de-livres.pdf  ---  --- UN DISPOSITIF RÉUSSI GRÂCE À UN PAR - TENARIAT L ’OPAD (une association de loisirs pour les seniors dijonnais) a établi un partenariat avec l’École Sup é- rieur de Commerce (ESC) de Dijon.",
+        "objectifs": "Rompre l’isolement.\nCréer du lien social intergénérationnel.\nPRATIQUE\nÉtablir un partenariat avec une structure fréquentée par des\nétudiants ou créer un réseau de bénévoles. Les former à la\nproblématique du vieillissement et de l’isolement. Disposer\nd’une pluralité d’ouvrages. Organiser les inscriptions et le\nportage de livres au domicile.\nOPAD\nDijon (21)\nFiche publiée le 26/05/2015\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nAUTONOMIE, SERVICES ET SOINS\nSi vous avez mis en place des projets pour\nles aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nAPPEL À CONTRIBUTION\nCULTURE ET LOISIRS"
+    },
+    "porteur_initiative": "Titre: Apporter des livres aux seniors isolés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/161-161-portage-de-livres.pdf  ---  --- UN DISPOSITIF RÉUSSI GRÂCE À UN PAR - TENARIAT L ’OPAD (une association de loisirs pour les seniors dijonnais) a établi un partenariat avec l’École Sup é- rieur de Commerce (ESC) de Dijon.",
+    "date": [
+        "26/05/2015",
+        "2025",
+        "2012",
+        "2015",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Apporter_des_livres_aux_seniors_isoles.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Apporter_des_livres_aux_seniors_isoles.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Projet évasion: casques de réalité virtuelle",
+    "territoire": "Titre: Projet évasion: casques de réalité virtuelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/912-pe-projet-evasion-casques-de-realite-virtuelle.pdf  ---  --- PLONGER AVEC LES BALEINES Le Conseil Départemental des Hauts-de-Seine propose gratuitement à l'ensemble des résidences autonomie et EHPAD du Département de tester l'utilisation de casques de réalité virtuelle.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "PROJET ÉVASION: CASQUES DE RÉALITÉ VIRTUELLE Fiche PARTAGE D'EXPÉRIENCE N°776 Villes Amies des Aînés en France Clamart Ville Amie des Aînés depuis 2022 Clamart (92) Familiariser les seniors aux outils du numérique.",
+    "description": {
+        "description_generale": "PROJET ÉVASION: CASQUES DE RÉALITÉ VIRTUELLE Fiche PARTAGE D'EXPÉRIENCE N°776 Villes Amies des Aînés en France Clamart Ville Amie des Aînés depuis 2022 Clamart (92) Familiariser les seniors aux outils du numérique.",
+        "contexte": "PROJET ÉVASION: CASQUES DE RÉALITÉ VIRTUELLE Fiche PARTAGE D'EXPÉRIENCE N°776 Villes Amies des Aînés en France Clamart Ville Amie des Aînés depuis 2022 Clamart (92) Familiariser les seniors aux outils du numérique.",
+        "problematique": "Et l'équipe d'animateur travail au quotidien pour lutter contre certains freins (peur, idées préconçues sur la réalité virtuelle).",
+        "solution_envisagee": "Titre: Projet évasion: casques de réalité virtuelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/912-pe-projet-evasion-casques-de-realite-virtuelle.pdf  ---  --- PLONGER AVEC LES BALEINES Le Conseil Départemental des Hauts-de-Seine propose gratuitement à l'ensemble des résidences autonomie et EHPAD du Département de tester l'utilisation de casques de réalité virtuelle.",
+        "objectifs": "FORMER LES AGENTS Il a fallu former les équipes, mettre en place un planning régulier et travailler au retour d'expérience afin de suivre l'activité dans le temps."
+    },
+    "porteur_initiative": "PROJET ÉVASION: CASQUES DE RÉALITÉ VIRTUELLE Fiche PARTAGE D'EXPÉRIENCE N°776 Villes Amies des Aînés en France Clamart Ville Amie des Aînés depuis 2022 Clamart (92) Familiariser les seniors aux outils du numérique.",
+    "date": [
+        "2025",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_evasion_casques_de_realite_virtuelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_evasion_casques_de_realite_virtuelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

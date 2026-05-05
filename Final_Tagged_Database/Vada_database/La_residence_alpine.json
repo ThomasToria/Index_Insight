@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: La résidence alpine",
+    "territoire": "Titre: La résidence alpine Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/736-pe-604-290422residence-alpine-nice.pdf  ---  --- UN LIEU DE VIE OUVERT Dans le cadre du réaménagement du quartier Saint-Jean d’Angely, un programme mixte réalisé en collaboration avec la Ville de Nice pour l’édification d’une crèche et de ses annexes, s’est intégré à une opération réalisée par Côte d’Azur Habitat consistant en la construction de logements sociaux et d’un foyer pour seniors.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: La résidence alpine Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/736-pe-604-290422residence-alpine-nice.pdf  ---  --- UN LIEU DE VIE OUVERT Dans le cadre du réaménagement du quartier Saint-Jean d’Angely, un programme mixte réalisé en collaboration avec la Ville de Nice pour l’édification d’une crèche et de ses annexes, s’est intégré à une opération réalisée par Côte d’Azur Habitat consistant en la construction de logements sociaux et d’un foyer pour seniors.",
+    "description": {
+        "description_generale": "Si, comme la ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "UNE STRUCTURE DURABLE La construction s’est faite dans le respect des nouvelles normes en matière de performances techniques, architecturales et réglementaires (réglementations pour les personnes handicapées, en matière d’urbanisme…) et a été réalisée dans le respect de l’environnement en répondant à différents niveaux de performance énergétique: Label H&E, Label Cerqual, Label BBC Effinergie.",
+        "problematique": "Lutter contre l’isolement et le sentiment de solitude.",
+        "solution_envisagee": "La salle polyvalente commune à la crèche et à la résidence autonomie du CCAS permet de répondre à divers objectifs, comme celui de rapprocher les différentes générations et de mieux vivre ensemble et cela étant permis par la transmission de savoirs et d’expériences, de respect mutuel, de prévention de l’isolement, prise en compte de la personnalité de la personne âgée et du maintien et de la stimulation de son autonomie.",
+        "objectifs": "Côte d’Azur Habitat mène ses programmes neufs dans une optique de développement durable, c’est-à-dire dans le but de satisfaire trois objectifs majeurs: celui d’offrir aux locataires un logement sain et performant, permettant de diminuer le coût de leurs charges et par conséquent, la volonté de diminuer les risques d’impayés et la volonté de développer un patrimoine Côte d’Azur Habitat pérenne, d’entretien aisé et limité et d’agir concrètement sur la préservation de l’environnement en limitant les consommations d’énergie et d’eau."
+    },
+    "porteur_initiative": "UNE STRUCTURE DURABLE La construction s’est faite dans le respect des nouvelles normes en matière de performances techniques, architecturales et réglementaires (réglementations pour les personnes handicapées, en matière d’urbanisme…) et a été réalisée dans le respect de l’environnement en répondant à différents niveaux de performance énergétique: Label H&E, Label Cerqual, Label BBC Effinergie.",
+    "date": [
+        "2025",
+        "2021",
+        "2015",
+        "2006",
+        "depuis 2015",
+        "depuis",
+        "depuis 2006"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_alpine.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_residence_alpine.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

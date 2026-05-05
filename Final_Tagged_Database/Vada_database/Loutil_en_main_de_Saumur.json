@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: L'outil en main de Saumur",
+    "territoire": "Titre: L'outil en main de Saumur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles-2.pdf  ---  --- FAVORISER LA TRANSMISSION DES SAVOIRS Née en 1987, l'association l'outil en main a pour but l'initiation des jeunes dès l'âge de neuf ans aux métiers manuels, par des gens de métier, artisans ou ouvriers qualifiés, bénévoles à la retraite, avec des vrais outils au sein de vrais ateliers.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Chaque enfant participe à plusieurs ateliers tout au long de l'année afin de fabriquer des objets qu'il sera fier de rapporter à la maison, ou bien participe à la conception d'une œuvre commune. \"QUAND JE SUIS À LA FORGE, JE ME FORGE MOI- MÊME\" PAUL FELLER Ces ateliers sont un lieu de rassemblement et d'éch anges entre jeunes et seniors.",
+    "description": {
+        "description_generale": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "Titre: L'outil en main de Saumur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles-2.pdf  ---  --- FAVORISER LA TRANSMISSION DES SAVOIRS Née en 1987, l'association l'outil en main a pour but l'initiation des jeunes dès l'âge de neuf ans aux métiers manuels, par des gens de métier, artisans ou ouvriers qualifiés, bénévoles à la retraite, avec des vrais outils au sein de vrais ateliers."
+    },
+    "porteur_initiative": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "octobre",
+        "octobre 2021",
+        "2025",
+        "2022",
+        "1987",
+        "2021",
+        "1700",
+        "en 1987"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Loutil_en_main_de_Saumur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Loutil_en_main_de_Saumur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

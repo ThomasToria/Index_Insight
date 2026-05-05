@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Des vacances pour les seniors Strabourgeois",
+    "territoire": "Titre: Des vacances pour les seniors Strabourgeois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/174-174-seniors-en-vacances-strasbourg.pdf  ---  --- UN PROJET PARTENARIAL Le projet « Seniors en Vacances » a été mis en plac e à Strasbourg en 2011.",
+    "echelle": [
+        "communale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Des vacances pour les seniors Strabourgeois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/174-174-seniors-en-vacances-strasbourg.pdf  ---  --- UN PROJET PARTENARIAL Le projet « Seniors en Vacances » a été mis en plac e à Strasbourg en 2011.",
+    "description": {
+        "description_generale": "Titre: Des vacances pour les seniors Strabourgeois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/174-174-seniors-en-vacances-strasbourg.pdf  ---  --- UN PROJET PARTENARIAL Le projet « Seniors en Vacances » a été mis en plac e à Strasbourg en 2011.",
+        "contexte": "Titre: Des vacances pour les seniors Strabourgeois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/174-174-seniors-en-vacances-strasbourg.pdf  ---  --- UN PROJET PARTENARIAL Le projet « Seniors en Vacances » a été mis en plac e à Strasbourg en 2011.",
+        "problematique": "LUTTER CONTRE L’ISOLEMENT DES AÎNÉS Le projet « Seniors en Vacances » a pour visée prin - cipale de lutter contre l’isolement des aînés en le ur proposant de partir en vacances à coût réduit.",
+        "solution_envisagee": "Cela permet de réaliser une action de lutte contre l’isolement qui soit la plus large possible et qui touche le pl us grand nombre.",
+        "objectifs": "Permettre à tous les retraités strasbourgeois qui le souhaitent de partir en\nvacances. Lutter contre l’isolement des aînés. Favoriser le lien social.\nPRATIQUE\nEntreprendre une action partenariale. Organiser deux séjours par\nan à destination des retraités vivant dans la ville. Trouver un lieu de\nséjour adapté. Organiser la prise en charge ¿nancière des séjours et le\ntransport. Proposer une réunion de bilan aux participants.\nSTRASBOURG\nANCV (Agence Nationale pour les Chèque Vacances)\nAJA (Agence de Tourisme Associatif)\nMALAKOFF-MÉDÉRIC\nCARSAT\nStrasbourg (67)\nFiche publiée le 07/07/2015\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nCULTURE ET LOISIRS\nSi vous avez mis en place des projets pour\nles aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "La période de Noël étant particulièrement mar - quée en Alsace, il a semblé aux porteurs du projet que cette époque de l’année était encore plus susce p- tible d’attiser l’isolement des aînés.",
+    "date": [
+        "septembre 2014",
+        "07/07/2015",
+        "2025",
+        "2011",
+        "2012",
+        "2014",
+        "2015",
+        "en 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_vacances_pour_les_seniors_Strabourgeois.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_vacances_pour_les_seniors_Strabourgeois.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

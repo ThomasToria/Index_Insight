@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Un goûter presque parfait ados/seniors",
+    "territoire": "Titre: Un goûter presque parfait ados/seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/255-pe-un-gouter-presque-parfait.pdf  ---  --- UN GOÛTER PRESQUE PARFAIT Cette action proposée par le Centre Social de Gerland consiste à proposer un après-midi où différentes équipes composées d’adolescents, puis de seniors, confectionnent plusieurs goûters.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "LA MISE EN PLACE DU PROJET L’intergénération est la base sur laquelle à été pensée l’action: les bénévoles du centre social qui s’occupent de l’action auprès des seniors ont partagé leurs idées et ont pensé que réunir les différentes génération du quartier lors d’un moment convivial pourrait créer une bonne dynamique dans l’arrondissement.",
+    "description": {
+        "description_generale": "LA MISE EN PLACE DU PROJET L’intergénération est la base sur laquelle à été pensée l’action: les bénévoles du centre social qui s’occupent de l’action auprès des seniors ont partagé leurs idées et ont pensé que réunir les différentes génération du quartier lors d’un moment convivial pourrait créer une bonne dynamique dans l’arrondissement.",
+        "contexte": "LA MISE EN PLACE DU PROJET L’intergénération est la base sur laquelle à été pensée l’action: les bénévoles du centre social qui s’occupent de l’action auprès des seniors ont partagé leurs idées et ont pensé que réunir les différentes génération du quartier lors d’un moment convivial pourrait créer une bonne dynamique dans l’arrondissement.",
+        "problematique": "LA MISE EN PLACE DU PROJET L’intergénération est la base sur laquelle à été pensée l’action: les bénévoles du centre social qui s’occupent de l’action auprès des seniors ont partagé leurs idées et ont pensé que réunir les différentes génération du quartier lors d’un moment convivial pourrait créer une bonne dynamique dans l’arrondissement.",
+        "solution_envisagee": "LA MISE EN PLACE DU PROJET L’intergénération est la base sur laquelle à été pensée l’action: les bénévoles du centre social qui s’occupent de l’action auprès des seniors ont partagé leurs idées et ont pensé que réunir les différentes génération du quartier lors d’un moment convivial pourrait créer une bonne dynamique dans l’arrondissement.",
+        "objectifs": "Une équipe de bénévoles et de professionnels du Centre Social a été montée afin de mettre en place l’action."
+    },
+    "porteur_initiative": "LA MISE EN PLACE DU PROJET L’intergénération est la base sur laquelle à été pensée l’action: les bénévoles du centre social qui s’occupent de l’action auprès des seniors ont partagé leurs idées et ont pensé que réunir les différentes génération du quartier lors d’un moment convivial pourrait créer une bonne dynamique dans l’arrondissement.",
+    "date": [
+        "29 octobre",
+        "29 octobre 2015",
+        "octobre",
+        "octobre 2015",
+        "2025",
+        "2015",
+        "2009",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_gouter_presque_parfait_adosseniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_gouter_presque_parfait_adosseniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

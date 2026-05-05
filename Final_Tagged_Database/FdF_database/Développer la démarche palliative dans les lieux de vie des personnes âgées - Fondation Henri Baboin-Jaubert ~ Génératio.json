@@ -1,0 +1,46 @@
+{
+    "titre": "Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Générations Solidaires",
+    "territoire": "Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Générations Solidaires  https://www.fondationdefrance.org/fr/actualites-de-fondations/developper-la-demarche-palliative-dans-les-lieux-de-vie-des-personnes-agees-fondation-henri-baboin-jaubert-generations-solidaires  Qui sommes-nous?",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Organisé par le Groupement de Coopération Sanitaire Maison des Réseaux de santé de l’Isère, le vendredi 1 er juin 2018, le colloque portait sur les moyens de développer les soins palliatifs à domicile et en Ehpad: informer, former les équipes, créer des réseaux pour que les médecins traitants, ainsi que les patients, leurs familles et les professionnels sachent à qui s'adresser et comment faire pour une intervention rapide. « Mourir comme à la maison » à l’établissement Le Mas des Champs Lors de la cérémonie de remise des Lauriers 2018 de Lyon, la Fondation Henri Baboin-Jaubert ~ Générations Solidaires a attribué son Prix « Coup de Cœur » à l’établissement Le Mas des Champs pour sa démarche en soins palliatifs.",
+    "description": {
+        "description_generale": "De plus, elle s’intéresse aux projets menés en faveur des personnes âgées, et c’est pour cela que la Fondation Henri Baboin-Jaubert ~ Générations Solidaires s’est appuyée sur l’expertise de la Fondation de France pour la création d’un appel à projets visant à identifier et à soutenir des initiatives de proximité menées dans la région Rhône-Alpes en faveur des personnes âgées.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "En effet, d'autres solutions existent: HAD, équipe mobile de soins palliatifs, réseau de santé...",
+        "objectifs": "Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Générations Solidaires  https://www.fondationdefrance.org/fr/actualites-de-fondations/developper-la-demarche-palliative-dans-les-lieux-de-vie-des-personnes-agees-fondation-henri-baboin-jaubert-generations-solidaires  Qui sommes-nous?"
+    },
+    "porteur_initiative": "Organisé par le Groupement de Coopération Sanitaire Maison des Réseaux de santé de l’Isère, le vendredi 1 er juin 2018, le colloque portait sur les moyens de développer les soins palliatifs à domicile et en Ehpad: informer, former les équipes, créer des réseaux pour que les médecins traitants, ainsi que les patients, leurs familles et les professionnels sachent à qui s'adresser et comment faire pour une intervention rapide. « Mourir comme à la maison » à l’établissement Le Mas des Champs Lors de la cérémonie de remise des Lauriers 2018 de Lyon, la Fondation Henri Baboin-Jaubert ~ Générations Solidaires a attribué son Prix « Coup de Cœur » à l’établissement Le Mas des Champs pour sa démarche en soins palliatifs.",
+    "date": [
+        "juin 2018",
+        "1981",
+        "2018",
+        "Depuis 1981"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

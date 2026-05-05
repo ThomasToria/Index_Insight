@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Viens je t'emmène.....danser!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1124-pe-viens-je-t-emmene-danser-1-2.pdf  ---  --- UNE ACTION DÉJÀ PÉRENNE Organisé depuis septembre 2014 par le CCAS de la commune de Chamalières, le thé dansant entend réunir les aînés qui le souhaitent lors d’un moment festif et de partage.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Il permet aux personnes âgées de se retrouver un dimanche après-midi à l’occasion d’un moment convivial et favorise la constitution d’un réseau de solidarité.",
+    "description": {
+        "description_generale": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1124-pe-viens-je-t-emmene-danser-1-2.pdf  ---  --- UNE ACTION DÉJÀ PÉRENNE Organisé depuis septembre 2014 par le CCAS de la commune de Chamalières, le thé dansant entend réunir les aînés qui le souhaitent lors d’un moment festif et de partage.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1124-pe-viens-je-t-emmene-danser-1-2.pdf  ---  --- UNE ACTION DÉJÀ PÉRENNE Organisé depuis septembre 2014 par le CCAS de la commune de Chamalières, le thé dansant entend réunir les aînés qui le souhaitent lors d’un moment festif et de partage.",
+        "problematique": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1124-pe-viens-je-t-emmene-danser-1-2.pdf  ---  --- UNE ACTION DÉJÀ PÉRENNE Organisé depuis septembre 2014 par le CCAS de la commune de Chamalières, le thé dansant entend réunir les aînés qui le souhaitent lors d’un moment festif et de partage.",
+        "solution_envisagee": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1124-pe-viens-je-t-emmene-danser-1-2.pdf  ---  --- UNE ACTION DÉJÀ PÉRENNE Organisé depuis septembre 2014 par le CCAS de la commune de Chamalières, le thé dansant entend réunir les aînés qui le souhaitent lors d’un moment festif et de partage.",
+        "objectifs": "OFFRIR UN MOMENT DE QUALITÉ Afin de mettre en place le projet, une étude logistique a été nécessaire afin de trouver l’artiste qui animait l’après-midi."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1124-pe-viens-je-t-emmene-danser-1-2.pdf  ---  --- UNE ACTION DÉJÀ PÉRENNE Organisé depuis septembre 2014 par le CCAS de la commune de Chamalières, le thé dansant entend réunir les aînés qui le souhaitent lors d’un moment festif et de partage.",
+    "date": [
+        "septembre 2014",
+        "2025",
+        "1124",
+        "2014",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_danser.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Viens_je_temmene_danser.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

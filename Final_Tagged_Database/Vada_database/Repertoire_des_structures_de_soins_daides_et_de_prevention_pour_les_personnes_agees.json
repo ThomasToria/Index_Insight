@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Répertoire des structures de soins, d'aides et de prévention pour les personnes âgées",
+    "territoire": "Titre: Répertoire des structures de soins, d'aides et de prévention pour les personnes âgées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/678-pe-546-repertoire-geronto-saint-priest.pdf  ---  --- RÉPERTORIER LES AIDES En 2015, une instance de coordination des acteurs intervenant dans le secteur de la gérontologie a été initiée par le CCAS et la Métropole de Saint Priest.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Faciliter l’orientation des personnes âgées ou de leurs aidants.",
+    "description": {
+        "description_generale": "La volonté de travailler en groupe projet avec les acteurs, pour faciliter la connaissance des dispositifs existants a participé à la création d’un guide répertoriant l’ensemble des dispositifs destinés aux personnes âgées afin de faciliter la connaissance des acteurs, l’information et l’orientation.",
+        "contexte": "Coût des impressions: 800 €.  ---  --- groupe de travail spécifique de professionnels (composé des chefs de service du CCAS, de la Métropole).",
+        "problematique": "Des difficultés ont aussi été rencontrées quant à l’actualisation du document.",
+        "solution_envisagee": "Améliorer le parcours de soins des seniors et éviter les ruptures d’accompagnement.",
+        "objectifs": "La volonté de travailler en groupe projet avec les acteurs, pour faciliter la connaissance des dispositifs existants a participé à la création d’un guide répertoriant l’ensemble des dispositifs destinés aux personnes âgées afin de faciliter la connaissance des acteurs, l’information et l’orientation."
+    },
+    "porteur_initiative": "Coût des impressions: 800 €.  ---  --- groupe de travail spécifique de professionnels (composé des chefs de service du CCAS, de la Métropole).",
+    "date": [
+        "mai 2016",
+        "décembre 2016",
+        "février 2017",
+        "mars",
+        "mars 2017",
+        "2025",
+        "2015",
+        "2016",
+        "2017",
+        "2019",
+        "depuis 2019",
+        "En 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Repertoire_des_structures_de_soins_daides_et_de_prevention_pour_les_personnes_agees.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Repertoire_des_structures_de_soins_daides_et_de_prevention_pour_les_personnes_agees.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

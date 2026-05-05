@@ -1,0 +1,41 @@
+{
+    "titre": "Arlon 2025",
+    "territoire": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°1 Mobilités Quoi?Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d’Arlon.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Pour qui?Usagers des transports en commun Où et quand?Commune d’Arlon, période scolaire et hors scolaire, ainsi que le samediDESCRIPTIONQuoi?Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d’Arlon.",
+    "description": {
+        "description_generale": "ObjectifsAméliorer les services de transportsAugmenter le nombre de nouveaux usagersRéduction du trafic automobile dans la commune d’ArlonAméliorer la fréquentation des transports en commun en soirée et dans les villagesObjectifsAméliorer les services de transportsAugmenter le nombre de nouveaux usagersRéduction du trafic automobile dans la commune d’ArlonAméliorer la fréquentation des transports en commun en soirée et dans les villagesIndicateurs de réussiteRésultats de l’enquête Amélioration des services Augmentation du niveau de satisfaction des usagersIndicateurs de réussiteRésultats de l’enquête Amélioration des services Augmentation du niveau de satisfaction des usagersHumaines: Un.e chargé.e d’enquête entre la commune et le TECMatérielles: Affiches et communication papier Information et communication:Diffusion dans les abris, à l’information communale et aux dépôts TECFinancières:Concertation entre la commune et le Service Wallon des Transports en Communs RESSOURCESHumaines: Un.e chargé.e d’enquête entre la commune et le TECMatérielles: Affiches et communication papier Information et communication:Diffusion dans les abris, à l’information communale et aux dépôts TECFinancières:Concertation entre la commune et le Service Wallon des Transports en Communs RESSOURCES",
+        "contexte": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°1 Mobilités Quoi?Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d’Arlon.",
+        "problematique": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°1 Mobilités Quoi?Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d’Arlon.",
+        "solution_envisagee": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°1 Mobilités Quoi?Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d’Arlon.",
+        "objectifs": "Améliorer les services de transports\nAugmenter le nombre de nouveaux usagers\nRéduction du trafic automobile dans la commune d’Arlon\nAméliorer la fréquentation des transports en commun en soirée et dans les villages\nIndicateurs de réussite\nRésultats de l’enquête\nAmélioration des services\nAugmentation du niveau de satisfaction des usagers\nHumaines:\nUn.e chargé.e d’enquête entre la commune et le TEC\nMatérielles:\nAffiches et communication papier\nInformation et communication:\nDiffusion dans les abris, à l’information communale et aux dépôts TEC\nFinancières:\nConcertation entre la commune et le Service Wallon des Transports en Communs\nRESSOURCES"
+    },
+    "porteur_initiative": "Arlon 2025 MobilitésMobilitésFICHE-ACTION N°1 Mobilités Quoi?Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d’Arlon.",
+    "date": [
+        "2025"
+    ],
+    "thematique": [
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_1.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FICHE_Arlon_1.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.95,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

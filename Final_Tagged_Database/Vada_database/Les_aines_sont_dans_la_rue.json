@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Les aînés sont dans la rue!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/696-pe-les-aines-sont-dans-la-rue-1.pdf  ---  --- UN FLASHMOB POUR TOUS Avant le contexte sanitaire lié à la Covid, il était organisé mensuellement des thés dansants à destination des seniors dans la ville de Béziers.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Valoriser les seniors lors de représentations qu'ils réalisent sur le domaine public.",
+    "description": {
+        "description_generale": "Si, comme L'office des seniors de la ville de Bézie rs, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/696-pe-les-aines-sont-dans-la-rue-1.pdf  ---  --- UN FLASHMOB POUR TOUS Avant le contexte sanitaire lié à la Covid, il était organisé mensuellement des thés dansants à destination des seniors dans la ville de Béziers.",
+        "problematique": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/696-pe-les-aines-sont-dans-la-rue-1.pdf  ---  --- UN FLASHMOB POUR TOUS Avant le contexte sanitaire lié à la Covid, il était organisé mensuellement des thés dansants à destination des seniors dans la ville de Béziers.",
+        "solution_envisagee": "Fiche PARTAGE D'EXPÉRIENCE N°565 Villes Amies des Aînés en France L'office des seniors (CCAS) À Béziers (34) Ville Amie des Aînés depuis2019 Proposer une activité physique, régulière, conviviale et adaptée aux seniors.",
+        "objectifs": "Certains agents du CCAS ont participé au flash mob, pour renforcer le lien avec les seniors."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/696-pe-les-aines-sont-dans-la-rue-1.pdf  ---  --- UN FLASHMOB POUR TOUS Avant le contexte sanitaire lié à la Covid, il était organisé mensuellement des thés dansants à destination des seniors dans la ville de Béziers.",
+    "date": [
+        "2025",
+        "2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aines_sont_dans_la_rue.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_aines_sont_dans_la_rue.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

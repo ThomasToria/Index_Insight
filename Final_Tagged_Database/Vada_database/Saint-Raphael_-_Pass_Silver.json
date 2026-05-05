@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Saint-Raphaël - Pass Silver",
+    "territoire": "Titre: Saint-Raphaël - Pass Silver Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1002-concours-2023-saint-raphael-pass-silver.pdf  ---  --- UN PROJET INITIÉ EN SEPTEMBRE 2017 Saint-Raphaël est une station balnéaire prisée.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "La ville, par le biais du service public, propose d'accompagner ces jeunes seniors.",
+    "description": {
+        "description_generale": "Titre: Saint-Raphaël - Pass Silver Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1002-concours-2023-saint-raphael-pass-silver.pdf  ---  --- UN PROJET INITIÉ EN SEPTEMBRE 2017 Saint-Raphaël est une station balnéaire prisée.",
+        "contexte": "L'adhérent, malgré des absences acceptées, peut ainsi voir son évolution et constater de réels progrès.",
+        "problematique": "Lutter contre l'isolement et le repli sur soi en favorisant la communication et les relations entre personnes afin de créer du lien pour une relation conviviale.",
+        "solution_envisagee": "La ville, par le biais du service public, propose d'accompagner ces jeunes seniors.",
+        "objectifs": "Le projet souhaite développer une offre complémentaire et synergique à celle de ses partenaires publics (CCAS) et privés."
+    },
+    "porteur_initiative": "Titre: Saint-Raphaël - Pass Silver Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1002-concours-2023-saint-raphael-pass-silver.pdf  ---  --- UN PROJET INITIÉ EN SEPTEMBRE 2017 Saint-Raphaël est une station balnéaire prisée.",
+    "date": [
+        "SEPTEMBRE 2017",
+        "2025",
+        "1002",
+        "2023",
+        "2017",
+        "2013",
+        "2022",
+        "depuis 2022",
+        "en 2013",
+        "en 2023",
+        "En 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-Raphael_-_Pass_Silver.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Saint-Raphael_-_Pass_Silver.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

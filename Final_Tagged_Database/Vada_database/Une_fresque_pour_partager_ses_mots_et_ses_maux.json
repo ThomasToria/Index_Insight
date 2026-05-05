@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Une fresque pour partager ses mots et ses maux",
+    "territoire": "Titre: Une fresque pour partager ses mots et ses maux Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/105-pe-une-fresque-pour-partager-ses-mots-et-ses-maux-mise-en-forme-2023.pdf  ---  --- SORTIR LES JEUNES DE LEUR QUARTIER La ville de Besançon travaille depuis 2004 avec les adolescents issus d’un des plus grands quartiers populaire situé en périphérie de la ville.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Un document papier certes précieux mais peu visible des habitants.",
+    "description": {
+        "description_generale": "Un projet complet mêlant rédaction d’une charte, création d’une fresque et réalisation d’un film.",
+        "contexte": "Connu de tous mais pas toujours de manière positive en raison de certains tags peu esthétiques, les jeunes ont finalement réussi à convaincre les personnes âgées pour s’engager dans un projet artistique issu du graff.",
+        "problematique": "FAIRE FACE AUX DIFFICULTÉS RENCONTRÉES Le plus délicat a été de trouver le mur adéquat.",
+        "solution_envisagee": "Des changements qui ont multiplié les échanges entre anciens et jeunes pour faire émerger des solutions.",
+        "objectifs": "L’objectif de la ville de faire découvrir des mondes inconnus, ceux des autres générations était rempli."
+    },
+    "porteur_initiative": "Coût: environ 12 000€  ---  --- PLUS QU’UN PROJET UN GROUPE UNI La réalisation a duré quelques jours pendant lesquels les relations jeunes-anciens laissaient place à une simple relation de groupe laissant apparaître la notion d’entraide.",
+    "date": [
+        "2025",
+        "2023",
+        "2004",
+        "2012",
+        "2011",
+        "2014",
+        "depuis 2004",
+        "depuis 2011",
+        "depuis 2014",
+        "En 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_fresque_pour_partager_ses_mots_et_ses_maux.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_fresque_pour_partager_ses_mots_et_ses_maux.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

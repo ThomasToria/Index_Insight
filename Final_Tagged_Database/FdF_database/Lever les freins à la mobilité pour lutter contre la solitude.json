@@ -1,0 +1,51 @@
+{
+    "titre": "Lever les freins à la mobilité pour lutter contre la solitude",
+    "territoire": "Car avec le développement des métropoles, le déplacement des emplois à la périphérie des villes, le coût du logement, la démocratisation de la voiture, la réorganisation des services publics… tout converge depuis 50 ans pour faire de la mobilité une norme sociale incontournable.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Face à l’éloignement des services publics et au développement de l’e-administration, l’existence de zones blanches constitue un véritable empêchement pour les personnes isolées, notamment des territoires ruraux.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "Un constat inquiétant, dévoilé par l’Observatoire de la philanthropie dans son étude Solitudes 2019, avec cette année un focus sur la mobilité.",
+        "problematique": "La mobilité, facteur clef de sociabilité Cette année, la Fondation de France et le Crédoc ont voulu explorer plus précisément les enjeux de mobilité face à l'isolement.",
+        "solution_envisagee": "Il leur propose également la location de voitures à moindre coût.",
+        "objectifs": "Ce projet qui vise à favoriser la mobilité et l’accès à l’emploi, en crée également: sept salariés animent aujourd’hui le garage."
+    },
+    "porteur_initiative": "Aider à la mobilité et à l'emploi avec le garage solidaire du bassin minier Cette idée a été portée par des jeunes soucieux de répondre à la problématique de mobilité sur leur territoire.",
+    "date": [
+        "2019",
+        "2010",
+        "2016",
+        "Depuis 2010",
+        "en 2019"
+    ],
+    "thematique": [
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Lever les freins à la mobilité pour lutter contre la solitude.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Lever les freins à la mobilité pour lutter contre la solitude.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

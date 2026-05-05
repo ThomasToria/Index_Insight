@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Soins pour tous",
+    "territoire": "Titre: Soins pour tous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/673-pe-541-soin-pour-tous-saint-priest.pdf  ---  --- UN DISPOSITIF D’ACCOMPAGNEMENT AUX SOINS POUR TOUS Le diagnostic santé réalisé par la Ville de Saint-Priest a démontré qu’une partie des personnes âgées sont en situation de précarité et d’isolement.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Soins pour tous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/673-pe-541-soin-pour-tous-saint-priest.pdf  ---  --- UN DISPOSITIF D’ACCOMPAGNEMENT AUX SOINS POUR TOUS Le diagnostic santé réalisé par la Ville de Saint-Priest a démontré qu’une partie des personnes âgées sont en situation de précarité et d’isolement.",
+    "description": {
+        "description_generale": "UNE INITIATIVE PERMISE PAR LA COOPÉRATION Pour communiquer autour de l’action, une plaquette a été envoyée à tous les partenaires et des présentations régulières du dispositif ont été organisées dans les réunions d’équipes des structures partenaires.",
+        "contexte": "Face à ces constats, le projet des « soins pour tous » a été mis en place en 2013.",
+        "problematique": "Les difficultés de maintien à domicile, les coûts et délais d’attente pour l’entrée en EHPAD entraînent des situations complexes d'isolement mais entraînent aussi des abandons de soins.",
+        "solution_envisagee": "SOINS POUR TOUS Fiche PARTAGE D'EXPÉRIENCE N°541 Villes Amies des Aînés en France Ville de Saint-Priest Ville adhérente depuis 2019 Saint-Priest (69) Proposer un accompagnement individualisé aux soins pour les populations les plus précaires ou les plus éloignées du système médical actuel.",
+        "objectifs": "L’objectif est de permettre aux personnes les plus défavorisées et éloignées des soins, d’accéder à une prise en charge sanitaire et sociale dans la recherche d’un bien-être physique, psychique et social où chacun peut être acteur."
+    },
+    "porteur_initiative": "Coût financier global: 21 000 €.  ---  --- UN ACCOMPAGNEMENT QUI ÉVOLUE ET QUI S’ADAPTE Le co-accompagnement médico-social porté par les professionnels, que ce soit le CCAS ou l’association Santé aujourd’hui, prend toute son importance face aux situations de plus en plus complexes.",
+    "date": [
+        "2025",
+        "2013",
+        "2019",
+        "depuis 2019",
+        "en",
+        "en 2013"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soins_pour_tous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Soins_pour_tous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.65,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

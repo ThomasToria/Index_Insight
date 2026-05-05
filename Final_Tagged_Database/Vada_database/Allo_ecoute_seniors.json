@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Allô écoute seniors",
+    "territoire": "Titre: Allô écoute seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/856-pe-allo-ecoute-seniors.pdf  ---  --- ROMPRE L'ISOLEMENT La crise sanitaire due à la COVID 2019 a isolé un grand nombre de seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "COMMUNICATION SUR L'ACTION En parallèle, du service, des associations et professionnels œuvrant auprès des seniors aident à la diffusion de l'information (CCAS, Espace de Vie Solidaire, associations de loisirs...).",
+    "description": {
+        "description_generale": "Les appelants sont sensibilisés aux problématiques des seniors et informés des dispositifs existants en faveur des ainés, ainsi que des projets et actions de la Ville afin de pouvoir apporter un échange de qualité.",
+        "contexte": "Titre: Allô écoute seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/856-pe-allo-ecoute-seniors.pdf  ---  --- ROMPRE L'ISOLEMENT La crise sanitaire due à la COVID 2019 a isolé un grand nombre de seniors.",
+        "problematique": "ALLÔ ECOUTE SENIORS Fiche PARTAGE D'EXPÉRIENCE N°721 Villes Amies des Aînés en France Maxéville Ville Amie des Aînés depuis 2019 Maxéville (54) Publiée le 30.08.2023 Rompre l’isolement des seniors vivants seuls; Favoriser le maintien à domicile dans de bonnes conditions; Identifier les besoins des seniors.",
+        "solution_envisagee": "MISE EN PLACE DU SERVICE D'APPEL L'association d'insertion Rebond a mis à disposition deux agents pour passer les appels aux seniors.",
+        "objectifs": "La municipalité de Maxéville a alors souhaité travailler en urgence un service qui permettrait aux maxévillois de 60 ans et plus de recevoir, à leur convenance, des appels téléphoniques afin de rompre l'isolement et de détecter éventuellement des situations d'urgence."
+    },
+    "porteur_initiative": "Titre: Allô écoute seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/856-pe-allo-ecoute-seniors.pdf  ---  --- ROMPRE L'ISOLEMENT La crise sanitaire due à la COVID 2019 a isolé un grand nombre de seniors.",
+    "date": [
+        "2025",
+        "2019",
+        "2023",
+        "2020",
+        "depuis 2019",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Allo_ecoute_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Allo_ecoute_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

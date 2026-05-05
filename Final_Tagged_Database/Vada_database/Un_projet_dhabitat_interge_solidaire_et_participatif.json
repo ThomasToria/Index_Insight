@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Un projet d’habitat intergé, solidaire et participatif",
+    "territoire": "Titre: Un projet d’habitat intergé, solidaire et participatif Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/437-pe-projet-d-habitat-interge-solidaire.pdf  ---  --- SOLIDARITÉ, INTERGÉNÉRATION ET “VIVRE ENSEMBLE“ L’association Chers Voisins Les Platanes est née en 2014 et constitue le premier projet issu du partenariat entre le bureau d’ingénierie sociale Récipro-Cité et le Groupe Logement Français.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Les personnes âgées ou vieillissantes font partie des publics les plus en demande de ces services.",
+    "description": {
+        "description_generale": "Ces actions sont structurées en clubs, à gouvernance participative: chaque projet est porté par un ou deux référents.",
+        "contexte": "Les habitants sont acteurs de leur lieu de vie: ils pensent, décident et font collectivement dans le respect des besoins et capacités de chacun.",
+        "problematique": "Parmi ceux-ci, la Conciergerie Participative a pour vocation de mettre à disposition de tous les adhérents un environnement de services répondant aux trois enjeux sociétaux identifiés par Chers Voisins: préserver le pouvoir d’achat, encourager la convivialité et le lien social intergénérationnel, faciliter le maintien à domicile et le bien vivre chez soi pour tous, donner aux personnes âgées de bonnes conditions de vie à domicile.",
+        "solution_envisagee": "Une veille est réalisée par la gestionnaire-animatrice: temps d’échange, accompagnement sur les trajets, communication plus personnalisée… Des temps de convivialité sont organisés régulièrement (repas partagés, cafés…), favorisant les échanges intergénérationnels.",
+        "objectifs": "Son objectif est de mettre en place des actions concrètes permettant de développer le lien social, l’entraide et la solidarité entre voisins de résidence ou d’un quartier."
+    },
+    "porteur_initiative": "Ces actions sont structurées en clubs, à gouvernance participative: chaque projet est porté par un ou deux référents.",
+    "date": [
+        "2025",
+        "2014",
+        "2016",
+        "depuis 2016",
+        "Depuis 2014",
+        "en 2014"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_dhabitat_interge_solidaire_et_participatif.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_projet_dhabitat_interge_solidaire_et_participatif.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

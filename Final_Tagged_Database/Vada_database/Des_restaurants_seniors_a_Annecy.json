@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Des restaurants seniors à Annecy",
+    "territoire": "Titre: Des restaurants seniors à Annecy Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1082-pe-des-restaurants-seniors-a-annecy-3.pdf  ---  --- UN SERVICE OUVERT DEPUIS 1961 Le premier restaurant seniors a ouvert à Annecy en 1961.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En effet, la grande majorité des usagers des restaurants seniors ont de faibles, voir très faibles, ressources, et 31% des seniors inscrits bénéficient du tarif le plus bas.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Annecy, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Des restaurants seniors à Annecy Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1082-pe-des-restaurants-seniors-a-annecy-3.pdf  ---  --- UN SERVICE OUVERT DEPUIS 1961 Le premier restaurant seniors a ouvert à Annecy en 1961.",
+        "problematique": "Les cuisiniers sont aidés d’une nutritionniste, pour proposer des repas équilibrés, savoureux, et adaptés aux besoins des seniors.",
+        "solution_envisagee": "Trois restaurants proposent une navette pour permettre aux usagers ne pouvant plus le faire par leurs propres moyens de venir manger au restaurant.",
+        "objectifs": "Titre: Des restaurants seniors à Annecy Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1082-pe-des-restaurants-seniors-a-annecy-3.pdf  ---  --- UN SERVICE OUVERT DEPUIS 1961 Le premier restaurant seniors a ouvert à Annecy en 1961."
+    },
+    "porteur_initiative": "Titre: Des restaurants seniors à Annecy Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1082-pe-des-restaurants-seniors-a-annecy-3.pdf  ---  --- UN SERVICE OUVERT DEPUIS 1961 Le premier restaurant seniors a ouvert à Annecy en 1961.",
+    "date": [
+        "septembre 2023",
+        "2025",
+        "1082",
+        "1961",
+        "2024",
+        "1950",
+        "2023",
+        "DEPUIS 1961",
+        "depuis 2024",
+        "en 1961"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_restaurants_seniors_a_Annecy.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_restaurants_seniors_a_Annecy.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Politique de l’autonomie, mobilités résidentielles et aménagements du territoire",
+    "territoire": "Il est plus complexe de bâtir une stratégie qui intègre Résidence autonomie, Résidences seniors, Habitat ou quartier inclusif, logements accessibles et Ehpad aux politiques de revitalisation des territoires, et de concevoir les schémas d’autonomie comme des aménagements du territoire.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Politique de l’autonomie, mobilités résidentielles et aménagements du territoire Sous-titre: Rapport adopté le 8 juillet 2021 Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge Imprimer Courriel Linkedin Facebook Twitter Bluesky Politique de l’autonomie, mobilités résidentielles et aménagements du territoire Rapport adopté le 8 juillet 2021 Publié le 20/07/2021 | Temps de lecture: 2 minutes Conseil de l'âge Rapports Programmer des places d’Ehpad est usuel.",
+    "description": {
+        "description_generale": "On suggère d’étudier le financement de postes de chefs de projets et de soutien à l’ingénierie « habitat adapté au vieillissement », mutualisés entre EPCI d’un département.",
+        "contexte": "Axe 3: étudier la mise en place d’aides à la mobilité résidentielle pour compléter le volet de l’aménagement des logements individuels Le Conseil propose d’intégrer ces préoccupations dans l’instruction des demandes d’APA et à l’ouverture de dossier pour un aménagement du logement, et d’étudier la mise en place d’une prestation légale.",
+        "problematique": "À côté des enjeux nationaux de rémunération, conditions de travail et formation du secteur, qui sont premiers, la question est celle du partenariat et de la mutualisation/spatialisation entre acteurs, à la bonne échelle territoriale de proximité.",
+        "solution_envisagee": "Axe 3: étudier la mise en place d’aides à la mobilité résidentielle pour compléter le volet de l’aménagement des logements individuels Le Conseil propose d’intégrer ces préoccupations dans l’instruction des demandes d’APA et à l’ouverture de dossier pour un aménagement du logement, et d’étudier la mise en place d’une prestation légale.",
+        "objectifs": "Axe 2: le rôle des départements pour développer un volet spatial de connaissances des travailleurs du care pour favoriser une offre de services cohérente avec le PLH Il faut développer le suivi des plans APA et de l’offre de services mobilisable dans le département, le partager avec les porteurs du PLH et apprécier les tensions en emploi d’aides à domicile, si possible à un niveau communal ou d’EPCI."
+    },
+    "porteur_initiative": "Axe 2: le rôle des départements pour développer un volet spatial de connaissances des travailleurs du care pour favoriser une offre de services cohérente avec le PLH Il faut développer le suivi des plans APA et de l’offre de services mobilisable dans le département, le partager avec les porteurs du PLH et apprécier les tensions en emploi d’aides à domicile, si possible à un niveau communal ou d’EPCI.",
+    "date": [
+        "8 juillet 2021",
+        "juillet 2021",
+        "20/07/2021",
+        "2021",
+        "2030"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Politique de lautonomie, mobilités résidentielles .txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Politique de lautonomie, mobilités résidentielles .json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

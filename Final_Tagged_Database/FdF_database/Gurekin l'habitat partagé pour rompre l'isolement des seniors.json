@@ -1,0 +1,51 @@
+{
+    "titre": "Gurekin: l'habitat partagé pour rompre l’isolement des seniors",
+    "territoire": "Les résidents co-construisent le lieu où ils vont vivre dans le cadre d'un atelier. © D.R.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Fondée en 2018 et soutenue par la Fondation de France dans le cadre de son programme Personnes âgées, cette association explore des solutions innovantes pour l’habitat des seniors.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Affiliée au réseau national HAPA (Habitat Partagé et Accompagné) depuis 2021, elle mène actuellement trois projets d'habitat partagé au Pays basque, situés à Urt, Hasparren et Urcuit. « L'habitat partagé proposé par Gurekin répond avant tout à un besoin crucial: rompre avec la solitude et l’isolement, souvent ressentis par les personnes âgées.",
+        "solution_envisagee": "Fondée en 2018 et soutenue par la Fondation de France dans le cadre de son programme Personnes âgées, cette association explore des solutions innovantes pour l’habitat des seniors.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "Gurekin: l'habitat partagé pour rompre l’isolement des seniors  https://www.fondationdefrance.org/fr/cat-fondation-de-france-sud-ouest/gurekin-lhabitat-participatif-pour-lutter-contre-lisolement-des-seniors  Qui sommes-nous?",
+    "date": [
+        "décembre 2024",
+        "2018",
+        "2021",
+        "2024",
+        "depuis 2021",
+        "en 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Gurekin l'habitat partagé pour rompre l'isolement des seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Gurekin l'habitat partagé pour rompre l'isolement des seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

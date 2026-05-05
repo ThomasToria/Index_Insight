@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Carte avantage seniors",
+    "territoire": "Titre: Carte avantage seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/656-pe-524-carte-avantage-seniors-morteau.pdf  ---  --- AGRANDIR L’OFFRE DE SERVICES ALLOUÉE AUX SENIORS Dans un contexte de fermeture de boutiques en centre-ville, la Ville de Morteau a lancé, grâce à la participation de nombreux commerçants, sa première carte avantages Seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Coût total: 5 200 €.  ---  --- Les recettes s'élèvent quant à elles à 2 000€ pour la vente des cartes seniors.",
+    "description": {
+        "description_generale": "LES PERSPECTIVES DE L'INITIATIVE Une rencontre aura lieu avec les commerçants pour avoir leur retour positif et négatif sur cette action, en vue de réitérer cette action pour l’année suivante.",
+        "contexte": "Titre: Carte avantage seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/656-pe-524-carte-avantage-seniors-morteau.pdf  ---  --- AGRANDIR L’OFFRE DE SERVICES ALLOUÉE AUX SENIORS Dans un contexte de fermeture de boutiques en centre-ville, la Ville de Morteau a lancé, grâce à la participation de nombreux commerçants, sa première carte avantages Seniors.",
+        "problematique": "Cette initiative permet au CCAS d’aller à la rencontre des commerçants et d’échanger sur leurs besoins, leur vision de la ville, mais aussi de rencontrer les seniors qui viennent acheter leurs cartes, certains prenant le temps de discuter.",
+        "solution_envisagee": "Valable du premier septembre au 31 août, elle propose des réductions toute l’année ou des avantages découverte recevables une seule fois sur présentation du coupon à détacher du chéquier de réduction.",
+        "objectifs": "Favoriser le pouvoir d’achat des seniors."
+    },
+    "porteur_initiative": "Coût total: 5 200 €.  ---  --- Les recettes s'élèvent quant à elles à 2 000€ pour la vente des cartes seniors.",
+    "date": [
+        "2025",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_avantage_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Carte_avantage_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

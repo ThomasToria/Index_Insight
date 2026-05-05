@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Aide aux aidants TUTO'NOMIE",
+    "territoire": "LA FINALITÉ • Rassurer et soutenir la gestion du quotidien pour les aidants via de courts tutoriels vidéo. • Permettre de créer un lieu d’échanges et de réponses aux questions sur des thématiques trop complexes à aborder dans un tutoriel de quelques minutes.",
+    "echelle": [],
+    "public_vise": "Titre: Aide aux aidants TUTO'NOMIE Pages: 67  Aide aux aidants TUTO'NOMIE LES ACTEURS Porteur(s) de la pépite: Humagogie.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE Tuto'nomie est composé de: • tutoriels de vidéos gratuits, ludiques et éducatifs destinés à des aidants.",
+        "contexte": "Titre: Aide aux aidants TUTO'NOMIE Pages: 67  Aide aux aidants TUTO'NOMIE LES ACTEURS Porteur(s) de la pépite: Humagogie.",
+        "problematique": "Titre: Aide aux aidants TUTO'NOMIE Pages: 67  Aide aux aidants TUTO'NOMIE LES ACTEURS Porteur(s) de la pépite: Humagogie.",
+        "solution_envisagee": "LA FINALITÉ • Rassurer et soutenir la gestion du quotidien pour les aidants via de courts tutoriels vidéo. • Permettre de créer un lieu d’échanges et de réponses aux questions sur des thématiques trop complexes à aborder dans un tutoriel de quelques minutes.",
+        "objectifs": "LA FINALITÉ • Rassurer et soutenir la gestion du quotidien pour les aidants via de courts tutoriels vidéo. • Permettre de créer un lieu d’échanges et de réponses aux questions sur des thématiques trop complexes à aborder dans un tutoriel de quelques minutes."
+    },
+    "porteur_initiative": "Titre: Aide aux aidants TUTO'NOMIE Pages: 67  Aide aux aidants TUTO'NOMIE LES ACTEURS Porteur(s) de la pépite: Humagogie.",
+    "date": [
+        "avril 2021",
+        "mars 2023",
+        "31/03/2023",
+        "2018",
+        "2021",
+        "2023",
+        "Depuis 2018",
+        "Depuis 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "habitat",
+        "mobilité",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\33_Aide_aux_aidants_TUTONOMIE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\33_Aide_aux_aidants_TUTONOMIE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.0,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

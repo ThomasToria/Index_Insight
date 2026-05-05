@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Centre Communal de Santé de Saumur",
+    "territoire": "Titre: Centre Communal de Santé de Saumur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/561-pe-centre-communal-de-sante-de-saumur-mise-a-jour-2023.pdf  ---  --- Afin de garantir l'égalité d'accès aux soins et donc pallier au manque de médecin sur le territoire, la Ville de Saumur (26 734 habitants) a décidé de mettre en œuvre un centre communal de santé situé dans le quartier prioritaire.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Centre Communal de Santé de Saumur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/561-pe-centre-communal-de-sante-de-saumur-mise-a-jour-2023.pdf  ---  --- Afin de garantir l'égalité d'accès aux soins et donc pallier au manque de médecin sur le territoire, la Ville de Saumur (26 734 habitants) a décidé de mettre en œuvre un centre communal de santé situé dans le quartier prioritaire.",
+    "description": {
+        "description_generale": "Rédaction d'un projet de santé et d'un règlement intérieur.",
+        "contexte": "Avec 10 % des médecins généralistes libéraux ayant plus de 65 ans les conséquences sont nombreuses: déstabilisation de l’offre de soins, engorgement du service d’urgence des centres hospitaliers, déséquilibre social dans l’accès à la médecine… Face à cette double problématique, dans le cadre du contrat local de santé (CLS), la Communauté d'Agglomération Saumur Val de Loire a favorisé le rapprochement entre la Ville de Saumur et les médecins retraités à l'origine du projet, à la suite d'un groupe de travail intitulé « désertification médicale » mis en œuvre depuis novembre 2020.",
+        "problematique": "Avec 10 % des médecins généralistes libéraux ayant plus de 65 ans les conséquences sont nombreuses: déstabilisation de l’offre de soins, engorgement du service d’urgence des centres hospitaliers, déséquilibre social dans l’accès à la médecine… Face à cette double problématique, dans le cadre du contrat local de santé (CLS), la Communauté d'Agglomération Saumur Val de Loire a favorisé le rapprochement entre la Ville de Saumur et les médecins retraités à l'origine du projet, à la suite d'un groupe de travail intitulé « désertification médicale » mis en œuvre depuis novembre 2020.",
+        "solution_envisagee": "Six médecins retraités sont ainsi réunis dans le Centre Communal de Santé de Saumur: c’est la réponse forte et rapide de la Ville de Saumur avec le soutien de la Communauté d’Agglomération Saumur Val de Loire face au risque de désertification médicale.",
+        "objectifs": "Titre: Centre Communal de Santé de Saumur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/561-pe-centre-communal-de-sante-de-saumur-mise-a-jour-2023.pdf  ---  --- Afin de garantir l'égalité d'accès aux soins et donc pallier au manque de médecin sur le territoire, la Ville de Saumur (26 734 habitants) a décidé de mettre en œuvre un centre communal de santé situé dans le quartier prioritaire."
+    },
+    "porteur_initiative": "Six médecins retraités sont ainsi réunis dans le Centre Communal de Santé de Saumur: c’est la réponse forte et rapide de la Ville de Saumur avec le soutien de la Communauté d’Agglomération Saumur Val de Loire face au risque de désertification médicale.",
+    "date": [
+        "novembre 2020",
+        "2025",
+        "2023",
+        "2016",
+        "8000",
+        "2020",
+        "depuis 2016",
+        "En 2016"
+    ],
+    "thematique": [
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Centre_Communal_de_Sante_de_Saumur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Centre_Communal_de_Sante_de_Saumur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Challenge santé seniors",
+    "territoire": "Titre: Challenge santé seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/967-concours-2023-challenge-sante-seniors-a-valentigney.pdf  ---  --- UNE JOURNÉE INTERGÉNÉRATIONNELLE Lancé en 2015, le \"Challenge Santé Seniors\" consiste en l'organisation d'une journée intergénérationnelle permettant à des seniors de plus de 60 ans de participer, par équipe de 4, à des ateliers d'activité physique ou cérébrale, animés conjointement par des bénévoles des associations sportives de l'Office Municipal du Sport (OMS) de la ville et des jeunes collégiens en situation de handicap (dispositif ULIS).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Si, comme la Ville de Valentigney, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com \"CHALLENGE SANTÉ SENIORS\" JOUR J L'accueil des bénévoles et l'installation matérielle de l'accueil et de l'espace repas commence dès 7h.",
+    "description": {
+        "description_generale": "Ce projet est fort apprécié de toutes les parties, c'est un moment très fort: sport, convivialité, acceptation de l'autre avec ses capacités et ses difficultés.",
+        "contexte": "Ce projet est fort apprécié de toutes les parties, c'est un moment très fort: sport, convivialité, acceptation de l'autre avec ses capacités et ses difficultés.",
+        "problematique": "Ce projet est fort apprécié de toutes les parties, c'est un moment très fort: sport, convivialité, acceptation de l'autre avec ses capacités et ses difficultés.",
+        "solution_envisagee": "Ce projet est fort apprécié de toutes les parties, c'est un moment très fort: sport, convivialité, acceptation de l'autre avec ses capacités et ses difficultés.",
+        "objectifs": "Ce projet est fort apprécié de toutes les parties, c'est un moment très fort: sport, convivialité, acceptation de l'autre avec ses capacités et ses difficultés."
+    },
+    "porteur_initiative": "Ce projet est fort apprécié de toutes les parties, c'est un moment très fort: sport, convivialité, acceptation de l'autre avec ses capacités et ses difficultés.",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015",
+        "en 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Challenge_sante_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Challenge_sante_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

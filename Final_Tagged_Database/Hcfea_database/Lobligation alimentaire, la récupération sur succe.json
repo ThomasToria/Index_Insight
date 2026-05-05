@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: L’obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l’aide sociale à l’hébergement",
+    "territoire": "Dans l’ASH, le département paie la différence entre le tarif de l’établissement et la somme des ressources personnelles du résident d’une part, des apports de ses obligés alimentaires et de son conjoint d’autre part.",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Titre: L’obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l’aide sociale à l’hébergement Sous-titre: Rapport adopté par les membres le 9 juillet 2020 Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge Imprimer Courriel Linkedin Facebook Twitter Bluesky L’obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l’aide sociale à l’hébergement Rapport adopté par les membres le 9 juillet 2020 Publié le 20/07/2020 | Temps de lecture: 2 minutes Conseil de l'âge Rapports Le Conseil de l’âge a examiné les voies de réforme de l’aide sociale à l’hébergement (ASH), dont bénéficient 122 000 résidents en Ehpad.",
+    "description": {
+        "description_generale": "Il s’agit d’une aide subsidiaire qui vient après la solidarité familiale: au décès du résident, l’ASH est récupérée sur l’actif net de la succession ou sur les donataires.",
+        "contexte": "Il s’agit d’une aide subsidiaire qui vient après la solidarité familiale: au décès du résident, l’ASH est récupérée sur l’actif net de la succession ou sur les donataires.",
+        "problematique": "Il s’agit d’une aide subsidiaire qui vient après la solidarité familiale: au décès du résident, l’ASH est récupérée sur l’actif net de la succession ou sur les donataires.",
+        "solution_envisagee": "Il s’agit d’une aide subsidiaire qui vient après la solidarité familiale: au décès du résident, l’ASH est récupérée sur l’actif net de la succession ou sur les donataires.",
+        "objectifs": "Il s’agit d’une aide subsidiaire qui vient après la solidarité familiale: au décès du résident, l’ASH est récupérée sur l’actif net de la succession ou sur les donataires."
+    },
+    "porteur_initiative": "Il s’agit d’une aide subsidiaire qui vient après la solidarité familiale: au décès du résident, l’ASH est récupérée sur l’actif net de la succession ou sur les donataires.",
+    "date": [
+        "9 juillet 2020",
+        "juillet 2020",
+        "20/07/2020",
+        "2020",
+        "2016",
+        "2039"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

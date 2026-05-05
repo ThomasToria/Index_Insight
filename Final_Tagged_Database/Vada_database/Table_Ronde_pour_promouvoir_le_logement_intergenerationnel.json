@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Table Ronde pour promouvoir le logement intergénérationnel",
+    "territoire": "Titre: Table Ronde pour promouvoir le logement intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/109-pe-tr-logement-inerge.pdf  ---  --- UN SYMBOLE FORT Chaque année à Lyon, l’un des moments forts de la Semaine Bleue a lieu à l’occasion de son ouverture qui est marquée par l’organisation d’une table- ronde.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Deux associations travaillant sur le placement d’étudiants ou de personnes isolées chez des personnes âgées volontaires.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Table Ronde pour promouvoir le logement intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/109-pe-tr-logement-inerge.pdf  ---  --- UN SYMBOLE FORT Chaque année à Lyon, l’un des moments forts de la Semaine Bleue a lieu à l’occasion de son ouverture qui est marquée par l’organisation d’une table- ronde.",
+        "problematique": "Celui-ci a donc été chargé de faire vivre cette table-ronde durant environ deux heures en distribuant la parole aux différents acteurs réunis à cette occasion: Afin de pouvoir présenter de manière concrète l’expérience de la cohabitation intergénérationnelle, des binômes de jeunes et d’aînés ainsi que des résidents de l’immeuble intergénérationnel Le Chorus ont été invités à venir témoigner des atouts mais également des difficultés liés à ce mode d’habitat.",
+        "solution_envisagee": "C’est en partie pour cette raison qu’il est aujourd’hui nécessaire de trouver des solutions alternatives afin que ces générations puissent vivre ensemble du mieux possible.",
+        "objectifs": "Concrètement, l’objectif principal de cette table-ronde consistait à informer de l’existence de la cohabitation intergénérationnelle."
+    },
+    "porteur_initiative": "Titre: Table Ronde pour promouvoir le logement intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/109-pe-tr-logement-inerge.pdf  ---  --- UN SYMBOLE FORT Chaque année à Lyon, l’un des moments forts de la Semaine Bleue a lieu à l’occasion de son ouverture qui est marquée par l’organisation d’une table- ronde.",
+    "date": [
+        "13",
+        "13 octobre 2014",
+        "octobre 2014",
+        "2025",
+        "2014",
+        "2009",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Table_Ronde_pour_promouvoir_le_logement_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Table_Ronde_pour_promouvoir_le_logement_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

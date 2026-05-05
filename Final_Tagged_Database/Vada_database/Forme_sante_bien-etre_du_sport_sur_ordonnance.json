@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Forme santé bien-être: du sport sur ordonnance",
+    "territoire": "Titre: Forme santé bien-être: du sport sur ordonnance Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/908-concours-2023-avignon-forme-sante-bien-etre-du-sport-sur-ordonnance.pdf  ---  --- LUTTER CONTRE LA SÉDENTARITÉ DES PERSONNES ÂGÉES Ce projet est né dans un contexte de forte croissance des maladies liées à l'absence d'activité physique et en particulier chez nos aînés.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Forme santé bien-être: du sport sur ordonnance Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/908-concours-2023-avignon-forme-sante-bien-etre-du-sport-sur-ordonnance.pdf  ---  --- LUTTER CONTRE LA SÉDENTARITÉ DES PERSONNES ÂGÉES Ce projet est né dans un contexte de forte croissance des maladies liées à l'absence d'activité physique et en particulier chez nos aînés.",
+    "description": {
+        "description_generale": "Si, comme la Ville d'Avignon, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Forme santé bien-être: du sport sur ordonnance Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/908-concours-2023-avignon-forme-sante-bien-etre-du-sport-sur-ordonnance.pdf  ---  --- LUTTER CONTRE LA SÉDENTARITÉ DES PERSONNES ÂGÉES Ce projet est né dans un contexte de forte croissance des maladies liées à l'absence d'activité physique et en particulier chez nos aînés.",
+        "problematique": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS FORME SANTÉ BIEN-ÊTRE: DU SPORT SUR ORDONNANCE Fiche PARTAGE D'EXPÉRIENCE N°772 Villes Amies des Aînés en France Avignon Ville Amie des Aînés depuis 2021 Avignon (84) Favoriser la pratique d'une activité physique régulière pour le plus grand nombre et en particulier auprès de notre population aînée touchée par des problématiques de sédentarité.",
+        "solution_envisagee": "MISE EN PLACE DU \"SPORT SUR ORDONNANCE\" Deux agents, dédiés à la réflexion et au montage du projet, ont réalisé une étude des besoins, du contexte et des différentes possibilités de réponse aux besoins identifiés.",
+        "objectifs": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS FORME SANTÉ BIEN-ÊTRE: DU SPORT SUR ORDONNANCE Fiche PARTAGE D'EXPÉRIENCE N°772 Villes Amies des Aînés en France Avignon Ville Amie des Aînés depuis 2021 Avignon (84) Favoriser la pratique d'une activité physique régulière pour le plus grand nombre et en particulier auprès de notre population aînée touchée par des problématiques de sédentarité."
+    },
+    "porteur_initiative": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS FORME SANTÉ BIEN-ÊTRE: DU SPORT SUR ORDONNANCE Fiche PARTAGE D'EXPÉRIENCE N°772 Villes Amies des Aînés en France Avignon Ville Amie des Aînés depuis 2021 Avignon (84) Favoriser la pratique d'une activité physique régulière pour le plus grand nombre et en particulier auprès de notre population aînée touchée par des problématiques de sédentarité.",
+    "date": [
+        "septembre 2022",
+        "septembre 2023",
+        "2025",
+        "2023",
+        "2022",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forme_sante_bien-etre_du_sport_sur_ordonnance.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forme_sante_bien-etre_du_sport_sur_ordonnance.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

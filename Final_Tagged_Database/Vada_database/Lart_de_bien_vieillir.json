@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: L'art de bien vieillir",
+    "territoire": "Titre: L'art de bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/930-concours-2023-l-art-de-bien-vieillir.pdf  ---  --- POUR MEILLEURE QUALITÉ DE VIE Dans son plan d'action \"Metz, ville amie des aînés 2017/2020\" l'un des objectifs était de \"renforcer les connaissances et les compétences des seniors en matière d'autonomie et de santé\".",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: L'art de bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/930-concours-2023-l-art-de-bien-vieillir.pdf  ---  --- POUR MEILLEURE QUALITÉ DE VIE Dans son plan d'action \"Metz, ville amie des aînés 2017/2020\" l'un des objectifs était de \"renforcer les connaissances et les compétences des seniors en matière d'autonomie et de santé\".",
+    "description": {
+        "description_generale": "Ateliers: différents thèmes chaque année, séances d'échanges, de mises en situation, utilisation de différents outils pédagogiques, références bibliographiques, exercices de relaxation.  ---  --- UNE ACTION APPRÉCIÉE Cette démarche a eu pour finalité de donner du sens à la qualité de vie des seniors et à leur vieillissement, en valorisant la dimension sociale et l’acceptation d’un nouveau statut, au travers des représentations de chacun, pour découvrir « comment aimer vieillir et comment vieillir en aimant ».",
+        "contexte": "Titre: L'art de bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/930-concours-2023-l-art-de-bien-vieillir.pdf  ---  --- POUR MEILLEURE QUALITÉ DE VIE Dans son plan d'action \"Metz, ville amie des aînés 2017/2020\" l'un des objectifs était de \"renforcer les connaissances et les compétences des seniors en matière d'autonomie et de santé\".",
+        "problematique": "Conférence: animée en binôme, remise d'une questionnaire pour aborder des problématiques importantes pour les seniors.",
+        "solution_envisagee": "La conférence a donné des réponses partielles à ces objectifs et les trois ateliers annuels qui ont suivi ont permis d'approfondir les sujets et d'apporter des réponses concrètes et pratiques.",
+        "objectifs": "Titre: L'art de bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/930-concours-2023-l-art-de-bien-vieillir.pdf  ---  --- POUR MEILLEURE QUALITÉ DE VIE Dans son plan d'action \"Metz, ville amie des aînés 2017/2020\" l'un des objectifs était de \"renforcer les connaissances et les compétences des seniors en matière d'autonomie et de santé\"."
+    },
+    "porteur_initiative": "Titre: L'art de bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/930-concours-2023-l-art-de-bien-vieillir.pdf  ---  --- POUR MEILLEURE QUALITÉ DE VIE Dans son plan d'action \"Metz, ville amie des aînés 2017/2020\" l'un des objectifs était de \"renforcer les connaissances et les compétences des seniors en matière d'autonomie et de santé\".",
+    "date": [
+        "2025",
+        "2023",
+        "2017",
+        "2020",
+        "2019",
+        "2021",
+        "2022",
+        "2012",
+        "depuis 2012",
+        "en 2019",
+        "en",
+        "En 2021",
+        "En 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lart_de_bien_vieillir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lart_de_bien_vieillir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

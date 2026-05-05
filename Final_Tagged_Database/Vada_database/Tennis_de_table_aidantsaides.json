@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Tennis de table aidants/aidés",
+    "territoire": "Titre: Tennis de table aidants/aidés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/894-concours-2023-tennis-de-table-aidantsaides.pdf  ---  --- SOULAGER LES AIDANTS En partenariat avec l'Association France Alzheimer, l’association Alerte de Méan a ouvert une section spécifique en direction des personnes atteintes d’Alzheimer, et s’ils le désirent à leurs aidant·es.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Tennis de table aidants/aidés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/894-concours-2023-tennis-de-table-aidantsaides.pdf  ---  --- SOULAGER LES AIDANTS En partenariat avec l'Association France Alzheimer, l’association Alerte de Méan a ouvert une section spécifique en direction des personnes atteintes d’Alzheimer, et s’ils le désirent à leurs aidant·es.",
+    "description": {
+        "description_generale": "MISE EN PLACE DES ATELIERS Pour mettre en place ce projet, l'association France Alzheimer a sollicité l'association Alerte de Méan pour trouver un créneau et ces derniers ont très rapidement mis en place cette action.",
+        "contexte": "Titre: Tennis de table aidants/aidés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/894-concours-2023-tennis-de-table-aidantsaides.pdf  ---  --- SOULAGER LES AIDANTS En partenariat avec l'Association France Alzheimer, l’association Alerte de Méan a ouvert une section spécifique en direction des personnes atteintes d’Alzheimer, et s’ils le désirent à leurs aidant·es.",
+        "problematique": "En effet, accompagner une personne atteinte de trouble d'Alzheimer ou maladies apparentées a de nombreuses conséquences sur la santé de l'aidant et sur l'isolement social que cela peut provoquer.",
+        "solution_envisagee": "Pour cela, le club a recruté une éducatrice en activité physique adaptée qui est en mesure de proposer du tennis de table et des activités motrices.",
+        "objectifs": "Proposition d'une activité tennis de table pour soulager les aidants et favoriser le lien social."
+    },
+    "porteur_initiative": "Titre: Tennis de table aidants/aidés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/894-concours-2023-tennis-de-table-aidantsaides.pdf  ---  --- SOULAGER LES AIDANTS En partenariat avec l'Association France Alzheimer, l’association Alerte de Méan a ouvert une section spécifique en direction des personnes atteintes d’Alzheimer, et s’ils le désirent à leurs aidant·es.",
+    "date": [
+        "septembre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tennis_de_table_aidantsaides.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tennis_de_table_aidantsaides.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

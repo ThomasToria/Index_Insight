@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Commission loisirs",
+    "territoire": "Titre: Commission loisirs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/670-commission-loisirs-saint-priest-1.pdf  ---  --- UNE COMMISSION À LA PUISSANCE DÉCISIONNELLE Lors des activités du programme d’été 2017 de la Ville de Saint-Priest, un questionnaire de satisfaction a été diffusé demandant si des personnes âgées étaient intéressées pour s’impliquer dans une commission loisirs afin d’améliorer le programme d’été 2018.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Commission loisirs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/670-commission-loisirs-saint-priest-1.pdf  ---  --- UNE COMMISSION À LA PUISSANCE DÉCISIONNELLE Lors des activités du programme d’été 2017 de la Ville de Saint-Priest, un questionnaire de satisfaction a été diffusé demandant si des personnes âgées étaient intéressées pour s’impliquer dans une commission loisirs afin d’améliorer le programme d’été 2018.",
+    "description": {
+        "description_generale": "L’objectif de cette initiative est de développer la participation des seniors sur des actions qui les concernent.",
+        "contexte": "UN PROJET CO-CONSTRUIT Ce projet est partagé par plusieurs acteurs: Le questionnaire et un article dans la presse locale ont permis de communiquer autour du projet.",
+        "problematique": "RÉPONDRE AUX BESOINS DES SENIORS D’abord, un questionnaire a été préparé et diffusé auprès des seniors participant aux activités du programme d'été 2017.",
+        "solution_envisagee": "Devant les réponses positives, un groupe de retraités a été créé pour participer à l’élaboration des programmes phares du CCAS (programme d’été, Semaine Bleue) à destination des seniors.",
+        "objectifs": "L’objectif de cette initiative est de développer la participation des seniors sur des actions qui les concernent."
+    },
+    "porteur_initiative": "UN PROJET CO-CONSTRUIT Ce projet est partagé par plusieurs acteurs: Le questionnaire et un article dans la presse locale ont permis de communiquer autour du projet.",
+    "date": [
+        "mars 2018",
+        "janvier",
+        "janvier 2019",
+        "2025",
+        "2017",
+        "2018",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Commission_loisirs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Commission_loisirs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

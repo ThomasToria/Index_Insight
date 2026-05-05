@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS",
+    "territoire": "LA LOCALISATION • En 2022, sur 3 départements (Ariège, Hautes-Pyrénées et Haute-Garonne). • En 2023: Midi-Pyrénées.",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Professionnels: les animateurs du réseau M2P et les pharmaciens du réseau REIPO formés au programme européen intitulé PESBUM (Programme d'éducation sanitaire pour le bon usage des médicaments).",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE M2P a réalisé, en 2022, une expérimentation avec le CHU de Toulouse et le REIPO du programme PESBUM (Programme d’Education Sanitaire au Bon Usage des Médicaments) sur 3 départements (Ariège, Hautes-Pyrénées et Haute- Garonne) pour assurer, dès 2023, une généralisation de l’offre et l’intégration de 4 séances (réalisées par des pharmaciens formés à l’animation de ce programme) sur cette thématique dans certains ateliers de M2P.",
+        "contexte": "Au vu des résultats de cette expérimentation où nous avons constaté un vrai intérêt des participants pour cette thématique, une réelle complémentarité avec les ateliers de prévention de M2P et les messages de prévention portés par les animateurs/trices, M2P généralise à l’ensemble des départements ces séances à hauteur de 3 ateliers par département et par an.",
+        "problematique": "Titre: MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS Pages: 46  CARSAT MIDI-PYRÉNÉES MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS LES ACTEURS Porteur(s) de la pépite: Association Interrégime Midi- Pyrénées Prévention (M2P).",
+        "solution_envisagee": "Titre: MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS Pages: 46  CARSAT MIDI-PYRÉNÉES MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS LES ACTEURS Porteur(s) de la pépite: Association Interrégime Midi- Pyrénées Prévention (M2P).",
+        "objectifs": "LA FINALITÉ L ’objectif de cette expérimentation est de permettre aux seniors de mieux comprendre et mieux vivre avec leurs médicaments au quotidien."
+    },
+    "porteur_initiative": "Titre: MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS Pages: 46  CARSAT MIDI-PYRÉNÉES MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS LES ACTEURS Porteur(s) de la pépite: Association Interrégime Midi- Pyrénées Prévention (M2P).",
+    "date": [
+        "01/01/2022",
+        "2022",
+        "2023",
+        "en 2022",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

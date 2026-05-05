@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Saint-Nazaire auto solidaire",
+    "territoire": "Titre: Saint-Nazaire auto solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/865-pe-saint-nazaire-auto-solidaire.pdf  ---  --- COMMENT ACCOMPAGNER LA MOBILITÉ DES SENIORS?",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "VERS LES SENIORS À FAIBLES REVENUS Ce service s’adresse à toute personne senior habitant la commune de Saint-Nazaire ne pouvant assurer seule certains déplacements de la vie courante car elle ne dispose pas de moyen de transport personnel et ne peut recourir facilement à des services publics ou privés de transports existants comme les taxis ou les bus.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Nazaire, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Article Echo de la Presqu'île du 5/05/23",
+        "contexte": "Titre: Saint-Nazaire auto solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/865-pe-saint-nazaire-auto-solidaire.pdf  ---  --- COMMENT ACCOMPAGNER LA MOBILITÉ DES SENIORS?",
+        "problematique": "Les référents de l'association attachent beaucoup d'importance à la visite préalable des bénéficiaires pour échanger sur leurs difficultés de mobilité, leur isolement et les solutions qu'ils utilisent déjà (transports en commun, accompagnement par famille, voisins).",
+        "solution_envisagee": "Les référents de l'association attachent beaucoup d'importance à la visite préalable des bénéficiaires pour échanger sur leurs difficultés de mobilité, leur isolement et les solutions qu'ils utilisent déjà (transports en commun, accompagnement par famille, voisins).",
+        "objectifs": "Ils se sont rapprochés des membres de la commission senior de la maison de quartier Immaculée afin de partager leur problématique."
+    },
+    "porteur_initiative": "Le conseil des aîné.es et la commission seniors de la maison de quartier de l’Immaculée sont porteurs de ce projet. *Le conseil des aîné.es de Saint-Nazaire est une instance consultative et participative composée de 63 personnes de plus de 60 ans.",
+    "date": [
+        "juillet 2023",
+        "5/05/23",
+        "2025",
+        "2021",
+        "2019",
+        "2023",
+        "Depuis 2021",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-Nazaire_auto_solidaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Saint-Nazaire_auto_solidaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

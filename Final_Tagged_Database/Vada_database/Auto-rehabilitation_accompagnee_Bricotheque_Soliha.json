@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Auto-réhabilitation accompagnée Bricothèque Soliha",
+    "territoire": "Titre: Auto-réhabilitation accompagnée Bricothèque Soliha Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/679-soliha-laureats-concours-villes-amies-des-aines-2021-23-24.pdf  ---  --- Concours RFVAA 2021 DES ATELIERS BRICOLAGE FAVORISANT L’AUTONOMIE ET LE LIEN SOCIAL Le projet est de proposer une auto-réhabilitation accompagnée pour le public senior retraité, à travers des ateliers collectifs travaux qui consistent en l’apprentissage du bricolage en petits groupes avec un animateur technique (décoration des murs, accrochages, électricité, plomberie); des ateliers collectifs prévention qui proposent des astuces pour rendre le logement plus pratique et confortable (repérer les risques du logement et les solutions possibles, apprentissage des éco-gestes) ainsi que des chantiers accompagnés qui donnent la possibilité de se faire aider à domicile par un professionnel présent plusieurs jours (améliorer, réparer, embellir le logement).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Auto-réhabilitation accompagnée Bricothèque Soliha Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/679-soliha-laureats-concours-villes-amies-des-aines-2021-23-24.pdf  ---  --- Concours RFVAA 2021 DES ATELIERS BRICOLAGE FAVORISANT L’AUTONOMIE ET LE LIEN SOCIAL Le projet est de proposer une auto-réhabilitation accompagnée pour le public senior retraité, à travers des ateliers collectifs travaux qui consistent en l’apprentissage du bricolage en petits groupes avec un animateur technique (décoration des murs, accrochages, électricité, plomberie); des ateliers collectifs prévention qui proposent des astuces pour rendre le logement plus pratique et confortable (repérer les risques du logement et les solutions possibles, apprentissage des éco-gestes) ainsi que des chantiers accompagnés qui donnent la possibilité de se faire aider à domicile par un professionnel présent plusieurs jours (améliorer, réparer, embellir le logement).",
+    "description": {
+        "description_generale": "UN PROJET À ÉTAPES AVEC DE NOMBREUX PARTENAIRES La mise en place d'un tableau de suivi, le repérage, l’orientation et les actions effectuées avec chacun sont des étapes clés de la mise en place du projet.",
+        "contexte": "Un bénévole retraité impliqué dans la bricothèque parlait ainsi du projet: \"Donner de soi, conseiller, transmettre, un vrai plaisir à partager.",
+        "problematique": "Repérer les besoins des seniors grâce aux animatrices techniques de l'Atelier SOLIHA, les partenaires sociaux, les partenaires logement.",
+        "solution_envisagee": "Titre: Auto-réhabilitation accompagnée Bricothèque Soliha Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/679-soliha-laureats-concours-villes-amies-des-aines-2021-23-24.pdf  ---  --- Concours RFVAA 2021 DES ATELIERS BRICOLAGE FAVORISANT L’AUTONOMIE ET LE LIEN SOCIAL Le projet est de proposer une auto-réhabilitation accompagnée pour le public senior retraité, à travers des ateliers collectifs travaux qui consistent en l’apprentissage du bricolage en petits groupes avec un animateur technique (décoration des murs, accrochages, électricité, plomberie); des ateliers collectifs prévention qui proposent des astuces pour rendre le logement plus pratique et confortable (repérer les risques du logement et les solutions possibles, apprentissage des éco-gestes) ainsi que des chantiers accompagnés qui donnent la possibilité de se faire aider à domicile par un professionnel présent plusieurs jours (améliorer, réparer, embellir le logement).",
+        "objectifs": "Titre: Auto-réhabilitation accompagnée Bricothèque Soliha Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/679-soliha-laureats-concours-villes-amies-des-aines-2021-23-24.pdf  ---  --- Concours RFVAA 2021 DES ATELIERS BRICOLAGE FAVORISANT L’AUTONOMIE ET LE LIEN SOCIAL Le projet est de proposer une auto-réhabilitation accompagnée pour le public senior retraité, à travers des ateliers collectifs travaux qui consistent en l’apprentissage du bricolage en petits groupes avec un animateur technique (décoration des murs, accrochages, électricité, plomberie); des ateliers collectifs prévention qui proposent des astuces pour rendre le logement plus pratique et confortable (repérer les risques du logement et les solutions possibles, apprentissage des éco-gestes) ainsi que des chantiers accompagnés qui donnent la possibilité de se faire aider à domicile par un professionnel présent plusieurs jours (améliorer, réparer, embellir le logement)."
+    },
+    "porteur_initiative": "Un bénévole retraité impliqué dans la bricothèque parlait ainsi du projet: \"Donner de soi, conseiller, transmettre, un vrai plaisir à partager.",
+    "date": [
+        "2025",
+        "2021",
+        "2022",
+        "2015",
+        "7600",
+        "2175",
+        "depuis 2015",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Auto-rehabilitation_accompagnee_Bricotheque_Soliha.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Auto-rehabilitation_accompagnee_Bricotheque_Soliha.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

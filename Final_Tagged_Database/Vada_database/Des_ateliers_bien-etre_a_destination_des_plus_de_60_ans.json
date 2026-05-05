@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Des ateliers bien-être à destination des plus de 60 ans",
+    "territoire": "Titre: Des ateliers bien-être à destination des plus de 60 ans Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1019-concours-2023-saint-quentin-des-ateliers-bien-etre-a-destination-des-plus-de-60-ans.pdf  ---  --- À L'ORIGINE DU PROJET En 2015 le CCAS de la ville de Saint-Quentin a réalisé un état des lieux des besoins et demandes de la population.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Possibilité de parrainage pour les résidents n'habitant pas la ville, et ce quelque soit l'âge, afin de favoriser la mixité intergénérationnelle.  ---  --- DES MOYENS HUMAINS ET MATÉRIELS IMPORTANTS Un chef de projet, ayant plus de 10 ans d'expérience auprès des personnes âgées (titulaire, entre autre, d'une Licence Sciences et Techniques des Activités Physiques et Sportives mention Education & Motricité et du Diplôme d'Etat Supérieur de la Jeunesse, de l'Education Populaire et du Sport) intervient sur l'ensemble du processus des actions menées (prise de contact, programmation et mise en place, pilotage, coordination et évaluation).",
+    "description": {
+        "description_generale": "Titre: Des ateliers bien-être à destination des plus de 60 ans Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1019-concours-2023-saint-quentin-des-ateliers-bien-etre-a-destination-des-plus-de-60-ans.pdf  ---  --- À L'ORIGINE DU PROJET En 2015 le CCAS de la ville de Saint-Quentin a réalisé un état des lieux des besoins et demandes de la population.",
+        "contexte": "Titre: Des ateliers bien-être à destination des plus de 60 ans Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1019-concours-2023-saint-quentin-des-ateliers-bien-etre-a-destination-des-plus-de-60-ans.pdf  ---  --- À L'ORIGINE DU PROJET En 2015 le CCAS de la ville de Saint-Quentin a réalisé un état des lieux des besoins et demandes de la population.",
+        "problematique": "Titre: Des ateliers bien-être à destination des plus de 60 ans Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1019-concours-2023-saint-quentin-des-ateliers-bien-etre-a-destination-des-plus-de-60-ans.pdf  ---  --- À L'ORIGINE DU PROJET En 2015 le CCAS de la ville de Saint-Quentin a réalisé un état des lieux des besoins et demandes de la population.",
+        "solution_envisagee": "Afin de toucher le plus grand nombre, une communication multi-support a été mise en place, soit par voie numérique (mails, appels téléphoniques, sms) soit par voie postal.",
+        "objectifs": "Possibilité de parrainage pour les résidents n'habitant pas la ville, et ce quelque soit l'âge, afin de favoriser la mixité intergénérationnelle.  ---  --- DES MOYENS HUMAINS ET MATÉRIELS IMPORTANTS Un chef de projet, ayant plus de 10 ans d'expérience auprès des personnes âgées (titulaire, entre autre, d'une Licence Sciences et Techniques des Activités Physiques et Sportives mention Education & Motricité et du Diplôme d'Etat Supérieur de la Jeunesse, de l'Education Populaire et du Sport) intervient sur l'ensemble du processus des actions menées (prise de contact, programmation et mise en place, pilotage, coordination et évaluation)."
+    },
+    "porteur_initiative": "Titre: Des ateliers bien-être à destination des plus de 60 ans Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1019-concours-2023-saint-quentin-des-ateliers-bien-etre-a-destination-des-plus-de-60-ans.pdf  ---  --- À L'ORIGINE DU PROJET En 2015 le CCAS de la ville de Saint-Quentin a réalisé un état des lieux des besoins et demandes de la population.",
+    "date": [
+        "avril 2015",
+        "2025",
+        "1019",
+        "2023",
+        "2015",
+        "4000",
+        "2017",
+        "2022",
+        "depuis 2017",
+        "En 2015",
+        "En 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_ateliers_bien-etre_a_destination_des_plus_de_60_ans.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_ateliers_bien-etre_a_destination_des_plus_de_60_ans.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

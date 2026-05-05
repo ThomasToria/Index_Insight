@@ -1,0 +1,46 @@
+{
+    "titre": "En région Nord, aux côtés des personnes âgées",
+    "territoire": "En région Nord, aux côtés des personnes âgées  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/en-region-nord-aux-cotes-des-personnes-agees  Qui sommes-nous?",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France région Nord Dans le contexte sanitaire que nous vivons, protéger nos aînés tout en maintenant le lien social, est un défi pour les professionnels et les familles.",
+    "description": {
+        "description_generale": "POUR ALLER PLUS LOIN → Protéger les personnes âgées sans les isoler, le double défi des Ehpad → Tous unis contre le virus: découvrez les actions menées → Retrouvez toutes les actualités de la Fondation de France Région Nord Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+        "contexte": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France région Nord Dans le contexte sanitaire que nous vivons, protéger nos aînés tout en maintenant le lien social, est un défi pour les professionnels et les familles.",
+        "problematique": "Pour faire face au sentiment d’isolement, d’angoisse et de pertes de repères des personnes âgées, les 3 résidences ont mis en place une cellule psychologique.",
+        "solution_envisagee": "Grâce au soutien de la Fondation de France, les aides à domicile sont équipées du matériel de protection nécessaire pour prévenir les risques de contamination et assurer sereinement les interventions tout en veillant à la qualité de l’accompagnement dans un cadre rassurant pour les personnes âgées.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "En région Nord, aux côtés des personnes âgées  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/en-region-nord-aux-cotes-des-personnes-agees  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\En région Nord, aux côtés des personnes âgées.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\En région Nord, aux côtés des personnes âgées.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

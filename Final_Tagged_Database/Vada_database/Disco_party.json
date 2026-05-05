@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Disco party",
+    "territoire": "Titre: Disco party Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/790-concours-2022-11-disco-party.pdf  ---  --- UNE FÊTE COMME EN DISCOTHÈQUE FAVORISANT LE LIEN SOCIAL A la question \"Où a-t-on envie d'aller pour s'amuser, faire des rencontres et se faire plaisir, retrouver des sensations de sa jeunesse?\" la réponse a été: \"En discothèque!\".",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "DISCO PARTY Reims (51) Ville Membre depuis 2020 Fiche PARTAGE D'EXPÉRIENCE N°656 Villes Amies des Aînés en France Permettre aux seniors de (re) sortir de chez eux après la période de crise sanitaire, et d'avoir une activité plaisir.",
+    "description": {
+        "description_generale": "Ce projet consiste donc en l'organisation du premier évènement festif à Reims après la crise sanitaire: une Disco Party dans une discothèque (l'Atrium) rémoise réputée.",
+        "contexte": "Titre: Disco party Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/790-concours-2022-11-disco-party.pdf  ---  --- UNE FÊTE COMME EN DISCOTHÈQUE FAVORISANT LE LIEN SOCIAL A la question \"Où a-t-on envie d'aller pour s'amuser, faire des rencontres et se faire plaisir, retrouver des sensations de sa jeunesse?\" la réponse a été: \"En discothèque!\".",
+        "problematique": "Titre: Disco party Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/790-concours-2022-11-disco-party.pdf  ---  --- UNE FÊTE COMME EN DISCOTHÈQUE FAVORISANT LE LIEN SOCIAL A la question \"Où a-t-on envie d'aller pour s'amuser, faire des rencontres et se faire plaisir, retrouver des sensations de sa jeunesse?\" la réponse a été: \"En discothèque!\".",
+        "solution_envisagee": "Titre: Disco party Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/790-concours-2022-11-disco-party.pdf  ---  --- UNE FÊTE COMME EN DISCOTHÈQUE FAVORISANT LE LIEN SOCIAL A la question \"Où a-t-on envie d'aller pour s'amuser, faire des rencontres et se faire plaisir, retrouver des sensations de sa jeunesse?\" la réponse a été: \"En discothèque!\".",
+        "objectifs": "L'objectif est de pérenniser cette action qui a lieu une fois par an en changeant de thématique musicale: certains ont demandé pour les prochaines fois de la musique plus rock n' roll, d'autres des musiques actuelles."
+    },
+    "porteur_initiative": "Titre: Disco party Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/790-concours-2022-11-disco-party.pdf  ---  --- UNE FÊTE COMME EN DISCOTHÈQUE FAVORISANT LE LIEN SOCIAL A la question \"Où a-t-on envie d'aller pour s'amuser, faire des rencontres et se faire plaisir, retrouver des sensations de sa jeunesse?\" la réponse a été: \"En discothèque!\".",
+    "date": [
+        "2025",
+        "2022",
+        "2020",
+        "2019",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Disco_party.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Disco_party.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

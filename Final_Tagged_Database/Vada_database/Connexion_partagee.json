@@ -1,0 +1,38 @@
+{
+    "titre": "Titre: Connexion part'agée",
+    "territoire": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+    "description": {
+        "description_generale": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+        "contexte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+        "problematique": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+        "solution_envisagee": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+        "objectifs": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf"
+    },
+    "porteur_initiative": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+    "date": [
+        "2025"
+    ],
+    "thematique": [],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Connexion_partagee.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Connexion_partagee.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.25,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.0,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Petits et grands fêtent Pâques",
+    "territoire": "Titre: Petits et grands fêtent Pâques Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Petits-et-grands-fetent-Paques.pdf  ---  --- LIEN SOCIAL ET SOLIDARITÉ CULTURE & LOISIRS ESPACES EXTÉRIEURS & ENVIRONNEMENT LIEN SOCIAL & SOLIDARITÉ Répondre à la demande des seniors: se retrouver po ur des ateliers bricolages Reconnaissance des seniors par les enfants, les parents, les Plainais.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "CE PROJET VISE À LA FOIS LES SENIORS ET LES ENFANTS DE LA COMMUNE.\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "À l’occasion de Pâques, la Plaine-sur-Mer a mis en place un atelier bricolage pour les seniors. Cet\natelier a pour but de réaliser des décorations de P âques en bois pour la commune, mais aussi de\nconfectionner des petits paniers comme contenants p our la chasse aux œufs et découper et décorer\ndes œufs, cloches, etc. pour les cacher à la chasse aux œufs. Toutes les décorations sont faites avec\ndes matériaux de récupération.\nFICHE PARTAGE D’EXPÉRIENCE N°967\nVILLE AMIE DES AÎNÉS DEPUIS 2025 - LA PLAINE-SUR-MER (44)\nPETITS ET GRANDS FÊTENT PÂQUES\n1.\n2.\n3.\nLES OBJECTIFS DU PROJET\nAnimer la commune\n2025\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLES COMPÉTENCES MOBILISÉES\nPOUR LE PROJET\nLe coût du projet correspond à l’achat\ndes œufs. Cela s’élève à 100€.\nUn atelier similaire ayant eu lieu sur la\npériode de Noël, la commune avait déjà un\ncertain savoir-faire quant à l'organisation\nde cet atelier bricolage. Outre le besoin\nd'informer les seniors et de communiquer\nsur l'action, il a fallu géré la récupération et\nle transport des matériaux.\nLES ÉTAPES\nDU PROJET\nLe projet a été présenté lors de la\n\"Pause Café\". Il est divisé en deux\nateliers.\nLa décoration de la commune:\nRecherche de bois de\nrécupération et de modèles\nDécoupe des grandes formes\ndans le bois et peinture\nChoix des lieux d’installation\ndans la commune\nLa chasse aux œufs:\nRecherche de matériaux et de\nmodèles\nConfection des paniers,\ndécoration et garnison\nDécoupe et décoration de\nformes de Pâques dans des\nchemises plastiques récupérées\nà la mairie\nLe jour de Pâques: chasse aux\nœufs\nÉVALUATION\nDU PROJET\nLe bilan de ce projet est très positif.\nEn effet, les seniors ont exprimé leur\nsatisfaction de ce travail en équipe,\ndans une ambiance joyeuse, qui a\npermis à certains de rompre leur\nisolement. Ils étaient ravis de voir\nleurs réalisations exposées dans la\ncommune et la joie des enfants le\njour de Pâques à la chasse aux\nœufs. De nombreux parents et\nenfants plainais ont eux aussi fait\ndes retours très positifs.\nL'action doit être renouvelée l'an\nprochain, en tenant compte des\nnouvelles propositions qui seront\nfaites par les participants.\nLES PARTENAIRES\nDU PROJET\nLa mairie\nLe CCAS\nLes services techniques\nLE PLAN\nDE COMMUNICATION\nLors des rencontres pause café\nCommuniqué à notre liste de\nseniors par mail ou courrier\nDans la revue communale: Écho\nPlainais\nAffiches, flyers",
+        "contexte": "PUBLIC VISÉ: CE PROJET VISE À LA FOIS LES SENIORS ET LES ENFANTS DE LA COMMUNE.",
+        "problematique": "Outre le besoin d'informer les seniors et de communiquer sur l'action, il a fallu géré la récupération et le transport des matériaux.",
+        "solution_envisagee": "PUBLIC VISÉ: CE PROJET VISE À LA FOIS LES SENIORS ET LES ENFANTS DE LA COMMUNE.",
+        "objectifs": "LES OBJECTIFS DU PROJET Animer la commune 2025  ---  --- LE SÉQUENÇAGE DU PROJET RESSOURCES MOBILISÉES LE BUDGET DÉDIÉ AU PROJET LES COMPÉTENCES MOBILISÉES POUR LE PROJET Le coût du projet correspond à l’achat des œufs."
+    },
+    "porteur_initiative": "PUBLIC VISÉ: CE PROJET VISE À LA FOIS LES SENIORS ET LES ENFANTS DE LA COMMUNE.",
+    "date": [
+        "2025",
+        "DEPUIS 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Petits_et_grands_fetent_Paques.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Petits_et_grands_fetent_Paques.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

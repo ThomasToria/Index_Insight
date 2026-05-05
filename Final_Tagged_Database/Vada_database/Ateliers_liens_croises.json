@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Ateliers liens croisés",
+    "territoire": "Titre: Ateliers liens croisés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/521-521-ateliers-liens-croises.pdf  ---  --- CONVIVIALITÉ ET LIEN SOCIAL L ’association « Rezé Seniors » - office municipal des retraités de la Ville de Rezé - officie depuis de nombreuses années auprès des personnes retraitées e t seniors du territoire.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Ateliers liens croisés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/521-521-ateliers-liens-croises.pdf  ---  --- CONVIVIALITÉ ET LIEN SOCIAL L ’association « Rezé Seniors » - office municipal des retraités de la Ville de Rezé - officie depuis de nombreuses années auprès des personnes retraitées e t seniors du territoire.",
+    "description": {
+        "description_generale": "Titre: Ateliers liens croisés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/521-521-ateliers-liens-croises.pdf  ---  --- CONVIVIALITÉ ET LIEN SOCIAL L ’association « Rezé Seniors » - office municipal des retraités de la Ville de Rezé - officie depuis de nombreuses années auprès des personnes retraitées e t seniors du territoire.",
+        "contexte": "Titre: Ateliers liens croisés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/521-521-ateliers-liens-croises.pdf  ---  --- CONVIVIALITÉ ET LIEN SOCIAL L ’association « Rezé Seniors » - office municipal des retraités de la Ville de Rezé - officie depuis de nombreuses années auprès des personnes retraitées e t seniors du territoire.",
+        "problematique": "Ce service d’animation s’adresse à des personnes âgées, isolées et fragili sées dans leur lieu de vie, qui peuvent: ne plus avoir de moyen de locomotion, présenter des difficultés à se déplacer, être atteintes de troubles sensoriels, et avoir peur de sortir seules.",
+        "solution_envisagee": "L ’ objectif est d’accue illir ces personnes dans un cadre convivial et de leur proposer de nombreuses activités qui favorisent les échanges et les rencontres.",
+        "objectifs": "Informer les seniors. Lutter contre l’isolement social. Aider à créer\nou conserver un lien avec l’extérieur. Accueillir les seniors dans\nun cadre convivial. Mettre en place des activités appropriées.\nPRATIQUE\nMettre en place des ateliers. Organiser le planning des\nactivités. Embaucher du personnel quali¿é. Assurer le\ntransport pour les participants qui sont en diႈculté.\nREZÉ\nVille Amie des Aînés depuis 01-2018\nRezé (44)\nFiche publiée le 14/08/2019\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nSi, comme Rezé, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nCULTURE ET LOISIRS"
+    },
+    "porteur_initiative": "L ’ ensemble de cette activité est coordonné par une animatrice professionnelle, formée en gérontologie.",
+    "date": [
+        "octobre 2017",
+        "14/08/2019",
+        "2025",
+        "2017",
+        "2018",
+        "2019",
+        "en 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_liens_croises.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ateliers_liens_croises.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

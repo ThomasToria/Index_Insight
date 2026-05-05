@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Un noël solidaire",
+    "territoire": "Titre: Un noël solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/444-pe-un-noel-solidaire.pdf  ---  --- SE SENTIR UTILE Les résidents de l'EHPAD Cleunay du CCAS de Rennes évoquaient parfois leur sentiment d'inutilité face aux événements dramatiques de l'actualité, comme par exemple la crise des migrants.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Les visiteurs (familles, professions libérales,..) et professionnels de l'établissement ont pu apporter des denrées dans les deux caddies positionnés dans l'entrée de l'établissement durant un mois.",
+    "description": {
+        "description_generale": "Coût: achat de laine environ 100€  ---  --- UNE ACTION DEVENUE PERMANENTE Suite aux retours favorables de l'ensemble des participants, ce projet qui devait au départ être ponctuel pendant les fêtes de fin d'année, est finalement devenu une action permanente.",
+        "contexte": "Mais, constatant leur manque d’accessibilité lors d'une première visite, les résidents et l'animatrice ont changé de projet.",
+        "problematique": "ÊTRE SOLIDAIRE DES PLUS DÉMUNIS Pour mener à bien ce projet, la première étape a été de contacter les Restos du Cœur pour organiser une visite des locaux pour un groupe de résidents ainsi que de bénévoles et de recenser les besoins de l'association.",
+        "solution_envisagee": "Titre: Un noël solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/444-pe-un-noel-solidaire.pdf  ---  --- SE SENTIR UTILE Les résidents de l'EHPAD Cleunay du CCAS de Rennes évoquaient parfois leur sentiment d'inutilité face aux événements dramatiques de l'actualité, comme par exemple la crise des migrants.",
+        "objectifs": "Titre: Un noël solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/444-pe-un-noel-solidaire.pdf  ---  --- SE SENTIR UTILE Les résidents de l'EHPAD Cleunay du CCAS de Rennes évoquaient parfois leur sentiment d'inutilité face aux événements dramatiques de l'actualité, comme par exemple la crise des migrants."
+    },
+    "porteur_initiative": "Titre: Un noël solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/444-pe-un-noel-solidaire.pdf  ---  --- SE SENTIR UTILE Les résidents de l'EHPAD Cleunay du CCAS de Rennes évoquaient parfois leur sentiment d'inutilité face aux événements dramatiques de l'actualité, comme par exemple la crise des migrants.",
+    "date": [
+        "2025",
+        "2016",
+        "2011",
+        "depuis 2011",
+        "En 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_noel_solidaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_noel_solidaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

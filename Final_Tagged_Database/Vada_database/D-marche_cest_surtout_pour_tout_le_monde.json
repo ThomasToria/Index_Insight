@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: D-marche, c’est surtout pour tout le monde",
+    "territoire": "Titre: D-marche, c’est surtout pour tout le monde Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/483-pe-d-marche-c-est-surtout-pour-tout-le-monde.pdf  ---  --- MARCHER PLUS, UN PAS APRÈS L’AUTRE L’action D-marche, créée à l’origine par l’association A la Découverte de l’Âge Libre (ADAL) et mise en oeuvre à La Roche-sur-Yon par la Fédération Sportive et Culturelle de France, a pour objectif d’inviter le public, et en particulier le public âgé, à augmenter durablement son activité physique par le biais de la marche à pied.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "nationale"
+    ],
+    "public_vise": "Titre: D-marche, c’est surtout pour tout le monde Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/483-pe-d-marche-c-est-surtout-pour-tout-le-monde.pdf  ---  --- MARCHER PLUS, UN PAS APRÈS L’AUTRE L’action D-marche, créée à l’origine par l’association A la Découverte de l’Âge Libre (ADAL) et mise en oeuvre à La Roche-sur-Yon par la Fédération Sportive et Culturelle de France, a pour objectif d’inviter le public, et en particulier le public âgé, à augmenter durablement son activité physique par le biais de la marche à pied.",
+    "description": {
+        "description_generale": "S’AIDER DU COLLECTIF POUR RESTER MOTIVÉ Issus des groupes «usagers» de la démarche Ville Amie des Aînés de La Roche-sur-Yone, deux groupes d’une douzaine de personnes ont été constitués, bénéficiant de deux séances pratiques de présentation de l’action.",
+        "contexte": "Dans ce contexte, D- MARCHE aider à préserver les capacités motrices en faisant la promotion des bienfaits de ce mode de déplacement doux.",
+        "problematique": "Plus d’un quart des personnes âgées de 75 ans et plus rencontre des difficultés à marcher 500 mètres ou encore à utiliser des escaliers.",
+        "solution_envisagee": "Proposer des séances supplémentaires et de nouvelles activités.",
+        "objectifs": "Ainsi, le participant peut voir facilement où il se situe par rapport à ses objectifs et adapter son comportement et ses habitudes en fonction de celui-ci."
+    },
+    "porteur_initiative": "Au cours de la première séance, les bienfaits de la marche à pied sont rappelés: activité physique, entretien de son potentiel santé, création ou maintien de lien social, bienêtre, qualité de vie, etc.",
+    "date": [
+        "2025",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\D-marche_cest_surtout_pour_tout_le_monde.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\D-marche_cest_surtout_pour_tout_le_monde.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

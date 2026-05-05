@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Un groupe d’experts d’usage pour l’amélioration du cadre de vie",
+    "territoire": "Titre: Un groupe d’experts d’usage pour l’amélioration du cadre de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/411-411-groupes-experts-besancon.pdf  ---  --- UN GROUPE D’EXPERTS CITOYENS Fin 2012, lors de l’adhésion de la Ville de Besançon à la démarche Villes Amies des Aînés, un groupe d’ experts d’usage a été créé a/f_in d’ évaluer l’installation d’ équi- pements urbains.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Impliquer les usagers, en particulier les personnes âgées, dans les choix municipaux qui les concernent.",
+    "description": {
+        "description_generale": "L ’action a permis aux retraités eux-mêmes d’ être véritable- ment acteurs d’un projet et de se sentir utiles pour l’ en- semble de leurs concitoyens.",
+        "contexte": "Par exemple, pour les assis-debout, ont participé en plus du groupe d’aînés: le technicien en charge de l’urbanisme, le char- gé de mission accessibilité, le référent « Besançon Amie des Aînés », le technicien en charge de l’adaptation de la voirie, l’architecte des Bâtiments de France et des élus.",
+        "problematique": "Par exemple, dans le cas des assis-debout, ont dû être prises en compte et harmonisées les contraintes imposées par l’urbanisme, par les bâtiments de France et par les services techniques, ce qui a pu freiner les souhaits des membres du groupe.",
+        "solution_envisagee": "Leur première évaluation a concerné la mise en place de mobiliers urbains de type assis-debout dans le centre-ville de Besançon.",
+        "objectifs": "Créer un groupe d’experts d’usage pour favoriser la perti -\nnence dans le choix et l’installation des équipements urbains.\nImpliquer les usagers, en particulier les personnes âgées,\ndans les choix municipaux qui les concernent.\nPRATIQUE\nConstituer un groupe d’experts d’usage de tous âges et aux\ncapacités de mobilités différentes. Organiser un circuit où\nils auront l’occasion de tester le mobilier urbain.\nCoût: Temps de travail correspondant à la mise à disposition\ndes agents concernés (variable en fonction des situations).\nBESANÇON\nVille amie des aînés depuis 05-2012\nBesançon (25)\nFiche publiée le 07/08/2018\nESPACES EXTÉRIEURS ET BÂTIMENTS\nwww.villesamiesdesaines-rf.fr\nPARTICIPATION CITOYENNE ET EMPLOI\nSi, comme Besançon, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Par exemple, pour les assis-debout, ont participé en plus du groupe d’aînés: le technicien en charge de l’urbanisme, le char- gé de mission accessibilité, le référent « Besançon Amie des Aînés », le technicien en charge de l’adaptation de la voirie, l’architecte des Bâtiments de France et des élus.",
+    "date": [
+        "août 2014",
+        "07/08/2018",
+        "2025",
+        "2012",
+        "2014",
+        "2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

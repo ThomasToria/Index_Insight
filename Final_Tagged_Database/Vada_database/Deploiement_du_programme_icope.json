@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Déploiement du programme icope",
+    "territoire": "Titre: Déploiement du programme icope Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1128-pe-programme-icope.pdf  ---  --- CRÉER UN PARCOURS DE SOIN Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "DÉPLOIEMENT DU PROGRAMME ICOPE Fiche PARTAGE D'EXPÉRIENCE N°943 Villes Amies des Aînés en France Offrir des soins adaptés aux besoins individuels des personnes âgées Mettre en place des stratégies pour prévenir la perte d'autonomie et la dépendance Assurer une meilleure coordination entre les différents professionnels de santé et les services sociaux pour offrir une approche intégrée des soins Encourager les personnes âgées à rester actives et autonomes le plus longtemps possible Former les professionnels de santé à mieux comprendre et répondre aux besoins spécifiques des personnes âgées dans le cadre d'une approche intégrée Fournir des ressources et un soutien aux aidants familiaux et aux proches Lancement du programme ICOPE sur la commune, en partenariat avec le Gérontopôle de Toulouse.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Colomiers, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "UNE DYNAMIQUE PARTENARIALE Le CCAS a constaté le besoin d'un tel programme en septembre 2021, après l'expérience positive de la mise en œuvre d'un dépistage de la fragilité sur la commune.",
+        "problematique": "UNE DYNAMIQUE PARTENARIALE Le CCAS a constaté le besoin d'un tel programme en septembre 2021, après l'expérience positive de la mise en œuvre d'un dépistage de la fragilité sur la commune.",
+        "solution_envisagee": "Titre: Déploiement du programme icope Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1128-pe-programme-icope.pdf  ---  --- CRÉER UN PARCOURS DE SOIN Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors.",
+        "objectifs": "Titre: Déploiement du programme icope Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1128-pe-programme-icope.pdf  ---  --- CRÉER UN PARCOURS DE SOIN Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors."
+    },
+    "porteur_initiative": "Titre: Déploiement du programme icope Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1128-pe-programme-icope.pdf  ---  --- CRÉER UN PARCOURS DE SOIN Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors.",
+    "date": [
+        "septembre 2021",
+        "novembre 2021",
+        "janvier 2022",
+        "2025",
+        "1128",
+        "2021",
+        "2022",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deploiement_du_programme_icope.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Deploiement_du_programme_icope.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

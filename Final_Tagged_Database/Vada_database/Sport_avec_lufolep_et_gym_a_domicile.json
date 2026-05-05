@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Sport avec l'ufolep et gym à domicile",
+    "territoire": "Titre: Sport avec l'ufolep et gym à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/963-concours-2023-sport-avec-l-ufolep-et-gym-a-domicile.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DES ACTIONS COMPLÉMENTAIRES Ce projet est en fait deux actions distinctes mais complémentaires, qui ont toutes deux pour but d'encourager les seniors à pratiquer une activité physique, et prévenir la dépendance physique et l'isolement social.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "SPORT AVEC L'UFOLEP ET GYM À DOMICILE Fiche PARTAGE D'EXPÉRIENCE N°826 Villes Amies des Aînés en France Maison des Aînés et des Aidants Ville Amie des Aînés depuis 2012 Rennes (35) Encourager la pratique d'une activité physique adaptée; Proposer une offre complémentaire aux ateliers APA classiques, notamment pour les seniors les plus jeunes, et les personnes isolées; Renforcer les liens sociaux.",
+    "description": {
+        "description_generale": "Titre: Sport avec l'ufolep et gym à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/963-concours-2023-sport-avec-l-ufolep-et-gym-a-domicile.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DES ACTIONS COMPLÉMENTAIRES Ce projet est en fait deux actions distinctes mais complémentaires, qui ont toutes deux pour but d'encourager les seniors à pratiquer une activité physique, et prévenir la dépendance physique et l'isolement social.",
+        "contexte": "Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Titre: Sport avec l'ufolep et gym à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/963-concours-2023-sport-avec-l-ufolep-et-gym-a-domicile.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DES ACTIONS COMPLÉMENTAIRES Ce projet est en fait deux actions distinctes mais complémentaires, qui ont toutes deux pour but d'encourager les seniors à pratiquer une activité physique, et prévenir la dépendance physique et l'isolement social.",
+        "solution_envisagee": "Elle consiste à proposer aux personnes isolées des séances d'activité physique adaptée, à leur domicile.",
+        "objectifs": "Mise en place de deux actions complémentaires: la gym à domicile et les ateliers de sport avec l'UFOLEP; Proposition d'activités variées dans les deux cas; Orientation vers des structures adaptés suites aux ateliers; Gym à domicile: orientation des bénéficiaires par les services médico- sociaux; Gym à domicile: organisation de séances d'APA par un éducateur sportifs; Sport avec l'UFOLEP: séances plus \"sportives\", adaptées aux 60-70 ans.  ---  --- SPORT AVEC L'UFOLEP En partenariat avec l'Ufolep 35, la MDAA a proposé un atelier de 11 séances de 1h30 visant à aider les bénéficiaires à maintenir, renforcer et développer leurs capacités motrices."
+    },
+    "porteur_initiative": "Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "septembre 2022",
+        "mars 2023",
+        "2025",
+        "2023",
+        "2022",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_avec_lufolep_et_gym_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sport_avec_lufolep_et_gym_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

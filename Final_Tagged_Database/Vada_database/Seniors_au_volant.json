@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Seniors au volant",
+    "territoire": "Titre: Seniors au volant Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/819-concours-2022-46-seniors-aux-volant.pdf  ---  --- GARANTIR L'AUTONOMIE DES SENIORS GRÂCE À LA SÉCURITÉ ROUTIÈRE Dans le cadre de la semaine bleue (semaine nationale dédiée à informer et sensibiliser l’opinion sur la contribution des retraités dans notre société), la Ville des Pennes-Mirabeau organise des ateliers de sécurité routière au sein de l'Espace seniors Municipal.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "PARTENAIRES ET COÛT DU PROJET Différents partenaires ont participé à la réalisation du projet: la police municipale des Pennes Mirabeau, mais aussi le responsable de l'Espace seniors.",
+    "description": {
+        "description_generale": "PARTENAIRES ET COÛT DU PROJET Différents partenaires ont participé à la réalisation du projet: la police municipale des Pennes Mirabeau, mais aussi le responsable de l'Espace seniors.",
+        "contexte": "Mettre en place des ateliers de sensibilisation sur divers points (gestes de premier secours, avertissements sur les dangers de la route).  ---  --- conducteurs sous l'emprise d'alcool et le remplissage d'un constat amiable.",
+        "problematique": "La mobilité est un enjeu majeur pour garantir l'autonomie des plus âgés.",
+        "solution_envisagee": "Une remise à niveau permet de préserver cette indépendance surtout lorsque le permis date depuis plusieurs décennies.",
+        "objectifs": "Un des thèmes abordés dans les ateliers est la révision du code de la route: il s'agit d'un atelier qui a pour but de faire le point sur les panneaux de circulation, la réglementation en vigueur sans cesse modifiée (support photos, clichés d'endroits pris sur la commune)."
+    },
+    "porteur_initiative": "Un des thèmes abordés dans les ateliers est la révision du code de la route: il s'agit d'un atelier qui a pour but de faire le point sur les panneaux de circulation, la réglementation en vigueur sans cesse modifiée (support photos, clichés d'endroits pris sur la commune).",
+    "date": [
+        "2025",
+        "2022",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_au_volant.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Seniors_au_volant.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

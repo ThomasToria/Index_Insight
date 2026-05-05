@@ -1,0 +1,53 @@
+{
+    "titre": "Solitude ET handicap ou maladie chronique… la double peine: une étude de l'Observatoire de la philanthropie",
+    "territoire": "Depuis 2010, la Fondation de France dresse chaque année un état des lieux de l’évolution des solitudes en France.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Ce sentiment de solitude constitue une source de souffrance pour un peu plus de 8 personnes concernées sur 10.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "L’étude qualitative a été menée en juin et juillet 2018 auprès de 22 personnes en population générale ou en établissement médico-social: 20 entretiens par téléphone et 2 entretiens en face à face d’une durée variable entre 45 minutes et 1h45.",
+        "problematique": "L’isolement, un facteur associé à d’autres difficultés Le handicap ou la maladie chronique favorisent l’isolement et cette « double peine » s’applique à tous les domaines de la vie!",
+        "solution_envisagee": "En Ardèche, cette association propose aux personnes âgées de découvrir ou re-découvrir les joies du vélo.",
+        "objectifs": "Faire entendre sa voix, participer à la vie sociale et citoyenne… ce sont les objectifs de cette démarche d’auto-représentation, soutenue par le programme Personnes handicapées de la Fondation de France."
+    },
+    "porteur_initiative": "Solitude ET handicap ou maladie chronique… la double peine: une étude de l'Observatoire de la philanthropie  https://www.fondationdefrance.org/fr/?view=article&id=1136:solitude-et-handicap-ou-maladie-chronique-la-double-peine-une-etude-de-l-observatoire-de-la-philanthropie&catid=107  Qui sommes-nous?",
+    "date": [
+        "12 juin 2018",
+        "juin 2018",
+        "juillet 2018",
+        "1136",
+        "2010",
+        "2018",
+        "Depuis 2010"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

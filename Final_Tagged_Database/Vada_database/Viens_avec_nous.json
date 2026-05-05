@@ -1,0 +1,61 @@
+{
+    "titre": "Titre: \"Viens avec nous\"",
+    "territoire": "Titre: \"Viens avec nous\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/787-concours-2022-8-viens-avec-nous.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°653 Villes Amies des Aînés en France \"VIENS AVEC NOUS\" Strasbourg (67) Ville Membre depuis 2015 UNE DÉMARCHE COMPLÈTE ET VARIÉE POUR MOBILISER LES SENIORS \"Viens avec nous\" est une démarche globale de repérage, de mise en confiance et de mobilisation des personnes âgées isolées par des acteurs de proximité de Strasbourg (associations, clubs séniors, etc.).",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Titre: \"Viens avec nous\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/787-concours-2022-8-viens-avec-nous.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°653 Villes Amies des Aînés en France \"VIENS AVEC NOUS\" Strasbourg (67) Ville Membre depuis 2015 UNE DÉMARCHE COMPLÈTE ET VARIÉE POUR MOBILISER LES SENIORS \"Viens avec nous\" est une démarche globale de repérage, de mise en confiance et de mobilisation des personnes âgées isolées par des acteurs de proximité de Strasbourg (associations, clubs séniors, etc.).",
+    "description": {
+        "description_generale": "L'appel à projets \"Viens avec nous\" lancé en avril 2022 vise ainsi à promouvoir et soutenir les actions qui font la démonstration d'une méthode pour aller chercher des personnes inconnues de différentes structures et pérenniser les liens nouvellement créés.",
+        "contexte": "PROPOSER DE NOUVELLES MODALITÉS DE SOUTIEN AUX ACTEURS ASSOCIATIFS Cette démarche part du constat que les associations, à quelques exceptions près, ne sont pas très familières des actions \"d'aller-vers\".",
+        "problematique": "Agir pour la lutte contre l'isolement c'est agir pour le bien-être psychique et physique des personnes âgées, identifier leurs difficultés et prévenir les situations de décrochage.",
+        "solution_envisagee": "Il s'agit de permettre aux seniors de renouer avec la vie de leur quartier en les amenant vers des temps collectifs et, réciproquement, de proposer des interventions à domicile lorsque le collectif est impossible.",
+        "objectifs": "LES ÉTAPES: APPEL À PROJET, REPÉRAGE, MOBILISATION DES PUBLICS."
+    },
+    "porteur_initiative": "Le 1er octobre 2022, un séminaire de réflexion organisé par la Ville de Strasbourg et les Petits Frères des pauvres à l'occasion de la journée internationale des personnes âgées sera organisé et co-animé par le sociologue qui accompagne l'ensemble de la démarche.",
+    "date": [
+        "20 mai 2022",
+        "30",
+        "30 octobre 2022",
+        "avril 2022",
+        "octobre 2023",
+        "mai 2022",
+        "juin 2022",
+        "juillet 2022",
+        "septembre 2022",
+        "octobre 2022",
+        "2025",
+        "2022",
+        "2015",
+        "2023",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_avec_nous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Viens_avec_nous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

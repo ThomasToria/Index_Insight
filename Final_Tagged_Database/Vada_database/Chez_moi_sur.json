@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Chez moi sûr",
+    "territoire": "Titre: Chez moi sûr Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/780-concours-2022-73-chez-moi-sur.pdf  ---  --- UN DÉMONSTRATEUR ITINÉRANT COMME LIEU D'INFORMATION CHEZ MOI SÛR est un démonstrateur itinérant, véritable appartement témoin sur roues de 35mètres² une fois déplié, permettant d’apporter l’information sur des solutions humaines, techniques et financières favorisant le maintien à domicile, auprès des personnes isolées (logique « d’aller vers ») dans les territoires ruraux.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "CHEZ MOI SÛR Fiche PARTAGE D'EXPÉRIENCE N°646 Villes Amies des Aînés en France Association AILES Favoriser le maintien à domicile, dans de bonnes conditions, des personnes en perte d'autonomie.",
+    "description": {
+        "description_generale": "L'ouverture des actions du démonstrateur à d'autres types de structures est en cours: école d'intervenants à domicile, entreprises, ergothérapeutes pour formations… Et enfin, le démonstrateur pourra être utilisé comme support au développement d'autres projets en lien avec le maintien à domicile.",
+        "contexte": "Plusieurs constatations ont ainsi pu être faites: le fait de voir/tester/faire permet aux personnes d’adhérer aux aides techniques et domotiques.",
+        "problematique": "Coût: 175 000 € financé par des subventions publiques et privées.  ---  --- Plusieurs outils domotiques ont été installés: chemin lumineux, téléassistance, contrôle d’accès, volets électriques… selon les besoins et les particularités des logements de chacun.",
+        "solution_envisagee": "Les personnes qui visitent le démonstrateur se voient ensuite proposer un accompagnement social individuel pour la mise en place des aides (visite à domicile, préconisations, aides au devis, mobilisation des aides financières, aide au changement d'usages...).",
+        "objectifs": "CHEZ MOI SÛR Fiche PARTAGE D'EXPÉRIENCE N°646 Villes Amies des Aînés en France Association AILES Favoriser le maintien à domicile, dans de bonnes conditions, des personnes en perte d'autonomie."
+    },
+    "porteur_initiative": "Coût: 175 000 € financé par des subventions publiques et privées.  ---  --- Plusieurs outils domotiques ont été installés: chemin lumineux, téléassistance, contrôle d’accès, volets électriques… selon les besoins et les particularités des logements de chacun.",
+    "date": [
+        "6 octobre 2021",
+        "octobre 2021",
+        "2025",
+        "2022",
+        "2018",
+        "2019",
+        "2021",
+        "en 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Chez_moi_sur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Chez_moi_sur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.8,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

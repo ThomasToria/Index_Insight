@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Susciter la participation citoyenne",
+    "territoire": "Titre: Susciter la participation citoyenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1088-pe-susciter-la-participation-citoyenne.pdf  ---  --- SAUMUR VERS LE LABEL La Ville de Saumur est adhérente au RFVAA depuis 2015.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Dans ce cadre, la ville souhaite toucher les seniors afin de recueillir leur avis sur les différentes thématiques proposées par le RFVAA.",
+    "description": {
+        "description_generale": "La volonté est d'inclure les seniors dans l'avancée des projets, d'en mentionner d'autres, et de valoriser les actions envers les seniors.",
+        "contexte": "Titre: Susciter la participation citoyenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1088-pe-susciter-la-participation-citoyenne.pdf  ---  --- SAUMUR VERS LE LABEL La Ville de Saumur est adhérente au RFVAA depuis 2015.",
+        "problematique": "Il était important de cibler le plus grand nombre de personnes, afin d'avoir assez de retours pour analyser les besoins.",
+        "solution_envisagee": "SUSCITER LA PARTICIPATION CITOYENNE Fiche PARTAGE D'EXPÉRIENCE N°928 Villes Amies des Aînés en France Ville de Saumur Ville Amie des Aînés depuis 2016 Saumur (49) Avoir le maximum d'avis afin de prioriser les champs d'action et d'analyser au plus juste les besoins de tous les publics Diffusion des fiches pratiques proposées dans le guide du RFVAA pour faire un état des lieux Suite aux retours des fiches, mise en place d'ateliers participatifs, et suivi de ces ateliers dans la durée Appel à un prestataire extérieur pour l'accompagnement  ---  --- UNE PARTICIPATION QUI PERDURE Cette action s'est avérée riche en enseignements.",
+        "objectifs": "Son objectif étant d'être une ville qui entreprend la démarche VADA \"une Ville douce à vivre pour Tous\", quel que soit son âge, elle a souhaité aller plus loin en s'engageant dans \"en route vers le Label\"."
+    },
+    "porteur_initiative": "Titre: Susciter la participation citoyenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1088-pe-susciter-la-participation-citoyenne.pdf  ---  --- SAUMUR VERS LE LABEL La Ville de Saumur est adhérente au RFVAA depuis 2015.",
+    "date": [
+        "juin 2022",
+        "2025",
+        "1088",
+        "2015",
+        "2022",
+        "2016",
+        "depuis 2015",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Susciter_la_participation_citoyenne.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Susciter_la_participation_citoyenne.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

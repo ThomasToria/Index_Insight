@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Festival Vie R' âge",
+    "territoire": "Titre: Festival Vie R' âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/510-pe-festival-vie-r-age.pdf  ---  --- UN FESTIVAL DE COURTS MÉTRAGES Le festival “Vie R’Âges” est un festival basé sur la projection de courts métrages mettant en scène des retraités et des personnes âgées.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Festival Vie R' âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/510-pe-festival-vie-r-age.pdf  ---  --- UN FESTIVAL DE COURTS MÉTRAGES Le festival “Vie R’Âges” est un festival basé sur la projection de courts métrages mettant en scène des retraités et des personnes âgées.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Grenoble, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Festival Vie R' âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/510-pe-festival-vie-r-age.pdf  ---  --- UN FESTIVAL DE COURTS MÉTRAGES Le festival “Vie R’Âges” est un festival basé sur la projection de courts métrages mettant en scène des retraités et des personnes âgées.",
+        "problematique": "Titre: Festival Vie R' âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/510-pe-festival-vie-r-age.pdf  ---  --- UN FESTIVAL DE COURTS MÉTRAGES Le festival “Vie R’Âges” est un festival basé sur la projection de courts métrages mettant en scène des retraités et des personnes âgées.",
+        "solution_envisagee": "Il est né de la volonté de proposer un projet intergénérationnel ayant vocation à contribuer au changement de regard sur la vieillesse, le vieillissement et plus largement sur l’avancée en âge.",
+        "objectifs": "Les personnes présentes, notamment les aînés, ont souhaité prendre la parole à de nombreuses reprises afin de faire le lien entre des scènes ou extraits et des expériences de vies vécues."
+    },
+    "porteur_initiative": "Titre: Festival Vie R' âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/510-pe-festival-vie-r-age.pdf  ---  --- UN FESTIVAL DE COURTS MÉTRAGES Le festival “Vie R’Âges” est un festival basé sur la projection de courts métrages mettant en scène des retraités et des personnes âgées.",
+    "date": [
+        "2025",
+        "2016",
+        "2018",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Festival_Vie_R_age.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Festival_Vie_R_age.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

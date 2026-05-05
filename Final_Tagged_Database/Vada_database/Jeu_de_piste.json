@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Jeu de piste",
+    "territoire": "Titre: Jeu de piste Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Jeu-de-piste-1.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ CULTURE & LOISIRS Ce projet a vu le jour dans le cadre de la mission du jeune en service civique que la médiathèque a accueilli de décembre à août 20205.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "LES PERSONNES ÂGÉES ET NOTAMMENT CELLES LES PLUS EMPÊCHÉES.\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Mise en place d’un jeu de piste permettant aux pers onnes âgées de découvrir les collections spécifique s (Large\nVision, Textes audio, Facile à Lire) mais aussi les ressources de la Mémo telles que le télé agrandiss eur vocal,\nl’espace actualité,\nla grainothèque…\nFICHE PARTAGE D’EXPÉRIENCE N°1031\nVILLE AMIE DES AÎNÉS DEPUIS 2022, NIVEAU ARGENT - MONTAUBAN (82)\nJEU DE PISTE\n1.\nLES OBJECTIFS DU PROJET\nProposer aux personnes âgées, en particulier celles qui ne connaissent pas la\nmédiathèque de participer à un temps d’animation co nvivial permettant de\ndécouvrir les collections spécifiques et les ressou rces de la Mémo.\n2025\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET..... Les seniors ont pleinement participé et\nréussi à résoudre l’énigme du jeu de piste.\nLES ÉTAPES\nDU PROJET\nIdentification du besoin: 8 mois,\npar la mission du service civique\nDéfinition des objectifs: 2 mois,\nen concertation avec le Pôle\nSeniors\nÉtude de faisabilité: 1 réunion\navec Mémo et Pôle Seniors\nLancement du projet: 1 mois,\navec communication visuelle à\nl’accueil du Pôle Seniors\nRéalisation du projet: le\n25/06/25\nEvaluation: à la fin de\nl’animation recueil des\nimpressions\nÉVALUATION\nDU PROJET\nMalgré un plus petit effectif de\nparticipants que prévu initialement\n(5 personnes au lieu de 10) le jeu de\npiste s’est très bien déroulé, le\njeune en service civique a pu\nmener sa mission, 3 nouvelles\ninscriptions ont été faites et le\nretour des personnes a été très\npositif.\nA la demande du Pôle Seniors, cette\naction devrait se renouveler.\nLE PLAN\nDE COMMUNICATION\nCommunication visuelle et orale\nL’IMPACT\nDU PROJET",
+        "contexte": "Titre: Jeu de piste Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Jeu-de-piste-1.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ CULTURE & LOISIRS Ce projet a vu le jour dans le cadre de la mission du jeune en service civique que la médiathèque a accueilli de décembre à août 20205.",
+        "problematique": "LES ÉTAPES DU PROJET Identification du besoin: 8 mois, par la mission du service civique Définition des objectifs: 2 mois, en concertation avec le Pôle Seniors Étude de faisabilité: 1 réunion avec Mémo et Pôle Seniors Lancement du projet: 1 mois, avec communication visuelle à l’accueil du Pôle Seniors Réalisation du projet: le 25/06/25 Evaluation: à la fin de l’animation recueil des impressions ÉVALUATION DU PROJET Malgré un plus petit effectif de participants que prévu initialement (5 personnes au lieu de 10) le jeu de piste s’est très bien déroulé, le jeune en service civique a pu mener sa mission, 3 nouvelles inscriptions ont été faites et le retour des personnes a été très positif.",
+        "solution_envisagee": "LES OBJECTIFS DU PROJET Proposer aux personnes âgées, en particulier celles qui ne connaissent pas la médiathèque de participer à un temps d’animation co nvivial permettant de découvrir les collections spécifiques et les ressou rces de la Mémo.",
+        "objectifs": "LES OBJECTIFS DU PROJET Proposer aux personnes âgées, en particulier celles qui ne connaissent pas la médiathèque de participer à un temps d’animation co nvivial permettant de découvrir les collections spécifiques et les ressou rces de la Mémo."
+    },
+    "porteur_initiative": "Titre: Jeu de piste Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Jeu-de-piste-1.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ CULTURE & LOISIRS Ce projet a vu le jour dans le cadre de la mission du jeune en service civique que la médiathèque a accueilli de décembre à août 20205.",
+    "date": [
+        "25/06/25",
+        "2025",
+        "1031",
+        "2022",
+        "DEPUIS 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jeu_de_piste.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Jeu_de_piste.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

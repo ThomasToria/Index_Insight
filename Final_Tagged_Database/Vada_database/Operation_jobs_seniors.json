@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Opération jobs seniors",
+    "territoire": "Titre: Opération jobs seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/859-pe-operation-jobs-seniors.pdf  ---  --- AIDER LES PLUS DE 50 AU RETOUR À L'EMPLOI La Ville de Cholet se penche sur la question de l'emploi des plus de 50 ans et a organisé, en partenariat avec le MEDEF du Pays Choletais, le forum \"Jobs seniors\" jeudi 2 juin 2023 de 9h à 14h à la Salle des Fêtes.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Parmi les partenaires on retrouve la Direction des Relations Humaines, qui propose un stand avec expertise, information et orientation, Pôle Emploi et le service Développement Social Emploi qui accueillent le public, l’informe et l’oriente et l'Office des Retraités et des Personnes Âgées du Choletais qui sert de relais.",
+    "description": {
+        "description_generale": "Le souhait est de reproduire l'action tout en l'adaptant au champ de compétence du Service JCAVE: c'est à dire pour les seniors de + de 60 ans.",
+        "contexte": "DIAGNOSTIC ET MISE EN PLACE Pour mettre en place le projet, il a fallu d'abord élaborer un Comité de pilotage et diagnostiquer les besoins et les attentes de chacun afin de pouvoir définir un concept.",
+        "problematique": "Cet événement est donc la rencontre des besoins des entreprises (recrutement nécessaire, postes vacants, notion intergénérationnelle recherchée, etc...) et des seniors (complexité de pouvoir (re)trouver du travail).",
+        "solution_envisagee": "DIAGNOSTIC ET MISE EN PLACE Pour mettre en place le projet, il a fallu d'abord élaborer un Comité de pilotage et diagnostiquer les besoins et les attentes de chacun afin de pouvoir définir un concept.",
+        "objectifs": "Plusieurs objectifs sont atteints: le nombre d'entreprises présentes (25), de personnes venues (250), et d'emplois à pourvoir (1 000 environ)."
+    },
+    "porteur_initiative": "Faire se rencontrer les profils porteurs de compétences et d’expérience et les entreprises.",
+    "date": [
+        "2 juin 2023",
+        "juin 2023",
+        "2025",
+        "2023",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_jobs_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Operation_jobs_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

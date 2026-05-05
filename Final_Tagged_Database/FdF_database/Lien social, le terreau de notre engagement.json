@@ -1,0 +1,53 @@
+{
+    "titre": "Lien social, le terreau de notre engagement",
+    "territoire": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Vulnérabilités Le lien social fonde le vivre ensemble, renforce la cohésion de la société et c’est lui qui donne vie à un grand nombre d’initiatives favorisant l’inclusion, redynamisant les territoires, changeant les regards et les comportements.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "C’est un enjeu qui traverse toutes les causes et touche tous les publics: personnes âgées, mineurs isolés, jeunes en détresse psychologique ou minorités rejetées… La Fondation de France en a fait le cœur de son engagement.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "Face à cet isolement social réel et ce sentiment de solitude grandissant, renforcer le lien social est donc primordial.",
+        "problematique": "Face à ces enjeux, la question du lien social devient centrale.",
+        "solution_envisagee": "Autre initiative: celle des Bureaux des cœurs qui proposent à des personnes en parcours de réinsertion d’être accueillies au sein d’entreprises partenaires, pour qu’elles retrouvent un cadre de stabilité et recréent du lien avec le monde du travail.",
+        "objectifs": "Retisser du lien social pour protéger et renforcer les plus fragiles Si la crise sanitaire a momentanément mais fortement mis à mal les occasions de socialisation et contribué à renforcer l’isolement social des Français, la situation est aujourd’hui revenue à la normale."
+    },
+    "porteur_initiative": "Lien social, le terreau de notre engagement  https://www.fondationdefrance.org/fr/cat-personnes-vulnerables/lien-social-le-terreau-de-notre-engagement  Qui sommes-nous?",
+    "date": [
+        "décembre 2022",
+        "2022",
+        "2010",
+        "2020",
+        "2024",
+        "Depuis 2010",
+        "en 2022",
+        "en 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Lien social, le terreau de notre engagement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Lien social, le terreau de notre engagement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

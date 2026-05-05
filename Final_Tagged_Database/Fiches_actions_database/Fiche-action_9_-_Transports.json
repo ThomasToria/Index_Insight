@@ -1,0 +1,43 @@
+{
+    "titre": "---  ---",
+    "territoire": "Des navettes pourraient desservir les établissements pour les relier au centre-ville et à toutes les commodités.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les résidents des structures pour personnes âgées dont les EHPAD Dans un second temps la réflexion pourrait porter sur les publics isolés à domicile et au-delà peut être toutes les personnes âgées.",
+    "description": {
+        "description_generale": "Ce dispositif compléterait les initiatives individuelles assurées par des associations mobilisant les véhicules personnels des bénévoles assurés pour cela.",
+        "contexte": "Des navettes pourraient desservir les établissements pour les relier au centre-ville et à toutes les commodités.",
+        "problematique": "---  --- FICHE-ACTION N°9 Transports pour les résidents des établissements d’accueil de personnes âgées et les personnes isolées à domicile Objectifs • Lutter contre l’isolement • Favoriser la participation sociale • Favoriser la mutualisation des moyens entre EHPAD et avec les établissements spécialisés pour Personnes Handicapées Indicateurs de réussite • Nombre de participants • Enquête de satisfaction • Effets sur la participation sociale (loisirs, courses, visites familiales ou amicales, …) Quoi?",
+        "solution_envisagee": "Des navettes pourraient desservir les établissements pour les relier au centre-ville et à toutes les commodités.",
+        "objectifs": "• Lutter contre l’isolement\n• Favoriser la participation sociale\n• Favoriser la mutualisation des moyens entre EHPAD et avec les établissements spécialisés pour\nPersonnes Handicapées\nIndicateurs de réussite\n• Nombre de participants\n• Enquête de satisfaction\n• Effets sur la participation sociale (loisirs, courses, visites familiales ou amicales, …)\nQuoi?\nDes navettes pourraient desservir les établissements pour les relier au centre-ville et à toutes les\ncommodités. Mobiliser les services « à la demande » de type « Accelis » en les étendant aux EHPAD et pas\nseulement pour des activités médicales mais aussi des activités sociales collectives. Ce dispositif\ncompléterait les initiatives individuelles assurées par des associations mobilisant les véhicules personnels\ndes bénévoles assurés pour cela.\nIl est en outre recommandé de favoriser la mutualisation entre les établissements pour éviter leur\ninutilisation et permettre d’organiser des sorties de manière régulière.\nAdaptation et sensibilisation des services de co-voiturage (type Bla bla car) à la facilitation de leur usage à\ndestination de publics âgés.\nPour qui?\nLes résidents des structures pour personnes âgées dont les EHPAD\nDans un second temps la réflexion pourrait porter sur les publics isolés à domicile et au-delà peut être toutes\nles personnes âgées. Dans ce cas l’utilisation des bus scolaires ou de navettes pourrait aussi être envisagée\nlorsqu’ils ne sont pas utilisés, le mercredi et en période scolaire par exemple\nOù et quand?\nMetz et environs\nD\nE\nS\nC\nR\nI\nP\nT\nO\nN\nHumaines:\nChauffeur qualifié\nCentre de réservation\nAccompagnateurs (dans certains cas) pouvant être bénévoles\nMatérielles:\nMinibus adapté\nVéhicules personnels\nInformation et communication:\nPasser par tous les réseaux classiques (CD, MDPH, CDCA, Conseils des seniors, CCAS, …) mais aussi\nles associations (APF, Associations de retraités, …)\nFinancières:\nFinancements publics concertés\nCo financement d’établissements pour mutualisation\nFondations et abondements privés (Fondation de France?)\nU\nAutonomie"
+    },
+    "porteur_initiative": "Des navettes pourraient desservir les établissements pour les relier au centre-ville et à toutes les commodités.",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_9_-_Transports.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche-action_9_-_Transports.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

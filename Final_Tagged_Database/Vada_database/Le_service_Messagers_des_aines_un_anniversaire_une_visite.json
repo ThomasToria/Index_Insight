@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Le service \"Messagers des aînés\": un anniversaire, une visite",
+    "territoire": "Titre: Le service \"Messagers des aînés\": un anniversaire, une visite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/126-pe-le-service-messagers-des-aines-un-anniversaire-une-visite-mise-a-jour-2023.pdf  ---  --- UN SERVICE POUR LES 85 ANS ET PLUS Depuis plusieurs années, le service « messagers des aînés », initié par la Ville de Royan, propose aux habitants âgés de 85 ans et plus de recevoir, à l’occasion de leur anniversaire, la visite de bénévoles.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "LES MESSAGERS ET LES BÉNÉFICIAIRES Pour identifier les personnes âgées, le service « messagers des seniors » utilise les registres de l’État Civil.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Royan, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "LE SERVICE « MESSAGERS DES AÎNÉS »: UN ANNIVERSAIRE, UNE VISITE Fiche PARTAGE D'EXPÉRIENCE N°126 Villes Amies des Aînés en France Royan Ville Amie des Aînés depuis 2013 Royan (17) Lutter contre l’isolement des personnes âgées.",
+        "problematique": "LE SERVICE « MESSAGERS DES AÎNÉS »: UN ANNIVERSAIRE, UNE VISITE Fiche PARTAGE D'EXPÉRIENCE N°126 Villes Amies des Aînés en France Royan Ville Amie des Aînés depuis 2013 Royan (17) Lutter contre l’isolement des personnes âgées.",
+        "solution_envisagee": "Titre: Le service \"Messagers des aînés\": un anniversaire, une visite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/126-pe-le-service-messagers-des-aines-un-anniversaire-une-visite-mise-a-jour-2023.pdf  ---  --- UN SERVICE POUR LES 85 ANS ET PLUS Depuis plusieurs années, le service « messagers des aînés », initié par la Ville de Royan, propose aux habitants âgés de 85 ans et plus de recevoir, à l’occasion de leur anniversaire, la visite de bénévoles.",
+        "objectifs": "L’objectif principal de ce service est de lutter contre l’isolement des aînés."
+    },
+    "porteur_initiative": "LE SERVICE « MESSAGERS DES AÎNÉS »: UN ANNIVERSAIRE, UNE VISITE Fiche PARTAGE D'EXPÉRIENCE N°126 Villes Amies des Aînés en France Royan Ville Amie des Aînés depuis 2013 Royan (17) Lutter contre l’isolement des personnes âgées.",
+    "date": [
+        "2025",
+        "2023",
+        "2013",
+        "depuis 2013",
+        "En 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_service_Messagers_des_aines_un_anniversaire_une_visite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_service_Messagers_des_aines_un_anniversaire_une_visite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Atelier théâtral intergénérationnel",
+    "territoire": "Titre: Atelier théâtral intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/747-fiche-pe-atelier-theatral-intergenerationnel.pdf  ---  --- FAVORISER LES RENCONTRES INTERGÉNÉRATIONNELS ET LE LIEN SOCIAL À Barentin, ville comptant 2 211 habitants, le CCAS met en scène un projet de théâtre intergénérationnel où des aînés et des élèves d’une classe Segpa d’un collège jouent ensemble, avec le concours de bailleurs sociaux.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "L’idée est de présenter un spectacle réunissant seniors, élèves et habitants, au théâtre Montdory le 9 juin 2022\" a ainsi déclaré la directrice du CCAS de Barentin.",
+    "description": {
+        "description_generale": "Le projet se déclinera sur deux ans en plusieurs ateliers: ateliers d’expression orale, ateliers d’écriture, ateliers de théâtre, ateliers de décor/scénographie (avec la participation d’habitants pour la réalisation de costumes, de parents et d’élèves volontaires du collège).",
+        "contexte": "Un phénomène constaté également par les bailleurs qui voient les personnes vivre seules à leur domicile, souffrir de solitude et d’absence de moyen de transport.",
+        "problematique": "ATELIER THEATRAL INTERGENERATIONNEL Fiche PARTAGE D'EXPÉRIENCE N°614 Villes Amies des Aînés en France Barentin (76) Ville membre depuis 2020 Lutter contre l’isolement des ainés.",
+        "solution_envisagee": "Le projet se déclinera sur deux ans en plusieurs ateliers: ateliers d’expression orale, ateliers d’écriture, ateliers de théâtre, ateliers de décor/scénographie (avec la participation d’habitants pour la réalisation de costumes, de parents et d’élèves volontaires du collège).",
+        "objectifs": "Titre: Atelier théâtral intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/747-fiche-pe-atelier-theatral-intergenerationnel.pdf  ---  --- FAVORISER LES RENCONTRES INTERGÉNÉRATIONNELS ET LE LIEN SOCIAL À Barentin, ville comptant 2 211 habitants, le CCAS met en scène un projet de théâtre intergénérationnel où des aînés et des élèves d’une classe Segpa d’un collège jouent ensemble, avec le concours de bailleurs sociaux."
+    },
+    "porteur_initiative": "En septembre 2021, le projet est porté par Franck Lehman, professeur de théâtre et comédien de la troupe les « K barrés » basée à Yvetot, qui a commencé avec des aînés volontaires de la ville et du parc social de Logeal et Logeo Seine, et du quartier Lalizel, en QPV.",
+    "date": [
+        "9 juin 2022",
+        "juin 2022",
+        "novembre 2021",
+        "juin 2020",
+        "septembre 2021",
+        "novembre",
+        "janvier 2022",
+        "2025",
+        "2022",
+        "2021",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_theatral_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_theatral_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

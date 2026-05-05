@@ -1,0 +1,62 @@
+{
+    "titre": "Titre: Les olympiades seniors",
+    "territoire": "Titre: Les olympiades seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1056-concours-2024-les-olympiades-seniors-a-nantes.pdf  ---  --- RELANCER LES OLYMPIADES La ville de Nantes a identifié chez ses seniors, un besoin de prendre soin de soi, de vieillir en bonne santé, mais aussi de lutter contre l'isolement.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Cette journée d'olympiades a rassemblé 132 participants provenant de douze EHPAD, dix résidences autonomies, dix résidences seniors, et d'autres vivants à domicile (usagers des services et structures accueillant un public senior).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nantes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Les olympiades seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1056-concours-2024-les-olympiades-seniors-a-nantes.pdf  ---  --- RELANCER LES OLYMPIADES La ville de Nantes a identifié chez ses seniors, un besoin de prendre soin de soi, de vieillir en bonne santé, mais aussi de lutter contre l'isolement.",
+        "problematique": "Titre: Les olympiades seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1056-concours-2024-les-olympiades-seniors-a-nantes.pdf  ---  --- RELANCER LES OLYMPIADES La ville de Nantes a identifié chez ses seniors, un besoin de prendre soin de soi, de vieillir en bonne santé, mais aussi de lutter contre l'isolement.",
+        "solution_envisagee": "Titre: Les olympiades seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1056-concours-2024-les-olympiades-seniors-a-nantes.pdf  ---  --- RELANCER LES OLYMPIADES La ville de Nantes a identifié chez ses seniors, un besoin de prendre soin de soi, de vieillir en bonne santé, mais aussi de lutter contre l'isolement.",
+        "objectifs": "Elle a deux objectifs: inciter les Français à faire davantage d’activité physique et sportive et mettre le sport au cœur des politiques publiques."
+    },
+    "porteur_initiative": "Titre: Les olympiades seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1056-concours-2024-les-olympiades-seniors-a-nantes.pdf  ---  --- RELANCER LES OLYMPIADES La ville de Nantes a identifié chez ses seniors, un besoin de prendre soin de soi, de vieillir en bonne santé, mais aussi de lutter contre l'isolement.",
+    "date": [
+        "septembre 2023",
+        "avril 2024",
+        "2025",
+        "1056",
+        "2024",
+        "2015",
+        "2019",
+        "2020",
+        "2023",
+        "2017",
+        "1972",
+        "depuis 2017",
+        "en",
+        "en 2024",
+        "en 1972",
+        "en 2020",
+        "entre 2015 et 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_olympiades_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_olympiades_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

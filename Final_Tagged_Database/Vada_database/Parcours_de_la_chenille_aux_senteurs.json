@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Parcours de la chenille aux senteurs",
+    "territoire": "Titre: Parcours de la chenille aux senteurs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/488-pe-la-chenille-aux-senteurs.pdf  ---  --- DÉCOUVRIR LES PLANTES AROMATIQUES Le Parcours de la Chenille aux senteurs est né d’une volonté partagée par le Muséum et le Service des espaces verts de la Ville de Grenoble de réaliser un outil de promotion et de découverte des plantes aromatiques, qui se veut à la fois pédagogique et olfactif.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "TRANSMETTRE LE SAVOIR Les personnes âgées participent et s’impliquent pleinement sur l’ensemble du projet et mobilisent leurs savoirs, notamment auprès des plus jeunes: connaissances en botanique, échanges autour de bonnes pratiques en jardinage… Les rencontres sur site constituent des points de repère qui génèrent d’autres projets de sorties communes.",
+    "description": {
+        "description_generale": "TRANSMETTRE LE SAVOIR Les personnes âgées participent et s’impliquent pleinement sur l’ensemble du projet et mobilisent leurs savoirs, notamment auprès des plus jeunes: connaissances en botanique, échanges autour de bonnes pratiques en jardinage… Les rencontres sur site constituent des points de repère qui génèrent d’autres projets de sorties communes.",
+        "contexte": "TRANSMETTRE LE SAVOIR Les personnes âgées participent et s’impliquent pleinement sur l’ensemble du projet et mobilisent leurs savoirs, notamment auprès des plus jeunes: connaissances en botanique, échanges autour de bonnes pratiques en jardinage… Les rencontres sur site constituent des points de repère qui génèrent d’autres projets de sorties communes.",
+        "problematique": "TRANSMETTRE LE SAVOIR Les personnes âgées participent et s’impliquent pleinement sur l’ensemble du projet et mobilisent leurs savoirs, notamment auprès des plus jeunes: connaissances en botanique, échanges autour de bonnes pratiques en jardinage… Les rencontres sur site constituent des points de repère qui génèrent d’autres projets de sorties communes.",
+        "solution_envisagee": "TRANSMETTRE LE SAVOIR Les personnes âgées participent et s’impliquent pleinement sur l’ensemble du projet et mobilisent leurs savoirs, notamment auprès des plus jeunes: connaissances en botanique, échanges autour de bonnes pratiques en jardinage… Les rencontres sur site constituent des points de repère qui génèrent d’autres projets de sorties communes.",
+        "objectifs": "Favoriser la création et le développement de liens sociaux intergénérationnels."
+    },
+    "porteur_initiative": "Inaugurer le parcours à l’occasion de la Nuit européenne des musées.  ---  --- DE NOMBREUX PARTENAIRES La collaboration de nombreux acteurs a permis la réalisation de ce projet piloté par le service des espaces verts de la Ville et par le Muséum.",
+    "date": [
+        "2025",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_de_la_chenille_aux_senteurs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Parcours_de_la_chenille_aux_senteurs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

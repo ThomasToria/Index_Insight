@@ -1,0 +1,48 @@
+{
+    "titre": "► Un Toit parmi les âges: des jeunes hébergés en Ehpad",
+    "territoire": "Ce programme, développé depuis 2016 dans la région Nord Pas-de-Calais, propose à des jeunes d’être hébergés au sein d’ehpad ou de résidences autonomie pour seniors, à un prix modéré et en contrepartie d’un petit nombre d’heures partagées avec les résidents.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Sentiment d’isolement d’un côté et difficulté d’accès au logement de l’autre, c’est face à cette double situation qui touche respectivement les résidents des ehpad et nombre d’étudiants, que l’association Générations et Cultures a mis au point le dispositif original un Toit parmi les âges.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Sentiment d’isolement d’un côté et difficulté d’accès au logement de l’autre, c’est face à cette double situation qui touche respectivement les résidents des ehpad et nombre d’étudiants, que l’association Générations et Cultures a mis au point le dispositif original un Toit parmi les âges.",
+        "problematique": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Sentiment d’isolement d’un côté et difficulté d’accès au logement de l’autre, c’est face à cette double situation qui touche respectivement les résidents des ehpad et nombre d’étudiants, que l’association Générations et Cultures a mis au point le dispositif original un Toit parmi les âges.",
+        "solution_envisagee": "Ce programme, développé depuis 2016 dans la région Nord Pas-de-Calais, propose à des jeunes d’être hébergés au sein d’ehpad ou de résidences autonomie pour seniors, à un prix modéré et en contrepartie d’un petit nombre d’heures partagées avec les résidents.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "► Un Toit parmi les âges: des jeunes hébergés en Ehpad  https://www.fondationdefrance.org/fr/cat-personnes-agees/un-toit-parmi-les-ages-le-vivre-ensemble-reussi-des-jeunes-et-des-aines  Qui sommes-nous?",
+    "date": [
+        "2016",
+        "2022",
+        "depuis 2016",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\► Un Toit parmi les âges des jeunes hébergés en Ehpad.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\► Un Toit parmi les âges des jeunes hébergés en Ehpad.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

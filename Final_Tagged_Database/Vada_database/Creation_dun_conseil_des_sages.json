@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Création d'un conseil des sages",
+    "territoire": "CRÉATION D'UN CONSEIL DES SAGES Fiche PARTAGE D'EXPÉRIENCE N°758 Villes Amies des Aînés en France Saint Gilles Métropole Amie des Aînés depuis 2017 Rennes Métropole (35) Recueillir l'avis des aînés sur tous les sujets relatifs à la vie de la commune.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "De manière à mieux prendre en compte l’avis des seniors qui constituent une part importante d’habitants, il a été décider de créer un Conseil des sages.",
+    "description": {
+        "description_generale": "Les indicateurs d’évaluation et de suivis retenus sont les suivants: s tabilité du Conseil, niveau d'implication et de satisfaction de ses membres, nombre de projets et d’actions mis en place.",
+        "contexte": "Titre: Création d'un conseil des sages Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/884-pe-creation-d-un-conseil-des-sages.pdf  ---  --- 18 PERSONNES DE DIFFÉRENTS PROFILS Saint-Gilles est une commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes).",
+        "problematique": "Titre: Création d'un conseil des sages Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/884-pe-creation-d-un-conseil-des-sages.pdf  ---  --- 18 PERSONNES DE DIFFÉRENTS PROFILS Saint-Gilles est une commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes).",
+        "solution_envisagee": "38 réponses ont été reçues et 18 personnes retenues, 9 femmes et 9 hommes qui représentent les divers quartiers de la commune et sont issus de professions diverses et variées.",
+        "objectifs": "Les membres sentent qu’ils sont utiles permettent de développer des actions au bénéfice des seniors."
+    },
+    "porteur_initiative": "Titre: Création d'un conseil des sages Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/884-pe-creation-d-un-conseil-des-sages.pdf  ---  --- 18 PERSONNES DE DIFFÉRENTS PROFILS Saint-Gilles est une commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes).",
+    "date": [
+        "2025",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_conseil_des_sages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Creation_dun_conseil_des_sages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

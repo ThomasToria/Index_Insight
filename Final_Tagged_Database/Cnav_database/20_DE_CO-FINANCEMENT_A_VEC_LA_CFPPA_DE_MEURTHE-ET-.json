@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE",
+    "territoire": "LA DESCRIPTION DE LA PÉPITE Dans le cadre du partenariat qui lie la Carsat au Conseil départemental, beaucoup d’actions ont été mises en place: échanges de données, reconnaissance mutuelle des évaluations et des GIR, demande unique sur l’individuel pour simplifier les parcours des assurés.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "LA CIBLE Professionnels: les porteurs de projets de prévention de la perte d’autonomie et du lien.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE Dans le cadre du partenariat qui lie la Carsat au Conseil départemental, beaucoup d’actions ont été mises en place: échanges de données, reconnaissance mutuelle des évaluations et des GIR, demande unique sur l’individuel pour simplifier les parcours des assurés.",
+        "contexte": "Titre: DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE Pages: 41  CARSAT NORD-EST DEMANDE UNIQUE DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE LES ACTEURS Porteur(s) de la pépite: Carsat Nord-Est.",
+        "problematique": "Titre: DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE Pages: 41  CARSAT NORD-EST DEMANDE UNIQUE DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE LES ACTEURS Porteur(s) de la pépite: Carsat Nord-Est.",
+        "solution_envisagee": "Les échanges autour du versant collectif CFPPA/appels à projets Carsat ont permis d’avancer également sur le versant collectif des financements autour de la prévention de la perte d’autonomie: • mise en place d’un calendrier commun d’appels à projets; • mise en place d’un système de dépôt des demandes CFPPA avec possibilité de coche « co-financement Carsat »; • ciblage des territoires prioritaires au regard de l’observatoire des fragilités; • co-instruction des demandes pour positionnement de chacun, sous réserve des votes des membres de la CFPPA et des administrateurs Carsat; • inscription de l’article conventionnel obligeant les porteurs de projets à inscrire les actions financées par la CFPPA sur pourbienvieillir.fr; • mise en place de formations PPAS pour les porteurs CFPPA pour inscription des actions.",
+        "objectifs": "Titre: DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE Pages: 41  CARSAT NORD-EST DEMANDE UNIQUE DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE LES ACTEURS Porteur(s) de la pépite: Carsat Nord-Est."
+    },
+    "porteur_initiative": "Titre: DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE Pages: 41  CARSAT NORD-EST DEMANDE UNIQUE DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE LES ACTEURS Porteur(s) de la pépite: Carsat Nord-Est.",
+    "date": [
+        "2021",
+        "2023",
+        "en 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

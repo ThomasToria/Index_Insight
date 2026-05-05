@@ -1,0 +1,53 @@
+{
+    "titre": "Statut tri: accepted",
+    "territoire": "L’hétérogénéité des taux de prévalence à l’intérieur même de la Guyane suggère que beaucoup d’enfants ne sont pas diagnostiqués et pas repérés par la Maison Départementale des Personnes Handicapées (MDPH).",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Objectifs: Notre objectif est donc de conduire une enquête qualitative auprès de familles de personnes ayant TSA et de personnes non directement concernés appartenant aux principales communautés de Guyane: Créoles Guyanais, Haïtiens, Brésiliens, Noirs Marrons, Amérindiens.",
+    "description": {
+        "description_generale": "Troubles du spectre autistique et contexte multiculturel en Guyane: Étude qualitative pour comprendre les représentations dans différentes communautés pour optimiser l’action publique  Statut tri: accepted Source: IReSP URL: https://iresp.net/projets_finances/troubles-du-spectre-autistique-et-contexte-multiculturel-en-guyane-etude-qualitative-pour-comprendre-les-representations-dans-differentes-communautes-pour-optimiser-laction-publique/ Programme concerné: Autonomie Nom de l'appel: Troubles du spectre de l’autisme, troubles du neuro-développement et Sciences humaines et sociales Année: 2024 État du projet: En cours Durée: 18 mois Subvention allouée: 149 035,00 Financeurs: CNSA Disciplines: Anthropologie, Santé Publique, Sociologie.",
+        "contexte": "Perspectives: une meilleure compréhension du vécu des familles et de la perception des communautés guyanaises semble essentielle à l’adaptation du système médico-social et éducatif en Guyane où les recettes “made in France” sont souvent en décalage avec le contexte local.",
+        "problematique": "Le recours à des méthodes qualitatives vise à apporter une compréhension plus fine des enjeux individuels, culturels et organisationnels.",
+        "solution_envisagee": "LES ACTUALITÉS 03/03/2026 Enrichissez le catalogue des études en santé humaine > Lire la suite 27/02/2026 Deuil après suicide: résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique > Lire la suite 05/02/2026 Troubles de l’usage des opioïdes: pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments? > Lire la suite 10/04/2025 FReSH, le portail des études en santé > Lire la suite LES MEMBRES DE L'IRESP INSCRIVEZ-VOUS A NOTRE NEWSLETTER L'institut Missions Organisation Les instances de l'IReSP Équipe Contact Recrutement Mentions légales Politique de confidentialité IReSP Institut pour la Recherche en Santé Publique Paris Biopark Bâtiment A – 1er étage 8, rue de la croix Jarry 75013 Paris 01 82 53 34 64 info@iresp.net Agence Web AUDOUIN REALISATIONS",
+        "objectifs": "Objectifs: Notre objectif est donc de conduire une enquête qualitative auprès de familles de personnes ayant TSA et de personnes non directement concernés appartenant aux principales communautés de Guyane: Créoles Guyanais, Haïtiens, Brésiliens, Noirs Marrons, Amérindiens."
+    },
+    "porteur_initiative": "Equipes du projet Coordonnateur: NACHER Mathieu N° ORCID: 0000-0001-9397-3204 Structure administrative de rattachement: Centre hospitalier de cayenne Laboratoire ou équipe: CIC Antilles Guyane CIC1424 Inserm N° RNSR: 200820137H Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2024",
+        "0000",
+        "0001",
+        "9397",
+        "3204",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\126_2024_troubles_du_spectre_autistique_et_contexte_multiculturel_en_guyane_etude_qualitative_pour_comprendre_les_representations.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\126_2024_troubles_du_spectre_autistique_et_contexte_multiculturel_en_guyane_etude_qualitative_pour_comprendre_les_representations.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

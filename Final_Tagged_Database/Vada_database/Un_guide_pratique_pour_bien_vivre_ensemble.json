@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Un guide pratique pour bien vivre ensemble",
+    "territoire": "Titre: Un guide pratique pour bien vivre ensemble Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/117-117-un-guide-pratique-pour-bien-vivre-ensemble.pdf  ---  --- FAIRE CIRCULER L’INFORMATION Le Guide des Seniors lédonien est le résultat d’un travail mené en partenariat entre la ville de Lons- le- Saunier et l’ Agence Régionale de Santé de Franche- Comté.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Ce guide est composé de huit parties inspirées des thématiques clés de la démarche Villes Amies des Aînés: Transport, Logement, Santé, Seniors actifs, Loisirs, Vie sociale, Aides financières et Droits.",
+    "description": {
+        "description_generale": "Coût: Environ 10 000 € LONS-LE-SAUNIER Ville Amie des Aînés depuis 06-2014 Lons-le-Saunier (39) Fiche publiée le 27/03/2015 INFORMATION ET COMMUNICATION www.villesamiesdesaines-rf.fr Si, comme Lons-le-Saunier vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part. rfvada@gmail.com APPEL À CONTRIBUTION",
+        "contexte": "La plus grande difficulté a donc été de n’ oublier personne, ce qui nécessitait un travail d e diagnostic territorial préalable très complet.",
+        "problematique": "La plus grande difficulté a donc été de n’ oublier personne, ce qui nécessitait un travail d e diagnostic territorial préalable très complet.",
+        "solution_envisagee": "Ce guide est composé de huit parties inspirées des thématiques clés de la démarche Villes Amies des Aînés: Transport, Logement, Santé, Seniors actifs, Loisirs, Vie sociale, Aides financières et Droits.",
+        "objectifs": "Permettre aux âgés de repérer les acteurs locaux. Créer un document\nunique permettant d’avoir accès à des informations synthétiques.\nPRATIQUE\nDéfinir les objectifs du guide et un contenu grâce à des groupes de\ntravail. Répertorier les acteurs. Diffuser le guide.\nCoût: Environ 10 000 €\nLONS-LE-SAUNIER\nVille Amie des Aînés depuis 06-2014\nLons-le-Saunier (39)\nFiche publiée le 27/03/2015\nINFORMATION ET COMMUNICATION\nwww.villesamiesdesaines-rf.fr\nSi, comme Lons-le-Saunier vous avez mis en place des\nprojets pour les aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Ce guide est composé de huit parties inspirées des thématiques clés de la démarche Villes Amies des Aînés: Transport, Logement, Santé, Seniors actifs, Loisirs, Vie sociale, Aides financières et Droits.",
+    "date": [
+        "octobre 2013",
+        "27/03/2015",
+        "2025",
+        "2013",
+        "6000",
+        "2014",
+        "2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_pratique_pour_bien_vivre_ensemble.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_guide_pratique_pour_bien_vivre_ensemble.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

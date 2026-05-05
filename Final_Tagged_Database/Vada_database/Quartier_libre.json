@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Quartier libre",
+    "territoire": "Titre: Quartier libre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/901-concours-2023-quartier-libre-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS COORDONNER LES ACTIONS DU CCAS Le CCAS de Metz par sa Direction des Retraités et Personnes Âgées mène une politique globale en faveur des actions de prévention destinées au public senior.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Quartier libre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/901-concours-2023-quartier-libre-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS COORDONNER LES ACTIONS DU CCAS Le CCAS de Metz par sa Direction des Retraités et Personnes Âgées mène une politique globale en faveur des actions de prévention destinées au public senior.",
+    "description": {
+        "description_generale": "MISE EN PLACE: DES BINÔMES DE SENIORS Pour mettre en place ce projet, il a fallu tout d'abord définir le rôle du CCAS et des partenaires, puis établir un rétroplanning des actions à mener, planifier le programme proposé aux bénéficiaires et coordonner la mise en œuvre tout au long du dispositif.",
+        "contexte": "Titre: Quartier libre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/901-concours-2023-quartier-libre-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS COORDONNER LES ACTIONS DU CCAS Le CCAS de Metz par sa Direction des Retraités et Personnes Âgées mène une politique globale en faveur des actions de prévention destinées au public senior.",
+        "problematique": "Trois parcours VitaMetz pour la pratique d'activité physique, 3,5km à 6,5km, ont été créés et sont adaptés à la pratique des seniors avec la volonté de répondre aux besoins de tous.",
+        "solution_envisagee": "MISE EN PLACE: DES BINÔMES DE SENIORS Pour mettre en place ce projet, il a fallu tout d'abord définir le rôle du CCAS et des partenaires, puis établir un rétroplanning des actions à mener, planifier le programme proposé aux bénéficiaires et coordonner la mise en œuvre tout au long du dispositif.",
+        "objectifs": "Proposition de divers ateliers, sportifs, créatifs, culturels et divertissants afin de favoriser le lien social et les moments d'échanges."
+    },
+    "porteur_initiative": "Titre: Quartier libre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/901-concours-2023-quartier-libre-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS COORDONNER LES ACTIONS DU CCAS Le CCAS de Metz par sa Direction des Retraités et Personnes Âgées mène une politique globale en faveur des actions de prévention destinées au public senior.",
+    "date": [
+        "mars 2022",
+        "2025",
+        "2023",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Quartier_libre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Quartier_libre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

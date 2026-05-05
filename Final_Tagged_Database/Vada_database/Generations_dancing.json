@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Générations dancing",
+    "territoire": "Titre: Générations dancing Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/926-pe-laval-generations-dancing.pdf  ---  --- UN APRÈS-MIDI DANSANT L'Espace Seniors Intergénérationnel est un lieu d'accueil et d'informations, de prévention, de rencontres et d'actions de solidarité entre toutes les générations.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "C'est à ce titre que les usagers de l'Espace seniors intergénérationnel ont exprimé l'envie d'un après-midi dansant modernisé, ayant lieu en après-midi pour des raisons d'horaires adaptés à leur mode de vie.",
+    "description": {
+        "description_generale": "LES GÉNÉRATIONS DANSENT ET CHANTENT POUR SE RETROUVER Ce projet prend de l'ampleur avec l'implication de plus en plus importante des différents services et partenaires, notamment en termes de représentation des âges.",
+        "contexte": "Le constat d'une demande régulière et d'une envie exprimée par les personnes sur ce genre d'événements à acter la pérennisation de cette action à la hauteur de deux par an.",
+        "problematique": "Titre: Générations dancing Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/926-pe-laval-generations-dancing.pdf  ---  --- UN APRÈS-MIDI DANSANT L'Espace Seniors Intergénérationnel est un lieu d'accueil et d'informations, de prévention, de rencontres et d'actions de solidarité entre toutes les générations.",
+        "solution_envisagee": "En concertation, il a été pris en compte leurs envies et désirs en terme de musiques, de répondre à la demande de proposer un Karaoké ainsi que des jeux musicaux.",
+        "objectifs": "L'objectif est que chaque personne puisse trouver son bonheur au cours de ce temps festif, notamment avec peu de danses de couple et surtout de créer de nouvelles rencontres."
+    },
+    "porteur_initiative": "Titre: Générations dancing Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/926-pe-laval-generations-dancing.pdf  ---  --- UN APRÈS-MIDI DANSANT L'Espace Seniors Intergénérationnel est un lieu d'accueil et d'informations, de prévention, de rencontres et d'actions de solidarité entre toutes les générations.",
+    "date": [
+        "4 juin 2024",
+        "juin 2024",
+        "2025",
+        "2015",
+        "2024",
+        "1959",
+        "depuis 2015",
+        "depuis 1959"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Generations_dancing.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Generations_dancing.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: \"Hygie\"",
+    "territoire": "Titre: \"Hygie\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/682-pe-18-hygie-boulogne-sur-mer-2.pdf  ---  --- \"HYGIE\"Concours  RFVAA 2021 UN APPARTEMENT TÉMOIN EN RÉPONSE À UN BESOIN Si nombre de seniors expriment le souhait de demeurer à domicile (au sein des quatre résidences autonome gérées par le CCAS de Boulogne-sur-Mer, lors de l’élaboration des projet de vie individualisés, la grande majorité des résidents a en effet exprimé le souhait de vivre le plus longtemps possible à domicile), dans la mesure où cela leur permet de continuer d’exercer leurs choix de façon autonome.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: \"Hygie\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/682-pe-18-hygie-boulogne-sur-mer-2.pdf  ---  --- \"HYGIE\"Concours  RFVAA 2021 UN APPARTEMENT TÉMOIN EN RÉPONSE À UN BESOIN Si nombre de seniors expriment le souhait de demeurer à domicile (au sein des quatre résidences autonome gérées par le CCAS de Boulogne-sur-Mer, lors de l’élaboration des projet de vie individualisés, la grande majorité des résidents a en effet exprimé le souhait de vivre le plus longtemps possible à domicile), dans la mesure où cela leur permet de continuer d’exercer leurs choix de façon autonome.",
+    "description": {
+        "description_generale": "UNE ACTION PERMISE PAR DE MULTIPLES PARTENAIRES Dans un premier temps, le CCAS a obtenu l’accord du bailleur pour la mise à disposition d’un appartement pour ce projet.",
+        "contexte": "Les agents des services, de leur côté, à l’issue des réunions de coordination et d’échanges, ont fait en effet un constat unanime; les personnes âgées, bien qu’autonomes, se trouvent souvent limitées dans nombre d’actions quotidiennes.",
+        "problematique": "Titre: \"Hygie\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/682-pe-18-hygie-boulogne-sur-mer-2.pdf  ---  --- \"HYGIE\"Concours  RFVAA 2021 UN APPARTEMENT TÉMOIN EN RÉPONSE À UN BESOIN Si nombre de seniors expriment le souhait de demeurer à domicile (au sein des quatre résidences autonome gérées par le CCAS de Boulogne-sur-Mer, lors de l’élaboration des projet de vie individualisés, la grande majorité des résidents a en effet exprimé le souhait de vivre le plus longtemps possible à domicile), dans la mesure où cela leur permet de continuer d’exercer leurs choix de façon autonome.",
+        "solution_envisagee": "Titre: \"Hygie\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/682-pe-18-hygie-boulogne-sur-mer-2.pdf  ---  --- \"HYGIE\"Concours  RFVAA 2021 UN APPARTEMENT TÉMOIN EN RÉPONSE À UN BESOIN Si nombre de seniors expriment le souhait de demeurer à domicile (au sein des quatre résidences autonome gérées par le CCAS de Boulogne-sur-Mer, lors de l’élaboration des projet de vie individualisés, la grande majorité des résidents a en effet exprimé le souhait de vivre le plus longtemps possible à domicile), dans la mesure où cela leur permet de continuer d’exercer leurs choix de façon autonome.",
+        "objectifs": "Fiche PARTAGE D'EXPÉRIENCE 550 Villes Amies des Aînés en France Ville de Boulogne-Sur-Mer Ville adhérente depuis 2018 Boulogne-Sur-Mer (62) Favoriser la manipulation et la découverte par soi-même permettant à des personnes fragilisées de découvrir des solutions adaptées à leur logement."
+    },
+    "porteur_initiative": "Les solutions présentées au sein de cet appartement sont de deux ordres: techniques et domotiques.",
+    "date": [
+        "31 décembre 2021",
+        "décembre 2021",
+        "janvier 2021",
+        "2025",
+        "2021",
+        "2018",
+        "7394",
+        "2019",
+        "depuis 2018",
+        "en",
+        "en 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Hygie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Hygie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

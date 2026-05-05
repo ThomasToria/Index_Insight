@@ -1,0 +1,44 @@
+{
+    "titre": "Personnes âgées, personnes isolées: maintenir le lien social malgré le confinement",
+    "territoire": "Identifier les situations d’isolement les plus critiques, répondre aux besoins d’approvisionnement, en nourriture comme en médicaments, et maintenir un lien social, un contact humain pour ceux que la crise sanitaire isole durablement. « Conciergerie solidaire » Depuis le 20 mars, cette « conciergerie solidaire » fonctionne sur l’ensemble du territoire métropolitain.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Personnes âgées, personnes isolées: maintenir le lien social malgré le confinement  https://www.fondationdefrance.org/fr/cat-personnes-agees/personnes-agees-personnes-isolees-maintenir-le-lien-social-malgre-le-confinement  Qui sommes-nous?",
+    "description": {
+        "description_generale": "Faire un don POUR ALLER PLUS LOIN → Tous unis contre le virus: découvrez l'ensemble des actions menées → Tous unis contre le virus: soutien aux projets en cours et à venir Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+        "contexte": "Face à l’épidémie, le confinement constitue une mesure sanitaire de mise à l’abri.",
+        "problematique": "Identifier les situations d’isolement les plus critiques, répondre aux besoins d’approvisionnement, en nourriture comme en médicaments, et maintenir un lien social, un contact humain pour ceux que la crise sanitaire isole durablement. « Conciergerie solidaire » Depuis le 20 mars, cette « conciergerie solidaire » fonctionne sur l’ensemble du territoire métropolitain.",
+        "solution_envisagee": "Enfin, pour les malades chroniques qui ont besoin de médicaments, un accord passé avec la Fédération des syndicats des pharmacies de France et l’Union nationale des pharmacies de France permet de leur livrer, dès lors qu’une ordonnance a été enregistrée par l’officine de proximité.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "Personnes âgées, personnes isolées: maintenir le lien social malgré le confinement  https://www.fondationdefrance.org/fr/cat-personnes-agees/personnes-agees-personnes-isolees-maintenir-le-lien-social-malgre-le-confinement  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées, personnes isolées maintenir le lien social malgré le confinement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Personnes âgées, personnes isolées maintenir le lien social malgré le confinement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

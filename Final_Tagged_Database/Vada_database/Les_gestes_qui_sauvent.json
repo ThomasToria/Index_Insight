@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Les gestes qui sauvent",
+    "territoire": "Titre: Les gestes qui sauvent Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1099-concours-2024-les-gestes-qui-sauvent.pdf  ---  --- PRÉVENIR LES ACCIDENTS MORTELS Les trois-quarts des accidents mortels des personnes âgées se produisent à cause de chutes, d'un étouffement, d'un malaise, d'un accident lié au feu.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Les gestes qui sauvent Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1099-concours-2024-les-gestes-qui-sauvent.pdf  ---  --- PRÉVENIR LES ACCIDENTS MORTELS Les trois-quarts des accidents mortels des personnes âgées se produisent à cause de chutes, d'un étouffement, d'un malaise, d'un accident lié au feu.",
+    "description": {
+        "description_generale": "PRÉPARATION DE L’ACTION Le CCAS a tout d'abord fait acte de candidature dans le cadre de l'appel à projet \"Actions collectives de prévention 2024\" porté par la conférence des financeurs de la prévention de la perte d'autonomie de Saône-et-Loire, dans le but d'obtenir des financements destinés à rendre les moyens mis en œuvre pertinents.",
+        "contexte": "Les seniors ne savent souvent pas comment réagir face à ces situations, et se pensent incapables d'agir du fait de leur âge.",
+        "problematique": "Le CCAS porte dans sa politique sociale un axe sur la prévention/santé/bien être ainsi que sur la sensibilisation aux enjeux de santé publique qui répond totalement à ce projet.",
+        "solution_envisagee": "Dès notification, l'Union Départementale des Sapeurs Pompiers du 71 a été sollicitée pour déterminer les modalités de partenariat, les lieux et dates de mise en place de cette action.",
+        "objectifs": "Titre: Les gestes qui sauvent Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1099-concours-2024-les-gestes-qui-sauvent.pdf  ---  --- PRÉVENIR LES ACCIDENTS MORTELS Les trois-quarts des accidents mortels des personnes âgées se produisent à cause de chutes, d'un étouffement, d'un malaise, d'un accident lié au feu."
+    },
+    "porteur_initiative": "PRÉPARATION DE L’ACTION Le CCAS a tout d'abord fait acte de candidature dans le cadre de l'appel à projet \"Actions collectives de prévention 2024\" porté par la conférence des financeurs de la prévention de la perte d'autonomie de Saône-et-Loire, dans le but d'obtenir des financements destinés à rendre les moyens mis en œuvre pertinents.",
+    "date": [
+        "septembre 2024",
+        "2025",
+        "1099",
+        "2024",
+        "2021",
+        "2022",
+        "2023",
+        "depuis 2023",
+        "en 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_gestes_qui_sauvent.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_gestes_qui_sauvent.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

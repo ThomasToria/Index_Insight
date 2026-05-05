@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Salon senior à tours",
+    "territoire": "Titre: Salon senior à tours Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/954-concours-2023-salon-senior-a-tours.pdf  ---  --- CHANGER DE REGARD Le projet est parti du besoin d'un évènement à la fois à destination des seniors et des professionnels du territoire.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Salon senior à tours Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/954-concours-2023-salon-senior-a-tours.pdf  ---  --- CHANGER DE REGARD Le projet est parti du besoin d'un évènement à la fois à destination des seniors et des professionnels du territoire.",
+    "description": {
+        "description_generale": "Il y a eu plus de 40 interventions sur le salon: conférences, débats et moments de témoignages, animations et ateliers (soins, yoga, gym douce par exemple), présentation de dispositifs et de structures.",
+        "contexte": "Le constat étant qu'il existe une méconnaissance des services et des droits pour les seniors.",
+        "problematique": "Titre: Salon senior à tours Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/954-concours-2023-salon-senior-a-tours.pdf  ---  --- CHANGER DE REGARD Le projet est parti du besoin d'un évènement à la fois à destination des seniors et des professionnels du territoire.",
+        "solution_envisagee": "Proposer une programmation diversifiée sur la thématique de l'âgisme.",
+        "objectifs": "Puis des temps de travail et de rencontres avec les partenaires pour présenter les finalités du projet, définir les objectifs et actions puis les programmer."
+    },
+    "porteur_initiative": "Les acteurs rencontrés dans la démarche du \"Bien vieillir\", portée par le CCAS de Tours, ont fait part d'un besoin de mieux se connaitre et de mieux connaitre les initiatives du territoire.",
+    "date": [
+        "16 octobre 2022",
+        "octobre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_senior_a_tours.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Salon_senior_a_tours.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

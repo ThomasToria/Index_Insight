@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: Et si on se retrouvait",
+    "territoire": "Titre: Et si on se retrouvait Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-ET-SI-ON-SE-RETROUVAIT.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  ET SI ON SE RETROUVAIT  ROMPRE LA SOLITUDE DES AINÉS Le Conseil Consultatif Seniors de Saint-Etienne a été créé en 2014.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Et si on se retrouvait Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-ET-SI-ON-SE-RETROUVAIT.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  ET SI ON SE RETROUVAIT  ROMPRE LA SOLITUDE DES AINÉS Le Conseil Consultatif Seniors de Saint-Etienne a été créé en 2014.",
+    "description": {
+        "description_generale": "Analyse des besoins de seniors à domicile par le biais de groupe de travail avec les membres du CCS Choix d'un référent, senior membre du CCS, par quartier pour porter l'action Démarchage dans chaque quartier pour trouver la population cible Mise en place des rencontres tous les mois Evaluation à 1 an  Ville Amie des Aînés depuis 2016  ---  --- PREMIER QUARTIER, PREMIÈRES RENCONTRES Un quartier a été identifié pour être le premier à l'initiative de ces temps de rencontre.",
+        "contexte": "Titre: Et si on se retrouvait Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-ET-SI-ON-SE-RETROUVAIT.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  ET SI ON SE RETROUVAIT  ROMPRE LA SOLITUDE DES AINÉS Le Conseil Consultatif Seniors de Saint-Etienne a été créé en 2014.",
+        "problematique": "Lors d'ateliers de travail, la question de l’isolement des seniors est ressortie comme une problématique majeure (perte de conjoint, retraite, isolement familial, difficultés à se déplacer...).",
+        "solution_envisagee": "Titre: Et si on se retrouvait Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-ET-SI-ON-SE-RETROUVAIT.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  ET SI ON SE RETROUVAIT  ROMPRE LA SOLITUDE DES AINÉS Le Conseil Consultatif Seniors de Saint-Etienne a été créé en 2014.",
+        "objectifs": "Ils se sont réunis tous les deux mois pour définir les besoins, les objectifs, les actions à mettre en œuvre dans un quartier choisi."
+    },
+    "porteur_initiative": "Analyse des besoins de seniors à domicile par le biais de groupe de travail avec les membres du CCS Choix d'un référent, senior membre du CCS, par quartier pour porter l'action Démarchage dans chaque quartier pour trouver la population cible Mise en place des rencontres tous les mois Evaluation à 1 an  Ville Amie des Aînés depuis 2016  ---  --- PREMIER QUARTIER, PREMIÈRES RENCONTRES Un quartier a été identifié pour être le premier à l'initiative de ces temps de rencontre.",
+    "date": [
+        "décembre 2023",
+        "mai",
+        "mai 2024",
+        "2025",
+        "2014",
+        "2023",
+        "2024",
+        "2016",
+        "2027",
+        "5000",
+        "2026",
+        "depuis 2016",
+        "en 2014",
+        "en",
+        "en 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_se_retrouvait.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Et_si_on_se_retrouvait.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.8,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

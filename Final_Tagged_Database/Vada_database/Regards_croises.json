@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Regards croisés",
+    "territoire": "Titre: Regards croisés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Regards-croises.pdf  ---  --- UN FINANCEMENT SUR 3 ANS La Conférence des Financeurs de la prévention de la perte de l'autonomie a lancé un appel à projet en fin d'année 2022 auquel le CIAS a répondu via l’action \"regards croisés\" qui a fait l'objet d'un subventionnement sur 3 ans à hauteur de 2500 € par an (2023, 2024 et 2025).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Permettre de réamorcer des actions de socialisation pour des publics seniors isolés.",
+    "description": {
+        "description_generale": "L'action continue en 2025, avec le projet \"le fil du temps: tradition et innovations\" qui débutera en septembre.",
+        "contexte": "Le projet fonctionne grâce à de nombreux partenaires: la ludothèque intercommunale, des associations de danse, des communes de la CCGAM, ainsi que grâce à l'implication des intervenantes.",
+        "problematique": "Ateliers générationnels pour construire les relations progressivement Projet 2023: \"Bienvenue à la fortune du pot\" Projet 2024: \" Des quartiers, des histoires\" Projet 2025 (à venir): \" Le fil du temps: tradition et innovation\" Coût CFPPA annuel: 2500 € CIAS du Grand Autunois Morvan Ville Amie des Aînés depuis 2022 Grand Autunois Morvan (71)  ---  --- DE VÉRITABLES ÉCHANGES C es rencontres ont permis de favoriser le lien social, et la présence des jeunes a grandement permis de rompre l'isolement.",
+        "solution_envisagee": "Mise en place de binômes jeune-aîné dans le cadre de projets intergénérationnel pour créer à deux.",
+        "objectifs": "Ce projet consiste en la mbilisation d'une dizaine de seniors isolés (par an) dans le cadre d'échanges avec des jeunes de l'EPIDE d'Etang-sur-Arroux pour développer une action intergénérationnelle sous la forme d'un regard croisé qui donnerait un écho positif à ces échanges."
+    },
+    "porteur_initiative": "Le projet fonctionne grâce à de nombreux partenaires: la ludothèque intercommunale, des associations de danse, des communes de la CCGAM, ainsi que grâce à l'implication des intervenantes.",
+    "date": [
+        "2025",
+        "2022",
+        "2500",
+        "2023",
+        "2024",
+        "depuis 2022",
+        "En 2023",
+        "en 2025",
+        "En 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Regards_croises.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Regards_croises.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

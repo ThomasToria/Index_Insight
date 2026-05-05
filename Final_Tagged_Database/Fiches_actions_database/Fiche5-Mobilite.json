@@ -1,0 +1,41 @@
+{
+    "titre": "---  ---",
+    "territoire": "Pour les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l’extérieur du village.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°5 CREER un service de transport solidaire Objectifs • Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l’amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social Indicateurs de réussite • Nombres de bénévoles conducteurs identifiés • Nombres de bénéficiaires • Nombre d’actions réalisées Quoi?",
+    "description": {
+        "description_generale": "Humaines: Bénévoles conducteurs, bénévoles et soutien de la commune pour l’organisation Matérielles: Mettre en place le service en questionnant la population et créant une plateforme Information et communication: Réunion d’information générale/ Communication journaux locaux, internet Financières: A déterminer\nRESSOURCES\nMobilité",
+        "contexte": "Pour les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l’extérieur du village.",
+        "problematique": "Dès que le listing des bénévoles conducteurs et des bénéficaires est établi Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques DESCRIPTION Humaines: Bénévoles conducteurs, bénévoles et soutien de la commune pour l’organisation Matérielles: Mettre en place le service en questionnant la population et créant une plateforme Information et communication: Réunion d’information générale/ Communication journaux locaux, internet Financières: A déterminer RESSOURCES Mobilité",
+        "solution_envisagee": "Pour les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l’extérieur du village.",
+        "objectifs": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°5 CREER un service de transport solidaire Objectifs • Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l’amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social Indicateurs de réussite • Nombres de bénévoles conducteurs identifiés • Nombres de bénéficiaires • Nombre d’actions réalisées Quoi?"
+    },
+    "porteur_initiative": "Pour les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l’extérieur du village.",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche5-Mobilite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche5-Mobilite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

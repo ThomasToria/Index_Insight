@@ -1,0 +1,43 @@
+{
+    "titre": "Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté",
+    "territoire": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France Centre-Est Sur le thème « Vivre ses choix, prendre des risques jusqu’à la fin de sa vie », le colloque, organisé par la Fondation de France le 16 octobre à l’Hôtel de Ville de Lyon, a soulevé les questions du droit au choix et de l’autonomie des personnes âgées.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Ce type d’initiative interroge sur la liberté et l’autonomie accordées aux personnes âgées, en regard de l’obligation de prendre soin d’eux et du désir de les protéger. « Liberté et autonomie: deux valeurs à concilier pour éviter l’abus de pouvoir comme l’abus de risques », affirmait Jean-Luc Noël, psychologue.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté  https://www.fondationdefrance.org/fr/cat-fondation-de-france-centre-est/colloque-a-lyon-reconcilier-le-besoin-de-securite-et-le-besoin-de-liberte  Qui sommes-nous?",
+        "solution_envisagee": "Donner du sens aux outils technologiques « Pour réconcilier autonomie et liberté, les technologies ne seraient-elles pas une partie de la solution? », questionne Brigitte Ruef, bénévole à la Fondation de France.",
+        "objectifs": "D’ailleurs, Véronique Chirié a insisté sur « la complémentarité entre les aides humaines, l’aménagement du logement et les aides technologiques » pour favoriser le bien-vieillir au domicile."
+    },
+    "porteur_initiative": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France Centre-Est Sur le thème « Vivre ses choix, prendre des risques jusqu’à la fin de sa vie », le colloque, organisé par la Fondation de France le 16 octobre à l’Hôtel de Ville de Lyon, a soulevé les questions du droit au choix et de l’autonomie des personnes âgées.",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Maison 3S",
+    "territoire": "Titre: Maison 3S Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/835-concours-2022-65-maison-3s.pdf  ---  --- UNE MAISON ADAPTÉE AU MAINTIEN À DOMICILE Le projet émane d'une rencontre entre les élus de la ville de Port-Jérôme- Sur-Seine et le bailleur social LOGEAL Immobilière.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "La Maison 3S (services, solutions, seniors) est une maison témoin du maintien à domicile avec des outils domotiques innovants.",
+    "description": {
+        "description_generale": "Le CCAS participe aussi à l'animation du comité de pilotage, le suivi du dispositif, à l'équipement entier de la Maison 3S en mobiliers, matériels, outils divers… Mais également à la création, avec le bailleur et le service communication de la ville, des outils de communication à destination de la population: des visites virtuelles, un blog, des flyers… LES AUTRES PARTENAIRES Les partenaires porteurs du projet sont LOGEAL Immobilière qui s'est acquitté de son rôle de bailleur, gestionnaire des travaux de réhabilitation et d'aménagement du logement et le CCAS en matière de gestion et d'entretien du logement.",
+        "contexte": "Titre: Maison 3S Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/835-concours-2022-65-maison-3s.pdf  ---  --- UNE MAISON ADAPTÉE AU MAINTIEN À DOMICILE Le projet émane d'une rencontre entre les élus de la ville de Port-Jérôme- Sur-Seine et le bailleur social LOGEAL Immobilière.",
+        "problematique": "Titre: Maison 3S Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/835-concours-2022-65-maison-3s.pdf  ---  --- UNE MAISON ADAPTÉE AU MAINTIEN À DOMICILE Le projet émane d'une rencontre entre les élus de la ville de Port-Jérôme- Sur-Seine et le bailleur social LOGEAL Immobilière.",
+        "solution_envisagee": "La Maison 3S (services, solutions, seniors) est une maison témoin du maintien à domicile avec des outils domotiques innovants.",
+        "objectifs": "Le CCAS a souhaité inclure la Maison 3S dans l'environnement de proximité mais également renforcer la participation sociale à la vie collective et au vivre ensemble."
+    },
+    "porteur_initiative": "Le CCAS participe aussi à l'animation du comité de pilotage, le suivi du dispositif, à l'équipement entier de la Maison 3S en mobiliers, matériels, outils divers… Mais également à la création, avec le bailleur et le service communication de la ville, des outils de communication à destination de la population: des visites virtuelles, un blog, des flyers… LES AUTRES PARTENAIRES Les partenaires porteurs du projet sont LOGEAL Immobilière qui s'est acquitté de son rôle de bailleur, gestionnaire des travaux de réhabilitation et d'aménagement du logement et le CCAS en matière de gestion et d'entretien du logement.",
+    "date": [
+        "décembre 2021",
+        "2025",
+        "2022",
+        "2021",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_3S.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Maison_3S.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

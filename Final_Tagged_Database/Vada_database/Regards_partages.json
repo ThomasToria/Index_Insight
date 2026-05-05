@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Regards partagés",
+    "territoire": "Titre: Regards partagés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/831-concours-2022-59-regards-partages.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL ET UNE INSTALLATION DOCUMENTAIRE L'action consiste en la création d'une installation documentaire et intergénérationnelle entre les seniors du centre socio-culturel et les élèves de CM1 de l'école des Gantelles.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Les enfants et les seniors ont abordé des thèmes communs: l'amitié, la famille, les souvenirs, les balades, les terrains de sports… Une fois associées entre elles dans l’installation finale, ces créations des différents publics dressent un portrait intime et poétique du quartier.",
+    "description": {
+        "description_generale": "L'ORGANISATION DE L'ACTION Ce projet a été permis par plusieurs acteurs: l' École des Gantelles, les archives municipales (recherche sur le quartier photos, documents), la salle Guy Ropartz (prêt de la salle pour temps fort) et la direction de quartier (financier).",
+        "contexte": "Les créations documentaires sont fabriquées par les personnes qui sont accompagnées par l’artiste: une photographie, un message vocal, une lettre.",
+        "problematique": "L’enjeu est d’exprimer et de rendre partageable sa subjectivité et de se rendre curieux de celle de l’autre. \"Regards partagés\" est une invitation à la rencontre, loin des idées reçues que l’on peut avoir au préalable d’un senior quand on a 9-10 ans et inversement!",
+        "solution_envisagee": "Mettre en place la création de photographies des lieux du quartier, de texte autobiographiques, de questions, de réponses, de rencontres.",
+        "objectifs": "Développer sa curiosité et permettre une meilleure connaissance de l'autre par les rencontres."
+    },
+    "porteur_initiative": "Les créations documentaires sont fabriquées par les personnes qui sont accompagnées par l’artiste: une photographie, un message vocal, une lettre.",
+    "date": [
+        "octobre 2021",
+        "avril 2022",
+        "mai 2022",
+        "2025",
+        "2022",
+        "2021",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Regards_partages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Regards_partages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

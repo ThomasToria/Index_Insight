@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: HOST: rendre les nouvelles technologies accessibles aux seniors",
+    "territoire": "Titre: HOST: rendre les nouvelles technologies accessibles aux seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/134-pe-host.pdf  ---  --- LES NTCI AU SERVICE DES SENIORS: DES ENJEUX MULTIPLES En 2011, un projet de grande ampleur sur l’usage des nouvelles technologies par les seniors a vu le jour: le projet HOST (Smart technologies for selfservice to seniors in social housing).",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "régionale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "HOST: RENDRE LES NOUVELLES TECHNOLOGIES ACCESSIBLES AUX SENIORS Fiche PARTAGE D'EXPÉRIENCE N°134 Villes Amies des Aînés en France OPAC du Rhône Ville Amie des Aînés depuis 2009 Lyon (69) Encourager l’usage des nouvelles technologies pour permettre aux personnes âgées de rester autonomes chez elles le plus longtemps possible.",
+    "description": {
+        "description_generale": "Organiser un processus de soutien et de formation à l’usage des supports numériques retenus (en France et en Italie: tablette numérique) et des applications développées.  ---  --- L‘EXPÉRIMENTATION DU DISPOSITIF Après la phase de co-design, 40 nouveaux locataires âgés de 60 à 86 ans ont expérimenté les applications développées.",
+        "contexte": "A l’origine de ce projet, plusieurs interrogations issues de l’expérience de terrain de l’OPAC du Rhône: Comment, demain, réduire la « fracture numérique »?",
+        "problematique": "Titre: HOST: rendre les nouvelles technologies accessibles aux seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/134-pe-host.pdf  ---  --- LES NTCI AU SERVICE DES SENIORS: DES ENJEUX MULTIPLES En 2011, un projet de grande ampleur sur l’usage des nouvelles technologies par les seniors a vu le jour: le projet HOST (Smart technologies for selfservice to seniors in social housing).",
+        "solution_envisagee": "Un prestataire de l’OPAC du Rhône, Connex-it, apportait par la suite le matériel au domicile de chaque participant (tablette wifi ou 3G, box, guides de formation), connectait le matériel et proposait trois heures d’accompagnement à la prise en main de la tablette et des applications.",
+        "objectifs": "Là encore, l’objectif principal est de favoriser le lien social entre les personnes âgées et les acteurs locaux de leurs communes."
+    },
+    "porteur_initiative": "Inscrit dans un programme de recherche financé par l’Europe (programme AAL) et pour la France par l’Agence Nationale de la Recherche, avec le soutien de la CNSA, ce projet a été piloté par l’OPAC du Rhône, premier bailleur social de la région Rhône Alpes.",
+    "date": [
+        "2025",
+        "2011",
+        "2009",
+        "2014",
+        "depuis 2009",
+        "En 2011",
+        "en 2014"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\HOST_rendre_les_nouvelles_technologies_accessibles_aux_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\HOST_rendre_les_nouvelles_technologies_accessibles_aux_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

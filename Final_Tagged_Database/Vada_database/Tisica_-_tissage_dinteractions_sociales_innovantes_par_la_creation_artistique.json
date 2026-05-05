@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Tisica - tissage d'interactions sociales innovantes par la création artistique",
+    "territoire": "Titre: Tisica - tissage d'interactions sociales innovantes par la création artistique Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/977-concours-2023-tisica-tissage-dʼinteractions-sociales-innovantes-par-la-creation-artistique.pdf  ---  --- LE PROJET ARTISTIQUE TISICA Césaré développe depuis longtemps des projets de territoire dont la vocation est la rencontre créative entre artistes et populations autour de dispositifs innovants.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Le projet TISICA porte sur des ateliers artistiques créatifs au sein du Pôle EHPAD– USLD du CHU de Reims au cours desquels sont manipulés par les résidents, encadrés par des artistes et personnels soignants, des dispositifs technologiques innovants permettant à ces personnes âgées une expression de leurs émotions en s’appuyant sur leurs capacités et leurs sens et favorisant bien-être et autonomie.",
+    "description": {
+        "description_generale": "Titre: Tisica - tissage d'interactions sociales innovantes par la création artistique Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/977-concours-2023-tisica-tissage-dʼinteractions-sociales-innovantes-par-la-creation-artistique.pdf  ---  --- LE PROJET ARTISTIQUE TISICA Césaré développe depuis longtemps des projets de territoire dont la vocation est la rencontre créative entre artistes et populations autour de dispositifs innovants.",
+        "contexte": "Césaré fait appel à des artistes dont l’approche artistique implique spontanément un travail sur le terrain, à travers des rencontres dans des contextes sociaux différents.",
+        "problematique": "TISICA développe des activités artistiques créatives auprès de personnes âgées particulièrement exposées au risque de désafférentation sensorielle et d’isolement socioculturel, qui requièrent une approche interdisciplinaire à la fois médico-psycho-sociale et environnementale, destinée à prendre en compte l’ensemble du contexte somatique, psychoaffectif et socio-familial.",
+        "solution_envisagee": "Il s’agit de leur proposer en plus des soins appropriés, un accompagnement personnalisé et bienveillant, adapté aux troubles cognitifs et psycho-comportementaux, afin d’offrir la meilleure qualité de vie possible.",
+        "objectifs": "Les participants sont informés de la démarche, des objectifs de recherche et de l’anonymat des fichiers, des enregistrements ou de la prise de photos dans chaque situation."
+    },
+    "porteur_initiative": "L’ensemble des partenaires veille à coordonner l’action pour mettre en place une recherche se développant parallèlement à la conduite des ateliers d’expression, qui sont de trois types: Fabrication d’objets tissés et ateliers de peinture avec Armelle Blary, artiste plasticienne, opérant une première approche du geste.",
+    "date": [
+        "2025",
+        "2023",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

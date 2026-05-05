@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Sensibilisation aux questions du vieillissement",
+    "territoire": "Titre: Sensibilisation aux questions du vieillissement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/799-concours-2022-20-sensibilisation-aux-questions-du-vieillissement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°665 Villes Amies des Aînés en France ACCOMPAGNER LES SENIORS ET LES SERVICES SPÉCIALISÉS AUX BESOINS SPÉCIFIQUES LIÉS AU VIELLISSEMENT Ce projet consiste en une démarche globale de sensibilisation aux enjeux des seniors.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Pilotée par les deux chargés de projets qui en conçoivent les formats, elle s'adresse à différents publics qu'il s'agit de sensibiliser afin de les doter d'une culture commune de la prise en compte des spécificités des publics seniors et de leur accompagnement sur le territoire strasbourgeois (bénévoles associatifs, professionnels de l'accueil, grand public, etc.) DES ATELIERS ET DES DÉBATS AUTOUR DE LA PERTE D'AUTONOMIE ET DES MOYENS D'Y RÉPONDRE Différentes étapes ont été nécessaires pour la réalisation de ce projet.",
+    "description": {
+        "description_generale": "Titre: Sensibilisation aux questions du vieillissement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/799-concours-2022-20-sensibilisation-aux-questions-du-vieillissement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°665 Villes Amies des Aînés en France ACCOMPAGNER LES SENIORS ET LES SERVICES SPÉCIALISÉS AUX BESOINS SPÉCIFIQUES LIÉS AU VIELLISSEMENT Ce projet consiste en une démarche globale de sensibilisation aux enjeux des seniors.",
+        "contexte": "Un atelier \"voisin aidant, moi aussi\" a permis de soulever certaines questions: qui sont mes voisins âgés?",
+        "problematique": "Titre: Sensibilisation aux questions du vieillissement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/799-concours-2022-20-sensibilisation-aux-questions-du-vieillissement.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°665 Villes Amies des Aînés en France ACCOMPAGNER LES SENIORS ET LES SERVICES SPÉCIALISÉS AUX BESOINS SPÉCIFIQUES LIÉS AU VIELLISSEMENT Ce projet consiste en une démarche globale de sensibilisation aux enjeux des seniors.",
+        "solution_envisagee": "Ce que je peux faire pour aller mieux.\" Des débats autour des concepts clés ont été initiés: \" Vieillir, Vieillesse, Vieillissement, deuil, isolement/solitude… de quoi parle-t-on?\" mais aussi \"La perte d'autonomie de quoi parle-t-on? (Les conséquences du vieillissement sur le corps et l'esprit, les signaux d'alerte, les leviers de prévention et d'accompagnement…)\".",
+        "objectifs": "SENSIBILISATION AUX QUESTIONS DU VIEILLISSEMENT Strasbourg (67) Ville Membre depuis 2015 Améliorer la connaissance des services de l'accompagnement proposé par la ville de Strasbourg pour les seniors."
+    },
+    "porteur_initiative": "Pilotée par les deux chargés de projets qui en conçoivent les formats, elle s'adresse à différents publics qu'il s'agit de sensibiliser afin de les doter d'une culture commune de la prise en compte des spécificités des publics seniors et de leur accompagnement sur le territoire strasbourgeois (bénévoles associatifs, professionnels de l'accueil, grand public, etc.) DES ATELIERS ET DES DÉBATS AUTOUR DE LA PERTE D'AUTONOMIE ET DES MOYENS D'Y RÉPONDRE Différentes étapes ont été nécessaires pour la réalisation de ce projet.",
+    "date": [
+        "2025",
+        "2022",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sensibilisation_aux_questions_du_vieillissement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sensibilisation_aux_questions_du_vieillissement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

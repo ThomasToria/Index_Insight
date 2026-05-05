@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Les rencontres de la forme",
+    "territoire": "Titre: Les rencontres de la forme Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/333-pe-les-rencontres-de-la-forme-mise-en-forme-2023.pdf  ---  --- ENCOURAGER L’ACTIVITÉ PHYSIQUE Une transformation radicale de nos modes de vie depuis 50 ans est en partie responsable de l’épidémie qui sévit dans le monde occidental: chaque année, la sédentarité est plus ou moins directement responsable de plusieurs millions de morts dans le monde.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "En 2016, en lien avec la Ville de Lyon, et AG2R LA MONDIALE, ce projet devrait s’étendre à d’autres cibles que les seniors pour devenir un véritable concept territorial touchant l’ensemble de la population (salariés, seniors, jeunes, grand public), à des endroits et des moments différents.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Fondé sur une participation active des personnes âgées de 60 à 80 ans, l’objectif est de sensibiliser et de lever les freins qui peuvent exister au moment de débuter ou de reprendre une activité physique, le tout dans un contexte positif et ludique.",
+        "problematique": "Fondé sur une participation active des personnes âgées de 60 à 80 ans, l’objectif est de sensibiliser et de lever les freins qui peuvent exister au moment de débuter ou de reprendre une activité physique, le tout dans un contexte positif et ludique.",
+        "solution_envisagee": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "En aval de cette journée, de multiples événements plus petits baptisés les lundis de la Forme ont permis de suivre les personnes et de percevoir les modifications de comportement en matière de prévention.  ---  --- DES RÉSULTATS PROMETTEURS Les objectifs de l’action ont largement été atteints car la participation a dépassé les prévisions (1 200 inscrits pour 1 000 envisagés)."
+    },
+    "porteur_initiative": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "5 octobre 2015",
+        "octobre 2015",
+        "22/08/2017",
+        "2025",
+        "2023",
+        "2012",
+        "2017",
+        "2015",
+        "2016",
+        "depuis 2012",
+        "En 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rencontres_de_la_forme.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_rencontres_de_la_forme.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

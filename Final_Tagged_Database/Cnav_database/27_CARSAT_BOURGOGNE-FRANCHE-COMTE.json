@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: CARSAT BOURGOGNE-FRANCHE-COMTÉ",
+    "territoire": "LA TEMPORALITÉ • Depuis 06/2019 pour la ville de Dijon • À partir de 2024 pour les villes de T alant et Semur en Auxois (en cours de développement) dans le cadre d’un partenariat avec la collectivité qui accueille l’équipement pour l’installation et l’entretien et avec un partenaire du territoire pour l’animation de l’équipement (Centre social, CCAS, association) PARCOURS « L ’ÉQUILIBRE PAS À PAS » LA LOCALISATION • Ville de Dijon; • ville de Talant; • ville de Semur en Auxois (développé en lien avec la MSA en zone rurale).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Les parcours sont ou seront implantés sur ces 3 communes mais sont accessibles aux seniors « de passage » et résidents des communes environnantes.",
+    "description": {
+        "description_generale": "Autre: dispositif à caractère intergénérationnel.",
+        "contexte": "LA DESCRIPTION DE LA PÉPITE Le parcours équilibre a trouvé son origine dans les ateliers de prévention des chutes, les participants faisant le constat de difficultés pour continuer à travailler la fonction d’équilibration en autonomie, à la suite des ateliers.",
+        "problematique": "LA DESCRIPTION DE LA PÉPITE Le parcours équilibre a trouvé son origine dans les ateliers de prévention des chutes, les participants faisant le constat de difficultés pour continuer à travailler la fonction d’équilibration en autonomie, à la suite des ateliers.",
+        "solution_envisagee": "LA FINALITÉ Le parcours équilibre est un dispositif de mobilier urbain, en libre accès, qui permet de travailler la fonction d‘équilibration à tout moment.",
+        "objectifs": "Il remplit plusieurs objectifs intermédiaires: • réassurer la stabilité posturale; • contribuer au renforcement musculaire; • encourager les personnes à pratiquer une activité physique de façon régulière et pérenne; • développer et entretenir le lien social."
+    },
+    "porteur_initiative": "Titre: CARSAT BOURGOGNE-FRANCHE-COMTÉ Pages: 48, 49  CARSAT BOURGOGNE-FRANCHE-COMTÉ LES ACTEURS Porteur(s) de la pépite: Carsat Bourgogne-Franche- Comté, MSA Bourgogne.",
+    "date": [
+        "2019",
+        "2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\27_CARSAT_BOURGOGNE-FRANCHE-COMTE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\27_CARSAT_BOURGOGNE-FRANCHE-COMTE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

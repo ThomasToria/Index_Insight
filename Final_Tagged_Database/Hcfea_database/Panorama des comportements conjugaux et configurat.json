@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Panorama des comportements conjugaux et configurations familiales chez les seniors",
+    "territoire": "Enfin, les seniors en couple auront à gérer des années supplémentaires de vie commune à la retraite (de 7 000 jours aujourd'hui à 9 000 jours à terme).",
+    "echelle": [
+        "communale",
+        "internationale"
+    ],
+    "public_vise": "À ce titre, le Conseil de l'âge propose des orientations pour les politiques publiques, qui doivent mieux accompagner les seniors en situation de fragilité notamment du fait de leur situation conjugale ou familiale: intégrer, dans les projections d’évolution des besoins futurs d’aide des personnes âgées et très âgées, la réduction de la part assurée par les proches aidants, et provisionner une augmentation des volumes d’interventions d’aidants professionnels et des financements publics permettant de les solvabiliser; prendre en compte et accompagner les conséquences des événements de la vie que sont la séparation et le décès du conjoint sur le niveau et le mode de vie du conjoint devenu isolé, et à titre particulier des femmes à faibles revenus ou pensions; accompagner les couples de seniors en leur permettant d’accéder, s’ils le souhaitent, au conseil et à la médiation conjugale et familiale, et mieux informer, conseiller et accompagner les personnes âgées, en particulier les femmes, souhaitant se séparer d’un conjoint violent.",
+    "description": {
+        "description_generale": "Si le modèle de personnes âgées, vivant en couple marié ensemble à leur domicile, reste majoritaire pour les personnes de 65 ans et plus, surtout pour les hommes, les femmes sont plus souvent seules: à 65 ans, elles vivent autant seules (46 %) qu'en couple (45 %) et à 85 ans majoritairement seules (59 % contre 14 % en couples).",
+        "contexte": "Ces constats sont importants pour les objectifs que l'on devrait fixer en matière d'assurance contre les risques de la vie auxquels sont confrontés les seniors.",
+        "problematique": "À ce titre, le Conseil de l'âge propose des orientations pour les politiques publiques, qui doivent mieux accompagner les seniors en situation de fragilité notamment du fait de leur situation conjugale ou familiale: intégrer, dans les projections d’évolution des besoins futurs d’aide des personnes âgées et très âgées, la réduction de la part assurée par les proches aidants, et provisionner une augmentation des volumes d’interventions d’aidants professionnels et des financements publics permettant de les solvabiliser; prendre en compte et accompagner les conséquences des événements de la vie que sont la séparation et le décès du conjoint sur le niveau et le mode de vie du conjoint devenu isolé, et à titre particulier des femmes à faibles revenus ou pensions; accompagner les couples de seniors en leur permettant d’accéder, s’ils le souhaitent, au conseil et à la médiation conjugale et familiale, et mieux informer, conseiller et accompagner les personnes âgées, en particulier les femmes, souhaitant se séparer d’un conjoint violent.",
+        "solution_envisagee": "À ce titre, le Conseil de l'âge propose des orientations pour les politiques publiques, qui doivent mieux accompagner les seniors en situation de fragilité notamment du fait de leur situation conjugale ou familiale: intégrer, dans les projections d’évolution des besoins futurs d’aide des personnes âgées et très âgées, la réduction de la part assurée par les proches aidants, et provisionner une augmentation des volumes d’interventions d’aidants professionnels et des financements publics permettant de les solvabiliser; prendre en compte et accompagner les conséquences des événements de la vie que sont la séparation et le décès du conjoint sur le niveau et le mode de vie du conjoint devenu isolé, et à titre particulier des femmes à faibles revenus ou pensions; accompagner les couples de seniors en leur permettant d’accéder, s’ils le souhaitent, au conseil et à la médiation conjugale et familiale, et mieux informer, conseiller et accompagner les personnes âgées, en particulier les femmes, souhaitant se séparer d’un conjoint violent.",
+        "objectifs": "Ces constats sont importants pour les objectifs que l'on devrait fixer en matière d'assurance contre les risques de la vie auxquels sont confrontés les seniors."
+    },
+    "porteur_initiative": "Si le modèle de personnes âgées, vivant en couple marié ensemble à leur domicile, reste majoritaire pour les personnes de 65 ans et plus, surtout pour les hommes, les femmes sont plus souvent seules: à 65 ans, elles vivent autant seules (46 %) qu'en couple (45 %) et à 85 ans majoritairement seules (59 % contre 14 % en couples).",
+    "date": [
+        "23/07/2024",
+        "2024",
+        "1982",
+        "2011",
+        "En 1982",
+        "en 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Panorama des comportements conjugaux et configurat.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Panorama des comportements conjugaux et configurat.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.95,
+        "description_generale": 0.25,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Générations sports à Royan\"",
+    "territoire": "Titre: Générations sports à Royan\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1020-concours-2023-generations-sports-a-royan.pdf  ---  --- VALORISER L'ACTIVITÉ SPORTIVE COMME VECTEUR D'ÉCHANGES ET DE PARTAGE Dans le cadre d'un module de Gestion de Projet, les élèves de la classe \"Prépa Sport\" de l'Institut Régional Sport Santé (IRSS) de Royan ont choisi de valoriser l'activité sportive comme vecteur d'échanges et de partage entre les aînés et l'ensemble des étudiants de BPJEPS (Brevet professionnel de la jeunesse, de l'éducation populaire et du sport), accompagnés des formateurs de l'école.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "UN PROJET DÉVELOPPÉ PAR LES ÉLÈVES La mission des étudiants fut de développer intégralement le projet, par la conception, l'animation et le suivi d'un événement sportif fédérateur et adapté aux seniors.",
+    "description": {
+        "description_generale": "Une réunion a été organisée avec l'Adjoint aux Sports de la ville, le responsable du service des sports, l'Adjointe à la Santé et la responsable du service santé et des enseignants de l'IRSS, pour une présentation, par les étudiants de leur proposition d'action.",
+        "contexte": "L’IRSS, installé à Royan depuis 2019 à l’Institut de Formation de ROYAN (IFR), propose des formations: une année préparatoire « la Prépa Sports» et deux BPJEPS (Activités de la Forme (AF) et Activités Physiques pour Tous(APT)).",
+        "problematique": "Ce projet est un moyen pour les étudiants d'être en relation directe avec le public senior, de bien cibler leurs besoins spécifiques et de susciter des vocations dans un avenir proche.",
+        "solution_envisagee": "L’IRSS, installé à Royan depuis 2019 à l’Institut de Formation de ROYAN (IFR), propose des formations: une année préparatoire « la Prépa Sports» et deux BPJEPS (Activités de la Forme (AF) et Activités Physiques pour Tous(APT)).",
+        "objectifs": "La \"Prépa Sports\"(accessible dès 17 ans) est une année de préparation intensive de 8 mois, qui mêle activités physiques, cours théoriques et stages d’observation afin de réussir les tests d’entrée aux différents BPJEPS."
+    },
+    "porteur_initiative": "L'Institut Régional Sport Santé (IRSS) de Royan et la Ville de ROYAN ont initié, en 2022, un événement sportif annuel dédié aux seniors, organisé et animé par les étudiants.",
+    "date": [
+        "16 mai 2023",
+        "mai 2023",
+        "2025",
+        "1020",
+        "2023",
+        "2019",
+        "2013",
+        "2022",
+        "depuis 2019",
+        "depuis 2013",
+        "en",
+        "En 2022",
+        "En 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Generations_sports_a_Royan.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Generations_sports_a_Royan.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

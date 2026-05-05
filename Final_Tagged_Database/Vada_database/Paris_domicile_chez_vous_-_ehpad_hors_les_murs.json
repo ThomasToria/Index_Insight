@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: \"Paris domicile chez vous\" - ehpad hors les murs",
+    "territoire": "Titre: \"Paris domicile chez vous\" - ehpad hors les murs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/943-pe-paris-domicile-chez-vous-ehpad-hors-les-murs.pdf  ---  --- VIEILLIR À DOMICILE L'immense majorité des séniors souhaitent vieillir à domicile, mais n'ont parfois d'autre choix que d'aller en EHPAD pour bénéficier des services qui y sont proposés.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Afin de permettre aux seniors qui souhaitent rester à domicile de le faire, la Ville de Paris a décidé d'expérimenter un projet de dispositif d'accompagnement renforcé à domicile.",
+    "description": {
+        "description_generale": "Afin de permettre aux seniors qui souhaitent rester à domicile de le faire, la Ville de Paris a décidé d'expérimenter un projet de dispositif d'accompagnement renforcé à domicile.",
+        "contexte": "Si, comme la Ville de Paris, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Après la signature de conventions avec les premiers bénéficiaires, des évaluations de leurs besoins ont d’abord eu lieu à domicile avant que ne débutent les prestations.",
+        "solution_envisagee": "Afin de permettre aux seniors qui souhaitent rester à domicile de le faire, la Ville de Paris a décidé d'expérimenter un projet de dispositif d'accompagnement renforcé à domicile.",
+        "objectifs": "Afin de permettre aux seniors qui souhaitent rester à domicile de le faire, la Ville de Paris a décidé d'expérimenter un projet de dispositif d'accompagnement renforcé à domicile."
+    },
+    "porteur_initiative": "Si, comme la Ville de Paris, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "FÉVRIER 2023",
+        "2025",
+        "2023",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Paris_domicile_chez_vous_-_ehpad_hors_les_murs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Paris_domicile_chez_vous_-_ehpad_hors_les_murs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

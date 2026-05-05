@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: La mode a ses effets",
+    "territoire": "Titre: La mode a ses effets Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/284-pe-la-mode-a-ses-effets.pdf  ---  --- LE PROJET L’aventure a débuté en décembre 2015, lors d’une rencontre entre les élèves de Bac Pro Accompagnement Soins et Services à la Personne (ASSP) et les élèves bac pro Métiers de la Mode et du Vêtement (MMV) du lycée Simone Veil.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Le mardi 22 mars 2016, les élèves de première Baccalauréat Professionnel ASSP1 ont réalisé leur projet: « Accueillir au Lycée, un groupe de personnes âgées, habitants du quartier de la Roseraie ».",
+    "description": {
+        "description_generale": "Le mardi 22 mars 2016, les élèves de première Baccalauréat Professionnel ASSP1 ont réalisé leur projet: « Accueillir au Lycée, un groupe de personnes âgées, habitants du quartier de la Roseraie ».",
+        "contexte": "Le mardi 22 mars 2016, les élèves de première Baccalauréat Professionnel ASSP1 ont réalisé leur projet: « Accueillir au Lycée, un groupe de personnes âgées, habitants du quartier de la Roseraie ».",
+        "problematique": "Dans le cadre de ce projet, des liens sont noués avec cet établissement voisin, des habitants, des bénévoles et le CCAS visant à lutter contre l’isolement des âgés en créant du lien social et de l’engagement citoyen de proximité.",
+        "solution_envisagee": "Titre: La mode a ses effets Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/284-pe-la-mode-a-ses-effets.pdf  ---  --- LE PROJET L’aventure a débuté en décembre 2015, lors d’une rencontre entre les élèves de Bac Pro Accompagnement Soins et Services à la Personne (ASSP) et les élèves bac pro Métiers de la Mode et du Vêtement (MMV) du lycée Simone Veil.",
+        "objectifs": "Le lycée souhaitait développer l’échange entre les classes et les formations professionnelles du Lycée, exploiter la complémentarité des formations et de mettre en lien des compétences spécifiques de formation des élèves du lycée."
+    },
+    "porteur_initiative": "Le mardi 22 mars 2016, les élèves de première Baccalauréat Professionnel ASSP1 ont réalisé leur projet: « Accueillir au Lycée, un groupe de personnes âgées, habitants du quartier de la Roseraie ».",
+    "date": [
+        "22 mars 2016",
+        "16 juin 2016",
+        "décembre 2015",
+        "mars 2016",
+        "juin 2016",
+        "2025",
+        "2015",
+        "2016",
+        "2012",
+        "8000",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_mode_a_ses_effets.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_mode_a_ses_effets.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

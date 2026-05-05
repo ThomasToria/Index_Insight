@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Des activités sportives adaptées dans mon quartier",
+    "territoire": "Titre: Des activités sportives adaptées dans mon quartier Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/994-concours-2023-bourges-des-activites-sportives-adaptees-dans-mon-quartier.pdf  ---  --- UN MANQUE D'ACTIVITÉS ESTIVALES POUR LES JEUNES SÉNIORS La population sénior Berruyère est en constante augmentation.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "UNE MISE EN PLACE COLLABORATIVE Les usagers sont associés dès l'évaluation en fin d'été afin que les professionnels puissent recueillir leurs besoins, envies, perspectives d'évolution de la programmation, améliorations.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Bourges, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Une proposition d'activités collectives ponctuelles de bien-être dans quelques quartiers a été initiée dès l'été 2020 dans un contexte post-Covid.",
+        "problematique": "UNE MISE EN PLACE COLLABORATIVE Les usagers sont associés dès l'évaluation en fin d'été afin que les professionnels puissent recueillir leurs besoins, envies, perspectives d'évolution de la programmation, améliorations.",
+        "solution_envisagee": "UNE MISE EN PLACE COLLABORATIVE Les usagers sont associés dès l'évaluation en fin d'été afin que les professionnels puissent recueillir leurs besoins, envies, perspectives d'évolution de la programmation, améliorations.",
+        "objectifs": "L'objectif est d'aller au plus près des séniors potentiels utilisateurs."
+    },
+    "porteur_initiative": "Titre: Des activités sportives adaptées dans mon quartier Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/994-concours-2023-bourges-des-activites-sportives-adaptees-dans-mon-quartier.pdf  ---  --- UN MANQUE D'ACTIVITÉS ESTIVALES POUR LES JEUNES SÉNIORS La population sénior Berruyère est en constante augmentation.",
+    "date": [
+        "2025",
+        "2023",
+        "2020",
+        "2021",
+        "2022",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_activites_sportives_adaptees_dans_mon_quartier.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_activites_sportives_adaptees_dans_mon_quartier.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS",
+    "territoire": "On exhibe ainsi des résultats en distinguant certains « modèles » de départements: par exemple ceux qui ont un bon taux d’équipement mais une faible accessibilité financière du fait de leur taux d’habilitation (exemple Seine-et-Marne), ou ceux combinant un faible taux d’équipement et d’habilitation (ex: Seine-Saint-Denis).",
+    "echelle": [
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS Sous-titre: Adoptée par les membres à l'issue de la séance du 8 novembre 2022 Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS Imprimer Courriel Linkedin Facebook Twitter Bluesky Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS Adoptée par les membres à l'issue de la séance du 8 novembre 2022 Publié le 23/11/2022 | Temps de lecture: 3 minutes Conseil de l'âge Notes Les Ehpad, résidences autonomie et résidences services constituent différents segments d’une offre à destination des personnes âgées vulnérables.",
+    "description": {
+        "description_generale": "Par convention, on calcule une accessibilité financière dans un sens limité: avec un revenu courant disponible, alors que le financement de l’hébergement des personnes en perte d’autonomie repose également sur d’autres ressources dont le patrimoine, la solidarité familiale ou la solidarité collective ( via l’ASH).",
+        "contexte": "Par convention, on calcule une accessibilité financière dans un sens limité: avec un revenu courant disponible, alors que le financement de l’hébergement des personnes en perte d’autonomie repose également sur d’autres ressources dont le patrimoine, la solidarité familiale ou la solidarité collective ( via l’ASH).",
+        "problematique": "En revanche, il y aurait bien un impact qui tient à ce qu’une telle évolution mettrait également les modèles économiques des résidences sous trois types de contraintes nouvelles: un problème spécifique de solvabilisation de la restauration, vecteur de prévention; un problème de soin et de qualité de prise en charge pour des modèles avec plus de 30 % de personnes avec des GIR 1 à 4 (aujourd’hui moins de 21 % en moyenne); un problème de taux d’occupation avec des surcoûts importants.",
+        "solution_envisagee": "Alors qu’on apprécie actuellement l’offre d’Ehpad à partir d’indicateurs mesurant l’accessibilité géographique (taux d’équipements, accessibilité potentielle localisée), des distributions de tarifs, ou un reste à charge des résidents en Ehpad, cette note, qui fait suite à un premier travail exploratoire en mai 2022, propose une méthodologie nouvelle articulant trois éléments: la quantité de places installées; le niveau de reste à charge; et le niveau de ressource dont la population cible dispose pour financer son habitat.",
+        "objectifs": "Par convention, on calcule une accessibilité financière dans un sens limité: avec un revenu courant disponible, alors que le financement de l’hébergement des personnes en perte d’autonomie repose également sur d’autres ressources dont le patrimoine, la solidarité familiale ou la solidarité collective ( via l’ASH)."
+    },
+    "porteur_initiative": "Par convention, on calcule une accessibilité financière dans un sens limité: avec un revenu courant disponible, alors que le financement de l’hébergement des personnes en perte d’autonomie repose également sur d’autres ressources dont le patrimoine, la solidarité familiale ou la solidarité collective ( via l’ASH).",
+    "date": [
+        "8 novembre 2022",
+        "novembre 2022",
+        "mai 2022",
+        "23/11/2022",
+        "2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

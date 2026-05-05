@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Cueillette soli’terre",
+    "territoire": "Titre: Cueillette soli’terre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1045-pe-cueillette-soli-terre.pdf  ---  --- UNE ACTION ANTI-GASPI L’un des objectifs du CCAS est de permettre à des personnes de sortir des situations d’isolement, de précarité, dans lesquelles elles se trouvent et de parvenir à une autonomie de vie.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "La « cueillette Soli’terre » est un projet solidaire, antigaspi et facteur de liens sociaux, de transmissions entre les habitants.",
+    "description": {
+        "description_generale": "Le projet Cueillette Soli'terre est lauréat de l'action CIVIQUE organisé par le département 17.",
+        "contexte": "L’idée est partie du constat d’un gaspillage important de fruits et légumes non récoltés, non cueillis par les propriétaires, locataires des jardins à Fouras-les-bains.",
+        "problematique": "Titre: Cueillette soli’terre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1045-pe-cueillette-soli-terre.pdf  ---  --- UNE ACTION ANTI-GASPI L’un des objectifs du CCAS est de permettre à des personnes de sortir des situations d’isolement, de précarité, dans lesquelles elles se trouvent et de parvenir à une autonomie de vie.",
+        "solution_envisagee": "MISE EN PLACE DU PROJET La mise en place du projet a débuté par le recensement des propriétaires des Jardins Soli’terre.",
+        "objectifs": "Titre: Cueillette soli’terre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1045-pe-cueillette-soli-terre.pdf  ---  --- UNE ACTION ANTI-GASPI L’un des objectifs du CCAS est de permettre à des personnes de sortir des situations d’isolement, de précarité, dans lesquelles elles se trouvent et de parvenir à une autonomie de vie."
+    },
+    "porteur_initiative": "Le projet Cueillette Soli'terre est lauréat de l'action CIVIQUE organisé par le département 17.",
+    "date": [
+        "2025",
+        "1045",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cueillette_soliterre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cueillette_soliterre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

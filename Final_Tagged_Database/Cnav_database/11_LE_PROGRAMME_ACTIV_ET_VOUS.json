@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: LE PROGRAMME ACTIV’ ET VOUS",
+    "territoire": "LA DESCRIPTION DE LA PÉPITE La Mutualité Française et ses unions régionales, la Caisse nationale de Assurance retraite et les Carsat ont coconstruit un programme de prévention complet en distanciel, facile à suivre et riche de bonnes pratiques à appliquer au quotidien.",
+    "echelle": [
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Pendant 2 mois, les seniors sont ainsi invités à participer, une à deux fois par semaine, à des ateliers ludiques et accessibles afin de renforcer leur pouvoir d’agir sur leur bien-vieillir. « Activ’ et vous » vise également à lutter contre les inégalités sociales de santé.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE La Mutualité Française et ses unions régionales, la Caisse nationale de Assurance retraite et les Carsat ont coconstruit un programme de prévention complet en distanciel, facile à suivre et riche de bonnes pratiques à appliquer au quotidien.",
+        "contexte": "Titre: LE PROGRAMME ACTIV’ ET VOUS Pages: 29  LE PROGRAMME ACTIV’ ET VOUS LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l'Assurance retraite et la Mutualité Française.",
+        "problematique": "Titre: LE PROGRAMME ACTIV’ ET VOUS Pages: 29  LE PROGRAMME ACTIV’ ET VOUS LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l'Assurance retraite et la Mutualité Française.",
+        "solution_envisagee": "Titre: LE PROGRAMME ACTIV’ ET VOUS Pages: 29  LE PROGRAMME ACTIV’ ET VOUS LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l'Assurance retraite et la Mutualité Française.",
+        "objectifs": "Pendant 2 mois, les seniors sont ainsi invités à participer, une à deux fois par semaine, à des ateliers ludiques et accessibles afin de renforcer leur pouvoir d’agir sur leur bien-vieillir. « Activ’ et vous » vise également à lutter contre les inégalités sociales de santé."
+    },
+    "porteur_initiative": "Titre: LE PROGRAMME ACTIV’ ET VOUS Pages: 29  LE PROGRAMME ACTIV’ ET VOUS LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l'Assurance retraite et la Mutualité Française.",
+    "date": [
+        "15 février 2024",
+        "février 2024",
+        "7/03/2023",
+        "9/05/2023",
+        "5/10/2023",
+        "5/12/2023",
+        "23/12/2023",
+        "2023",
+        "2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\11_LE_PROGRAMME_ACTIV_ET_VOUS.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\11_LE_PROGRAMME_ACTIV_ET_VOUS.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

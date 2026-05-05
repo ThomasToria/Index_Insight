@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Contributions du Conseil de l’âge au rapport du Conseil supérieur de l’égalité professionnelle entre les femmes et les hommes (CSEP) sur « Les femmes seniors dans l’emploi »",
+    "territoire": "Deux aspects cruciaux de la vie des femmes seniors sont examinés: les conséquences des dissolutions de couples (note 1) et leur rôle dans les solidarités familiales (note 2).",
+    "echelle": [],
+    "public_vise": "Titre: Contributions du Conseil de l’âge au rapport du Conseil supérieur de l’égalité professionnelle entre les femmes et les hommes (CSEP) sur « Les femmes seniors dans l’emploi » Sous-titre: Adoptées le 14 mars 2019 Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge Imprimer Courriel Linkedin Facebook Twitter Bluesky Contributions du Conseil de l’âge au rapport du Conseil supérieur de l’égalité professionnelle entre les femmes et les hommes (CSEP) sur « Les femmes seniors dans l’emploi » Adoptées le 14 mars 2019 Publié le 17/04/2019 | Temps de lecture: 2 minutes Conseil de l'âge Notes Le Conseil de l’âge a produit deux contributions au rapport du Conseil supérieur de l’égalité professionnelle entre les femmes et les hommes (CSEP) sur la situation des femmes seniors, définies comme ayant entre 55 et 64 ans.",
+    "description": {
+        "description_generale": "Deux aspects cruciaux de la vie des femmes seniors sont examinés: les conséquences des dissolutions de couples (note 1) et leur rôle dans les solidarités familiales (note 2).",
+        "contexte": "Deux aspects cruciaux de la vie des femmes seniors sont examinés: les conséquences des dissolutions de couples (note 1) et leur rôle dans les solidarités familiales (note 2).",
+        "problematique": "Deux aspects cruciaux de la vie des femmes seniors sont examinés: les conséquences des dissolutions de couples (note 1) et leur rôle dans les solidarités familiales (note 2).",
+        "solution_envisagee": "Deux aspects cruciaux de la vie des femmes seniors sont examinés: les conséquences des dissolutions de couples (note 1) et leur rôle dans les solidarités familiales (note 2).",
+        "objectifs": "Les orientations de la note 2 préconisent de mettre en cohérence et de consolider les congés existants (tel que le congé de proche aidant, y compris son indemnisation) et d'améliorer les conditions de conciliation de la vie professionnelle et de l’aide, notamment par des aménagements de travail opposables."
+    },
+    "porteur_initiative": "Deux aspects cruciaux de la vie des femmes seniors sont examinés: les conséquences des dissolutions de couples (note 1) et leur rôle dans les solidarités familiales (note 2).",
+    "date": [
+        "14 mars 2019",
+        "mars 2019",
+        "17/04/2019",
+        "2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Contributions du Conseil de lâge au rapport du Con.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Contributions du Conseil de lâge au rapport du Con.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.0,
+        "public_vise": 0.65,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

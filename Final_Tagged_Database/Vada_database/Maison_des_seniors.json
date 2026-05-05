@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Maison des seniors",
+    "territoire": "Titre: Maison des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Maison-des-seniors.pdf  ---  --- UNE DÉMARCHE PARTICIPATIVE La ville de La Possession s’inscrit aujourd’hui dans une politique innovante et expérimentale afin de répondre au défi démographique qu'est le vieillissement de sa population à travers un plan d’action coordonné et fédérateur des forces vives de son territoire.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "MAISON DES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°949 Villes Amies des Aînés en France Ville de La Possession Ville Amie des Aînés depuis 2024 La Possession (974) Favoriser le lien social et le développement de l'autonomie des aînés à travers divers actions mis en place par une équipe dédiée Être un lieu ressources pour les acteurs et habitants Orienter et soutenir la construction de projets et d’initiatives personnelles ou collectives.",
+    "description": {
+        "description_generale": "MAISON DES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°949 Villes Amies des Aînés en France Ville de La Possession Ville Amie des Aînés depuis 2024 La Possession (974) Favoriser le lien social et le développement de l'autonomie des aînés à travers divers actions mis en place par une équipe dédiée Être un lieu ressources pour les acteurs et habitants Orienter et soutenir la construction de projets et d’initiatives personnelles ou collectives.",
+        "contexte": "Titre: Maison des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Maison-des-seniors.pdf  ---  --- UNE DÉMARCHE PARTICIPATIVE La ville de La Possession s’inscrit aujourd’hui dans une politique innovante et expérimentale afin de répondre au défi démographique qu'est le vieillissement de sa population à travers un plan d’action coordonné et fédérateur des forces vives de son territoire.",
+        "problematique": "Être au plus près des aînés à travers une stratégie de proximité favorisant le lien intergénérationnel Identification du besoin grâce à des séminaires en juin-juillet 2024 Validation du projet en juillet 2024 Inauguration de la Maison des Seniors en octobre 2024 Fonctionnement en lien avec la Maison des Associations, la Ville, et le CCAS Coût: 10 000€  ---  --- Si, comme la Ville de La Possession, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com BILAN À VENIR Si l'objectif premier a été atteint à la création du lieu, une évaluation de la réussite de l'action est tout de même prévue à un an du lancement.",
+        "solution_envisagee": "Différents services de la ville participent au fonctionnement et aux activités de la Maison des seniors, notamment le service des sports (bien- être, santé), et le service habitat (mise en place de permanences à but informatives).",
+        "objectifs": "Titre: Maison des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Maison-des-seniors.pdf  ---  --- UNE DÉMARCHE PARTICIPATIVE La ville de La Possession s’inscrit aujourd’hui dans une politique innovante et expérimentale afin de répondre au défi démographique qu'est le vieillissement de sa population à travers un plan d’action coordonné et fédérateur des forces vives de son territoire."
+    },
+    "porteur_initiative": "MAISON DES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°949 Villes Amies des Aînés en France Ville de La Possession Ville Amie des Aînés depuis 2024 La Possession (974) Favoriser le lien social et le développement de l'autonomie des aînés à travers divers actions mis en place par une équipe dédiée Être un lieu ressources pour les acteurs et habitants Orienter et soutenir la construction de projets et d’initiatives personnelles ou collectives.",
+    "date": [
+        "juillet 2024",
+        "août 2024",
+        "octobre 2024",
+        "2025",
+        "2020",
+        "2026",
+        "2022",
+        "2024",
+        "depuis 2024",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Maison_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

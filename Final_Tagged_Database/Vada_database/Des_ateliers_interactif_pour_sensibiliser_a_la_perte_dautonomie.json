@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Des ateliers interactif pour sensibiliser à la perte d'autonomie",
+    "territoire": "Titre: Des ateliers interactif pour sensibiliser à la perte d'autonomie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/221-221-ateliers-perte-auto-besancon.pdf  ---  --- CHANGER LE REGARD Fort d’une expérience réussie de plus de 5 ans de sensibilisation au handicap auprès de lycéens (plus de 900 jeunes concernés par an lors de ces journées handi-citoyennes), le CCAS de Besançon a décidé d’élargir ce dispositif à la sensibilisation aux ef fets du vieillissement et de la perte d’autonomie.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "L ’ équipe de professionnels se compose de travailleurs sociaux d e la Maison des Seniors, d’agents de logements-foyers, d’agents du service de soutien à domicile et de jeu nes accomplissant leur service civique.",
+    "description": {
+        "description_generale": "UN DISPOSITIF TRÈS SOLLICITÉ La chargée de mission « Handicap» a construit des actions de sensibilisation interactifs (déplacement en fauteuil, parcours canne blanche…) Une pre - mière communication sur le projet a été réalisée au sein du réseau de partenaires de la Mission handi - cap du CCAS.",
+        "contexte": "Cet équipement est composé notam - ment: de poids et éléments de contention simulant la perte musculaire et les difficultés de mobilisa - tions articulaires, de lunettes et de casques simu - lant les troubles de la vue et de l’audition, de ch aus- sures simulant la perte d’équilibre.",
+        "problematique": "Cet équipement est composé notam - ment: de poids et éléments de contention simulant la perte musculaire et les difficultés de mobilisa - tions articulaires, de lunettes et de casques simu - lant les troubles de la vue et de l’audition, de ch aus- sures simulant la perte d’équilibre.",
+        "solution_envisagee": "Cet équipement est composé notam - ment: de poids et éléments de contention simulant la perte musculaire et les difficultés de mobilisa - tions articulaires, de lunettes et de casques simu - lant les troubles de la vue et de l’audition, de ch aus- sures simulant la perte d’équilibre.",
+        "objectifs": "Changer le regard sur le handicap et la perte d’autonomie en\ngénéral, en sensibilisant des publics de tous âges aux effets\ndu vieillissement.\nPRATIQUE\nOrganiser des ateliers interactifs. Acquérir un simulateur\nde vieillissement. Réunir et former des professionnels de la\ndirection autonomie du CCAS.\nCoût:\nAchat du matériel et formation initiale à l’utilisation: 3000€.\nCoût d’une session de 4 heures: mise à disposition du\npersonnel et de la salle\nBESANÇON\nVille Amie des Aînés depuis 06-2012\nBesançon (25)\nFiche publiée le 15/03/2016\nAUTONOMIE, SERVICES ET SOINS\nwww.villesamiesdesaines-rf.fr\nSi, comme Besançon vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Cet équipement est composé notam - ment: de poids et éléments de contention simulant la perte musculaire et les difficultés de mobilisa - tions articulaires, de lunettes et de casques simu - lant les troubles de la vue et de l’audition, de ch aus- sures simulant la perte d’équilibre.",
+    "date": [
+        "15/03/2016",
+        "2025",
+        "3000",
+        "2012",
+        "2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_ateliers_interactif_pour_sensibiliser_a_la_perte_dautonomie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_ateliers_interactif_pour_sensibiliser_a_la_perte_dautonomie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

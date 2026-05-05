@@ -1,0 +1,42 @@
+{
+    "titre": "---  ---",
+    "territoire": "Metz de manière hebdomadaire en présentiel ou distanciel D E S C R I P T O N Humaines: • Coordination par le service de l’action culturelle • Mobilisation des associations et services publics Matérielles: Disponibilité de projets d’établissements ouverts à l’expérimentation Information et communication: Relayer des informations sur l'action par divers moyens (Publication dans les lieux publics et sur internet) Financières: Financement des professionnels (Métropole, CARSAT, CNSA, etc.) U Isolement",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Metz de manière hebdomadaire en présentiel ou distanciel D E S C R I P T O N Humaines: • Coordination par le service de l’action culturelle • Mobilisation des associations et services publics Matérielles: Disponibilité de projets d’établissements ouverts à l’expérimentation Information et communication: Relayer des informations sur l'action par divers moyens (Publication dans les lieux publics et sur internet) Financières: Financement des professionnels (Métropole, CARSAT, CNSA, etc.) U Isolement",
+    "description": {
+        "description_generale": "Metz de manière hebdomadaire en présentiel ou distanciel D E S C R I P T O N Humaines: • Coordination par le service de l’action culturelle • Mobilisation des associations et services publics Matérielles: Disponibilité de projets d’établissements ouverts à l’expérimentation Information et communication: Relayer des informations sur l'action par divers moyens (Publication dans les lieux publics et sur internet) Financières: Financement des professionnels (Métropole, CARSAT, CNSA, etc.) U Isolement",
+        "contexte": "Pour lutter contre l’isolement il pourrait exister un projet intergénérationnel ou des étudiant s (des métiers de soins) logeraient dans un établissement contre des temps d’animation et d’activités. (Exemples: Lutter contre l’isolement à Maxéville et Résidence autonomie de Saint Priest).",
+        "problematique": "Pour lutter contre l’isolement il pourrait exister un projet intergénérationnel ou des étudiant s (des métiers de soins) logeraient dans un établissement contre des temps d’animation et d’activités. (Exemples: Lutter contre l’isolement à Maxéville et Résidence autonomie de Saint Priest).",
+        "solution_envisagee": "Pour lutter contre l’isolement il pourrait exister un projet intergénérationnel ou des étudiant s (des métiers de soins) logeraient dans un établissement contre des temps d’animation et d’activités. (Exemples: Lutter contre l’isolement à Maxéville et Résidence autonomie de Saint Priest).",
+        "objectifs": "• Favoriser le lien social\n• Lutter contre l’isolement\nIndicateurs de réussite\n• Nombre de participants\n• Nombre de personnes isolées ciblées\nQuoi?\nLa pandémie du COVID 19 a été évoquée ainsi que ses conséquences sur les liens sociaux des\npersonnes. À la suite de l’épidémie une peur s’est accrue, celle de la transmission de maladie.\nCette situation a pu produire des situations d’isolement, renforcées par les limitations\nimposées par le Pass Sanitaire. Pour lutter contre l’isolement il pourrait exister un projet\nintergénérationnel ou des étudiant s (des métiers de soins) logeraient dans un établissement\ncontre des temps d’animation et d’activités. (Exemples: Lutter contre l’isolement à Maxéville\net Résidence autonomie de Saint Priest).\nPour qui?\nPersonnes retraitées (établissement et en dehors)\nOù et quand?\nMetz de manière hebdomadaire en présentiel ou distanciel\nD\nE\nS\nC\nR\nI\nP\nT\nO\nN\nHumaines:\n• Coordination par le service de l’action culturelle\n• Mobilisation des associations et services publics\nMatérielles:\nDisponibilité de projets d’établissements ouverts à l’expérimentation\nInformation et communication:\nRelayer des informations sur l'action par divers moyens (Publication dans les lieux publics et\nsur internet)\nFinancières:\nFinancement des professionnels (Métropole, CARSAT, CNSA, etc.)\nU\nIsolement"
+    },
+    "porteur_initiative": "Pour lutter contre l’isolement il pourrait exister un projet intergénérationnel ou des étudiant s (des métiers de soins) logeraient dans un établissement contre des temps d’animation et d’activités. (Exemples: Lutter contre l’isolement à Maxéville et Résidence autonomie de Saint Priest).",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_17_-_Projet_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche-action_17_-_Projet_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

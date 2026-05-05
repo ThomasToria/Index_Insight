@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Cap'seniors",
+    "territoire": "Titre: Cap'seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/873-pe-cap-seniors.pdf  ---  --- UN SERVICE CRÉE EN 2008 CAP’SENIORS est le fruit d’une étude réalisée en 2005 et 2006 par un étudiant en sport.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Cap'seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/873-pe-cap-seniors.pdf  ---  --- UN SERVICE CRÉE EN 2008 CAP’SENIORS est le fruit d’une étude réalisée en 2005 et 2006 par un étudiant en sport.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Caluire et Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Cap'seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/873-pe-cap-seniors.pdf  ---  --- UN SERVICE CRÉE EN 2008 CAP’SENIORS est le fruit d’une étude réalisée en 2005 et 2006 par un étudiant en sport.",
+        "problematique": "La mise en place de cette action ne se limite pas à l’activité physique mais elle favorise aussi le lien social et la lutte contre l’isolement des séniors.",
+        "solution_envisagee": "La mise en place de cette action ne se limite pas à l’activité physique mais elle favorise aussi le lien social et la lutte contre l’isolement des séniors.",
+        "objectifs": "Son objectif premier consiste à maintenir l'autonomie des retraités le plus longtemps possible par le biais d'activités physiques adaptées (Gymnastique rythmée ou douce, activités aquatiques et temps zen)."
+    },
+    "porteur_initiative": "Initialement animé par un un éducateur sportif spécialisé du CCAS, les séances de CAP'Seniors sont, depuis septembre 2022, animées par un éducateur sportif formé à l'APA (activité physique adapté) issu d'un club sportif de Caluire et Cuire.",
+    "date": [
+        "15",
+        "15 septembre 2008",
+        "septembre 2008",
+        "septembre 2022",
+        "juillet 2023",
+        "2025",
+        "2008",
+        "2005",
+        "2006",
+        "2010",
+        "2022",
+        "2016",
+        "2023",
+        "2024",
+        "Depuis 2010",
+        "depuis 2016",
+        "Depuis 2022",
+        "EN 2008",
+        "en 2005"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Capseniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Capseniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Aller vers ALLER VERS",
+    "territoire": "LA LOCALISATION • Gard: Alès, Nîmes, Vergèze. • Hérault: Clermont-l’Hérault, Castries, Lunel.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "LA CIBLE • Retraités isolés. • Professionnels en charge du repérage: pôles évaluateurs / Services d’aide à domicile / association de prévention / Bailleurs sociaux. • Professionnels en charge de la prise en charge: centres sociaux / CCAS / Petits Frères des Pauvres / Monalisa. • Autre: Institut Transdisciplinaire des Études du Vieillissement pour l’appui méthodologique. • Autre: en articulation avec les Conseils départementaux engagés dans la démarche initiée par la C.N.S.A visant à prévenir les situations d’isolement.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE • Les partenaires de l’action sociale pôles évaluateurs / Services d’aide à domicile / association de prévention / Bailleurs sociaux, à partir d’un questionnaire de repérage de l’isolement, vont « détecter » les retraités isolés à domicile. • À partir d’une fiche de liaison signée par le retraité, la mise en relation se fait avec les acteurs de la prise en charge Centres sociaux/CCAS/ Petits Frères des Pauvres/Monalisa. • Dès la prise en charge, la fiche de liaison est retournée aux partenaires initiaux avec les éléments de la prise en charge (Pôles Évaluateurs/ Services d’Aide A Domicile/ association de prévention/ Bailleurs sociaux). • Au-delà de la prise en charge de l’isolement, il sera demandé à terme de demander aux acteurs de la prise en charge d’identifier d’autres problématiques et d’inscrire la personne dans un parcours d’accès aux droits, aux soins et à la prévention.",
+        "contexte": "Titre: Aller vers ALLER VERS Pages: 69  Aller vers ALLER VERS LES ACTEURS Porteur(s) de la pépite: Carsat du Languedoc-Roussillon.",
+        "problematique": "LA FINALITÉ Face aux nouveaux enjeux liés aux retombées de la transition démographique, la Carsat ne cesse d’élargir ses prérogatives pour répondre au mieux aux défis du bien- vieillir.",
+        "solution_envisagee": "Titre: Aller vers ALLER VERS Pages: 69  Aller vers ALLER VERS LES ACTEURS Porteur(s) de la pépite: Carsat du Languedoc-Roussillon.",
+        "objectifs": "L ’objectif est de fédérer l’ensemble des professionnels concernés dans un écosystème innovant en mobilisant l'expertise des acteurs de terrain dans le repérage et la prise en charge des personnes isolés sans toutefois impacter leurs méthodes et leurs modalités d'intervention."
+    },
+    "porteur_initiative": "Titre: Aller vers ALLER VERS Pages: 69  Aller vers ALLER VERS LES ACTEURS Porteur(s) de la pépite: Carsat du Languedoc-Roussillon.",
+    "date": [
+        "janvier 2024",
+        "01/09/2022",
+        "01/05/2023",
+        "31/12/2023",
+        "2022",
+        "2023",
+        "2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

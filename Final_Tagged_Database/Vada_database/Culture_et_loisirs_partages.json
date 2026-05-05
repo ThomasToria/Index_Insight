@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Culture et loisirs \"part'âgés\"",
+    "territoire": "Titre: Culture et loisirs \"part'âgés\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/916-pe-culture-et-loisirs-part-ages.pdf  ---  --- CRÉER UNE PROGRAMMATION SPÉCIFIQUE En 2017, lors d'une réunion avec le conseil communal des aînés, il est mis en évidence un manque d'actions culturelles et de loisirs en journée pour les seniors en perte d'autonomie, personnes pour lesquelles l’accès en fin de journée ou en soirée est peu adapté.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "DES PERSONNES ÂGÉES IMPLIQUÉES Après une présentation de la demande de création d'un programme culturel et de loisirs spécifique pour les seniors aux partenaires de la politique gérontologique communale, il a été nécessaire de créer un “sous-groupe” de travail.",
+    "description": {
+        "description_generale": "Si, comme la Ville du Chambon-Feugerolles, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville du Chambon-Feugerolles, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Ceci permet d’ouvrir ces établissements sur l’extérieur, de les faire connaître et surtout, d’améliorer leur image, de lever des freins liés aux représentations pour une nécessité d’admission ultérieure.",
+        "solution_envisagee": "Fédérer les acteurs de l’accompagnement social, médico-social et sanitaire du territoire autour d’un projet commun et transversal.",
+        "objectifs": "Des transports sont régulièrement organisés pour faciliter l'adhésion des seniors aux activités proposées.  ---  --- LES OBJECTIFS SONT ATTEINTS En octobre, un bilan de l'année précédente est effectué et débute ensuite la préparation de la programmation pour l'année à venir."
+    },
+    "porteur_initiative": "Si, comme la Ville du Chambon-Feugerolles, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2017",
+        "4000",
+        "2022",
+        "depuis 2022",
+        "En 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Culture_et_loisirs_partages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Culture_et_loisirs_partages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

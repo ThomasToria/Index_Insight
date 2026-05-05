@@ -1,0 +1,41 @@
+{
+    "titre": "---  ---",
+    "territoire": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+    "description": {
+        "description_generale": "Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport? Achat d’un mini bus et organisation s’un service? Information et communication: Réunion d’information générale Financières: A préciser\nRESSOURCES\nMobilité",
+        "contexte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+        "problematique": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+        "solution_envisagee": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+        "objectifs": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?"
+    },
+    "porteur_initiative": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche6-Mobilite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche6-Mobilite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

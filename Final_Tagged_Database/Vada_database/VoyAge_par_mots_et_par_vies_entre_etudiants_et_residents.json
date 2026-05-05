@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents",
+    "territoire": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/124-pe-voyage-par-mots-et-par-vies-1.pdf  ---  --- S‘OUVRIR SUR LE MONDE L’origine du projet «Voy’Âge par mots et par vies» est née avec l’arrivée d’une nouvelle animatrice au sein de l’Ehpad et accueil de jour César Geoffray d’Angers.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Tout le monde est invité à venir à cette dernière rencontre festive, la famille des personnes âgées ainsi que les résidents n’ayant pas participé aux rencontres pour leur donner un aperçu de cette action et pourquoi pas les inciter à participer l’année suivante.",
+    "description": {
+        "description_generale": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/124-pe-voyage-par-mots-et-par-vies-1.pdf  ---  --- S‘OUVRIR SUR LE MONDE L’origine du projet «Voy’Âge par mots et par vies» est née avec l’arrivée d’une nouvelle animatrice au sein de l’Ehpad et accueil de jour César Geoffray d’Angers.",
+        "contexte": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/124-pe-voyage-par-mots-et-par-vies-1.pdf  ---  --- S‘OUVRIR SUR LE MONDE L’origine du projet «Voy’Âge par mots et par vies» est née avec l’arrivée d’une nouvelle animatrice au sein de l’Ehpad et accueil de jour César Geoffray d’Angers.",
+        "problematique": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/124-pe-voyage-par-mots-et-par-vies-1.pdf  ---  --- S‘OUVRIR SUR LE MONDE L’origine du projet «Voy’Âge par mots et par vies» est née avec l’arrivée d’une nouvelle animatrice au sein de l’Ehpad et accueil de jour César Geoffray d’Angers.",
+        "solution_envisagee": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/124-pe-voyage-par-mots-et-par-vies-1.pdf  ---  --- S‘OUVRIR SUR LE MONDE L’origine du projet «Voy’Âge par mots et par vies» est née avec l’arrivée d’une nouvelle animatrice au sein de l’Ehpad et accueil de jour César Geoffray d’Angers.",
+        "objectifs": "UN PROJET À DOUBLE OBJECTIF Ce projet, basé sur la rencontre des résidents et des étudiants devait permettre aux étudiants de l’Université Notre Dame South Bend- Indiana aux ÉtatsUnis de s’impliquer dans la vie locale tout en perfectionnant leur apprentissage de la langue."
+    },
+    "porteur_initiative": "Titre: Voy'Âge par mots et par vies entre étudiants et résidents Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/124-pe-voyage-par-mots-et-par-vies-1.pdf  ---  --- S‘OUVRIR SUR LE MONDE L’origine du projet «Voy’Âge par mots et par vies» est née avec l’arrivée d’une nouvelle animatrice au sein de l’Ehpad et accueil de jour César Geoffray d’Angers.",
+    "date": [
+        "2025",
+        "2012",
+        "depuis 2012",
+        "en 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\VoyAge_par_mots_et_par_vies_entre_etudiants_et_residents.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\VoyAge_par_mots_et_par_vies_entre_etudiants_et_residents.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

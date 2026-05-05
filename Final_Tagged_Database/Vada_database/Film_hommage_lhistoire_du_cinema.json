@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Film hommage l'histoire du cinéma",
+    "territoire": "Titre: Film hommage l'histoire du cinéma Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/738-pe-606-290422film-hommage-l-histoire-du-cinema-caluireetcuire.pdf  ---  --- DES SENIORS RÉALISENT UN FILM VALORISANT LEUR RÉSIDENCE Le projet consiste en la co-réalisation d’un film hommage à un résident (décédé du Covid) ancien projecteur dans un cinéma et en sa diffusion dans une salle de cinéma de la Ville.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Valoriser et montrer les talents artistiques des résidents auprès des habitants de la commune.",
+    "description": {
+        "description_generale": "Si, comme la ville de Caluire-et-Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la ville de Caluire-et-Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la ville de Caluire-et-Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Si, comme la ville de Caluire-et-Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "Premièrement, il a d’abord fallu trouver un projet qui puisse montrer une image dynamique et valorisante des personnes qui vivent en Résidence Autonomie, afin de faire connaître le modèle d'habitat."
+    },
+    "porteur_initiative": "Des ateliers chants ont été organisés par une chanteuse professionnelle aboutissant à des enregistrements pour le film, tout comme des ateliers théâtres ont été mis en place par un comédien professionnel aboutissant au tournage de scène.",
+    "date": [
+        "2025",
+        "2016",
+        "2021",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Film_hommage_lhistoire_du_cinema.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Film_hommage_lhistoire_du_cinema.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

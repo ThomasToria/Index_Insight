@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Le mobilier urbain au banc d'essai",
+    "territoire": "Titre: Le mobilier urbain au banc d'essai Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/175-pe-mobilier-urbain-rennes.pdf  ---  --- ADAPTER L‘ENVIRONNEMENT EXTÉRIEUR Inauguré il y a tout juste deux ans, le parc du Berry à Villejean a la particularité d’accueillir en son sein une gamme diversifiée de mobiliers urbains.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Parmi elles, 6 aînés qui s’étaient déjà investis l’année dernière dans la réalisation de la plaquette « Seniors! des infos, des réponses pour bien vieillir à Rennes » coordonnée par le CLIC (Centre local d’information et de coordination), des habitants invités par la Mission Handicap Citoyenneté de la Ville et le Collectif Handicap 35, ainsi que des résidents du foyer logement du Colombier et de la maison de retraite Raymond Thomas, située à deux pas du parc du Berry Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "description": {
+        "description_generale": "Dans le cadre de son plan d’actions « Rennes, ville amie des aînés », la Direction des Personnes âgées (DPAg) a décidé de proposer le 29 mai dernier à des personnes âgées et/ou en situation de handicap de tester plusieurs de ces mobiliers afin d’intégrer des préconisations pour le choix des futurs bancs et chaises dans le Cahier des charges de l’espace public de la Ville de Rennes.",
+        "contexte": "Titre: Le mobilier urbain au banc d'essai Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/175-pe-mobilier-urbain-rennes.pdf  ---  --- ADAPTER L‘ENVIRONNEMENT EXTÉRIEUR Inauguré il y a tout juste deux ans, le parc du Berry à Villejean a la particularité d’accueillir en son sein une gamme diversifiée de mobiliers urbains.",
+        "problematique": "Titre: Le mobilier urbain au banc d'essai Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/175-pe-mobilier-urbain-rennes.pdf  ---  --- ADAPTER L‘ENVIRONNEMENT EXTÉRIEUR Inauguré il y a tout juste deux ans, le parc du Berry à Villejean a la particularité d’accueillir en son sein une gamme diversifiée de mobiliers urbains.",
+        "solution_envisagee": "Dans le cadre de son plan d’actions « Rennes, ville amie des aînés », la Direction des Personnes âgées (DPAg) a décidé de proposer le 29 mai dernier à des personnes âgées et/ou en situation de handicap de tester plusieurs de ces mobiliers afin d’intégrer des préconisations pour le choix des futurs bancs et chaises dans le Cahier des charges de l’espace public de la Ville de Rennes.",
+        "objectifs": "En d’autres termes, il s’agit de favoriser l’installation de mobiliers urbains adaptés. « Le dispositif Rennes, ville amie des aînés comporte un axe « Préconiser un Habitat favorable au vieillissement »."
+    },
+    "porteur_initiative": "Titre: Le mobilier urbain au banc d'essai Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/175-pe-mobilier-urbain-rennes.pdf  ---  --- ADAPTER L‘ENVIRONNEMENT EXTÉRIEUR Inauguré il y a tout juste deux ans, le parc du Berry à Villejean a la particularité d’accueillir en son sein une gamme diversifiée de mobiliers urbains.",
+    "date": [
+        "2025",
+        "2011",
+        "2015",
+        "2016",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_mobilier_urbain_au_banc_dessai.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_mobilier_urbain_au_banc_dessai.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

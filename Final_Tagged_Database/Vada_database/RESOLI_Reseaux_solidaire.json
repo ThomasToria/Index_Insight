@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: RESOLI (Réseaux solidaire)",
+    "territoire": "Titre: RESOLI (Réseaux solidaire) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/538-pe-resoli-reseaux-solidaires-mise-a-jour-2023.pdf  ---  --- UNE PLATEFORME NUMÉRIQUE ATTRACTIVE ET INNOVANTE Développée depuis 2015 par l’EPFL+ECAL Lab, en collaboration avec Pro Senectute Vaud, les seniors de cinq régions de Suisse romande et avec le soutien de la Fondation Leenaards, la plateforme Resoli est une nouvelle solution numérique visant à renforcer les liens sociaux des seniors au sein de leur commune (quartier, village).",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Le projet remplit une triple mission: il offre aux seniors un outil digital, utile et convivial leur permettant d’organiser, en toute confiance, des activités de proximité créatrices de lien social, leur facilite l’accès aux services numériques et soutient la recherche sur la perception des interactions en ligne pour tous.",
+    "description": {
+        "description_generale": "Le projet remplit une triple mission: il offre aux seniors un outil digital, utile et convivial leur permettant d’organiser, en toute confiance, des activités de proximité créatrices de lien social, leur facilite l’accès aux services numériques et soutient la recherche sur la perception des interactions en ligne pour tous.",
+        "contexte": "Le projet remplit une triple mission: il offre aux seniors un outil digital, utile et convivial leur permettant d’organiser, en toute confiance, des activités de proximité créatrices de lien social, leur facilite l’accès aux services numériques et soutient la recherche sur la perception des interactions en ligne pour tous.",
+        "problematique": "La plateforme répond ainsi à un vrai besoin en termes de qualité de vie et de santé des ainés.",
+        "solution_envisagee": "Titre: RESOLI (Réseaux solidaire) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/538-pe-resoli-reseaux-solidaires-mise-a-jour-2023.pdf  ---  --- UNE PLATEFORME NUMÉRIQUE ATTRACTIVE ET INNOVANTE Développée depuis 2015 par l’EPFL+ECAL Lab, en collaboration avec Pro Senectute Vaud, les seniors de cinq régions de Suisse romande et avec le soutien de la Fondation Leenaards, la plateforme Resoli est une nouvelle solution numérique visant à renforcer les liens sociaux des seniors au sein de leur commune (quartier, village).",
+        "objectifs": "L’objectif n’est donc pas de multiplier les interactions virtuelles, mais de favoriser les rencontres et les échanges réels entre personnes."
+    },
+    "porteur_initiative": "Le projet remplit une triple mission: il offre aux seniors un outil digital, utile et convivial leur permettant d’organiser, en toute confiance, des activités de proximité créatrices de lien social, leur facilite l’accès aux services numériques et soutient la recherche sur la perception des interactions en ligne pour tous.",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "depuis 2015",
+        "depuis 2017",
+        "en",
+        "en 2018",
+        "entre 2016 et 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\RESOLI_Reseaux_solidaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\RESOLI_Reseaux_solidaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

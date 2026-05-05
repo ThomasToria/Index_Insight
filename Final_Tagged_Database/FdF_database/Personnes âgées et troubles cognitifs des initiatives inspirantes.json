@@ -1,0 +1,63 @@
+{
+    "titre": "Personnes âgées et troubles cognitifs: des initiatives inspirantes",
+    "territoire": "Dans ce cadre et en lien avec le Contrat de ville de Lille métropole, tous les résidents de l’unité de vie spécialisée Alzheimer de l’Ehpad du Centre communal d’action sociale sont partis en séjour au bord de la mer au mois d’avril 2017 avec une vingtaine d’enfants du centre social.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Personnes âgées et troubles cognitifs: des initiatives inspirantes  https://www.fondationdefrance.org/fr/cat-personnes-agees/personnes-agees-et-troubles-cognitifs-des-initiatives-inspirantes  Qui sommes-nous?",
+    "description": {
+        "description_generale": "La police de Genève (Suisse): à l’initiative de la police cantonale et en partenariat avec l’association France Alzheimer Genève, ce projet vise à sensibiliser les services de police à la manière d'entrer en contact et d'accompagner les personnes ayant des troubles cognitifs évolutifs et leurs aidants.",
+        "contexte": "Le « Sans fourchette », Mémoire et Santé: porté par l’association Mémoire et Santé à Marseille, cette action repose sur le constat que la maladie d’Alzheimer entraîne une malnutrition/ dénutrition, qui peut également avoir pour conséquence une désocialisation des personnes malades.",
+        "problematique": "Les intervenants de la journée Ouverture Michel Clanet, président du comité de suivi du Plan Maladies neurodégénératives Hélène Jacquemont, présidente de la Fondation Médéric Alzheimer Claire Boulanger, experte Solidarités nationales de la Fondation de France Changer le regard en sensibilisant les jeunes générations Enjeux et objectifs de l’étude Anne-Bérénice Simzac, sociologue, politiste, adjointe au responsable du Soutien à la recherche et à l’innovation de terrain, Fondation Médéric Alzheimer Principaux enseignements Christine Rolland, sociologue, Coopérative Cisame Mélissa Petit, sociologue, Mixing Generations Table-ronde avec les porteurs de projet Marie-Pascale Sarbaji, responsable de l’Espace Jeanne Garnier, Paris Céline Touchet, coordinatrice de l'accueil de jour de l’Ehpad La Buissaie, Mûrs-Érigné Fabienne Verdureau, neuropsychologue, association Mémoire et Santé, Marseille Elodie Avignon, cadre de santé, Ehpad Les Bruyères, Mons-en-Barœul Anne-Claude Juillerat Van der Linden, présidente de l’association VIVA, Suisse Mobiliser les acteurs de proximité Enjeux et objectifs de l’étude Agathe Gestin, responsable du programme Personnes âgées, Fondation de France Principaux enseignements Christine Quélier, sociologue et psychologue clinicienne Murielle Bauchet, consultante en santé publique Table-ronde avec les porteurs de projet Sophie Courvoisier, directrice de l’association Alzheimer Genève (Suisse) Giovanni Martinelli, lieutenant de la police cantonale de proximité de Genève (Suisse) Bart Deltour, Together for a dementia-friendly Bruges (Belgique) Intervenant à confirmer, Alzheimer’s Society, Londres (Royaume-Uni) Clôture Agathe Gestin, responsable Fonds individualisés et Programmes Solidarités nationales Fabrice Gzil, responsable du Soutien à la recherche et à l’innovation de terrain, Fondation Médéric Alzheimer POUR ALLER PLUS LOIN → Prix 2018 de la Fondation de France et la Fondation Médéric Alzheimer → Découvrez le programme Personnes âgées Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+        "solution_envisagee": "Ce programme propose à tout un chacun de suivre une session d’information sur la maladie et ses conséquences, prodiguée par un bénévole formé par les salariés d’Alzheimer’s Society.",
+        "objectifs": "Trois actions ont récemment été mises en place, pour faire changer le regard sur la maladie et développer l’expression de la parole des malades: la création d’un jardin intergénérationnel, la publication d’un livre et la réalisation d’un film."
+    },
+    "porteur_initiative": "La police de Genève (Suisse): à l’initiative de la police cantonale et en partenariat avec l’association France Alzheimer Genève, ce projet vise à sensibiliser les services de police à la manière d'entrer en contact et d'accompagner les personnes ayant des troubles cognitifs évolutifs et leurs aidants.",
+    "date": [
+        "avril 2017",
+        "mai 2018",
+        "2060",
+        "2005",
+        "2015",
+        "2017",
+        "2018",
+        "1996",
+        "2012",
+        "depuis 2005",
+        "depuis 2015",
+        "en 1996",
+        "en 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées et troubles cognitifs des initiatives inspirantes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Personnes âgées et troubles cognitifs des initiatives inspirantes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

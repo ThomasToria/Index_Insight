@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Marché \"main dans la main\"",
+    "territoire": "Titre: Marché \"main dans la main\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Marche-main-dans-la-main.pdf  ---  --- AIDER LES SENIORS AU MARCHÉ Avec l’avancée en âge, faire son marché devient parfois compliqué.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Marché \"main dans la main\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Marche-main-dans-la-main.pdf  ---  --- AIDER LES SENIORS AU MARCHÉ Avec l’avancée en âge, faire son marché devient parfois compliqué.",
+    "description": {
+        "description_generale": "Dispositif toutes les deux semaines hors vacances d'été Action inclus dans le budget de financement prévisionnel ville 2025 Ville de Montauban Ville Amie des Aînés depuis 2022 Montauban (82)",
+        "contexte": "De ce constat, est née cette initiative de la ville pour permettre à ses habitants, même avec des difficultés de mobilité, de faire leur marché, avec l'aide d'étudiants.",
+        "problematique": "De ce constat, est née cette initiative de la ville pour permettre à ses habitants, même avec des difficultés de mobilité, de faire leur marché, avec l'aide d'étudiants.",
+        "solution_envisagee": "UNE ACTION FRAÎCHEMENT MISE EN PLACE Cette action est menée par le pôle seniors et la direction « Jeunesse et vie étudiante », et plus particulièrement le conseil local de la jeunesse.",
+        "objectifs": "MARCHÉ \"MAIN DANS LA MAIN\" Fiche PARTAGE D'EXPÉRIENCE N°954 Villes Amies des Aînés en France Permettre l’accès au marché du samedi matin au plus grand nombre Créer du lien social et développer les échanges intergénérationnels afin de rompre l’isolement et de lutter contre la solitude des seniors Prise en charge d'une personne âgée par un étudiant le temps du marché pour l'accompagner et l'aider."
+    },
+    "porteur_initiative": "Titre: Marché \"main dans la main\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Marche-main-dans-la-main.pdf  ---  --- AIDER LES SENIORS AU MARCHÉ Avec l’avancée en âge, faire son marché devient parfois compliqué.",
+    "date": [
+        "12 avril 2025",
+        "mars 2024",
+        "avril 2025",
+        "2025",
+        "2024",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Marche_main_dans_la_main.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Marche_main_dans_la_main.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

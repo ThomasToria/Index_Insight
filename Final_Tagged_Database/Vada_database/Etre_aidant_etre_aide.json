@@ -1,0 +1,60 @@
+{
+    "titre": "Titre: Être aidant, être aidé",
+    "territoire": "La communication a été réalisée sur différents supports: une émission sur TVR, une émission radio, une communication dans la revue du département (mars- avril-mai 2022), des interventions dans les cinq quartiers prioritaires de la ville, le programme bimestriel réalisé par la Maison des Aînés et des Aidants.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Les professionnels ont entendu leur épuisement, leur isolement, leur difficulté à identifier les ressources sur le territoire et leurs difficultés à se reconnaître comme proches aidants.",
+    "description": {
+        "description_generale": "La bulle \"Et si on parlait de …\" présentée comme une offre globale d'accompagnement avec des actions complémentaires les unes des autres: un café philo mensuel; \"Parole d'aidants\", temps mensuel animé par une praticienne en psychologie positive.",
+        "contexte": "DES BULLES QUI RÉPONDENT AUX BESOINS DES AIDANTS Face à l'épuisement et à l'isolement des aidants renforcés pendant la crise sanitaire (72% des aidants ont ressenti un épuisement physique et 75% un épuisement moral), la Maison des Aînés et des Aidants a souhaité développer un accompagnement des aidants s'appuyant sur les besoins exprimés par ceux-ci.",
+        "problematique": "DES BULLES QUI RÉPONDENT AUX BESOINS DES AIDANTS Face à l'épuisement et à l'isolement des aidants renforcés pendant la crise sanitaire (72% des aidants ont ressenti un épuisement physique et 75% un épuisement moral), la Maison des Aînés et des Aidants a souhaité développer un accompagnement des aidants s'appuyant sur les besoins exprimés par ceux-ci.",
+        "solution_envisagee": "A partir de ce tableau, les trois bulles de répit ont été construites et proposées à la Conférence des financeurs d'Ille-et-Vilaine qui les a intégralement financées:  LES BULLES DE REPIT POUR LES AIDANTS Fiche PARTAGE D'EXPÉRIENCE N°673 Villes Amies des Aînés en France La Maison des Aînés et des Aidants A Rennes (35) Ville Membre depuis 2012 Offrir un accompagnement global des aidants.",
+        "objectifs": "DES BULLES QUI RÉPONDENT AUX BESOINS DES AIDANTS Face à l'épuisement et à l'isolement des aidants renforcés pendant la crise sanitaire (72% des aidants ont ressenti un épuisement physique et 75% un épuisement moral), la Maison des Aînés et des Aidants a souhaité développer un accompagnement des aidants s'appuyant sur les besoins exprimés par ceux-ci."
+    },
+    "porteur_initiative": "La bulle \"Et si on parlait de …\" présentée comme une offre globale d'accompagnement avec des actions complémentaires les unes des autres: un café philo mensuel; \"Parole d'aidants\", temps mensuel animé par une praticienne en psychologie positive.",
+    "date": [
+        "17 mars 2022",
+        "31 mars 2022",
+        "décembre 2021",
+        "mars 2022",
+        "mai 2022",
+        "février 2023",
+        "décembre 2022",
+        "2025",
+        "2022",
+        "2020",
+        "2021",
+        "2012",
+        "2023",
+        "depuis 2012",
+        "en 2020"
+    ],
+    "thematique": [
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Etre_aidant_etre_aide.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Etre_aidant_etre_aide.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

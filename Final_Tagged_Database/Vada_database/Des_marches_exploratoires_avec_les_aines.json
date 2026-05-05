@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Des marches exploratoires avec les aînés",
+    "territoire": "Titre: Des marches exploratoires avec les aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/531-pe-marches-exploratoires.pdf  ---  --- Juin 2018: Quartier la Touche (secteur ouest) – 7 participants; Septembre 2018: Quartier Bréquigny (secteur sudouest) – 11 participants; Novembre 2018: marche avec des aînés dans le cœur de ville, organisée dans le cadre de la concertation avec les habitants sur le projet urbain « Rennes 2030 » - 25 participants.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "UNE DÉMARCHE PARTICIPATIVE RÉUSSIE En avril 2019, un temps de restitution aux participants et aux habitants intéressés (commission seniors de quartier, équipement des quartier…) a été organisé.",
+    "description": {
+        "description_generale": "Elles font partie du plan d’action du quatrième axe Rennes Ville Amie des Aînés (ReVAA): « Faciliter la mobilité et les déplacements des aînés ».",
+        "contexte": "Mobiliser les services techniques pour analyser ces diagnostics de proximité et répondre au mieux aux observations.",
+        "problematique": "Ces marches ont pour objectif d’identifier les aménagements favorables à la mobilité, mais aussi les freins et obstacles.",
+        "solution_envisagee": "Les participants se sont vu proposer, par les services de la ville, plusieurs itinéraires possibles d’une distance de 500 à 600 mètres maximum correspondant à des trajets du quotidien (accès aux commerces, aux services, aux espaces verts, aux transports en commun…).",
+        "objectifs": "Coût: 800€ (Réalisation d’un court métrage lors de la marche exploratoire dans le quartier sud-ouest)  ---  --- LA MARCHE EXPLORATOIRE Concrètement, la réalisation de la marche se traduit par une déambulation par petits groupes (un agent de la Ville pour quatre aînés) afin de prendre en note et en photo l’ensemble des remarques émises par les participants."
+    },
+    "porteur_initiative": "Elles font partie du plan d’action du quatrième axe Rennes Ville Amie des Aînés (ReVAA): « Faciliter la mobilité et les déplacements des aînés ».",
+    "date": [
+        "Juin 2018",
+        "Septembre 2018",
+        "Novembre 2018",
+        "décembre 2018",
+        "avril 2019",
+        "2025",
+        "2018",
+        "2030",
+        "2012",
+        "2019",
+        "2020",
+        "depuis 2012",
+        "en",
+        "en 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_marches_exploratoires_avec_les_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_marches_exploratoires_avec_les_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

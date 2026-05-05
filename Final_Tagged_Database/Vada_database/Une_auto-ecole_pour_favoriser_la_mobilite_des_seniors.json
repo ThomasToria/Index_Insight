@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Une auto-école pour favoriser la mobilité des seniors",
+    "territoire": "Titre: Une auto-école pour favoriser la mobilité des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/777-concours-2022-53-mobilite-seniors-valenciennes.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°643 Villes Amies des Aînés en France UNE SOLUTION ALTERNATIVE POUR FAVORISER LA MOBILITÉ DES SENIORS Le CCAS de Valenciennes propose depuis avril 2022 une solution alternative, adaptée et innovante aux seniors qui ne sont plus en mesure de conduire leur véhicule, ou n'ont jamais eu le permis, et qui ont des difficultés fonctionnelles rendant problématique l'accès aux transports en commun ou qui habitent dans des quartiers mal desservis.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Le service procède ainsi: le senior qui souhaite bénéficier du dispositif appelle le Pôle seniors du CCAS, il est mis directement en lien avec un référent social qui vérifie que le besoin est effectif et réel.",
+    "description": {
+        "description_generale": "Rédiger un flyer pour communiquer autour du projet.  ---  --- ÉVALUATION ET SUITE Des réunions de bilan trimestriel sont organisées entre le CCAS et l'auto-école afin de réajuster le projet si besoin et de mesurer les différents indicateurs: fréquentation mensuelle, objet de la demande, impacts sur la lutte contre l'isolement et sur le développement du lien social, etc.",
+        "contexte": "Rédiger un flyer pour communiquer autour du projet.  ---  --- ÉVALUATION ET SUITE Des réunions de bilan trimestriel sont organisées entre le CCAS et l'auto-école afin de réajuster le projet si besoin et de mesurer les différents indicateurs: fréquentation mensuelle, objet de la demande, impacts sur la lutte contre l'isolement et sur le développement du lien social, etc.",
+        "problematique": "Rédiger un flyer pour communiquer autour du projet.  ---  --- ÉVALUATION ET SUITE Des réunions de bilan trimestriel sont organisées entre le CCAS et l'auto-école afin de réajuster le projet si besoin et de mesurer les différents indicateurs: fréquentation mensuelle, objet de la demande, impacts sur la lutte contre l'isolement et sur le développement du lien social, etc.",
+        "solution_envisagee": "Titre: Une auto-école pour favoriser la mobilité des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/777-concours-2022-53-mobilite-seniors-valenciennes.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°643 Villes Amies des Aînés en France UNE SOLUTION ALTERNATIVE POUR FAVORISER LA MOBILITÉ DES SENIORS Le CCAS de Valenciennes propose depuis avril 2022 une solution alternative, adaptée et innovante aux seniors qui ne sont plus en mesure de conduire leur véhicule, ou n'ont jamais eu le permis, et qui ont des difficultés fonctionnelles rendant problématique l'accès aux transports en commun ou qui habitent dans des quartiers mal desservis.",
+        "objectifs": "Rédiger un flyer pour communiquer autour du projet.  ---  --- ÉVALUATION ET SUITE Des réunions de bilan trimestriel sont organisées entre le CCAS et l'auto-école afin de réajuster le projet si besoin et de mesurer les différents indicateurs: fréquentation mensuelle, objet de la demande, impacts sur la lutte contre l'isolement et sur le développement du lien social, etc."
+    },
+    "porteur_initiative": "Rédiger un flyer pour communiquer autour du projet.  ---  --- ÉVALUATION ET SUITE Des réunions de bilan trimestriel sont organisées entre le CCAS et l'auto-école afin de réajuster le projet si besoin et de mesurer les différents indicateurs: fréquentation mensuelle, objet de la demande, impacts sur la lutte contre l'isolement et sur le développement du lien social, etc.",
+    "date": [
+        "avril 2022",
+        "2025",
+        "2022",
+        "2015",
+        "2023",
+        "depuis 2015",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_auto-ecole_pour_favoriser_la_mobilite_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_auto-ecole_pour_favoriser_la_mobilite_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

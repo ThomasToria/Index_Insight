@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Le savoir vivre dans les transports en commun stéphanois",
+    "territoire": "Titre: Le savoir vivre dans les transports en commun stéphanois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/Version-corrigee-STAS-AOUT-2025.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  LE SAVOIR VIVRE DANS LES TRANSPORTS EN COMMUN STÉPHANOIS UN PROJET DU CCS Le maintien de l’autonomie des seniors est un enjeu majeur de notre société.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Le savoir vivre dans les transports en commun stéphanois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/Version-corrigee-STAS-AOUT-2025.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  LE SAVOIR VIVRE DANS LES TRANSPORTS EN COMMUN STÉPHANOIS UN PROJET DU CCS Le maintien de l’autonomie des seniors est un enjeu majeur de notre société.",
+    "description": {
+        "description_generale": "CRÉATION INTERGÉNÉRATIONNELLE Une fois le constat établi et le projet réfléchi, le groupe de travail a rencontré la STAS, société de transports de l’agglomération stéphanoise, pour discuter d'une action qui pourrait être mise en place.",
+        "contexte": "CRÉATION INTERGÉNÉRATIONNELLE Une fois le constat établi et le projet réfléchi, le groupe de travail a rencontré la STAS, société de transports de l’agglomération stéphanoise, pour discuter d'une action qui pourrait être mise en place.",
+        "problematique": "Titre: Le savoir vivre dans les transports en commun stéphanois Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/Version-corrigee-STAS-AOUT-2025.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France  LE SAVOIR VIVRE DANS LES TRANSPORTS EN COMMUN STÉPHANOIS UN PROJET DU CCS Le maintien de l’autonomie des seniors est un enjeu majeur de notre société.",
+        "solution_envisagee": "CRÉATION INTERGÉNÉRATIONNELLE Une fois le constat établi et le projet réfléchi, le groupe de travail a rencontré la STAS, société de transports de l’agglomération stéphanoise, pour discuter d'une action qui pourrait être mise en place.",
+        "objectifs": "Trois thématiques en sont ressorties: l'encombrement devant les portes qui empêche de monter et descendre facilement, le bruit, et l'attention portée aux autres."
+    },
+    "porteur_initiative": "Trois thématiques en sont ressorties: l'encombrement devant les portes qui empêche de monter et descendre facilement, le bruit, et l'attention portée aux autres.",
+    "date": [
+        "25 février",
+        "25 février 2025",
+        "février",
+        "février 2025",
+        "2025",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_savoir_vivre_dans_les_transports_en_commun_stephanois.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_savoir_vivre_dans_les_transports_en_commun_stephanois.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

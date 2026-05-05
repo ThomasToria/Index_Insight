@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Offre diversifiée d'habitats destinés aux aînés",
+    "territoire": "OFFRE DIVERSIFIEE D'HABITATS DESTINES AUX AÎNES Fiche PARTAGE D'EXPÉRIENCE N°573 Villes Amies des Aînés en France Commune d'Orgères Rennes Métropole (35) Collectivité adhérente depuis 2017 Favoriser le plus longtemps possible la vie des personnes âgées à leur domicile et le maintien sur la commune, là où sont les repères et les liens.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Pour le parcours résidentiel, deux projets sont en cours de réalisation: la résidence Obély qui est un habitat groupé situé en centre bourg destiné à un public de personnes âgées autonomes et indépendantes avec trente-deux logements et le village d’Assia, avec vingt-quatre logements individuels dans une optique de mutualisation des interventions de service à domicile.",
+    "description": {
+        "description_generale": "Pour le parcours résidentiel, deux projets sont en cours de réalisation: la résidence Obély qui est un habitat groupé situé en centre bourg destiné à un public de personnes âgées autonomes et indépendantes avec trente-deux logements et le village d’Assia, avec vingt-quatre logements individuels dans une optique de mutualisation des interventions de service à domicile.",
+        "contexte": "La résidence accueille des personnes désireuses d’habiter dans un lieu mieux adapté à leurs besoins: logements pas trop grands, proches de la vie de la cité (commerces, cabinets médicaux et paramédicaux).",
+        "problematique": "La résidence accueille des personnes désireuses d’habiter dans un lieu mieux adapté à leurs besoins: logements pas trop grands, proches de la vie de la cité (commerces, cabinets médicaux et paramédicaux).",
+        "solution_envisagee": "Pour répondre à un besoin de maintien de lien social, la commune a proposé d'une part de développer les actions d’animations dans la résidence et a fait le choix de proposer l’animation à ASSIA Réseau UNA.",
+        "objectifs": "Titre: Offre diversifiée d'habitats destinés aux aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/704-pe-24-offre-diversifiee-d-habitats-destines-aux-aines-rennes-metropole.pdf  ---  --- Concours  RFVAA 2021 UN PARCOURS RÉSIDENTIEL POUR FAVORISER LA VIE À DOMICILE Dans une approche d’adaptation de la société au vieillissement, la commune d’Orgères souhaite offrir une diversité d’habitats aux aînés en leur permettant d’accéder à un parcours résidentiel tout au long de la vie, adapté à l'autonomie et en proximité du centre et des services."
+    },
+    "porteur_initiative": "La résidence accueille des personnes désireuses d’habiter dans un lieu mieux adapté à leurs besoins: logements pas trop grands, proches de la vie de la cité (commerces, cabinets médicaux et paramédicaux).",
+    "date": [
+        "2025",
+        "2021",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Offre_diversifiee_dhabitats_destines_aux_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Offre_diversifiee_dhabitats_destines_aux_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

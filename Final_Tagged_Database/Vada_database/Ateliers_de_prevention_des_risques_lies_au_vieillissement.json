@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Ateliers de prévention des risques liés au vieillissement",
+    "territoire": "Titre: Ateliers de prévention des risques liés au vieillissement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1054-concours-2024-ateliers-de-prevention-des-risques-lies-au-vieillissement.pdf  ---  --- APPRÉHENDER LE VIEILLISSEMENT AVEC LA PRÉVENTION Depuis sa création en 2017, le service municipal de la Maison des Aînés s'appuie sur l'analyse réalisée en fin de saison auprès des usagers aînés pour identifier leurs besoins et leurs attentes afin de programmer les ateliers de la saison suivante.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Fiche PARTAGE D'EXPÉRIENCE N°1-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS ATELIERS DE PRÉVENTION DES RISQUES LIÉS AU VIEILLISSEMENT Villeneuve d’Ascq Ville Amie des Aînés depuis 2022 Villeneuve d’Ascq (59) Permettre aux usagers inscrits de préparer dans les meilleurs conditions leur arrivée à la retraite en proposant des programmes complets sur les domaines de la chute, de la nutrition et de la préparation psychologique du passage à la retraite Sortir de l’isolement Tisser des liens Améliorer l’estime de soi Identification des besoins des seniors Mise en place de trois ateliers: Educ'chutes, Educ'Nut, Coaching lumière Deux sessions par an  ---  --- ORGANISATION DU PROJET Pour mettre en place ces ateliers, il a d'abord fallu identifier les besoins et les attentes des usagers, puis rencontrer les partenaires et prestataires potentiels.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Villeneuve d’Ascq, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "DES ATELIERS COMPLETS Les ateliers se divisent en trois axes: Educ'chutes, Educ'Nut et Coaching lumière.",
+        "problematique": "Fiche PARTAGE D'EXPÉRIENCE N°1-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS ATELIERS DE PRÉVENTION DES RISQUES LIÉS AU VIEILLISSEMENT Villeneuve d’Ascq Ville Amie des Aînés depuis 2022 Villeneuve d’Ascq (59) Permettre aux usagers inscrits de préparer dans les meilleurs conditions leur arrivée à la retraite en proposant des programmes complets sur les domaines de la chute, de la nutrition et de la préparation psychologique du passage à la retraite Sortir de l’isolement Tisser des liens Améliorer l’estime de soi Identification des besoins des seniors Mise en place de trois ateliers: Educ'chutes, Educ'Nut, Coaching lumière Deux sessions par an  ---  --- ORGANISATION DU PROJET Pour mettre en place ces ateliers, il a d'abord fallu identifier les besoins et les attentes des usagers, puis rencontrer les partenaires et prestataires potentiels.",
+        "solution_envisagee": "En 2023, la Maison des aînés a souhaité proposer aux usagers aînés de 63 ans et plus de suivre un parcours permettant d'appréhender le vieillissement et de construire des outils autour des thèmes prévention des chutes, prévention de problèmes liés à la nutrition et coaching personnel pour préparer le passage à la retraite.",
+        "objectifs": "Titre: Ateliers de prévention des risques liés au vieillissement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1054-concours-2024-ateliers-de-prevention-des-risques-lies-au-vieillissement.pdf  ---  --- APPRÉHENDER LE VIEILLISSEMENT AVEC LA PRÉVENTION Depuis sa création en 2017, le service municipal de la Maison des Aînés s'appuie sur l'analyse réalisée en fin de saison auprès des usagers aînés pour identifier leurs besoins et leurs attentes afin de programmer les ateliers de la saison suivante."
+    },
+    "porteur_initiative": "DES ATELIERS COMPLETS Les ateliers se divisent en trois axes: Educ'chutes, Educ'Nut et Coaching lumière.",
+    "date": [
+        "2025",
+        "1054",
+        "2024",
+        "2017",
+        "2023",
+        "2022",
+        "depuis 2022",
+        "en 2017",
+        "En 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_de_prevention_des_risques_lies_au_vieillissement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ateliers_de_prevention_des_risques_lies_au_vieillissement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

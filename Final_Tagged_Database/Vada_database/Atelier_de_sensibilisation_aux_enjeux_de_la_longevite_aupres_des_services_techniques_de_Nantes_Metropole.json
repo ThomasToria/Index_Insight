@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Atelier de sensibilisation aux enjeux de la longévité auprès des services techniques de Nantes Métropole",
+    "territoire": "Titre: Atelier de sensibilisation aux enjeux de la longévité auprès des services techniques de Nantes Métropole Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/814-pe-atelier-de-sensibilisation.pdf  ---  --- présentation des engagements de la feuille de route, notamment ceux en lien avec les activités de ces professionnels (thématique Fabrique de la Ville); visite du CreAT et sensibilisation au vécu des seniors dans les gestes du quotidien via le port de « kits de vieillissement ».",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Il est prévu que cette action de sensibilisation soit proposée à d'autres professions de la Métropole, en lien direct ou indirect avec le public seniors: agents des équipements culturels/sportifs, des transports en communs, plus globalement celles et ceux intervenant dans la Fabrique de la Ville.",
+    "description": {
+        "description_generale": "Une demie journée fut consacrée à l'atelier qui s'est déroulé en deux temps: Des temps d'échanges se sont déroulés dans le cadre de la présentation des engagements de la feuille de route Longévité métropolitaine (identification des moyens pour sensibiliser les agents concernés et échanges sur les pratiques professionnelles relatives à la prise en compte des seniors dans les projets d'espaces publics…).",
+        "contexte": "C'est pourquoi, l e réseau des responsables de services techniques des pôles de proximité Nantes Métropole ont participé à un atelier de sensibilisation au CreAT: le Centre de ressources et d’expertise en Aides Techniques.",
+        "problematique": "Titre: Atelier de sensibilisation aux enjeux de la longévité auprès des services techniques de Nantes Métropole Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/814-pe-atelier-de-sensibilisation.pdf  ---  --- présentation des engagements de la feuille de route, notamment ceux en lien avec les activités de ces professionnels (thématique Fabrique de la Ville); visite du CreAT et sensibilisation au vécu des seniors dans les gestes du quotidien via le port de « kits de vieillissement ».",
+        "solution_envisagee": "C'est pourquoi, l e réseau des responsables de services techniques des pôles de proximité Nantes Métropole ont participé à un atelier de sensibilisation au CreAT: le Centre de ressources et d’expertise en Aides Techniques.",
+        "objectifs": "Sensibiliser et acculturer les agents à la longévité, observer et améliorer les pratiques, participent à la construction d'un territoire favorable à la longévité, en particulier pour la thématique \"Fabrique de la Ville\"."
+    },
+    "porteur_initiative": "C'est pourquoi, l e réseau des responsables de services techniques des pôles de proximité Nantes Métropole ont participé à un atelier de sensibilisation au CreAT: le Centre de ressources et d’expertise en Aides Techniques.",
+    "date": [
+        "2025",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_de_sensibilisation_aux_enjeux_de_la_longevite_aupres_des_services_techniques_de_Nantes_Metropole.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_de_sensibilisation_aux_enjeux_de_la_longevite_aupres_des_services_techniques_de_Nantes_Metropole.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

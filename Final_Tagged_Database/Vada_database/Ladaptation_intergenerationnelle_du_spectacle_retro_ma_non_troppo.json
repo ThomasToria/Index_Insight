@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: L’adaptation intergénérationnelle du spectacle «rétro ma non troppo»",
+    "territoire": "Titre: L’adaptation intergénérationnelle du spectacle «rétro ma non troppo» Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/281-281-amberieu-culture-et-loisirs.pdf  ---  --- RÉUNIR TOUS LES ÂGES AUTOUR DE L’HIS - TOIRE LOCALE Ce projet s’articule autour de l’adaptation d’un spectacle d’humour musical utilisant une vidéo sur le style des actualités Gaumont.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Elle confrontera différents publics et expériences et elle favorisera la mise en place d’u ne médiation culturelle intergénérationnelle.",
+    "description": {
+        "description_generale": "Coût: 7000 € AMBÉRIEU-EN-BUGEY Ville Amie des Aînés depuis 03-2015 Ambérieu-en-Bugey (01) Fiche publiée le 09/12/2016 www.villesamiesdesaines-rf.fr LIEN SOCIAL ET SOLIDARITÉ CULTURE ET LOISIRS Si, comme Ambérieu-en-Bugey, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part. contact@rfvaa.com APPEL À CONTRIBUTION",
+        "contexte": "Il s’agira donc de réaliser un court mé - trage parodiant les actualités des années 20 à trav ers l’histoire des chemins de fer et du bâteau Normandi e ainsi que quelques références culturelles significa - tives: Joséphine Baker, le Tour de France, etc...",
+        "problematique": "Il s’agira donc de réaliser un court mé - trage parodiant les actualités des années 20 à trav ers l’histoire des chemins de fer et du bâteau Normandi e ainsi que quelques références culturelles significa - tives: Joséphine Baker, le Tour de France, etc...",
+        "solution_envisagee": "Elle confrontera différents publics et expériences et elle favorisera la mise en place d’u ne médiation culturelle intergénérationnelle.",
+        "objectifs": "Favoriser le lien social et intergénérationnel. S’ouvrir à la culture\nmusicale. Stimuler la mémoire par l’investissement dans une\nactivité culturelle. Encourager le vieillissement actif.\nPRATIQUE\nRéunir des habitants de tous les âges autour d’une oeuvre musi-\ncale originale articulée autour de l’histoire du territoire.\nCoût: 7000 €\nAMBÉRIEU-EN-BUGEY\nVille Amie des Aînés depuis 03-2015\nAmbérieu-en-Bugey (01)\nFiche publiée le 09/12/2016\nwww.villesamiesdesaines-rf.fr\nLIEN SOCIAL ET SOLIDARITÉ\nCULTURE ET LOISIRS\nSi, comme Ambérieu-en-Bugey, vous avez mis en place\ndes projets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Il s’agira donc de réaliser un court mé - trage parodiant les actualités des années 20 à trav ers l’histoire des chemins de fer et du bâteau Normandi e ainsi que quelques références culturelles significa - tives: Joséphine Baker, le Tour de France, etc...",
+    "date": [
+        "septembre 2016",
+        "décembre 2016",
+        "mars 2017",
+        "09/12/2016",
+        "2025",
+        "2016",
+        "2017",
+        "7000",
+        "2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ladaptation_intergenerationnelle_du_spectacle_retro_ma_non_troppo.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ladaptation_intergenerationnelle_du_spectacle_retro_ma_non_troppo.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Halte-répit \"Les 3 moulins\"",
+    "territoire": "Titre: Halte-répit \"Les 3 moulins\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/769-concours-2022-23-halte-repit.pdf  ---  --- UN LIEU D'ACCUEIL POUR LES PERSONNES EN PERTE D'AUTONOMIE Le projet est parti d'un constat par l'analyse des besoins sociaux réalisé en 2015 et qui a fait apparaître une augmentation du nombre de seniors ainsi que des maladies neurodégénératives sur le territoire de la ville.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Halte-répit \"Les 3 moulins\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/769-concours-2022-23-halte-repit.pdf  ---  --- UN LIEU D'ACCUEIL POUR LES PERSONNES EN PERTE D'AUTONOMIE Le projet est parti d'un constat par l'analyse des besoins sociaux réalisé en 2015 et qui a fait apparaître une augmentation du nombre de seniors ainsi que des maladies neurodégénératives sur le territoire de la ville.",
+    "description": {
+        "description_generale": "LES COÛTS DU PROJET En 2018, pour l'ouverture de la structure, des subventions ont été perçues: une subvention d'aide au démarrage du fond de modernisation de l'aide à domicile et une subvention de fonctionnement auprès des fonds d'action sociale.",
+        "contexte": "Titre: Halte-répit \"Les 3 moulins\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/769-concours-2022-23-halte-repit.pdf  ---  --- UN LIEU D'ACCUEIL POUR LES PERSONNES EN PERTE D'AUTONOMIE Le projet est parti d'un constat par l'analyse des besoins sociaux réalisé en 2015 et qui a fait apparaître une augmentation du nombre de seniors ainsi que des maladies neurodégénératives sur le territoire de la ville.",
+        "problematique": "Titre: Halte-répit \"Les 3 moulins\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/769-concours-2022-23-halte-repit.pdf  ---  --- UN LIEU D'ACCUEIL POUR LES PERSONNES EN PERTE D'AUTONOMIE Le projet est parti d'un constat par l'analyse des besoins sociaux réalisé en 2015 et qui a fait apparaître une augmentation du nombre de seniors ainsi que des maladies neurodégénératives sur le territoire de la ville.",
+        "solution_envisagee": "Trois anciennes aides à domicile sont à l'origine de ce projet et proposent des activités diverses et adaptées pour les personnes atteintes de maladies neurodégénératives: jeux de mémoire, jardinage, cuisine, chants, sorties extérieures (etc.) ainsi qu'un repas partagé le mardi et vendredi.",
+        "objectifs": "Trois anciennes aides à domicile sont à l'origine de ce projet et proposent des activités diverses et adaptées pour les personnes atteintes de maladies neurodégénératives: jeux de mémoire, jardinage, cuisine, chants, sorties extérieures (etc.) ainsi qu'un repas partagé le mardi et vendredi."
+    },
+    "porteur_initiative": "Trois anciennes aides à domicile sont à l'origine de ce projet et proposent des activités diverses et adaptées pour les personnes atteintes de maladies neurodégénératives: jeux de mémoire, jardinage, cuisine, chants, sorties extérieures (etc.) ainsi qu'un repas partagé le mardi et vendredi.",
+    "date": [
+        "2025",
+        "2022",
+        "2015",
+        "2016",
+        "2018",
+        "depuis 2016",
+        "en",
+        "En 2018",
+        "en 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Halte-repit_Les_3_moulins.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Halte-repit_Les_3_moulins.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

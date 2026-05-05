@@ -1,0 +1,42 @@
+{
+    "titre": "Arlon 2025",
+    "territoire": "Arlon 2025 NUMÉRIQUENUMÉRIQUEFICHE-ACTION N°5 NUMÉRIQUE Quoi?Dans la commune d’Arlon, existe un Espace public numérique (EPN) ouvert à toutes et à tous.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatique Matérielles: Utiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âge Information et communication: Une campagne d’information ciblée pour les services proposés Financières: EPN RESSOURCES Indicateurs de réussite Nombre d’usagers Nombre de formations proposées …",
+    "description": {
+        "description_generale": "ObjectifsRassurer les utilisatrices et utilisateurs Réduire la fracture numérique Adapter l’offre à la demande Assurer la continuité et la stabilité du service et éviter le turn-over à l’EPNObjectifsRassurer les utilisatrices et utilisateurs Réduire la fracture numérique Adapter l’offre à la demande Assurer la continuité et la stabilité du service et éviter le turn-over à l’EPNHumaines: Personne(s) formée(s) spécifiquement (formation Conectoo, par exemple). Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatiqueMatérielles: Utiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âgeInformation et communication:Une campagne d’information ciblée pour les services proposésFinancières:EPNRESSOURCESHumaines: Personne(s) formée(s) spécifiquement (formation Conectoo, par exemple). Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatiqueMatérielles: Utiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âgeInformation et communication:Une campagne d’information ciblée pour les services proposésFinancières:EPNRESSOURCESIndicateurs de réussiteNombre d’usagersNombre de formations proposées…Indicateurs de réussiteNombre d’usagersNombre de formations proposées…",
+        "contexte": "Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatiqueMatérielles: Utiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âgeInformation et communication:Une campagne d’information ciblée pour les services proposésFinancières:EPNRESSOURCESHumaines: Personne(s) formée(s) spécifiquement (formation Conectoo, par exemple).",
+        "problematique": "Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatiqueMatérielles: Utiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âgeInformation et communication:Une campagne d’information ciblée pour les services proposésFinancières:EPNRESSOURCESHumaines: Personne(s) formée(s) spécifiquement (formation Conectoo, par exemple).",
+        "solution_envisagee": "Nous proposons alors de renforcer l’offre de formation destinée spécifiquement aux PA, mais aussi d’assurer la mise en place d’un service d’aide individuelle aux diverses démarches (administratives ou autres) en ligne dans un cadre sécurisé et confidentiel.",
+        "objectifs": "Rassurer les utilisatrices et utilisateurs\nRéduire la fracture numérique\nAdapter l’offre à la demande\nAssurer la continuité et la stabilité du service et éviter le turn-over à l’EPN\nHumaines:\nPersonne(s) formée(s) spécifiquement (formation Conectoo, par exemple). Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatique\nMatérielles:\nUtiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âge\nInformation et communication:\nUne campagne d’information ciblée pour les services proposés\nFinancières:\nEPN\nRESSOURCES\nIndicateurs de réussite\nNombre d’usagers\nNombre de formations proposées\n…"
+    },
+    "porteur_initiative": "Faire appel à des bénévoles ou des personnes pensionnées initiées à l’informatiqueMatérielles: Utiliser l’infrastructure existante et si besoin acheter de matériel adapté à l’avancée en âgeInformation et communication:Une campagne d’information ciblée pour les services proposésFinancières:EPNRESSOURCESHumaines: Personne(s) formée(s) spécifiquement (formation Conectoo, par exemple).",
+    "date": [
+        "2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_5.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FICHE_Arlon_5.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

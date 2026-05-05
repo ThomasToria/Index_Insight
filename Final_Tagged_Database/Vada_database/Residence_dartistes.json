@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Résidence d’artistes",
+    "territoire": "A la fin du projet, plusieurs perspectives sont envisagées: des expositions des photos réalisées lors du projet dans différents lieux institutionnels et culturels de la ville sont prévues.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Une première rencontre entre les différents acteurs du projet a permis aux artistes de présenter leur démarche artistique, leur façon de travailler... la direction de l’EHPAD et l’animatrice ont présenté la structure, le public, des éventuelles contraintes liées au fonctionnement de L’EHPAD, à la fois lieu de vie pour les résidents et lieu de travail pour les membres du personnel… Une deuxième rencontre entre ces mêmes acteurs a ensuite abouti à des éléments concrets: mise en place d’un planning pour les deux premiers jours de résidence, afin d’y intégrer un temps de présentation des danseurs à l’ensemble de l’équipe des professionnels de l’EHPAD sur un temps opportun, pour les accueillir au mieux; repas du midi partagés aves les résidents; fonctionnement de l’EHPAD… Dans le même temps, il s’est agi de communiquer auprès des résidents de l’EHPAD: de leur expliquer la démarche des artistes, de mesurer leur adhésion ou non, éventuellement de les rassurer sur le déroulement de la résidence.",
+    "description": {
+        "description_generale": "UN PROJET QUI DONNE DES RÉSULTATS Le bilan de cette action est très encourageant et positif, comme en témoignent les retours des résidents à l’attention des artistes: « votre présence qui a égayé plusieurs jours cette maison » ou « c’est formidable ce que vous faites pour les anciens, ça fait chaud au cœur ».",
+        "contexte": "La présence des artistes au sein de l’établissement a touché les résidents à différents degrés: il y a les résidents qui sont sensibles à la danse, ceux qui ont été ravis de rencontrer et d’échanger avec des nouvelles personnes, et ceux plus dépendants et qui ne communiquent plus beaucoup qui ont réagi à la danse.",
+        "problematique": "Le partenariat entre l’équipement culturel et l’EHPAD se poursuit à travers différentes actions décinées tout au long de l’année (visite de l’équipement culturel par les résidents, spectacles, rencontres avec des artistes…) UNE DÉMARCHE D‘ACCUEIL DE LA RÉSIDENCE D‘ARTISTES Lors des rencontres organisées en amont de la résidence entre les différents acteurs du projet, il s’est agi de faire le point sur les envies, les besoins, les attentes, les objectifs, les freins de chacun.",
+        "solution_envisagee": "Une première rencontre entre les différents acteurs du projet a permis aux artistes de présenter leur démarche artistique, leur façon de travailler... la direction de l’EHPAD et l’animatrice ont présenté la structure, le public, des éventuelles contraintes liées au fonctionnement de L’EHPAD, à la fois lieu de vie pour les résidents et lieu de travail pour les membres du personnel… Une deuxième rencontre entre ces mêmes acteurs a ensuite abouti à des éléments concrets: mise en place d’un planning pour les deux premiers jours de résidence, afin d’y intégrer un temps de présentation des danseurs à l’ensemble de l’équipe des professionnels de l’EHPAD sur un temps opportun, pour les accueillir au mieux; repas du midi partagés aves les résidents; fonctionnement de l’EHPAD… Dans le même temps, il s’est agi de communiquer auprès des résidents de l’EHPAD: de leur expliquer la démarche des artistes, de mesurer leur adhésion ou non, éventuellement de les rassurer sur le déroulement de la résidence.",
+        "objectifs": "Le partenariat entre l’équipement culturel et l’EHPAD se poursuit à travers différentes actions décinées tout au long de l’année (visite de l’équipement culturel par les résidents, spectacles, rencontres avec des artistes…) UNE DÉMARCHE D‘ACCUEIL DE LA RÉSIDENCE D‘ARTISTES Lors des rencontres organisées en amont de la résidence entre les différents acteurs du projet, il s’est agi de faire le point sur les envies, les besoins, les attentes, les objectifs, les freins de chacun."
+    },
+    "porteur_initiative": "En amont:  ---  --- L’EHPAD, porteur de projet également, a accueilli les artistes pendant leur temps d’intervention dans l’établissement et s’est assuré de leur apporter de bonnes conditions de travail pendant les temps de résidence.",
+    "date": [
+        "2025",
+        "2010",
+        "2018",
+        "2011",
+        "2012",
+        "9707",
+        "depuis 2010",
+        "depuis 2011",
+        "depuis 2012",
+        "En 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_dartistes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Residence_dartistes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

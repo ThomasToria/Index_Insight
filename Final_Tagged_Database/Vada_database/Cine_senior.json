@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Ciné senior",
+    "territoire": "Titre: Ciné senior Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Cine-senior.pdf  ---  --- Stimuler son esprit critique concernant les films d iffusés.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "HABITANTS DE LA COMMUNE ÂGÉS DE PLUS DE 60 ANS, PARFOIS PLUS JEUNES\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Le projet Ciné-Seniors vise à proposer aux seniors de la commune un moment de convivialité en partagea nt le\nvisionnage d'un film récent au cinéma, suivi d'un g oûter. Cette animation est proposée une fois par mo is de\nseptembre à juin et sur inscription auprès du CCAS.\nCINÉ SENIOR\n1.\n2.\n3.\nLES OBJECTIFS DU PROJET\nPermettre une activité culturelle partagée autour d e l'actualité\ncinématographique.\n2025\nFICHE PARTAGE D’EXPÉRIENCE N°989\nVILLE AMIE DES AÎNÉS DEPUIS 2024, EN ROUTE POUR LE LABEL - PLOUGASTEL (29)\nLIEN SOCIAL\n& SOLIDARITÉ\nCULTURE & LOISIRS\nLES ÉTAPES\nDU PROJET\nLe planning des séances est établi au semestre par l e CCAS et le cinéma à raison d'une séance par\nmois. Le choix du film est validé par les participants e n fin de séance pour la séance suivante, après\nprojection des bande-annonces.\nLes seniors s'inscrivent au CCAS en amont de chaque s éance. Les inscrits se rendent au cinéma soit\npar leurs propres moyens, soit par la navette gratuit e mise en place par le CCAS Suite à la projection\ndu film, ils sont accueillis en mairie pour partager un goûter préparé par les agents du CCAS et la\ncuisine centrale et servi par des bénévoles.\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLES COMPÉTENCES MOBILISÉES\nPOUR LE PROJET\nChaque participant finance sa place de\ncinéma au tarif \"groupe\".\nLe CCAS finance le goûter. Le budget\nannuel global est de 1000 € pour 550\ngoûters servis par an (10 séances par\nan).\nLe CCAS coordonne l'action sur l'année lien\navec les différents intervenants, enregistre\nles inscriptions, et aménage du goûter. Le\ncinéma associatif l'Image propose les films,\naccueille le groupe, et gère la projection.\nÉVALUATION\nDU PROJET\nEntre 50 et 80 personnes sont\nprésentes chaque mois et\nexpriment leur satisfaction de\npartager ce moment. La\ndynamique du groupe est porteuse: certains expliquent qu'ils n'iraient\npas au cinéma dans un autre\ncontexte. Le temps du goûter est\npropice aux retrouvailles et les avis\nsur le film projeté et souvent un\nsujet de discussion parfois\ndynamisé par les bénévoles et\nagents du CCAS présents. Cette\nanimation permet également aux\nrésidents de l'EHPAD et de la\nrésidence seniors de la commune\nde vivre un temps d'animation et\nde rencontre \"hors les murs\".\nL'action est reconduite d'une année\nsur l'autre. Le maintien de cette\nanimation en période estivale et\nquestionnée, période au cours de\nlaquelle les animations\nassociatives sont suspendues et\nl'isolement plus intense pour les\nseniors n'ayant pas de famille à\nproximité.\nLES PARTENAIRES\nDU PROJET\nCCAS\nCinéma associatif l'Image\nCuisine centrale communale\nServices techniques municipaux\nMairie\nLE PLAN\nDE COMMUNICATION\nLa communication vers les\nhabitants se fait via le flyer\n\"animations seniors\" trimestriel et\npar le journal municipal\nhebdomadaire (Le Peden Zul).",
+        "contexte": "La dynamique du groupe est porteuse: certains expliquent qu'ils n'iraient pas au cinéma dans un autre contexte.",
+        "problematique": "Le maintien de cette animation en période estivale et questionnée, période au cours de laquelle les animations associatives sont suspendues et l'isolement plus intense pour les seniors n'ayant pas de famille à proximité.",
+        "solution_envisagee": "PUBLIC VISÉ: HABITANTS DE LA COMMUNE ÂGÉS DE PLUS DE 60 ANS, PARFOIS PLUS JEUNES L’ORIGINE DU PROJET RÉSUMÉ Le projet Ciné-Seniors vise à proposer aux seniors de la commune un moment de convivialité en partagea nt le visionnage d'un film récent au cinéma, suivi d'un g oûter.",
+        "objectifs": "LES OBJECTIFS DU PROJET Permettre une activité culturelle partagée autour d e l'actualité cinématographique."
+    },
+    "porteur_initiative": "Titre: Ciné senior Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Cine-senior.pdf  ---  --- Stimuler son esprit critique concernant les films d iffusés.",
+    "date": [
+        "2025",
+        "2024",
+        "1000",
+        "DEPUIS 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_senior.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cine_senior.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

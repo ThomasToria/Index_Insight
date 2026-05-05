@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Séjours Seniors",
+    "territoire": "Titre: Séjours Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/837-pe-sejours-seniors-1.pdf  ---  --- 369 € pour une personne hors critères ANCV (tarifs 2023) 208 € pour une personne pouvant bénéficier de l’aide forfaitaire de l’ANCV (aide forfaitaire 2023) PLAN D'ACTION VILLE AMIE DES AÎNÉS Dans le cadre de son plan d'action Ville Amie Des Aînés et plus particulièrement de la thématique « Solidarité et lien social », le service seniors de la ville organise des séjours seniors à destination des personnes âgées isolées et/ou en perte d’autonomie.",
+    "echelle": [
+        "communale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Le séjour est proposé à un public ciblé identifié par les professionnels du service seniors (registre communal des personnes isolées, usagers du service).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Herblain, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com POUR ALLER PLUS LOIN La ville prévoit de renforcer ce dispositif en proposant un séjours à destination des personnes âgées dépendantes.",
+        "contexte": "TARIFS Les séjours \"Seniors en vacances\" de l'ANCV sont des séjours « tout compris » à un tarif défini en fonction des ressources: hébergement en chambre double, pension complète, animations quotidiennes.",
+        "problematique": "L’objectif de cette action est de rompre l’isolement et créer du lien social, en permettant à des personnes isolées de sortir de chez elle, de partir en vacances et de rencontrer d’autres personnes âgées.",
+        "solution_envisagee": "Seniors en Vacances propose des séjours \"tout compris\" en France, mais aussi en Europe, pour permettre aux personnes âgées de partir en vacances à un tarif préférentiel.",
+        "objectifs": "Si, comme la Ville de Saint-Herblain, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com POUR ALLER PLUS LOIN La ville prévoit de renforcer ce dispositif en proposant un séjours à destination des personnes âgées dépendantes."
+    },
+    "porteur_initiative": "TARIFS Les séjours \"Seniors en vacances\" de l'ANCV sont des séjours « tout compris » à un tarif défini en fonction des ressources: hébergement en chambre double, pension complète, animations quotidiennes.",
+    "date": [
+        "mars 2023",
+        "2025",
+        "2023",
+        "2022",
+        "2018",
+        "depuis 2018",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejours_Seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sejours_Seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

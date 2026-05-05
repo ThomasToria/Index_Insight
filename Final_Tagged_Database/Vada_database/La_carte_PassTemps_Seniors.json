@@ -1,0 +1,66 @@
+{
+    "titre": "Titre: La carte Pass’Temps Seniors",
+    "territoire": "Titre: La carte Pass’Temps Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/193-193-carte-passtemps-v2.pdf  ---  --- L’ORIGINE DU PROJET La Ville de Mulhouse a mis en place en 1997, pour les plus de 65 ans, la carte PASS’TEMPS SENIORS en remplacement de la carte du 3ème Age.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "nationale"
+    ],
+    "public_vise": "Titre: La carte Pass’Temps Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/193-193-carte-passtemps-v2.pdf  ---  --- L’ORIGINE DU PROJET La Ville de Mulhouse a mis en place en 1997, pour les plus de 65 ans, la carte PASS’TEMPS SENIORS en remplacement de la carte du 3ème Age.",
+    "description": {
+        "description_generale": "Titre: La carte Pass’Temps Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/193-193-carte-passtemps-v2.pdf  ---  --- L’ORIGINE DU PROJET La Ville de Mulhouse a mis en place en 1997, pour les plus de 65 ans, la carte PASS’TEMPS SENIORS en remplacement de la carte du 3ème Age.",
+        "contexte": "Titre: La carte Pass’Temps Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/193-193-carte-passtemps-v2.pdf  ---  --- L’ORIGINE DU PROJET La Ville de Mulhouse a mis en place en 1997, pour les plus de 65 ans, la carte PASS’TEMPS SENIORS en remplacement de la carte du 3ème Age.",
+        "problematique": "Considérant que cette carte destinée aux seniors de 65 ans et plus pouvait être un outil d’animation contribuant à prévenir l’isolement, à favoriser les activités intergénérationnelles, à faire découvrir des activités culturelles ou de loisirs, m2A a proposé d’associer les communes au dispositif.",
+        "solution_envisagee": "En 2018, 20 communes proposent au total 31 offres complémentaires (bibliothèque, cinéma, théâtre, musées, repas découverte dans une résidence, un restaurant pour seniors ou un centre socioculturel etc….).",
+        "objectifs": "Prévenir l’isolement, favoriser les activités intergénération -\nnelles et faire découvrir des activités culturelles ou de loisirs, à\ntravers un outil d’animation mutualisé.\nPRATIQUE\nCréer une carte permettant aux plus de 65 ans de bénéficier\nd’avantages sur diverses animations et activités.\nMULHOUSE\nVille Amie des Aînés depuis 08-2015\nMulhouse (68)\nFiche publiée le 09/09/2015\nCULTURE ET LOISIRS\nwww.villesamiesdesaines-rf.fr\n---  ---\nSi, comme Mulhouse, vous avez mis en place des\nprojets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nwww.villesamiesdesaines-rf.fr\nde l’Impression sur Etoffes, le Musée du Papier\nPeint, l’ APALIB (initiation numérique et ateliers\ninformatiques), Mulhouse Nordique Sport Union,\nl’Office du tourisme ainsi que la Grange à bécanes.\nEn 2017, le parc zoologique a enregistré 9144\nentrées gratuites, contre 2060 pour les piscines, e t\nles cinémas ont enregistré 2087 tarifs réduits au\ntitre de la CPT.\nUne enquête menée à Mulhouse sur janvier / février\n2018 montre qu’un projet de mise en réseau des\npersonnes intéressées par des sorties à plusieurs\ndétenteurs de la carte a tout son sens. Mulhouse\nAînés, la nouvelle instance représentant les senior s\nmulhousiens, va mettre en place une commission\nen charge de ce projet.\nCULTURE ET LOISIRS"
+    },
+    "porteur_initiative": "Titre: La carte Pass’Temps Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/193-193-carte-passtemps-v2.pdf  ---  --- L’ORIGINE DU PROJET La Ville de Mulhouse a mis en place en 1997, pour les plus de 65 ans, la carte PASS’TEMPS SENIORS en remplacement de la carte du 3ème Age.",
+    "date": [
+        "février",
+        "février 2018",
+        "09/09/2015",
+        "2025",
+        "1997",
+        "2004",
+        "2010",
+        "2011",
+        "2018",
+        "5600",
+        "2017",
+        "2015",
+        "9144",
+        "2060",
+        "2087",
+        "en 1997",
+        "en 2004",
+        "En 2010",
+        "En 2011",
+        "en",
+        "en 2017",
+        "En 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_carte_PassTemps_Seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_carte_PassTemps_Seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

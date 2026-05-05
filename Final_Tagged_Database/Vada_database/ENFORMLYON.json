@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: ENFORM@LYON",
+    "territoire": "Titre: ENFORM@LYON Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/606-pe-enform-lyon-mise-en-forme-2023.pdf  ---  --- UNE ATTENTION PARTICULIÈRE POUR LES SENIORS L’offre “enform@lyon” est une application mobile qui propose des parcours sportifs à pratiquer librement en ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Le public seniors n’étant pas ou très peu représenté parmi les bénéficiaires de cette action et l’activité physique chez les seniors étant un des axes majeurs porté par le CCAS, un partenariat entre la Direction des Sports et le CCAS de Lyon, gestionnaire de 15 résidences autonomie a semblé très pertinent.",
+    "description": {
+        "description_generale": "Une évaluation globale de cette expérimentation sera réalisée en fin d’année scolaire 2019, par l’ensemble des acteurs lors d’une prochaine rencontre (date à définir), afin d’envisager la reconduction de cette action à partir de septembre 2019.",
+        "contexte": "Titre: ENFORM@LYON Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/606-pe-enform-lyon-mise-en-forme-2023.pdf  ---  --- UNE ATTENTION PARTICULIÈRE POUR LES SENIORS L’offre “enform@lyon” est une application mobile qui propose des parcours sportifs à pratiquer librement en ville.",
+        "problematique": "Les éducateurs se sont rendus dans les résidences qui leur ont été affectées afin de se présenter aux seniors et d’échanger avec eux sur leurs envies et besoins en termes d’activité.",
+        "solution_envisagee": "Titre: ENFORM@LYON Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/606-pe-enform-lyon-mise-en-forme-2023.pdf  ---  --- UNE ATTENTION PARTICULIÈRE POUR LES SENIORS L’offre “enform@lyon” est une application mobile qui propose des parcours sportifs à pratiquer librement en ville.",
+        "objectifs": "Développée par la Direction des Sports, avec le concours de la Ligue Auvergne Rhône-Alpes d’athlétisme et des musées Gadagne, elle permet de développer la pratique sportive et l’activité physique tout en favorisant la découverte du patrimoine."
+    },
+    "porteur_initiative": "Le public seniors n’étant pas ou très peu représenté parmi les bénéficiaires de cette action et l’activité physique chez les seniors étant un des axes majeurs porté par le CCAS, un partenariat entre la Direction des Sports et le CCAS de Lyon, gestionnaire de 15 résidences autonomie a semblé très pertinent.",
+    "date": [
+        "juin 2019",
+        "septembre 2019",
+        "24/11/2020",
+        "2025",
+        "2023",
+        "2012",
+        "2020",
+        "2019",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENFORMLYON.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\ENFORMLYON.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

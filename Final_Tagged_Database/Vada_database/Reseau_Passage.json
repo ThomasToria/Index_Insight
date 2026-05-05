@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Réseau Pass'âge",
+    "territoire": "Titre: Réseau Pass'âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/770-concours-2022-reseau-pass-age.pdf  ---  --- DES VISITES À DOMICILE La perte du conjoint est une étape pouvant fragiliser grandement la personne.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "La Ville de Morteau et son CCAS souhaitaient apporter une attention particulière à ce public.",
+    "description": {
+        "description_generale": "Si, comme la ville de Morteau, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Réseau Pass'âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/770-concours-2022-reseau-pass-age.pdf  ---  --- DES VISITES À DOMICILE La perte du conjoint est une étape pouvant fragiliser grandement la personne.",
+        "problematique": "Les agents du CCAS ont la mission d'organiser deux visites à domicile auprès de toutes les personnes ayant perdu leur conjoint: une première visite dans le mois suivant le décès; une seconde visite dans les trois mois suivants afin de s'assurer que de nouveaux besoins ne sont pas apparus à la suite de ce changement et de cette épreuve.",
+        "solution_envisagee": "UN ACCOMPAGNEMENT SUR LE LONG TERME ET PERSONNALISÉ Si la personne semble isolée ou manifeste sa solitu de, le CCAS pourra positionner un bénévole du Réseau Pass'âge qui assu rera une veille sociale, lui rendra visite régulièrement, apportera des informations et du temps pour des sorties extérieures.",
+        "objectifs": "Les agents du CCAS ont la mission d'organiser deux visites à domicile auprès de toutes les personnes ayant perdu leur conjoint: une première visite dans le mois suivant le décès; une seconde visite dans les trois mois suivants afin de s'assurer que de nouveaux besoins ne sont pas apparus à la suite de ce changement et de cette épreuve."
+    },
+    "porteur_initiative": "Titre: Réseau Pass'âge Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/770-concours-2022-reseau-pass-age.pdf  ---  --- DES VISITES À DOMICILE La perte du conjoint est une étape pouvant fragiliser grandement la personne.",
+    "date": [
+        "2025",
+        "2022",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Passage.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Reseau_Passage.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

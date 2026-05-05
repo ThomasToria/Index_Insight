@@ -1,0 +1,269 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche3-LienSocial.txt",
+    "nom_fichier": "Fiche3-LienSocial.txt",
+    "lignes": [
+        "---  ---",
+        "MODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés",
+        "Objectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité",
+        "Quoi? Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal. Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal. Pour qui? Personnes de 60 ans ou plus Où et quand? Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point",
+        "DESCRIPTION",
+        "Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés",
+        "RESSOURCES",
+        "LIEN SOCIAL"
+    ],
+    "paragraphes": [
+        "---  ---\nMODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés\nObjectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité\nQuoi? Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal. Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal. Pour qui? Personnes de 60 ans ou plus Où et quand? Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point\nDESCRIPTION\nHumaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés\nRESSOURCES\nLIEN SOCIAL"
+    ],
+    "phrases": [
+        "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés Objectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité Quoi?",
+        "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+        "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+        "Pour qui?",
+        "Personnes de 60 ans ou plus Où et quand?",
+        "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL"
+    ],
+    "stats": {
+        "nombre_lignes": 8,
+        "nombre_paragraphes": 1,
+        "nombre_phrases": 6,
+        "nombre_caracteres": 1559,
+        "nombre_sections_detectees": 1,
+        "nombre_dates_candidates": 0,
+        "nombre_territoires_candidates": 0,
+        "nombre_organisations_candidates": 2,
+        "nombre_public_vise_candidates": 3,
+        "nombre_porteur_candidates": 3,
+        "nombre_territoire_candidates": 4,
+        "nombre_description_candidates": 5,
+        "nombre_contexte_candidates": 3,
+        "nombre_problematique_candidates": 3,
+        "nombre_solution_candidates": 3,
+        "nombre_objectifs_candidates": 4
+    },
+    "sections_detectees": {
+        "description": "Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés\nRESSOURCES\nLIEN SOCIAL"
+    },
+    "entites_candidates": {
+        "dates_candidates": [],
+        "territoires_candidates": [],
+        "organisations_candidates": [
+            "pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réuni",
+            "Une salle mise à disposition par la commune pour"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 1
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 1
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 3
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés Objectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité Quoi?",
+                "score": 2
+            },
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés\nRESSOURCES\nLIEN SOCIAL",
+                "score": 10,
+                "source": "section_detectee"
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 7
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 3
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés Objectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité Quoi?",
+                "score": 2
+            },
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 1
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 1
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 4
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 1
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés Objectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité Quoi?",
+                "score": 4
+            },
+            {
+                "texte": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+                "score": 2
+            },
+            {
+                "texte": "Une ODJ sera établi pour chaque conseil incluant les questions posées et questions diverses et fera l’objet d’une présentation si nécessaire lors du conseil municipal.",
+                "score": 1
+            },
+            {
+                "texte": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+                "score": 1
+            }
+        ]
+    },
+    "champs_scores": {
+        "titre": {
+            "valeur": "---  ---",
+            "score": 8,
+            "confiance": 0.8,
+            "source": "premiere_ligne"
+        },
+        "date": {
+            "valeur": [],
+            "score": 0,
+            "confiance": 0.0,
+            "source": ""
+        },
+        "thematique": {
+            "valeur": [
+                "lien social"
+            ],
+            "score": 2,
+            "confiance": 0.25,
+            "source": "keywords_thematiques"
+        },
+        "echelle": {
+            "valeur": [
+                "communale"
+            ],
+            "score": 2,
+            "confiance": 0.25,
+            "source": "keywords_echelles"
+        },
+        "public_vise": {
+            "valeur": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "porteur_initiative": {
+            "valeur": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "territoire": {
+            "valeur": "Une salle mise à disposition par la commune pour organiser les réunions Une réunion mensuelle du conseil des ainées Une réunion avec l’ensemble des ainées de la commune 1 fois par an pour faire un point DESCRIPTION Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés RESSOURCES LIEN SOCIAL",
+            "score": 3,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "description": {
+            "valeur": "Humaines: Volontaires de 60 ans et plus Matérielles: Avoir une salle Information et communication: La lettre Présentation au sein des associations Financières: Un petit budget communication par exemple en créant une lettre d’information trimestrielle sur les actions menées par le conseil des ainés\nRESSOURCES\nLIEN SOCIAL",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "section_detectee"
+        },
+        "contexte": {
+            "valeur": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "problematique": {
+            "valeur": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "solution_envisagee": {
+            "valeur": "Créer un conseil des ainés de la façon suivante: Appel à volontaires (60 ans ou plus) – Mise en place d’un conseil des ainés de 15 personnes- Election d’un membre du conseil comme « référent(e )» en charge de représenter le conseil des ainés au conseil municipal.",
+            "score": 4,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "objectifs": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°3 Création d’un conseil des ainés Objectifs • Permettre aux ainés de donner leur avis et prendre la parole • Etre force de propositions sur la vie des ainées dans la commune • Participer à la vie de la cité à part entière • … Indicateurs de réussite • Nombre de volontaires et taux de participation au conseil des ainés sur l’année • Participation et prise de parole au conseil municipal • Nombre de sollicitation d’actions par le conseil des ainés et mises en place par la municipalité Quoi?",
+            "score": 4,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "source_site": {
+            "valeur": "Fiches actions",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "nom_dossier"
+        }
+    }
+}

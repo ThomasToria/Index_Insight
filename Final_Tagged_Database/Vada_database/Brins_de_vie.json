@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Brins de vie",
+    "territoire": "Titre: Brins de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/782-concours-2022-2-blabla-dom-tourellois-1.pdf  ---  --- La-Tour-de-Salvagny (69) Ville Membre depuis 2021 DES VISITES POUR LE MAINTIEN À DOMICILE DES SENIORS Pour faire suite aux besoins des personnes âgées et handicapées, qui lors de l'ABS et/ou de la démarche participative ont fait remonter leur souhait de rester le plus longtemps possible au domicile, la Commune met tout en œuvre pour promouvoir le maintien à domicile des personnes âgées.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Brins de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/782-concours-2022-2-blabla-dom-tourellois-1.pdf  ---  --- La-Tour-de-Salvagny (69) Ville Membre depuis 2021 DES VISITES POUR LE MAINTIEN À DOMICILE DES SENIORS Pour faire suite aux besoins des personnes âgées et handicapées, qui lors de l'ABS et/ou de la démarche participative ont fait remonter leur souhait de rester le plus longtemps possible au domicile, la Commune met tout en œuvre pour promouvoir le maintien à domicile des personnes âgées.",
+    "description": {
+        "description_generale": "PARTENAIRES, BUDGET ET SUITE DU PROJET De nombreux partenaires ont participé au projet: l es bénévoles qui visitent les personnes âgées, les accueillants qui reçoivent les bénévoles, la Municipalité, le personnel d'accueil de la Mairie qui réceptionne les demandes et la chargée de communication qui met en avant le concept.",
+        "contexte": "Organiser des formations et la communication.  ---  --- personnes du listing possiblement oublié a été lancé sur le journal local, mais il est déjà constaté que le bouche à oreille fonctionne très bien sur le territoire.",
+        "problematique": "Titre: Brins de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/782-concours-2022-2-blabla-dom-tourellois-1.pdf  ---  --- La-Tour-de-Salvagny (69) Ville Membre depuis 2021 DES VISITES POUR LE MAINTIEN À DOMICILE DES SENIORS Pour faire suite aux besoins des personnes âgées et handicapées, qui lors de l'ABS et/ou de la démarche participative ont fait remonter leur souhait de rester le plus longtemps possible au domicile, la Commune met tout en œuvre pour promouvoir le maintien à domicile des personnes âgées.",
+        "solution_envisagee": "Sous la houlette du Service seniors de la commune, un groupe de visiteurs bénévoles au domicile propose aux seniors en perte d'autonomie qui le désirent, un accompagnement pour faire une course ou bien partager un moment de discussion, de jeu, de lecture, d'aide administrative et autres activités de loisirs.",
+        "objectifs": "D'autre part, pour pérenniser l'action plusieurs projets et objectifs sont prévus comme l'appel à de nouveaux bénévoles, le développement de la communication (flyer, rajout sur notre guide famille - seniors), l'augmentation du nombre de binômes, certains binômes en intergénérationnel pourraient voir le jour avec des jeunes du village ou ceux des écoles qui viennent de s'implanter dans les communes avoisinantes."
+    },
+    "porteur_initiative": "PARTENAIRES, BUDGET ET SUITE DU PROJET De nombreux partenaires ont participé au projet: l es bénévoles qui visitent les personnes âgées, les accueillants qui reçoivent les bénévoles, la Municipalité, le personnel d'accueil de la Mairie qui réceptionne les demandes et la chargée de communication qui met en avant le concept.",
+    "date": [
+        "17 mars 2022",
+        "mars 2022",
+        "2025",
+        "2022",
+        "2021",
+        "2014",
+        "2020",
+        "2026",
+        "depuis 2021",
+        "en 2021",
+        "en 2026"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Brins_de_vie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Brins_de_vie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

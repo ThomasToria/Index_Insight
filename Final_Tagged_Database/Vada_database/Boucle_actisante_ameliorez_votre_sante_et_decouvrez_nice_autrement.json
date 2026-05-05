@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Boucle acti'santé améliorez votre santé et découvrez nice autrement!",
+    "territoire": "Renouvellement à raison de deux boucles par an jusqu'à couverture de la totalité du territoire.  ---  --- UN PROJET DE GRANDE AMPLEUR Ce projet regroupe un grand nombre de partenaires divers, à savoir différents services de la ville (service politique, direction des seniors, des espaces verts, de l'environnement, des territoire, atelier santé), mais aussi l'Office du tourisme et des associations de quartiers.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "L'OMS recommande aux personnes âgées de pratiquer chaque semaine au moins 150 minutes d’activité d’endurance d’intensité modérée, ou au moins 75 minutes d’intensité soutenue.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Boucle acti'santé améliorez votre santé et découvrez nice autrement!",
+        "problematique": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/905-concours-2023-boucle-acti-sante-ameliorez-votre-sante-et-decouvrez-nice-autrement.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'ACTIVITÉ PHYSIQUE, UN ENJEU MAJEUR La pratique d'une activité physique joue un rôle majeur dans la prévention et le traitement de la fragilité et des risques de chutes, favorise le maintien de l’autonomie et prévient la dépendance avec l’avancée en âge.",
+        "solution_envisagee": "Proposer des parcours de santé urbains associant marche, exercices physiques et découverte du patrimoine dans les quartiers de Nice.",
+        "objectifs": "C'est pourquoi la ville de Nice a souhaité mettre en place des parcours urbains actifs dans chaque quartier afin d'accompagner ses seniors vers l'atteinte de ces recommandations et ainsi améliorer leur santé."
+    },
+    "porteur_initiative": "Titre: Boucle acti'santé améliorez votre santé et découvrez nice autrement!",
+    "date": [
+        "janvier 2023",
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

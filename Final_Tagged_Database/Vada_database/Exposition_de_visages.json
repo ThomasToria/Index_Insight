@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: Exposition de visages",
+    "territoire": "Titre: Exposition de visages Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/469-pe-exposition-de-visages-mise-en-forme-2023.pdf  ---  --- OFFRIR UN MIROIR VALORISANT Avec le soutien de la région Grand Est, une vingtaine d’adolescents du quartier prioritaire de la ville se sont vu offrir l’occasion d’un stage de photographie avec Sandrine Mulas, photographe professionnelle.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Ils sont ensuite parti explorer la ville pour prendre en photo le fruit de leurs rencontres fortuites avec les personnes âgées de La Chapelle Saint-Luc.",
+    "description": {
+        "description_generale": "Celle des 80 aînés ayant été pris en photos, ensuite, qui ont vécu l’expérience de façons très diverses: leurs réactions allant du rejet de leur image à la fascination pour celle-ci (certains d’entre eux surveillant pendant plusieurs jours pour que personne n’abîme son portrait).",
+        "contexte": "Celle-ci s’est appliquée à leur transmettre tout son savoir sur l’art du portrait: apprendre à cadrer, à jouer avec la lumière pour saisir l’instant, mais aussi à expérimenter la relation particulière de l’artiste à son modèle.",
+        "problematique": "Celle-ci s’est appliquée à leur transmettre tout son savoir sur l’art du portrait: apprendre à cadrer, à jouer avec la lumière pour saisir l’instant, mais aussi à expérimenter la relation particulière de l’artiste à son modèle.",
+        "solution_envisagee": "L’idée était, pour les jeunes souffrant souvent d’une mauvaise image d’eux- mêmes, de réussir à proposer à des personnes âgées un miroir valorisant.",
+        "objectifs": "Celle-ci s’est appliquée à leur transmettre tout son savoir sur l’art du portrait: apprendre à cadrer, à jouer avec la lumière pour saisir l’instant, mais aussi à expérimenter la relation particulière de l’artiste à son modèle."
+    },
+    "porteur_initiative": "Celle-ci s’est appliquée à leur transmettre tout son savoir sur l’art du portrait: apprendre à cadrer, à jouer avec la lumière pour saisir l’instant, mais aussi à expérimenter la relation particulière de l’artiste à son modèle.",
+    "date": [
+        "2025",
+        "2023"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Exposition_de_visages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Exposition_de_visages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

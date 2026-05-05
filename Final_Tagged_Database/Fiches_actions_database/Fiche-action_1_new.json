@@ -1,0 +1,40 @@
+{
+    "titre": "---  ---",
+    "territoire": "Metz et zone rurale autour D E S C R I P T O N Humaines: Médecins Infirmières en pratique avancée Sage-femmes Autre: personnel administratif Matérielles: Un local, matériel médical, matériel administratif Information et communication: Réseaux gérontologique s, médecins de villes, flyers dans les pharmacies, mairies, CCAS, commerces du quotidien, gendarmerie Numéro de téléphone à joindre pour renseignements Agenda des seniors, centres culturels, maison du troisième âge Financières: ARS, département, alternance U Soins hospitaliers",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Metz et zone rurale autour D E S C R I P T O N Humaines: Médecins Infirmières en pratique avancée Sage-femmes Autre: personnel administratif Matérielles: Un local, matériel médical, matériel administratif Information et communication: Réseaux gérontologique s, médecins de villes, flyers dans les pharmacies, mairies, CCAS, commerces du quotidien, gendarmerie Numéro de téléphone à joindre pour renseignements Agenda des seniors, centres culturels, maison du troisième âge Financières: ARS, département, alternance U Soins hospitaliers",
+    "description": {
+        "description_generale": "---  --- FICHE-ACTION N°1 Création d’un centre médical / polyclinique Objectifs • Lutter contre l’encombrement des urgences et limiter les délais d’attente • Rapprocher les points de contact pour les prises en charge • Réhumaniser la médecine de contact Indicateurs de réussite • Nombre de patients dans la maison médicale / polyclinique • Mesure de la satisfaction des patients Quoi?",
+        "contexte": "---  --- FICHE-ACTION N°1 Création d’un centre médical / polyclinique Objectifs • Lutter contre l’encombrement des urgences et limiter les délais d’attente • Rapprocher les points de contact pour les prises en charge • Réhumaniser la médecine de contact Indicateurs de réussite • Nombre de patients dans la maison médicale / polyclinique • Mesure de la satisfaction des patients Quoi?",
+        "problematique": "Avec une prise en charge par la carte vitale afin de traiter les petits problèmes.",
+        "solution_envisagee": "---  --- FICHE-ACTION N°1 Création d’un centre médical / polyclinique Objectifs • Lutter contre l’encombrement des urgences et limiter les délais d’attente • Rapprocher les points de contact pour les prises en charge • Réhumaniser la médecine de contact Indicateurs de réussite • Nombre de patients dans la maison médicale / polyclinique • Mesure de la satisfaction des patients Quoi?",
+        "objectifs": "• Lutter contre l’encombrement des urgences et limiter les délais d’attente\n• Rapprocher les points de contact pour les prises en charge\n• Réhumaniser la médecine de contact\nIndicateurs de réussite\n• Nombre de patients dans la maison médicale / polyclinique\n• Mesure de la satisfaction des patients\nQuoi?\nLa création des dispensaires désencombrerait les hôpitaux, l’accueil serait meilleur dans les services\net les soins bénins seraient pris en charge par cette structure de première ligne. Avec une prise en\ncharge par la carte vitale afin de traiter les petits problèmes.\nL’objectif serait alors de prodiguer des soins immédiatement et sans rendez-vous.\nSe pose la question des plateaux techniques et du matériel dont pourraient être dotées ces structures\nen fonction de leur périmètre d’intervention et en articulation avec les urgences.\nUne autre possibilité serait de partir sur une structure de type Polyclinique située au centre-ville de\nMetz permettant des consultations sans rendez-vous et sans frais d’avance et sans dépassement\nd’honoraires (problème relevé durant les discussions). Un tel service avait existé à l’Hôpital Bon\nSecours et cette nouvelle polyclinique pourrait être attachée à l’Hôpital de Mercy.\nPour qui?\nTout le monde\nOù et quand?\nMetz et zone rurale autour\nD\nE\nS\nC\nR\nI\nP\nT\nO\nN\nHumaines:\nMédecins\nInfirmières en pratique avancée\nSage-femmes\nAutre: personnel administratif\nMatérielles:\nUn local, matériel médical, matériel administratif\nInformation et communication:\nRéseaux gérontologique s, médecins de villes, flyers dans les pharmacies, mairies, CCAS,\ncommerces du quotidien, gendarmerie\nNuméro de téléphone à joindre pour renseignements\nAgenda des seniors, centres culturels, maison du troisième âge\nFinancières:\nARS, département, alternance\nU\nSoins hospitaliers"
+    },
+    "porteur_initiative": "---  --- FICHE-ACTION N°1 Création d’un centre médical / polyclinique Objectifs • Lutter contre l’encombrement des urgences et limiter les délais d’attente • Rapprocher les points de contact pour les prises en charge • Réhumaniser la médecine de contact Indicateurs de réussite • Nombre de patients dans la maison médicale / polyclinique • Mesure de la satisfaction des patients Quoi?",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_1_new.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche-action_1_new.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

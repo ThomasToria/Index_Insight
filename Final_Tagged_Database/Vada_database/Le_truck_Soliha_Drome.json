@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Le truck Soliha Drôme",
+    "territoire": "Titre: Le truck Soliha Drôme Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/712-pe120422-580-truck-soliha-drome-valence.pdf  ---  --- Concours  RFVAA 2021 UN OUTIL DE PRÉVENTION ITINÉRANT POUR SENSIBILISER TOUS PUBLICS Le truck SOLIHA est un petit logement mobile qui recrée un décor familier avec cuisine, salle de bain et autres pièces de la maison.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Ces temps d'animation sont co-construits et organisés en lien avec les collectivités et les acteurs locaux pour répondre au mieux aux besoins des habitants et des différents publics fragilisés dans leur conditions d'habitat.",
+    "description": {
+        "description_generale": "BILAN DE L’ACTION Quelques éléments chiffrés issus des enquêtes de satisfaction remplies par les visiteurs en 2020: ceux-ci donnent la note de 4.8/5 à l'animation à laquelle ils ont assisté via le dispositif truck SOLIHA.",
+        "contexte": "En allant au plus près des publics (dans leurs quartiers, sur les places, au pied de leur immeuble, etc.), le Truck SOLIHA permet aux visiteurs de découvrir ce qui est possible d’intégrer dans leur logement en présentant des solutions d'aménagement et d'adaptation du logement: salle de bains, circulation, confort, rénovation énergétique, etc.",
+        "problematique": "Ces temps d'animation sont co-construits et organisés en lien avec les collectivités et les acteurs locaux pour répondre au mieux aux besoins des habitants et des différents publics fragilisés dans leur conditions d'habitat.",
+        "solution_envisagee": "En allant au plus près des publics (dans leurs quartiers, sur les places, au pied de leur immeuble, etc.), le Truck SOLIHA permet aux visiteurs de découvrir ce qui est possible d’intégrer dans leur logement en présentant des solutions d'aménagement et d'adaptation du logement: salle de bains, circulation, confort, rénovation énergétique, etc.",
+        "objectifs": "Des experts de SOLIHA Drôme sont présents à bord du truck pour guider les habitants à améliorer leurs conditions d’habitat, les informer sur les dispositifs d'aides financières et les accompagnements possibles pour réaliser sereinement un projet de travaux."
+    },
+    "porteur_initiative": "En allant au plus près des publics (dans leurs quartiers, sur les places, au pied de leur immeuble, etc.), le Truck SOLIHA permet aux visiteurs de découvrir ce qui est possible d’intégrer dans leur logement en présentant des solutions d'aménagement et d'adaptation du logement: salle de bains, circulation, confort, rénovation énergétique, etc.",
+    "date": [
+        "30 septembre 2021",
+        "15 novembre",
+        "15 novembre 2021",
+        "janvier 2020",
+        "septembre 2021",
+        "novembre",
+        "novembre 2021",
+        "2025",
+        "2021",
+        "2019",
+        "2017",
+        "2020",
+        "depuis 2017",
+        "En 2019",
+        "en 2020",
+        "en 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_truck_Soliha_Drome.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_truck_Soliha_Drome.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

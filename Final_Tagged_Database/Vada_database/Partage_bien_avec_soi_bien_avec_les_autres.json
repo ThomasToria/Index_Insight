@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Part'age: bien avec soi, bien avec les autres",
+    "territoire": "Les sources de financement sont l'Etat et le Département pour 9 000 euros (enveloppe quartiers d'été), la ville de Caudry pour 500 euros et l'autofinancement pour 400 euros.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "PART'AGE: BIEN AVEC SOI, BIEN AVEC LES AUTRES Fiche PARTAGE D'EXPÉRIENCE N°655 Villes Amies des Aînés en France Caudry (59) Ville Membre depuis 2019 Accompagner jeunes et seniors pour les aider à sortir d'une situation d'isolement Transmettre et partager des savoirs-être et des savoir-faire.",
+    "description": {
+        "description_generale": "Coût de l'action: 19 900 euros.  ---  --- RECONDUCTION Les différentes interventions seront évaluées.",
+        "contexte": "Titre: Part'age: bien avec soi, bien avec les autres Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/789-concours-2022-9-part-age-caudry.pdf  ---  --- DES ACTIVITÉS ESTIVALES POUR LE LIEN SOCIAL Dans le contexte de la crise sanitaire, l'association Seniors Actifs a maintenu autant que possible ses activités, soit en les réalisant dans le respect des protocoles sanitaires, soit en les proposant en distance.",
+        "problematique": "PART'AGE: BIEN AVEC SOI, BIEN AVEC LES AUTRES Fiche PARTAGE D'EXPÉRIENCE N°655 Villes Amies des Aînés en France Caudry (59) Ville Membre depuis 2019 Accompagner jeunes et seniors pour les aider à sortir d'une situation d'isolement Transmettre et partager des savoirs-être et des savoir-faire.",
+        "solution_envisagee": "Afin de ne pas perdre le bénéfice de la reprise des activités pendant l'été, Seniors Actifs a décidé de proposer à ses adhérents la continuité de ces activités sous la forme de demis journées, avec l'appui de la ville de Caudry.",
+        "objectifs": "Une journée \"bien-être\" est également prévue pour apporter un moment de relaxation, améliorer l'estime de soi et se reconnecter avec son corps par des séances et ateliers assurés par des professionnels de santé: il s'agira de réflexologie plantaire, de méditation, de luminothérapie, de sophrologie… Des activités sont aussi organisées pour favoriser le lien social entre les générations: les \"Jeux intergénérationnels\", jeu d'aventure \"Les templiers du coffre d'or\", etc."
+    },
+    "porteur_initiative": "PART'AGE: BIEN AVEC SOI, BIEN AVEC LES AUTRES Fiche PARTAGE D'EXPÉRIENCE N°655 Villes Amies des Aînés en France Caudry (59) Ville Membre depuis 2019 Accompagner jeunes et seniors pour les aider à sortir d'une situation d'isolement Transmettre et partager des savoirs-être et des savoir-faire.",
+    "date": [
+        "2025",
+        "2022",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partage_bien_avec_soi_bien_avec_les_autres.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Partage_bien_avec_soi_bien_avec_les_autres.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

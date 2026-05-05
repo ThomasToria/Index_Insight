@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Action de prévention à la sécurité routière pour les seniors",
+    "territoire": "Titre: Action de prévention à la sécurité routière pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/921-pe-veauche-action-de-prevention-a-la-securite-routiere-pour-les-seniors-1.pdf  ---  --- VIEILLISSEMENT ET MOBILITÉ, UN ENJEU SOCIO-SÉCURITAIRE De janvier à mars 2023 le CCAS de Veauche a mis en place, en partenariat avec l’association AgirABCD42 et la police municipale, une action sur la sécurité routière à destination des seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Ce projet est le résultat d’un constat partagé: la mobilité est un enjeu fort pour les seniors mais l’avancée en âge peut, pour certains, se révéler dangereux, tant pour eux que pour les autres.",
+    "description": {
+        "description_generale": "Ce projet est le résultat d’un constat partagé: la mobilité est un enjeu fort pour les seniors mais l’avancée en âge peut, pour certains, se révéler dangereux, tant pour eux que pour les autres.",
+        "contexte": "Ce projet est le résultat d’un constat partagé: la mobilité est un enjeu fort pour les seniors mais l’avancée en âge peut, pour certains, se révéler dangereux, tant pour eux que pour les autres.",
+        "problematique": "Ce projet est le résultat d’un constat partagé: la mobilité est un enjeu fort pour les seniors mais l’avancée en âge peut, pour certains, se révéler dangereux, tant pour eux que pour les autres.",
+        "solution_envisagee": "Partenariat avec l’association AgirABCD42 Mobilisation des services CCAS et police municipale 5 séances et 1 escape Game pour clôturer le cycle sécurité routière seniors 20 participants en moyenne/séance 150 participants à l’escape game  ---  --- Si, comme la Ville de Veauche, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UNE RÉPONSE LOCALE ET PARTENARIALE Le parti prit a été de privilégier une approche globale de la sécurité routière pour traiter à la fois des questions de mobilité, d’évolutions législatives, de responsabilité.",
+        "objectifs": "L’objectif du CCAS était de s’inscrire dans une démarche de prévention, de sensibilisation et de remise à niveau, afin de prolonger l’autonomie au volant des usagers en toute sécurité."
+    },
+    "porteur_initiative": "Ce projet est le résultat d’un constat partagé: la mobilité est un enjeu fort pour les seniors mais l’avancée en âge peut, pour certains, se révéler dangereux, tant pour eux que pour les autres.",
+    "date": [
+        "mars 2023",
+        "2025",
+        "2023",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Action_de_prevention_a_la_securite_routiere_pour_les_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Action_de_prevention_a_la_securite_routiere_pour_les_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

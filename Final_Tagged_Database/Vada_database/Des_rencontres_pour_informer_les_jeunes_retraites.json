@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Des rencontres pour informer les jeunes retraités",
+    "territoire": "Titre: Des rencontres pour informer les jeunes retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/319-pe-infos-nouveaux-retraites.pdf  ---  --- DÉVELOPPER UNE OFFRE À DESTINATION DES JEUNES SENIORS La Ville de Sceaux propose depuis de nombreuses années une large gamme de services et d’activités à destination du public âgé (70 ans et plus), mais souhaite également développer une offre à destination des jeunes seniors scéens.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Des rencontres pour informer les jeunes retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/319-pe-infos-nouveaux-retraites.pdf  ---  --- DÉVELOPPER UNE OFFRE À DESTINATION DES JEUNES SENIORS La Ville de Sceaux propose depuis de nombreuses années une large gamme de services et d’activités à destination du public âgé (70 ans et plus), mais souhaite également développer une offre à destination des jeunes seniors scéens.",
+    "description": {
+        "description_generale": "Proposer des supports d’information sur différentes thématiques.  ---  --- LA RÉUSSITE DU PROJET Afin de diffuser l’information et de toucher le plus grand nombre possible de jeunes seniors, une action de communication importante a été mise en place: un article dans le magazine municipal, une parution de l’information sur les outils web de la Ville (site internet, newsletter, réseaux sociaux) et surtout un courrier personnalisé envoyé à tous les scéens de 58 à 66 ans en 2017 (1987 personnes), sur la base des listes électorales.",
+        "contexte": "Ces rencontres ont donc pour objectif de répondre aux attentes nouvelles des scéens âgés de plus de 50 ans, et particulièrement de 58 à 66 ans (proches du départ à la retraite ou à la retraite depuis peu): s’informer et construire des projets encourageant la participation citoyenne.",
+        "problematique": "Ces rencontres ont donc pour objectif de répondre aux attentes nouvelles des scéens âgés de plus de 50 ans, et particulièrement de 58 à 66 ans (proches du départ à la retraite ou à la retraite depuis peu): s’informer et construire des projets encourageant la participation citoyenne.",
+        "solution_envisagee": "Proposer des supports d’information sur différentes thématiques.  ---  --- LA RÉUSSITE DU PROJET Afin de diffuser l’information et de toucher le plus grand nombre possible de jeunes seniors, une action de communication importante a été mise en place: un article dans le magazine municipal, une parution de l’information sur les outils web de la Ville (site internet, newsletter, réseaux sociaux) et surtout un courrier personnalisé envoyé à tous les scéens de 58 à 66 ans en 2017 (1987 personnes), sur la base des listes électorales.",
+        "objectifs": "Ces rencontres ont donc pour objectif de répondre aux attentes nouvelles des scéens âgés de plus de 50 ans, et particulièrement de 58 à 66 ans (proches du départ à la retraite ou à la retraite depuis peu): s’informer et construire des projets encourageant la participation citoyenne."
+    },
+    "porteur_initiative": "Ces rencontres ont donc pour objectif de répondre aux attentes nouvelles des scéens âgés de plus de 50 ans, et particulièrement de 58 à 66 ans (proches du départ à la retraite ou à la retraite depuis peu): s’informer et construire des projets encourageant la participation citoyenne.",
+    "date": [
+        "2025",
+        "2015",
+        "2017",
+        "1987",
+        "depuis 2015",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_pour_informer_les_jeunes_retraites.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_rencontres_pour_informer_les_jeunes_retraites.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Faisons causette",
+    "territoire": "Titre: Faisons causette Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/922-pe-faisons-causette.pdf  ---  --- UN PROJET INITIÉ EN JANVIER 2021 L'action \"Faisons causette\" s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Faisons causette Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/922-pe-faisons-causette.pdf  ---  --- UN PROJET INITIÉ EN JANVIER 2021 L'action \"Faisons causette\" s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
+    "description": {
+        "description_generale": "Titre: Faisons causette Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/922-pe-faisons-causette.pdf  ---  --- UN PROJET INITIÉ EN JANVIER 2021 L'action \"Faisons causette\" s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
+        "contexte": "Titre: Faisons causette Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/922-pe-faisons-causette.pdf  ---  --- UN PROJET INITIÉ EN JANVIER 2021 L'action \"Faisons causette\" s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
+        "problematique": "Grâce à cette action, 23 seniors reçoivent des appels téléphoniques ou bénéficient de visites régulières afin de rompre ponctuellement leur isolement.  ---  --- LA DIFFICULTÉ DE TROUVER DES BÉNÉVOLES Les seniors sont consultés pour avoir leur retour et des réunions sont organisées avec l'équipe citoyenne pour faire régulièrement le point avec eux.",
+        "solution_envisagee": "Ces \"demandeurs\" sont les seniors isolés identifiés suite aux appels passés durant le deuxième confinement et ont été contactés afin de les informer et de leur proposer ce service gratuit offert par la Ville.",
+        "objectifs": "Les autres volontaires se sont manifestés suite à l'appel à bénévoles lancé sur les différents supports de communication de la Ville. “Monalisa” a dispensé sa formation socle auprès des bénévoles afin de conforter le rôle de l'équipe citoyenne auprès des seniors et de les préparer à leur nouvelle mission."
+    },
+    "porteur_initiative": "Titre: Faisons causette Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/922-pe-faisons-causette.pdf  ---  --- UN PROJET INITIÉ EN JANVIER 2021 L'action \"Faisons causette\" s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
+    "date": [
+        "JANVIER 2021",
+        "2025",
+        "2021",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Faisons_causette.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Faisons_causette.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

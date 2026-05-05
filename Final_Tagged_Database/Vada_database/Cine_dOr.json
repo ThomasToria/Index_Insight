@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Ciné d'Or",
+    "territoire": "Titre: Ciné d'Or Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/752-pe-cine-d-or.pdf  ---  --- CINÉ D'OR Vienne (38) Ville Membre depuis 2022 RENDRE LA CULTURE CINÉMATOGRAPHIQUE ACCESSIBLE Les personnes âgées sont traditionnellement plus casanières.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Ciné d'Or Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/752-pe-cine-d-or.pdf  ---  --- CINÉ D'OR Vienne (38) Ville Membre depuis 2022 RENDRE LA CULTURE CINÉMATOGRAPHIQUE ACCESSIBLE Les personnes âgées sont traditionnellement plus casanières.",
+    "description": {
+        "description_generale": "Si, comme la ville de Vienne, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Dans ce contexte, proposer une programmation cinématographique adaptée, à prix modique, dans un lieu central offrant des conditions d'accueil optimales est gage de réussite.",
+        "problematique": "Titre: Ciné d'Or Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/752-pe-cine-d-or.pdf  ---  --- CINÉ D'OR Vienne (38) Ville Membre depuis 2022 RENDRE LA CULTURE CINÉMATOGRAPHIQUE ACCESSIBLE Les personnes âgées sont traditionnellement plus casanières.",
+        "solution_envisagee": "Dans ce contexte, proposer une programmation cinématographique adaptée, à prix modique, dans un lieu central offrant des conditions d'accueil optimales est gage de réussite.",
+        "objectifs": "UNE PROGRAMMATION CINÉMATOGRAPHIQUE ADAPTÉE AUX SENIORS Afin de rendre acteurs les seniors viennois et de répondre au mieux à leurs attentes, la programmation est élaborée lors d'une \"commission de programmation\" à laquelle ils participent."
+    },
+    "porteur_initiative": "Cette action partenariale est pilotée par le panier de service, sous la responsabilité de la Vice-Présidente du C.C.A.S.",
+    "date": [
+        "2025",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_dOr.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cine_dOr.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

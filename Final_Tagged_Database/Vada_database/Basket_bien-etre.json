@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Basket bien-être",
+    "territoire": "Titre: Basket bien-être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/902-concours-2023-basket-bien-etre.pdf  ---  --- UNE ACTIVITÉ PHYSIQUE ADAPTÉE À PRATIQUER ENSEMBLE Ce projet s'est lancé dans le cadre des actions de prévention proposées par le Guichet Atout Seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Le CCAS a réfléchi à comment adapter ces séances au public du Guichet Atout Seniors, qui réunit deux générations de seniors autonomes ou en légère perte d'autonomie.",
+    "description": {
+        "description_generale": "Titre: Basket bien-être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/902-concours-2023-basket-bien-etre.pdf  ---  --- UNE ACTIVITÉ PHYSIQUE ADAPTÉE À PRATIQUER ENSEMBLE Ce projet s'est lancé dans le cadre des actions de prévention proposées par le Guichet Atout Seniors.",
+        "contexte": "Titre: Basket bien-être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/902-concours-2023-basket-bien-etre.pdf  ---  --- UNE ACTIVITÉ PHYSIQUE ADAPTÉE À PRATIQUER ENSEMBLE Ce projet s'est lancé dans le cadre des actions de prévention proposées par le Guichet Atout Seniors.",
+        "problematique": "Une évaluation verbale est effectuée à la fin de chaque séance afin de mesurer d'éventuelles difficultés et de pouvoir réajuster l'activité à chaque séance si besoin.",
+        "solution_envisagee": "Ce projet de Basket Bien-être avait pour objectif de proposer une activité avec à la fois des exercices individuels mais aussi des jeux en opposition et de coopération.",
+        "objectifs": "Il fallait un espace assez grand afin de favoriser les déplacements et permettant des échanges de balles."
+    },
+    "porteur_initiative": "En fin de cycle, un repas partagé est organisé par les seniors pour clôturer la session.",
+    "date": [
+        "Octobre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Basket_bien-etre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Basket_bien-etre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

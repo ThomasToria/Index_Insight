@@ -1,0 +1,50 @@
+{
+    "titre": "50 ans d'engagement auprès des personnes âgées",
+    "territoire": "L’appel à projets Vieillir acteur et citoyen de son territoire soutient les initiatives qui développent les liens sociaux et la participation des personnes âgées à des actions citoyennes.",
+    "echelle": [
+        "communale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Améliorer les conditions de fin de vie pour les personnes âgées comme pour leurs familles, avec le développement de services à domicile et de lieux d’accueil de qualité.",
+    "description": {
+        "description_generale": "L’appel à projets Vieillir acteur et citoyen de son territoire soutient les initiatives qui développent les liens sociaux et la participation des personnes âgées à des actions citoyennes.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "Réseaux d’entraides, services de transports en zone rurale, développement du maintien à domicile, nouvelles formules d’hébergement, humanisation des soins, accompagnement des aidants, formation des soignants… sur tous ces fronts, la Fondation de France engage la réflexion et expérimente des solutions.",
+        "objectifs": "Améliorer les conditions de fin de vie pour les personnes âgées comme pour leurs familles, avec le développement de services à domicile et de lieux d’accueil de qualité."
+    },
+    "porteur_initiative": "50 ans d'engagement auprès des personnes âgées  https://www.fondationdefrance.org/fr/cat-personnes-agees/50-ans-d-engagement-aupres-des-personnes-agees  Qui sommes-nous?",
+    "date": [
+        "14 octobre 1975",
+        "octobre 1975",
+        "1975",
+        "En 1975"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\50 ans d'engagement auprès des personnes âgées.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\50 ans d'engagement auprès des personnes âgées.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

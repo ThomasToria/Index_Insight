@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Atelier Téléphonie mobile",
+    "territoire": "Titre: Atelier Téléphonie mobile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/10/PE-Atelier-Telephonie-mobile-1.pdf  ---  --- Soutenir le maintien du lien social et familial, et participer à l’inclusion et à la cohésion sociale.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "SENIORS ET RETRAITÉS DE PLUS DE 60 ANS DISPOSANT D’UN TÉLÉPHONE MOBILE, DÉSIREUX DE S’INITIER, S’ENTRAÎNER, SE PERFECTIONNER À LA\nTÉLÉPHONIE MOBILE ET GAGNER EN AUTONOMIE.\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Le CCAS en partenariat avec l’association Solutions Vertes a répondu aux sollicitations régulières des ainés pour\ns’initier, s’entraîner ou se perfectionner à la tél éphonie mobile. Des ateliers ont été proposés en 20 22 et 2024 avec\nle programme « Bien vieillir en autonomie et inclusion numérique », financé par la Conférence de s financeurs.\nATELIER TÉLÉPHONIE MOBILE\n1.\n2.\n3.\nLES OBJECTIFS DU PROJET\nFavoriser l’inclusion numérique, et rassurer les ut ilisateurs de smartphone.\n2025\nFICHE PARTAGE D’EXPÉRIENCE N°1002\nVILLE AMIE DES AÎNÉS DEPUIS 2025- PETIT-BOURG (971)\nINFORMATION &\nCOMMUNICATION\nCULTURE & LOISIRS\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLES COMPÉTENCES MOBILISÉES\nPOUR LE PROJET\nLe coût du projet est pris en charge par\nla Conférence des Financeurs, pour la\nprévention de la perte d’autonomie\nLe programme « Bien vieillir en autonomie\net inclusion numérique » s’adresse aux\naînés afin de les aider à rester en lien avec\nles évolutions de la société. Le téléphone\nportable n’est pas seulement un moyen de\ncommunication, il est un outil de gestion du\nquotidien, de loisirs et de divertissement.\nLES ÉTAPES\nDU PROJET\nChoix de proposer des ateliers\nde téléphonie mobile différents\ndes ateliers numériques\nproposés par la Maison France\nService\n77 personnes ont participé aux\nateliers mis en place en 2022 et\n2024\nL’animation des ateliers s’est\nappuyée sur les expériences des\nseniors\nDes anecdotes ont été utilisées\npour les sensibiliser, les rassurer\net faciliter l’apprentissage\nÉVALUATION\nDU PROJET\nLes participants ont confirmé la\nnécessité des ateliers. La\nreconduction est sollicitée. Ils ont\napprécié l’accompagnement\npersonnalisé dont ils ont pu\nbénéficier. Certains étaient heureux\nde découvrir où se « cachaient » les\nphotos, d’autres de pouvoir envoyer\ndes messages. D’autres\nparticipants plus aguerris ont\nprofité pour aller un peu plus loin\ndans l’apprentissage.\nLES PARTENAIRES\nDU PROJET\nCCAS: communication autour\nde l’événement, logistique,\ninscription des participants.\nAssociation Solutions Vertes:\nanimation.\nConseil Départemental via la\nConférence des Financeurs,\nAssociation Solutions Vertes\navec le déploiement du\nprogramme « Bien vieillir en\nautonomie et inclusion\nnumérique ».\nLE PLAN\nDE COMMUNICATION\nCommuniqué en radio,\nRéseaux Sociaux de la Ville,\nFlyers.",
+        "contexte": "Titre: Atelier Téléphonie mobile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/10/PE-Atelier-Telephonie-mobile-1.pdf  ---  --- Soutenir le maintien du lien social et familial, et participer à l’inclusion et à la cohésion sociale.",
+        "problematique": "Les retraités expriment leurs appréhensions et leur s difficultés à faire fonctionner les outils numériq ues lors de leurs passages au CCAS.",
+        "solution_envisagee": "Conseil Départemental via la Conférence des Financeurs, Association Solutions Vertes avec le déploiement du programme « Bien vieillir en autonomie et inclusion numérique ».",
+        "objectifs": "LES OBJECTIFS DU PROJET Favoriser l’inclusion numérique, et rassurer les ut ilisateurs de smartphone."
+    },
+    "porteur_initiative": "Titre: Atelier Téléphonie mobile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/10/PE-Atelier-Telephonie-mobile-1.pdf  ---  --- Soutenir le maintien du lien social et familial, et participer à l’inclusion et à la cohésion sociale.",
+    "date": [
+        "2025",
+        "2024",
+        "1002",
+        "2022",
+        "DEPUIS 2025",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_Telephonie_mobile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_Telephonie_mobile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

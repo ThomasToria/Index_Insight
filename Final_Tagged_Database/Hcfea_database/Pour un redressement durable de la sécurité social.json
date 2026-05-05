@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Pour un redressement durable de la sécurité sociale",
+    "territoire": "L’effort de redressement doit être supporté par toutes les catégories d’acteurs: assurés sociaux, employeurs, établissements et professionnels de la santé et du care.",
+    "echelle": [],
+    "public_vise": "L’effort de redressement doit être supporté par toutes les catégories d’acteurs: assurés sociaux, employeurs, établissements et professionnels de la santé et du care.",
+    "description": {
+        "description_generale": "Reconnaissant le contexte financier préoccupant dans lequel la sécurité sociale évolue, les trois Hauts Conseils estiment que ce dernier ne doit pas laisser la place à l’inaction.",
+        "contexte": "Titre: Pour un redressement durable de la sécurité sociale Sous-titre: Rapport remis au Premier ministre le 2 juillet 2025 suite à la saisine du HCaam, du HCFEA et du HCFiPS Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Documents communs des trois Conseils Pour un redressement durable de la sécurité sociale Imprimer Courriel Linkedin Facebook Twitter Bluesky Pour un redressement durable de la sécurité sociale Rapport remis au Premier ministre le 2 juillet 2025 suite à la saisine du HCaam, du HCFEA et du HCFiPS Publié le 03/07/2025 | Temps de lecture: 2 minutes Les trois Conseils Rapports Le Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA), le Haut Conseil pour l'avenir de l'assurance maladie (Hcaam), et le Haut Conseil du financement de la protection sociale (HCFiPS) ont été saisis conjointement par le Premier ministre, le 7 mars 2025, pour établir un diagnostic des causes des déséquilibres financiers de notre sécurité sociale et identifier les leviers possibles de rétablissement des comptes sociaux.",
+        "problematique": "Dans le même temps, les Hauts Conseils insistent sur la nécessité de ne pas renoncer à la couverture des besoins, en particulier pour les populations les plus vulnérables, et soulignent l’importance de proposer des solutions répartissant équitablement et de manière équilibrée la charge de l’effort.",
+        "solution_envisagee": "Dans le même temps, les Hauts Conseils insistent sur la nécessité de ne pas renoncer à la couverture des besoins, en particulier pour les populations les plus vulnérables, et soulignent l’importance de proposer des solutions répartissant équitablement et de manière équilibrée la charge de l’effort.",
+        "objectifs": "Les Hauts Conseils rappellent que la sécurité sociale est l’affaire de tous et participe à renforcer la cohésion sociale."
+    },
+    "porteur_initiative": "L’effort de redressement doit être supporté par toutes les catégories d’acteurs: assurés sociaux, employeurs, établissements et professionnels de la santé et du care.",
+    "date": [
+        "2 juillet 2025",
+        "7 mars 2025",
+        "3 juillet 2025",
+        "juillet 2025",
+        "mars 2025",
+        "juin 2025",
+        "03/07/2025",
+        "2025",
+        "2011",
+        "2019",
+        "entre 2011 et 2019"
+    ],
+    "thematique": [
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Pour un redressement durable de la sécurité social.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Pour un redressement durable de la sécurité social.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.0,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

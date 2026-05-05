@@ -1,0 +1,242 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche4-LienSocial.txt",
+    "nom_fichier": "Fiche4-LienSocial.txt",
+    "lignes": [
+        "---  ---",
+        "MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide",
+        "Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux",
+        "Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles",
+        "Quoi? Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui? Toutes personnes qui adhèrent au réseau Où et quand? Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité)",
+        "DESCRIPTION",
+        "Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser",
+        "RESSOURCES",
+        "LIEN SOCIAL"
+    ],
+    "paragraphes": [
+        "---  ---\nMODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide\nObjectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux\nIndicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles\nQuoi? Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui? Toutes personnes qui adhèrent au réseau Où et quand? Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité)\nDESCRIPTION\nHumaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser\nRESSOURCES\nLIEN SOCIAL"
+    ],
+    "phrases": [
+        "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+        "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+        "Toutes personnes qui adhèrent au réseau Où et quand?",
+        "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL"
+    ],
+    "stats": {
+        "nombre_lignes": 9,
+        "nombre_paragraphes": 1,
+        "nombre_phrases": 4,
+        "nombre_caracteres": 1133,
+        "nombre_sections_detectees": 1,
+        "nombre_dates_candidates": 0,
+        "nombre_territoires_candidates": 0,
+        "nombre_organisations_candidates": 1,
+        "nombre_public_vise_candidates": 3,
+        "nombre_porteur_candidates": 3,
+        "nombre_territoire_candidates": 2,
+        "nombre_description_candidates": 4,
+        "nombre_contexte_candidates": 2,
+        "nombre_problematique_candidates": 2,
+        "nombre_solution_candidates": 3,
+        "nombre_objectifs_candidates": 2
+    },
+    "sections_detectees": {
+        "description": "Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser\nRESSOURCES\nLIEN SOCIAL"
+    },
+    "entites_candidates": {
+        "dates_candidates": [],
+        "territoires_candidates": [],
+        "organisations_candidates": [
+            "pour la mise en place Matérielles"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 3
+            },
+            {
+                "texte": "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+                "score": 2
+            },
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 2
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+                "score": 2
+            },
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 1
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 6
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 1
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser\nRESSOURCES\nLIEN SOCIAL",
+                "score": 10,
+                "source": "section_detectee"
+            },
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 6
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 3
+            },
+            {
+                "texte": "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+                "score": 2
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 1
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 1
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+                "score": 6
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 4
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+                "score": 2
+            }
+        ]
+    },
+    "champs_scores": {
+        "titre": {
+            "valeur": "---  ---",
+            "score": 8,
+            "confiance": 0.8,
+            "source": "premiere_ligne"
+        },
+        "date": {
+            "valeur": [],
+            "score": 0,
+            "confiance": 0.0,
+            "source": ""
+        },
+        "thematique": {
+            "valeur": [
+                "vieillissement",
+                "lien social",
+                "numérique"
+            ],
+            "score": 6,
+            "confiance": 0.65,
+            "source": "keywords_thematiques"
+        },
+        "echelle": {
+            "valeur": [
+                "communale",
+                "intercommunale"
+            ],
+            "score": 4,
+            "confiance": 0.45,
+            "source": "keywords_echelles"
+        },
+        "public_vise": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+            "score": 3,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "porteur_initiative": {
+            "valeur": "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "territoire": {
+            "valeur": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+            "score": 6,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "description": {
+            "valeur": "Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser\nRESSOURCES\nLIEN SOCIAL",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "section_detectee"
+        },
+        "contexte": {
+            "valeur": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "problematique": {
+            "valeur": "Dès que le réseau est créé Sur la commune (mais à terme peut être le dispositif peut s’étendre aux communes voisines – intercommunalité) DESCRIPTION Humaines: Bénévolat et une aide de la commune pour la mise en place Matérielles: Mettre en place le recensement et l’organisation de la plateforme Information et communication: La lettre internet Financières: A préciser RESSOURCES LIEN SOCIAL",
+            "score": 2,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "solution_envisagee": {
+            "valeur": "Créer un réseau d’entraide (de type voisinage) consistant à proposer différents « services » gratuits basés sur le bénévolat et/ou sur le troc, porté par les citoyens eux-mêmes (ou peut être proposé par la mairie) Adapter la mise en place de ce réseau en fonction des réponses (1 ) à un recensement des éventuels bénéficiaires et acteurs bénévoles et (2) pour quels types d’action d’entraide Pour qui?",
+            "score": 6,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "objectifs": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°4 Création d’un réseau d’entraide Objectifs • Proposer des solutions aux seniors basées sur un réseau d’entraide à différents niveaux Indicateurs de réussite • Nombre de participants constituant le réseau • Nombre d’actions bénévoles Quoi?",
+            "score": 5,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "source_site": {
+            "valeur": "Fiches actions",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "nom_dossier"
+        }
+    }
+}

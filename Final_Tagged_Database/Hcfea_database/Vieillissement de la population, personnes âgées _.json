@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Vieillissement de la population, personnes âgées: une France âgiste malgré elle?",
+    "territoire": "Titre: Vieillissement de la population, personnes âgées: une France âgiste malgré elle?",
+    "echelle": [],
+    "public_vise": "Sous-titre: Enseignements de l'enquête d'opinion du Conseil de l'âge du HCFEA Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge Vieillissement de la population, personnes âgées: une France âgiste malgré elle?",
+    "description": {
+        "description_generale": "Documents à télécharger La note de présentation des résultats de l'enquête (PDF - 594.37 Ko) Les résultats de l'enquête (PDF - 1.88 Mo) Associés aux publications du Conseil de l’âge autour de la lutte contre les discriminations et l’âgisme, ces résultats ont vocation à susciter des initiatives visant à créer les conditions d’une société inclusive à toutes ses générations.",
+        "contexte": "Dans ce contexte, et dans le cadre de ses missions, le Conseil de l'âge du HCFEA a souhaité lancer une enquête sur la perception de la vieillesse, du vieillissement de la population, des personnes âgées et de l'âgisme en France.",
+        "problematique": "Titre: Vieillissement de la population, personnes âgées: une France âgiste malgré elle?",
+        "solution_envisagee": "Titre: Vieillissement de la population, personnes âgées: une France âgiste malgré elle?",
+        "objectifs": "Titre: Vieillissement de la population, personnes âgées: une France âgiste malgré elle?"
+    },
+    "porteur_initiative": "Titre: Vieillissement de la population, personnes âgées: une France âgiste malgré elle?",
+    "date": [
+        "1 octobre 2025",
+        "30 septembre 2025",
+        "17 septembre 2025",
+        "juin 2024",
+        "octobre 2025",
+        "septembre 2025",
+        "27/09/2024",
+        "2024",
+        "2023",
+        "2025",
+        "2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Vieillissement de la population, personnes âgées _.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Vieillissement de la population, personnes âgées _.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.0,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: La résidence autonomie Jean Jaurès",
+    "territoire": "Titre: La résidence autonomie Jean Jaurès Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/245-pe-residence-jaures-mise-en-forme-2023.pdf  ---  --- PROPOSER UN CADRE DE VIE AGRÉABLE La résidence autonomie Jean Jaurès est un établissement non médicalisé.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Un restaurant accueille (le midi et en semaine) les résidents qui le souhaitent ainsi que des seniors du quartier.",
+    "description": {
+        "description_generale": "Coût (Rénovation de la résidence): 4 432 000 euros + 50 000 euros pour le mobilier.  ---  --- LE SUCCÈS DU PROJET À l’initiative des élus, une plaquette sur les résidences seniors a été créée.",
+        "contexte": "Titre: La résidence autonomie Jean Jaurès Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/245-pe-residence-jaures-mise-en-forme-2023.pdf  ---  --- PROPOSER UN CADRE DE VIE AGRÉABLE La résidence autonomie Jean Jaurès est un établissement non médicalisé.",
+        "problematique": "L’équipe de la résidence travaille avec des partenaires extérieurs afin de répondre au maximum aux attentes et aux besoins des personnes âgées ( IDE, services à la personne, kinésithérapeute).",
+        "solution_envisagee": "Titre: La résidence autonomie Jean Jaurès Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/245-pe-residence-jaures-mise-en-forme-2023.pdf  ---  --- PROPOSER UN CADRE DE VIE AGRÉABLE La résidence autonomie Jean Jaurès est un établissement non médicalisé.",
+        "objectifs": "L’équipe de la résidence travaille avec des partenaires extérieurs afin de répondre au maximum aux attentes et aux besoins des personnes âgées ( IDE, services à la personne, kinésithérapeute)."
+    },
+    "porteur_initiative": "Coût (Rénovation de la résidence): 4 432 000 euros + 50 000 euros pour le mobilier.  ---  --- LE SUCCÈS DU PROJET À l’initiative des élus, une plaquette sur les résidences seniors a été créée.",
+    "date": [
+        "06/06/2016",
+        "2025",
+        "2023",
+        "2012",
+        "2016",
+        "1980",
+        "2013",
+        "2015",
+        "depuis 2012",
+        "en 2013",
+        "en 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_autonomie_Jean_Jaures.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_residence_autonomie_Jean_Jaures.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

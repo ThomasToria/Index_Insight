@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Expérimentation politique globale vers les aînés",
+    "territoire": "Titre: Expérimentation politique globale vers les aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/764-pe-631-expe-rimentation-politique-globale-vers-les-aine-s-de-partement-des-yvelines.pdf  ---  --- CONSTRUIRE UNE POLITIQUE GLOBALE À DESTINATION DES AINÉS Le département des Yvelines, aux côtés de six communes (Condé-sur- Vesgre, Auffargis, Maule, Mantes-la-Jolie, Poissy et Saint-Germain-en- Laye), de la Caisse Nationale d'Assurance Vieillesse (CNAV) et du Réseau Francophone Villes Amies des Ainés (RFVAA), s'est engagé dans une démarche expérimentale.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Cette démarche a permis d'établir un état des lieux de l'attractivité des territoires pour les seniors pour définir à terme des politiques locales plus adaptées (services, informations et équipements accessibles).",
+    "description": {
+        "description_generale": "Création de 2 postes \"Chargé de mission politique globale vers les ainés\" avec une stagiaire / apprentie, Diagnostic partagé avec des groupes de travail sur chaque commune, Partage d'expertise technique, d'usage, juridique, financière... avec élus, seniors, associations, collectivités, Construction d'un état des lieux local sur les 8 thématiques, Priorisation des axes d'interventions prioritaires à intégrer dans le futur plan d'action.  ---  --- UNE COMMUNICATION LARGE TOUT AU LONG DE L'EXPÉRIMENTATION Tous les supports à disposition ont été sollicités: mailing, articles dans le magazine papier, articles sur internet et intranet, LinkedIn et Facebook du département.",
+        "contexte": "Les seniors et les associations locales ont été particip'acteur lors des diagnostics partagés.",
+        "problematique": "EXPÉRIMENTATION POLITIQUE GLOBALE VERS LES A ÎNÉS Fiche PARTAGE D'EXPÉRIENCE N°631 Villes Amies des Aînés en France Conseil départemental des Yvelines (78) Département membre depuis 2020 Accompagner la mise en oeuvre de la démarche VADA au sein des communes pilotes, Identifier les principaux besoins des aînés, de contribuer au changement de regard sur la vieillesse et de construire un langage commun à tous les acteurs, Modéliser le soutien du département aux communes (outils, modalités,...) pour déployer la démarche à l'ensemble des communes yvelinoises (260), Sensibiliser l'ensemble des directions du département aux enjeux du vieillissement.",
+        "solution_envisagee": "UNE EXPÉRIMENTATION TOUTE EN CO-CONSTRUCTION Toute l'expérimentation a été menée en co-construction avec les six villes sur les éléments commun: chaque commune ayant la possibilité d'avancer à son rythme et de définir ses priorités.",
+        "objectifs": "DES OBJECTIFS AMBITIEUX MAIS LARGEMENT ATTEINTS Les objectifs ambitieux du département au travers de cette expérimentation ont été largement atteints."
+    },
+    "porteur_initiative": "Chaque directions du département est conviée à intégrer les enjeux du vieillissement sur son champ de compétence et d'intervention, notamment avec l'élaboration d'un plan d'action porté par la direction de l'autonomie.",
+    "date": [
+        "mai 2022",
+        "2025",
+        "2020",
+        "2022",
+        "depuis 2020",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Experimentation_politique_globale_vers_les_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Experimentation_politique_globale_vers_les_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

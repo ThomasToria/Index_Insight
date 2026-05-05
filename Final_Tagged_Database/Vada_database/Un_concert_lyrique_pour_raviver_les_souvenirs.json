@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Un concert lyrique pour raviver les souvenirs",
+    "territoire": "Titre: Un concert lyrique pour raviver les souvenirs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/556-pe-un-concert-lyrique-pour-raviver-les-souvenirs.pdf  ---  --- UNE ASSOCIATION, DEUX VOCATIONS C’est dans le cadre de la démarche Ville Amie des Aînés que la Ville de La Roche sur Yon et l’association France Alzheimer Vendée, ont fait appel à l’association Music’O Seniors, créée en 2008.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Celle-ci a un double objectif: soutenir les jeunes musiciens et les permettre de se dépasser en donnant des concerts à un public dont ils ont peu l’habitude, et rompre l’isolement des personnes âgées dépendantes ou atteintes de maladies neurodégénératives.",
+    "description": {
+        "description_generale": "Si, comme la Ville de La Roche-sur-Yon, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Celle-ci a un double objectif: soutenir les jeunes musiciens et les permettre de se dépasser en donnant des concerts à un public dont ils ont peu l’habitude, et rompre l’isolement des personnes âgées dépendantes ou atteintes de maladies neurodégénératives.",
+        "problematique": "Celle-ci a un double objectif: soutenir les jeunes musiciens et les permettre de se dépasser en donnant des concerts à un public dont ils ont peu l’habitude, et rompre l’isolement des personnes âgées dépendantes ou atteintes de maladies neurodégénératives.",
+        "solution_envisagee": "Celle-ci a un double objectif: soutenir les jeunes musiciens et les permettre de se dépasser en donnant des concerts à un public dont ils ont peu l’habitude, et rompre l’isolement des personnes âgées dépendantes ou atteintes de maladies neurodégénératives.",
+        "objectifs": "Celle-ci a un double objectif: soutenir les jeunes musiciens et les permettre de se dépasser en donnant des concerts à un public dont ils ont peu l’habitude, et rompre l’isolement des personnes âgées dépendantes ou atteintes de maladies neurodégénératives."
+    },
+    "porteur_initiative": "Celle-ci a un double objectif: soutenir les jeunes musiciens et les permettre de se dépasser en donnant des concerts à un public dont ils ont peu l’habitude, et rompre l’isolement des personnes âgées dépendantes ou atteintes de maladies neurodégénératives.",
+    "date": [
+        "24 janvier 2019",
+        "janvier 2019",
+        "2025",
+        "2008",
+        "2019",
+        "2017",
+        "depuis 2017",
+        "en 2008"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_concert_lyrique_pour_raviver_les_souvenirs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_concert_lyrique_pour_raviver_les_souvenirs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

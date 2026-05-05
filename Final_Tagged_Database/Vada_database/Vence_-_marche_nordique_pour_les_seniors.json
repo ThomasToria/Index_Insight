@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Vence - marche nordique pour les seniors",
+    "territoire": "Titre: Vence - marche nordique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1001-concours-2023-vence-marche-nordique-pour-les-seniors.pdf  ---  --- LA MARCHE NORDIQUE La ville de Vence regorge de sentiers et de lieux dédiés à la marche nordique.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS VENCE - MARCHE NORDIQUE POUR LES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°863 Villes Amies des Aînés en France CCAS de le ville de Vence Ville Amie des Aînés depuis 2023 Vence (06) Inviter les séniors et leurs aidants à une conférence menée par un médecin cardio- gériatre sur la prévention des risques cardio- vasculaires à Vence.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Vence, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Vence - marche nordique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1001-concours-2023-vence-marche-nordique-pour-les-seniors.pdf  ---  --- LA MARCHE NORDIQUE La ville de Vence regorge de sentiers et de lieux dédiés à la marche nordique.",
+        "problematique": "Elle a pu aider certains participants à lutter contre le stress et l'isolement tout en découvrant différents espaces naturels autour de chez eux.",
+        "solution_envisagee": "L'association \"Sport&Santé\" propose déjà plusieurs activités sportives à différents niveaux.",
+        "objectifs": "Titre: Vence - marche nordique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1001-concours-2023-vence-marche-nordique-pour-les-seniors.pdf  ---  --- LA MARCHE NORDIQUE La ville de Vence regorge de sentiers et de lieux dédiés à la marche nordique."
+    },
+    "porteur_initiative": "Titre: Vence - marche nordique pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1001-concours-2023-vence-marche-nordique-pour-les-seniors.pdf  ---  --- LA MARCHE NORDIQUE La ville de Vence regorge de sentiers et de lieux dédiés à la marche nordique.",
+    "date": [
+        "2025",
+        "1001",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vence_-_marche_nordique_pour_les_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Vence_-_marche_nordique_pour_les_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

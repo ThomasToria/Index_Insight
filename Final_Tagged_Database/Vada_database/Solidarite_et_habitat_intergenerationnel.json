@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Solidarité et habitat intergénérationnel",
+    "territoire": "Titre: Solidarité et habitat intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/711-pe110422-579-solidarite-et-habitat-intergenerationnel-vaulxenvelin.pdf  ---  --- L'HABITAT INTERGÉNÉRATIONNEL: UN PROJET SOLIDAIRE Suite à un partenariat de deux années entre le Conseil des seniors de Vaulx- en-Velin et les étudiants de l'ENSAL (école nationale supérieure d'achitecture de Lyon) sur un projet de kiosque à musique et de danse, les membres du conseil des seniors ont souhaité réfléchir à la mise en place d'une démarche de cohabitation intergénérationnelle.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Le dispositif d'accueil d'un jeune par un senior ch ez lui a été présenté (diaporama, échanges, questions et participation de seniors accueillant des jeunes): le senior mettant à disposition une chambr e à un jeune de moins de trente ans pouvant être propriétaire ou locataire d'un logement social.",
+    "description": {
+        "description_generale": "En partant de l'expression des besoins, un projet sera élaboré pour présentation à madame la Maire.",
+        "contexte": "Le dispositif d'accueil d'un jeune par un senior ch ez lui a été présenté (diaporama, échanges, questions et participation de seniors accueillant des jeunes): le senior mettant à disposition une chambr e à un jeune de moins de trente ans pouvant être propriétaire ou locataire d'un logement social.",
+        "problematique": "La démarche permet de répondre surtout à un désir de solidarité des seniors vis-à-vis de la jeune génération qui a pu éprouver des difficultés lors de la période de confinement.",
+        "solution_envisagee": "Titre: Solidarité et habitat intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/711-pe110422-579-solidarite-et-habitat-intergenerationnel-vaulxenvelin.pdf  ---  --- L'HABITAT INTERGÉNÉRATIONNEL: UN PROJET SOLIDAIRE Suite à un partenariat de deux années entre le Conseil des seniors de Vaulx- en-Velin et les étudiants de l'ENSAL (école nationale supérieure d'achitecture de Lyon) sur un projet de kiosque à musique et de danse, les membres du conseil des seniors ont souhaité réfléchir à la mise en place d'une démarche de cohabitation intergénérationnelle.",
+        "objectifs": "Le dispositif d'accueil d'un jeune par un senior ch ez lui a été présenté (diaporama, échanges, questions et participation de seniors accueillant des jeunes): le senior mettant à disposition une chambr e à un jeune de moins de trente ans pouvant être propriétaire ou locataire d'un logement social."
+    },
+    "porteur_initiative": "Le dispositif d'accueil d'un jeune par un senior ch ez lui a été présenté (diaporama, échanges, questions et participation de seniors accueillant des jeunes): le senior mettant à disposition une chambr e à un jeune de moins de trente ans pouvant être propriétaire ou locataire d'un logement social.",
+    "date": [
+        "9 février 2021",
+        "12 mai 2021",
+        "février 2021",
+        "mai 2021",
+        "octobre 2021",
+        "2025",
+        "2021",
+        "2015",
+        "2016",
+        "depuis 2015",
+        "en 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Solidarite_et_habitat_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Solidarite_et_habitat_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

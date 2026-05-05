@@ -1,0 +1,95 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Connexion_partagee.txt",
+    "nom_fichier": "Connexion_partagee.txt",
+    "lignes": [
+        "Titre: Connexion part'agée",
+        "Catégories:",
+        "Commune:",
+        "Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf"
+    ],
+    "paragraphes": [
+        "Titre: Connexion part'agée\nCatégories:\nCommune:\nSource PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf"
+    ],
+    "phrases": [
+        "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf"
+    ],
+    "stats": {
+        "nombre_lignes": 4,
+        "nombre_paragraphes": 1,
+        "nombre_phrases": 1,
+        "nombre_caracteres": 155,
+        "nombre_sections_detectees": 0,
+        "nombre_dates_candidates": 1,
+        "nombre_territoires_candidates": 0,
+        "nombre_organisations_candidates": 2,
+        "nombre_public_vise_candidates": 1,
+        "nombre_porteur_candidates": 1,
+        "nombre_territoire_candidates": 1,
+        "nombre_description_candidates": 1,
+        "nombre_contexte_candidates": 1,
+        "nombre_problematique_candidates": 1,
+        "nombre_solution_candidates": 1,
+        "nombre_objectifs_candidates": 1
+    },
+    "sections_detectees": {},
+    "entites_candidates": {
+        "dates_candidates": [
+            "2025"
+        ],
+        "territoires_candidates": [],
+        "organisations_candidates": [
+            "Commune:",
+            "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 6
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "Titre: Connexion part'agée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/765-pe-connexion-part-agee.pdf",
+                "score": 2
+            }
+        ]
+    }
+}

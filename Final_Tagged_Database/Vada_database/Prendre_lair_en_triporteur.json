@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Prendre l'air en triporteur",
+    "territoire": "Titre: Prendre l'air en triporteur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1029-pe-prendre-l-air-en-triporteur-1.pdf  ---  --- UNE ALTERNATIVE AU VÉLO POUR LES AÎNÉS En mars 2023, une phase de recherche a débuté à Laval, en direction de nouvelles initiatives dédiées aux personnes dites isolées et en besoin de mobilité, de loisirs, de prendre l'air, et ce, suite à différents échanges réalisés lors des cafés rencontres.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Pour bénéficier du triporteur, il suffit de s'inscrire auprès de l'Espace Seniors Intergénérationnel sur un créneau dédié et défini.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Laval, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Le succès de l'action est évalué à la fois avec des indicateurs qualitatifs (enquête de satisfaction, bilan des missions des volontaires, résultats du diagnostic participatif de 2023...) et quantitatifs (nombre de bénéficiaires, d'heures de transport, nombre de kilomètres parcourus, taux de fréquentation...).",
+        "problematique": "Titre: Prendre l'air en triporteur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1029-pe-prendre-l-air-en-triporteur-1.pdf  ---  --- UNE ALTERNATIVE AU VÉLO POUR LES AÎNÉS En mars 2023, une phase de recherche a débuté à Laval, en direction de nouvelles initiatives dédiées aux personnes dites isolées et en besoin de mobilité, de loisirs, de prendre l'air, et ce, suite à différents échanges réalisés lors des cafés rencontres.",
+        "solution_envisagee": "C'est ainsi qu'est venue l'idée de proposer un nouveau mode de transport doux, sur un triporteur, pour les personnes isolées sur demande, quels que soient les motifs (balades, courses, visite de la ville, rencontres avec des proches, participation à une activité…).",
+        "objectifs": "PRENDRE L'AIR EN TRIPORTEUR Fiche PARTAGE D'EXPÉRIENCE N°891 Villes Amies des Aînés en France Ville de Laval Ville Amie des Aînés depuis 2015 Laval (53) Briser la monotonie et lutter contre l'isolement des seniors; Améliorer la mobilité des seniors; Dynamiser ou redynamiser ses relations sociales et intergénérationnelles; Se souvenir, retrouver un quartier; Prendre plaisir à sortir, à rencontrer, à raconter, à échanger; Contribuer à l'écologie, en utilisant des modes de transport doux (vélo en l'occurrence)."
+    },
+    "porteur_initiative": "Ensuite, l'équipe a pris contact avec l'association \"À vélo sans âge: le droit au vent dans les cheveux\" et a testé différents triporteurs et comparé les offres en termes de prix et de qualité, en prenant conseil auprès du pôle flotte automobile.",
+    "date": [
+        "23 mai 2024",
+        "mars 2023",
+        "mai 2024",
+        "octobre 2024",
+        "septembre 2023",
+        "mars",
+        "mars 2024",
+        "2025",
+        "1029",
+        "2023",
+        "2015",
+        "2024",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prendre_lair_en_triporteur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Prendre_lair_en_triporteur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

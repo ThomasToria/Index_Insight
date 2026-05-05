@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: La Note Bleue: une résidence pour vivre chez soi plus longtemps",
+    "territoire": "Titre: La Note Bleue: une résidence pour vivre chez soi plus longtemps Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/115-pe-23-la-note-bleue-limonest.pdf  ---  --- LA NOTE BLEUE: UNE RÉSIDENCE POUR VIVRE CHEZ SOI PLUS LONGTEMPS Concours  RFVAA 2021 UN RÉSULTAT CONCRET DE LA CHARTE « RHÔNE + VIVRE CHEZ SOI »  Dès 2010, le département du Rhône a encouragé la création d’une charte « Rhône + Vivre chez soi ».",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Ainsi, ses résidents ont un accès privilégié à de nombreux services et commerces: Poste, épicerie, pharmacie, restaurant, médecin, transports en commun...",
+    "description": {
+        "description_generale": "Ce projet, qui est le résultat d’une collaboration entre divers partenaires, a nécessité environ cinq années pour voir le jour.",
+        "contexte": "Ainsi, ses résidents ont un accès privilégié à de nombreux services et commerces: Poste, épicerie, pharmacie, restaurant, médecin, transports en commun...",
+        "problematique": "Celle-ci a été signée par une vingtaine de partenaires et a pour objectif principal d’inciter divers acteurs tels que les promoteurs et bailleurs sociaux à mettre en place entre 20 et 25% de « logements intelligents », c’est-à-dire adaptés aux besoins des personnes en situation de perte d’autonomie.",
+        "solution_envisagee": "Ainsi, ses résidents ont un accès privilégié à de nombreux services et commerces: Poste, épicerie, pharmacie, restaurant, médecin, transports en commun...",
+        "objectifs": "FAVORISER L’ACCÈS AUX SERVICES En construisant la Note Bleue, l’objectif prioritaire de la municipalité limonoise était de donner aux habitants les plus âgés, ayant fait une demande de logement, l’opportunité de bénéficier d’un logement adapté au sein- même de la commune."
+    },
+    "porteur_initiative": "Ainsi, ses résidents ont un accès privilégié à de nombreux services et commerces: Poste, épicerie, pharmacie, restaurant, médecin, transports en commun...",
+    "date": [
+        "2025",
+        "2021",
+        "2010",
+        "2011",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Note_Bleue_une_residence_pour_vivre_chez_soi_plus_longtemps.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_Note_Bleue_une_residence_pour_vivre_chez_soi_plus_longtemps.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

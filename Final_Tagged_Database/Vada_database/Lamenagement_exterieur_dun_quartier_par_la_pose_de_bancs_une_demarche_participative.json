@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative",
+    "territoire": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/325-325-amenagement-quartier-valmy.pdf  ---  --- MIEUX RÉPONDRE AUX BESOINS Le quartier de Valmy est un nouveau quartier de la ville de Dijon.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "PRATIQUE Organiser une déambulation dans le quartier avec des habitants, des membres du CCAS, les responsables de la résidence demandeuse et des professionnels des services techniques.",
+    "description": {
+        "description_generale": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/325-325-amenagement-quartier-valmy.pdf  ---  --- MIEUX RÉPONDRE AUX BESOINS Le quartier de Valmy est un nouveau quartier de la ville de Dijon.",
+        "contexte": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/325-325-amenagement-quartier-valmy.pdf  ---  --- MIEUX RÉPONDRE AUX BESOINS Le quartier de Valmy est un nouveau quartier de la ville de Dijon.",
+        "problematique": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/325-325-amenagement-quartier-valmy.pdf  ---  --- MIEUX RÉPONDRE AUX BESOINS Le quartier de Valmy est un nouveau quartier de la ville de Dijon.",
+        "solution_envisagee": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/325-325-amenagement-quartier-valmy.pdf  ---  --- MIEUX RÉPONDRE AUX BESOINS Le quartier de Valmy est un nouveau quartier de la ville de Dijon.",
+        "objectifs": "Améliorer l’aménagement du territoire en faisant appel à l’ex-\npertise d’usage des habitants. Faciliter les déplacements des\naînés dans la ville. Encourager la participation des habitants\nâgés.\nPRATIQUE\nOrganiser une déambulation dans le quartier avec des\nhabitants, des membres du CCAS, les responsables de la\nrésidence demandeuse et des professionnels des services\ntechniques. Engager un compromis entre la demande et les\npossibilités financières et réglementaires.\nCoût: 2500€\nDIJON\nVille Amie des Aînés depuis 06-2009\nDijon (21)\nFiche publiée le 29/06/2017\nESPACES EXTERIEURS ET BÂTIMENTS\nwww.villesamiesdesaines-rf.fr\nTRANSPORTS ET MOBILITÉ\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Titre: L’aménagement extérieur d’un quartier par la pose de bancs: une démarche participative Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/325-325-amenagement-quartier-valmy.pdf  ---  --- MIEUX RÉPONDRE AUX BESOINS Le quartier de Valmy est un nouveau quartier de la ville de Dijon.",
+    "date": [
+        "29/06/2017",
+        "2025",
+        "2500",
+        "2009",
+        "2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lamenagement_exterieur_dun_quartier_par_la_pose_de_bancs_une_demarche_participative.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lamenagement_exterieur_dun_quartier_par_la_pose_de_bancs_une_demarche_participative.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

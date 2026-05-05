@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Les rendez-vous de l’été",
+    "territoire": "Titre: Les rendez-vous de l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/749-les-rendez-vous-de-l-ete-1.pdf  ---  --- DES RENDEZ-VOUS POUR LUTTER CONTRE L'ISOLEMENT SOCIAL Les phases successives de confinement, pendant la pandémie sanitaire, ont généré plusieurs conséquences: stress, perte d'autonomie, isolement social...",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Le CCAS a fait appel à plusieurs intervenants du CCAS et extérieurs: des professionnels du CCAS pour animer certaines activités (balades urbaines), des organismes professionnels (office de tourisme, sociétés de transport en mer) pour assurer soit l'animation d'une activité soit pour assurer le transport des personnes âgées, des professionnels extérieurs (sophrologue, coach sportif...).",
+    "description": {
+        "description_generale": "Le CCAS a donc demandé une subvention dans le cadre du dispositif \"Les quartiers d'été\" qui permet la réalisation d'actions de prévention pour les personnes isolées demeurant dans les quartiers prioritaires de la ville (dispositif relevant de l’État).",
+        "contexte": "Titre: Les rendez-vous de l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/749-les-rendez-vous-de-l-ete-1.pdf  ---  --- DES RENDEZ-VOUS POUR LUTTER CONTRE L'ISOLEMENT SOCIAL Les phases successives de confinement, pendant la pandémie sanitaire, ont généré plusieurs conséquences: stress, perte d'autonomie, isolement social...",
+        "problematique": "Titre: Les rendez-vous de l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/749-les-rendez-vous-de-l-ete-1.pdf  ---  --- DES RENDEZ-VOUS POUR LUTTER CONTRE L'ISOLEMENT SOCIAL Les phases successives de confinement, pendant la pandémie sanitaire, ont généré plusieurs conséquences: stress, perte d'autonomie, isolement social...",
+        "solution_envisagee": "Plusieurs services du CCAS ont participé au recueil des attentes des seniors (le service d'Accueil, d'Information et d'Accompagnement pour personnes âgées, les services d'aide à domicile, le pôle action sociale et innovations, les centres sociaux rochelais etc.).",
+        "objectifs": "Il était donc important, pour le CCAS de LA ROCHELLE, de mettre en place des actions de prévention afin de soutenir et d'accompagner les personnes âgées rochelaises."
+    },
+    "porteur_initiative": "Titre: Les rendez-vous de l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/749-les-rendez-vous-de-l-ete-1.pdf  ---  --- DES RENDEZ-VOUS POUR LUTTER CONTRE L'ISOLEMENT SOCIAL Les phases successives de confinement, pendant la pandémie sanitaire, ont généré plusieurs conséquences: stress, perte d'autonomie, isolement social...",
+    "date": [
+        "2025",
+        "2016",
+        "2022",
+        "2021",
+        "depuis 2016",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rendez-vous_de_lete.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_rendez-vous_de_lete.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

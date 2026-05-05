@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Un temps pour soi",
+    "territoire": "Titre: Un temps pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Un-temps-pour-soi.pdf  ---  --- SOULAGER LES AIDANTS Les études sont nombreuses pour montrer à la fois l'importance du rôle d'aidant et sa difficulté.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Prise de contact avec les différents partenaires et prestataires pour établir le programme et définir le budget Communication auprès des publics cible via le service Animation seniors et familles, le CCAS et la résidence seniors Cazam Organisation logistique de la journée (réunions partenaires, commandes, etc.) Tenue de l'action et évaluation le 20 juin 2024  Cout du projet: 274,85 €  ---  --- DES AIDANTS SATISFAITS L'action a rencontré un grand nombre de participation avec 17 participantes, ce qui prouve que le public a été bien ciblé.",
+    "description": {
+        "description_generale": "Prise de contact avec les différents partenaires et prestataires pour établir le programme et définir le budget Communication auprès des publics cible via le service Animation seniors et familles, le CCAS et la résidence seniors Cazam Organisation logistique de la journée (réunions partenaires, commandes, etc.) Tenue de l'action et évaluation le 20 juin 2024  Cout du projet: 274,85 €  ---  --- DES AIDANTS SATISFAITS L'action a rencontré un grand nombre de participation avec 17 participantes, ce qui prouve que le public a été bien ciblé.",
+        "contexte": "Titre: Un temps pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Un-temps-pour-soi.pdf  ---  --- SOULAGER LES AIDANTS Les études sont nombreuses pour montrer à la fois l'importance du rôle d'aidant et sa difficulté.",
+        "problematique": "Par ailleurs, l'analyse des besoins sociaux a fait ressortir que le nombre d’aidants pour un aidé est plus faible à L’Haÿ- les-Roses qu’ailleurs, ce qui peut contribuer à l’isolement: en 2017, L’Haÿ- les-Roses comptait 3,4 potentiels aidants pour un aidé, alors que la moyenne en Île-de-France est de 4,7 personnes.",
+        "solution_envisagee": "Or, les aidants constituent un accompagnement essentiel pour les seniors qui souhaitent se maintenir à domicile dans de bonnes conditions.",
+        "objectifs": "C'est pourquoi, afin de soulager les aidants, il a été proposé une journée bien-être aux aidants repérés par le CCAS et le service Animation seniors et familles, grâce à la mobilisation de plusieurs partenaires."
+    },
+    "porteur_initiative": "Titre: Un temps pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Un-temps-pour-soi.pdf  ---  --- SOULAGER LES AIDANTS Les études sont nombreuses pour montrer à la fois l'importance du rôle d'aidant et sa difficulté.",
+    "date": [
+        "20 juin",
+        "20 juin 2024",
+        "juin",
+        "juin 2024",
+        "2025",
+        "2017",
+        "2023",
+        "2024",
+        "depuis 2023",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_temps_pour_soi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_temps_pour_soi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

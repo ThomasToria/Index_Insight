@@ -1,0 +1,44 @@
+{
+    "titre": "Se déplacer pour garder le lien",
+    "territoire": "Il y a même des personnes âgées du quartier qui nous rejoignent.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Grâce à vous, nous pourrons intensifier nos actions pour: lutter contre l’isolement des personnes âgées; soulager la souffrance psychique des personnes âgées, des familles et des aidants; favoriser le répit des aidants et des aidés; inventer l’EHPAD de demain et organiser des alternatives à l’EHPAD.",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Pour lutter contre l’isolement de ses résidents, la Résidence Gustave Prost à Villeurbanne encourage les personnes âgées qui ont des problèmes de mobilité à se déplacer pour garder le lien. « Bien avant la pandémie, on s’est aperçu que lorsque les résidents ne sortaient plus, ils se refermaient sur eux-mêmes et qu’il y avait une perte d’autonomie énorme.",
+        "solution_envisagee": "Ainsi, si vous souhaitez proposer un projet dans ce cadre, veuillez remplir le formulaire suivant.",
+        "objectifs": "Grâce à vous, nous pourrons intensifier nos actions pour: lutter contre l’isolement des personnes âgées; soulager la souffrance psychique des personnes âgées, des familles et des aidants; favoriser le répit des aidants et des aidés; inventer l’EHPAD de demain et organiser des alternatives à l’EHPAD."
+    },
+    "porteur_initiative": "Se déplacer pour garder le lien  https://www.fondationdefrance.org/fr/cat-personnes-agees/se-deplacer-pour-garder-le-lien  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Se déplacer pour garder le lien.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Se déplacer pour garder le lien.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

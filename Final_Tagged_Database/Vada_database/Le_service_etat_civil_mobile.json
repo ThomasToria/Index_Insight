@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Le service état civil mobile",
+    "territoire": "Titre: Le service état civil mobile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1111-pe-le-service-etat-civil-mobile.pdf  ---  --- UNE SOLLICITATION DE LA PART DES AÎNÉS La Ville de Dinard a été plusieurs fois sollicitée pour emprunter un dispositif mobile (disponible à la préfecture) pour réaliser des documents d’identité pour des personnes ne pouvant pas se déplacer.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "UNE VASTE CAMPAGNE Une campagne de renouvellement de cartes d’identité à domicile, destinée aux personnes en perte d’autonomie, a donc été mise en place.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Dinard, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "L’impact est donc important, au-delà de la remise du document d’identité à jour: il ouvre vers d’autres contacts futurs.",
+        "problematique": "Il va donc permettre à des personnes âgées qui ont des difficultés à se déplacer d’anticiper leur besoin de disposer de documents d’identité à jour (pour les caisses de retraite par exemple) et faciliter leur démarche.",
+        "solution_envisagee": "Ce besoin ayant été identifié, l’idée a émergé de proposer une opération sur plusieurs jours afin d’optimiser l’emprunt du matériel et de permettre de toucher plus de publics.",
+        "objectifs": "LE SERVICE ETAT CIVIL MOBILE Fiche PARTAGE D'EXPÉRIENCE N°933 Villes Amies des Aînés en France Ville de Dinard Ville Amie des Aînés depuis 2022 Dinard (35) Faciliter le renouvellement des documents d’identité des personnes âgées isolées et ayant du mal à se déplacer, qu’elles vivent à domicile ou en structure d’accueil Partage des objectifs entre les agents concernés; Définition des modalités par un agent expérimenté du service état-civil; Échange entre directions pour constituer le binôme; Affectation des ressources et organisation du planning de la semaine concernée; Lancement de la communication en février 2025; Campagne en avril 2025, pour une semaine.  ---  --- SUITE DE L’ACTION À DÉTERMINER Le nombre de bénéficiaires dépasse la vingtaine ce qui prouve que le besoin était avéré."
+    },
+    "porteur_initiative": "L’impact est donc important, au-delà de la remise du document d’identité à jour: il ouvre vers d’autres contacts futurs.",
+    "date": [
+        "avril 2025",
+        "février",
+        "février 2025",
+        "2025",
+        "1111",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_service_etat_civil_mobile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_service_etat_civil_mobile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

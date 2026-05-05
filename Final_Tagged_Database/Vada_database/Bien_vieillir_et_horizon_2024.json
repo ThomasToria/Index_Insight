@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Bien vieillir et horizon 2024",
+    "territoire": "Titre: Bien vieillir et horizon 2024 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1025-concours-2023-bien-vieillir-et-horizon-2024.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS AGIR EN FAVEUR DES POPULATIONS VULNÉRABLES L'Office des Sports de la Ville d'Arras a récemment été valorisé pour ses actions destinées aux populations en situation de vulnérabilité(s).",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "La population senior est un public avec lequel ils développe certaines actions, mais les seniors \"vulnérables\" sont de nouvelles cibles.",
+    "description": {
+        "description_generale": "Des indicateurs quantitatifs et qualitatifs regroupant: Le taux de participation et d'absentéisme des bénéficiaires; Le nombre de séances réalisées; Le nombre de bénéficiaires; Le nombre d'entretiens réalisés au cours du suivi individuel; Le nombre de licences prises post-dispositif; L'évolution de la condition physique (grâce aux tests réalisés lors de l'entrée et de la sortie du dispositif); La mesure par questionnaire de satisfaction de la pertinence du projet et des retours sur expériences par les participants; L'évaluation du bien-être et de l'estime de soi par questionnaire; Le taux de participation des bénéficiaires et le nombre de poursuite d'activité au sein des associations locales; L'évolution du suivi qualitatif par les instances dédiées au suivi des personnes âgées; La demande au cours du déroulement du dispositif; L'efficacité de l'action et la fluidité entre les partenaires; La pérennisation du dispositif est une question qui doit être gérée collectivement.",
+        "contexte": "Des séances d'activités physiques adaptées hebdomadaires à destination des personnes âgées (hommes et femmes); 2 formes d’ateliers: en structure ou en dehors; Des activités organisées en mini-cycles afin de faciliter la découverte de plusieurs pratiques.  ---  --- TRAVAILLER À LA PÉRENNISATION DU DISPOSITIF Plusieurs indicateurs seront mesurés au cours du projet.",
+        "problematique": "Dans un premier temps elle participe à répondre aux enjeux sociétaux identifiés au sein des politiques de santé publiques nationales.",
+        "solution_envisagee": "L’ambition est de proposer des créneaux d’activités physiques et sportives pour un public dit \"vulnérable\" dans le cadre de la prévention primaire, secondaire ou tertiaire.",
+        "objectifs": "La volonté est de créer du lien entre les associations et les nouveaux pratiquants, afin de favoriser la poursuite de la pratique dans le cadre associatif."
+    },
+    "porteur_initiative": "Des séances d'activités physiques adaptées hebdomadaires à destination des personnes âgées (hommes et femmes); 2 formes d’ateliers: en structure ou en dehors; Des activités organisées en mini-cycles afin de faciliter la découverte de plusieurs pratiques.  ---  --- TRAVAILLER À LA PÉRENNISATION DU DISPOSITIF Plusieurs indicateurs seront mesurés au cours du projet.",
+    "date": [
+        "2024",
+        "2025",
+        "1025",
+        "2023",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_et_horizon_2024.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bien_vieillir_et_horizon_2024.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

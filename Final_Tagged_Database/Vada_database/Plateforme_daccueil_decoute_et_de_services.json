@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Plateforme d’accueil, d’écoute et de services",
+    "territoire": "Titre: Plateforme d’accueil, d’écoute et de services Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1119-pe-plate-forme-d-accueil-d-ecoute-et-de-services.pdf  ---  --- UNE INITIATIVE SUITE AU COVID De par ses missions, le CCAS anime une action générale de prévention et de développement social dans la commune, en liaison étroite avec les institutions publiques et privées.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "La Municipalité a donc souhaité créer la plateforme d’accueil, d’écoute et de services pour les publics vulnérables afin d’intervenir, comme une réponse sociale adaptée, au plus proche des populations les plus fragiles et notamment les seniors, les personnes en situation de handicap ou atteintes de pathologie lourde, en s’appuyant sur son CCAS et sur un réseau de bénévoles et partenaires institutionnels et associatifs.",
+    "description": {
+        "description_generale": "Titre: Plateforme d’accueil, d’écoute et de services Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1119-pe-plate-forme-d-accueil-d-ecoute-et-de-services.pdf  ---  --- UNE INITIATIVE SUITE AU COVID De par ses missions, le CCAS anime une action générale de prévention et de développement social dans la commune, en liaison étroite avec les institutions publiques et privées.",
+        "contexte": "Si, comme la Ville de Montivilliers, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "La plateforme prend en charge de façon plus confidentielle les situations de publics plus jeunes présentant des pertes d’autonomie ou des situations d’isolement momentané du fait d’une pathologie invalidante et/ou handicapante.",
+        "solution_envisagee": "FONCTIONNEMENT DE LA PLATEFORME En fonction des situations détectées, une intervention à domicile peut être diligentée pour apporter la réponse adaptée à l’appelant (visite de convivialité, aide d’urgence ou soutien ponctuels, accompagnement dans les démarches, mobilisation des droits…).",
+        "objectifs": "Les agents en charge de la plateforme développent, en complément de cet outil, des réponses et offres de services permettant de renforcer la prévention de la perte d’autonomie et de favoriser le lien social."
+    },
+    "porteur_initiative": "Si, comme la Ville de Montivilliers, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "mars 2020",
+        "2025",
+        "1119",
+        "2020",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plateforme_daccueil_decoute_et_de_services.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plateforme_daccueil_decoute_et_de_services.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

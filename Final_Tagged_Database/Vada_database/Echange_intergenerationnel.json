@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Échange intergénérationnel",
+    "territoire": "Titre: Échange intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/709-pe080422-577-echange-intergenerationnel-chamalieres.pdf  ---  --- ENTRETENIR ET FAVORISER LES LIENS SOCIAUX Ce projet participe à f avoriser les liens intergénérationnels au sein de la collectivité, à partir de lien épistolaire, de partage de repas, d'activité, et de services.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Amener chacun des partenaires à collaborer (les enseignants, les écoliers et les seniors).  ---  --- Ces rédactions ont été transmises grâce au CCAS aux bénéficiaires âgés, avec l'objectif d'y répondre.",
+    "description": {
+        "description_generale": "Si c'est le Conseil Municipal des Jeunes qui est à l'initiative de la réflexion et de la proposition du projet, c'est le CCAS qui constitue le relais principal à destination des aînés, le périscolaire constitue quant à lui le relais à destination des écoliers et du conseil municipal jeune.",
+        "contexte": "Le Conseil Municipal des Jeunes a aussi fait émerger une réflexion concernant la situation de personnes agées en manque de contact (contexte covid) et la volonté de proposer une action en leur faveur (décembre 2020).",
+        "problematique": "Il est né de la volonté de rompre l'isolement social de certains ainés (notamment dû à la pandémie) et du souhait de valoriser des savoirs et des compétences.",
+        "solution_envisagee": "Le Conseil Municipal des Jeunes a aussi fait émerger une réflexion concernant la situation de personnes agées en manque de contact (contexte covid) et la volonté de proposer une action en leur faveur (décembre 2020).",
+        "objectifs": "Titre: Échange intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/709-pe080422-577-echange-intergenerationnel-chamalieres.pdf  ---  --- ENTRETENIR ET FAVORISER LES LIENS SOCIAUX Ce projet participe à f avoriser les liens intergénérationnels au sein de la collectivité, à partir de lien épistolaire, de partage de repas, d'activité, et de services."
+    },
+    "porteur_initiative": "Si c'est le Conseil Municipal des Jeunes qui est à l'initiative de la réflexion et de la proposition du projet, c'est le CCAS qui constitue le relais principal à destination des aînés, le périscolaire constitue quant à lui le relais à destination des écoliers et du conseil municipal jeune.",
+    "date": [
+        "décembre 2020",
+        "Janvier 2021",
+        "février 2021",
+        "mars 2021",
+        "2025",
+        "2020",
+        "2021",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Echange_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Echange_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

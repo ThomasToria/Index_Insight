@@ -1,0 +1,51 @@
+{
+    "titre": "Debout les Aînés: une enquête pour améliorer la qualité de vie des séniors",
+    "territoire": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France région Nord Soutenue depuis 2022 par la Fondation de France, l’association Debout les Aînés encourage les personnes âgées du département du Nord à rejouer un rôle actif dans la société.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Debout les Aînés: une enquête pour améliorer la qualité de vie des séniors  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/debout-les-aines-une-enquete-pour-ameliorer-la-qualite-de-vie-des-seniors  Qui sommes-nous?",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "Aujourd’hui, elle lance une enquête inédite sur la qualité de vie des aînés afin de mieux comprendre leurs besoins et attentes et mieux les accompagner.",
+        "solution_envisagee": "Ainsi, si vous souhaitez proposer un projet dans ce cadre, veuillez remplir le formulaire suivant.",
+        "objectifs": "Ce financement a permis de renforcer la formation des bénévoles, d'améliorer son fonctionnement et d’accompagner les personnes peu à l’aise avec les outils numériques."
+    },
+    "porteur_initiative": "Debout les Aînés: une enquête pour améliorer la qualité de vie des séniors  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/debout-les-aines-une-enquete-pour-ameliorer-la-qualite-de-vie-des-seniors  Qui sommes-nous?",
+    "date": [
+        "2022",
+        "2021",
+        "1000",
+        "2025",
+        "depuis 2022",
+        "en 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

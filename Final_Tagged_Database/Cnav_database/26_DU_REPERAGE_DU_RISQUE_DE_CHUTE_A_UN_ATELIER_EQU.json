@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE »",
+    "territoire": "Chaque année, en moyenne 4 parcours sont réalisés dans le cadre d’une convention de partenariat entre les Hospices Civils de Lyon et la Carsat Rhône-Alpes LA LOCALISATION Peut concerner les personnes résidant sur tous les départements limitrophes au département du Rhône mais le plus souvent les parcours sont investis par les rhodaniens.",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Ces actions doivent permettre aux personnes âgées de préserver leur qualité de vie mais également de maintenir ou développer le lien social.",
+    "description": {
+        "description_generale": "LA FINALITÉ La finalité du parcours, grâce au repérage du risque et à la complémentarité des actions qui y sont développées, vise à diminuer la fréquence, le risque et la gravité des chutes tout en travaillant également sur leur dédramatisation.",
+        "contexte": "Titre: « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE » Pages: 47  CARSAT RHÔNE-ALPES PARCOURS COORDONNÉ « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE » LES ACTEURS Porteur(s) de la pépite: Carsat Rhône-Alpes.",
+        "problematique": "À l’issue de la session, un atelier équilibre en 12 séances animé par les équipes de prévention de la Carsat Rhône- Alpes cible particulièrement la problématique chute et vise à diminuer fréquence, risque et gravité tout en travaillant également sur leur dédramatisation.",
+        "solution_envisagee": "Titre: « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE » Pages: 47  CARSAT RHÔNE-ALPES PARCOURS COORDONNÉ « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE » LES ACTEURS Porteur(s) de la pépite: Carsat Rhône-Alpes.",
+        "objectifs": "LA FINALITÉ La finalité du parcours, grâce au repérage du risque et à la complémentarité des actions qui y sont développées, vise à diminuer la fréquence, le risque et la gravité des chutes tout en travaillant également sur leur dédramatisation."
+    },
+    "porteur_initiative": "Titre: « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE » Pages: 47  CARSAT RHÔNE-ALPES PARCOURS COORDONNÉ « DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE » LES ACTEURS Porteur(s) de la pépite: Carsat Rhône-Alpes.",
+    "date": [
+        "janvier 2017",
+        "2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\26_DU_REPERAGE_DU_RISQUE_DE_CHUTE_A_UN_ATELIER_EQU.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\26_DU_REPERAGE_DU_RISQUE_DE_CHUTE_A_UN_ATELIER_EQU.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

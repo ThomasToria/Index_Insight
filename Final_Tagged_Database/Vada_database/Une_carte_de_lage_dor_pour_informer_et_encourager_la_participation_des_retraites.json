@@ -1,0 +1,42 @@
+{
+    "titre": "Titre: Une carte de l'âge d'or pour informer et encourager la participation des retraités",
+    "territoire": "Titre: Une carte de l'âge d'or pour informer et encourager la participation des retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/118-pe-une-carte-de-l-age-d-or-pour-informer-et-encourager-la-participation-des-retraites-mise-en-forme-2023.pdf  ---  --- UN SERVICE D‘INFORMATION La Carte de l’âge d’or permet avant tout à ses bénéficiaires d’être informés régulièrement des animations, activités ou sorties organisées par le CCAS de la ville.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Une fois inscrits à ce service, les retraités chamaliérois reçoivent en effet un courrier à chaque occasion: galette des rois, spectacles, repas de fin d’année… Afin d’améliorer et de dématérialiser certaines communications un mailing est utilisé auprès des bénéficiaires ayant accepté ce type de communication.",
+    "description": {
+        "description_generale": "Chamalière Ville Amie des Aînés depuis 2015 Chamalière (63)  ---  --- Si, comme la Ville de Chamalière vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com OBTENIR LA CARTE Pour obtenir la Carte de l’âge d’or, les retraités chamaliérois sont invités à venir remplir un dossier au CCAS.",
+        "contexte": "Une fois inscrits à ce service, les retraités chamaliérois reçoivent en effet un courrier à chaque occasion: galette des rois, spectacles, repas de fin d’année… Afin d’améliorer et de dématérialiser certaines communications un mailing est utilisé auprès des bénéficiaires ayant accepté ce type de communication.",
+        "problematique": "Une fois inscrits à ce service, les retraités chamaliérois reçoivent en effet un courrier à chaque occasion: galette des rois, spectacles, repas de fin d’année… Afin d’améliorer et de dématérialiser certaines communications un mailing est utilisé auprès des bénéficiaires ayant accepté ce type de communication.",
+        "solution_envisagee": "Elle permet de profiter des activités proposées à prix réduits et donne accès à des événements organisés par la ville.",
+        "objectifs": "Une fois inscrits à ce service, les retraités chamaliérois reçoivent en effet un courrier à chaque occasion: galette des rois, spectacles, repas de fin d’année… Afin d’améliorer et de dématérialiser certaines communications un mailing est utilisé auprès des bénéficiaires ayant accepté ce type de communication."
+    },
+    "porteur_initiative": "Une fois inscrits à ce service, les retraités chamaliérois reçoivent en effet un courrier à chaque occasion: galette des rois, spectacles, repas de fin d’année… Afin d’améliorer et de dématérialiser certaines communications un mailing est utilisé auprès des bénéficiaires ayant accepté ce type de communication.",
+    "date": [
+        "2025",
+        "2023",
+        "2015",
+        "depuis 2015",
+        "En 2023"
+    ],
+    "thematique": [],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_carte_de_lage_dor_pour_informer_et_encourager_la_participation_des_retraites.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_carte_de_lage_dor_pour_informer_et_encourager_la_participation_des_retraites.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.0,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "titre": "L’évaluation de l’autonomie. Des outils aux usages (EVAUTO)",
+    "territoire": "Il s’agira d’abord de sélectionner les sites dont la participation au projet pourrait nous être acquise parmi les structures visées par l’évaluation (équipe départementale APA, MDPH, service d’aide à domicile, réseau gérontologique, EHPAD, service de neurologie et de gérontologie en CHU, etc.).",
+    "echelle": [
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Des outils aux usages (EVAUTO) Résumé de soumission Ce projet vise à poursuivre et à approfondir à la fois les travaux que la Caisse Nationale de Solidarité pour l’Autonomie a consacrés aux outils d’évaluation de l’autonomie et à leurs usages auprès des personnes âgées et des personnes en situation de handicap (CNSA, 2008 et 2009; Barreyre et Peintre, 2009).",
+    "description": {
+        "description_generale": "Des outils aux usages (EVAUTO) Résumé de soumission Ce projet vise à poursuivre et à approfondir à la fois les travaux que la Caisse Nationale de Solidarité pour l’Autonomie a consacrés aux outils d’évaluation de l’autonomie et à leurs usages auprès des personnes âgées et des personnes en situation de handicap (CNSA, 2008 et 2009; Barreyre et Peintre, 2009).",
+        "contexte": "De la même manière, leur usage serait fortement dépendant de leur contexte d’emploi, de sorte que cet usage intégrerait peu l’usager lorsque l’évaluation serait d’abord médicale pour le mobiliser davantage (et parfois de façon idéalisée) dans le cadre d’actions à visée participative, à l’instar d’une démarche par définition de projet par exemple.",
+        "problematique": "LES ACTUALITÉS 03/03/2026 Enrichissez le catalogue des études en santé humaine > Lire la suite 27/02/2026 Deuil après suicide: résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique > Lire la suite 05/02/2026 Troubles de l’usage des opioïdes: pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments? > Lire la suite 10/04/2025 FReSH, le portail des études en santé > Lire la suite LES MEMBRES DE L'IRESP INSCRIVEZ-VOUS A NOTRE NEWSLETTER L'institut Missions Organisation Les instances de l'IReSP Équipe Contact Recrutement Mentions légales Politique de confidentialité IReSP Institut pour la Recherche en Santé Publique Paris Biopark Bâtiment A – 1er étage 8, rue de la croix Jarry 75013 Paris 01 82 53 34 64 info@iresp.net Agence Web AUDOUIN REALISATIONS",
+        "solution_envisagee": "Reste toutefois que l’utilisation concrète de ces grilles ne peut être totalement appréciée si elle n’est pas intégrée à l’ensemble des éléments plus ou moins formels que les évaluateurs prennent en compte (observations, entretiens, témoignages, marques d’évolutions dans le temps, etc.), d’où le sens du protocole qu’on propose de développer ici.",
+        "objectifs": "Des outils aux usages (EVAUTO) Résumé de soumission Ce projet vise à poursuivre et à approfondir à la fois les travaux que la Caisse Nationale de Solidarité pour l’Autonomie a consacrés aux outils d’évaluation de l’autonomie et à leurs usages auprès des personnes âgées et des personnes en situation de handicap (CNSA, 2008 et 2009; Barreyre et Peintre, 2009)."
+    },
+    "porteur_initiative": "Equipes du projet Coordonnateur: LE MOIGNE Philippe N° ORCID: 0000-0001-7808-5428 Structure administrative de rattachement: Inserm Laboratoire ou équipe: Cermes3 - CNRS UMR 8211, Inserm U988 N° RNSR: 200217606H Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2022",
+        "2008",
+        "2009",
+        "0000",
+        "0001",
+        "7808",
+        "5428",
+        "8211",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\084_2022_l_evaluation_de_l_autonomie_des_outils_aux_usages_evauto.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\084_2022_l_evaluation_de_l_autonomie_des_outils_aux_usages_evauto.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

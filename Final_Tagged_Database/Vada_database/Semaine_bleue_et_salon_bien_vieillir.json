@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Semaine bleue et salon bien vieillir",
+    "territoire": "Titre: Semaine bleue et salon bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/934-pe-morteau-semaine-bleue-et-salon-bien-vieillir.pdf  ---  --- DEPUIS SEPTEMBRE 2022 La brochure \"Être senior à Morteau\" éditée chaque année apporte les informations utiles au quotidien.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Puis passer à l’organisation proprement dite de l'événement (programmation, recensement des moyens matériels, édition des supports de communication, gestion des inscriptions à certaines animations) Des affiches sucettes ont été disposées dans la ville, des flyers ont été distribués et envoyés avec la brochure \"Être seniors à Morteau\" dans tous les foyers de plus de 65 ans.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Morteau, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Semaine bleue et salon bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/934-pe-morteau-semaine-bleue-et-salon-bien-vieillir.pdf  ---  --- DEPUIS SEPTEMBRE 2022 La brochure \"Être senior à Morteau\" éditée chaque année apporte les informations utiles au quotidien.",
+        "problematique": "Titre: Semaine bleue et salon bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/934-pe-morteau-semaine-bleue-et-salon-bien-vieillir.pdf  ---  --- DEPUIS SEPTEMBRE 2022 La brochure \"Être senior à Morteau\" éditée chaque année apporte les informations utiles au quotidien.",
+        "solution_envisagee": "Proposer la découverte d'activités favorables au bien-vieillir.",
+        "objectifs": "ORGANISATION Il faut organiser des rencontres avec les différents partenaires afin de définir une date et lister les participants."
+    },
+    "porteur_initiative": "Titre: Semaine bleue et salon bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/934-pe-morteau-semaine-bleue-et-salon-bien-vieillir.pdf  ---  --- DEPUIS SEPTEMBRE 2022 La brochure \"Être senior à Morteau\" éditée chaque année apporte les informations utiles au quotidien.",
+    "date": [
+        "SEPTEMBRE 2022",
+        "2025",
+        "2022",
+        "2017",
+        "depuis 2017",
+        "depuis 2022",
+        "En 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Semaine_bleue_et_salon_bien_vieillir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Semaine_bleue_et_salon_bien_vieillir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,125 @@
+Vieillissement en action : déterminants multidomaines et risque de future démence : analyses d’apprentissage automatique supervisé/non supervisé dans l’enquête sur la santé, le vieillissement et la retraite en Europe (SHARE) – Laurent CLERET DE LANGAVANT
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/vieillissement-en-action-determinants-multidomaines-et-risque-de-future-demence-analyses-dapprentissage-automatique-supervise-non-supervise-dans-lenquete-sur-la-sante-le-vieillissement-et-la-re/
+Programme concerné : Services, interventions et politiques favorables à la santé
+Nom de l'appel : Général - volet Prévention et promotion de la santé
+Année : 2018
+État du projet : Clos
+Durée : 36 mois
+Subvention allouée : 98 720,00 €
+Financeurs : DGS
+Disciplines : Santé et travail / Santé mentale / Maladies chroniques
+
+Vieillissement en action : déterminants multidomaines et risque de future démence : analyses d'apprentissage automatique supervisé/non supervisé dans l'enquête sur la santé, le vieillissement et la retraite en Europe (SHARE) - Laurent CLERET DE LANGAVANT - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Vieillissement en action : déterminants multidomaines et risque de future démence : analyses d’apprentissage automatique supervisé/non supervisé dans l’enquête sur la santé, le vieillissement et la retraite en Europe (SHARE) – Laurent CLERET DE LANGAVANT
+Programme concerné
+Services, interventions et politiques favorables à la santé
+Nom de l'appel
+Général - volet Prévention et promotion de la santé
+Année
+2018
+Modalité de soutien
+Projet de recherche complet
+État du projet
+Clos
+Durée
+36 mois
+Subvention allouée
+98 720,00 €
+Financeurs
+DGS
+Disciplines
+Santé et travail / Santé mentale / Maladies chroniques
+Vieillissement en action : déterminants multidomaines et risque de future démence : analyses d’apprentissage automatique supervisé/non supervisé dans l’enquête sur la santé, le vieillissement et la retraite en Europe (SHARE) – Laurent CLERET DE LANGAVANT
+Résumé de soumission
+Context: Dementia is a major public health problem in Europe, due to the large number of people affected by a loss of autonomy and the socio-economic impact of their care. Recent publications suggest that around 35% of dementia cases could be prevented if healthy lifestyles were adopted by the population (Norton, 2015; Livingston, 2017). Understanding Europe-wide the determinants (contributing factors and protective factors) of dementia when people are still working is critical to develop efficient prevention programs of future dementia. The Survey of Health Ageing and Retirement in Europe (SHARE), a population-based longitudinal cohort in individuals over the age of 50 from 27 different countries could, thanks to statistical panel analyzes, make it possible to explore the determinants of dementia, since it collects at the same time socio-demographic, environmental, health care and economic data, as well as objective physical and biological biomarkers. Until recently, this exploration was limited by the fact the diagnosis of dementia was missing or only self-declared (and thus underestimated) in SHARE. We recently demonstrated (Cleret de Langavant et al., 2018) that unsupervised machine learning could be used to identify individuals with high likelihood of dementia in SHARE and other population surveys. The use of such methodology offers the opportunity to study the determinants of dementia in an ageing population still working. This project complements the project TrackingDementia (ongoing IReSP-CNSA Loss of Autonomy grant 2018) by adding a prevention dimension in the more restraint population of late-life workers. Objectives Focusing on the participants in the wave 4 of SHARE cohort that are still working but do not suffer from dementia (N=3811) according to our unsupervised machine learning classification (Cleret de Langavant, 2018), we aim: 1) To identify within this cohort of non-demented participants at wave 4 a cluster of individuals that will decline and become demented in the subsequent waves (SHARE waves 5, 6, 7) ; 2) To study the psycho-social determinants accounting for this future cognitive decline, with a special focus on late-life occupations, physical activity, multi-comorbidities, socio-economic status, environment and healthcare protection, from a European perspective; 3) To elaborate a simple algorithm to identify the risk of future cognitive decline in a late-life worker that could be used for screening by the occupational physician in order to orient the at risk worker toward dedicated prevention programs; 4) To compare the dementia risk of the population of late-life workers in SHARE to a matched population of non-workers of the same age, gender and education, in order to decipher if the predictive algorithm for cognitive decline and dementia also applies in non-workers. MethodsThis project will exploit the dataset from SHARE (waves 4 to 7) that is freely available for researchers. Participants with high likelihood of dementia according to our classification with hierarchical clustering after principal components (Cleret de Langavant, 2018) will be discarded at wave 4. Two longitudinal cohorts will be constituted: one cohort working at wave 4 without dementia, and another non-working cohort age, gender and education matched. The risk of future decline and dementia will be assessed using two complementary unsupervised machine learning methods: 1) hierarchical cluster after PCA at each wave 5, 6, and 7 (FactoMineR, R software); 2) longitudinal cluster analysis of the waves 4, 5, 6, 7 (kmlShape, R software). Predictive models based on these clusters will be then elaborated using survival analyses, logistic regressions, classification trees and random forests algorithms. These methods will allow to creation of simple algorithms for identifying participants at risk of future cognitive decline and dementia, but also to give information about the determinants of this decline. Comparison of the working and the non-working cohorts will allow to identify determinants the most important in the context of late-life occupancy. Perspectives Using the rich dataset of SHARE we expect to provide a simple tool to predict future cognitive decline and dementia applicable for late-life workers. This tool will help to orient these at-risk persons toward personalized prevention and care pathways intended to improve their future outcomes. Cross-countries comparisons will help identifying determinants and health policies that are associated with less severe impact of this cognitive decline and might help to provide informed recommendations for health policy stakeholders. This project could be in the future extended to the different cohorts built onto the same model as SHARE (for example HRS in the United States, CHARLS in China, MHAS in Mexico) and offer a global perspective for improving late-life workers health.
+Synthèse finale du projet
+SHARE _ Laurent CLERET DE LANGAVANT
+Equipes du projet
+Coordonnateur :
+CLERET DE LANGAVANT Laurent
+N° ORCID :
+0000-0001-6551-4641
+Structure administrative de rattachement :
+Ecole Normale Supérieure
+Laboratoire ou équipe :
+Inserm U955 Equipe 1, ENS, Neuropsychologie Interventionnelle,Inserm et Ecole Normale Supérieure, Département d'Etudes Cognitives
+N° RNSR :
+200919261B
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

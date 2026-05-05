@@ -1,0 +1,55 @@
+{
+    "titre": "Living lab régional Autonomos",
+    "territoire": "Nos premiers échanges entre chercheurs et cochercheurs, alimentés par une recherche documentaire, ont ainsi identifié deux thématiques majeures, à explorer lors de notre première recherche-action commune: le vieillissement des personnes en situation de handicap et l’attractivité des métiers de l’accompagnement et du soin.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Le projet Autonomos, dans cette phase d’amorçage aura ainsi pour objectifs et perspectives: * De mettre en œuvre la méthodologie living lab, responsable et participative, permettant aux personnes concernées d’être de véritables partenaires de recherche; * De réaliser l’état de l’art et d’écrire le contrat de définition de la première rechercheaction; * D’associer pour ce faire, deux équipes partenaires, la Mutualité Française Saôneet-Loire (MFSL) et la Mutualité Française Comtoise (MFC) qui portent en région des projets et des expertises complémentaires dans les domaines du handicap et du grand âge, et sont des acteurs engagés pour la capacitation des usagers et des professionnels, et des offres médicosociales innovantes.",
+    "description": {
+        "description_generale": "Living lab régional Autonomos  Statut tri: accepted Source: IReSP URL: https://iresp.net/projets_finances/living-lab-regional-autonomos/ Programme concerné: Autonomie Nom de l'appel: Blanc Année: 2024 État du projet: En cours Durée: 12 mois Subvention allouée: 47 320,00 Financeurs: CNSA Disciplines: Sciences humaines et sociales, Design social  Living lab régional Autonomos - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » Living lab régional Autonomos Programme concerné Autonomie Nom de l'appel Blanc Année 2024 Modalité de soutien Projet d'amorçage et pilote Démarche de recherche du projet Recherche participative État du projet En cours Durée 12 mois Subvention allouée 47 320,00 Financeurs CNSA Disciplines Sciences humaines et sociales, Design social Living lab régional Autonomos Résumé de soumission Ce projet d’amorçage s’inscrit dans la poursuite des réflexions menées depuis 2022 par le PGI, gérontopôle de Bourgogne-Franche-Comté et un cercle de partenaires.",
+        "contexte": "Cet impensé scientifique est alimenté par des politiques en « silos » des secteurs du grand âge et du handicap, qui sont pourtant face à des problématiques similaires.",
+        "problematique": "Ces recherches, menées de façon collaborative entre chercheurs, partenaires professionnels ou institutionnels et personnes concernées, permettent de croiser les regards et visent à coconstruire des actions concrètes et à produire des connaissances autour de celles-ci, face aux enjeux communs et en réponse aux besoins des acteurs.",
+        "solution_envisagee": "Nos premiers échanges entre chercheurs et cochercheurs, alimentés par une recherche documentaire, ont ainsi identifié deux thématiques majeures, à explorer lors de notre première recherche-action commune: le vieillissement des personnes en situation de handicap et l’attractivité des métiers de l’accompagnement et du soin.",
+        "objectifs": "Le projet Autonomos, dans cette phase d’amorçage aura ainsi pour objectifs et perspectives: * De mettre en œuvre la méthodologie living lab, responsable et participative, permettant aux personnes concernées d’être de véritables partenaires de recherche; * De réaliser l’état de l’art et d’écrire le contrat de définition de la première rechercheaction; * D’associer pour ce faire, deux équipes partenaires, la Mutualité Française Saôneet-Loire (MFSL) et la Mutualité Française Comtoise (MFC) qui portent en région des projets et des expertises complémentaires dans les domaines du handicap et du grand âge, et sont des acteurs engagés pour la capacitation des usagers et des professionnels, et des offres médicosociales innovantes."
+    },
+    "porteur_initiative": "Equipes du projet Coordonnateur: QUIBEL Clémence Structure administrative de rattachement: Pôle de gérontologie et d'innovation Bourgogne-Franche-Comté (PGI) Laboratoire ou équipe: Pôle de gérontologie et d'innovation Bourgogne-Franche-Comté (PGI) Autres équipes participantes: Responsable de l'équipe 2: DANIERE Sophie Mutualité Française Saône-et-Loire Responsable de l'équipe 3: RIZZONE Jean-Charles Mutualité Française Comtoise Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2024",
+        "2022",
+        "2026",
+        "2025",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\087_2024_living_lab_regional_autonomos.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\087_2024_living_lab_regional_autonomos.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

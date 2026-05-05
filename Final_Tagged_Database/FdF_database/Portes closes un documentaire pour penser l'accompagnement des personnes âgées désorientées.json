@@ -1,0 +1,41 @@
+{
+    "titre": "Portes closes: un documentaire pour penser l’accompagnement des personnes âgées désorientées",
+    "territoire": "En juin 2018, le documentaire Portes Closes a été primé au festival Green Awards de Deauville, dans la catégorie Transition démographique.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Réalisé par Christophe Ramage, le documentaire Portes closes donne la parole aux personnes âgées, aux familles et aux professionnels qui s’interrogent: le respect du libre arbitre serait-il incompatible avec les exigences de sécurité?",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "Portes closes: un documentaire pour penser l’accompagnement des personnes âgées désorientées  https://www.fondationdefrance.org/fr/cat-personnes-agees/portes-closes-un-documentaire-pour-penser-l-accompagnement-des-personnes-agees-desorientees  Qui sommes-nous?",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "Portes closes: un documentaire pour penser l’accompagnement des personnes âgées désorientées  https://www.fondationdefrance.org/fr/cat-personnes-agees/portes-closes-un-documentaire-pour-penser-l-accompagnement-des-personnes-agees-desorientees  Qui sommes-nous?",
+    "date": [
+        "juin 2018",
+        "2018"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Portes closes un documentaire pour penser l'accompagnement des personnes âgées désorientées.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Portes closes un documentaire pour penser l'accompagnement des personnes âgées désorientées.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

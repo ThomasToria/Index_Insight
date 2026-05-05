@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: L’ensemble intergénérationnel de la Croix-Rousse",
+    "territoire": "Titre: L’ensemble intergénérationnel de la Croix-Rousse Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/404-pe-ensemble-inter-croix-rousse-mise-en-forme-2023.pdf  ---  --- Mixant les générations: La personne âgée se trouve largement valorisée comme “passeur de mémoire”.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "L’espace public est reconfiguré: en permettant à des personnes extérieures de venir au sein de l’établissement, la parole des personnes âgées résidentes est mieux prise en compte.",
+    "description": {
+        "description_generale": "EHPAD Saint-François d’Assise: Présentation de l’action aux résidents de la structure, mise à disposition d’une salle pour une représentation grand-public.",
+        "contexte": "DIVERSIFIER L’OFFRE DE LOGEMENTS L’offre d’hébergement en EHPAD pour personnes âgées dépendantes laisse aujourd’hui un double constat: les personnes âgées en institution souffrent d’un manque de reconnaissance et les maisons de retraite sont vécues comme un lieu d’isolement spatial, générationnel et social.",
+        "problematique": "La proposition d’un espace intergénérationnel (EHPAD/Pavillon) vise à répondre à plusieurs difficultés: le vieillissement global de la population lyonnaise, la volonté de rester à domicile entraînant un risque d’isolement accélérant l’entrée dans la dépendance et la peur de devenir “pris en charge”.",
+        "solution_envisagee": "Les réponses actuelles abordent ces problématiques en proposant une entrée en institution, ou un accompagnement médical/thérapeutique.",
+        "objectifs": "La proposition d’un espace intergénérationnel (EHPAD/Pavillon) vise à répondre à plusieurs difficultés: le vieillissement global de la population lyonnaise, la volonté de rester à domicile entraînant un risque d’isolement accélérant l’entrée dans la dépendance et la peur de devenir “pris en charge”."
+    },
+    "porteur_initiative": "Titre: L’ensemble intergénérationnel de la Croix-Rousse Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/404-pe-ensemble-inter-croix-rousse-mise-en-forme-2023.pdf  ---  --- Mixant les générations: La personne âgée se trouve largement valorisée comme “passeur de mémoire”.",
+    "date": [
+        "09/07/2018",
+        "2025",
+        "2023",
+        "2011",
+        "2010",
+        "2012",
+        "2018",
+        "2016",
+        "depuis 2012",
+        "en 2011",
+        "en 2010",
+        "En 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lensemble_intergenerationnel_de_la_Croix-Rousse.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lensemble_intergenerationnel_de_la_Croix-Rousse.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

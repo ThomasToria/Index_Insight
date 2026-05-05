@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Séjour intergénérationnel Part’âge",
+    "territoire": "Coût: 19 142€ Pays de Mormal Ville Amie des Aînés depuis 2016 Pays de Mormal (59)  ---  --- UNE PLUS-VALUE POUR TOUS En 2018, 31 personnes âgées dont 6 habitant la Communauté de Communes du Pays de Mormal (CCPM) et 9 élèves de la Maison Familiale Rurale d’Avesnes (MFR) ont participé au séjour.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "En 2019, 26 personnes âgées habitant la CCPM (dont 6 résidents de l’EHPAD Harmonie de Le Quesnoy) et 9 élèves de la MFR de Soissons étaient inscrits.",
+    "description": {
+        "description_generale": "Les financeurs du projet ont été les suivants: Communauté de communes du Pays de Mormal, ANCV, AVMA, EHPAD résidence Harmonie.",
+        "contexte": "Coût: 19 142€ Pays de Mormal Ville Amie des Aînés depuis 2016 Pays de Mormal (59)  ---  --- UNE PLUS-VALUE POUR TOUS En 2018, 31 personnes âgées dont 6 habitant la Communauté de Communes du Pays de Mormal (CCPM) et 9 élèves de la Maison Familiale Rurale d’Avesnes (MFR) ont participé au séjour.",
+        "problematique": "Ce séjour a permis de rendre accessible pour des personnes âgées en situation de fragilité et/ou d’isolement un temps de vacances et de loisirs.",
+        "solution_envisagee": "Après la validation du séjour par le responsable de l’établissement scolaire, une réunion partenariale sur l’avancée du projet au sein du groupe de travail Santé-aidants de la CADA a été mise en place.",
+        "objectifs": "Les liens intergénérationnels sont également soulignés dans ces audits, avec une envie de les voir se renforcer."
+    },
+    "porteur_initiative": "Coût: 19 142€ Pays de Mormal Ville Amie des Aînés depuis 2016 Pays de Mormal (59)  ---  --- UNE PLUS-VALUE POUR TOUS En 2018, 31 personnes âgées dont 6 habitant la Communauté de Communes du Pays de Mormal (CCPM) et 9 élèves de la Maison Familiale Rurale d’Avesnes (MFR) ont participé au séjour.",
+    "date": [
+        "27 avril 2019",
+        "avril 2018",
+        "avril 2019",
+        "janvier 2019",
+        "2025",
+        "2023",
+        "2018",
+        "2019",
+        "2016",
+        "depuis 2016",
+        "En 2018",
+        "En 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejour_intergenerationnel_Partage.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sejour_intergenerationnel_Partage.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

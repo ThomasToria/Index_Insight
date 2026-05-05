@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Guide lillois de l’adaptation des logements à la perte d’autonomie",
+    "territoire": "Titre: Guide lillois de l’adaptation des logements à la perte d’autonomie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/798-concours-2022-19-guide-lillois.pdf  ---  --- UN GUIDE POUR INFORMER SUR LES TYPES DE TRAVAUX D'ADAPTATION DU LOGEMENT Avec l'avancée en âge et les potentielles pertes d'autonomie fonctionnelles qui y sont liées, le maintien à domicile s'avère parfois complexe alors même qu'il relèverait du choix de vie de la personne âgée.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "L'adaptation du logement constitue un des leviers permettant le maintien de la personne âgée dans son logement, mais beaucoup de personnes âgées ne se projettent pas et n'effectuent pas de travaux, notamment par manque d'information sur la nature des démarches concrètes à effectuer.",
+    "description": {
+        "description_generale": "UN PROJET RENDU POSSIBLE GRÂCE AUX PARTENAIRES Le Département et la MDPH du Nord, la CARSAT Hauts de France, et la MEL (en tant que délégataire de l'ANAH), ont contribué au guide en vérifiant les données propres à leurs dispositifs de subvention.",
+        "contexte": "Ces constats ont amené la collectivité à intégrer dans le plan d'action la création et l'édition d'un guide centralisant l'ensemble des informations utiles sur un support unique, à la fois synthétique et exhaustif, GUIDE LILLOIS DE L'ADAPTATION DES LOGEMENTS A LA PERTE D'AUTONOMIE Fiche PARTAGE D'EXPÉRIENCE N°664 Villes Amies des Aînés en France Lille (59) Ville Membre depuis 2017 Sensibiliser et informer la population âgée et leurs proches (voire les professionnels) à la question de l'adaptation du logement à la perte d'autonomie.",
+        "problematique": "DES ATELIERS PARTICIPATIFS QUI ONT MENÉ À UNE CENTRALISATION DE L'INFORMATION GRÂCE AU GUIDE Les ateliers participatifs menés en 2018 dans le cadre de la démarche Villes Amies des Aînés ont fait ressortir un besoin d'information sur les solutions et dispositifs dédiés à l'aménagement des logements à la perte d'autonomie.",
+        "solution_envisagee": "La création du guide Lillois de l'adaptation du logement à la perte d'autonomie favorise ainsi une transition de vie liée à la perte d'autonomie, en sensibilisant et informant sur des solutions existantes.",
+        "objectifs": "Les travaux d'adaptation du logement engagés suite à la lecture du guide permettent quant à eux d'améliorer la qualité de vie et la sécurité des personnes âgées à leur domicile."
+    },
+    "porteur_initiative": "Une réunion de professionnels de la gérontologie a eu lieu le 16 septembre 2020, présentant aux acteurs locaux (professionnels de l'habitat, bailleurs, porteurs de dispositifs de financement de travaux,...) une première trame \"martyre\".",
+    "date": [
+        "16 septembre 2020",
+        "19 novembre 2021",
+        "septembre 2020",
+        "juillet 2021",
+        "novembre 2021",
+        "juin 2022",
+        "mars 2025",
+        "2025",
+        "2022",
+        "2018",
+        "2017",
+        "2019",
+        "2020",
+        "2021",
+        "depuis 2017",
+        "en 2018",
+        "En 2019",
+        "En 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

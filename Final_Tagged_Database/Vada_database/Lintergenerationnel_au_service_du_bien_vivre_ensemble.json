@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: L'intergénérationnel au service du bien vivre ensemble",
+    "territoire": "Titre: L'intergénérationnel au service du bien vivre ensemble Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/692-pe-11-binome21-dijon.pdf  ---  --- Concours  RFVAA 2021 LA COHABITATION INTERGÉNÉRATIONNELLE CONTRE L’ISOLEMENT Un état des lieux a mis en évidence que 20% de la population âgée du département de la Côte d’Or connaissait des problèmes de solitude et d’isolement.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "UN PROJET PERMIS PAR DIVERS PARTENAIRES Plusieurs partenariats avec le conseil départementa l, les mairies, les CCAS, les clubs de retraités, les associations d’ai de à la personne, des professionnels du secteur médico-social, ont permis de recenser les besoins des personnes âgées.",
+    "description": {
+        "description_generale": "Organiser les phases de présentation, de cohabitation et de fin de la cohabitation.  ---  --- 2015 pour la mise en place du projet global d'actions intergénérationnelles luttant contre l'isolement des seniors sur le département.",
+        "contexte": "De ce constat est né le projet qui est constitué de visites de convivialité et de cohabitations intergénérationnelles.",
+        "problematique": "Les seniors ciblés par le projet dans sa globalité sont les personnes isolées, les personnes avec un sentiment d'isolement ou traduisant un besoin de sécurité et de présence que ce soit lié à un isolement géographique, familial, à peu de contacts tout au long de la semaine, à des difficultés pour sortir de leur lieu de vie (logement sans ascenseur, perte de mobilité,...) ou encore à des difficultés relationnelles avec autrui du fait de pathologies.",
+        "solution_envisagee": "Organiser les phases de présentation, de cohabitation et de fin de la cohabitation.  ---  --- 2015 pour la mise en place du projet global d'actions intergénérationnelles luttant contre l'isolement des seniors sur le département.",
+        "objectifs": "SUITE DE L’ACTION Pour pérenniser et développer l’action, plusieurs projets et objectifs sont prévus comme: le développement du nombre de binômes pour la cohabitation intergénérationnelle, des nouveaux axes de partenariat avec le CCAS et la ville de Dijon, la reprise du projet de partenariat avec un bailleur social pour une implication dans un habitat partagé, la construction en cours d'un projet d'habitat partagé en secteur rural, un partenariat à consolider avec des organismes proposant des contrats de qualification et la reconduction d'un partenariat avec une institution préparant l'insertion professionnelle et sociale de jeunes avec légère déficience."
+    },
+    "porteur_initiative": "Les partenaires des réseaux en lien avec les jeunes sont sollicités: universités, Mission locale, CRIJ, instituts de formation en apprentissage.",
+    "date": [
+        "décembre 2010",
+        "2025",
+        "2021",
+        "2010",
+        "2020",
+        "2015",
+        "2012",
+        "2019",
+        "depuis 2015",
+        "depuis 2012",
+        "depuis 2019",
+        "En 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lintergenerationnel_au_service_du_bien_vivre_ensemble.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lintergenerationnel_au_service_du_bien_vivre_ensemble.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

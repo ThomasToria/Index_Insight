@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Des rencontres intergénérationnelles pour lutter contre l'isolement",
+    "territoire": "Titre: Des rencontres intergénérationnelles pour lutter contre l'isolement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/180-pe-lutte-contre-l-isolement-mise-en-forme-2023.pdf  ---  --- LES INTERGÉNÉREUX “Les Intergénéreux” est une action qui a été développée par Unis’cité.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Concrètement, il s’agit de proposer à des jeunes en service civique d’intervenir, en équipe, dans les établissements ou à domicile pour faire des visites de convivialité, proposer des sorties, recueillir la mémoire des personnes âgées ou encore valoriser leurs savoirs et leur mémoire.",
+    "description": {
+        "description_generale": "A LYON, UN DISPOSITIF QUI FONCTIONNE A Lyon, dans le cadre de cette action de lutte contre l’isolement, 19 personnes âgées ont été rencontrées à leur domicile dont 12 d’entre elles qui ont été visitées toutes les semaines.",
+        "contexte": "Titre: Des rencontres intergénérationnelles pour lutter contre l'isolement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/180-pe-lutte-contre-l-isolement-mise-en-forme-2023.pdf  ---  --- LES INTERGÉNÉREUX “Les Intergénéreux” est une action qui a été développée par Unis’cité.",
+        "problematique": "Titre: Des rencontres intergénérationnelles pour lutter contre l'isolement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/180-pe-lutte-contre-l-isolement-mise-en-forme-2023.pdf  ---  --- LES INTERGÉNÉREUX “Les Intergénéreux” est une action qui a été développée par Unis’cité.",
+        "solution_envisagee": "Concrètement, il s’agit de proposer à des jeunes en service civique d’intervenir, en équipe, dans les établissements ou à domicile pour faire des visites de convivialité, proposer des sorties, recueillir la mémoire des personnes âgées ou encore valoriser leurs savoirs et leur mémoire.",
+        "objectifs": "Le projet Intergénéreux vise à réduire l’isolement des personnes âgées recevant peu de visites, de développer les liens intergénérationnels, de favoriser le bien-être des aînés et de contribuer au maintien de l’autonomie des personnes visitées."
+    },
+    "porteur_initiative": "Titre: Des rencontres intergénérationnelles pour lutter contre l'isolement Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/180-pe-lutte-contre-l-isolement-mise-en-forme-2023.pdf  ---  --- LES INTERGÉNÉREUX “Les Intergénéreux” est une action qui a été développée par Unis’cité.",
+    "date": [
+        "juin 2015",
+        "octobre 2014",
+        "12/08/2015",
+        "2025",
+        "2023",
+        "2014",
+        "2015",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Expo Mix'âges",
+    "territoire": "Titre: Expo Mix'âges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/834-concours-2022-63-expo-mix-ages.pdf  ---  --- UNE EXPOSITION DE LIENS INTERGÉNÉRATIONNELS \"L'exposition Mix'ages\" est la résultante d’un projet artistique de communication impulsé par l’Institut de Formation Sociale des Yvelines du Conseil départemental (IFSY), en partenariat avec la Maison Départementale de l’Autonomie des Yvelines.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "L’IFSY a préparé et mis en scène de septembre à décembre 2021 des rencontres intergénérationnelles entre étudiants et seniors afin de briser les préjugés liés à l’âge et suggérer des manières possibles d’être ensemble.",
+    "description": {
+        "description_generale": "UN PROJET ARTISTIQUE DE COMMUNICATION POUR FAVORISER DES RENCONTRES HUMAINES Dans un contexte de confinement, de rupture de lien social, de sentiment d'exclusion, mais aussi de stigmatisation des seniors, ce projet pédagogique a pu générer des rencontres entre seniors et étudiants initiant un espace de dialogue autour des représentations sur la vieillesse, un questionnement autour des représentations de soi, des manières de vivre ensemble…  EXPO MIX'AGES Fiche PARTAGE D'EXPÉRIENCE N°699 Villes Amies des Aînés en France Le département des Yvelines (78) Collectivité Membre depuis 2020 Permettre les rencontres intergénérationnelles dans le cadre d'un projet artistique.",
+        "contexte": "UN PROJET ARTISTIQUE DE COMMUNICATION POUR FAVORISER DES RENCONTRES HUMAINES Dans un contexte de confinement, de rupture de lien social, de sentiment d'exclusion, mais aussi de stigmatisation des seniors, ce projet pédagogique a pu générer des rencontres entre seniors et étudiants initiant un espace de dialogue autour des représentations sur la vieillesse, un questionnement autour des représentations de soi, des manières de vivre ensemble…  EXPO MIX'AGES Fiche PARTAGE D'EXPÉRIENCE N°699 Villes Amies des Aînés en France Le département des Yvelines (78) Collectivité Membre depuis 2020 Permettre les rencontres intergénérationnelles dans le cadre d'un projet artistique.",
+        "problematique": "Voir l'exposition: https://www.youtube.com/watch? v=ptA-NozDEi8  Si, comme le département des Yvelines, vous avez mi s en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com LE MODE DE FINANCEMENT Le coût de cette exposition gratuite et largement diffusée s’est monté à 600 euros, 1 800m pour l'impression de 39 panneaux.",
+        "solution_envisagee": "Créer une exposition mêlant photos, questions et réponses.",
+        "objectifs": "L’IFSY a préparé et mis en scène de septembre à décembre 2021 des rencontres intergénérationnelles entre étudiants et seniors afin de briser les préjugés liés à l’âge et suggérer des manières possibles d’être ensemble."
+    },
+    "porteur_initiative": "Voir l'exposition: https://www.youtube.com/watch? v=ptA-NozDEi8  Si, comme le département des Yvelines, vous avez mi s en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com LE MODE DE FINANCEMENT Le coût de cette exposition gratuite et largement diffusée s’est monté à 600 euros, 1 800m pour l'impression de 39 panneaux.",
+    "date": [
+        "31 mai",
+        "31 mai 2022",
+        "décembre 2021",
+        "mai",
+        "mai 2022",
+        "2025",
+        "2022",
+        "2021",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Expo_Mixages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Expo_Mixages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

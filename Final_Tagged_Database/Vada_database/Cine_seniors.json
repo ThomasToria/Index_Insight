@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Ciné séniors",
+    "territoire": "Titre: Ciné séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf  ---  --- UN PROJET MIS EN PLACE GRÂCE AUX SENIORS Le projet Ciné-Seniors a émané de réflexions émises par les membres du conseil des aînés.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Ciné séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf  ---  --- UN PROJET MIS EN PLACE GRÂCE AUX SENIORS Le projet Ciné-Seniors a émané de réflexions émises par les membres du conseil des aînés.",
+    "description": {
+        "description_generale": "Titre: Ciné séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf  ---  --- UN PROJET MIS EN PLACE GRÂCE AUX SENIORS Le projet Ciné-Seniors a émané de réflexions émises par les membres du conseil des aînés.",
+        "contexte": "Titre: Ciné séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf  ---  --- UN PROJET MIS EN PLACE GRÂCE AUX SENIORS Le projet Ciné-Seniors a émané de réflexions émises par les membres du conseil des aînés.",
+        "problematique": "Ils ont permis de recueillir leurs attentes et leurs besoins spécifiques.",
+        "solution_envisagee": "Proposer des projections de films récents et divertissants à un horaire adapté.",
+        "objectifs": "Titre: Ciné séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf  ---  --- UN PROJET MIS EN PLACE GRÂCE AUX SENIORS Le projet Ciné-Seniors a émané de réflexions émises par les membres du conseil des aînés."
+    },
+    "porteur_initiative": "Titre: Ciné séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf  ---  --- UN PROJET MIS EN PLACE GRÂCE AUX SENIORS Le projet Ciné-Seniors a émané de réflexions émises par les membres du conseil des aînés.",
+    "date": [
+        "2025",
+        "1080",
+        "2020",
+        "depuis 2020",
+        "en 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cine_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

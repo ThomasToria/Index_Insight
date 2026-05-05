@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Sur les bancs de la fac",
+    "territoire": "Titre: Sur les bancs de la fac Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/793-maj-2025-v2-pe-ville-de-nice-1-2.pdf  ---  --- L'ENSEIGNEMENT À TOUS LES ÂGES: UN ENGAGEMENT MUNICIPAL Lors de la dernière campagne, engagement a été pris de favoriser l’enseignement à tous les âges de la vie.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "SUR LES BANCS DE LA FAC Fiche PARTAGE D'EXPÉRIENCE N°659 Villes Amies des Aînés en France Ville de Nice Ville Membre depui s 2015 Nice (06) Permettre aux seniors d'avoir un accès facilité et accompagné à des enseignements supérieurs, avec le statut d'auditeurs libres, dans différents campus de l'Université Côte d'Azur, et ce pour un tarif raisonnable: 80€ annuels.",
+    "description": {
+        "description_generale": "Si, comme la ville de Nice, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com DE NOMBREUSES RÉPERCUSSIONS POSITIVES Cette action, aujourd’hui pérenne, a un impact très positif.",
+        "contexte": "Titre: Sur les bancs de la fac Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/793-maj-2025-v2-pe-ville-de-nice-1-2.pdf  ---  --- L'ENSEIGNEMENT À TOUS LES ÂGES: UN ENGAGEMENT MUNICIPAL Lors de la dernière campagne, engagement a été pris de favoriser l’enseignement à tous les âges de la vie.",
+        "problematique": "Les seniors peuvent se retrouver dans un environnement inhabituel et créer des liens d'amitié, ce qui prévient l'isolement social, tout en s’impliquant davantage dans la vie de la cité et en accédant à de nouveaux savoirs tout au long de leur vie.",
+        "solution_envisagee": "Mise en place d’un partenariat entre la Ville et l’Université pour permettre aux seniors d’avoir un statut d’auditeur libre; Proposition d’une offre pédagogique variée et cohérente, avec un nombre de places réservé au dispositif; Promotion du dispositif; Accompagnement des seniors dans leurs demandes de pré-inscription chaque année; Elargissement progressive de l’offre et évaluations de la satisfaction régulières.  ---  --- UN PARTENARIAT SOLIDE La Ville de Nice, via la direction en charge des seniors, se charge de l'accompagnement des usagers pour la phase de pré-inscription durant chaque campagne estivale, ainsi que de la promotion du dispositif.",
+        "objectifs": "Titre: Sur les bancs de la fac Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/793-maj-2025-v2-pe-ville-de-nice-1-2.pdf  ---  --- L'ENSEIGNEMENT À TOUS LES ÂGES: UN ENGAGEMENT MUNICIPAL Lors de la dernière campagne, engagement a été pris de favoriser l’enseignement à tous les âges de la vie."
+    },
+    "porteur_initiative": "Titre: Sur les bancs de la fac Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/793-maj-2025-v2-pe-ville-de-nice-1-2.pdf  ---  --- L'ENSEIGNEMENT À TOUS LES ÂGES: UN ENGAGEMENT MUNICIPAL Lors de la dernière campagne, engagement a été pris de favoriser l’enseignement à tous les âges de la vie.",
+    "date": [
+        "février",
+        "septembre 2021",
+        "septembre 2024",
+        "février 2021",
+        "2025",
+        "2021",
+        "2024",
+        "2015",
+        "en 2021",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sur_les_bancs_de_la_fac.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sur_les_bancs_de_la_fac.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

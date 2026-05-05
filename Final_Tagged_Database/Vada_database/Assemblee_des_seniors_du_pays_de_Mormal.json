@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Assemblée des seniors du pays de Mormal",
+    "territoire": "Titre: Assemblée des seniors du pays de Mormal Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/385-pe-assemblee-des-seniors-du-pays-de-mormal-mise-a-jour-2023.pdf  ---  --- UNE PARTICIPATION CITOYENNE CONCRÈTE Dans le cadre de la démarche Communauté Amie des Aînés de la communauté de communes du Pays de Mormal, de nombreux seniors étaient impliqués dans la phase du diagnostic.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "L'assemblée des seniors participe aux différentes instances de la démarche CADA: comité de pilotage, comité technique et groupes de travail thématiques (Mobilité, Habitat, Prévention, Animation sociale, Information et communication, Culture et loisirs, Aidants et aidés).",
+    "description": {
+        "description_generale": "Si, comme le Pays de Mormal, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Une enquête menée auprès de l'Assemblée des seniors en 2019 La nouvelle consultation des seniors dans le cadre de la CADA en 2020-2021 La recherche-action « La participation des seniors au sein de la démarche Communauté Amie Des Aînés (CADA) en Pays de Mormal », menée entre 2019 et 2021 par l'Université catholique de Lille.",
+        "contexte": "Titre: Assemblée des seniors du pays de Mormal Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/385-pe-assemblee-des-seniors-du-pays-de-mormal-mise-a-jour-2023.pdf  ---  --- UNE PARTICIPATION CITOYENNE CONCRÈTE Dans le cadre de la démarche Communauté Amie des Aînés de la communauté de communes du Pays de Mormal, de nombreux seniors étaient impliqués dans la phase du diagnostic.",
+        "problematique": "La mise en place et la coordination de plusieurs groupes de travail a constitué un défi relevé par les acteurs du projet qui ont su répondre aux besoins grâce à une organisation minutieuse.",
+        "solution_envisagee": "Afin de maintenir cette implication et de la rendre encore plus concrète, une assemblée des seniors a été mise en place.",
+        "objectifs": "Le groupe Messager a ensuite défini pour chacun des axes des objectifs, et les a priorisés."
+    },
+    "porteur_initiative": "Pour y travailler, le groupe Messager s'est réparti en 3 ateliers: Ce travail, toujours en cours, bénéficie du soutien du fonds d'appui pour des territoires innovants seniors.",
+    "date": [
+        "octobre 2017",
+        "mars 2022",
+        "2025",
+        "2023",
+        "2016",
+        "2017",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "depuis 2016",
+        "en 2023",
+        "en 2019",
+        "en 2020",
+        "En 2022",
+        "entre 2019 et",
+        "entre 2019 et 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Assemblee_des_seniors_du_pays_de_Mormal.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Assemblee_des_seniors_du_pays_de_Mormal.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

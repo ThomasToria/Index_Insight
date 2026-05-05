@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Droits devant elles",
+    "territoire": "Titre: Droits devant elles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/344-pe-droit-devant-elles.pdf  ---  --- APPRENDRE GRÂCE AUX TÉMOIGNAGES Afin d’engager une réflexion autour de l’avancée des droits des femmes et de l’évolution de la société, la bibliothèque Jean Macé à Lyon a initié un atelier intergénérationnel autour de la vie des femmes nées entre 1925 et 1947.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "DROITS DEVANT ELLES Fiche PARTAGE D'EXPÉRIENCE N°344 Villes Amies des Aînés en France Bibliothèque Jean Macé Lyon Ville Amie des Aînés depuis 2009 Lyon (69) Informer le public sur l’avancée des droits des femmes en faisant participer les femmes âgées elles-mêmes.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Par exemple: « Aujourd’hui, j’ai 21 ans est-ce que je peux voter? ».",
+        "problematique": "Par exemple: « Aujourd’hui, j’ai 21 ans est-ce que je peux voter? ».",
+        "solution_envisagee": "Si la réponse à la question était OUI, la personne pouvait avancer d’un pas, si la réponse au contraire était NON, la personne devait rester à sa place.",
+        "objectifs": "Par exemple: « Aujourd’hui, j’ai 21 ans est-ce que je peux voter? »."
+    },
+    "porteur_initiative": "Par exemple: « Aujourd’hui, j’ai 21 ans est-ce que je peux voter? ».",
+    "date": [
+        "février 2017",
+        "2025",
+        "1925",
+        "1947",
+        "1923",
+        "1944",
+        "1974",
+        "2009",
+        "2017",
+        "depuis 2009",
+        "entre 1925 et 1947"
+    ],
+    "thematique": [],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Droits_devant_elles.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Droits_devant_elles.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.0,
+        "source_site": 0.95
+    }
+}

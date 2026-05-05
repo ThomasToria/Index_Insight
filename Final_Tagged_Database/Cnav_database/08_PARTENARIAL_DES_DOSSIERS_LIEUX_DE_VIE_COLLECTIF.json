@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC)",
+    "territoire": "Titre: PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) Pages: 23  CARSAT NORMANDIE Habitat OFFRE D’ ACCOMPAGNEMENT PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les Conseil d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "LA FINALITÉ • Inspirer les porteurs de projets par de nouveaux concepts d’habitat senior. • Enrichir et diversifier l’offre de l’habitat pour les seniors.",
+    "description": {
+        "description_generale": "LA CIBLE Les porteurs de projets d’habitat senior (bailleurs sociaux, Centres communaux d'action sociale (CCAS), communes).",
+        "contexte": "Titre: PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) Pages: 23  CARSAT NORMANDIE Habitat OFFRE D’ ACCOMPAGNEMENT PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les Conseil d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
+        "problematique": "Il peut prendre la forme: • d’une visite de site et d’un compte rendu; • d’une note d’enjeux; • de scénarios d’aménagement comme aide à la décision.",
+        "solution_envisagee": "Titre: PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) Pages: 23  CARSAT NORMANDIE Habitat OFFRE D’ ACCOMPAGNEMENT PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les Conseil d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
+        "objectifs": "LA DESCRIPTION DE LA PÉPITE La Carsat a souhaité enrichir son analyse des dossiers LVC par une expertise architecturale afin de vérifier la pertinence des programmes présentés."
+    },
+    "porteur_initiative": "Titre: PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) Pages: 23  CARSAT NORMANDIE Habitat OFFRE D’ ACCOMPAGNEMENT PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC) LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les Conseil d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
+    "date": [
+        "2019",
+        "en 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

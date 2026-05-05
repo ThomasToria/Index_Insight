@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Seniors, gardez la pêche!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1092-pe-seniors-gardez-la-peche.pdf  ---  --- UNE ACTION CO-CONSTRUITE Avec l’avancée en âge, certains aspects de la santé peuvent décliner naturellement.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1092-pe-seniors-gardez-la-peche.pdf  ---  --- UNE ACTION CO-CONSTRUITE Avec l’avancée en âge, certains aspects de la santé peuvent décliner naturellement.",
+    "description": {
+        "description_generale": "Ce projet s’inscrit dans l’axe 3 du projet social: soutenir les habitants dans leur quotidien; et dans la fiche action 2.4.3 du PESC « bougeons le Trait ».",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1092-pe-seniors-gardez-la-peche.pdf  ---  --- UNE ACTION CO-CONSTRUITE Avec l’avancée en âge, certains aspects de la santé peuvent décliner naturellement.",
+        "problematique": "Cette action a donné lieu, sur 2024, à des temps de prévention les jeudis matin avec des ateliers thématiques: atelier numérique, atelier préparons la retraite, atelier des vacances yoga du rire relayé par des instances participatives telles que le café des échanges afin de répondre au besoin des seniors traitons.",
+        "solution_envisagee": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1092-pe-seniors-gardez-la-peche.pdf  ---  --- UNE ACTION CO-CONSTRUITE Avec l’avancée en âge, certains aspects de la santé peuvent décliner naturellement.",
+        "objectifs": "Cette action a donné lieu, sur 2024, à des temps de prévention les jeudis matin avec des ateliers thématiques: atelier numérique, atelier préparons la retraite, atelier des vacances yoga du rire relayé par des instances participatives telles que le café des échanges afin de répondre au besoin des seniors traitons."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1092-pe-seniors-gardez-la-peche.pdf  ---  --- UNE ACTION CO-CONSTRUITE Avec l’avancée en âge, certains aspects de la santé peuvent décliner naturellement.",
+    "date": [
+        "octobre 2022",
+        "Septembre 2023",
+        "2025",
+        "1092",
+        "2023",
+        "2022",
+        "2024",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_gardez_la_peche.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Seniors_gardez_la_peche.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

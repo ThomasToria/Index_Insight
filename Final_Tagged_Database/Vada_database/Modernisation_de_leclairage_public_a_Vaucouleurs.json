@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Modernisation de l'éclairage public à Vaucouleurs",
+    "territoire": "Titre: Modernisation de l'éclairage public à Vaucouleurs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1079-pe-modernisation-de-l-eclairage-public-a-vaucouleurs-1.pdf  ---  --- UN SENTIMENT D’INSÉCURITÉ En raison du coût, particulièrement depuis ces dernières années, la ville de Vaucouleurs prévoyait l'extinction nocturne de l'éclairage public.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Cependant, les seniors (et les familles) ont fait part, entre autres à travers le conseil des sages, de leur sentiment d'insécurité lors de leurs sorties en centre-ville.",
+    "description": {
+        "description_generale": "UN PROJET EN PLUSIEURS TRANCHES Pour lancer ce projet, il a fallu recruter un bureau d'études spécialisé, compétent en termes de conseil et de réalisation.",
+        "contexte": "Titre: Modernisation de l'éclairage public à Vaucouleurs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1079-pe-modernisation-de-l-eclairage-public-a-vaucouleurs-1.pdf  ---  --- UN SENTIMENT D’INSÉCURITÉ En raison du coût, particulièrement depuis ces dernières années, la ville de Vaucouleurs prévoyait l'extinction nocturne de l'éclairage public.",
+        "problematique": "MODERNISATION DE L'ÉCLAIRAGE PUBLIC À VAUCOULEURS Fiche PARTAGE D'EXPÉRIENCE N°920 Villes Amies des Aînés en France Ville de Vaucouleurs Ville Amie des Aînés depuis 2023 Vaucouleurs (55) Améliorer le cadre de vie et la sécurité Faire baisser les incivilités avec la mise en place d'un système de vidéo protection Recensement des besoins Recrutement d'un bureau d'études spécialisé Validation du projet Recherche de financements Consultation des entreprises Réalisation du chantier  ---  --- Si, comme la Ville de Vaucouleurs, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Aussi, après réflexion, la ville a décidé de totalement remplacer les lumières par des leds, et d'accompagner ce nouvel éclairage la mise en place d'un système de vidéo protection.",
+        "objectifs": "MODERNISATION DE L'ÉCLAIRAGE PUBLIC À VAUCOULEURS Fiche PARTAGE D'EXPÉRIENCE N°920 Villes Amies des Aînés en France Ville de Vaucouleurs Ville Amie des Aînés depuis 2023 Vaucouleurs (55) Améliorer le cadre de vie et la sécurité Faire baisser les incivilités avec la mise en place d'un système de vidéo protection Recensement des besoins Recrutement d'un bureau d'études spécialisé Validation du projet Recherche de financements Consultation des entreprises Réalisation du chantier  ---  --- Si, comme la Ville de Vaucouleurs, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com"
+    },
+    "porteur_initiative": "Titre: Modernisation de l'éclairage public à Vaucouleurs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1079-pe-modernisation-de-l-eclairage-public-a-vaucouleurs-1.pdf  ---  --- UN SENTIMENT D’INSÉCURITÉ En raison du coût, particulièrement depuis ces dernières années, la ville de Vaucouleurs prévoyait l'extinction nocturne de l'éclairage public.",
+    "date": [
+        "2025",
+        "1079",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "depuis 2023",
+        "EN 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Modernisation_de_leclairage_public_a_Vaucouleurs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Modernisation_de_leclairage_public_a_Vaucouleurs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

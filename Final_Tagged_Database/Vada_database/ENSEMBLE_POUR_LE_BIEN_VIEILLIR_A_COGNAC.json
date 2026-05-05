@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC",
+    "territoire": "ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC Fiche PARTAGE D'EXPÉRIENCE N°661 Villes Amies des Aînés en France Cognac (16) Ville Membre depuis 2015 Permettre aux seniors et à leurs aidants d’identifier les lieux ressources du territoire en réunissant sur un même lieu les services de la ville de Cognac et les professionnels dont la mission est d’accompagner et de soutenir les personnes âgées en perte d’autonomie.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC Fiche PARTAGE D'EXPÉRIENCE N°661 Villes Amies des Aînés en France Cognac (16) Ville Membre depuis 2015 Permettre aux seniors et à leurs aidants d’identifier les lieux ressources du territoire en réunissant sur un même lieu les services de la ville de Cognac et les professionnels dont la mission est d’accompagner et de soutenir les personnes âgées en perte d’autonomie.",
+    "description": {
+        "description_generale": "Si, comme la ville de Cognac, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Toutefois, l’accès aux diagnostics et la constitution des aides à l’aménagement restent un frein, malgré les services d’accompagnement et les financements qui existent sur le territoire!",
+        "problematique": "Titre: ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/795-concours-2022-17-ensemble-pour-le-bien-vieillir-a-cognac.pdf  ---  --- UN FORUM QUI RÉUNIT TOUS LES SERVICES DE LA VILLE Au-delà du vieillissement global de la population Cognacaise (28,6 % ont plus de 60 ans), des enjeux et des questionnements que cela implique, l’analyse des besoins sociaux, initiée en 2019, a permis d’identifier des besoins spécifiques que l’on soit seniors, aidants ou professionnels.",
+        "solution_envisagee": "Toutefois, l’accès aux diagnostics et la constitution des aides à l’aménagement restent un frein, malgré les services d’accompagnement et les financements qui existent sur le territoire!",
+        "objectifs": "L'objectif est ici de faciliter la notion de parcours des seniors en favorisant la collaboration des professionnels et d'engager une réflexion locale sur les initiatives à soutenir ou à développer dans une logique de complémentarité et de mutualisation."
+    },
+    "porteur_initiative": "UN FORUM ARTICULÉ AUTOUR DE DIVERS ATELIERS L’organisation du forum s’est articulée autour de: 33 stands dédiés aux partenaires et aux services de la ville; une conférence: « la place des seniors dans la société: seniorisation ou exclusion »; un théâtre forum intitulé «Accrochez-vous » par la compagnie Donc y chocs; une visite de ma maison à venir » avec ReSanté-vous; 5 ateliers: « Sensibilisation aux filouteries » animés par la police municipale, un atelier mémoire et activité physique adaptée » animé par l’ARA (Activité Rencontre Autonomie); un atelier gym douce/ équilibre et renforcement musculaire animé par le service sport santé de la ville de Cognac et enfin, un atelier \"opération mobilité + sérénité = vitalité\" animé par l’Udaf.",
+    "date": [
+        "24 septembre 2022",
+        "septembre 2022",
+        "2025",
+        "2022",
+        "2019",
+        "2015",
+        "depuis 2015",
+        "en 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

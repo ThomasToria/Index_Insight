@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Seniors en scène",
+    "territoire": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées.",
+    "description": {
+        "description_generale": "Dans le cadre de ce projet, les participants ont présenté une production de saynètes sur une scène de théâtre mis à disposition, pour leur plus grande satisfaction personnelle.",
+        "contexte": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées.",
+        "problematique": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées.",
+        "solution_envisagee": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées.",
+        "objectifs": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées."
+    },
+    "porteur_initiative": "Titre: Seniors en scène Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/988-concours-2023-seniors-en-scene-1.pdf  ---  --- THÉÂTRE POUR ET PAR LES SENIORS La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui leurs sont dédiées.",
+    "date": [
+        "20 juin 2023",
+        "juin 2023",
+        "octobre 2022",
+        "juin",
+        "2025",
+        "2023",
+        "2022",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_en_scene.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Seniors_en_scene.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

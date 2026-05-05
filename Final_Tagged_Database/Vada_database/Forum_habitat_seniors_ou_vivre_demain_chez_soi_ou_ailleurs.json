@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Forum habitat séniors « ou vivre demain… chez soi ou ailleurs? »",
+    "territoire": "Titre: Forum habitat séniors « ou vivre demain… chez soi ou ailleurs? » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1049-pe-forum-habitat-seniors-ou-vivre-demain-chez-soi-ou-ailleurs.pdf  ---  --- UNE DÉMARCHE MENÉE DEPUIS 2022 Dans le cadre de la démarche Villes Amies des Ainés, la ville de Rezé a souhaité initier et prioriser un projet autour de l’habitat et du parcours résidentiel des seniors, pour faciliter la connaissance du public sur les dispositifs d’adaptation au logement, l’offre en termes d’hébergement collectif, d’habitat partagé, et venir questionner le « chez soi » et le libre choix de son logement.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "LE FORUM Le forum a été organisé sur une journée, autour de 3 séquences: un cycle de conférences, tables rondes, film; la tenue de stands par pôles thématiques pour rencontrer des professionnels et trouver de l’information; la représentation d’une pièce de théâtre réalisée à partir de témoignages recueillis auprès de seniors rezéens et jouée par des habitant.e.s.",
+    "description": {
+        "description_generale": "Titre: Forum habitat séniors « ou vivre demain… chez soi ou ailleurs? » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1049-pe-forum-habitat-seniors-ou-vivre-demain-chez-soi-ou-ailleurs.pdf  ---  --- UNE DÉMARCHE MENÉE DEPUIS 2022 Dans le cadre de la démarche Villes Amies des Ainés, la ville de Rezé a souhaité initier et prioriser un projet autour de l’habitat et du parcours résidentiel des seniors, pour faciliter la connaissance du public sur les dispositifs d’adaptation au logement, l’offre en termes d’hébergement collectif, d’habitat partagé, et venir questionner le « chez soi » et le libre choix de son logement.",
+        "contexte": "LE FORUM Le forum a été organisé sur une journée, autour de 3 séquences: un cycle de conférences, tables rondes, film; la tenue de stands par pôles thématiques pour rencontrer des professionnels et trouver de l’information; la représentation d’une pièce de théâtre réalisée à partir de témoignages recueillis auprès de seniors rezéens et jouée par des habitant.e.s.",
+        "problematique": "FORUM HABITAT SÉNIORS « OU VIVRE DEMAIN… CHEZ SOI OU AILLEURS? » Fiche PARTAGE D'EXPÉRIENCE N°910 Villes Amies des Aînés en France Informer et sensibiliser le public ainsi que les professionnels aux enjeux liés au vieillissement et aux différents modes d’habitat Informer sur la diversité des modèles d’habitat en faveur du parcours résidentiel et favoriser leurs recours par les usagers et professionnels selon les besoins.",
+        "solution_envisagee": "LE FORUM Le forum a été organisé sur une journée, autour de 3 séquences: un cycle de conférences, tables rondes, film; la tenue de stands par pôles thématiques pour rencontrer des professionnels et trouver de l’information; la représentation d’une pièce de théâtre réalisée à partir de témoignages recueillis auprès de seniors rezéens et jouée par des habitant.e.s.",
+        "objectifs": "LE FORUM Le forum a été organisé sur une journée, autour de 3 séquences: un cycle de conférences, tables rondes, film; la tenue de stands par pôles thématiques pour rencontrer des professionnels et trouver de l’information; la représentation d’une pièce de théâtre réalisée à partir de témoignages recueillis auprès de seniors rezéens et jouée par des habitant.e.s."
+    },
+    "porteur_initiative": "LE FORUM Le forum a été organisé sur une journée, autour de 3 séquences: un cycle de conférences, tables rondes, film; la tenue de stands par pôles thématiques pour rencontrer des professionnels et trouver de l’information; la représentation d’une pièce de théâtre réalisée à partir de témoignages recueillis auprès de seniors rezéens et jouée par des habitant.e.s.",
+    "date": [
+        "octobre 2022",
+        "octobre 2023",
+        "2025",
+        "1049",
+        "2022",
+        "2023",
+        "2018",
+        "DEPUIS 2022",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_habitat_seniors_ou_vivre_demain_chez_soi_ou_ailleurs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forum_habitat_seniors_ou_vivre_demain_chez_soi_ou_ailleurs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

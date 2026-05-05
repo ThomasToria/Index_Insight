@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Ecran numérique interactif dans le pôle d'activités et de soins adaptés de l'ehpad",
+    "territoire": "Titre: Ecran numérique interactif dans le pôle d'activités et de soins adaptés de l'ehpad Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1058-concours-2024-ecran-numerique-interactif-dans-le-pole-d-activites-et-de-soins-adaptes-de-l-ehpad.pdf  ---  --- AU SERVICE DES SOIGNANTS ET DES AÎNÉS Le Pôle d'Activités et de Soins Adaptés de l'EHPAD municipal de Valence à récemment emménagé dans de nouveaux locaux.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Acquisition d’un écran interactif pour l’équipe PASA de l’EHPAD; Utilisation de l’écran lors des différents ateliers par les soignants et les personnes accueillies: vidéos, jeux, visites virtuelles, etc.  ---  --- UN ÉCRAN AUX MULTIPLES AVANTAGES L'écran interactif ne nécessite ni vidéoprojecteur, ni ordinateur externe: c'est une sorte de tablette tactile géante.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Valence, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Acquisition d’un écran interactif pour l’équipe PASA de l’EHPAD; Utilisation de l’écran lors des différents ateliers par les soignants et les personnes accueillies: vidéos, jeux, visites virtuelles, etc.  ---  --- UN ÉCRAN AUX MULTIPLES AVANTAGES L'écran interactif ne nécessite ni vidéoprojecteur, ni ordinateur externe: c'est une sorte de tablette tactile géante.",
+        "problematique": "Acquisition d’un écran interactif pour l’équipe PASA de l’EHPAD; Utilisation de l’écran lors des différents ateliers par les soignants et les personnes accueillies: vidéos, jeux, visites virtuelles, etc.  ---  --- UN ÉCRAN AUX MULTIPLES AVANTAGES L'écran interactif ne nécessite ni vidéoprojecteur, ni ordinateur externe: c'est une sorte de tablette tactile géante.",
+        "solution_envisagee": "Cet outil a également un intérêt dans les soins apportés aux troubles neurocognitifs et permet de dynamiser les ateliers proposés.",
+        "objectifs": "Acquisition d’un écran interactif pour l’équipe PASA de l’EHPAD; Utilisation de l’écran lors des différents ateliers par les soignants et les personnes accueillies: vidéos, jeux, visites virtuelles, etc.  ---  --- UN ÉCRAN AUX MULTIPLES AVANTAGES L'écran interactif ne nécessite ni vidéoprojecteur, ni ordinateur externe: c'est une sorte de tablette tactile géante."
+    },
+    "porteur_initiative": "Acquisition d’un écran interactif pour l’équipe PASA de l’EHPAD; Utilisation de l’écran lors des différents ateliers par les soignants et les personnes accueillies: vidéos, jeux, visites virtuelles, etc.  ---  --- UN ÉCRAN AUX MULTIPLES AVANTAGES L'écran interactif ne nécessite ni vidéoprojecteur, ni ordinateur externe: c'est une sorte de tablette tactile géante.",
+    "date": [
+        "février 2022",
+        "janvier 2023",
+        "2025",
+        "1058",
+        "2024",
+        "2022",
+        "2023",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ecran_numerique_interactif_dans_le_pole_dactivites_et_de_soins_adaptes_de_lehpad.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ecran_numerique_interactif_dans_le_pole_dactivites_et_de_soins_adaptes_de_lehpad.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.25,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

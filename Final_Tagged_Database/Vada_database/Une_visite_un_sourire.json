@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Une visite, un sourire",
+    "territoire": "Titre: Une visite, un sourire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/257-257-une-visite-un-sourire-brive.pdf  ---  --- UNE DYNAMIQUE DE LUTTE CONTRE L’ISOLEMENT Depuis novembre 2015, le CCAS Brive-la-Gaillarde a mis en place le projet « Une visite, un sourire » afin de lutter contre l’isolement des personnes âgé es.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Coût: Service gratuit pour les personnes âgées BRIVE-LA-GAILLARDE Ville Amie des Aînés depuis 01-2016 Brive-la-Gaillarde (19) Fiche publiée le 09/08/2016 LIEN SOCIAL ET SOLIDARITÉ www.villesamiesdesaines-rf.fr APPEL À CONTRIBUTION Si, comme Brive-la-Gaillarde, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part. contact@rfvaa.com",
+    "description": {
+        "description_generale": "Le but de cette initiative est de mettre en synergi e les actions de différents services et d’associations po ur permettre un meilleur maillage du territoire.",
+        "contexte": "Titre: Une visite, un sourire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/257-257-une-visite-un-sourire-brive.pdf  ---  --- UNE DYNAMIQUE DE LUTTE CONTRE L’ISOLEMENT Depuis novembre 2015, le CCAS Brive-la-Gaillarde a mis en place le projet « Une visite, un sourire » afin de lutter contre l’isolement des personnes âgé es.",
+        "problematique": "Titre: Une visite, un sourire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/257-257-une-visite-un-sourire-brive.pdf  ---  --- UNE DYNAMIQUE DE LUTTE CONTRE L’ISOLEMENT Depuis novembre 2015, le CCAS Brive-la-Gaillarde a mis en place le projet « Une visite, un sourire » afin de lutter contre l’isolement des personnes âgé es.",
+        "solution_envisagee": "RÉPONDRE AUX BESOINS Une commission de suivi a été mise en place pour évaluer le projet et les visites.",
+        "objectifs": "Lutter contre l’isolement des personnes âgées en les renouant avec\ndes liens de proximité. Orienter les personnes isolées vers des asso-\nciations et des activités extérieures. Offrir des moments de partage et\nde convivialité. Mettre en synergie les actions menées sur le territoire.\nPRATIQUE\nRéaliser une convention de partenariat entre le CCAS de la Ville et\ndiﬀérentes associations. Recruter des bénévoles. Recenser les seniors\nisolés et procéder à une première évaluation de leur situation. Eﬀectuer\ndes visites régulière et un suivi.\nCoût: Service gratuit pour les personnes âgées\nBRIVE-LA-GAILLARDE\nVille Amie des Aînés depuis 01-2016\nBrive-la-Gaillarde (19)\nFiche publiée le 09/08/2016\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nAPPEL À CONTRIBUTION\nSi, comme Brive-la-Gaillarde, vous avez mis en place des\nprojets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com"
+    },
+    "porteur_initiative": "Titre: Une visite, un sourire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/257-257-une-visite-un-sourire-brive.pdf  ---  --- UNE DYNAMIQUE DE LUTTE CONTRE L’ISOLEMENT Depuis novembre 2015, le CCAS Brive-la-Gaillarde a mis en place le projet « Une visite, un sourire » afin de lutter contre l’isolement des personnes âgé es.",
+    "date": [
+        "novembre 2015",
+        "09/08/2016",
+        "2025",
+        "2015",
+        "2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_visite_un_sourire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_visite_un_sourire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

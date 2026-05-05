@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Cocréation du coffret multisensoriel stimulateur de perception \"souvenirs du futur\"",
+    "territoire": "Titre: Cocréation du coffret multisensoriel stimulateur de perception \"souvenirs du futur\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/933-pe-cocreation-du-coffret-multisensoriel-stimulateur-de-perception-souvenirs-du-futur.pdf  ---  --- CONCEVOIR UN COF FRET MULTISENSORIEL L'équipe des éditions Les Doigts Qui Rêvent qui publient des albums tactiles illustrés pour les enfants déficients visuels, a pu observer que ses albums permettent de renouer des interactions avec des personnes âgées ayant la maladie d’Alzheimer.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Enfin, l'objectif de transmettre à des professionnels des bibliothèques, des EHPAD, du handicap, la méthodologie pour faire soi-même un coffret avec ses bénéficiaires, utiliser un coffret ou encore évaluer les bienfaits des ateliers avec le coffret est atteint.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Dijon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Concernant la recherche des personnes âgées isolées: en plus d'une affiche, chaque partenaire a mobilisé son réseau (maison des séniors, CLIC) mais ce qui a le mieux fonctionné c'est la mobilisation de l'équipe de la médiathèque qui a communiqué dans les commerces aux alentours, le bouche-à- oreille, approcher certains de leurs lecteurs isolés.",
+        "problematique": "Concernant la recherche des personnes âgées isolées: en plus d'une affiche, chaque partenaire a mobilisé son réseau (maison des séniors, CLIC) mais ce qui a le mieux fonctionné c'est la mobilisation de l'équipe de la médiathèque qui a communiqué dans les commerces aux alentours, le bouche-à- oreille, approcher certains de leurs lecteurs isolés.",
+        "solution_envisagee": "Comment alors proposer des livres tactiles pour des adultes?",
+        "objectifs": "Par contre l'objectif qualitatif de faire participer des personnes isolées à des activités créatives nouvelles autour du livre et de l'écrit a été atteint, elles ont parlé d'elles, créer, échanger."
+    },
+    "porteur_initiative": "Concernant la recherche des personnes âgées isolées: en plus d'une affiche, chaque partenaire a mobilisé son réseau (maison des séniors, CLIC) mais ce qui a le mieux fonctionné c'est la mobilisation de l'équipe de la médiathèque qui a communiqué dans les commerces aux alentours, le bouche-à- oreille, approcher certains de leurs lecteurs isolés.",
+    "date": [
+        "2025",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cocreation_du_coffret_multisensoriel_stimulateur_de_perception_souvenirs_du_futur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cocreation_du_coffret_multisensoriel_stimulateur_de_perception_souvenirs_du_futur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

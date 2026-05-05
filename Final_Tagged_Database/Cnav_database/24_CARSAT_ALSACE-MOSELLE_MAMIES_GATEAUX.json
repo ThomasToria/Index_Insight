@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX",
+    "territoire": "LA TEMPORALITÉ Du 01/11/23 au 31/12/24 LA LOCALISATION Ville de Strasbourg",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Partenaire(s): Malakoff-Humanis, Association générale des familles, Carsat Alsace-Moselle.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE Un cycle de confection de pâtisserie de 56 séance s (de 2 à 3h) avec temps conviviaux pendant les pauses et dégustations en commun, encadrés par des pâtissiers professionnels.",
+        "contexte": "Titre: CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX Pages: 45  CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX LES ACTEURS Porteur(s) de la pépite: association des amis de Mamies Gâteaux – Mamies Gâteaux.",
+        "problematique": "Titre: CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX Pages: 45  CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX LES ACTEURS Porteur(s) de la pépite: association des amis de Mamies Gâteaux – Mamies Gâteaux.",
+        "solution_envisagee": "Ce moment de partage et de dégustation permet de savourer les créations réalisées ensemble.",
+        "objectifs": "LA FINALITÉ • Favoriser les échanges intergénérationnels au travers d’ateliers de pâtisserie, renforcer le lien social; • transmettre les savoirs et les compétences, apprentissage mutuel tout en encourageant un mode de vie sain et équilibré; • renforcer le sentiment d'utilité et d'estime de soi; • promouvoir l'inclusion sociale des personnes âgées; • encourager un mode de vie sain et équilibré; • Stimuler la créativité et la découverte."
+    },
+    "porteur_initiative": "Titre: CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX Pages: 45  CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX LES ACTEURS Porteur(s) de la pépite: association des amis de Mamies Gâteaux – Mamies Gâteaux.",
+    "date": [
+        "01/11/23",
+        "31/12/24"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Parcours de découverte de l’art contemporain",
+    "territoire": "Titre: Parcours de découverte de l’art contemporain Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/482-pe-decouverte-de-l-art-contemporain.pdf  ---  --- METTRE L‘ART A LA PORTÉE DE TOUS La Sixième édition des Ateliers de Rennes - Biennale d’art contemporain, intitulée “A Cris Ouverts”, a eu lieu du 27 septembre au 2 décembre 2018, se déployant dans une dizaine de lieux différents.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "L’objectif de ce programme étant de faire découvrir l’art contemporain au plus grand nombre en le rendant accessible à tous, de nombreuses initiatives de médiation ont été mises en place: organisation de visites sur mesure, projets avec différents publics, etc.",
+    "description": {
+        "description_generale": "L’objectif de ce programme étant de faire découvrir l’art contemporain au plus grand nombre en le rendant accessible à tous, de nombreuses initiatives de médiation ont été mises en place: organisation de visites sur mesure, projets avec différents publics, etc.",
+        "contexte": "C’est dans ce contexte que le projet “Un parcours de découverte de l’art contemporain pour les aînés rennais” a vu le jour.",
+        "problematique": "L’objectif de ce programme étant de faire découvrir l’art contemporain au plus grand nombre en le rendant accessible à tous, de nombreuses initiatives de médiation ont été mises en place: organisation de visites sur mesure, projets avec différents publics, etc.",
+        "solution_envisagee": "L’objectif de ce programme étant de faire découvrir l’art contemporain au plus grand nombre en le rendant accessible à tous, de nombreuses initiatives de médiation ont été mises en place: organisation de visites sur mesure, projets avec différents publics, etc.",
+        "objectifs": "L’objectif de ce programme étant de faire découvrir l’art contemporain au plus grand nombre en le rendant accessible à tous, de nombreuses initiatives de médiation ont été mises en place: organisation de visites sur mesure, projets avec différents publics, etc."
+    },
+    "porteur_initiative": "D’une façon globale, les découvertes culturelles qui y ont été faites ont été appréciées, tout comme l’aspect intergénérationnel apporté par la présence du médiateur culturel.",
+    "date": [
+        "2 décembre 2018",
+        "décembre 2018",
+        "2025",
+        "2018",
+        "2011",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_de_decouverte_de_lart_contemporain.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Parcours_de_decouverte_de_lart_contemporain.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

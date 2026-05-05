@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Réalisation d’un clip vidéo intergénérationnel “arts urbains, cultures urbaines”",
+    "territoire": "Titre: Réalisation d’un clip vidéo intergénérationnel “arts urbains, cultures urbaines” Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/278-pe-clip-interge-1.pdf  ---  --- FAVORISER LES LIENS INTERGÉNÉRATIONNELS La Ville de Montfort-sur-Meu souhaite favoriser le lien social et la solidarité entre les générations pour plus de cohésion sociale, un axe majeur de sa politique d’action sociale en faveur des aînés.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Le clip a été présenté lors de plusieurs manifestations: à la fête intergénérationnelle de fin d’année en présence des familles des enfants et des résidents; dans le cadre de la journée portes ouvertes de la Résidence Autonomie; à l’occasion des vœux du Maire.",
+    "description": {
+        "description_generale": "Développer une dimension citoyenne au projet: derrière chaque réalisation il y a une sensibilité, une rencontre, un vécu.",
+        "contexte": "RÉALISATION D’UN CLIP VIDÉO INTERGÉNÉRATIONNEL “ARTS URBAINS, CULTURES URBAINES” Fiche PARTAGE D'EXPÉRIENCE N°278 Villes Amies des Aînés en France Montfort sur Meu (35) Vivre ensemble: au contact des personnes âgées, les enfants apprennent le sens de la responsabilité, la générosité, la solidarité, la tolérance.",
+        "problematique": "RÉALISATION D’UN CLIP VIDÉO INTERGÉNÉRATIONNEL “ARTS URBAINS, CULTURES URBAINES” Fiche PARTAGE D'EXPÉRIENCE N°278 Villes Amies des Aînés en France Montfort sur Meu (35) Vivre ensemble: au contact des personnes âgées, les enfants apprennent le sens de la responsabilité, la générosité, la solidarité, la tolérance.",
+        "solution_envisagee": "RÉALISATION D’UN CLIP VIDÉO INTERGÉNÉRATIONNEL “ARTS URBAINS, CULTURES URBAINES” Fiche PARTAGE D'EXPÉRIENCE N°278 Villes Amies des Aînés en France Montfort sur Meu (35) Vivre ensemble: au contact des personnes âgées, les enfants apprennent le sens de la responsabilité, la générosité, la solidarité, la tolérance.",
+        "objectifs": "Développer une dimension citoyenne au projet: derrière chaque réalisation il y a une sensibilité, une rencontre, un vécu."
+    },
+    "porteur_initiative": "RÉALISATION D’UN CLIP VIDÉO INTERGÉNÉRATIONNEL “ARTS URBAINS, CULTURES URBAINES” Fiche PARTAGE D'EXPÉRIENCE N°278 Villes Amies des Aînés en France Montfort sur Meu (35) Vivre ensemble: au contact des personnes âgées, les enfants apprennent le sens de la responsabilité, la générosité, la solidarité, la tolérance.",
+    "date": [
+        "2025",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "En 2015",
+        "En 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_dun_clip_video_intergenerationnel_arts_urbains_cultures_urbaines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Realisation_dun_clip_video_intergenerationnel_arts_urbains_cultures_urbaines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

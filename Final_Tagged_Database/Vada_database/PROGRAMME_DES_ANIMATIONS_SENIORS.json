@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: PROGRAMME DES ANIMATIONS SENIORS",
+    "territoire": "Titre: PROGRAMME DES ANIMATIONS SENIORS Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-PROGRAMME-DES-ANIMATIONS-SENIORS.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ AUTONOMIE, SERVICES & SOINS CULTURE & LOISIRS Contribuer activement au bien-être des seniors en r enforçant le lien social, en stimulant la motricité et la mémoire, en éveillant la curiosité et en favorisant la découverte, tout en les encourageant à rester engag és et dynamiques.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "LES RETRAITÉS ANNÉCIENS DE PLUS DE 60 ANS.\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Tout au long de l’année, via un programme trimestri el, les seniors peuvent profiter d’ateliers et de r encontres\nautour de la culture et de la création, d’ateliers bien-être, de rencontres culture, d’ateliers mémoir e et\nmultimédias et bien d’autres.\nFICHE PARTAGE D’EXPÉRIENCE N°1026\nVILLE AMIE DES AÎNÉS DEPUIS 2024, EN ROUTE POUR LE LABEL - ANNECY (74)\nPROGRAMME DES ANIMATIONS SENIORS\n1.\n2.\n3.\nLES OBJECTIFS DU PROJET\nPouvoir garder des liens sociaux, une autonomie et découvrir de nouvelles\nactivités.\n2025\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLe coût des nouvelles animations n’est\npas quantifié, car la majorité des\nanimations proposées sont gratuites.\nCelles qui nécessitent un financement\nse font « au coup par coup » et sont\nincluses dans le budget global. Les\ndépenses de fonctionnement ne sont\npas prises en compte.\nLes seniors participent activement aux\nactivités proposées. Ils sont source de\npropositions.\nCertains seniors sont même porteurs des\nactivités comme pour les ateliers de\nnouvelles technologies du lundi, les ateliers\ntricotage et certains échanges-débats. Ils\nsont bénévoles.\nLES ÉTAPES\nDU PROJET\nRecherche de nouvelles\nactivités, de nouveaux\npartenaires, d’idées pour les\nateliers programmés.\nÉlaboration du programme\ntrimestriel avec l’équipe.\nRéservation, dates et lieux.\nCréation de l’activité dans le\nlogiciel adapté.\nÉlaboration des ateliers.\nInscription des participants.\nLogistique, intendance:\npréparation du matériel, de la\nsalle, lien avec partenaire…\nAnimation de l’activité ou/et\naccompagnement des\npartenaires.\nBilan de chaque animation.\nÉVALUATION\nDU PROJET\nSaison 2024-2025, 2091 seniors\nse sont inscrits à diverses\nactivités et 1919 ont participé.\n(91,77% présents)\nCes animations perdurent et\névoluent depuis plus de 20 ans.\nLes seniors font régulièrement\ndes retours concernant la\nqualité et/ou la quantité\nd’activités proposées par le\nservice seniors.\nLES PARTENAIRES\nDU PROJET\nPartenaires internes\nCinémas Pathé, Nemours,\nMikado, Auditorium de Seynod et\nMégarama\nSeniors désirant partager leurs\nexpériences\nAssociations\nPartenaires institutionnels\ncomme le CRR (Conservatoire à\nRayonnement Régional),\ncertaines crèches et écoles\nprimaires, etc.,\nLE PLAN\nDE COMMUNICATION\nLe livret trimestriel\nLes accueils seniors\nLe site Internet de la ville\nLes accueils de proximité\nUne présentation succincte est\nfaite dans le programme annuel\ndes activités\nLa presse: communiqués et\ndossier de presse pour certains\névénements exceptionnels\nLA PARTICIPATION\nAU CŒUR DU PROJET",
+        "contexte": "Il y a plus d’une vingtaine d’années, la Ville d’Annec y, dans un contexte de vieillissement progressif de la population a souhaité élargir l’offre d’activité s proposées aux seniors en commençant par engager une première animatrice à mi-temps, puis à plein temp s.",
+        "problematique": "Les animateurs se sont mis en quêtes d’activités répondant aux besoins des seniors comme les temps conviviaux, les ac tivités qui créent des liens.",
+        "solution_envisagee": "Logistique, intendance: préparation du matériel, de la salle, lien avec partenaire… Animation de l’activité ou/et accompagnement des partenaires.",
+        "objectifs": "LES OBJECTIFS DU PROJET Pouvoir garder des liens sociaux, une autonomie et découvrir de nouvelles activités."
+    },
+    "porteur_initiative": "Certains seniors sont même porteurs des activités comme pour les ateliers de nouvelles technologies du lundi, les ateliers tricotage et certains échanges-débats.",
+    "date": [
+        "2026",
+        "2017",
+        "2022",
+        "1026",
+        "2024",
+        "2025",
+        "2091",
+        "1919",
+        "DEPUIS 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\PROGRAMME_DES_ANIMATIONS_SENIORS.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\PROGRAMME_DES_ANIMATIONS_SENIORS.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

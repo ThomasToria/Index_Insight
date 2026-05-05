@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: A Dijon, la culture accessible à tous!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/101-101-la-culture-accessible-a-tous.pdf  ---  --- AMÉLIORER L ’ACCESSIBILITÉ PHYSIQUE L ’un des prérequis principaux visant à permettre l’accès à la culture pour tous consiste à rendre ac - cessibles les lieux culturels de la ville.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "D’autre part, la question de l’accessibilité a une symbolique forte pour les aînés dijonnais mais aussi pour un public plus large: personnes à mobi- lité réduite, poussettes… Ici, il s’agit donc bien de rendre la culture accessible à tous et pas seulement aux plus âgés.",
+    "description": {
+        "description_generale": "L ’Opéra de Dijon a également mis en place un dispositif tarifaire innovant afin d’ encourager les sorties culturelles intergénérationnelles.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/101-101-la-culture-accessible-a-tous.pdf  ---  --- AMÉLIORER L ’ACCESSIBILITÉ PHYSIQUE L ’un des prérequis principaux visant à permettre l’accès à la culture pour tous consiste à rendre ac - cessibles les lieux culturels de la ville.",
+        "problematique": "RÉPONDRE AUX ATTENTES DES AÎNÉS Afin de favoriser l’accès des plus âgés à la culture, la première étape consiste à avoir une écoute toute par - ticulière pour leurs besoins.",
+        "solution_envisagee": "Proposer des dispositifs, des spectacles et des activités répondant à ces besoins.",
+        "objectifs": "Favoriser l’accès des seniors à la culture. Répondre aux\nbesoins spécifiques des plus âgés en termes de sorties\net d’activités culturelles.\nPRATIQUE\nRendre accessibles les lieux culturels de la ville.\nIdentifier les attentes des aînés concernant les sorties\net activités culturelles. Proposer des dispositifs, des\nspectacles et des activités répondant à ces besoins.\nDIJON\nVille Amie des Aînés depuis 06-2009\nDijon (21)\nFiche publiée le 11 mars 2015\nCULTURE ET LOISIRS\nwww.villesamiesdesaines-rf.fr\nMise en accessibilité du Théâtre de la Fontaine d’Ouche\n---  ---\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nAPPEL À CONTRIBUTION\nwww.villesamiesdesaines-rf.fr\nde 15 ans lorsqu’ils sont accompagnés d’une per -\nsonne de plus de 60 ans ayant acheté un billet plein\ntarif.\nD’autre part, une réflexion est actuellement menée\nau sein de l’Observatoire de l’âge entre élus et habi -\ntants concernant la création d’une Carte Culture à\ndestination des seniors.\nLA SEMAINE BLEUE\nLa Semaine Bleue, en tant que semaine nationale\ndes retraités et des personnes âgées est un moment\ntrès attendu par les aînés dijonnais. Il s’agit d’une\npériode permettant d’ encourager encore plus qu’ha-\nbituellement la participation culturelle des âgés.\nL ’ objectif de cette manifestation est de valoriser la\nplace des retraités dans la société et de favoriser\nles relations intergénérationnelles.\nDurant cette semaine, de nombreuses activités sont\norganisées par la Ville de Dijon: séances d’informa -\ntion, bals, manifestations diverses...\nA Dijon, cette semaine est tout particulièrement\nmarquée par le spectacle de clôture gratuit qui\nest traditionnellement organisé à l’ Auditorium\nà l’attention de tous les seniors de Côte d’Or. En\n2014, celui-ci s’articulait par exemple autour des\n« Extraits des grandes œuvres de Verdi et Wagner ».\nCULTURE ET LOISIRS"
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/101-101-la-culture-accessible-a-tous.pdf  ---  --- AMÉLIORER L ’ACCESSIBILITÉ PHYSIQUE L ’un des prérequis principaux visant à permettre l’accès à la culture pour tous consiste à rendre ac - cessibles les lieux culturels de la ville.",
+    "date": [
+        "11 mars 2015",
+        "mars 2015",
+        "2025",
+        "2009",
+        "2015",
+        "2014",
+        "En",
+        "En 2014"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_la_culture_accessible_a_tous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Dijon_la_culture_accessible_a_tous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: À Royan... une visite guidée de la ville en bus",
+    "territoire": "Les partenaires financiers de Ville d’Art et d’Histoire participent également à l’opération: la DRAC (Direction Générale des Affaires Culturelles), ainsi que la Région Nouvelle-Aquitaine.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Cette expérience inédite à Royan s’adresse à un public local, elle permet aux anciens comme aux nouveaux habitants de découvrir ou de redécouvrir leur ville.",
+    "description": {
+        "description_generale": "Coût: 800€ de dépenses et 240€ de recettes pour la première visite (40 places à 6€), deuxième visite gratuite pour les journées du patrimoine.  ---  --- D’après le bilan des visites organisées et le nombre de personnes inscrites (bus complet) et les personnes en liste d’attente, l’action rencontre un grand succès.",
+        "contexte": "DES RETOURS POSITIFS Un constat rapide permet de dire que le public touché est globalement plus âgé, moins mobile, voire à mobilité réduite, plus éloigné des modes de visite habituels.",
+        "problematique": "Permettre à un public rencontrant des difficultés de mobilité de participer à ces visites adaptées.",
+        "solution_envisagee": "UNE VISITE GUIDÉE DE LA VILLE EN BUS Fiche PARTAGE D'EXPÉRIENCE N°263 Villes Amies des Aînés en France Royan Ville Amie des Aînés depuis 2013 Royan (17) Proposer un mode de découverte original du patrimoine de la Ville de Royan, classée Ville d’Art et d’Histoire.",
+        "objectifs": "Organiser le trajet retour afin de permettre aux individus rencontrant le plus de difficultés pour se déplacer d’être au plus prêt de chez eux."
+    },
+    "porteur_initiative": "L’opération bénéficie de la couverture médiatique d’un événement à portée régionale: le Mois de l’Architecture et du cadre de vie, piloté par les partenaires précédemment cités.",
+    "date": [
+        "2025",
+        "2023",
+        "2010",
+        "2013",
+        "depuis 2010",
+        "depuis 2023",
+        "depuis 2013"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Royan_une_visite_guidee_de_la_ville_en_bus.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Royan_une_visite_guidee_de_la_ville_en_bus.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "titre": "---  ---",
+    "territoire": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 3: « La parole aide à vivre » Quoi? (Les constats) Même si un chemin important a déjà été accompli, i l existe des problèmes de communication entre la mairie et l’Assemblée des ainés.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Pour qui? (Le public visé) Améliorer la reconnaissance de l’Assemblée des ainés par rapport aux engagements de ses membres est important pour encourager la motivation de tous à s’impliquer pour Barlin.",
+    "description": {
+        "description_generale": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 3: « La parole aide à vivre » Quoi? (Les constats) Même si un chemin important a déjà été accompli, i l existe des problèmes de communication entre la mairie et l’Assemblée des ainés.",
+        "contexte": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 3: « La parole aide à vivre » Quoi? (Les constats) Même si un chemin important a déjà été accompli, i l existe des problèmes de communication entre la mairie et l’Assemblée des ainés.",
+        "problematique": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 3: « La parole aide à vivre » Quoi? (Les constats) Même si un chemin important a déjà été accompli, i l existe des problèmes de communication entre la mairie et l’Assemblée des ainés.",
+        "solution_envisagee": "Par exemple, la plateforme « entraidons-nous » n’a pas été mise en place aussi rapidement qu’attendu, les membres de l’Assemblées des ainés investis dans ce projet n’ont pas eu le sentiment d’être informés au fur et à mesure des diff icultés rencontrées.",
+        "objectifs": "Améliorer la communication, dès maintenant et pour toute la suite de la démarche. ---  --- Objectifs et moyens (Le but visé et l’action – ou les actions – à mettre en place) Instituer un référent à la Mairie avec lequel l’Assemblées des ainés pourra dialoguer."
+    },
+    "porteur_initiative": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 3: « La parole aide à vivre » Quoi? (Les constats) Même si un chemin important a déjà été accompli, i l existe des problèmes de communication entre la mairie et l’Assemblée des ainés.",
+    "date": [
+        "24 avril 2025",
+        "avril 2025",
+        "2025"
+    ],
+    "thematique": [
+        "santé",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction3_Barlin_vf.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FicheAction3_Barlin_vf.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

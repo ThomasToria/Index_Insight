@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: CARSAT HAUTS-DE-FRANCE",
+    "territoire": "Partenaire(s): communauté de communes du Grand Roye, 9 communes de cette collectivité, Défi Autonomie Seniors, Virtysens, autres partenaires de prévention du territoire (dont des professionnels de santé), MSA, Malakoff Humanis, Ville Amie des Ainés, Soliha.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Partenaire(s): communauté de communes du Grand Roye, 9 communes de cette collectivité, Défi Autonomie Seniors, Virtysens, autres partenaires de prévention du territoire (dont des professionnels de santé), MSA, Malakoff Humanis, Ville Amie des Ainés, Soliha.",
+    "description": {
+        "description_generale": "Une étude d’impact du projet sur ce territoire est en cours de rédaction et sera publiée au mois de novembre 2023.",
+        "contexte": "Face à ce constat sévère, la Carsat Hauts-de-France a souhaité renforcer le soutien aux démarches « d’aller- vers » les publics ruraux.",
+        "problematique": "Sa présence aux événements a permis de sensibiliser les participants sur plusieurs thématiques (nutrition, mémoire, sommeil, etc.) et de recueillir les besoins du territoire, afin d’organiser l’animation d’ateliers collectifs sur le territoire; Aller vers DISPOSITIF ITINÉRANT « VILLE À JOIE » • Virstysens: l e partenaire a mis à disposition une « capsule de voyage immersive », ayant pour but d’amener les usagers vers un état de détente et de bien- être tout en leur offrant une découverte.",
+        "solution_envisagee": "Chaque événement organisé par « Ville à Joie » se déroule en deux temps principaux: Temps 1: de 17 h 30 à 19 h 30 environ: accès aux droits, à la culture et à des services de prévention Plusieurs stands et intervenants partenaires s’installent sur la place du village et proposent aux habitants différents services.",
+        "objectifs": "Temps 2: De 19 h 30 à 21 h 30 environ, temps festif et événementiel L ’équipe salariée de « Ville à Joie » a animé ces temps forts et intergénérationnels, permettant de favoriser la dynamique de lien social et de dynamiser la vie du village: blind-test, concerts, jeux divers etc."
+    },
+    "porteur_initiative": "Titre: CARSAT HAUTS-DE-FRANCE Pages: 11, 12  CARSAT HAUTS-DE-FRANCE LES ACTEURS Porteur(s) de la pépite: SAS « Ville à Joie », entreprise labellisée Entreprise Solidaire d’Utilité Sociale (ESUS) ayant pour but d’apporter du service de proximité et du lien social dans les territoires ruraux.",
+    "date": [
+        "novembre",
+        "novembre 2023",
+        "23/08/2023",
+        "23/09/2023",
+        "2018",
+        "2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\03_CARSAT_HAUTS-DE-FRANCE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\03_CARSAT_HAUTS-DE-FRANCE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

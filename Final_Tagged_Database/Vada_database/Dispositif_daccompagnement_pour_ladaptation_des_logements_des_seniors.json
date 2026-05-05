@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Dispositif d’accompagnement pour l’adaptation des logements des seniors",
+    "territoire": "Titre: Dispositif d’accompagnement pour l’adaptation des logements des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1051-pe-dispositif-d-accompagnement-pour-l-adaptation-des-logements-des-seniors.pdf  ---  --- UN BESOIN DE CONSEILS La Ville de Libourne, adhérente au Réseau Ville Amie des Ainés, s’est donnée pour objectif d’adapter le territoire à une population vieillissante pour permettre le maintien et l’amélioration de ses conditions de vie.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Ainsi, dans le cadre de sa politique de maintien à domicile des personnes âgées, le CCAS de Libourne met en place un dispositif d’accompagnement pour l’adaptation des logements des seniors venant compléter l’offre actuelle proposée par l’OPAH de la Communauté d’agglomération du Libournais.",
+    "description": {
+        "description_generale": "Constat: besoin de conseils lors d'aménagement du logement Analyse du besoin et de l'existant Conventionnement avec SOLIHA Terres Solidaires Mise en place du dispositif Présentation au public, communication sur l'action Cout: 10 000€ (prise en charge de chaque visite à hauteur de 330 € TTC)  ---  --- Si, comme la Ville de Libourne, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN PROJET EN DÉVELOPPEMENT L'objectif est de réaliser trente diagnostics sur une année pleine.",
+        "contexte": "Constat: besoin de conseils lors d'aménagement du logement Analyse du besoin et de l'existant Conventionnement avec SOLIHA Terres Solidaires Mise en place du dispositif Présentation au public, communication sur l'action Cout: 10 000€ (prise en charge de chaque visite à hauteur de 330 € TTC)  ---  --- Si, comme la Ville de Libourne, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN PROJET EN DÉVELOPPEMENT L'objectif est de réaliser trente diagnostics sur une année pleine.",
+        "problematique": "Titre: Dispositif d’accompagnement pour l’adaptation des logements des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1051-pe-dispositif-d-accompagnement-pour-l-adaptation-des-logements-des-seniors.pdf  ---  --- UN BESOIN DE CONSEILS La Ville de Libourne, adhérente au Réseau Ville Amie des Ainés, s’est donnée pour objectif d’adapter le territoire à une population vieillissante pour permettre le maintien et l’amélioration de ses conditions de vie.",
+        "solution_envisagee": "Le CCAS a notamment pris contact avec le CCAS d'Arcachon, qui a mis en place des accompagnements par une ergothérapeute, et échangé avec les services de la ville et de l'agglomération, qui proposent déjà un dispositif d'accompagnement, basé sur les ressources des bénéficiaires.",
+        "objectifs": "Titre: Dispositif d’accompagnement pour l’adaptation des logements des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1051-pe-dispositif-d-accompagnement-pour-l-adaptation-des-logements-des-seniors.pdf  ---  --- UN BESOIN DE CONSEILS La Ville de Libourne, adhérente au Réseau Ville Amie des Ainés, s’est donnée pour objectif d’adapter le territoire à une population vieillissante pour permettre le maintien et l’amélioration de ses conditions de vie."
+    },
+    "porteur_initiative": "Titre: Dispositif d’accompagnement pour l’adaptation des logements des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1051-pe-dispositif-d-accompagnement-pour-l-adaptation-des-logements-des-seniors.pdf  ---  --- UN BESOIN DE CONSEILS La Ville de Libourne, adhérente au Réseau Ville Amie des Ainés, s’est donnée pour objectif d’adapter le territoire à une population vieillissante pour permettre le maintien et l’amélioration de ses conditions de vie.",
+    "date": [
+        "décembre 2023",
+        "janvier 2024",
+        "février 2024",
+        "mars 2024",
+        "juin 2024",
+        "2025",
+        "1051",
+        "2023",
+        "2024",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

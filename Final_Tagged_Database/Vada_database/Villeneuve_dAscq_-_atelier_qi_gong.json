@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Villeneuve d'Ascq - atelier qi gong",
+    "territoire": "Une activité ouverte aux usagers de plus de 63 ans résidant sur le territoire de la commune de Villeneuve d'Ascq.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "VILLENEUVE D'ASCQ - ATELIER QI GONG Fiche PARTAGE D'EXPÉRIENCE N°870 Villes Amies des Aînés en France Villeneuve d'Ascq (59) Ville Amie des Aînés depuis 2022 Permettre aux usagers inscrits à l'activité de pratiquer une activité douce et régulière.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Villeneuve d'Ascq vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "LE QI GONG: UNE GYMNASTIQUE TRADITIONNELLE CHINOISE Le Qi Gong (prononcé tchigong) signifie travail de l'énergie vitale.",
+        "problematique": "LE QI GONG: UNE GYMNASTIQUE TRADITIONNELLE CHINOISE Le Qi Gong (prononcé tchigong) signifie travail de l'énergie vitale.",
+        "solution_envisagee": "Titre: Villeneuve d'Ascq - atelier qi gong Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1008-concours-2023-villeneuve-d-ascq-atelier-qi-gong.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS ORIGINE ET MISE EN PLACE DU PROJET Suite à une demande très forte de la population aînée de pouvoir pratiquer une activité physique douce, la mairie de Villeneuve d'Ascq a rencontré différents prestataires.",
+        "objectifs": "Favoriser le bien-vieillir et le maintien des capacités physiques."
+    },
+    "porteur_initiative": "LE QI GONG: UNE GYMNASTIQUE TRADITIONNELLE CHINOISE Le Qi Gong (prononcé tchigong) signifie travail de l'énergie vitale.",
+    "date": [
+        "2025",
+        "1008",
+        "2023",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Villeneuve_dAscq_-_atelier_qi_gong.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Villeneuve_dAscq_-_atelier_qi_gong.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

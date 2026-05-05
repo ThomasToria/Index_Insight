@@ -1,0 +1,64 @@
+{
+    "titre": "Titre: Intervention d'ergothérapeutes à domicile auprès des personnes de 60 ans et plus",
+    "territoire": "INTERVENTION D'ERGOTHÉRAPEUTES À DOMICILE AUPRÈS DES PERSONNES DE 60 ANS ET PLUS Fiche PARTAGE D'EXPÉRIENCE N°609 Villes Amies des Aînés en France Nantes Métropole Ville Amie des Aînés depuis septembre 2019 Nantes Métropole (44) Fiche publiée le 29/01/2019 Prévenir la perte d'autonomie dans le maintien à domicile des personnes âgées de 60 ans et plus Adapter l'environnement avec des aides-techniques mobiles aux personnes en situation de perte d'autonomie Financement à hauteur de 80% par la Conférence des Financeurs et 20% par Nantes métropole Un coût global de 110 000€ Un appui des acteurs sur le territoire: CLIC, MAIA, SSIAD, ESA, services d'aide à domicile etc.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "De plus, l'ergothérapeute informe, conseille et oriente vers les partenaires sur la question de l'aménagement du logement et il sensibilise et accompagne les aidants et les proches.",
+    "description": {
+        "description_generale": "Le projet a été retenu fin 2017 et un temps plein d'ergothérapeute a pu être recruté dès mars 2018 permettant ainsi l'expérimentation de cette prestation.",
+        "contexte": "Si, comme Nantes Métropole, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Ils identifient le besoin auprès de la personne âgée et préconisent l'intervention des ergothérapeutes via une fiche contact.",
+        "solution_envisagee": "Titre: Intervention d'ergothérapeutes à domicile auprès des personnes de 60 ans et plus Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/742-pe-ergotherapeutes-a-domicile-aupres-des-personnes-de-60-ans-et-plus.pdf  ---  --- UNE VOLONTÉ NATIONALE DE PRÉVENIR LA PERTE D'AUTONOMIE En réponse à la volonté de la CNSA de favoriser la prévention de la perte d'autonomie par l'accès à l'aide technique, le service d'intervention d'ergothérapeutes à domicile a été créé en 2018 avec le soutien de la Conférence des financeurs (axe 1 \"faciliter l'accès à des aides techniques et simplifier les démarches d'adaptation du logement).",
+        "objectifs": "Titre: Intervention d'ergothérapeutes à domicile auprès des personnes de 60 ans et plus Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/742-pe-ergotherapeutes-a-domicile-aupres-des-personnes-de-60-ans-et-plus.pdf  ---  --- UNE VOLONTÉ NATIONALE DE PRÉVENIR LA PERTE D'AUTONOMIE En réponse à la volonté de la CNSA de favoriser la prévention de la perte d'autonomie par l'accès à l'aide technique, le service d'intervention d'ergothérapeutes à domicile a été créé en 2018 avec le soutien de la Conférence des financeurs (axe 1 \"faciliter l'accès à des aides techniques et simplifier les démarches d'adaptation du logement)."
+    },
+    "porteur_initiative": "Si, comme Nantes Métropole, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "janvier 2017",
+        "mars 2018",
+        "septembre",
+        "septembre 2019",
+        "29/01/2019",
+        "2025",
+        "2018",
+        "2017",
+        "2021",
+        "2019",
+        "2022",
+        "2020",
+        "depuis 2018",
+        "en 2018",
+        "en 2021",
+        "en 2022",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Intervention_dergotherapeutes_a_domicile_aupres_des_personnes_de_60_ans_et_plus.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Intervention_dergotherapeutes_a_domicile_aupres_des_personnes_de_60_ans_et_plus.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

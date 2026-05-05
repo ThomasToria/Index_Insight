@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Danse et bien-être en accueil de jour",
+    "territoire": "Titre: Danse et bien-être en accueil de jour Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/973-concours-2023-danse-et-bien-etre-en-accueil-de-jour.pdf  ---  --- MUSIQUE ET BIEN-ÊTRE Les ateliers proposés à l'accueil de jour du CIAS s'orientaient sur les ateliers chant ou écoute de musique.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "L'observation des bénéficiaires sur ces temps musicaux a permis à l'équipe de professionnels d'orienter ses projets sur un temps musical, dansé permettant à des bénéficiaires de profiter de ces instants sans limite de mouvement à travers la danse.",
+    "description": {
+        "description_generale": "ORGANISATION DES ATELIERS Pour mettre en place ce projet il a fallu trouver un professionnel adapté et tester le dispositif avec une première séance d'1h30.",
+        "contexte": "Titre: Danse et bien-être en accueil de jour Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/973-concours-2023-danse-et-bien-etre-en-accueil-de-jour.pdf  ---  --- MUSIQUE ET BIEN-ÊTRE Les ateliers proposés à l'accueil de jour du CIAS s'orientaient sur les ateliers chant ou écoute de musique.",
+        "problematique": "Ce besoin d'expression physique, d'écoute musicale et de danse est à l'origine de la création du projet et de sa mise en place.",
+        "solution_envisagee": "Ce besoin d'expression physique, d'écoute musicale et de danse est à l'origine de la création du projet et de sa mise en place.",
+        "objectifs": "Favoriser l’expression autre que verbale et développer la créativité par sa propre gestuelle."
+    },
+    "porteur_initiative": "Titre: Danse et bien-être en accueil de jour Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/973-concours-2023-danse-et-bien-etre-en-accueil-de-jour.pdf  ---  --- MUSIQUE ET BIEN-ÊTRE Les ateliers proposés à l'accueil de jour du CIAS s'orientaient sur les ateliers chant ou écoute de musique.",
+    "date": [
+        "septembre 2022",
+        "juillet",
+        "juillet 2023",
+        "2025",
+        "2023",
+        "2022",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Danse_et_bien-etre_en_accueil_de_jour.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Danse_et_bien-etre_en_accueil_de_jour.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

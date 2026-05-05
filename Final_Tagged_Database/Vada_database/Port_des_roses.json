@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Port des roses",
+    "territoire": "Titre: Port des roses Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/935-concours-2023-port-des-roses.pdf  ---  --- UNE CAUSE COMMUNE, LA LUTTE CONTRE LE CANCER DU SEIN Port des Roses est une marche intergénérationnelle mise en oeuvre dans le cadre d'Octobre Rose.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Elle est ouverte à tout public (de 0 à 99 ans) et proposera trois parcours.",
+    "description": {
+        "description_generale": "Le Conseil des Sages a ainsi créé cette année une association de prévention afin d'en gérer l'organisation: \"Les sages en action\".",
+        "contexte": "Le constat de la pertinence de cette action a été dressé au regard du nombre de participants, du nombre de structures partenaires ainsi qu'au montant des dons.",
+        "problematique": "Finalisation des besoins, rencontre avec les services de la Ville, répartition des missions entre l'association et la Ville, validation des points retenus, organisation et gestion des inscriptions, validation par les élus des propositions, travail de communication et organisation du village de départ de la marche sont les principales étapes clés de la mise en place de ce projet.",
+        "solution_envisagee": "Finalisation des besoins, rencontre avec les services de la Ville, répartition des missions entre l'association et la Ville, validation des points retenus, organisation et gestion des inscriptions, validation par les élus des propositions, travail de communication et organisation du village de départ de la marche sont les principales étapes clés de la mise en place de ce projet.",
+        "objectifs": "SIX MOIS DE PRÉPARATION POUR \"LES SAGES EN ACTION\" Un peu plus de six mois de travail et de réunions ont été nécessaires afin de préparer l'édition 2023."
+    },
+    "porteur_initiative": "Un village d'accueil de départ et d'arrivée des marches, sera organisé par les associations de prévention du territoire avec des animations et des conseils en prévention.",
+    "date": [
+        "30 octobre 2022",
+        "30",
+        "23 novembre",
+        "30 septembre 2023",
+        "23 novembre 2022",
+        "octobre 2022",
+        "septembre 2023",
+        "novembre",
+        "novembre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Port_des_roses.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Port_des_roses.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

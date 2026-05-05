@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Un accompagnement individualisé pour un nouvel habitat adapté",
+    "territoire": "Titre: Un accompagnement individualisé pour un nouvel habitat adapté Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/839-concours-2022-66-un-accompagnment-individualise-our-un-nouvel-habitat-adapte.pdf  ---  --- UN ACCOMPAGNEMENT POUR LE CHANGEMENT DE VIE Le changement de domicile et l'entrée dans un nouvel habitat, de manière volontaire ou contrainte, est une étape qui peut être perturbante pour les seniors.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Mettre en place l'intervention des travailleurs sociaux: évaluation de la situation des personnes, rédaction de dossier de demandes d'aides, de portage de repas...  ---  --- une aide à l'admission de l'entrée en EHPAD (Etablissement d'Hébergement pour Personnes Âgées Dépendantes) est proposée.",
+    "description": {
+        "description_generale": "Mettre en place l'intervention des travailleurs sociaux: évaluation de la situation des personnes, rédaction de dossier de demandes d'aides, de portage de repas...  ---  --- une aide à l'admission de l'entrée en EHPAD (Etablissement d'Hébergement pour Personnes Âgées Dépendantes) est proposée.",
+        "contexte": "Mettre en place l'intervention des travailleurs sociaux: évaluation de la situation des personnes, rédaction de dossier de demandes d'aides, de portage de repas...  ---  --- une aide à l'admission de l'entrée en EHPAD (Etablissement d'Hébergement pour Personnes Âgées Dépendantes) est proposée.",
+        "problematique": "Ainsi, les agents du service Cadre de vie et Logement du CCAS de Béziers interviennent au domicile des personnes en difficulté afin d'évaluer leur situation et si besoin de mettre en place un accompagnement pour proposer un hébergement adapté (accompagnement à l'admission en EHPAD et résidences seniors, lien vers la conciergerie pour le déménagement ou les petits travaux…).",
+        "solution_envisagee": "Ainsi, les agents du service Cadre de vie et Logement du CCAS de Béziers interviennent au domicile des personnes en difficulté afin d'évaluer leur situation et si besoin de mettre en place un accompagnement pour proposer un hébergement adapté (accompagnement à l'admission en EHPAD et résidences seniors, lien vers la conciergerie pour le déménagement ou les petits travaux…).",
+        "objectifs": "En cas d'isolement et d'impossibilité de rester au domicile,  UN ACCOMPAGNEMENT INDIVIDUALISÉ POUR UN NOUVEL HABITAT ADAPTÉ Fiche PARTAGE D'EXPÉRIENCE N°704 Villes Amies des Aînés en France Ville de Béziers (34) Ville Membre depuis 2019 Favoriser le maintien dans un domicile adéquat."
+    },
+    "porteur_initiative": "UNE AIDE PLURIDIMENSIONNELLE APPORTÉE PAR LES AGENTS La Ville de Béziers compte plusieurs EHPAD sur son territoire, dont deux gérés par le CCAS.",
+    "date": [
+        "mai 2020",
+        "2025",
+        "2022",
+        "2019",
+        "2020",
+        "depuis 2019",
+        "En 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_accompagnement_individualise_pour_un_nouvel_habitat_adapte.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_accompagnement_individualise_pour_un_nouvel_habitat_adapte.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

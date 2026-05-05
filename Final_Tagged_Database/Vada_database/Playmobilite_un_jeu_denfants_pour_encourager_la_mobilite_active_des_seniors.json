@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: \"Playmobilité: un jeu d’enfants\" pour encourager la mobilité active des seniors",
+    "territoire": "Titre: \"Playmobilité: un jeu d’enfants\" pour encourager la mobilité active des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/822-concours-2022-49-playmobilite.pdf  ---  --- \"PLAYMOBILITÉ: UN JEU D'ENFANTS\" POUR ENCOURAGER LA MOBILITÉ ACTIVE DES SENIORS DES ATELIERS PARTICIPATIFS POUR UNE MOBILITÉ OPTIMALE La mobilité des seniors représente un enjeu majeur dans la société.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "nationale"
+    ],
+    "public_vise": "Titre: \"Playmobilité: un jeu d’enfants\" pour encourager la mobilité active des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/822-concours-2022-49-playmobilite.pdf  ---  --- \"PLAYMOBILITÉ: UN JEU D'ENFANTS\" POUR ENCOURAGER LA MOBILITÉ ACTIVE DES SENIORS DES ATELIERS PARTICIPATIFS POUR UNE MOBILITÉ OPTIMALE La mobilité des seniors représente un enjeu majeur dans la société.",
+    "description": {
+        "description_generale": "Une évaluation qualitative des ateliers est proposée à travers un questionnaire de satisfaction remis aux participants et aux structures relais sur différents critères: pertinence des thématiques, durée du temps de l'atelier, intérêt pour la thématique.",
+        "contexte": "Une évaluation qualitative des ateliers est proposée à travers un questionnaire de satisfaction remis aux participants et aux structures relais sur différents critères: pertinence des thématiques, durée du temps de l'atelier, intérêt pour la thématique.",
+        "problematique": "Titre: \"Playmobilité: un jeu d’enfants\" pour encourager la mobilité active des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/822-concours-2022-49-playmobilite.pdf  ---  --- \"PLAYMOBILITÉ: UN JEU D'ENFANTS\" POUR ENCOURAGER LA MOBILITÉ ACTIVE DES SENIORS DES ATELIERS PARTICIPATIFS POUR UNE MOBILITÉ OPTIMALE La mobilité des seniors représente un enjeu majeur dans la société.",
+        "solution_envisagee": "Ce jeu comporte 18 cartes de questions présentant deux faces illustrées de situation de déplacement dans un centre urbanisé dense ou dans les communes rurales associées à des réponses: le \"bon\" côté (comportement réglementaire ou recommandé) et le \"mauvais\" côté (attitude dangereuse ou interdite).",
+        "objectifs": "Pour permettre de pérenniser et d'amplifier l'action, une demande de reconduction se fera auprès de la Conférence des Financeurs d'Ille-et-Vilaine afin de continuer de répondre efficacement aux attentes des seniors sur les questions de mobilité active."
+    },
+    "porteur_initiative": "Une évaluation qualitative des ateliers est proposée à travers un questionnaire de satisfaction remis aux participants et aux structures relais sur différents critères: pertinence des thématiques, durée du temps de l'atelier, intérêt pour la thématique.",
+    "date": [
+        "2025",
+        "2022",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Playmobilite_un_jeu_denfants_pour_encourager_la_mobilite_active_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Playmobilite_un_jeu_denfants_pour_encourager_la_mobilite_active_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

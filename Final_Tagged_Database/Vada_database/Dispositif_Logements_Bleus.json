@@ -1,0 +1,61 @@
+{
+    "titre": "Titre: Dispositif Logements Bleus",
+    "territoire": "Titre: Dispositif Logements Bleus Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/739-pe-607-dispositif-logements-bleus-nantes.pdf  ---  --- ADAPTER LES LOGEMENTS Le label « logement bleu » identifie les logements ayant bénéficié de travaux d’aménagement favorisant le maintien à domicile et évitant ainsi un départ prématuré en maison de retraite.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Outre cette adaptation technique du logement, des référents au sein de la direction Personnes Âgées de la Ville ont vocation à coordonner différents services d’aide à la personne (aide à domicile, portage des repas, télé-assistance, soins infirmiers, etc.) et assurent une veille sociale.",
+    "description": {
+        "description_generale": "UN PROJET CO-CONSTRUIT Les bailleurs du projet NMH, ADOMA, la Nantaise d'Habitation, Aiguillon Construction, Villogia, Atlantique Habitations et CDC Habitat, ont pour rôle l'identification des logements bleus et des travaux d'adaptation; il est interlocuteur référent sur la partie logement pour le CLIC et participe à l'évolution du dispositif.",
+        "contexte": "Titre: Dispositif Logements Bleus Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/739-pe-607-dispositif-logements-bleus-nantes.pdf  ---  --- ADAPTER LES LOGEMENTS Le label « logement bleu » identifie les logements ayant bénéficié de travaux d’aménagement favorisant le maintien à domicile et évitant ainsi un départ prématuré en maison de retraite.",
+        "problematique": "La veille sociale a une vocation \"préventive\" et sert à accompagner le parcours de la personne sur le champ de la lutte contre l'isolement (contacts réguliers), la perte d'autonomie (mise en place d'aides si besoin) et le lien social (orientation vers des activités du quartier ou de la ville).",
+        "solution_envisagee": "La veille sociale a une vocation \"préventive\" et sert à accompagner le parcours de la personne sur le champ de la lutte contre l'isolement (contacts réguliers), la perte d'autonomie (mise en place d'aides si besoin) et le lien social (orientation vers des activités du quartier ou de la ville).",
+        "objectifs": "SUITES DU PROJET Plusieurs évolutions sont à venir dès 2022: 2 000 logements bleus d'ici 2026 avec diversification des bailleurs et réadaptation à la demande, du stock et du flux dans la gestion des logements, afin de mieux répondre à la demande, de cibler les territoires où le vieillissement est plus prégnant, d'offrir des logements attractifs (neufs, quartiers)."
+    },
+    "porteur_initiative": "Il s'agirait de palier le problème du senior qui cherche un autre mode d'habiter mais ne connait pas la diversité de l'offre (colocations seniors/inter, habitat inclusif, habitat participatif, Résidence autonomie..) et le fait que les porteurs des habitats, eux, peinent parfois à trouver les bons profils en fonction de leur offre.",
+    "date": [
+        "2025",
+        "2008",
+        "2013",
+        "2017",
+        "2022",
+        "2026",
+        "2021",
+        "2011",
+        "depuis 2017",
+        "en 2021",
+        "en 2011",
+        "en 2017",
+        "Entre 2008 et 2013"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_Logements_Bleus.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Dispositif_Logements_Bleus.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Transport solidaire",
+    "territoire": "Titre: Transport solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf  ---  --- UN SERVICE COMPLÉMENTAIRE Un besoin de transports à la demande est clairement exprimé par les habitants.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Transport solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf  ---  --- UN SERVICE COMPLÉMENTAIRE Un besoin de transports à la demande est clairement exprimé par les habitants.",
+    "description": {
+        "description_generale": "CCAS de Fouras-les-bains Ville Amie des Aînés depuis 2017 Fouras-les-bains (17)  ---  --- Si, comme la Ville de Fouras-les-bains, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN SERVICE QUI FONCTIONNE GRÂCE AUX BÉNÉVOLES Le trajet est facturé 3 euros aux habitants, qui sont reversés aux bénévoles comme indemnité.",
+        "contexte": "Titre: Transport solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf  ---  --- UN SERVICE COMPLÉMENTAIRE Un besoin de transports à la demande est clairement exprimé par les habitants.",
+        "problematique": "TRANSPORT SOLIDAIRE Fiche PARTAGE D'EXPÉRIENCE N°907 Villes Amies des Aînés en France Lutter contre l’isolement et la dépendance; Créer du lien social sur le territoire; Répondre à des besoins de transports essentiels ( RDV médicaux, pharmacie, courses..); Rendre service à une population fragilisée.",
+        "solution_envisagee": "Titre: Transport solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf  ---  --- UN SERVICE COMPLÉMENTAIRE Un besoin de transports à la demande est clairement exprimé par les habitants.",
+        "objectifs": "Titre: Transport solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf  ---  --- UN SERVICE COMPLÉMENTAIRE Un besoin de transports à la demande est clairement exprimé par les habitants."
+    },
+    "porteur_initiative": "Titre: Transport solidaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf  ---  --- UN SERVICE COMPLÉMENTAIRE Un besoin de transports à la demande est clairement exprimé par les habitants.",
+    "date": [
+        "juin 2023",
+        "juillet 2023",
+        "septembre 2023",
+        "juin 2024",
+        "2025",
+        "1106",
+        "2024",
+        "2023",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_solidaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Transport_solidaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

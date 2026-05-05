@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Création d'un café des aidants",
+    "territoire": "Titre: Création d'un café des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/801-concours-2022-24-creation-d-un-cafe-des-aidants.pdf  ---  --- DES ESPACES D'INFORMATION, DE RENCONTRES ET D'ÉCHANGES Le projet Création d’un Café des aidants à Sceaux est en partenariat avec l’association Française des aidants.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Ils sont ouverts à tous les aidants non professionnels, quels que soient l’âge et la pathologie de la personne accompagnée.",
+    "description": {
+        "description_generale": "Des aspects qualitatifs serviront aussi pour évaluer le projet, il s'agira du niveau de satisfaction des aidants, du questionnaire de satisfaction remis après la séance, de la nature des attentes et besoins recueillis auprès des aidants, de la qualité des actions développées par les intervenants du Café des aidants, de la qualité l’accompagnement du porteur assuré par l’association Française des aidants, ou encore du niveau de satisfaction des partenaires associés au dispositif Café des aidants… Un bilan annuel sera rédigé par le CCAS porteur du projet pour la Ville en étroite collaboration avec les partenaires opérationnels.",
+        "contexte": "Titre: Création d'un café des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/801-concours-2022-24-creation-d-un-cafe-des-aidants.pdf  ---  --- DES ESPACES D'INFORMATION, DE RENCONTRES ET D'ÉCHANGES Le projet Création d’un Café des aidants à Sceaux est en partenariat avec l’association Française des aidants.",
+        "problematique": "Titre: Création d'un café des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/801-concours-2022-24-creation-d-un-cafe-des-aidants.pdf  ---  --- DES ESPACES D'INFORMATION, DE RENCONTRES ET D'ÉCHANGES Le projet Création d’un Café des aidants à Sceaux est en partenariat avec l’association Française des aidants.",
+        "solution_envisagee": "Les Cafés des aidants sont des espaces d’information, de rencontres et d’échanges, animés par une conseillère gérontologique de la Ville et un/une psychologue ayant une expertise sur l’écoute et l’accompagnement des aidants.",
+        "objectifs": "CRÉATION D'UN CAFÉ DES AIDANTS Fiche PARTAGE D'EXPÉRIENCE N°667 Villes Amies des Aînés en France Sceaux (92) Ville Membre depuis 2015 Favoriser le bien-être des aidants et les accompagner dans le mieux-être des aidés."
+    },
+    "porteur_initiative": "Titre: Création d'un café des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/801-concours-2022-24-creation-d-un-cafe-des-aidants.pdf  ---  --- DES ESPACES D'INFORMATION, DE RENCONTRES ET D'ÉCHANGES Le projet Création d’un Café des aidants à Sceaux est en partenariat avec l’association Française des aidants.",
+    "date": [
+        "2025",
+        "2022",
+        "2015",
+        "2023",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_cafe_des_aidants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Creation_dun_cafe_des_aidants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

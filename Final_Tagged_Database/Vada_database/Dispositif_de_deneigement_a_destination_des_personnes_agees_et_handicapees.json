@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Dispositif de déneigement à destination des personnes âgées et handicapées",
+    "territoire": "Titre: Dispositif de déneigement à destination des personnes âgées et handicapées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/700-pe-dispositif-de-deneigement-belfort.pdf  ---  --- SÉCURISER LES DÉPLACEMENTS Le CCAS de la Ville de Belfort est attentif au bien-être de ses aînés: il a mis en place un dispositif de déneigement pour les personnes âgées de plus de 70 ans et/ou aux personnes en situation de handicap.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Dispositif de déneigement à destination des personnes âgées et handicapées Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/700-pe-dispositif-de-deneigement-belfort.pdf  ---  --- SÉCURISER LES DÉPLACEMENTS Le CCAS de la Ville de Belfort est attentif au bien-être de ses aînés: il a mis en place un dispositif de déneigement pour les personnes âgées de plus de 70 ans et/ou aux personnes en situation de handicap.",
+    "description": {
+        "description_generale": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com BILAN DE L'ACTION Au-delà de garantir aux personnes âgées l’engagement de leur responsabilité dans le cadre du plan hivernale Belfortain, ce service permet: un repérage des situations d’isolement, de créer du lien social et d’orienter les personnes auprès des services du CCAS ou partenaires extérieurs.",
+        "contexte": "Coût total du projet: 1258 euros.  ---  --- UN PROJET PARTAGÉ Ce projet a été co-réalisé.",
+        "problematique": "Si, comme la ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com BILAN DE L'ACTION Au-delà de garantir aux personnes âgées l’engagement de leur responsabilité dans le cadre du plan hivernale Belfortain, ce service permet: un repérage des situations d’isolement, de créer du lien social et d’orienter les personnes auprès des services du CCAS ou partenaires extérieurs.",
+        "solution_envisagee": "Ce dispositif permet de sécuriser les déplacements des personnes âgées et de respecter les obligations réglementaires de déneigement de trottoirs en tant que riverain de la voie publique.",
+        "objectifs": "Coût total du projet: 1258 euros.  ---  --- UN PROJET PARTAGÉ Ce projet a été co-réalisé."
+    },
+    "porteur_initiative": "Ce dispositif est donc coordonné par le Service Pôle Sénior du CCAS.",
+    "date": [
+        "2025",
+        "2020",
+        "2021",
+        "1258",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_de_deneigement_a_destination_des_personnes_agees_et_handicapees.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Dispositif_de_deneigement_a_destination_des_personnes_agees_et_handicapees.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

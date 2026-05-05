@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Élection \"Super mamie\" du territoire de Belfort",
+    "territoire": "Titre: Élection \"Super mamie\" du territoire de Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/691-pe-election-super-mamie-belfort.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL L’élection de Super Mamie du Territoire de Belfort est un événement intergénérationnel, il valorise la transmission et les solidarités entre les générations.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Coût total de l'action: 18 000 €.  ---  --- Le vote du public (350 spectateurs) est ensuite organisé dans la salle par bulletins.",
+    "description": {
+        "description_generale": "L’élection dans l’après-midi s’est déroulé en trois séquences: d'abord la présentation, l’enfant de la candidate présente sa maman, parle de ses valeurs et des actions de bénévolat ou de solidarité.",
+        "contexte": "Le public était présent (environ 350 personnes) malgré le contexte sanitaire.",
+        "problematique": "Titre: Élection \"Super mamie\" du territoire de Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/691-pe-election-super-mamie-belfort.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL L’élection de Super Mamie du Territoire de Belfort est un événement intergénérationnel, il valorise la transmission et les solidarités entre les générations.",
+        "solution_envisagee": "Proposer un concours animé par les professionnels du comité « Super Mamie » suivi d’un spectacle de qualité.",
+        "objectifs": "Des partenaires ont été démarchés afin de fournir des lots pour les participantes."
+    },
+    "porteur_initiative": "Proposer un concours animé par les professionnels du comité « Super Mamie » suivi d’un spectacle de qualité.",
+    "date": [
+        "juin 2022",
+        "2025",
+        "2018",
+        "2021",
+        "2022",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Election_Super_mamie_du_territoire_de_Belfort.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Election_Super_mamie_du_territoire_de_Belfort.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

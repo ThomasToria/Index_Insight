@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Aprem intergénérationnels",
+    "territoire": "Titre: Aprem intergénérationnels Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/978-pe-aprem-intergenerationnels.pdf  ---  --- DU LIEN PAR LE JEU Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "MISE EN PLACE DES SÉANCES Une 1ère rencontre a eu lieu en mai, avec le président de l'association ainsi qu'avec l'élue en charge des seniors, la Coordinatrice du Point Accueil Seniors et la coordinatrice du service éducatif, afin de définir la faisabilité du projet.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
+        "objectifs": "MISE EN PLACE DES SÉANCES Une 1ère rencontre a eu lieu en mai, avec le président de l'association ainsi qu'avec l'élue en charge des seniors, la Coordinatrice du Point Accueil Seniors et la coordinatrice du service éducatif, afin de définir la faisabilité du projet."
+    },
+    "porteur_initiative": "Si, comme la Ville de Maxéville, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2019",
+        "2880",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aprem_intergenerationnels.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Aprem_intergenerationnels.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

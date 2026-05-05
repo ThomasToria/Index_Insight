@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Les chèques seniors",
+    "territoire": "Désormais, les habitants de Tassin la Demi-Lune sont informés de l’existence des chèques seniors par plusieurs biais: le journal municipal, les panneaux lumineux de la ville, les affiches et flyers déposés dans des bâtiments municipaux et dans les commerces de la commune ou encore des articles de presse.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Désormais, les habitants de Tassin la Demi-Lune sont informés de l’existence des chèques seniors par plusieurs biais: le journal municipal, les panneaux lumineux de la ville, les affiches et flyers déposés dans des bâtiments municipaux et dans les commerces de la commune ou encore des articles de presse.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Tassin la Demi-Lune, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "De nombreuses structures de la commune ont accepté de signer une convention de partenariat dans le cadre de la mise en place des chèques seniors: l’Atrium, la médiathèque, l’espace aquatique, le cinéma, le centre social, les clubs de gym et de tennis, la MJC, le groupe de recherche historique, le club “Loisirs et amitié” pour les seniors ou encore le club de marche nordique.",
+        "problematique": "De nombreuses structures de la commune ont accepté de signer une convention de partenariat dans le cadre de la mise en place des chèques seniors: l’Atrium, la médiathèque, l’espace aquatique, le cinéma, le centre social, les clubs de gym et de tennis, la MJC, le groupe de recherche historique, le club “Loisirs et amitié” pour les seniors ou encore le club de marche nordique.",
+        "solution_envisagee": "De nombreuses structures de la commune ont accepté de signer une convention de partenariat dans le cadre de la mise en place des chèques seniors: l’Atrium, la médiathèque, l’espace aquatique, le cinéma, le centre social, les clubs de gym et de tennis, la MJC, le groupe de recherche historique, le club “Loisirs et amitié” pour les seniors ou encore le club de marche nordique.",
+        "objectifs": "LES CHÈQUES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°401 Villes Amies des Aînés en France Tassin la Demi-Lune Ville Amie des Aînés depuis 2017 Tassin la Demi-Lune (69) Fiche publiée le 02/07/2018 Favoriser l’accès aux loisirs, aux sports et à la culture des retraités tassilunois."
+    },
+    "porteur_initiative": "De nombreuses structures de la commune ont accepté de signer une convention de partenariat dans le cadre de la mise en place des chèques seniors: l’Atrium, la médiathèque, l’espace aquatique, le cinéma, le centre social, les clubs de gym et de tennis, la MJC, le groupe de recherche historique, le club “Loisirs et amitié” pour les seniors ou encore le club de marche nordique.",
+    "date": [
+        "02/07/2018",
+        "2025",
+        "2023",
+        "2017",
+        "2018",
+        "2016",
+        "depuis 2017",
+        "en 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_cheques_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_cheques_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

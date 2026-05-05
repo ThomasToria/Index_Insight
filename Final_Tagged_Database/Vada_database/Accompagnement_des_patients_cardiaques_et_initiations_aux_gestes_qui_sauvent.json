@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Accompagnement des patients cardiaques et initiations aux gestes qui sauvent",
+    "territoire": "Coût: activités physiques: 200€/an  ---  --- CONFÉRENCES ET INITIATION AUX GESTES QUI SAUVENT En plus des activités, des après-midi conférence-débat peuvent être organisés au sein du siège local à Lyon ou dans d’autres villes de la région (Saint-Étienne, Bourg-en-Bresse, etc.).",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Ces activités sont animées par des spécialistes: kinés, infirmiers, professeurs d’éducation physique et sportive, maîtres nageurs, etc.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Ces activités sont animées par des spécialistes: kinés, infirmiers, professeurs d’éducation physique et sportive, maîtres nageurs, etc.",
+        "problematique": "Toute personne qui veut reprendre une activité à faible coût, accompagnée d’animateurs sport-santé et/ou qui s’interroge sur ses problèmes cardiovasculaires ainsi que son traitement.",
+        "solution_envisagee": "Titre: Accompagnement des patients cardiaques et initiations aux gestes qui sauvent Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/421-pe-accompagnement-de-patients-cardiaques.pdf  ---  --- ACCOMPAGNER LES CARDIAQUES EN PHASE DE RÉADAPTATION Depuis plus de 10 ans, la Fédération Française de Cardiologie (FFC) a créé les Clubs « cœur et Santé » afin d’encourager les patients atteints d’affection cardiovasculaire à maintenir une activité physique.",
+        "objectifs": "Ces activités sont animées par des spécialistes: kinés, infirmiers, professeurs d’éducation physique et sportive, maîtres nageurs, etc."
+    },
+    "porteur_initiative": "Ces activités sont animées par des spécialistes: kinés, infirmiers, professeurs d’éducation physique et sportive, maîtres nageurs, etc.",
+    "date": [
+        "2025",
+        "1995",
+        "2009",
+        "1000",
+        "Depuis 1995",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_patients_cardiaques_et_initiations_aux_gestes_qui_sauvent.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Accompagnement_des_patients_cardiaques_et_initiations_aux_gestes_qui_sauvent.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.25,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

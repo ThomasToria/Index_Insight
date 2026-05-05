@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Programme de prévention des chutes et des troubles liés à l'équilibre",
+    "territoire": "Titre: Programme de prévention des chutes et des troubles liés à l'équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/986-concours-2023-programme-de-prevention-des-chutes-et-des-troubles-lies-a-l-equilibre.pdf  ---  --- ORIGINE ET MISE EN PLACE DU PROJET Après avoir identifié un besoin auprès de la population, le CCAS de la ville a voulu instaurer des actions de prévention en direction des séniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Il a fallut ensuite programmer l'organisation de séances hebdomadaires ainsi que la réservation d'une salle. \"SILVER XIII EQUILIBRE\" \"SILVER XIII Equilibre\" est un programme d'activités physiques adaptées avec ballon ovale pour la prévention primaire des chutes et des troubles liées à l'équilibre afin de prolonger l'autonomie des seniors par l'acquisition de réflexes.",
+    "description": {
+        "description_generale": "Titre: Programme de prévention des chutes et des troubles liés à l'équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/986-concours-2023-programme-de-prevention-des-chutes-et-des-troubles-lies-a-l-equilibre.pdf  ---  --- ORIGINE ET MISE EN PLACE DU PROJET Après avoir identifié un besoin auprès de la population, le CCAS de la ville a voulu instaurer des actions de prévention en direction des séniors.",
+        "contexte": "Ces séances d'activités physiques ont pour but de permettre aux participants de progresser autour de la notion de déplacement dans un contexte de rugby à XIII en utilisant le matériel classique d’entraînement (ballons, boucliers).",
+        "problematique": "Titre: Programme de prévention des chutes et des troubles liés à l'équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/986-concours-2023-programme-de-prevention-des-chutes-et-des-troubles-lies-a-l-equilibre.pdf  ---  --- ORIGINE ET MISE EN PLACE DU PROJET Après avoir identifié un besoin auprès de la population, le CCAS de la ville a voulu instaurer des actions de prévention en direction des séniors.",
+        "solution_envisagee": "Titre: Programme de prévention des chutes et des troubles liés à l'équilibre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/986-concours-2023-programme-de-prevention-des-chutes-et-des-troubles-lies-a-l-equilibre.pdf  ---  --- ORIGINE ET MISE EN PLACE DU PROJET Après avoir identifié un besoin auprès de la population, le CCAS de la ville a voulu instaurer des actions de prévention en direction des séniors.",
+        "objectifs": "Ce programme, outre d'encourager la pratique d'activité physique de manière globale, vise à améliorer certaines capacités et fonctions chez ses participants."
+    },
+    "porteur_initiative": "Si, comme la Ville de Saint-Laurent-de-Mure, vous a vez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Programme_de_prevention_des_chutes_et_des_troubles_lies_a_lequilibre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Programme_de_prevention_des_chutes_et_des_troubles_lies_a_lequilibre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

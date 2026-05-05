@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Ateliers remise en selle",
+    "territoire": "Titre: Ateliers remise en selle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/820-concours-2022-47-ateliers-remise-en-selle.pdf  ---  --- CRÉATION DE PISTES CYCLABLES La Ville de Morteau a créé des pistes cyclables en juillet 2021 et a débuté le traçage de voies cyclables entre Morteau et Montlebon (2023).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Un atelier gratuit de deux heures a été ouvert à toutes personnes âgées de cinquante-cinq ans et plus.",
+    "description": {
+        "description_generale": "Morteau (25) Ville Membre depuis 2017  ---  --- UN PROJET COLLABORATIF Différents partenaires ont participé à la mise en place de l'action.",
+        "contexte": "Titre: Ateliers remise en selle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/820-concours-2022-47-ateliers-remise-en-selle.pdf  ---  --- CRÉATION DE PISTES CYCLABLES La Ville de Morteau a créé des pistes cyclables en juillet 2021 et a débuté le traçage de voies cyclables entre Morteau et Montlebon (2023).",
+        "problematique": "Titre: Ateliers remise en selle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/820-concours-2022-47-ateliers-remise-en-selle.pdf  ---  --- CRÉATION DE PISTES CYCLABLES La Ville de Morteau a créé des pistes cyclables en juillet 2021 et a débuté le traçage de voies cyclables entre Morteau et Montlebon (2023).",
+        "solution_envisagee": "ATELIERS REMISE EN SELLE Fiche PARTAGE D'EXPÉRIENCE N°686 Villes Amies des Aînés en France Accompagner les seniors à la reprise en main du vélo en toute sécurité (code de la route, parcours agilité, accompagnement en ville).",
+        "objectifs": "Le plan santé de la Ville a également la volonté de développer les mobilités douces pour tous (activités physiques, respect de l'environnement)."
+    },
+    "porteur_initiative": "Titre: Ateliers remise en selle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/820-concours-2022-47-ateliers-remise-en-selle.pdf  ---  --- CRÉATION DE PISTES CYCLABLES La Ville de Morteau a créé des pistes cyclables en juillet 2021 et a débuté le traçage de voies cyclables entre Morteau et Montlebon (2023).",
+    "date": [
+        "juillet 2021",
+        "juin 2021",
+        "septembre 2022",
+        "2025",
+        "2022",
+        "2021",
+        "2023",
+        "2017",
+        "depuis 2017",
+        "En 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_remise_en_selle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ateliers_remise_en_selle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

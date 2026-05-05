@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Vyv@dos",
+    "territoire": "Titre: Vyv@dos Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/784-concours-2022-5-vyv-dos.pdf  ---  --- UN DISPOSITIF INNOVANT DE MAINTIEN À DOMICILE Vyv@doS propose un accompagnement global, gradué et diversifié à domicile des Saumurois en perte d’autonomie par la coordination des ressources sociales et médico-sociales du territoire mises en réseau.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Au cours des sept rencontres du Comité de pilotage a été défini en détail le projet: offre de prestations, file active, périmètre, critères et procédure d’admission, animation, modalités d’intervention et de coordination, modalités de sortie, outils de mise en œuvre des droits des usagers, prise en compte des aidants, responsabilités des intervenants, partenariats, nouvelles technologies, articulation avec dispositifs de coordination, modèle économique, financement.",
+    "description": {
+        "description_generale": "UN PROJET COLLABORATIF AUX DIVERS OBJECTIFS Fin 2018, le CCAS de Saumur et le SPASAD du Saumurois ont décidé de développer ensemble un dispositif partenarial permettant de décloisonner et coordonner l’offre en faveur des personnes âgées.",
+        "contexte": "La coordinatrice réalise les admissions (avec partenaires et MDA, sur prescription médicale) et accompagne les usagers dans leur parcours de santé: elle est la référente du patient, pour qui elle évalue les besoins et coordonne le panier de services.",
+        "problematique": "La coordinatrice réalise les admissions (avec partenaires et MDA, sur prescription médicale) et accompagne les usagers dans leur parcours de santé: elle est la référente du patient, pour qui elle évalue les besoins et coordonne le panier de services.",
+        "solution_envisagee": "Titre: Vyv@dos Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/784-concours-2022-5-vyv-dos.pdf  ---  --- UN DISPOSITIF INNOVANT DE MAINTIEN À DOMICILE Vyv@doS propose un accompagnement global, gradué et diversifié à domicile des Saumurois en perte d’autonomie par la coordination des ressources sociales et médico-sociales du territoire mises en réseau.",
+        "objectifs": "UN PROJET COLLABORATIF AUX DIVERS OBJECTIFS Fin 2018, le CCAS de Saumur et le SPASAD du Saumurois ont décidé de développer ensemble un dispositif partenarial permettant de décloisonner et coordonner l’offre en faveur des personnes âgées."
+    },
+    "porteur_initiative": "Le Cotech (comité technique formé des responsables opérationnels des porteurs et des partenaires), animé par l’infirmière coordinatrice du dispositif se charge lui d'assurer le bon déroulement de l’intégration des prestations, la réalisation des protocoles d’action, la communication envers les professionnels libéraux et les ESSMS.",
+    "date": [
+        "2025",
+        "2022",
+        "2018",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vyvdos.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Vyvdos.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

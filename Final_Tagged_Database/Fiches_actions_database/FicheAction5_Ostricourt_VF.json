@@ -1,0 +1,43 @@
+{
+    "titre": "---  ---",
+    "territoire": "Cela pourrait se faire sur l’ensemble de la commune d’Ostricourt, voire en lien avec des communes voisines.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°5: Lutter contre l’isolement en organisant des visites bénévoles au domicile Quoi?",
+    "description": {
+        "description_generale": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°5: Lutter contre l’isolement en organisant des visites bénévoles au domicile Quoi?",
+        "contexte": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°5: Lutter contre l’isolement en organisant des visites bénévoles au domicile Quoi?",
+        "problematique": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°5: Lutter contre l’isolement en organisant des visites bénévoles au domicile Quoi?",
+        "solution_envisagee": "De nombreux facteurs concourent pour accentuer le sentiment d’isolement de certains aînés à Ostricourt: l’éloignement géographique des enfants, le fait pour ces personnes de ne pas oser ou de ne pas avoir envie d’aller au -devant des gens, le fait que les services mis en place (par exemple par La Poste) soient payants, parfois la mésentente financière des enfants par rapport aux aides… Pour répondre à cet isolement des personnes, une solution pourrait être d’organiser de visites bénévoles à domicile pour les personnes en demande.",
+        "objectifs": "Objectifs et moyens: - Des binômes de personnes bénévoles pourraient se déplacer au domicile des personnes de façon régulière. - Il s’agirait d’envisager de mettre en lien ces personnes (mise en réseau) et d’envisager une petite « formation » préalable pour les personnes qui rendent visite. ---  --- Indicateurs de réussite: - Nombre de personnes participant à la dynamique. - Atteindre et garder un équilibre entre l’offre et la demande de visites."
+    },
+    "porteur_initiative": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°5: Lutter contre l’isolement en organisant des visites bénévoles au domicile Quoi?",
+    "date": [
+        "10 avril 2024",
+        "avril 2024",
+        "2024"
+    ],
+    "thematique": [
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction5_Ostricourt_VF.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FicheAction5_Ostricourt_VF.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.25,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: A Limonest, une mutuelle communale qui facilite la vie des aînés",
+    "territoire": "Titre: A Limonest, une mutuelle communale qui facilite la vie des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/374-374-pe-mutuelle-communale.pdf  ---  --- AMÉLIORER LA PROTECTION SOCIALE DES HABITANTS Le Centre Communal d’ Action Sociale de Limonest ainsi que dix autres CCAS des communes de l’ouest lyonnais* ont souhaité engager ensemble une dé - marche originale en termes de solidarité, de santé, de lien social et d’accès aux soins via l’instaurat ion d’une mutuelle partagée offrant un certain nombre d’avantages et de services aux habitants et salarié s des TPE-PME travaillant dans le territoire.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: A Limonest, une mutuelle communale qui facilite la vie des aînés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/374-374-pe-mutuelle-communale.pdf  ---  --- AMÉLIORER LA PROTECTION SOCIALE DES HABITANTS Le Centre Communal d’ Action Sociale de Limonest ainsi que dix autres CCAS des communes de l’ouest lyonnais* ont souhaité engager ensemble une dé - marche originale en termes de solidarité, de santé, de lien social et d’accès aux soins via l’instaurat ion d’une mutuelle partagée offrant un certain nombre d’avantages et de services aux habitants et salarié s des TPE-PME travaillant dans le territoire.",
+    "description": {
+        "description_generale": "Après une étude attentive et un long travail de concertat ion, c’ est la MTRL qui a été choisie comme partenaire de la Mutuelle des Monts d’Or afin de mener des action s de prévention autour de la santé et de proposer des garanties à un tarif attractif. *Champagne au Mont d’Or, Chasselay, Les Chères, Civrieux d’Azergues, Saint Cyr Au Mont D’or, Dardilly, Saint Didier au Mont d’ Or, Limonest, Lissieu, Marcilly D’Azergues et La Tour de Salvagny LA CRÉATION D’UNE MUTUELLE INTER - COMMUNALE Début 2016, les onze communes s’ engagent dans la mise en œuvre du projet et consultent les partenair es sociaux ainsi que les professionnels de santé de le urs territoires.",
+        "contexte": "Suite à l’analyse des questionnaires retournés, la consultation auprès des organismes de mutuelles et complémentaires est lancée: un appel à projet est officiellement déposé en avril 2016, demandant aux postulants de déposer leurs dossiers de candidature avant la mi-mai.",
+        "problematique": "A cet effet, un questionnaire est diffusé à environ 30 000 exem - plaires afin de mieux cerner les besoins à ce sujet et de dresser un portrait du territoire.",
+        "solution_envisagee": "Après une étude attentive et un long travail de concertat ion, c’ est la MTRL qui a été choisie comme partenaire de la Mutuelle des Monts d’Or afin de mener des action s de prévention autour de la santé et de proposer des garanties à un tarif attractif. *Champagne au Mont d’Or, Chasselay, Les Chères, Civrieux d’Azergues, Saint Cyr Au Mont D’or, Dardilly, Saint Didier au Mont d’ Or, Limonest, Lissieu, Marcilly D’Azergues et La Tour de Salvagny LA CRÉATION D’UNE MUTUELLE INTER - COMMUNALE Début 2016, les onze communes s’ engagent dans la mise en œuvre du projet et consultent les partenair es sociaux ainsi que les professionnels de santé de le urs territoires.",
+        "objectifs": "Permettre aux habitants de béné¿cier d’une mutuelle à un tarif\navantageux. Favoriser la protection sociale des plus fragiles.\nPRATIQUE\nCréer un groupement de communes intéressées par le\nprojet. Interroger les habitants a¿n d’évaluer leurs besoins\net leur intérêt pour un tel dispositif. Lancer un appel auprès\ndes mutuelles.\nLIMONEST\nVille Amie des Aînés depuis 05-2011\nLimonest (69)\nFiche publiée le 20/04/2018\nAUTONOMIE, SERVICES ET SOINS\nwww.villesamiesdesaines-rf.fr\nSi, comme Limonest, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Suite à l’analyse des questionnaires retournés, la consultation auprès des organismes de mutuelles et complémentaires est lancée: un appel à projet est officiellement déposé en avril 2016, demandant aux postulants de déposer leurs dossiers de candidature avant la mi-mai.",
+    "date": [
+        "18 juillet 2016",
+        "avril 2016",
+        "juillet 2016",
+        "janvier 2017",
+        "20/04/2018",
+        "2025",
+        "2016",
+        "2017",
+        "2011",
+        "2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Limonest_une_mutuelle_communale_qui_facilite_la_vie_des_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Limonest_une_mutuelle_communale_qui_facilite_la_vie_des_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

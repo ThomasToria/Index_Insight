@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Politiques de soutien à l’autonomie des personnes âgées, quelques comparaisons internationales",
+    "territoire": "Après avoir posé le contexte, la note décrit les dispositifs et aides mis en place dans les différents pays: évaluation de la situation de la personne âgée au regard de son autonomie et de son environnement notamment familial; prestations offertes à domicile (en espèces ou en nature sous forme de services); lieux de vie autre que le domicile; soutien aux aidants; mesures de prévention.",
+    "echelle": [
+        "communale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Des stratégies et orientations communes apparaissent: la priorité donnée au soutien à domicile; le développement et la diversification de l’offre de services (services de soins et du « care »); le renforcement de l’échelon local dans la mise en œuvre des aides et dans l’appui à l’innovation; une monétisation plus importante des aides pour favoriser le libre choix des personnes; la recherche d’une meilleure qualité de soins; l’importance accordée à la coordination et à l’intégration entre professionnels et entre sanitaire et social; le développement et l’utilisation des nouvelles technologies en appui des professionnels, des personnes âgées et de leurs aidants.",
+    "description": {
+        "description_generale": "Après avoir posé le contexte, la note décrit les dispositifs et aides mis en place dans les différents pays: évaluation de la situation de la personne âgée au regard de son autonomie et de son environnement notamment familial; prestations offertes à domicile (en espèces ou en nature sous forme de services); lieux de vie autre que le domicile; soutien aux aidants; mesures de prévention.",
+        "contexte": "Après avoir posé le contexte, la note décrit les dispositifs et aides mis en place dans les différents pays: évaluation de la situation de la personne âgée au regard de son autonomie et de son environnement notamment familial; prestations offertes à domicile (en espèces ou en nature sous forme de services); lieux de vie autre que le domicile; soutien aux aidants; mesures de prévention.",
+        "problematique": "Les dépenses de soins de longue durée (services sanitaires et sociaux fournis aux personnes en perte d’autonomie qui ont besoin de soins en continu) représentent ainsi entre moins de 1 % (Italie, Espagne) et entre 2,5 % et 3,5 % (Pays-Bas, Danemark et Suède) du PIB des États.",
+        "solution_envisagee": "Après avoir posé le contexte, la note décrit les dispositifs et aides mis en place dans les différents pays: évaluation de la situation de la personne âgée au regard de son autonomie et de son environnement notamment familial; prestations offertes à domicile (en espèces ou en nature sous forme de services); lieux de vie autre que le domicile; soutien aux aidants; mesures de prévention.",
+        "objectifs": "Des stratégies et orientations communes apparaissent: la priorité donnée au soutien à domicile; le développement et la diversification de l’offre de services (services de soins et du « care »); le renforcement de l’échelon local dans la mise en œuvre des aides et dans l’appui à l’innovation; une monétisation plus importante des aides pour favoriser le libre choix des personnes; la recherche d’une meilleure qualité de soins; l’importance accordée à la coordination et à l’intégration entre professionnels et entre sanitaire et social; le développement et l’utilisation des nouvelles technologies en appui des professionnels, des personnes âgées et de leurs aidants."
+    },
+    "porteur_initiative": "Après avoir posé le contexte, la note décrit les dispositifs et aides mis en place dans les différents pays: évaluation de la situation de la personne âgée au regard de son autonomie et de son environnement notamment familial; prestations offertes à domicile (en espèces ou en nature sous forme de services); lieux de vie autre que le domicile; soutien aux aidants; mesures de prévention.",
+    "date": [
+        "mars 2019",
+        "28/03/2019",
+        "2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Politiques de soutien à lautonomie des personnes â.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Politiques de soutien à lautonomie des personnes â.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

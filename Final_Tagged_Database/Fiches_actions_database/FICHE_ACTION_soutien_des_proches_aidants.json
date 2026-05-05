@@ -1,0 +1,36 @@
+{
+    "titre": "---  ---",
+    "territoire": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+    "echelle": [],
+    "public_vise": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+    "description": {
+        "description_generale": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+        "contexte": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+        "problematique": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+        "solution_envisagee": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+        "objectifs": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs."
+    },
+    "porteur_initiative": "---  --- - Nombre de proches aidants informés quant aux dispositifs existant et rejoignant ces dispositifs.",
+    "date": [],
+    "thematique": [
+        "aidants"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.0,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

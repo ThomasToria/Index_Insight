@@ -1,0 +1,42 @@
+{
+    "titre": "Personnes âgées / adolescents: la force des récits partagés",
+    "territoire": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France région Nord La crise sanitaire et sociale accentue encore la vulnérabilité de nos aînés.",
+    "echelle": [
+        "communale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Personnes âgées / adolescents: la force des récits partagés  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/personnes-agees-adolescents-la-force-des-recits-partages  Qui sommes-nous?",
+    "description": {
+        "description_generale": "Au-delà du projet, « Ensemble, donnons vis à nos vies » Au cœur du dispositif: les auxiliaires de vie.",
+        "contexte": "Dans le contexte sanitaire actuel, l’association fera preuve d’agilité pour adapter son projet et veiller à la sécurité des personnes, soit en réduisant le nombre de participants, soit en organisant les rencontres à distance.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "Concrètement, il s’agit de proposer 5 après-midis d’échanges entre élèves de classes de 5 e et 4 e du collège Anatole France de Sin-le-Noble et des personnes âgées volontaires, accompagnées par les services d’aides à domicile de l’Asapad.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "Personnes âgées / adolescents: la force des récits partagés  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/personnes-agees-adolescents-la-force-des-recits-partages  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "numérique"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées adolescents la force des récits partagés.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Personnes âgées adolescents la force des récits partagés.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

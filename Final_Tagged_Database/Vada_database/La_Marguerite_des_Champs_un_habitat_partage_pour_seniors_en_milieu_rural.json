@@ -1,0 +1,58 @@
+{
+    "titre": "Titre: La Marguerite des Champs, un habitat partagé pour seniors en milieu rural",
+    "territoire": "Titre: La Marguerite des Champs, un habitat partagé pour seniors en milieu rural Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/724-pe-592-la-marguerite-des-champs-un-habitat-partage-pour-seniors-en-milieu-rural-pays-de-mormal.pdf  ---  --- LA MARGUERITE DES CHAMPS, UN HABITAT PARTAGÉ POUR SENIORS EN MILIEU RURAL Concours  RFVAA 2021 LA NAISSANCE D’UN HABITAT PARTAGÉ POUR SENIORS « La Marguerite des champs » est un projet d’habitat partagé pour seniors au sein d'un village de l'Avesnois, porté par un couple, Aurélia et Damien DEBRAUER.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Il doit démontrer par ailleurs qu’il est possible de mener à bien et en concertation des projets privés et publics aux bénéfices des personnes âgées.",
+    "description": {
+        "description_generale": "Après l'acquisition du bien, le projet a été présenté à l'ensemble du territoire environnant pour l’inscrire dans l’environnement local: conseils municipaux, acteurs économiques et médicaux.",
+        "contexte": "Suite à ce constat, plusieurs communes ont réfléchi à la création de logements sous forme de béguinages.",
+        "problematique": "Cette idée est survenue lorsque sa grand- mère, Marguerite Deschamps, a recherché une solution de logement adapté suite à des problèmes médicaux survenus après une opération.",
+        "solution_envisagee": "La relation entre le porteur de projet et la communauté de communes est une réelle plus-value et permet de placer le projet dans le maillage des nouvelles solutions de logement proposées pour les seniors.",
+        "objectifs": "La Marguerite des Champs  ---  --- FAIRE VIVRE LE PROJET Pour concrétiser ce projet, il a fallu dans un premier temps rechercher le bien immobilier qui permettrait de développer un habitat partagé pour seniors."
+    },
+    "porteur_initiative": "Titre: La Marguerite des Champs, un habitat partagé pour seniors en milieu rural Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/724-pe-592-la-marguerite-des-champs-un-habitat-partage-pour-seniors-en-milieu-rural-pays-de-mormal.pdf  ---  --- LA MARGUERITE DES CHAMPS, UN HABITAT PARTAGÉ POUR SENIORS EN MILIEU RURAL Concours  RFVAA 2021 LA NAISSANCE D’UN HABITAT PARTAGÉ POUR SENIORS « La Marguerite des champs » est un projet d’habitat partagé pour seniors au sein d'un village de l'Avesnois, porté par un couple, Aurélia et Damien DEBRAUER.",
+    "date": [
+        "décembre 2020",
+        "décembre 2021",
+        "2025",
+        "2021",
+        "2022",
+        "2016",
+        "2019",
+        "2020",
+        "depuis",
+        "depuis 2016",
+        "en",
+        "En 2019",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Marguerite_des_Champs_un_habitat_partage_pour_seniors_en_milieu_rural.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_Marguerite_des_Champs_un_habitat_partage_pour_seniors_en_milieu_rural.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

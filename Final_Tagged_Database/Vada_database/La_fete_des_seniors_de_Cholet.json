@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: La fête des seniors de Cholet",
+    "territoire": "Titre: La fête des seniors de Cholet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/858-pe-la-fete-des-seniors-de-cholet.pdf  ---  --- UN ÉVÉNEMENT ANNUEL La Fête des Seniors est une manifestation pour les citoyens Choletais de 60 ans et plus, qui a lieu chaque année.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: La fête des seniors de Cholet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/858-pe-la-fete-des-seniors-de-cholet.pdf  ---  --- UN ÉVÉNEMENT ANNUEL La Fête des Seniors est une manifestation pour les citoyens Choletais de 60 ans et plus, qui a lieu chaque année.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Cholet, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: La fête des seniors de Cholet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/858-pe-la-fete-des-seniors-de-cholet.pdf  ---  --- UN ÉVÉNEMENT ANNUEL La Fête des Seniors est une manifestation pour les citoyens Choletais de 60 ans et plus, qui a lieu chaque année.",
+        "problematique": "Titre: La fête des seniors de Cholet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/858-pe-la-fete-des-seniors-de-cholet.pdf  ---  --- UN ÉVÉNEMENT ANNUEL La Fête des Seniors est une manifestation pour les citoyens Choletais de 60 ans et plus, qui a lieu chaque année.",
+        "solution_envisagee": "La Ville propose à travers cette journée un moment convivial, favorisant les liens sociaux mais également intergénérationnels.",
+        "objectifs": "LA FÊTE DES SENIORS DE CHOLET Fiche PARTAGE D'EXPÉRIENCE N°723 Villes Amies des Aînés en France Le Chotelais (49) Collectivité Membre depuis 2018 Favoriser les rencontres intergénérationnelles."
+    },
+    "porteur_initiative": "Titre: La fête des seniors de Cholet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/858-pe-la-fete-des-seniors-de-cholet.pdf  ---  --- UN ÉVÉNEMENT ANNUEL La Fête des Seniors est une manifestation pour les citoyens Choletais de 60 ans et plus, qui a lieu chaque année.",
+    "date": [
+        "2025",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_fete_des_seniors_de_Cholet.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_fete_des_seniors_de_Cholet.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

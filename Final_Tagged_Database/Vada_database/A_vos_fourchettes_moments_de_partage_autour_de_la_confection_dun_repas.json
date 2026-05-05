@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: À vos fourchettes: moments de partage autour de la confection d'un repas",
+    "territoire": "Titre: À vos fourchettes: moments de partage autour de la confection d'un repas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/218-218-a-vos-fouchettes.pdf  ---  --- FAVORISER LE LIEN SOCIAL ET S’OUVRIR À D’AUTRES CULTURES Depuis 2013, des aînés de la commune vivant à do - micile ou en logements-foyers, qui ont des difficul tés pour se déplacer seuls ou qui sont en risque d’isol e- ment social, peuvent bénéficier de l’action « À vos fourchettes ».",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "C’ est la Maison des Seniors, dans le cadre du réseau Prévenance – destiné aux personnes âgées isolées – qui a eu l’idée d’ organiser des moments de convivialité autour de la réalisation d’un repas.",
+    "description": {
+        "description_generale": "L ’implication de tous ces par - tenaires dans le dispositif garantit le succès de c ette action originale.",
+        "contexte": "Le concept: de jeunes étudiants du programme ERASMUS souhaitant rencontrer des personnes âgées leur font découvrir la cuisine de leur pays d’origine, assistés ponctuellement d’un chef étoilé.",
+        "problematique": "PRATIQUE Contacter les aînés en risque d’isolement ou isolés socialement.",
+        "solution_envisagee": "Le concept: de jeunes étudiants du programme ERASMUS souhaitant rencontrer des personnes âgées leur font découvrir la cuisine de leur pays d’origine, assistés ponctuellement d’un chef étoilé.",
+        "objectifs": "Retrouver le plaisir de cuisiner ensemble et de partager un\nrepas avec des personnes de tous âges. Créer, recréer ou\nmaintenir un lien social. Conserver le plaisir de manger pour\nlutter contre la dénutrition. Découvrir des plats, une façon de\ncuisiner, des cultures de tous horizons.\nPRATIQUE\nContacter les aînés en risque d’isolement ou isolés\nsocialement. Mettre en place un partenariat avec des\nétudiants étrangers ERASMUS dans le cadre d’une\ndémarche intergénérationnelle. Organiser le transport des\npersonnes âgées, le choix des menus, l’achat des produits\net la confection des repas. Trouver un lieu adapté pour\nrecevoir l’atelier.\nCoût: Pour 7 séances par an: mobilisation des agents et\ndes locaux, achats de denrées\nBESANÇON\nVille Amie des Aînés depuis 06-2012\nBesançon (25)\nFiche publiée le 14/03/2016\nCULTURE ET LOISIRS\nwww.villesamiesdesaines-rf.fr\nLIEN SOCIAL ET SOLIDARITÉ\nSi, comme Besançon, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Le concept: de jeunes étudiants du programme ERASMUS souhaitant rencontrer des personnes âgées leur font découvrir la cuisine de leur pays d’origine, assistés ponctuellement d’un chef étoilé.",
+    "date": [
+        "14/03/2016",
+        "2025",
+        "2013",
+        "2012",
+        "2016",
+        "Depuis 2013"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_vos_fourchettes_moments_de_partage_autour_de_la_confection_dun_repas.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_vos_fourchettes_moments_de_partage_autour_de_la_confection_dun_repas.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

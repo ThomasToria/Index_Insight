@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Réaménagement du jardin ALLENDE",
+    "territoire": "Titre: Réaménagement du jardin ALLENDE Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/836-pe-reamenagement-du-jardin-allende-1.pdf  ---  --- HISTORIQUE Le jardin Allende est situé entre la rue Lucie Aubrac et le Boulevard Allende.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "UNE CONCERTATION SENIOR Lors du mois bleu 2021, un 1er « café séniors » a été organisé, en collaboration avec la Direction de la Nature des Paysages et de l’Espace Public et la Direction Citoyenneté et Usagers, pour recueillir la parole des seniors sur le futur aménagement.",
+    "description": {
+        "description_generale": "Créer à l’échelle du quartier:  Organiser des cafés seniors pour recueillir l'avis des habitants, Prendre en compte les retours dans le projet de réaménagement, Valider le projet en conseil municipal, Organiser des déambulations urbaines, Informer les habitants sur le projet définitif, Concerter les habitants sur la dénomination définitive du site à l’issue de l’aménagement.",
+        "contexte": "Titre: Réaménagement du jardin ALLENDE Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/836-pe-reamenagement-du-jardin-allende-1.pdf  ---  --- HISTORIQUE Le jardin Allende est situé entre la rue Lucie Aubrac et le Boulevard Allende.",
+        "problematique": "Pour répondre aux besoins des nouveaux habitants du quartier, la Ville s'est engagée à réaménager ce jardin en concertation avec les habitants, en particuliers âgés puisque le jardin se situe a proximité d'une résidence seniors.",
+        "solution_envisagee": "Titre: Réaménagement du jardin ALLENDE Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/836-pe-reamenagement-du-jardin-allende-1.pdf  ---  --- HISTORIQUE Le jardin Allende est situé entre la rue Lucie Aubrac et le Boulevard Allende.",
+        "objectifs": "Titre: Réaménagement du jardin ALLENDE Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/836-pe-reamenagement-du-jardin-allende-1.pdf  ---  --- HISTORIQUE Le jardin Allende est situé entre la rue Lucie Aubrac et le Boulevard Allende."
+    },
+    "porteur_initiative": "Titre: Réaménagement du jardin ALLENDE Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/836-pe-reamenagement-du-jardin-allende-1.pdf  ---  --- HISTORIQUE Le jardin Allende est situé entre la rue Lucie Aubrac et le Boulevard Allende.",
+    "date": [
+        "juin 2023",
+        "2025",
+        "2021",
+        "2018",
+        "2023",
+        "depuis 2018",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reamenagement_du_jardin_ALLENDE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Reamenagement_du_jardin_ALLENDE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

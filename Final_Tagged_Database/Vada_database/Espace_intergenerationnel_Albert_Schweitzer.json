@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Espace intergénérationnel Albert Schweitzer",
+    "territoire": "Titre: Espace intergénérationnel Albert Schweitzer Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/743-pe-espace-intergenerationnel-albert-schweitzer-caudry.pdf  ---  --- Les seules conditions requises pour participer au projet sont le fait d'avoir 55 ans et plus, de résider sur Caudry, d'être à la retraite, et en situation d’invalidité ou en situation de veuvage avant 55 ans.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "UN ESPACE POUR LE VIVRE ENSEMBLE À Caudry (14 487 habitants) dans le Nord, l’Espace intergénérationnel Albert Schweitzer permet de rompre l’isolement, de partager des moments de convivialité et de redécouvrir le plaisir des activités collectives.",
+    "description": {
+        "description_generale": "Si, comme la ville de Meximieux, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la ville de Meximieux, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "UN ESPACE POUR LE VIVRE ENSEMBLE À Caudry (14 487 habitants) dans le Nord, l’Espace intergénérationnel Albert Schweitzer permet de rompre l’isolement, de partager des moments de convivialité et de redécouvrir le plaisir des activités collectives.",
+        "solution_envisagee": "UN ESPACE POUR LE VIVRE ENSEMBLE À Caudry (14 487 habitants) dans le Nord, l’Espace intergénérationnel Albert Schweitzer permet de rompre l’isolement, de partager des moments de convivialité et de redécouvrir le plaisir des activités collectives.",
+        "objectifs": "FAVORISER LE LIEN SOCIAL ET LA CONVIVIALITÉ L’Espace Schweitzer organise des thés dansants ouverts à tous et participe aux différents événements qui rythment l’année à Caudry (Semaine Bleue, voyage annuel de la Ville, Forum des Seniors etc.)."
+    },
+    "porteur_initiative": "Si, comme la ville de Meximieux, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Espace_intergenerationnel_Albert_Schweitzer.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Espace_intergenerationnel_Albert_Schweitzer.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

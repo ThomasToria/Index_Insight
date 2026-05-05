@@ -1,0 +1,56 @@
+{
+    "titre": "Parents et enfants hier, aujourd’hui et demain. Produire l’ordinaire, un travail politique au quotidien",
+    "territoire": "Objectifs: Pour réaliser cette analyse de la « production de l’ordinaire », une double entrée sera privilégiée: 1.",
+    "echelle": [],
+    "public_vise": "Produire l’ordinaire, un travail politique au quotidien Résumé de soumission Dans notre projet de recherche, nous nous intéressons à ce que nous appelons la production de l’ordinaire par les familles dont l’un des membres est polyhandicapé.",
+    "description": {
+        "description_generale": "Produire l’ordinaire, un travail politique au quotidien Résumé de soumission Dans notre projet de recherche, nous nous intéressons à ce que nous appelons la production de l’ordinaire par les familles dont l’un des membres est polyhandicapé.",
+        "contexte": "Dans le contexte actuel, valorisant l’inclusion et l’autonomie, ce travail « d’ordinarisation » de leur réalité prend sans doute plus d’importance qu’auparavant.",
+        "problematique": "LES ACTUALITÉS 03/03/2026 Enrichissez le catalogue des études en santé humaine > Lire la suite 27/02/2026 Deuil après suicide: résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique > Lire la suite 05/02/2026 Troubles de l’usage des opioïdes: pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments? > Lire la suite 10/04/2025 FReSH, le portail des études en santé > Lire la suite LES MEMBRES DE L'IRESP INSCRIVEZ-VOUS A NOTRE NEWSLETTER L'institut Missions Organisation Les instances de l'IReSP Équipe Contact Recrutement Mentions légales Politique de confidentialité IReSP Institut pour la Recherche en Santé Publique Paris Biopark Bâtiment A – 1er étage 8, rue de la croix Jarry 75013 Paris 01 82 53 34 64 info@iresp.net Agence Web AUDOUIN REALISATIONS",
+        "solution_envisagee": "Méthode: La méthodologie s’articule autour de trois axes de travail: la mise en place d’un groupe de travail pour réfléchir et mettre en œuvre une approche participative tout au long de la recherche, une enquête ethnographique dont l’objectif sera la réalisation de monographies de familles, et enfin un séminaire d’enquête pour explorer avec la diversité des acteurs impliqués, les manières d’ordinariser une réalité et les personnes, qui repose sur le « travail d’influence ».",
+        "objectifs": "Objectifs: Pour réaliser cette analyse de la « production de l’ordinaire », une double entrée sera privilégiée: 1."
+    },
+    "porteur_initiative": "Produire l’ordinaire, un travail politique au quotidien - Myriam WINANCE livret de présentation de la recherche Polyordinaire - Myriam WINANCE Equipes du projet Coordonnateur: WINANCE Myriam N° ORCID: 0000-0003-2317-2844 Structure administrative de rattachement: Inserm Laboratoire ou équipe: Cermes3 (Inserm U988) N° RNSR: 200217606H Autres équipes participantes: Responsable de l'équipe 2: DESJEUX Cyril HANDEO (association loi 1901) Responsable de l'équipe 3: VIDAL-NAQUET Pierre CERPE (Centre d'Étude et de Recherches pour la Petite Enfance) Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2019",
+        "2014",
+        "1960",
+        "0000",
+        "0003",
+        "2317",
+        "2844",
+        "1901",
+        "2026",
+        "2025",
+        "entre 1960 et 2014"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\099_2019_parents_et_enfants_hier_aujourd_hui_et_demain_produire_l_ordinaire_un_travail_politique_au_quotidien.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\099_2019_parents_et_enfants_hier_aujourd_hui_et_demain_produire_l_ordinaire_un_travail_politique_au_quotidien.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.0,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

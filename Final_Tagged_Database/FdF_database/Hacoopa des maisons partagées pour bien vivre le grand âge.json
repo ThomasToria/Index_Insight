@@ -1,0 +1,53 @@
+{
+    "titre": "Hacoopa: des maisons partagées pour bien vivre le grand âge",
+    "territoire": "La commune de Machecoul-Saint-Même fait partie des premiers lauréats de la Fabrique à projet: Habitat inclusif dans les Petites Villes de demain, remis par l'Agence nationale de la cohésion des territoires POUR ALLER PLUS LOIN → Découvrez le programme Personnes âgées → La Fondation de France Grand-Ouest Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Une gouvernance partagée La réflexion sur cette participation des habitants a été poussée encore plus loin: ils peuvent devenir sociétaires de la SCIC, la Société Coopérative d’Intérêt Collectif.",
+    "description": {
+        "description_generale": "La commune de Machecoul-Saint-Même fait partie des premiers lauréats de la Fabrique à projet: Habitat inclusif dans les Petites Villes de demain, remis par l'Agence nationale de la cohésion des territoires POUR ALLER PLUS LOIN → Découvrez le programme Personnes âgées → La Fondation de France Grand-Ouest Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "À Orvault, en Loire-Atlantique, la réponse se nomme Hacoopa, du nom des « maisons partagées » pour séniors.",
+        "objectifs": "Avant l'ouverture du lieu, les personnes intéressées ont pu participer à la réflexion sur le fonctionnement des maisons. \" Au-delà de simples réunions d'information, nous animons quatre ateliers avec un double objectif: créer un collectif, faire que les gens se connaissent mais aussi produire les règles de fonctionnement de la maison, et écrire la charte du vivre ensemble."
+    },
+    "porteur_initiative": "Un projet largement récompensé Le projet Haccopa est porté par un collectif: une dizaine de citoyens de l'agglomération nantaise et deux coopératives de Loire-Atlantique, le groupement Les Titis et Macoretz.",
+    "date": [
+        "juin 2018",
+        "juillet 2019",
+        "2022",
+        "2018",
+        "2019",
+        "2021",
+        "en 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Hacoopa des maisons partagées pour bien vivre le grand âge.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Hacoopa des maisons partagées pour bien vivre le grand âge.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

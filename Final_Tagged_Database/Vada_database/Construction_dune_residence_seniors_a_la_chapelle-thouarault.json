@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Construction d'une résidence seniors à la chapelle-thouarault",
+    "territoire": "Titre: Construction d'une résidence seniors à la chapelle-thouarault Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/883-pe-construction-d-une-residence-seniors-a-la-chapelle-thouarault.pdf  ---  --- 19 SENIORS INVESTIS DANS UN PROJET DE RÉSIDENCE Suite à un besoin exprimé par certaines personnes âgées de la commune d'avoir des logements adaptés en centre bourg et après le constat que plusieurs seniors avaient dû déménager dans une commune proche pour trouver un logement adapté, la municipalité de La Chapelle-Thouarault a décidé de s’engager dans la construction d'une résidence sociale seniors.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Construction d'une résidence seniors à la chapelle-thouarault Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/883-pe-construction-d-une-residence-seniors-a-la-chapelle-thouarault.pdf  ---  --- 19 SENIORS INVESTIS DANS UN PROJET DE RÉSIDENCE Suite à un besoin exprimé par certaines personnes âgées de la commune d'avoir des logements adaptés en centre bourg et après le constat que plusieurs seniors avaient dû déménager dans une commune proche pour trouver un logement adapté, la municipalité de La Chapelle-Thouarault a décidé de s’engager dans la construction d'une résidence sociale seniors.",
+    "description": {
+        "description_generale": "Les moins: Un projet de vie sociale limité: la plupart des personnes qui ont participé à la conception du projet ne sont plus là et des actions imaginées lors de la conception, comme des animations autour du jardin n'ont plus de porteurs.",
+        "contexte": "Titre: Construction d'une résidence seniors à la chapelle-thouarault Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/883-pe-construction-d-une-residence-seniors-a-la-chapelle-thouarault.pdf  ---  --- 19 SENIORS INVESTIS DANS UN PROJET DE RÉSIDENCE Suite à un besoin exprimé par certaines personnes âgées de la commune d'avoir des logements adaptés en centre bourg et après le constat que plusieurs seniors avaient dû déménager dans une commune proche pour trouver un logement adapté, la municipalité de La Chapelle-Thouarault a décidé de s’engager dans la construction d'une résidence sociale seniors.",
+        "problematique": "Titre: Construction d'une résidence seniors à la chapelle-thouarault Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/883-pe-construction-d-une-residence-seniors-a-la-chapelle-thouarault.pdf  ---  --- 19 SENIORS INVESTIS DANS UN PROJET DE RÉSIDENCE Suite à un besoin exprimé par certaines personnes âgées de la commune d'avoir des logements adaptés en centre bourg et après le constat que plusieurs seniors avaient dû déménager dans une commune proche pour trouver un logement adapté, la municipalité de La Chapelle-Thouarault a décidé de s’engager dans la construction d'une résidence sociale seniors.",
+        "solution_envisagee": "Mobilisation des acteurs pour faire vivre le projet de vie sociale au sein et à l’extérieur de la résidence LA CHAPELLE-THOUARAULT  ---  --- BILAN APRÈS 1 AN D'INSTALLATION DES PREMIERS RÉSIDENTS Les plus: Les résidents apprécient le confort et la qualité des logements.",
+        "objectifs": "Développer un modèle de construction qui intègre la récupération de matériaux."
+    },
+    "porteur_initiative": "Les moins: Un projet de vie sociale limité: la plupart des personnes qui ont participé à la conception du projet ne sont plus là et des actions imaginées lors de la conception, comme des animations autour du jardin n'ont plus de porteurs.",
+    "date": [
+        "mars 2022",
+        "2025",
+        "2022",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Construction_dune_residence_seniors_a_la_chapelle-thouarault.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Construction_dune_residence_seniors_a_la_chapelle-thouarault.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

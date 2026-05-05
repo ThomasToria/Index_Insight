@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR »",
+    "territoire": "LA LOCALISATION Région Alsace (Haut-Rhin et Bas-Rhin) LES RÉSULTATS / IMPACTS Apports: • la connaissance de l'ensemble des services et actions existant sur le territoire; • le bien-être procuré par le partage d’une après-midi conviviale; • la sensibilisation aux difficultés rencontrées en avançant en âge.",
+    "echelle": [
+        "régionale"
+    ],
+    "public_vise": "LA FINALITÉ • Inciter les bénéficiaires à s’inscrire dans une activité organisée par des associations locales. • Informer et sensibiliser les seniors sur le bien-vieillir au cours d'un moment divertissant et plaisant: le théâtre. • Provoquer un questionnement personnel, une prise de conscience sur son propre rapport au vieillissement, mais aussi, les freins aux changements et notamment, les difficultés à mettre en œuvre des mesures par anticipation. • Cibler les publics fragiles en termes de santé (anciens invalides), de vie sociale (veuvage) ou de revenus (à faibles revenus) en leur envoyant un courrier personnalisé.",
+    "description": {
+        "description_generale": "Chaque retraité dans la salle pourra s’identifier à Jean-Claude ou à Bernadette; • présentation des ressources existantes sur le territoire pour faire face au vieillissement et des actions seniors de l’association Atout Age Alsace.",
+        "contexte": "Titre: SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » Pages: 78  SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » LES ACTEURS Porteur(s) de la pépite: Atout Age Alsace / groupe MSA Services (La Carsat Alsace-Moselle est membre de l’association interrégime Atout Age Alsace).",
+        "problematique": "LA FINALITÉ • Inciter les bénéficiaires à s’inscrire dans une activité organisée par des associations locales. • Informer et sensibiliser les seniors sur le bien-vieillir au cours d'un moment divertissant et plaisant: le théâtre. • Provoquer un questionnement personnel, une prise de conscience sur son propre rapport au vieillissement, mais aussi, les freins aux changements et notamment, les difficultés à mettre en œuvre des mesures par anticipation. • Cibler les publics fragiles en termes de santé (anciens invalides), de vie sociale (veuvage) ou de revenus (à faibles revenus) en leur envoyant un courrier personnalisé.",
+        "solution_envisagee": "Titre: SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » Pages: 78  SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » LES ACTEURS Porteur(s) de la pépite: Atout Age Alsace / groupe MSA Services (La Carsat Alsace-Moselle est membre de l’association interrégime Atout Age Alsace).",
+        "objectifs": "Titre: SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » Pages: 78  SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » LES ACTEURS Porteur(s) de la pépite: Atout Age Alsace / groupe MSA Services (La Carsat Alsace-Moselle est membre de l’association interrégime Atout Age Alsace)."
+    },
+    "porteur_initiative": "Titre: SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » Pages: 78  SPECTACLE « VIVRE SA RETRAITE A VEC HUMOUR » LES ACTEURS Porteur(s) de la pépite: Atout Age Alsace / groupe MSA Services (La Carsat Alsace-Moselle est membre de l’association interrégime Atout Age Alsace).",
+    "date": [
+        "2022",
+        "en 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\40_SPECTACLE_VIVRE_SA_RETRAITE_A_VEC_HUMOUR.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\40_SPECTACLE_VIVRE_SA_RETRAITE_A_VEC_HUMOUR.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

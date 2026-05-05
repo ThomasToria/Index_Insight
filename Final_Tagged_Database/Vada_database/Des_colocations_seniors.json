@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Des colocations seniors",
+    "territoire": "Titre: Des colocations seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/716-pe584-140422-des-colocations-seniors-lachapellesurerdre.pdf  ---  --- Concours  RFVAA 2021 UN LOGEMENT ALTERNATIF QUI REPOND AUX ENJEUX DU VIEILLISSEMENT La méthodologie développée par l'association Loki Ora en terme de création de colocation seniors a fait ses preuves en s’adaptant à tous les parcours et permet aux seniors un accompagnement complet et adapté: de l’information jusqu’au choix et à la construction de sa colocation sur- mesure.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Afin de sensibiliser non seulement les seniors mais aussi les professionnels de la gérontologie aux bénéfices de la colocation, une formation/retour d'expérience a été animée par la psychologue de Loki Ora.",
+    "description": {
+        "description_generale": "Si, comme l'association Loki Ora, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Mutualiser les savoir-faire et les expertises dans chaque domaine d'intervention des partenaires: production de logements sociaux, gestion locative sociale, etc.",
+        "problematique": "Titre: Des colocations seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/716-pe584-140422-des-colocations-seniors-lachapellesurerdre.pdf  ---  --- Concours  RFVAA 2021 UN LOGEMENT ALTERNATIF QUI REPOND AUX ENJEUX DU VIEILLISSEMENT La méthodologie développée par l'association Loki Ora en terme de création de colocation seniors a fait ses preuves en s’adaptant à tous les parcours et permet aux seniors un accompagnement complet et adapté: de l’information jusqu’au choix et à la construction de sa colocation sur- mesure.",
+        "solution_envisagee": "DES COLOCATIONS SENIORS Fiche PARTAGE D'EXPÉRIENCE N°584 Villes Amies des Aînés en France Association Loki Ora À La Chapelle-sur-Erdre (44) Ville Amie des Aînés depuis 2020 Proposer aux seniors une solution de logement sur-mesure et innovante qui répond à leurs besoins.",
+        "objectifs": "Développer la colocation entre seniors dans le parc social à Nantes en sécurisant les parcours grâce à la méthodologie d'accompagnement."
+    },
+    "porteur_initiative": "Mutualiser les savoir-faire et les expertises dans chaque domaine d'intervention des partenaires: production de logements sociaux, gestion locative sociale, etc.",
+    "date": [
+        "novembre 2019",
+        "2025",
+        "2021",
+        "2019",
+        "2020",
+        "2022",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_colocations_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_colocations_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

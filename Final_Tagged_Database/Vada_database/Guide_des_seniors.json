@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Guide des seniors",
+    "territoire": "Titre: Guide des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/753-pe-guide-des-seniors-vienne.pdf  ---  --- GUIDE DES SENIORS UN OUTIL D'INFORMATIONS VARIÉES Une première édition du Guide des seniors, parue en 2017, avait permis de mesurer l'intérêt et l'impact de cet outil d'informations.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Ce guide s'adresse aux seniors viennois, aux familles et aux aidants ainsi qu'à toute personne souhaitant trouver de l'information fiable sur les différentes thématiques proposées: Mon quotidien, Mon logement, Ma santé, Mes droits, Mes loisirs, Numéros utiles.",
+    "description": {
+        "description_generale": "Le C.C.A.S. est à l'initiative du projet avec la mise en place d'une démarche d'élaboration partagée qui a permis la participation active des partenaires.",
+        "contexte": "Titre: Guide des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/753-pe-guide-des-seniors-vienne.pdf  ---  --- GUIDE DES SENIORS UN OUTIL D'INFORMATIONS VARIÉES Une première édition du Guide des seniors, parue en 2017, avait permis de mesurer l'intérêt et l'impact de cet outil d'informations.",
+        "problematique": "Titre: Guide des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/753-pe-guide-des-seniors-vienne.pdf  ---  --- GUIDE DES SENIORS UN OUTIL D'INFORMATIONS VARIÉES Une première édition du Guide des seniors, parue en 2017, avait permis de mesurer l'intérêt et l'impact de cet outil d'informations.",
+        "solution_envisagee": "Le nombre d'exemplaires disponibles s'amenuisant et certaines informations nécessitant d'être actualisées, il est apparu nécessaire de procéder à la mise en place d'une deuxième édition.",
+        "objectifs": "Au vue de l'accueil du guide, les objectifs ont été atteints."
+    },
+    "porteur_initiative": "Titre: Guide des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/753-pe-guide-des-seniors-vienne.pdf  ---  --- GUIDE DES SENIORS UN OUTIL D'INFORMATIONS VARIÉES Une première édition du Guide des seniors, parue en 2017, avait permis de mesurer l'intérêt et l'impact de cet outil d'informations.",
+    "date": [
+        "2025",
+        "2017",
+        "2021",
+        "2022",
+        "depuis 2022",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Guide_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

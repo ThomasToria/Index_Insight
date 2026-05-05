@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Forum \"Bien vieillir dans nos communes\"",
+    "territoire": "Titre: Forum \"Bien vieillir dans nos communes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/794-concours-2022-15-forum-seniors-dedie-au-bien-vieillir-1.pdf  ---  --- UN FORUM POUR LES AINÉS ET LES AIDANTS Suite à la tenue d'un salon de l'autonomie organisé par le département de l'Isère en partenariat avec la Ville de Sassenage (38) en 2019, le département a souhaité proposer un évènement de plus grande ampleur, sur le territoire de l'agglomération grenobloise.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Forum \"Bien vieillir dans nos communes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/794-concours-2022-15-forum-seniors-dedie-au-bien-vieillir-1.pdf  ---  --- UN FORUM POUR LES AINÉS ET LES AIDANTS Suite à la tenue d'un salon de l'autonomie organisé par le département de l'Isère en partenariat avec la Ville de Sassenage (38) en 2019, le département a souhaité proposer un évènement de plus grande ampleur, sur le territoire de l'agglomération grenobloise.",
+    "description": {
+        "description_generale": "FORUM SENIORS DEDIÉ AU BIEN-VIEILLIR Fiche PARTAGE D'EXPÉRIENCE N°660 Villes Amies des Aînés en France Grenoble (38) Ville Membre depuis 2016 Favoriser l'accès à l'information et aux droits des aînés comme des aidants, autour des actions, services et dispositifs existants.",
+        "contexte": "Si, comme la ville de Grenoble, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la ville de Grenoble, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Titre: Forum \"Bien vieillir dans nos communes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/794-concours-2022-15-forum-seniors-dedie-au-bien-vieillir-1.pdf  ---  --- UN FORUM POUR LES AINÉS ET LES AIDANTS Suite à la tenue d'un salon de l'autonomie organisé par le département de l'Isère en partenariat avec la Ville de Sassenage (38) en 2019, le département a souhaité proposer un évènement de plus grande ampleur, sur le territoire de l'agglomération grenobloise.",
+        "objectifs": "Les membres volontaires du Conseil des aînés de Grenoble et du Conseil départemental de la citoyenneté et de l'autonomie, ont participé au Comité technique afin de contribuer à l'élaboration de la programmation du forum."
+    },
+    "porteur_initiative": "Titre: Forum \"Bien vieillir dans nos communes\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/794-concours-2022-15-forum-seniors-dedie-au-bien-vieillir-1.pdf  ---  --- UN FORUM POUR LES AINÉS ET LES AIDANTS Suite à la tenue d'un salon de l'autonomie organisé par le département de l'Isère en partenariat avec la Ville de Sassenage (38) en 2019, le département a souhaité proposer un évènement de plus grande ampleur, sur le territoire de l'agglomération grenobloise.",
+    "date": [
+        "2025",
+        "2022",
+        "2019",
+        "2016",
+        "9945",
+        "depuis 2016",
+        "en 2019",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_Bien_vieillir_dans_nos_communes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forum_Bien_vieillir_dans_nos_communes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

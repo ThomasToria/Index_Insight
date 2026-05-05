@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: CARSAT CENTRE-VAL DE LOIRE",
+    "territoire": "LA LOCALISATION Le Bus numérique se déplace sur l’ensemble des 6 départements que compose la Région Centre-Val de Loire: • département du Cher (18); • département de l’Eure-et-Loir (28); • département de l’Indre (36); • département de l’Indre-et-Loire (37); • département du Loir-et-Cher (41); • département du Loiret (45).",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Aller vers BUS NUMÉRIQUE LES RÉSULTATS / IMPACTS En quelques chiffres, depuis 2018, le bus numérique c’est: • 9 177 seniors à son bord; • 1 391 ateliers déployés; • 8 346 heures de formations dispensées; • près de 650 communes desservies dont près de 60 % de village (communes de moins de 2 000 habitants); • un excellent taux de satisfaction des usagers: - 100 % satisfait de l’accueil et du matériel, - 98 % trouve l’atelier bénéfique, - 93 % souhaitent poursuivre, - 91 % se sentent plus à l’aise; • un projet ancré sur le territoire (avec 44 % des communes visitées sur 2022 qui déclarent avoir mis en place une action numérique à la suite du passage du Bus Numérique); • des partenariats noués avec des maisons France Services, des centres de formation GRETA permettant le déploiement d’ambassadeurs du Bus pour accentuer l’« aller-vers » des publics les plus isolés; • la dynamisation d’actions existantes sur le territoire; • des centaines d’articles de presses",
+    "description": {
+        "description_generale": "Aller vers BUS NUMÉRIQUE LES RÉSULTATS / IMPACTS En quelques chiffres, depuis 2018, le bus numérique c’est: • 9 177 seniors à son bord; • 1 391 ateliers déployés; • 8 346 heures de formations dispensées; • près de 650 communes desservies dont près de 60 % de village (communes de moins de 2 000 habitants); • un excellent taux de satisfaction des usagers: - 100 % satisfait de l’accueil et du matériel, - 98 % trouve l’atelier bénéfique, - 93 % souhaitent poursuivre, - 91 % se sentent plus à l’aise; • un projet ancré sur le territoire (avec 44 % des communes visitées sur 2022 qui déclarent avoir mis en place une action numérique à la suite du passage du Bus Numérique); • des partenariats noués avec des maisons France Services, des centres de formation GRETA permettant le déploiement d’ambassadeurs du Bus pour accentuer l’« aller-vers » des publics les plus isolés; • la dynamisation d’actions existantes sur le territoire; • des centaines d’articles de presses",
+        "contexte": "Titre: CARSAT CENTRE-VAL DE LOIRE Pages: 51, 52  CARSAT CENTRE-VAL DE LOIRE LES ACTEURS Porteur(s) de la pépite: SAS Solutions Vie Pratique.",
+        "problematique": "Celui-ci répond ainsi à deux enjeux majeurs: • la prévention de la perte d’autonomie: il s’agit de promouvoir l’utilisation du numérique comme vecteur du lien social, de mobilité, d’accès aux droits, d’ouverture sur l’information et sur le monde.",
+        "solution_envisagee": "Titre: CARSAT CENTRE-VAL DE LOIRE Pages: 51, 52  CARSAT CENTRE-VAL DE LOIRE LES ACTEURS Porteur(s) de la pépite: SAS Solutions Vie Pratique.",
+        "objectifs": "LA CIBLE Retraités LA FINALITÉ Le projet a pour vocation d’accompagner les retraités dans l’apprentissage du numérique pour développer et favoriser le lien social."
+    },
+    "porteur_initiative": "Titre: CARSAT CENTRE-VAL DE LOIRE Pages: 51, 52  CARSAT CENTRE-VAL DE LOIRE LES ACTEURS Porteur(s) de la pépite: SAS Solutions Vie Pratique.",
+    "date": [
+        "21/02/2018",
+        "2018",
+        "2022",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

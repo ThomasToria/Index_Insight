@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Promenades à Saint-Sébastien-sur-Loire",
+    "territoire": "Titre: Promenades à Saint-Sébastien-sur-Loire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/906-concours-2023-promenades-a-saint-sebastien-sur-loire.pdf  ---  --- UNE ACTIVITÉ DE PLEIN AIR RÉALISABLE EN PLEINE CRISE SANITAIRE Lors de la crise sanitaire en 2020, les animateurs et animatrices passaient des appels auprès des personnes âgées suivies par le CCAS et les personnes enregistrées dans le registre des personnes vulnérables.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "UNE NÉCESSITÉ DE REPENSER LES ACTIVITÉS La Halte Répit est un lieu d'accueil temporaire pour les seniors dépendants et pour soulager les aidants.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Sébastien-sur-Loire, vo us avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "En effet, certaines personnes utilisatrices du transport solidaire témoignaient qu'elles n'arrivaient plus à participer aux activités proposées par les associations en raison de la diminution de leurs capacités.",
+        "problematique": "Ils se sont aperçus d'une augmentation de certaines problématiques comme le manque de lien social, dû à l'arrêt des activités et à la promotion de la distanciation sociale, et une perte de mobilité, avec la peur de sortir de chez soi.",
+        "solution_envisagee": "Cette idée d'action autour du mouvement venait compléter les réponses déjà apportées par le CCAS autour de la mobilité et des déplacements.",
+        "objectifs": "En amont, un travail de repérage des lieux de promenade est réalisé par les animatrices et animateurs afin de s'assurer de l'accessibilité des promenades (abris, zones ombragées, présence d'assises et de tables)."
+    },
+    "porteur_initiative": "Cette réflexion a conduit le service \"Seniors\" à mettre en place en 2022 et jusqu'à aujourd'hui, une programmation graduelle d'activités adaptées aux différentes capacités des personnes: ateliers de pilates, relaxation, gym douce et danse assise.",
+    "date": [
+        "2025",
+        "2023",
+        "2020",
+        "2016",
+        "2022",
+        "depuis 2016",
+        "en 2020",
+        "EN 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Promenades_a_Saint-Sebastien-sur-Loire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Promenades_a_Saint-Sebastien-sur-Loire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

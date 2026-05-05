@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: 65+",
+    "territoire": "Titre: 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/768-concours-2022-16-65.pdf  ---  --- DIFFUSER ET RENDRE ACCESSIBLE L'INFORMATION Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/768-concours-2022-16-65.pdf  ---  --- DIFFUSER ET RENDRE ACCESSIBLE L'INFORMATION Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins.",
+    "description": {
+        "description_generale": "Titre: 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/768-concours-2022-16-65.pdf  ---  --- DIFFUSER ET RENDRE ACCESSIBLE L'INFORMATION Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins.",
+        "contexte": "Titre: 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/768-concours-2022-16-65.pdf  ---  --- DIFFUSER ET RENDRE ACCESSIBLE L'INFORMATION Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins.",
+        "problematique": "Titre: 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/768-concours-2022-16-65.pdf  ---  --- DIFFUSER ET RENDRE ACCESSIBLE L'INFORMATION Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins.",
+        "solution_envisagee": "Cela leur permet de les accompagner dans le repérage des activités et des services existants qui leurs sont dédiés, ceci grâce à une carte 65+ gratuite et nominative.",
+        "objectifs": "Une adresse mail dédiée pour communiquer, échanger, leur permettre de formuler des propositions, de poser des questions, etc. est aussi mise à disposition."
+    },
+    "porteur_initiative": "Titre: 65+ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/768-concours-2022-16-65.pdf  ---  --- DIFFUSER ET RENDRE ACCESSIBLE L'INFORMATION Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins.",
+    "date": [
+        "2025",
+        "2022",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\65.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\65.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

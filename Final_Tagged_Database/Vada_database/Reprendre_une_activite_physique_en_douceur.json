@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Reprendre une activité physique en douceur",
+    "territoire": "Titre: Reprendre une activité physique en douceur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/888-concours-2023-reprendre-une-activite-physique-en-douceur-a-la-fleche.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'IMPACT DE LA CRISE SANITAIRE Depuis juin 2021 l’animatrice va à la rencontre des associations locales afin de lister leurs besoins et les besoins des seniors.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Une marche bleue appelée \" la manif des seniors\" s'est déroulée du parvis de la mairie au parc public.",
+    "description": {
+        "description_generale": "Au programme: tests physiques, conférence sur les bienfaits d'une activité physique, découverte d'ateliers sportifs, marche bleue et flash mob.  ---  --- UN BILAN POSITIF Une enquête de satisfaction a été proposée aux seniors lors de la conférence.",
+        "contexte": "Les associations sportives font le constat qu’en sortie de crise sanitaire, ce public n'est pas complètement revenu vers eux.",
+        "problematique": "Titre: Reprendre une activité physique en douceur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/888-concours-2023-reprendre-une-activite-physique-en-douceur-a-la-fleche.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS L'IMPACT DE LA CRISE SANITAIRE Depuis juin 2021 l’animatrice va à la rencontre des associations locales afin de lister leurs besoins et les besoins des seniors.",
+        "solution_envisagee": "Plusieurs réunions ont donc été nécessaires, avec l'association des seniors sportifs (400 adhérents) afin d’écrire le projet, les objectifs et la mise en place.",
+        "objectifs": "Plusieurs réunions ont donc été nécessaires, avec l'association des seniors sportifs (400 adhérents) afin d’écrire le projet, les objectifs et la mise en place."
+    },
+    "porteur_initiative": "Au programme: tests physiques, conférence sur les bienfaits d'une activité physique, découverte d'ateliers sportifs, marche bleue et flash mob.  ---  --- UN BILAN POSITIF Une enquête de satisfaction a été proposée aux seniors lors de la conférence.",
+    "date": [
+        "8 octobre 2022",
+        "juin 2021",
+        "janvier 2022",
+        "octobre 2022",
+        "septembre 2022",
+        "2025",
+        "2023",
+        "2021",
+        "2022",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reprendre_une_activite_physique_en_douceur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Reprendre_une_activite_physique_en_douceur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

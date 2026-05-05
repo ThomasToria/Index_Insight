@@ -1,0 +1,53 @@
+{
+    "titre": "Evaluation de solutions d’accompagnement de nuit pour les séniors en perte d’autonomie et leurs aidants à domicile: bénéfices et limites.",
+    "territoire": "D’abord, un benchmark des solutions des aides nocturnes à domicile sera élaboré et un questionnaire exploratoire à destination des binômes aidants-aidés permettra de faire un état des lieux du recours à ces aides.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Statut tri: accepted Source: IReSP URL: https://iresp.net/projets_finances/evaluation-de-solutions-daccompagnement-de-nuit-pour-les-seniors-en-perte-dautonomie-et-leurs-aidants-a-domicile-benefices-et-limites/ Programme concerné: Autonomie Nom de l'appel: Établissements, Services et Transformation de l'Offre Médico-Sociale (session 4) Année: 2022 État du projet: En cours Durée: 36 mois Subvention allouée: 249 006,56 € Financeurs: CNSA Disciplines:  Evaluation de solutions d’accompagnement de nuit pour les séniors en perte d’autonomie et leurs aidants à domicile: bénéfices et limites. - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » Evaluation de solutions d’accompagnement de nuit pour les séniors en perte d’autonomie et leurs aidants à domicile: bénéfices et limites.",
+    "description": {
+        "description_generale": "Méthodes: Le projet est construit en deux temps: 1/ cartographie, description et recours aux aides de nuit (année 1), et 2/ évaluation d’une sélection d’aides de nuit (années 2 et 3).",
+        "contexte": "Résumé de soumission Contexte: En France la part démographique croissante des personnes âgées (>65 ans) et très âgées (>85 ans), s’accompagne d’une adaptation progressive de la société au vieillissement et l’organisation d’un nouveau tissu économique, social et solidaire à destination des séniors.",
+        "problematique": "En effet, la nuit d’un sujet âgé est une période nécessitant une vigilance accrue (altération du sommeil, solitude, isolement, anxiété, polymédication, expression nocturne majorée de nombreux troubles, etc.).",
+        "solution_envisagee": "Evaluation de solutions d’accompagnement de nuit pour les séniors en perte d’autonomie et leurs aidants à domicile: bénéfices et limites.",
+        "objectifs": "Objectifs: Le projet SNOSE devra permettre d’explorer trois questions: 1/ les aides de nuit sont-elles connues, attendues et acceptées au domicile des binômes aidants-aidés, 2/ concourent-elles efficacement au maintien à domicile et soulagent-elles les aidants, et 3/ s’intègrent-elles à la pratique professionnelle et à la prise en charge globale à domicile?"
+    },
+    "porteur_initiative": "Equipes du projet Coordonnateur: BESSEICHE Adrien Structure administrative de rattachement: Gérond'if - le gérontopôle d'Ile-de-France Laboratoire ou équipe: Gérond'if - le gérontopôle d'Ile-de-France Autres équipes participantes: Responsable de l'équipe 2: DEPINARDE Laure Association AMADPA Responsable de l'équipe 3: BOUKERROU Leila Association ISATIS Responsable de l'équipe 4: VILLEZ Marion Laboratoire LIRTES, UPEC Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2022",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\048_2022_evaluation_de_solutions_d_accompagnement_de_nuit_pour_les_seniors_en_perte_d_autonomie_et_leurs_aidants_a_domicile_benef.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\048_2022_evaluation_de_solutions_d_accompagnement_de_nuit_pour_les_seniors_en_perte_d_autonomie_et_leurs_aidants_a_domicile_benef.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

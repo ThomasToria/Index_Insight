@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: \"L'appel de la forêt\", une sortie pour les aînés de la commune",
+    "territoire": "Titre: \"L'appel de la forêt\", une sortie pour les aînés de la commune Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/216-pe-l-appel-de-la-foret-une-sortie-pour-les-aines-de-la-commune-mise-en-forme-2023.pdf  ---  --- UNE OCCASION DE (RE)DÉCOUVRIR LE PATRIMOINE DE SA RÉGION Rassembler les aînés autour d’un projet en période hivernale a été possible grâce au travail effectué par l’équipe «Village Ami des Aînés» de Meaulne.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Coût total de l’action: Environ 500 € Meaulne Ville amie des aînés depuis 2014 Meaulne-Vitray (03)  ---  --- UNE PROMENADE GUIDÉE IMAGINÉE POUR ET AVEC LES AÎNÉS Ces deux journées de promenade ont été imaginées par les personnes âgées et les élus de la Commune.",
+    "description": {
+        "description_generale": "Un courrier confirmant la tenue du projet leur a été envoyé, leur demandant s’ils souhaitaient participer à la promenade et à l’organisation de l’action.",
+        "contexte": "Coût total de l’action: Environ 500 € Meaulne Ville amie des aînés depuis 2014 Meaulne-Vitray (03)  ---  --- UNE PROMENADE GUIDÉE IMAGINÉE POUR ET AVEC LES AÎNÉS Ces deux journées de promenade ont été imaginées par les personnes âgées et les élus de la Commune.",
+        "problematique": "À leur demande, les aînés pouvaient aussi être pris chez eux par le minibus. « L’APPEL DE LA FORÊT », UNE SORTIE POUR LES AÎNÉS DE LA COMMUNE Fiche PARTAGE D'EXPÉRIENCE N°216 Villes Amies des Aînés en France Lutter contre l’isolement social non choisi des aînés.",
+        "solution_envisagee": "Coût total de l’action: Environ 500 € Meaulne Ville amie des aînés depuis 2014 Meaulne-Vitray (03)  ---  --- UNE PROMENADE GUIDÉE IMAGINÉE POUR ET AVEC LES AÎNÉS Ces deux journées de promenade ont été imaginées par les personnes âgées et les élus de la Commune.",
+        "objectifs": "Les objectifs ont été atteints: d’autres projets sont actuellement à l’étude, un goûter intergénérationnel est notamment prévu pour le 12 mars 2016."
+    },
+    "porteur_initiative": "Coût total de l’action: Environ 500 € Meaulne Ville amie des aînés depuis 2014 Meaulne-Vitray (03)  ---  --- UNE PROMENADE GUIDÉE IMAGINÉE POUR ET AVEC LES AÎNÉS Ces deux journées de promenade ont été imaginées par les personnes âgées et les élus de la Commune.",
+    "date": [
+        "17 novembre 2015",
+        "19",
+        "12 mars 2016",
+        "19 novembre 2015",
+        "novembre 2015",
+        "mars 2016",
+        "2025",
+        "2023",
+        "2015",
+        "2014",
+        "2016",
+        "depuis 2014",
+        "en 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lappel_de_la_foret_une_sortie_pour_les_aines_de_la_commune.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lappel_de_la_foret_une_sortie_pour_les_aines_de_la_commune.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

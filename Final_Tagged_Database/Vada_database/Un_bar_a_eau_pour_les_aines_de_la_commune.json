@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Un bar à eau pour les aînés de la commune",
+    "territoire": "Titre: Un bar à eau pour les aînés de la commune Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/323-pe-bar-a-eau-mise-en-forme-2023.pdf  ---  --- COMMENT SENSIBILISER LES PERSONNES ÂGÉES AU PLAN CANICULE?",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Il y a aussi beaucoup de partenaires pour la campagne d’information: la police municipale, les professionnels de santé comme les médecins, les kinésithérapeutes, les infirmiers, les pharmaciens, les services de maintien à domicile, les travailleurs sociaux des différents hôpitaux, la CARSAT, la métropole, les référents des conseils de quartiers… L’implication de ces partenaires dans le dispositif est particulièrement important puisqu’ils garantissent une meilleure diffusion des informations concernant le bar a eau et le registre nominatif auprès de leurs bénéficiaires.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Tassin la Demi-Lune, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "En 2015, la ville de Tassin-la-Demi-Lune constate que très peu de personnes étaient inscrites sur le registre nominatif du plan canicule.",
+        "problematique": "Titre: Un bar à eau pour les aînés de la commune Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/323-pe-bar-a-eau-mise-en-forme-2023.pdf  ---  --- COMMENT SENSIBILISER LES PERSONNES ÂGÉES AU PLAN CANICULE?",
+        "solution_envisagee": "Sur le stand, il est également possible de déguster des fruits riches en eau, et les animatrices proposent des idées de recettes simples à réaliser pour les fortes chaleurs comme du thé glacé ou du gaspacho.",
+        "objectifs": "Titre: Un bar à eau pour les aînés de la commune Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/323-pe-bar-a-eau-mise-en-forme-2023.pdf  ---  --- COMMENT SENSIBILISER LES PERSONNES ÂGÉES AU PLAN CANICULE?"
+    },
+    "porteur_initiative": "UN PROJET MULTIPARTENARIAL Le projet de monter un bar à eau est porté par une assistante sociale du pôle gérontologique de la mairie de Tassin.",
+    "date": [
+        "22/06/2017",
+        "2025",
+        "2023",
+        "2015",
+        "2017",
+        "depuis 2017",
+        "En 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_bar_a_eau_pour_les_aines_de_la_commune.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_bar_a_eau_pour_les_aines_de_la_commune.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

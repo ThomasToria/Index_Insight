@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: L'espace intergénérationnel de la bibliothèque Saint-Nicolas",
+    "territoire": "Titre: L'espace intergénérationnel de la bibliothèque Saint-Nicolas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/122-pe-l-espace-interge-de-la-bibliotheque-saint-nicolas.pdf  ---  --- Un comité scientifique, qui réunit des experts pour orienter les réflexions par des apports conceptuels et des retours d'expériences; Un comité participatif, qui est composé d'usagers, d'associations et d'habitants du quartier pour faire des propositions et apporter une expertise d'usage; Un comité technique, qui est composé de services municipaux (CCAS, Bibliothèque municipale, pôle territorial) pour préparer le comité de pilotage et mettre en œuvre ses décisions; Un comité de pilotage, réunissant les élus municipaux pour valider les orientations et les programmations.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: L'espace intergénérationnel de la bibliothèque Saint-Nicolas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/122-pe-l-espace-interge-de-la-bibliotheque-saint-nicolas.pdf  ---  --- Un comité scientifique, qui réunit des experts pour orienter les réflexions par des apports conceptuels et des retours d'expériences; Un comité participatif, qui est composé d'usagers, d'associations et d'habitants du quartier pour faire des propositions et apporter une expertise d'usage; Un comité technique, qui est composé de services municipaux (CCAS, Bibliothèque municipale, pôle territorial) pour préparer le comité de pilotage et mettre en œuvre ses décisions; Un comité de pilotage, réunissant les élus municipaux pour valider les orientations et les programmations.",
+    "description": {
+        "description_generale": "Ce projet, qui mobilise les habitants du quartier, est développé dans le cadre d'un partenariat entre la Direction Culture, Patrimoine et Créations, la Direction Action Territoriale et Jeunesse de la Ville et le Centre Communal d'Action Sociale d'Angers.",
+        "contexte": "D'autres points sont en cours d'évolution, comme par exemple: les équipements informatiques et numériques, le matériel de sonorisation et palliant les déficiences sensorielles, la politique d'accompagnement des personnes isolées et fragiles vers l'Espace, les partenariats, l'adaptation des ouvrages, l'implication et la participation des publics.",
+        "problematique": "STRUCTURATION DU PROJET Ce projet a pour objectif de s'inscrire dans une démarche participative et réflexive, c'est pourquoi plusieurs comités ont été mis en place: L’ESPACE INTERGÉNÉRATIONNEL DE LA BIBLIOTHÈQUE SAINT-NICOLAS Fiche PARTAGE D'EXPÉRIENCE N°122 Villes Amies des Aînés en France Ville d’Angers Ville Amie des Aînés depuis 2015 Angers (49) Contribuer à la vie sociale et culturelle des personnes âgées, en faisant de la bibliothèque Saint-Nicolas un espace convivial et adapté, permettant de lutter contre l’isolement des personnes âgées.",
+        "solution_envisagee": "D'autres points sont en cours d'évolution, comme par exemple: les équipements informatiques et numériques, le matériel de sonorisation et palliant les déficiences sensorielles, la politique d'accompagnement des personnes isolées et fragiles vers l'Espace, les partenariats, l'adaptation des ouvrages, l'implication et la participation des publics.",
+        "objectifs": "AXES A DEVELOPPER Afin de continuer à avancer dans ce projet innovant, quelques axes restent à développer au sein de l'Espace Saint-Nicolas."
+    },
+    "porteur_initiative": "D'autres points sont en cours d'évolution, comme par exemple: les équipements informatiques et numériques, le matériel de sonorisation et palliant les déficiences sensorielles, la politique d'accompagnement des personnes isolées et fragiles vers l'Espace, les partenariats, l'adaptation des ouvrages, l'implication et la participation des publics.",
+    "date": [
+        "2025",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lespace_intergenerationnel_de_la_bibliotheque_Saint-Nicolas.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lespace_intergenerationnel_de_la_bibliotheque_Saint-Nicolas.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

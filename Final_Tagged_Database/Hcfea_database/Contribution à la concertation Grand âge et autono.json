@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Contribution à la concertation Grand âge et autonomie",
+    "territoire": "Les priorités de ce socle sont de: consolider le maintien à domicile pour un effort financier d’environ 1,9 Md€ et de revoir le statut des aidants; privilégier l’amélioration de la qualité des établissements.",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Les priorités de ce socle sont de: consolider le maintien à domicile pour un effort financier d’environ 1,9 Md€ et de revoir le statut des aidants; privilégier l’amélioration de la qualité des établissements.",
+    "description": {
+        "description_generale": "Des études devraient être engagées sans délai de façon à être disponibles pour le projet de loi de 2019.",
+        "contexte": "Les priorités de ce socle sont de: consolider le maintien à domicile pour un effort financier d’environ 1,9 Md€ et de revoir le statut des aidants; privilégier l’amélioration de la qualité des établissements.",
+        "problematique": "Les priorités de ce socle sont de: consolider le maintien à domicile pour un effort financier d’environ 1,9 Md€ et de revoir le statut des aidants; privilégier l’amélioration de la qualité des établissements.",
+        "solution_envisagee": "Le Conseil analyse ensuite les recettes envisageables pour le financement de ces mesures et le calendrier de leur mise en place.",
+        "objectifs": "Les priorités de ce socle sont de: consolider le maintien à domicile pour un effort financier d’environ 1,9 Md€ et de revoir le statut des aidants; privilégier l’amélioration de la qualité des établissements."
+    },
+    "porteur_initiative": "Les priorités de ce socle sont de: consolider le maintien à domicile pour un effort financier d’environ 1,9 Md€ et de revoir le statut des aidants; privilégier l’amélioration de la qualité des établissements.",
+    "date": [
+        "6 décembre 2018",
+        "décembre 2018",
+        "13/12/2018",
+        "2018",
+        "2019",
+        "2024",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Contribution à la concertation Grand âge et autono.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Contribution à la concertation Grand âge et autono.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

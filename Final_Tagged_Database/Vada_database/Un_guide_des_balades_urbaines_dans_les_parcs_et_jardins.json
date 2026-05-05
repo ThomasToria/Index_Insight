@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Un guide des balades urbaines dans les parcs et jardins",
+    "territoire": "Souvent desservis par l es transports en commun, ils sont le lieu de rencontre s, parfois de manifestation et contribuent au mieux vivre ensemble de son quartier et sa ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Pour cela, u n guide de balade seniors dans les parcs et jardins propices à la détente de la ville de Dijon a été pe nsé afin d’ encourager les liens sociaux entre habitants et d’accompagner l’ élaboration de projets de promenades (découvrir des ambiances et des milieux naturels et culturels, des sorties hebdomadaires po ur des personnes isolées...).",
+    "description": {
+        "description_generale": "Budget total: 8 000€ (3 000 € pour les actions de marches conscientes et 5 000 € pour la maquette et la communication du guide).",
+        "contexte": "Face au constat d’un nombre grandissant de personnes âgées et le plus souvent confrontées au risque de solitude et au repli à domicile, l’ observatoire de l’âge a souhaité encourager la mobilité des seniors dans un environnement propice à la promenade et au bien- être.",
+        "problematique": "UN GUIDE DES BALADES URBAINES DANS LES PARCS ET JARDINS OBJECTIFS Soutenir la mobilité des seniors et lutter contre l’isolement.",
+        "solution_envisagee": "Grâce à la coordination avec le service d’accompagnement du CCAS, les déplacements des personnes à mobilité réduite de leur domicile aux lieux de balades ont pu être pris en charge.",
+        "objectifs": "Soutenir la mobilité des seniors et lutter contre l’isolement.\nMotiver les promenades dans quelques parcs et jardins plus\nparticulièrement dignes d’intérêt pour les seniors.\nPRATIQUE\nIdentifier des parcs et jardins adaptés aux seniors. Visiter\nces sites avec les membres de l’observatoire de l’âge\net des personnes à mobilité réduite. Créer une fiche de\nbalade urbaine par site. Créer un guide des balades\nurbaines seniors et une cartographie des parcs et jardins\npour diႇusion à un large public.\nBudget total: 8 000€ (3 000 € pour les actions de marches\nconscientes et 5 000 € pour la maquette et la communication\ndu guide).\nDIJON\nVille Amie des Aînés depuis 06-2009\nDijon (21)\nFiche publiée le 26/11/2018\nwww.villesamiesdesaines-rf.fr\nESPACES EXTÉRIEURS ET BÂTIMENTS\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nINFORMATION ET COMMUNICATION\nCULTURE ET LOISIRS"
+    },
+    "porteur_initiative": "Titre: Un guide des balades urbaines dans les parcs et jardins Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/440-440-pe-balades-urbaines.pdf  ---  --- DÉVELOPPER LA MOBILITÉ DES SENORS L ’ observatoire de l’âge souhaite développer la mobilité des seniors dans un cadre calme, adapté, apaisé et balisé par une fiche repère.",
+    "date": [
+        "26/11/2018",
+        "2025",
+        "2019",
+        "2009",
+        "2018",
+        "en 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Semaine bleue 2022 et déploiement des activités bien être",
+    "territoire": "Titre: Semaine bleue 2022 et déploiement des activités bien être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/990-concours-2023-semaine-bleue-2022-et-deploiement-des-activites-bien-etre.pdf  ---  --- POUR UN BIEN-ÊTRE ACCESSIBLE À TOUS Le service senior de la ville de Saint-Paul accompagne depuis de nombreuses années les 25 clubs de seniors présents sur le territoire.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Chaque jour, la \"caravane bleue\" était déployée sous forme de stand dans un équipement de proximité ou un espace public, accessible aux seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Paul, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Par ailleurs, les nombreux événements organisés par la Ville ont également permis de constater le succès des ateliers bien-être auprès de ce public.",
+        "problematique": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS SEMAINE BLEUE 2022 ET DÉPLOIEMENT DES ACTIVITÉS BIEN ÊTRE Fiche PARTAGE D'EXPÉRIENCE N°852 Villes Amies des Aînés en France Saint-Paul Ville Amie des Aînés depuis 2022 Saint-Paul (974) Lutter contre l'isolement.",
+        "solution_envisagee": "Titre: Semaine bleue 2022 et déploiement des activités bien être Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/990-concours-2023-semaine-bleue-2022-et-deploiement-des-activites-bien-etre.pdf  ---  --- POUR UN BIEN-ÊTRE ACCESSIBLE À TOUS Le service senior de la ville de Saint-Paul accompagne depuis de nombreuses années les 25 clubs de seniors présents sur le territoire.",
+        "objectifs": "De nombreux prestataires ont donc été retenus: trois esthéticiennes, un prestataire massage assis, un prestataire massage allongé, un intervenant Taï chi, une réflexologue, une sophrologue, et deux coiffeuses."
+    },
+    "porteur_initiative": "De nombreux prestataires ont donc été retenus: trois esthéticiennes, un prestataire massage assis, un prestataire massage allongé, un intervenant Taï chi, une réflexologue, une sophrologue, et deux coiffeuses.",
+    "date": [
+        "2022",
+        "2025",
+        "2023",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Semaine_bleue_2022_et_deploiement_des_activites_bien_etre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Semaine_bleue_2022_et_deploiement_des_activites_bien_etre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

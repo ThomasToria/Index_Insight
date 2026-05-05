@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Logement laboratoire seniors",
+    "territoire": "Titre: Logement laboratoire seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/726-pe-594-220422logement-laboratoire-seniors-neolia.pdf  ---  --- QU'EST-CE QUE CE LOGEMENT LABORATOIRE?",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Logement laboratoire seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/726-pe-594-220422logement-laboratoire-seniors-neolia.pdf  ---  --- QU'EST-CE QUE CE LOGEMENT LABORATOIRE?",
+    "description": {
+        "description_generale": "Si, comme Neolia, vous avez mis en place des projet s pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Logement laboratoire seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/726-pe-594-220422logement-laboratoire-seniors-neolia.pdf  ---  --- QU'EST-CE QUE CE LOGEMENT LABORATOIRE?",
+        "problematique": "ÉQUIPEMENTS DU SALON Dans le salon, il est possible de s'informer sur une enceinte Google Home avec écran qui permet le pilotage par la voix des équipements connectés: les volets, les lumières, la télévision, le téléphone, le chauffage et la coupure d’arrivée d’eau, les jeux et les possibilités de visio (appel avec vidéo) qui permettent de rompre l’isolement social; une sonde d’analyse de la qualité de l’air qui avertit s’il y a besoin d’aérer; une vanne thermostatique connectée sans fil et sans pile pour régler le radiateur; un détecteur de fumée connecté qui déclenche l’ouverture des volets et l’allumage du chemin lumineux pour favoriser l'évacuation.",
+        "solution_envisagee": "Il est aussi possible de trouver dans cette pièce de vie centrale, des aménagements pour améliorer la qualité de vie: un volet roulant connecté pour une ouverture à distance (plus besoin d'effort pour tourner la manivelle), un volet avec lames orientables qui permet de se protéger de la chaleur mais en laissant la lumière passer et sans s'isoler de l'extérieur (pour une belle luminosité), un flash lumineux qui se déclenche en même temps que la sonnette, une tablette tactile avec la plateforme facilien (une interface adaptée aux seniors pour faciliter l'accès à internet).",
+        "objectifs": "Ce logement laboratoire est un éventail de prestations dédiées au bien-être des seniors de plus de 65 ans pour bien vivre dans leur logement, pour améliorer l’autonomie, le confort et la sécurité."
+    },
+    "porteur_initiative": "Titre: Logement laboratoire seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/726-pe-594-220422logement-laboratoire-seniors-neolia.pdf  ---  --- QU'EST-CE QUE CE LOGEMENT LABORATOIRE?",
+    "date": [
+        "2025",
+        "2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logement_laboratoire_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Logement_laboratoire_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

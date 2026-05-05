@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Et si on allait au festival entrevues de Belfort…",
+    "territoire": "Le projet a notamment pu se faire grâce à la Maison de Quartier du Centre-ville, et à l'Office pour Personnes Âgées du Belfort et Territoire, pour identifier des personnes isolées ou des personnes n’ayant pas l’opportunité de participer à ce type de sortie.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Cette collation a permis aux étudiantes d’échanger avec les seniors sur les grands principes d’une alimentation gourmande et équilibrée.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Sont prévus pour 2024- 2025: une séance avec thématique en présence d’un conférencier (mai-juin), le festival international du Film de Belfort (novembre), une séance thématique et intergénérationnelle avec des collégiens ou lycéens (printemps).",
+        "problematique": "Sont prévus pour 2024- 2025: une séance avec thématique en présence d’un conférencier (mai-juin), le festival international du Film de Belfort (novembre), une séance thématique et intergénérationnelle avec des collégiens ou lycéens (printemps).",
+        "solution_envisagee": "Sont prévus pour 2024- 2025: une séance avec thématique en présence d’un conférencier (mai-juin), le festival international du Film de Belfort (novembre), une séance thématique et intergénérationnelle avec des collégiens ou lycéens (printemps).",
+        "objectifs": "ET SI ON ALLAIT AU FESTIVAL ENTREVUES DE BELFORT… Fiche PARTAGE D'EXPÉRIENCE N°894 Villes Amies des Aînés en France Belfort Ville Amie des Aînés depuis 2018 Belfort (90) Découverte du Festival International du Film de Belfort du 20 au 26 novembre 2023; Rencontre et échange intergénérationnel, Favoriser l’accès à la culture; Développer des liens; Créer une dynamique collective, inciter à venir au Festival, visionner un film, débattre, échanger."
+    },
+    "porteur_initiative": "Sont prévus pour 2024- 2025: une séance avec thématique en présence d’un conférencier (mai-juin), le festival international du Film de Belfort (novembre), une séance thématique et intergénérationnelle avec des collégiens ou lycéens (printemps).",
+    "date": [
+        "26 novembre 2023",
+        "novembre 2023",
+        "2025",
+        "1033",
+        "2018",
+        "2023",
+        "2024",
+        "depuis 2018",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_allait_au_festival_entrevues_de_Belfort.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Et_si_on_allait_au_festival_entrevues_de_Belfort.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

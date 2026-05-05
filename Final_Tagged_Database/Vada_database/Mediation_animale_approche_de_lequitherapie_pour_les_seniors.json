@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Médiation animale: approche de l’équithérapie pour les seniors",
+    "territoire": "Titre: Médiation animale: approche de l’équithérapie pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/796-pe-mediation-animale.pdf  ---  --- UNE FERME PEDAGOGIQUE ET DES TEMPS DE SOIN POUR LES SENIORS Les agentes du Pôle senior, dans leurs échanges avec les partenaires et le public accueilli, ont constaté qu'un certain nombre de seniors de la ville ne pouvaient bénéficier pleinement des activités et animations proposées par la ville pour des raisons de santé physique ou psychiques.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Médiation animale: approche de l’équithérapie pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/796-pe-mediation-animale.pdf  ---  --- UNE FERME PEDAGOGIQUE ET DES TEMPS DE SOIN POUR LES SENIORS Les agentes du Pôle senior, dans leurs échanges avec les partenaires et le public accueilli, ont constaté qu'un certain nombre de seniors de la ville ne pouvaient bénéficier pleinement des activités et animations proposées par la ville pour des raisons de santé physique ou psychiques.",
+    "description": {
+        "description_generale": "Il est prévu que le projet soit renouvelé en étudiant les possibilités et en diversifiant les approches, notamment en organisant des séquences d'interaction avec d'autres animaux et en étendant l'offre à un public plus nombreux.",
+        "contexte": "Il s'agit dans un contexte adapté, de leur mettre à disposition l’équipement d'une ferme pédagogique et, grâce à l'intermédiation d'un professionnel, d'approcher un animal et d'accomplir des activités leurs permettant d'appréhender la relation avec lui.",
+        "problematique": "MEDIATION ANIMALE: APPROCHE DE L'ÉQUITHÉRAPIE POUR LES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°662 Villes Amies des Aînés en France Ville de Louviers (27) Ville Amie des Aînés depuis 2018 Lutter contre l'isolement.",
+        "solution_envisagee": "Après avoir effectué une recherche de solution et conscientes de l'intérêt que peut comporter la médiation animale, elles ont formalisé ce projet qui semble - après une première session - satisfaire pleinement aux attentes.",
+        "objectifs": "Explorer le contexte local pour trouver un partenaire pouvant répondre aux objectifs définis."
+    },
+    "porteur_initiative": "L'activité se déroule de plusieurs manières: en proposant une approche des caractéristiques du cheval (aspects corporels, psychiques au travers de tâches d'entretien tels que le brossage); par l'activité physique, grâce aux balades effectuées et pendant lesquelles la personne promène le cheval, le guide en tenant les rênes et joue avec lui.",
+    "date": [
+        "2025",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediation_animale_approche_de_lequitherapie_pour_les_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mediation_animale_approche_de_lequitherapie_pour_les_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

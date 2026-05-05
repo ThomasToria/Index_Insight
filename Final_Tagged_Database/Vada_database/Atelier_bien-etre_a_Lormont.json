@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Atelier bien-être à Lormont",
+    "territoire": "Titre: Atelier bien-être à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1015-concours-2023-atelier-bien-etre-a-lormont.pdf  ---  --- CRÉATION DE L'ATELIER Le service d'aide à domicile du CCAS de Lormont est inscrit dans une démarche innovation managériale qui consiste à développer le pouvoir d'agir des intervenantes à domicile.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En effet, le management collaboratif mis en place a permis des initiatives de la part des équipes de terrain, et notamment un groupe de travail sur la création d'un atelier bien-être à destination des seniors.",
+    "description": {
+        "description_generale": "En effet, le management collaboratif mis en place a permis des initiatives de la part des équipes de terrain, et notamment un groupe de travail sur la création d'un atelier bien-être à destination des seniors.",
+        "contexte": "Titre: Atelier bien-être à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1015-concours-2023-atelier-bien-etre-a-lormont.pdf  ---  --- CRÉATION DE L'ATELIER Le service d'aide à domicile du CCAS de Lormont est inscrit dans une démarche innovation managériale qui consiste à développer le pouvoir d'agir des intervenantes à domicile.",
+        "problematique": "Titre: Atelier bien-être à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1015-concours-2023-atelier-bien-etre-a-lormont.pdf  ---  --- CRÉATION DE L'ATELIER Le service d'aide à domicile du CCAS de Lormont est inscrit dans une démarche innovation managériale qui consiste à développer le pouvoir d'agir des intervenantes à domicile.",
+        "solution_envisagee": "Le jour J, les aides à domicile se sont répartis les postes pour proposer les différentes activités bien-être prévues.",
+        "objectifs": "Titre: Atelier bien-être à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1015-concours-2023-atelier-bien-etre-a-lormont.pdf  ---  --- CRÉATION DE L'ATELIER Le service d'aide à domicile du CCAS de Lormont est inscrit dans une démarche innovation managériale qui consiste à développer le pouvoir d'agir des intervenantes à domicile."
+    },
+    "porteur_initiative": "Titre: Atelier bien-être à Lormont Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1015-concours-2023-atelier-bien-etre-a-lormont.pdf  ---  --- CRÉATION DE L'ATELIER Le service d'aide à domicile du CCAS de Lormont est inscrit dans une démarche innovation managériale qui consiste à développer le pouvoir d'agir des intervenantes à domicile.",
+    "date": [
+        "2025",
+        "1015",
+        "2023",
+        "2022",
+        "2019",
+        "depuis 2019",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bien-etre_a_Lormont.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_bien-etre_a_Lormont.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

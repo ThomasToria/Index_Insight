@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Villagéneration d'Audincourt",
+    "territoire": "Titre: Villagéneration d'Audincourt Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/684-pe-25-villageneration-d-audincourt-neolia-2.pdf  ---  --- UN MICRO-QUARTIER ADAPTÉ Le concept Villagénération est une construction d'un micro quartier avec des maisons T2/T3 adaptées pour seniors, une solution de logement social autonome entre le domicile et l'EHPAD.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Un microquartier NEOLIA: une réponse adpatée aux b esoins des seniors en matière d'habitat.",
+    "description": {
+        "description_generale": "Le lycée Nelson Mandela quant à lui a proposé un atelier cuisine avec les lycéens et un projet de livre de recettes intergénérationnel est en cours de rédaction avec le lycée.",
+        "contexte": "L’EHPAD \"La résidence du parc\" a quant à elle mis à disposition leurs services pour les locataires: coiffeur, salon de thé associatif, terrain de pétanque et tournoi « sportif ».",
+        "problematique": "Coût: 2 800 000€.  ---  --- Son rôle consiste à échanger sur les difficultés, les attentes relatives au fonctionnement du Villagénération et aux nouveaux partenariats à développer.",
+        "solution_envisagee": "Un microquartier NEOLIA: une réponse adpatée aux b esoins des seniors en matière d'habitat.",
+        "objectifs": "Coût: 2 800 000€.  ---  --- Son rôle consiste à échanger sur les difficultés, les attentes relatives au fonctionnement du Villagénération et aux nouveaux partenariats à développer."
+    },
+    "porteur_initiative": "Celui-ci est constitué des locataires et animé par l’hôtesse du CCAS et le responsable Habitat Génération de Néolia.",
+    "date": [
+        "2025",
+        "2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Villageneration_dAudincourt.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Villageneration_dAudincourt.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

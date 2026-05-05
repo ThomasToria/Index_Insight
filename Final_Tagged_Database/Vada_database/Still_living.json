@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Still living",
+    "territoire": "Titre: Still living Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/453-pe-still-living.pdf  ---  --- UNE CAPSULE TEMPORELLE La Résidence Autonomie les Alpins, dans le cadre de son cinquantenaire, a souhaité réaliser un travail de mémoire original et créatif par le biais de la photographie, permettant à chacun d’exprimer sa sensibilité tout en écrivant une trace collective de son lieu de vie.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Fruit de la rencontre entre les résidents et la photographe Nadine Barbançon, elle avait pour but d’offrir au public une image renouvelée, décalée et pleine d’humour de chacun des habitants.",
+    "description": {
+        "description_generale": "Budget global: 4 000 €  ---  --- LES PARTENAIRES DE L’ACTION ICe projet a été soutenu par le programme Culture et Santé et par le service Culture et Lien social du département, par le CCAS et l’association des résidents.",
+        "contexte": "Faire circuler ces images et cette exposition suscite à chaque fois de l’étonnement et, finalement, rassure chacun d’entre nous sur notre propre devenir: les personnes âgées sont aussi en capacité de rire de tout, dont d’elles-mêmes.",
+        "problematique": "Faire circuler ces images et cette exposition suscite à chaque fois de l’étonnement et, finalement, rassure chacun d’entre nous sur notre propre devenir: les personnes âgées sont aussi en capacité de rire de tout, dont d’elles-mêmes.",
+        "solution_envisagee": "Le Foyer logement Les Alpin a planifié des rencontres avec l’artiste et les partenaires et a géré la communication, le portage financier, l’accompagnement, la mise en relation avec l’équipe professionnelle et l’information auprès des familles.",
+        "objectifs": "Favoriser l’expression des émotions des personnes âgées vivant à la Résidence Autonomie les Alpins."
+    },
+    "porteur_initiative": "Faire circuler ces images et cette exposition suscite à chaque fois de l’étonnement et, finalement, rassure chacun d’entre nous sur notre propre devenir: les personnes âgées sont aussi en capacité de rire de tout, dont d’elles-mêmes.",
+    "date": [
+        "2025",
+        "2016",
+        "2067",
+        "depuis 2016",
+        "en 2067"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Still_living.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Still_living.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

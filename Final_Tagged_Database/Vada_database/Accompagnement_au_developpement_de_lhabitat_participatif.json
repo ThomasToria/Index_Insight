@@ -1,0 +1,60 @@
+{
+    "titre": "Titre: Accompagnement au développement de l'habitat participatif",
+    "territoire": "Fiche PARTAGE D'EXPÉRIENCE N°_ Villes Amies des Aînés en France La Margurite des Champs Au Pays de Mormal Communauté Amie des Aînés depuis 2016 Apporter une alternative de logement adapté aux aînés dans leur territoire pour qu'ils puissent toujours choisir leur lieu de résidence librement Prévenir contre la perte d'autonomie; Lutter contre l’isolement des personnes vivant en milieu rural; Garder le centre des villages actifs.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "L'accompagnement au développement de l'habitat alternatif dédié aux seniors correspond à un besoin identifié et exprimé par les habitants du territoire, lors des audits participatifs menés au début de la démarche CADA.",
+    "description": {
+        "description_generale": "ACTIONS À METTRE EN PLACE Pour pérenniser le projet, de multiples actions sont nécessaires, comme le fait de poursuivre l'accompagnement des projets en cours ou de nouveaux conseils en urbanisme, de réaliser des études d'opportunités de mettre en relation avec les bailleurs et constructeurs (notamment la Foncière Chênelet pour des projets de petite taille).",
+        "contexte": "Suite à ce constat, plusieurs communes ont réfléchi à la création de logements sous forme de béguinages.",
+        "problematique": "L'accompagnement au développement de l'habitat alternatif dédié aux seniors correspond à un besoin identifié et exprimé par les habitants du territoire, lors des audits participatifs menés au début de la démarche CADA.",
+        "solution_envisagee": "Pour autant, la maison où ils vivent depuis longtemps n’est pas  ACCOMPAGNEMENT AU DEVELOPPEMENT DE l'HABITAT PARTICIPATIF Fiche PARTAGE D'EXPÉRIENCE N°555 Villes Amies des Aînés en France Communauté de communes du Pays de Mormal (59) Amie des Aînés depuis 2016 Proposer un accompagnement technique aux communes (volet urbanisme).",
+        "objectifs": "Cette action vise à compléter l'offre liée à l'habitat dédié aux seniors du territoire: aide à l'adaptation du domicile, offre en accueil familial ou encore EHPAD du territoire."
+    },
+    "porteur_initiative": "Il s'agit de favoriser l'émergence et la réalisation de ces projets d'habitats dédiés aux seniors par un soutien aux porteurs du territoire identifiés.",
+    "date": [
+        "décembre 2020",
+        "2025",
+        "2021",
+        "2016",
+        "2017",
+        "2022",
+        "2019",
+        "2020",
+        "depuis 2016",
+        "Depuis 2017",
+        "depuis",
+        "en 2016",
+        "en 2022",
+        "En 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_au_developpement_de_lhabitat_participatif.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Accompagnement_au_developpement_de_lhabitat_participatif.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Culture à domicile",
+    "territoire": "Titre: Culture à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1040-pe-culture-a-domicile.pdf  ---  --- RAMENER LA CULTURE AUX SENIORS Le CCAS et la médiathèque de Biot ont partagé le constat que les seniors vieillissants qui fréquentent régulièrement la médiathèque, finissent par ne plus pouvoir s'y rendre, alors même qu'ils souhaitent continuer à emprunter/consulter des ouvrages.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Culture à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1040-pe-culture-a-domicile.pdf  ---  --- RAMENER LA CULTURE AUX SENIORS Le CCAS et la médiathèque de Biot ont partagé le constat que les seniors vieillissants qui fréquentent régulièrement la médiathèque, finissent par ne plus pouvoir s'y rendre, alors même qu'ils souhaitent continuer à emprunter/consulter des ouvrages.",
+    "description": {
+        "description_generale": "PRÉSENTATION ET LANCEMENT L'action a été mise en place en avril, avec deux après-midi de tournées communes entre l'agent social du CCAS et l'agent de la médiathèque.",
+        "contexte": "Titre: Culture à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1040-pe-culture-a-domicile.pdf  ---  --- RAMENER LA CULTURE AUX SENIORS Le CCAS et la médiathèque de Biot ont partagé le constat que les seniors vieillissants qui fréquentent régulièrement la médiathèque, finissent par ne plus pouvoir s'y rendre, alors même qu'ils souhaitent continuer à emprunter/consulter des ouvrages.",
+        "problematique": "CULTURE À DOMICILE Fiche PARTAGE D'EXPÉRIENCE N°901 Villes Amies des Aînés en France Médiathèque de Biot Ville Amie des Aînés depuis 2024 Biot (06) Continuer à faire entrer la culture au domicile des personnes ne pouvant plus se rendre à la médiathèque; Renforcer le lien social des seniors, que ce soit en direct avec les agents du CCAS ou leur entourage proche en donnant l'occasion d'échanger et de partager autour de sujets culturels divers; Permettre de continuer à choisir des activités culturels malgré leur difficulté à sortir de chez eux.",
+        "solution_envisagee": "MISE EN PLACE DU SERVICE Après des réunions entre les deux équipes en mai et septembre 2023, la médiathèque a sélectionné une centaine d'ouvrages à inclure dans ce service de portage.",
+        "objectifs": "CULTURE À DOMICILE Fiche PARTAGE D'EXPÉRIENCE N°901 Villes Amies des Aînés en France Médiathèque de Biot Ville Amie des Aînés depuis 2024 Biot (06) Continuer à faire entrer la culture au domicile des personnes ne pouvant plus se rendre à la médiathèque; Renforcer le lien social des seniors, que ce soit en direct avec les agents du CCAS ou leur entourage proche en donnant l'occasion d'échanger et de partager autour de sujets culturels divers; Permettre de continuer à choisir des activités culturels malgré leur difficulté à sortir de chez eux."
+    },
+    "porteur_initiative": "Si, comme la Ville de Biot, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "septembre 2023",
+        "mai 2024",
+        "octobre 2023",
+        "janvier 2024",
+        "2025",
+        "1040",
+        "2023",
+        "2024",
+        "depuis 2024",
+        "en 2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Culture_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Culture_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

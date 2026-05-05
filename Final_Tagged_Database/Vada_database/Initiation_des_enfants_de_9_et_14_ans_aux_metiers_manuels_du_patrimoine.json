@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine",
+    "territoire": "Titre: Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles-1.pdf  ---  --- FAVORISER LA TRANSMISSION DES SAVOIRS Née en 1987, l'association l'outil en main a pour but l'initiation des jeunes dès l'âge de neuf ans aux métiers manuels, par des gens de métier, artisans ou ouvriers qualifiés, bénévoles à la retraite, avec des vrais outils au sein de vrais ateliers.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Chaque enfant participe à plusieurs ateliers tout au long de l'année afin de fabriquer des objets qu'il sera fier de rapporter à la maison, ou bien participe à la conception d'une œuvre commune. \"QUAND JE SUIS À LA FORGE, JE ME FORGE MOI- MÊME\" PAUL FELLER Ces ateliers sont un lieu de rassemblement et d'éch anges entre jeunes et seniors.",
+    "description": {
+        "description_generale": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "Titre: Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles-1.pdf  ---  --- FAVORISER LA TRANSMISSION DES SAVOIRS Née en 1987, l'association l'outil en main a pour but l'initiation des jeunes dès l'âge de neuf ans aux métiers manuels, par des gens de métier, artisans ou ouvriers qualifiés, bénévoles à la retraite, avec des vrais outils au sein de vrais ateliers."
+    },
+    "porteur_initiative": "Si, comme l'association l'Outil en main, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "octobre",
+        "octobre 2021",
+        "2025",
+        "2022",
+        "1987",
+        "2021",
+        "1700",
+        "en 1987"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

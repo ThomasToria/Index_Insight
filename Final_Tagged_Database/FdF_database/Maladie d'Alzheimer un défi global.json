@@ -1,0 +1,64 @@
+{
+    "titre": "Maladie d’Alzheimer: « un défi global »",
+    "territoire": "Agir pour l’inclusion et le changement de regard Quatrième axe d’intervention, les démarches « inclusives », qui visent à améliorer l’insertion des malades dans l’espace public: le quartier, les transports, les commerces, les services, etc.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Alzheimer, troubles cognitifs, démence… ces maladies neurodégénératives liées à l’âge touchent un nombre toujours croissant de personnes et leurs familles.",
+    "description": {
+        "description_generale": "Les programmes Recherche médicale et Personnes âgées, mais aussi les fondations abritées: de la Fondation Bruneau à la Fondation Générations solidaires … ce sont 40 structures qui consacrent tout ou partie de leurs ressources aux actions en faveur des personnes âgées, dont plus de 80 projets dédiées à la maladie d’Alzheimer.",
+        "contexte": "Malgré ce constat préoccupant, si la médecine parvient à retarder ou minorer les effets de la maladie, il n’existe à ce jour aucun traitement pour la guérir.",
+        "problematique": "Soutenir la (jeune) recherche Premier enjeu, de long terme: faire progresser la compréhension de la maladie, de ses facteurs d’apparition, et bien sûr les moyens de la combattre.",
+        "solution_envisagee": "Avec plus de 3000 heures de soutien, près de 2300 personnes ont pu être écoutées et épaulées: conseils sur l’accompagnement de la personne malade, aide dans les démarches juridiques et sociales, soutien dans les phases de fin de vie et de deuil.",
+        "objectifs": "Agir pour l’inclusion et le changement de regard Quatrième axe d’intervention, les démarches « inclusives », qui visent à améliorer l’insertion des malades dans l’espace public: le quartier, les transports, les commerces, les services, etc."
+    },
+    "porteur_initiative": "Cette aide est destinée à des post doctorants, porteurs d’un projet de recherche fondamentale, clinique ou en sciences humaines et sociales, au sein d’une équipe de recherche française implantée dans un laboratoire rattaché à un organisme public (Inserm, CNRS, Université …).",
+    "date": [
+        "21 septembre 2020",
+        "septembre 2020",
+        "octobre 2020",
+        "2040",
+        "2009",
+        "2019",
+        "1980",
+        "2020",
+        "2017",
+        "3000",
+        "2300",
+        "depuis 2009",
+        "En 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Maladie d'Alzheimer un défi global.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Maladie d'Alzheimer un défi global.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

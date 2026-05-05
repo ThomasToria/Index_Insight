@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Viens, je t'emmène!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/957-concours-2023-viens-je-t-emmene-1.pdf  ---  --- UN PROJET DE LONGUE DATE Depuis 2014, le journal notre temps est à l'initiative du programme \"Viens, je t'emmène!\", en direction des aînés.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "ÉCHANGES ET PARTENAIRES: LA CLÉ DU SUCCÈS La collectivité organise une réunion de travail avec le club local VADA et le conseil des seniors afin d'identifier et de cibler exactement les attentes, les besoins de chacun et impulser une dynamique afin de proposer un programme adapté.",
+    "description": {
+        "description_generale": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/957-concours-2023-viens-je-t-emmene-1.pdf  ---  --- UN PROJET DE LONGUE DATE Depuis 2014, le journal notre temps est à l'initiative du programme \"Viens, je t'emmène!\", en direction des aînés.",
+        "contexte": "Dès 2017, la ville de Saint-Quentin, soucieuse d'améliorer le bien-être de ces derniers, a développé un programme spécifique pour répondre aux attentes et aux souhaits de cette population qui a notamment constaté le délitement du lien social pendant la période de crise sanitaire.",
+        "problematique": "ÉCHANGES ET PARTENAIRES: LA CLÉ DU SUCCÈS La collectivité organise une réunion de travail avec le club local VADA et le conseil des seniors afin d'identifier et de cibler exactement les attentes, les besoins de chacun et impulser une dynamique afin de proposer un programme adapté.",
+        "solution_envisagee": "ÉCHANGES ET PARTENAIRES: LA CLÉ DU SUCCÈS La collectivité organise une réunion de travail avec le club local VADA et le conseil des seniors afin d'identifier et de cibler exactement les attentes, les besoins de chacun et impulser une dynamique afin de proposer un programme adapté.",
+        "objectifs": "ÉCHANGES ET PARTENAIRES: LA CLÉ DU SUCCÈS La collectivité organise une réunion de travail avec le club local VADA et le conseil des seniors afin d'identifier et de cibler exactement les attentes, les besoins de chacun et impulser une dynamique afin de proposer un programme adapté."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/957-concours-2023-viens-je-t-emmene-1.pdf  ---  --- UN PROJET DE LONGUE DATE Depuis 2014, le journal notre temps est à l'initiative du programme \"Viens, je t'emmène!\", en direction des aînés.",
+    "date": [
+        "26",
+        "26 novembre 2022",
+        "novembre 2022",
+        "2025",
+        "2023",
+        "2014",
+        "2017",
+        "2024",
+        "2022",
+        "Depuis 2014",
+        "depuis 2017",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Viens_je_temmene.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

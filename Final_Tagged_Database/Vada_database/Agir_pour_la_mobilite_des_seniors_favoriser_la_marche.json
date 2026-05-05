@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Agir pour la mobilité des seniors: favoriser la marche",
+    "territoire": "Les services de la Ville de Metz et de la Métropole impliqués dans ce projet ont également participé à cet atelier de terrain qui a permis de soumettre la stratégie de déploiement des assises pour le quartier aux publics directement concernés.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "INCLURE LES ACTEURS DE LA MOBILITÉ ET LES HABITANTS Une visite sur site a été organisée avec des seniors du quartier, membres du Conseil des seniors et du club Marie-Clotilde.",
+    "description": {
+        "description_generale": "Si, comme à Metz, vous avez mis en place des projet s pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Face à ce constat, u n diagnostic a été posé par l'AGURAM (Agence d'Urbanisme d'Agglomérations de Moselle) pour la ville de Metz dans l'objectif d'une mobilité adaptée.",
+        "problematique": "Les secteurs à enjeux sont ainsi très faciles à repérer.",
+        "solution_envisagee": "Les services de la Ville de Metz et de la Métropole impliqués dans ce projet ont également participé à cet atelier de terrain qui a permis de soumettre la stratégie de déploiement des assises pour le quartier aux publics directement concernés.",
+        "objectifs": "Titre: Agir pour la mobilité des seniors: favoriser la marche Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/707-pe-agir-pour-la-moblite-des-seniors-favoriser-la-marche.pdf  ---  --- ÉVALUER LA MARCHABILITÉ..."
+    },
+    "porteur_initiative": "Titre: Agir pour la mobilité des seniors: favoriser la marche Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/707-pe-agir-pour-la-moblite-des-seniors-favoriser-la-marche.pdf  ---  --- ÉVALUER LA MARCHABILITÉ...",
+    "date": [
+        "2025",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Agir_pour_la_mobilite_des_seniors_favoriser_la_marche.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Agir_pour_la_mobilite_des_seniors_favoriser_la_marche.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.8,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

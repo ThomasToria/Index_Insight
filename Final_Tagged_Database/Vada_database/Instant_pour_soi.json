@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Instant pour soi",
+    "territoire": "Titre: Instant pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/805-concours-2022-27-instants-pour-soi.pdf  ---  --- UNE PLATEFORME À DESTINATION DES AIDANTS Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) est déployée sur le territoire du Grand Reims.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Instant pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/805-concours-2022-27-instants-pour-soi.pdf  ---  --- UNE PLATEFORME À DESTINATION DES AIDANTS Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) est déployée sur le territoire du Grand Reims.",
+    "description": {
+        "description_generale": "UN PROJET COLLABORATIF L'action a été développée en partenariat avec l'Office des seniors du Grand Reims ORRPA (2021 et premier semestre 2022) avec lequel une convention de prêts de locaux pour la réalisation des activités a été formalisée afin  Si, comme le CHU de Reims, vous avez mis en place d es projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Instant pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/805-concours-2022-27-instants-pour-soi.pdf  ---  --- UNE PLATEFORME À DESTINATION DES AIDANTS Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) est déployée sur le territoire du Grand Reims.",
+        "problematique": "Le projet s'est structuré autour des étapes suivantes: il s'agissait d'abord d'une réflexion autour de la faisabilité et des enjeux du projet par l'équipe médicale, paramédicale et socio- administrative.",
+        "solution_envisagee": "L'accompagnement par une conseillère en Économie Sociale et Familiale et d'un médecin gériatre référent permet également aux aidants d'obtenir des informations sur les aides et les solutions existantes, dont il peut bénéficier.",
+        "objectifs": "DES ÉTAPES CLAIREMENT DÉFINIES L'objectif du projet est d'éviter le non-recours aux aides qui leur sont disponibles et de leur indiquer les solutions qui s'offrent à eux en fonction de leur situation."
+    },
+    "porteur_initiative": "Titre: Instant pour soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/805-concours-2022-27-instants-pour-soi.pdf  ---  --- UNE PLATEFORME À DESTINATION DES AIDANTS Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) est déployée sur le territoire du Grand Reims.",
+    "date": [
+        "septembre 2021",
+        "2025",
+        "2022",
+        "2021",
+        "2012",
+        "2020",
+        "Depuis 2021",
+        "depuis 2020",
+        "en",
+        "en 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Instant_pour_soi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Instant_pour_soi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

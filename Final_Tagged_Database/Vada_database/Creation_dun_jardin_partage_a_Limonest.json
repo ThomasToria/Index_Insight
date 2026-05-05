@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Création d'un jardin partage a Limonest",
+    "territoire": "MODES DE FINANCEMENT DU PROJET En ce qui concerne les modes de financement du projet, la commune de Limonest l'a financé à hauteur de 96 034€, la direction départementale des territoires à hauteur de 59 972€ et la Métropole à hauteur de 32 994€ pour un coût total de 189 000€.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "COMMUNICATION AUTOUR DU PROJET ET IMPLICATION DES SENIORS Pour communiquer autour du projet, différents moyens ont été utilisés, comme les r éunions mensuelles (atelier jardinier et concertation et de co-construction) et la diffusion des comptes-rendus indiquant l'avancement du projet, des articles ont également été publiés dans la Gazette, les réseaux sociaux de la mairie et la presse locale.",
+    "description": {
+        "description_generale": "Une présentation du projet a été publié dans le Progrès et dans la Gazette municipale.",
+        "contexte": "En hiver 2021, un avant-projet a été établi par le groupe de futurs jardiniers comprenant: cahier des charges, plan du jardin, règlement intérieur, fonctionnement du jardin et projet pédagogique de l'Institut Sandar Validation réalisé par le comité de pilotage.",
+        "problematique": "En hiver 2021, un avant-projet a été établi par le groupe de futurs jardiniers comprenant: cahier des charges, plan du jardin, règlement intérieur, fonctionnement du jardin et projet pédagogique de l'Institut Sandar Validation réalisé par le comité de pilotage.",
+        "solution_envisagee": "Titre: Création d'un jardin partage a Limonest Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/964-pe-creation-d-un-jardin-partage-a-limonest.pdf  ---  --- UN JARDIN PARTAGÉ POUR TOUS Le projet consiste à proposer aux Limonois intéressés par la jardinage de se retrouver pour cultiver des légumes, des fruits, des fleurs, des herbes aromatiques dans un espace écologiquement conçu dont ils assureront collectivement la gestion.",
+        "objectifs": "Les objectifs du projet ont donc été atteints."
+    },
+    "porteur_initiative": "Le projet a été repris par les promotions 2019-20 et 2020-21, piloté par une animatrice de l'association et un technicien de la Mairie de Limonest.",
+    "date": [
+        "septembre 2019",
+        "juin",
+        "octobre 2021",
+        "juin 2022",
+        "2025",
+        "2019",
+        "2020",
+        "2022",
+        "2023",
+        "2021",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_jardin_partage_a_Limonest.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Creation_dun_jardin_partage_a_Limonest.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

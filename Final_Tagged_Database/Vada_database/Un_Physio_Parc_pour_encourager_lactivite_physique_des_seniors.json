@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Un Physio Parc pour encourager l'activité physique des seniors",
+    "territoire": "Titre: Un Physio Parc pour encourager l'activité physique des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/110-pe-physioparc-lyon.pdf  ---  --- UN PROJET QUI A DU SENS Le PhysioParc de Lyon a été mis en place en juillet 2014.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Un Physio Parc pour encourager l'activité physique des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/110-pe-physioparc-lyon.pdf  ---  --- UN PROJET QUI A DU SENS Le PhysioParc de Lyon a été mis en place en juillet 2014.",
+    "description": {
+        "description_generale": "Titre: Un Physio Parc pour encourager l'activité physique des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/110-pe-physioparc-lyon.pdf  ---  --- UN PROJET QUI A DU SENS Le PhysioParc de Lyon a été mis en place en juillet 2014.",
+        "contexte": "Titre: Un Physio Parc pour encourager l'activité physique des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/110-pe-physioparc-lyon.pdf  ---  --- UN PROJET QUI A DU SENS Le PhysioParc de Lyon a été mis en place en juillet 2014.",
+        "problematique": "Titre: Un Physio Parc pour encourager l'activité physique des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/110-pe-physioparc-lyon.pdf  ---  --- UN PROJET QUI A DU SENS Le PhysioParc de Lyon a été mis en place en juillet 2014.",
+        "solution_envisagee": "La diversité de ces agrès permet de faire travailler toutes les parties du corps et d’améliorer la souplesse de ses utilisateurs.",
+        "objectifs": "Une observation informelle a été réalisée afin de décider à quel endroit du parc ce nouveau projet devait prendre forme."
+    },
+    "porteur_initiative": "Titre: Un Physio Parc pour encourager l'activité physique des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/110-pe-physioparc-lyon.pdf  ---  --- UN PROJET QUI A DU SENS Le PhysioParc de Lyon a été mis en place en juillet 2014.",
+    "date": [
+        "juillet 2014",
+        "2025",
+        "2014",
+        "2009",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_Physio_Parc_pour_encourager_lactivite_physique_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_Physio_Parc_pour_encourager_lactivite_physique_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

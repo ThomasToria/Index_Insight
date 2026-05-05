@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Unapparté",
+    "territoire": "Titre: Unapparté Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/593-pe-unapparte.pdf  ---  --- UN APPARTEMENT ACCESSIBLE À TOUS “Unapparté” est un appartement aménagé, équipé et scénarisé, de démonstration des articulations entre les aides humaines, techniques et numériques pour le soutien à domicile.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "C‘est un lieu ouvert à tous: grand public, élus, professionnels de l’aide à domicile, de la domotique, de l’habitat, etc.",
+    "description": {
+        "description_generale": "Chaque partenaire impliqué dans cette action a eu des missions importantes et spécifiques: Si, comme la Ville de Grenoble, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Faire un diagnostic sur l’accessibilité au logement des personnes fragiles.",
+        "problematique": "Proposer un lieu de formation et d’échanges à l’ensemble des professionnels de l’aide à domicile et plus largement, un espace de réflexion dédié aux problématiques inhérentes à l’avancée en âge et à la citoyenneté.",
+        "solution_envisagee": "Proposer un lieu de formation et d’échanges à l’ensemble des professionnels de l’aide à domicile et plus largement, un espace de réflexion dédié aux problématiques inhérentes à l’avancée en âge et à la citoyenneté.",
+        "objectifs": "A terme, l’essaimage à d’autres départements fait également partie des objectifs des porteurs du projet."
+    },
+    "porteur_initiative": "A terme, l’essaimage à d’autres départements fait également partie des objectifs des porteurs du projet.",
+    "date": [
+        "17 mars 2019",
+        "mars 2019",
+        "mai 2018",
+        "2025",
+        "2016",
+        "2019",
+        "2018",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Unapparte.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Unapparte.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

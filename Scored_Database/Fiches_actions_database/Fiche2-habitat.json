@@ -1,0 +1,290 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche2-habitat.txt",
+    "nom_fichier": "Fiche2-habitat.txt",
+    "lignes": [
+        "---  ---",
+        "MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat",
+        "Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS)",
+        "Quoi? Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui? Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand? Sur toute la commune et à mettre en place rapidement suite au diagnostic",
+        "DESCRIPTION",
+        "Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles",
+        "RESSOURCES",
+        "HABITAT"
+    ],
+    "paragraphes": [
+        "---  ---\nMODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat\nObjectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS)\nQuoi? Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui? Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand? Sur toute la commune et à mettre en place rapidement suite au diagnostic\nDESCRIPTION\nHumaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles\nRESSOURCES\nHABITAT"
+    ],
+    "phrases": [
+        "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+        "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+        "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+        "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT"
+    ],
+    "stats": {
+        "nombre_lignes": 8,
+        "nombre_paragraphes": 1,
+        "nombre_phrases": 4,
+        "nombre_caracteres": 1642,
+        "nombre_sections_detectees": 1,
+        "nombre_dates_candidates": 0,
+        "nombre_territoires_candidates": 0,
+        "nombre_organisations_candidates": 2,
+        "nombre_public_vise_candidates": 4,
+        "nombre_porteur_candidates": 4,
+        "nombre_territoire_candidates": 4,
+        "nombre_description_candidates": 5,
+        "nombre_contexte_candidates": 4,
+        "nombre_problematique_candidates": 4,
+        "nombre_solution_candidates": 4,
+        "nombre_objectifs_candidates": 4
+    },
+    "sections_detectees": {
+        "description": "Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles\nRESSOURCES\nHABITAT"
+    },
+    "entites_candidates": {
+        "dates_candidates": [],
+        "territoires_candidates": [],
+        "organisations_candidates": [
+            "et à mettre en place rapidement suite au diagnostic",
+            "et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 3
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 1
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 1
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            },
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 1
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 5
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 1
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles\nRESSOURCES\nHABITAT",
+                "score": 10,
+                "source": "section_detectee"
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 3
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 3
+            },
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 3
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 3
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            },
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 1
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            },
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 1
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+                "score": 3
+            },
+            {
+                "texte": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+                "score": 1
+            },
+            {
+                "texte": "Personnes qui souhaitent en bénéficier à partir de 60 ans (voir si on peut faire aussi cette démarche pour les personnes en situation de handicap) – Privilégier les personnes avec peu de moyens et prioriser en fonction de l’urgence des situations Où et quand?",
+                "score": 1
+            }
+        ]
+    },
+    "champs_scores": {
+        "titre": {
+            "valeur": "---  ---",
+            "score": 8,
+            "confiance": 0.8,
+            "source": "premiere_ligne"
+        },
+        "date": {
+            "valeur": [],
+            "score": 0,
+            "confiance": 0.0,
+            "source": ""
+        },
+        "thematique": {
+            "valeur": [
+                "habitat",
+                "santé",
+                "inclusion"
+            ],
+            "score": 6,
+            "confiance": 0.65,
+            "source": "keywords_thematiques"
+        },
+        "echelle": {
+            "valeur": [
+                "communale",
+                "départementale"
+            ],
+            "score": 4,
+            "confiance": 0.45,
+            "source": "keywords_echelles"
+        },
+        "public_vise": {
+            "valeur": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+            "score": 3,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "porteur_initiative": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+            "score": 1,
+            "confiance": 0.25,
+            "source": "phrase_candidate"
+        },
+        "territoire": {
+            "valeur": "Sur toute la commune et à mettre en place rapidement suite au diagnostic DESCRIPTION Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles RESSOURCES HABITAT",
+            "score": 5,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "description": {
+            "valeur": "Humaines: Municipalité (CCAS) Famille, retraités, associations Matérielles: Etablir, distribuer et collecter les résultats du questionnaire Information et communication: Réunion publique d’information avec les personnes concernées - Journaux locaux et internet Financières: Aides financières pour mettre en place le diagnostic des logements Recherche de fonds pour la mise en œuvre (Ex: Département) Marché groupé peut être imaginer pour plusieurs communes afin de réaliser des économies substantielles\nRESSOURCES\nHABITAT",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "section_detectee"
+        },
+        "contexte": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+            "score": 3,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "problematique": {
+            "valeur": "Adapter les logements aux besoins et capacités des personnes avançant en âge Pour qui?",
+            "score": 3,
+            "confiance": 0.45,
+            "source": "phrase_candidate"
+        },
+        "solution_envisagee": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+            "score": 5,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "objectifs": {
+            "valeur": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°2 Accessibilité et adaptation de l’habitat Objectifs • Etablir une liste des personnes intéressées par la démarche • Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute) • Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement Indicateurs de réussite • Création du « questionnaire de diagnostic » à destination des personnes de 60 ans ou plus et nombre de réponses totales • Nombre de personnes souhaitant bénéficier du dispositif • Nombre d’interventions de l’ergothérapeute et d’accompagnement à la mise en œuvre (Action sociale/CCAS) Quoi?",
+            "score": 5,
+            "confiance": 0.65,
+            "source": "phrase_candidate"
+        },
+        "source_site": {
+            "valeur": "Fiches actions",
+            "score": 10,
+            "confiance": 0.95,
+            "source": "nom_dossier"
+        }
+    }
+}

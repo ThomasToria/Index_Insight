@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Jardin partagé",
+    "territoire": "Titre: Jardin partagé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/362-pe-jardin-partage-bruxelles.pdf  ---  --- UN LIEU DE RENCONTRE POUR LES SENIORS Ce projet de Jardin Partagé a été initié en 2013 alors que le service seniors de la Ville de Bruxelles était à la recherche de moyens créatifs dans le but de créer du lien entre les seniors et mieux utiliser les espaces verts de la ville afin que ceux-ci réinvestissent la ville et s’y sentent bienvenus.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Après analyse des possibilités, le service s’est lancé dans une collaboration avec l’asbl Le Début des Haricots autour d’un des jardins des espaces S qui est depuis devenu le Jardin Partagé de l’Espace S Lips, un lieu de rencontre pour les seniors mais aussi pour les habitants du quartier.",
+    "description": {
+        "description_generale": "L’annonce du projet s’est faite dans le magazine bimestriel du service Senior: ACT’3.",
+        "contexte": "L’annonce du projet s’est faite dans le magazine bimestriel du service Senior: ACT’3.",
+        "problematique": "L’annonce du projet s’est faite dans le magazine bimestriel du service Senior: ACT’3.",
+        "solution_envisagee": "Proposer un lieu de rencontre entre différentes générations et différentes « classes sociales ».",
+        "objectifs": "La solidarité dans le groupe trouve sa force grâce à la dynamique de travail autour d’un projet aux objectifs clairs qui se fait dans un environnement vert et apaisant."
+    },
+    "porteur_initiative": "L’annonce du projet s’est faite dans le magazine bimestriel du service Senior: ACT’3.",
+    "date": [
+        "2025",
+        "2013",
+        "2015",
+        "2500",
+        "depuis 2015",
+        "en 2013"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jardin_partage.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Jardin_partage.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "titre": "Configurations d’Aides et Situations d’Emploi pour les PRoches Aidants. Le cas des enfants atteints de maladies rares avec déficience intellectuelle",
+    "territoire": "Deux singularités sont ici privilégiées: la première est relative à l’aide apportée par les parents aidants.",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Le cas des enfants atteints de maladies rares avec déficience intellectuelle - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » Configurations d’Aides et Situations d’Emploi pour les PRoches Aidants.",
+    "description": {
+        "description_generale": "Le cas des enfants atteints de maladies rares avec déficience intellectuelle - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » Configurations d’Aides et Situations d’Emploi pour les PRoches Aidants.",
+        "contexte": "Le cas des enfants atteints de maladies rares avec déficience intellectuelle Résumé de soumission Contexte: Aujourd’hui, la reconnaissance institutionnelle du rôle des aidants favorise le développement et la consolidation d’une véritable politique de soutien aux proches aidants, notamment avec le déploiement du 1er plan national d’aide aux aidants en France, dont l’une des priorités est la conciliation entre la vie personnelle et la vie professionnelle.",
+        "problematique": "LES ACTUALITÉS 03/03/2026 Enrichissez le catalogue des études en santé humaine > Lire la suite 27/02/2026 Deuil après suicide: résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique > Lire la suite 05/02/2026 Troubles de l’usage des opioïdes: pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments? > Lire la suite 10/04/2025 FReSH, le portail des études en santé > Lire la suite LES MEMBRES DE L'IRESP INSCRIVEZ-VOUS A NOTRE NEWSLETTER L'institut Missions Organisation Les instances de l'IReSP Équipe Contact Recrutement Mentions légales Politique de confidentialité IReSP Institut pour la Recherche en Santé Publique Paris Biopark Bâtiment A – 1er étage 8, rue de la croix Jarry 75013 Paris 01 82 53 34 64 info@iresp.net Agence Web AUDOUIN REALISATIONS",
+        "solution_envisagee": "Le cas des enfants atteints de maladies rares avec déficience intellectuelle Résumé de soumission Contexte: Aujourd’hui, la reconnaissance institutionnelle du rôle des aidants favorise le développement et la consolidation d’une véritable politique de soutien aux proches aidants, notamment avec le déploiement du 1er plan national d’aide aux aidants en France, dont l’une des priorités est la conciliation entre la vie personnelle et la vie professionnelle.",
+        "objectifs": "Objectifs: Notre projet vise à identifier, décrire et analyser les situations d’aide apportée par les parents-aidants aux enfants atteints de MR avec DI (dont certains sont porteurs de HR) et les répercussions de cette aide sur la situation d’emploi et la vie professionnelle des aidants."
+    },
+    "porteur_initiative": "Objectifs: Notre projet vise à identifier, décrire et analyser les situations d’aide apportée par les parents-aidants aux enfants atteints de MR avec DI (dont certains sont porteurs de HR) et les répercussions de cette aide sur la situation d’emploi et la vie professionnelle des aidants.",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2020",
+        "0000",
+        "0003",
+        "2875",
+        "9257",
+        "7467",
+        "4692",
+        "4625",
+        "5304",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\027_2020_configurations_d_aides_et_situations_d_emploi_pour_les_proches_aidants_le_cas_des_enfants_atteints_de_maladies_rares_ave.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\027_2020_configurations_d_aides_et_situations_d_emploi_pour_les_proches_aidants_le_cas_des_enfants_atteints_de_maladies_rares_ave.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

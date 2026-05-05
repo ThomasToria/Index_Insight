@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: Vacances vivantes",
+    "territoire": "Titre: Vacances vivantes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/422-pe-vacances-vivantes.pdf  ---  --- DES VACANCES POUR LUTTER CONTRE L‘ISOLEMENTS L’OPAR a toujours proposé des actions qui permettent à l’ensemble des retraités de participer à des temps de vacances.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les Vacances à la journée à destination des établissements pour personnes âgées de la Ville de Rennes pendant plus de 20 ans, remplacées peu à peu par les balades d’été culturelles ouvertes à tous, des voyages organisés accompagnés, des escapades culturelles et le séjour pour les personnes à mobilité réduite, etc.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com  ---  --- DES SÉJOURS RICHES EN SOUVENIRS Cette action est reconduite chaque année et évolue selon les recommandations des aînés participants.",
+        "contexte": "Les personnes qui avaient renoncé à participer à un voyage en raison de leur fatigabilité, reviennent de ce séjour riches d’une nouvelle expérience, de nouveaux souvenirs, de belles rencontres.",
+        "problematique": "Proposer des activités adaptées en fonction des besoins et des difficultés de mobilité de chacun.",
+        "solution_envisagee": "Coût: 10 046€(hébergement, restauration, visites et activités, location minibus, frais reconnaissance séjour, frais administratif, réunions, goûters, animation et accompagnement du groupe, préparation, coordination et animations, valorisation du bénévolat).  ---  --- 2016, VACANCES À HOULGATE!",
+        "objectifs": "Titre: Vacances vivantes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/422-pe-vacances-vivantes.pdf  ---  --- DES VACANCES POUR LUTTER CONTRE L‘ISOLEMENTS L’OPAR a toujours proposé des actions qui permettent à l’ensemble des retraités de participer à des temps de vacances."
+    },
+    "porteur_initiative": "Titre: Vacances vivantes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/422-pe-vacances-vivantes.pdf  ---  --- DES VACANCES POUR LUTTER CONTRE L‘ISOLEMENTS L’OPAR a toujours proposé des actions qui permettent à l’ensemble des retraités de participer à des temps de vacances.",
+    "date": [
+        "29 novembre 2016",
+        "9 septembre 2016",
+        "septembre 2016",
+        "novembre 2016",
+        "2025",
+        "2006",
+        "2005",
+        "2017",
+        "2012",
+        "2016",
+        "depuis",
+        "depuis 2012",
+        "depuis 2006",
+        "en 2005",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_vivantes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Vacances_vivantes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

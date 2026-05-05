@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Diffusion du plan d'action Nantes ville amie des ainés",
+    "territoire": "Titre: Diffusion du plan d'action Nantes ville amie des ainés Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/862-pe-diffusion-du-plan-d-actions-nantes-1.pdf  ---  --- DIFFUSION DU PLAN D'ACTION NANTES VILLE AMIE DES AINÉS Accompagner les parcours de vie \"Aller vers\" les seniors - Agir au plus près d'eux Rendre visible les invisibles Facilité la mobilité pour maintenir l'autonomie Vieillir en bonne santé Être acteur de la cité UN PLAN D'ACTION QUI VISE A MOBILISER LE PLUS DE SENIORS Étape essentielle, un plan d'action vise à mobiliser autour d'actions concrètes et souvent transversales.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Les personnes âgées, quant à elles, ont été fortement impliquées sur le fond des actions qui font suites à des préconisations des seniors et des acteurs.",
+    "description": {
+        "description_generale": "L’idée du projet est que le plan d'action “Nantes Ville Amie des Ainés” soit connu du plus grand nombre, Elus et Direction de l'ensemble des Politiques Publiques de Nantes et Nantes Métropole mais aussi de l'ensemble des acteurs et des habitants.",
+        "contexte": "Le diagnostic a été co-réalisé entre 2017 et 2020 avec le recueil des contributions et des préconisations afin d'élaborer le plan d'action.",
+        "problematique": "Afin de sortir de l'effet silo des huit thématiques VAA, la démarche a été déclinée en 6 axes stratégiques transversaux: 1.",
+        "solution_envisagee": "Afin de sortir de l'effet silo des huit thématiques VAA, la démarche a été déclinée en 6 axes stratégiques transversaux: 1.",
+        "objectifs": "Afin de sortir de l'effet silo des huit thématiques VAA, la démarche a été déclinée en 6 axes stratégiques transversaux: 1."
+    },
+    "porteur_initiative": "Afin de sortir de l'effet silo des huit thématiques VAA, la démarche a été déclinée en 6 axes stratégiques transversaux: 1.",
+    "date": [
+        "11/09/2023",
+        "2025",
+        "2017",
+        "2020",
+        "2022",
+        "2023",
+        "depuis 2017",
+        "en",
+        "en 2022",
+        "entre",
+        "entre 2017 et 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Implantation de bancs",
+    "territoire": "Titre: Implantation de bancs Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Implantation-de-bancs-1.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ ESPACES EXTÉRIEURS & ENVIRONNEMENT Favoriser les temps de pause lors des déplacements piétons Favoriser le maintien des liens sociaux La commune est équipée d’une trentaine de bancs ave c une assise trop basse, dont certains sont inutilisables en raison du manque d’entretien.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "LES SENIORS ET PLUS LARGEMENT TOUS PUBLICS\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Le projet consiste en l'installation de 16 bancs adaptés sur le banc de la commune. L'objectif est de compléter les\nassises existantes dans la commune par des bancs ad aptés aux seniors présentant toutes les caractérist iques de\nsécurité (emprise réduite au sol) et facilitant la levée (hauteur d’assise plus de 5cm et accoudoirs c entraux pour\nles bancs de 3 places).\nFICHE PARTAGE D’EXPÉRIENCE N°996\nVILLE AMIE DES AÎNÉS DEPUIS 2020, EN ROUTE VERS LE LABEL - BOLLWILLER (68)\n1.\n2.\n3.\nLES OBJECTIFS DU PROJET\nEncourager la mobilité et l’autonomie des seniors d ans les parcours quotidiens\n2025\nIMPLANTATION DE BANCS\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLES COMPÉTENCES MOBILISÉES\nPOUR LE PROJET\nLe coût du projet est de 14 693,52 €. Il\nbénéficie d'une subvention du FATIS de\n12 000 €.\nLe projet est porté par les habitants. En\neffet, c'est la démarche participative qui a\npermis d’identifier les emplacements\nstratégiques où les zones de repos sont\nnécessaires (espaces verts, lieux de\npassage, zones ombragées).\nLES ÉTAPES\nDU PROJET\nLe projet a débuté fin 2022, début\n2023. L’assemblée des seniors et\nplus particulièrement le groupe de\ntravail positionné sur la prévention\ndes chutes a travaillé cette\nquestion.\nPlusieurs déambulations par\nquartier ont été organisées pour\nrecenser et cartographier les bancs\nexistants et déterminer les\nnouvelles implantations de bancs.\nDans les choix retenus, l’objectif\npoursuivi vise principalement à\nfaire connaître de type\nd’aménagement dans des lieux\ntechniquement adaptés à leur\ninstallation et à répartir de manière\néquilibrée ces mobiliers urbains sur\nl’ensemble de la commune.\nLes derniers bancs ont été installés\nau cours du 2ème semestre 2024.\nÉVALUATION\nDU PROJET\nLes retours d’expériences des\nutilisateurs sont positifs et ouvrent\ndes perspectives pour de nouvelles\nimplantations. La prise en compte\ndu besoin exprimé par les seniors\nest saluée par les habitants.\nDe nouvelles déambulations sont\nprévues dans le cadre du plan\nd’action de la ville, afin de créer des\nassises supplémentaires. Ces\ndéambulations devraient s’inscrire\ndans un projet plus large de\ncréation d’un plan de déplacement\nurbain fléché senior.\nLES PARTENAIRES\nDU PROJET\nLes membres de l’assemblée\ndes seniors qui ont participé aux\ndéambulations\nLes agents communaux qui ont\ninstallé les bancs\nLE PLAN\nDE COMMUNICATION\nArticles dans le bulletin\nmunicipal\nPanneaupocket",
+        "contexte": "PUBLIC VISÉ: LES SENIORS ET PLUS LARGEMENT TOUS PUBLICS L’ORIGINE DU PROJET RÉSUMÉ Le projet consiste en l'installation de 16 bancs adaptés sur le banc de la commune.",
+        "problematique": "La prise en compte du besoin exprimé par les seniors est saluée par les habitants.",
+        "solution_envisagee": "PUBLIC VISÉ: LES SENIORS ET PLUS LARGEMENT TOUS PUBLICS L’ORIGINE DU PROJET RÉSUMÉ Le projet consiste en l'installation de 16 bancs adaptés sur le banc de la commune.",
+        "objectifs": "LES OBJECTIFS DU PROJET Encourager la mobilité et l’autonomie des seniors d ans les parcours quotidiens 2025 IMPLANTATION DE BANCS  ---  --- LE SÉQUENÇAGE DU PROJET RESSOURCES MOBILISÉES LE BUDGET DÉDIÉ AU PROJET LES COMPÉTENCES MOBILISÉES POUR LE PROJET Le coût du projet est de 14 693,52 €."
+    },
+    "porteur_initiative": "PUBLIC VISÉ: LES SENIORS ET PLUS LARGEMENT TOUS PUBLICS L’ORIGINE DU PROJET RÉSUMÉ Le projet consiste en l'installation de 16 bancs adaptés sur le banc de la commune.",
+    "date": [
+        "2025",
+        "2021",
+        "2020",
+        "2022",
+        "2023",
+        "2024",
+        "DEPUIS 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Implantation_de_bancs.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Implantation_de_bancs.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

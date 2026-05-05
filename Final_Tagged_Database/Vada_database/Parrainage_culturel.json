@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Parrainage culturel",
+    "territoire": "Titre: Parrainage culturel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/490-copie-de-pe-fiche-vierge.pdf  ---  --- LA CULTURE POUR ROMPRE L‘ISOLEMENT Lutter contre l’isolement, c’est favoriser la participation quel que soit son âge, son autonomie, sa mobilité ou ses ressources à la vie culturelle.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Ainsi, le dispositif de parrainage culturel proposé à l’intention des personnes âgées consiste en un réseau de bénévoles engagés à accompagner les bénéficiaires aux événements et spectacles de leurs choix.",
+    "description": {
+        "description_generale": "Coût global sur une année: 8 500 €  ---  --- UNE ACTION VALORISANTE Ce projet permet de valoriser la place des seniors dans la société puisqu’elle leur offre la possibilité d’accéder à la culture malgré les difficultés qu’ils pourraient éprouver à sortir seuls.",
+        "contexte": "Titre: Parrainage culturel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/490-copie-de-pe-fiche-vierge.pdf  ---  --- LA CULTURE POUR ROMPRE L‘ISOLEMENT Lutter contre l’isolement, c’est favoriser la participation quel que soit son âge, son autonomie, sa mobilité ou ses ressources à la vie culturelle.",
+        "problematique": "Titre: Parrainage culturel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/490-copie-de-pe-fiche-vierge.pdf  ---  --- LA CULTURE POUR ROMPRE L‘ISOLEMENT Lutter contre l’isolement, c’est favoriser la participation quel que soit son âge, son autonomie, sa mobilité ou ses ressources à la vie culturelle.",
+        "solution_envisagee": "Proposer un accompagnement personnalisé encadré par des bénévoles.",
+        "objectifs": "Titre: Parrainage culturel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/490-copie-de-pe-fiche-vierge.pdf  ---  --- LA CULTURE POUR ROMPRE L‘ISOLEMENT Lutter contre l’isolement, c’est favoriser la participation quel que soit son âge, son autonomie, sa mobilité ou ses ressources à la vie culturelle."
+    },
+    "porteur_initiative": "Titre: Parrainage culturel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/490-copie-de-pe-fiche-vierge.pdf  ---  --- LA CULTURE POUR ROMPRE L‘ISOLEMENT Lutter contre l’isolement, c’est favoriser la participation quel que soit son âge, son autonomie, sa mobilité ou ses ressources à la vie culturelle.",
+    "date": [
+        "2025",
+        "2017",
+        "2018",
+        "depuis 2017",
+        "En 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parrainage_culturel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Parrainage_culturel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

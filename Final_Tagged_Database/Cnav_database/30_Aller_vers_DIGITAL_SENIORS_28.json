@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Aller vers DIGITAL SENIORS 28",
+    "territoire": "Titre: Aller vers DIGITAL SENIORS 28 Pages: 53  CARSAT CENTRE-VAL DE LOIRE Aller vers DIGITAL SENIORS 28 LES ACTEURS Porteur(s) de la pépite: association responsable de la gestion du Lycée Agricole Privé de Nermont Partenaire(s): • conseil Départemental d’Eure-et-Loir; • communes du Perche et du Dunois/ Espaces France Services/Maison des seniors de Chateaudun; • Carsat Centre-Val de loire; • AG2R la Mondiale; • PETR du Perche/Pays de Dunois; • société COMELO+ Société Echo de Brou; • Info Maintenance; • Fondation Korian; • Google; • élus du territoire.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Professionnels: professeurs, responsable du projet au sein de l’établissement qui accompagnent les lycéens dans le cadre de la mise en œuvre du projet.",
+    "description": {
+        "description_generale": "LA FINALITÉ Les objectifs principaux du projet sont: • de créer un lien intergénérationnel entre les lycéens et les seniors; • de lutter contre l’isolement et la solitude des seniors; • de faciliter l’autonomie des seniors dans l’utilisation des outils numériques; LA DESCRIPTION DE LA PÉPITE Le LEAP de Nermont développe le projet intergénération - nel Digital Seniors 28 depuis plusieurs années auprès des personnes de plus de 60 ans sur les territoires du Perche, d’Anet et du Dunois.",
+        "contexte": "Professionnels: professeurs, responsable du projet au sein de l’établissement qui accompagnent les lycéens dans le cadre de la mise en œuvre du projet.",
+        "problematique": "LA FINALITÉ Les objectifs principaux du projet sont: • de créer un lien intergénérationnel entre les lycéens et les seniors; • de lutter contre l’isolement et la solitude des seniors; • de faciliter l’autonomie des seniors dans l’utilisation des outils numériques; LA DESCRIPTION DE LA PÉPITE Le LEAP de Nermont développe le projet intergénération - nel Digital Seniors 28 depuis plusieurs années auprès des personnes de plus de 60 ans sur les territoires du Perche, d’Anet et du Dunois.",
+        "solution_envisagee": "Le numérique permet de rassembler les seniors et de lutter contre l’isolement.",
+        "objectifs": "LA FINALITÉ Les objectifs principaux du projet sont: • de créer un lien intergénérationnel entre les lycéens et les seniors; • de lutter contre l’isolement et la solitude des seniors; • de faciliter l’autonomie des seniors dans l’utilisation des outils numériques; LA DESCRIPTION DE LA PÉPITE Le LEAP de Nermont développe le projet intergénération - nel Digital Seniors 28 depuis plusieurs années auprès des personnes de plus de 60 ans sur les territoires du Perche, d’Anet et du Dunois."
+    },
+    "porteur_initiative": "Titre: Aller vers DIGITAL SENIORS 28 Pages: 53  CARSAT CENTRE-VAL DE LOIRE Aller vers DIGITAL SENIORS 28 LES ACTEURS Porteur(s) de la pépite: association responsable de la gestion du Lycée Agricole Privé de Nermont Partenaire(s): • conseil Départemental d’Eure-et-Loir; • communes du Perche et du Dunois/ Espaces France Services/Maison des seniors de Chateaudun; • Carsat Centre-Val de loire; • AG2R la Mondiale; • PETR du Perche/Pays de Dunois; • société COMELO+ Société Echo de Brou; • Info Maintenance; • Fondation Korian; • Google; • élus du territoire.",
+    "date": [
+        "2017",
+        "en 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\30_Aller_vers_DIGITAL_SENIORS_28.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\30_Aller_vers_DIGITAL_SENIORS_28.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

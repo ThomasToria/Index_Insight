@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Plateforme Allo Écoute Seniors",
+    "territoire": "Titre: Plateforme Allo Écoute Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/294-294-plateforme-allo-ecoute-senior-toulouse.pdf  ---  --- FAVORISER LE MAINTIEN DU LIEN SOCIAL Afin de renforcer son service d’accueil physique et téléphonique dédié aux seniors, la Ville de Toulous e a créé en octobre 2016 un service complémentaire du Point Info Seniors: la plateforme « Allô écoute seniors ».",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "L ’intérêt de ce dispositif est d’’associer une plur alité d’acteurs: les services municipaux qui œuvrent déj à en faveur du public seniors, les jeunes recrutés en services civiques et l’ ensemble des partenaires ins ti- tutionnels et associatifs.",
+    "description": {
+        "description_generale": "L ’intérêt de ce dispositif est d’’associer une plur alité d’acteurs: les services municipaux qui œuvrent déj à en faveur du public seniors, les jeunes recrutés en services civiques et l’ ensemble des partenaires ins ti- tutionnels et associatifs.",
+        "contexte": "L ’intérêt de ce dispositif est d’’associer une plur alité d’acteurs: les services municipaux qui œuvrent déj à en faveur du public seniors, les jeunes recrutés en services civiques et l’ ensemble des partenaires ins ti- tutionnels et associatifs.",
+        "problematique": "L ’ objectif principal de ce projet, à tra vers les appels et les visites à domicile, est de favori ser le maintien du lien social des personnes âgées fragile s ou en situation d’isolement.",
+        "solution_envisagee": "Proposer un aide spéci¿que sous la forme d’un accompagnement per - sonnalisé, y compris sous la forme de visites à domicile.",
+        "objectifs": "Mettre en place un service d’écoute permanent en faveur de personnes\nâgées fragiles, isolées ou en risque d’isolement.\nProposer un aide spéci¿que sous la forme d’un accompagnement per -\nsonnalisé, y compris sous la forme de visites à domicile.\nFavoriser le maintien du lien social des personnes âgées en dévelop -\npant le contact avec des jeunes en service civique.\nPRATIQUE\nMettre en place un partenariat avec une association de service\ncivique. Recruter des jeunes en service civique. Les former pour\nanimer le dispositif. Lancer une campagne de communication auprès\ndes usagers et des professionnels.\nTOULOUSE\nVille Amie des Aînés depuis 01-2015\nToulouse (31)\nFiche publiée le 23/04/2020\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nAPPEL À CONTRIBUTION\nSi, comme T oulouse, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com"
+    },
+    "porteur_initiative": "L ’intérêt de ce dispositif est d’’associer une plur alité d’acteurs: les services municipaux qui œuvrent déj à en faveur du public seniors, les jeunes recrutés en services civiques et l’ ensemble des partenaires ins ti- tutionnels et associatifs.",
+    "date": [
+        "octobre 2016",
+        "juin",
+        "juin 2016",
+        "23/04/2020",
+        "2025",
+        "2016",
+        "2015",
+        "2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plateforme_Allo_Ecoute_Seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plateforme_Allo_Ecoute_Seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

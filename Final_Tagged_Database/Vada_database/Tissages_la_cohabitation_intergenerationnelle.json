@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Tiss'ages, la cohabitation intergénérationnelle",
+    "territoire": "Si le CLIC a participé au soutien dans la relance du projet, à la communication, à la diffusion de l'information, c'est la mairie de Brest qui a participé à la communication sur la commune et au subventionnement, BHM (Brest Métropole Habitat) principal bailleur social, sur le territoire, a quant à lui diffusé de l'information à l'ensemble des locataires et l'ORB (Office des retraités de Brest) a participé à la diffusion de l'information auprès des adhérents.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Des questionnaires à destination des jeunes, des seniors et des professionnels ont été diffusés sur Brest Métropole puis analysés.",
+    "description": {
+        "description_generale": "Si, comme l'association AILES, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Mener une étude pour dresser des constats sur les populations.",
+        "problematique": "Tiss'âges met en relation des seniors (à partir de 60 ans) qui, vivant seuls, veulent rompre leur isolement ou aider un jeune en difficulté d'accès au logement.",
+        "solution_envisagee": "Mettre en contact les binômes et initier leur accompagnement.  ---  --- MODE DE FINANCEMENT Un budget de 38 574 euros a été trouvé pour le déploiement, la communication et l'accompagnement des binômes sur le Pays de Brest, la principale charge étant le poste dédié au dispositif Tiss'âges.",
+        "objectifs": "Nous souhaitons également développer des rencontres intergénérationnelles via des activités (tournage de crêpes, ciné débat) et des rencontres/animations  TISS'AGES, LA COHABITATION INTERGÉNÉRATIONNELLE Fiche PARTAGE D'EXPÉRIENCE N°627 Villes Amies des Aînés en France Association Ailes A Brest (29) Ville Membre depuis 2016 Rompre l'isolement des seniors et des jeunes."
+    },
+    "porteur_initiative": "Tiss’âges est un dispositif porté par l'association AILES qui gère plusieurs résidence Habitats Jeune.",
+    "date": [
+        "décembre",
+        "décembre 2022",
+        "2025",
+        "2016",
+        "2022",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tissages_la_cohabitation_intergenerationnelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tissages_la_cohabitation_intergenerationnelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Valorisation et partage du patrimoine local: espace muséal Gandil",
+    "territoire": "Titre: Valorisation et partage du patrimoine local: espace muséal Gandil Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1086-valorisation-et-partage-du-patrimoine-local-genas.pdf  ---  --- UN DÉSIR DE TRANSMISSION Depuis 2008, la Municipalité de Grenas s’engage dans une vaste politique de valorisation et de rénovation de son patrimoine bâti, et notamment des édifices vétustes et peu fonctionnels.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "VALORISATION ET PARTAGE DU PATRIMOINE LOCAL: ESPACE MUSEAL GANDIL Fiche PARTAGE D'EXPÉRIENCE N°925 Villes Amies des Aînés en France Ville de Genas Ville Amie des Aînés depuis 2022 Genas (69) Préserver et transmettre la mémoire locale Recueillir et valoriser les témoignages des anciens Enrichir la connaissance de l’histoire de Genas Favoriser le lien intergénérationnel Rendre le patrimoine accessible à tous Créer un espace vivant, interactif et évolutif Travaux de reconversion de la ferme de Gandil en un espace muséal Recherche et collecte d'objets pour constituer une collection authentique Récolte de témoignages des aînés, pour documenter la vie rurale et les traditions locales Ouverture au public en 2020 Pérennisation et développement de l'action Coût total: 450 503,88 €  ---  --- UNE ACTION APPRÉCIÉE DE TOUS Le projet de l'Espace Muséal de Gandil a permis de sauvegarder et de valoriser le patrimoine local tout en impliquant activement les habitants, notamment les aînés, dans sa conception.",
+    "description": {
+        "description_generale": "La Ville a communiqué sur le projet via son site internet, une plaquette de présentation du musée (parue en 2023), des articles dans le Genas Mag, mais aussi des courriers envoyés directement aux établissements scolaires pour les inciter à la découverte de l'espace muséal.",
+        "contexte": "Si, comme la Ville de Genas, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Un bilan des visites scolaires permet d'évaluer l'intérêt pédagogique du site et d'adapter les contenus, bien que demeure l'enjeu de la mobilisation d'un plus grand nombre d'établissements scolaires, notamment au-delà du territoire de Genas.",
+        "solution_envisagee": "La pérennisation et le développement du projet sont assurés, avec notamment le renouvellement d'une vitrine en 2025 pour valoriser le patrimoine des anciens bistrots genassiens et la mise en place d'un système de comptage des visiteurs pour évaluer la fréquentation de façon précise.",
+        "objectifs": "VALORISATION ET PARTAGE DU PATRIMOINE LOCAL: ESPACE MUSEAL GANDIL Fiche PARTAGE D'EXPÉRIENCE N°925 Villes Amies des Aînés en France Ville de Genas Ville Amie des Aînés depuis 2022 Genas (69) Préserver et transmettre la mémoire locale Recueillir et valoriser les témoignages des anciens Enrichir la connaissance de l’histoire de Genas Favoriser le lien intergénérationnel Rendre le patrimoine accessible à tous Créer un espace vivant, interactif et évolutif Travaux de reconversion de la ferme de Gandil en un espace muséal Recherche et collecte d'objets pour constituer une collection authentique Récolte de témoignages des aînés, pour documenter la vie rurale et les traditions locales Ouverture au public en 2020 Pérennisation et développement de l'action Coût total: 450 503,88 €  ---  --- UNE ACTION APPRÉCIÉE DE TOUS Le projet de l'Espace Muséal de Gandil a permis de sauvegarder et de valoriser le patrimoine local tout en impliquant activement les habitants, notamment les aînés, dans sa conception."
+    },
+    "porteur_initiative": "Si, comme la Ville de Genas, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "31 août 2020",
+        "29 mai 2021",
+        "août 2020",
+        "septembre 2020",
+        "mai 2021",
+        "2025",
+        "1086",
+        "2008",
+        "1980",
+        "2010",
+        "2018",
+        "2020",
+        "2021",
+        "2023",
+        "2022",
+        "Depuis 2008",
+        "depuis 2022",
+        "En 2010",
+        "en 2018",
+        "en 2023",
+        "en 2020",
+        "en 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Valorisation_et_partage_du_patrimoine_local_espace_museal_Gandil.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Valorisation_et_partage_du_patrimoine_local_espace_museal_Gandil.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Mobilités nantaises",
+    "territoire": "Titre: Mobilités nantaises Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/654-pe-522-mobilites-nantaises-nantes-1.pdf  ---  --- FAVORISER LES MOBILITÉS DES SENIORS La mobilité est un facteur majeur de lutte contre l’isolement.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "internationale"
+    ],
+    "public_vise": "Favoriser les mobilités des seniors et donc les rencontres, le lien social, mais aussi la bonne santé, est possible grâce au développement et à l'adaptation de l'espace public.",
+    "description": {
+        "description_generale": "Le projet de la ville de Nantes a débuté en 2017 par le biais des recherches d’amélioration des mobilités des seniors impliquant des actions concrètes.",
+        "contexte": "Titre: Mobilités nantaises Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/654-pe-522-mobilites-nantaises-nantes-1.pdf  ---  --- FAVORISER LES MOBILITÉS DES SENIORS La mobilité est un facteur majeur de lutte contre l’isolement.",
+        "problematique": "Titre: Mobilités nantaises Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/654-pe-522-mobilites-nantaises-nantes-1.pdf  ---  --- FAVORISER LES MOBILITÉS DES SENIORS La mobilité est un facteur majeur de lutte contre l’isolement.",
+        "solution_envisagee": "La diversité des besoins et des réponses à ceux-ci n’est pas systématique, c’est pourquoi l'aide apportée se décline selon les situations: il peut s’agir d’accompagnements dans les trajets, de l’accès à des transports communs avec des équipements adaptés comme des fauteuils ou encore une conduite adaptée.",
+        "objectifs": "Titre: Mobilités nantaises Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/654-pe-522-mobilites-nantaises-nantes-1.pdf  ---  --- FAVORISER LES MOBILITÉS DES SENIORS La mobilité est un facteur majeur de lutte contre l’isolement."
+    },
+    "porteur_initiative": "L'initiative a débuté avec le lancement d’une étude-action sur la mobilité des seniors en 2017, avant la mise en place d’un grand débat nommé “Longévité ouvrons les possibles” organisé par le conseil métropolitain de Nantes Métropole.",
+    "date": [
+        "2025",
+        "2017",
+        "2019",
+        "depuis 2017",
+        "en 2017",
+        "en 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mobilites_nantaises.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mobilites_nantaises.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

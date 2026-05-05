@@ -1,0 +1,61 @@
+{
+    "titre": "Titre: Le pass loisirs seniors: des activités culturelles, de loisirs et physiques, pour tous les goûts et tous les âges!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-COORIGEE-PLS-AOUT-2025-1.pdf  ---  --- LE PASS LOISIRS SENIORS: DES ACTIVITÉS CULTURELLES, DE LOISIRS ET PHYSIQUES, POUR TOUS LES GOÛTS ET TOUS LES ÂGES!",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "L'augmentation croissante du nombre de bénéficiaires a conduit le CCAS à professionnaliser le dispositif en se rapprochant des formules d'abonnement proposées par les structures culturelles comme l'Opéra ou La Comédie de Saint-Etienne et à se doter d'une billetterie de spectacles, répondant aux spécificités du public seniors.",
+    "description": {
+        "description_generale": "EVALUTATION DU PROJET Toutes les études médicales montrent le bienfait de ce type d'actions sur la santé physique, psychique et cognitive.",
+        "contexte": "Titre: Le pass loisirs seniors: des activités culturelles, de loisirs et physiques, pour tous les goûts et tous les âges!",
+        "problematique": "L'accès à l'information étant régulièrement pointé comme une difficulté majeure, l'onglet \"seniors\" du site internet de la ville a été entièrement revu.",
+        "solution_envisagee": "UNE ORGANISATION INTERNE CONSÉQUENTE L'organisation se rapproche de celle mise en place par les structures culturelles, l'idée étant de proposer un abonnement pour une saison de septembre à juin.",
+        "objectifs": "Il s'agit d'un dispositif unique en France dont l'objectif principal est la prévention du vieillissement."
+    },
+    "porteur_initiative": "UNE ORGANISATION INTERNE CONSÉQUENTE L'organisation se rapproche de celle mise en place par les structures culturelles, l'idée étant de proposer un abonnement pour une saison de septembre à juin.",
+    "date": [
+        "2025",
+        "2016",
+        "1000",
+        "2022",
+        "2023",
+        "1614",
+        "1352",
+        "2021",
+        "2020",
+        "1700",
+        "2019",
+        "1920",
+        "2024",
+        "2010",
+        "2026",
+        "2500",
+        "depuis 2016",
+        "en 2021",
+        "en 2020",
+        "en 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_pass_loisirs_seniors_des_activites_culturelles_de_loisirs_et_physiques_pour_tous_les_gouts_et_tous_les_ages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_pass_loisirs_seniors_des_activites_culturelles_de_loisirs_et_physiques_pour_tous_les_gouts_et_tous_les_ages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

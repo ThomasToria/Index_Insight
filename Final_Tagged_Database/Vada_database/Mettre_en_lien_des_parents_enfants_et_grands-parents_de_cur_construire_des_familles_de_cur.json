@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Mettre en lien des parents, enfants et grands-parents de cœur: construire des familles de cœur",
+    "territoire": "Titre: Mettre en lien des parents, enfants et grands-parents de cœur: construire des familles de cœur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/827-concours-2022-56-mettre-en-lien-des-parents-enfants-et-grands-parents-de-coeur-construire-des-familles-de-coeur.pdf  ---  --- TISSER DES LIENS AFFECTIFS, DÉVELOPPER LES LIENS DE CONFIANCE L’isolement touche toutes les générations et dans les années à venir ce phénomène tendra à s’accroître.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Depuis fin 2020, des familles et seniors issus des autres départements au niveau national, se sont mobilisées et des mises en lien à l'extérieur du département ont ainsi pu être réalisées.",
+    "description": {
+        "description_generale": "FINANCEMENTS ET ÉTAPES NÉCESSAIRES À LA RÉALISATION DU PROJET De nombreux partenaires ont participé à l'action: les espaces Départementaux des Solidarités, l'école des parents et des Educateurs 44, le CCAS..",
+        "contexte": "Planifier les différents rendez-vous de le mise en lien.  ---  --- UNE ASSOCIATION NÉE D'UNE EXPÉRIENCE DE COEUR C'est u ne expérience personnelle de la fondatrice et des constats individuels, sociétaux et locaux qui a permis la création du projet.",
+        "problematique": "Titre: Mettre en lien des parents, enfants et grands-parents de cœur: construire des familles de cœur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/827-concours-2022-56-mettre-en-lien-des-parents-enfants-et-grands-parents-de-coeur-construire-des-familles-de-coeur.pdf  ---  --- TISSER DES LIENS AFFECTIFS, DÉVELOPPER LES LIENS DE CONFIANCE L’isolement touche toutes les générations et dans les années à venir ce phénomène tendra à s’accroître.",
+        "solution_envisagee": "Depuis 2021 cette mission auprès des Maisons d'Enfants à Caractère Sociale (MECS) se développe pour permettre à ces enfants en rupture familiale de tisser une relation privilégiée, un lien affectif, en individuel avec des grands-parents de cœur, à l'extérieur de l'institution, qui proposeront un lien de confiance.",
+        "objectifs": "Titre: Mettre en lien des parents, enfants et grands-parents de cœur: construire des familles de cœur Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/827-concours-2022-56-mettre-en-lien-des-parents-enfants-et-grands-parents-de-coeur-construire-des-familles-de-coeur.pdf  ---  --- TISSER DES LIENS AFFECTIFS, DÉVELOPPER LES LIENS DE CONFIANCE L’isolement touche toutes les générations et dans les années à venir ce phénomène tendra à s’accroître."
+    },
+    "porteur_initiative": "FINANCEMENTS ET ÉTAPES NÉCESSAIRES À LA RÉALISATION DU PROJET De nombreux partenaires ont participé à l'action: les espaces Départementaux des Solidarités, l'école des parents et des Educateurs 44, le CCAS..",
+    "date": [
+        "2025",
+        "2022",
+        "2013",
+        "2020",
+        "2021",
+        "2017",
+        "2010",
+        "depuis 2013",
+        "Depuis 2021",
+        "depuis 2017",
+        "en 2010"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mettre_en_lien_des_parents_enfants_et_grands-parents_de_cur_construire_des_familles_de_cur.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mettre_en_lien_des_parents_enfants_et_grands-parents_de_cur_construire_des_familles_de_cur.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

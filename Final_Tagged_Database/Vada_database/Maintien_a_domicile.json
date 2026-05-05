@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Maintien à domicile",
+    "territoire": "Titre: Maintien à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/732-pe-600-maintien-a-domicile-chamalieres.pdf  ---  --- AGIR EN SITUATION D’URGENCE  A l'heure où la France se confinait face à un virus inconnu jusqu’alors, il a fallu apprendre en urgence à se r éinventer et s’organiser différemment.",
+    "echelle": [
+        "communale",
+        "internationale"
+    ],
+    "public_vise": "En parallèle, le CCAS a développé un système de portag e de courses pour les publics éligibles au-delà des usagers du Serv ice d'Aide à Domicile.",
+    "description": {
+        "description_generale": "Ce projet de services et d'aides pour reste r chez soi, dans un contexte sanitaire exceptionnellement dégra dé, a consisté en la mise en place en urgence d'un plan d' action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination, et in fine d'hospitalisation.",
+        "contexte": "Ce projet de services et d'aides pour reste r chez soi, dans un contexte sanitaire exceptionnellement dégra dé, a consisté en la mise en place en urgence d'un plan d' action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination, et in fine d'hospitalisation.",
+        "problematique": "Face aux difficultés pour répondre aux besoins de subsistance (alimentation, médicaments), l’a ction a été menée.",
+        "solution_envisagee": "Ce projet de services et d'aides pour reste r chez soi, dans un contexte sanitaire exceptionnellement dégra dé, a consisté en la mise en place en urgence d'un plan d' action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination, et in fine d'hospitalisation.",
+        "objectifs": "Ce projet de services et d'aides pour reste r chez soi, dans un contexte sanitaire exceptionnellement dégra dé, a consisté en la mise en place en urgence d'un plan d' action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination, et in fine d'hospitalisation."
+    },
+    "porteur_initiative": "Titre: Maintien à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/732-pe-600-maintien-a-domicile-chamalieres.pdf  ---  --- AGIR EN SITUATION D’URGENCE  A l'heure où la France se confinait face à un virus inconnu jusqu’alors, il a fallu apprendre en urgence à se r éinventer et s’organiser différemment.",
+    "date": [
+        "17 mars 2020",
+        "mars 2020",
+        "novembre 2020",
+        "2025",
+        "2020",
+        "2015",
+        "2021",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maintien_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Maintien_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

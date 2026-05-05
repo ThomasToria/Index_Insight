@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Disposer de temps et de droits pour s’occuper de ses enfants, de sa famille et de ses proches en perte d’autonomie",
+    "territoire": "Ce droit permettrait à tout salarié parent ou aidant de demander à son employeur un passage au temps partiel, un aménagement de ses horaires ou un aménagement de son lieu de travail, l’employeur conserve le droit de refuser la demande, mais devrait motiver les raisons de ce refus.",
+    "echelle": [],
+    "public_vise": "Disposer de temps et de droits pour s’occuper de ses enfants, de sa famille et de ses proches en perte d’autonomie concerne environ 8 millions de familles comprenant au moins un enfant mineur (dont 1,8 million sont monoparentales) et 8,3 millions de proches aidants.",
+    "description": {
+        "description_generale": "Titre: Disposer de temps et de droits pour s’occuper de ses enfants, de sa famille et de ses proches en perte d’autonomie Sous-titre: Rapport transversal adopté le 12 décembre 2017 Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Documents communs des trois Conseils Disposer de temps et de droits pour s’occuper de ses enfants, de sa famille et de ses proches en perte d’autonomie Imprimer Courriel Linkedin Facebook Twitter Bluesky Disposer de temps et de droits pour s’occuper de ses enfants, de sa famille et de ses proches en perte d’autonomie Rapport transversal adopté le 12 décembre 2017 Publié le 12/01/2018 | Temps de lecture: 3 minutes Les trois Conseils Rapports Le Haut Conseil de la famille, de l’enfance et de l’âge fait un tour d’horizon des dispositifs permettant de disposer de temps pour raisons « familiales » et analyse l’indemnisation des temps de congé ou de moindre activité.",
+        "contexte": "Les parents et les proches aidants actifs sont soumis à une double contrainte forte: ils doivent trouver le temps et les moyens d’articuler leur vie professionnelle et leur vie familiale.",
+        "problematique": "Demain, l’enjeu sera encore plus fort sous l’effet du vieillissement de la population et de l’accroissement des besoins qu’il s’agisse des enfants et adolescents, ou des proches en situation de handicap ou de perte d’autonomie.",
+        "solution_envisagee": "L’objectif est de permettre un accompagnement dans les moments sensibles au-delà de la toute petite enfance: difficultés pendant l’adolescence, en cas de malaise ou décrochage scolaire, une crise familiale, séparation des parents, mutations professionnelles...",
+        "objectifs": "Le HCFEA émet notamment les recommandations suivantes: Améliorer les indemnisations qui cherchent à compenser, en partie, une baisse de revenu d’activité."
+    },
+    "porteur_initiative": "Les parents et les proches aidants actifs sont soumis à une double contrainte forte: ils doivent trouver le temps et les moyens d’articuler leur vie professionnelle et leur vie familiale.",
+    "date": [
+        "12 décembre 2017",
+        "décembre 2017",
+        "12/01/2018",
+        "2017",
+        "2018",
+        "en 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Disposer de temps et de droits pour soccuper de se.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Disposer de temps et de droits pour soccuper de se.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.0,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

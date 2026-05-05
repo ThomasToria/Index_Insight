@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Maison a'venir (suite du projet)",
+    "territoire": "Titre: Maison a'venir (suite du projet) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/843-maison-a-venir-suite-du-projet.pdf  ---  --- PRÉSENTER LES POSSIBILITÉS D'AMÉNAGEMENT DANS LES LOGEMENTS Un audit urbain, réalisé en 2019, a relevé que de nombreux seniors Rochelais rencontraient des difficultés pour rester au domicile.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Le projet a été porté par le Service d'accueil, d'Information et d'Accompagnement pour les personnes âgées (SAIA) en lien avec des partenaires, l'association \"ReSanté-Vous\" (co-construction du projet et interlocuteur du public lors de la présentation) et les partenaires traditionnels du SAIA (pour relayer l'information auprès du public).",
+    "description": {
+        "description_generale": "ORGANISATION DE L'ACTION Pour réaliser l'action, le projet a nécessité plusieurs étapes: analyse des questionnaires d'évaluation de la première action datant de 2021 puis validation du principe de la reconduction de l'action en 2022.",
+        "contexte": "Titre: Maison a'venir (suite du projet) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/843-maison-a-venir-suite-du-projet.pdf  ---  --- PRÉSENTER LES POSSIBILITÉS D'AMÉNAGEMENT DANS LES LOGEMENTS Un audit urbain, réalisé en 2019, a relevé que de nombreux seniors Rochelais rencontraient des difficultés pour rester au domicile.",
+        "problematique": "Titre: Maison a'venir (suite du projet) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/843-maison-a-venir-suite-du-projet.pdf  ---  --- PRÉSENTER LES POSSIBILITÉS D'AMÉNAGEMENT DANS LES LOGEMENTS Un audit urbain, réalisé en 2019, a relevé que de nombreux seniors Rochelais rencontraient des difficultés pour rester au domicile.",
+        "solution_envisagee": "Coût financier global: 500 euros (frais de communication) financés par le conseil départemental de la Charente Maritime.  ---  --- DES OBJECTIFS ATTEINTS ET UNE ACTION RECONDUITE Le projet a été évalué grâce à un questionnaire de satisfaction et les objectifs ont été atteints puisque les visiteurs ont pu avoir des réponses à leurs problématiques.",
+        "objectifs": "Coût financier global: 500 euros (frais de communication) financés par le conseil départemental de la Charente Maritime.  ---  --- DES OBJECTIFS ATTEINTS ET UNE ACTION RECONDUITE Le projet a été évalué grâce à un questionnaire de satisfaction et les objectifs ont été atteints puisque les visiteurs ont pu avoir des réponses à leurs problématiques."
+    },
+    "porteur_initiative": "Le projet a été porté par le Service d'accueil, d'Information et d'Accompagnement pour les personnes âgées (SAIA) en lien avec des partenaires, l'association \"ReSanté-Vous\" (co-construction du projet et interlocuteur du public lors de la présentation) et les partenaires traditionnels du SAIA (pour relayer l'information auprès du public).",
+    "date": [
+        "novembre 2021",
+        "octobre 2022",
+        "2025",
+        "2019",
+        "2021",
+        "2022",
+        "2016",
+        "2023",
+        "depuis 2016",
+        "en 2019",
+        "en 2022",
+        "en",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_avenir_suite_du_projet.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Maison_avenir_suite_du_projet.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

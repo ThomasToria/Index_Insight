@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Guide pratique seniors",
+    "territoire": "Titre: Guide pratique seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1100-concours-2024-guide-pratique-seniors-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°50 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS FAIRE CONNAÎTRE LES SERVICES EXISTANTS Pour répondre à un enjeu fort de prise en compte du vieillissement de sa population, mis en lumière par son analyse des besoins sociaux, le CCAS a lancé un questionnaire à destination du public seniors pour connaître leurs souhaits, leurs attentes par rapport à divers thèmes (habitat, autonomie, isolement, services, mobilité...).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Guide pratique seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1100-concours-2024-guide-pratique-seniors-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°50 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS FAIRE CONNAÎTRE LES SERVICES EXISTANTS Pour répondre à un enjeu fort de prise en compte du vieillissement de sa population, mis en lumière par son analyse des besoins sociaux, le CCAS a lancé un questionnaire à destination du public seniors pour connaître leurs souhaits, leurs attentes par rapport à divers thèmes (habitat, autonomie, isolement, services, mobilité...).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Louhans-châteaurenaud, vous a vez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Louhans-châteaurenaud, vous a vez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Titre: Guide pratique seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1100-concours-2024-guide-pratique-seniors-1.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°50 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS FAIRE CONNAÎTRE LES SERVICES EXISTANTS Pour répondre à un enjeu fort de prise en compte du vieillissement de sa population, mis en lumière par son analyse des besoins sociaux, le CCAS a lancé un questionnaire à destination du public seniors pour connaître leurs souhaits, leurs attentes par rapport à divers thèmes (habitat, autonomie, isolement, services, mobilité...).",
+        "solution_envisagee": "Si, comme la Ville de Louhans-châteaurenaud, vous a vez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "objectifs": "Il est prévu de mettre à jour les informations après deux ans afin de programmer une réédition de ce guide."
+    },
+    "porteur_initiative": "Si, comme la Ville de Louhans-châteaurenaud, vous a vez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "1100",
+        "2024",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_pratique_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Guide_pratique_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.8,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

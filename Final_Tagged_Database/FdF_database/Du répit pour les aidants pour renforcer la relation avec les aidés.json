@@ -1,0 +1,44 @@
+{
+    "titre": "Du répit pour les aidants pour renforcer la relation avec les aidés",
+    "territoire": "Ainsi, les aidés peuvent également profiter du lieu, créer du lien avec d’autres personne, au même titre que les aidants. « L’approche de Kassiopée part des attentes, des goûts, des capacités des individus pour proposer des ateliers ouverts aux personnes malades et aux aidants.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Du répit pour les aidants pour renforcer la relation avec les aidés  https://www.fondationdefrance.org/fr/cat-personnes-agees/maison-des-aidants-du-repit-pour-les-aidants-pour-renforcer-la-relation-avec-les-aides  Qui sommes-nous?",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Personnes âgées Ils sont plus de 8 millions en France à accompagner quotidiennement un proche, que ce soit en raison de son âge, de son handicap ou de sa dépendance.",
+        "problematique": "Les aidants ont un rôle précieux au sein de la société, mais difficile au quotidien: fatigue, stress, sentiment d’isolement, etc.",
+        "solution_envisagee": "Située à Caudan, dans le Morbihan, la Maison est ouverte tous les jours et propose plusieurs ateliers: chant, création artistique, gymnastique douce, ou encore sophrologie. « Il y a toute une vie qui est mise en place au sein de la maison », raconte Nathalie Pierret, responsable du projet. « Ici il y a un lien, une écoute, une grande disponibilité, détaille Isabelle, aidante de son père atteint de démence.",
+        "objectifs": "Du répit pour les aidants pour renforcer la relation avec les aidés  https://www.fondationdefrance.org/fr/cat-personnes-agees/maison-des-aidants-du-repit-pour-les-aidants-pour-renforcer-la-relation-avec-les-aides  Qui sommes-nous?"
+    },
+    "porteur_initiative": "Du répit pour les aidants pour renforcer la relation avec les aidés  https://www.fondationdefrance.org/fr/cat-personnes-agees/maison-des-aidants-du-repit-pour-les-aidants-pour-renforcer-la-relation-avec-les-aides  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Du répit pour les aidants pour renforcer la relation avec les aidés.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Du répit pour les aidants pour renforcer la relation avec les aidés.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

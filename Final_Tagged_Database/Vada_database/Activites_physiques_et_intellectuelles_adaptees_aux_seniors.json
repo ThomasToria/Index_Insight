@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Activités physiques et intellectuelles adaptées aux séniors",
+    "territoire": "Titre: Activités physiques et intellectuelles adaptées aux séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1006-concours-2023-activite-physique-et-intellectuelle-adaptees-aux-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS L'analyse des besoins sociaux réalisée par le CCAS de Limonest en 2021 a fait émerger le souhait de randonnées pédestres et d'activités sportives adaptées aux seniors.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Activités physiques et intellectuelles adaptées aux séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1006-concours-2023-activite-physique-et-intellectuelle-adaptees-aux-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS L'analyse des besoins sociaux réalisée par le CCAS de Limonest en 2021 a fait émerger le souhait de randonnées pédestres et d'activités sportives adaptées aux seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Limonest, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Deux types de randonnées proposées: sportives et culturelles..",
+        "problematique": "Titre: Activités physiques et intellectuelles adaptées aux séniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1006-concours-2023-activite-physique-et-intellectuelle-adaptees-aux-seniors.pdf  ---  --- UNE DEMANDE DES SENIORS L'analyse des besoins sociaux réalisée par le CCAS de Limonest en 2021 a fait émerger le souhait de randonnées pédestres et d'activités sportives adaptées aux seniors.",
+        "solution_envisagee": "Ce projet propose donc aux aînés de nouvelles activités sportives, dans un environnement ludique et convivial, adaptées à leur condition physique.",
+        "objectifs": "La commune de Limonest, riche en sentiers et espaces boisés est propice a développer cette nouvelle activité."
+    },
+    "porteur_initiative": "Le choix du club de retraités des Amitiés limonoises a été retenu comme porteur du projet.",
+    "date": [
+        "juin 2022",
+        "septembre",
+        "septembre 2022",
+        "2025",
+        "1006",
+        "2023",
+        "2021",
+        "2022",
+        "2011",
+        "depuis 2011",
+        "en 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activites_physiques_et_intellectuelles_adaptees_aux_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Activites_physiques_et_intellectuelles_adaptees_aux_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

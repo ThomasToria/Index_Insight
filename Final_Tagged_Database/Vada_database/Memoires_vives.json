@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Mémoires vives",
+    "territoire": "Titre: Mémoires vives Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/872-pe-memoires-vives.pdf  ---  --- LA COLLECTE DE RÉCITS DE VIE Royan, ville balnéaire, compte une forte proportion de personnes âgées, originaires de la région ou d'ailleurs, attirées par le bord de mer.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Mémoires vives Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/872-pe-memoires-vives.pdf  ---  --- LA COLLECTE DE RÉCITS DE VIE Royan, ville balnéaire, compte une forte proportion de personnes âgées, originaires de la région ou d'ailleurs, attirées par le bord de mer.",
+    "description": {
+        "description_generale": "Si, comme l’Association Mémoires Vives en pays roya nnais, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Mémoires vives Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/872-pe-memoires-vives.pdf  ---  --- LA COLLECTE DE RÉCITS DE VIE Royan, ville balnéaire, compte une forte proportion de personnes âgées, originaires de la région ou d'ailleurs, attirées par le bord de mer.",
+        "problematique": "Titre: Mémoires vives Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/872-pe-memoires-vives.pdf  ---  --- LA COLLECTE DE RÉCITS DE VIE Royan, ville balnéaire, compte une forte proportion de personnes âgées, originaires de la région ou d'ailleurs, attirées par le bord de mer.",
+        "solution_envisagee": "À Royan, bénévoles et jeunes en binôme proposent aux aînés de les écouter et de reconstruire avec eux leur parcours de vie.",
+        "objectifs": "Cette action a contribué à renforcer l'offre d'animation du territoire, à combattre le sentiment de solitude des aînés, à développer une solidarité de proximité entre générations, à appréhender les différences et à enrichir le patrimoine mémoriel."
+    },
+    "porteur_initiative": "Titre: Mémoires vives Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/872-pe-memoires-vives.pdf  ---  --- LA COLLECTE DE RÉCITS DE VIE Royan, ville balnéaire, compte une forte proportion de personnes âgées, originaires de la région ou d'ailleurs, attirées par le bord de mer.",
+    "date": [
+        "juin 2023",
+        "2025",
+        "2013",
+        "2023",
+        "2021",
+        "2022",
+        "depuis 2013",
+        "Depuis",
+        "Depuis 2023",
+        "en 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoires_vives.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Memoires_vives.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

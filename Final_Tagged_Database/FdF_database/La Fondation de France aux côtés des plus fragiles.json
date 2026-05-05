@@ -1,0 +1,53 @@
+{
+    "titre": "La Fondation de France aux côtés des plus fragiles",
+    "territoire": "Par exemple, avec la Maison des aidants, à Caudan, en Bretagne, qui offre aux proches de personnes âgées et dépendantes un moment de répit (activités physiques douces, groupes de discussion et écoute personnalisée). « D’autre part, nous accompagnons les initiatives les plus innovantes en matière d’habitat inclusif pour les personnes âgées: habitat partagé, autogéré, logement intergénérationnel, petites unités ouvertes sur la ville, Ehpad repensé… » 87 projets ont ainsi été identifiés et soutenus en 2021, avec, comme point commun l’ambition de dessiner un autre avenir pour nos aînés.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "En 2021, la Fondation de France a adapté son action autour de deux grands axes: « Nous avons choisi d’une part de soutenir les associations qui apportent aide et répit aux soignants et aux aidants, trop souvent surmenés », explique Agathe Gestin, responsable du programme Personnes âgées.",
+    "description": {
+        "description_generale": "Par exemple, avec la Maison des aidants, à Caudan, en Bretagne, qui offre aux proches de personnes âgées et dépendantes un moment de répit (activités physiques douces, groupes de discussion et écoute personnalisée). « D’autre part, nous accompagnons les initiatives les plus innovantes en matière d’habitat inclusif pour les personnes âgées: habitat partagé, autogéré, logement intergénérationnel, petites unités ouvertes sur la ville, Ehpad repensé… » 87 projets ont ainsi été identifiés et soutenus en 2021, avec, comme point commun l’ambition de dessiner un autre avenir pour nos aînés.",
+        "contexte": "Le contexte de crise durable a lourdement pesé sur les plus fragiles, qu’il s’agisse des jeunes, des femmes isolées, des personnes âgées, ou porteuses de handicap… Partout, les fractures et les vulnérabilités se sont creusées.",
+        "problematique": "Cette démarche, qui a impliqué les équipes, les fondations abritées, les bénévoles et de nombreux experts, nous a permis de dégager deux enjeux majeurs.",
+        "solution_envisagee": "À la fois multithématique et expérimental, ce programme construit des solutions dans la durée, avec les acteurs porteurs de changement et d’innovation, à l’échelle nationale ou territoriale. « L’ambition: développer et valider des initiatives susceptibles d’essaimer à grande échelle pour avoir un impact à long terme », précise Marion Ben Hammo, responsable du programme.",
+        "objectifs": "Leur objectif: favoriser le lien entre l’enfant et la nature par une pédagogie active."
+    },
+    "porteur_initiative": "D’autre part, les rapports de l’homme à ses environnements: crise climatique bien sûr, mais aussi environnement numérique, porteur de promesses comme de nouvelles tensions ».",
+    "date": [
+        "mars 2021",
+        "2021",
+        "2020",
+        "en 2021",
+        "en 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La Fondation de France aux côtés des plus fragiles.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\La Fondation de France aux côtés des plus fragiles.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

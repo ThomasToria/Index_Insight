@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Voisin.es solidaires",
+    "territoire": "Titre: Voisin.es solidaires Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/841-concours-2022-68-voisin-es-solidaires.pdf  ---  --- EXPÉRIMENTER LA COHABITATION INTERGÉNÉRATIONNELLE Suite à la réhabilitation d'une des deux Résidences Autonomie gérées par le CCAS de Saint-Nazaire, les élus ont souhaité intégrer dans son organisation des enjeux intergénérationnels.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Cette volonté s’est traduite par le souhait d’expérimenter la réservation de deux logements au sein de la résidence Paul Delmet permettant l’accueil de deux étudiants ou jeunes professionnels, souhaitant s’impliquer dans un projet collectif.",
+    "description": {
+        "description_generale": "UN PROJET INTERGÉNÉRATIONNEL ET COLLABORATIF Cette initiative est tout d'abord le souhait du CCAS de développer un projet intergénérationnel lors de la réhabilitation de la Résidence Autonomie Paul Delmet.",
+        "contexte": "Elles ont été mises en lien dans un cadre relationnel face à la nécessité que les voisins solidaires aient une sensibilisation sur le vieillissement.",
+        "problematique": "Titre: Voisin.es solidaires Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/841-concours-2022-68-voisin-es-solidaires.pdf  ---  --- EXPÉRIMENTER LA COHABITATION INTERGÉNÉRATIONNELLE Suite à la réhabilitation d'une des deux Résidences Autonomie gérées par le CCAS de Saint-Nazaire, les élus ont souhaité intégrer dans son organisation des enjeux intergénérationnels.",
+        "solution_envisagee": "Pour décliner ce projet, le CCAS s’appuie sur l’expertise de l’Association Le temps pour toiT qui est spécialisée dans le déploiement de colocations intergénérationnelles.",
+        "objectifs": "UN PROJET INTERGÉNÉRATIONNEL ET COLLABORATIF Cette initiative est tout d'abord le souhait du CCAS de développer un projet intergénérationnel lors de la réhabilitation de la Résidence Autonomie Paul Delmet."
+    },
+    "porteur_initiative": "Si, comme la ville de Saint Nazaire, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "21/02/2022",
+        "2025",
+        "2022",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Voisines_solidaires.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Voisines_solidaires.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

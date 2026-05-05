@@ -1,0 +1,50 @@
+{
+    "titre": "---  ---",
+    "territoire": "Souvent, cela donne surtout l’impression que les personnes qui ne rencontrent pas ces difficultés sont incapables de comprendre les situations d’autrui. ---  --- Il faudrait améliorer la situation en priorité dans les villes du territoire qui à la fois concentrent les communes du territoire, en particulier autour des équipements présents dans les villages, et à plus - Pour ce faire, il serait utile que les acteurs concernés par l’occupation et le partage de la voirie (Mairies, services voiries, Département, Communauté de communes, services de gestion des déchets, Communauté Amie des Aînés, Assemblée des seniors, acteurs de la formation et de la sensibilisation, voire acteurs de la sanction…) puissent se saisir de ce sujet et, sur la base d’une analyse de l’existant, partager des solutions, en envisager d’autres et définir des pistes d’action à mettre en œuvre ---  --- Fiche-action n° 3-A: L’arrivée en établissement – Des résidents référents pour mieux accueillir les personnes L’arrivée en établissement est une étape délicate.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Objectifs: - Informer toutes les personnes concernées des droits, démarches, et du fonctionnement de ces mesures de protection. - Favoriser une meilleure interconnaissance entre professionnels qui accompagnent les personnes âgées et professionnels des mesures de protection.",
+    "description": {
+        "description_generale": "Par ailleurs, la plupart ont découvert avec intérêt la démarche « Communauté Amie des Aînés » (CADA) et sont prêtes à aller plus loin dans les initiatives évoquées. - Pour l’ensemble des professionnels travaillant sur le territoire dans le champ du vieillissement (en « établissement » comme au « domicile ») - Pour les membres de l’Assemblée des seniors - Pour les acteurs engagés dans la démarche CADA - Dès que possible (sans doute à partir de septembre 2024) - Sur le territoire, autour de rencontres régulières - - Créer des ponts entre les EHPAD, le secteur du « domicile » et la démarche CADA: notamment par l’intermédiaire de liens à consolider et élargir entre l’Assemblée des seniors et les professionnels de l’animation ---  --- Fiche-action n° 2-A: Mobilité – Aménagement de la voirie et services La vie sociale et culturelle est un sujet important pour de nombreuses personnes qui vivent en EHPAD ou chez elles.",
+        "contexte": "Cela est dommageable pour la participation sociale que souhaitent les personnes, d’autant plus dans un contexte où il est encouragé de continuer à avoir une activité physique quel que soit son âge.",
+        "problematique": "Cette problématique concerne les personnes qui ont des difficultés motrices, cognitives ou sensorielles, mais aussi toute personne amenée à accompagner ces personnes rencontrant des difficultés de déplacement.",
+        "solution_envisagee": "Nous sommes des citoyens dans vos villes. - Être attendus, accueillis, et qu’il y ait de quoi stationner près de l’événement et s’asseoir! (voir fiches-actions relatives aux déplacements) - Avoir une solution de mobilité, pour les personnes en EHPAD et les personnes au domicile ne pouvant plus conduire (voir fiches-actions relatives aux déplacements) Indicateurs de réussite: - A définir Ressources: - Plus que de nouvelles ressources, une extension des moyens existants m obilisés pour la population en général.",
+        "objectifs": "- Informer toutes les personnes concernées des droits, démarches, et du fonctionnement de ces mesures\nde protection.\n- Favoriser une meilleure interconnaissance entre professionnels qui accompagnent les personnes âgées et\nprofessionnels des mesures de protection. Faciliter un contact en cas d’urgence nécessitant une décision\nde tutelle rapide.\nMoyens:\n- Organiser ces réunions en prévoyant l’intervention de professionnels des mesures de protection: juge\ndes tutelles, tuteurs professionnels, etc.\n- Mettre en place un professionnel « référent » par établissement sur ces questions, qui serait formé sur\nces questions et susceptible de répondre à tous les questionnements des résidents, des professionnels, des\npersonnes de leur entourage. Ce référent pourrait relayer les informations à l ’ensemble de l’équipe\nprofessionnelle.\n- Prévoir une plateforme de contact (téléphone ou mail) des organismes de tutelle en cas d’urgence.\n- Nombre de réunions qui se sont tenues sur le territoire d’ici un an\n- Mise en place de référents ayant bénéficié de formation sur ces sujets dans chaque établissement\n- Diminution des situations urgentes problématiques\nHumaines: déplacement des intervenants dans le cadre des réunions, temps de travail des « référents »\ndans les ét ablissements, prévoir les moyens nécessaires pour la plateforme téléphonique ou e -mail\n(personne d’astreinte au sein des organismes de tutelle?)\nMatérielles: rédaction et mise à disposition d’un guide, coordonnée par l’intercommunalité\nInformation et com munication: communication à prévoir pour l’équipe professionnelle qui organise la\nréunion; prévoir la rédaction et diffusion d’un guide pour chaque établissement avec le contact et les\ncoordonnées de la personne référente\nFinancières: organisation logi stique des réunions avec un soutien de l’intercommunalité; éventuel\ndéfraiement des intervenants lors des réunions"
+    },
+    "porteur_initiative": "Mais comment? » – Pays de Mormal (59) – Restitution publique (21 juin 2024) Fiche-action n° 1-A: Vie sociale – Être toujours considéré comme citoyen Principaux constats - L’EHPAD est souvent perçu comme un lieu « à part ».",
+    "date": [
+        "21 juin 2024",
+        "juin 2024",
+        "septembre 2024",
+        "2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FichesAction_PaysMormal_VF.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FichesAction_PaysMormal_VF.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

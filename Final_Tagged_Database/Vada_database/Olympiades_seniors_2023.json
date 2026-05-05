@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Olympiades seniors 2023",
+    "territoire": "Titre: Olympiades seniors 2023 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1024-concours-2023-olympiades-seniors-2023.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LE SOUHAIT DE SE RETROUVER AUTOUR D’UNE ACTION COMMUNE Depuis 2015, la Ville de Belfort, par l’intermédiaire de son CCAS, s’implique activement en direction des personnes âgées en proposant plusieurs ateliers \"activités physiques adaptées\" sur l’ensemble des quartiers de la ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "OLYMPIADES SENIORS 2023 Fiche PARTAGE D'EXPÉRIENCE N°886 Villes Amies des Aînés en France Belfort Ville Amie des Aînés depuis 2018 Belfort (90) Proposer au public senior un événement fédérateur permettant de favoriser la cohésion sociale; Permettre aux seniors de se retrouver autour d’une journée festive et conviviale; Créer du lien entre les aînés autour d’épreuves ludiques et stimulantes; Favoriser le maintien à domicile; Valoriser l’activité physique adaptée auprès des seniors; Permettre aux participants de faire un point sur les facteurs de risques cardio-vasculaires puis d’échanger avec des professionnels de la prévention santé.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "C’est dans ce contexte, que les bénéficiaires de ces ateliers ont émis le souhait de se retrouver autour d’une action commune.",
+        "problematique": "Une solution de transport avec un minibus était proposée aux personnes non véhiculées et pour lesquelles un déplacement an autonomie aurait pu être un frein.",
+        "solution_envisagee": "L'objectif était de proposer une collation saine et une alternative permettant également de s'hydrater.",
+        "objectifs": "Ces ateliers ont pour objectif de préserver l’autonomie et la mobilité des personnes âgées."
+    },
+    "porteur_initiative": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "6 juin 2023",
+        "juin 2023",
+        "2023",
+        "2025",
+        "1024",
+        "2015",
+        "2018",
+        "Depuis 2015",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Olympiades_seniors_2023.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Olympiades_seniors_2023.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

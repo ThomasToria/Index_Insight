@@ -1,0 +1,58 @@
+{
+    "titre": "Titre: Espace Seniors",
+    "territoire": "PRENDRE EN COMPTE L’HÉTÉROGÉNÉITÉ DES GÉNÉRATIONS ÂGÉES Conçus comme des lieux ressources au service de leur territoire, les Espaces Seniors ciblent prioritairement: ESPACE SENIORS Fiche PARTAGE D'EXPÉRIENCE N°550 Villes Amies des Aînés en France Ville d’Angers Ville Amie des Aînés depuis 2012 Angers (49) Rendre plus visible et accessible l’offre de services du CCAS d ‘Angers.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Une équipe transversale de professionnels est créée afin de constituer un guichet unique de proximité pour les seniors et leur proches aidants.",
+    "description": {
+        "description_generale": "Plusieurs partenaires contribuent au bon fonctionnement du dispositif: Si, comme la Ville d’Angers, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Poursuivre le développement de réponses innovantes face à l’enjeu du vieillissement de la population angevine.",
+        "problematique": "L’association Pass’âge qui engage la collaboration du CLIC, de la MAIA, de réseau de santé, de l’équipe d’appui (ergothérapeute) pour le traitement des situations complexes de personnes âgées; Angers Loire Habitat, bailleurs social avec lequel une convention a été établie pour une adaptation du parc social aux enjeux du vieillissement; Le centre social de quartier Jean Villar, pour partager les problématiques spécifiques aux populations du territoire et pour co-animer des actions de lien social; Le pôle territorial de la Roseraie, une mairie de quartier qui permet d’inscrire l’espace senior dans le projet territorial de quartier et de faciliter les partenariats de proximité; L’association Monalisa, qui a apporté des outils et des méthodes dans le cadre de la création d’une équipe citoyenne quartier la Roseraie pour lutter contre l’isolement des âgés.",
+        "solution_envisagee": "Riche d’une équipe pluridisciplinaire médico-sociale, ouverte sur son territoire, l’espace senior, véritable guichet unique de proximité permet de faciliter le maintien à domicile, de favoriser le lien social, d’accompagner les plus fragiles, de lutter contre l’isolement et d’apporter un soutien aux aidants.",
+        "objectifs": "Titre: Espace Seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/550-pe-espace-seniors.pdf  ---  --- UN GUICHET UNIQUE La création de plateformes de services publics dans les quartiers, couvrant les besoins des seniors, du jeune retraité actif autonome à la personne très âgée en perte d’autonomie, vise à rendre encore plus accessibles aux angevins les dispositifs existants pour vieillir activement et en bonne santé dans sa ville."
+    },
+    "porteur_initiative": "PRENDRE EN COMPTE L’HÉTÉROGÉNÉITÉ DES GÉNÉRATIONS ÂGÉES Conçus comme des lieux ressources au service de leur territoire, les Espaces Seniors ciblent prioritairement: ESPACE SENIORS Fiche PARTAGE D'EXPÉRIENCE N°550 Villes Amies des Aînés en France Ville d’Angers Ville Amie des Aînés depuis 2012 Angers (49) Rendre plus visible et accessible l’offre de services du CCAS d ‘Angers.",
+    "date": [
+        "juillet",
+        "juillet 2019",
+        "2025",
+        "2007",
+        "2012",
+        "2019",
+        "2020",
+        "2024",
+        "depuis",
+        "depuis 2012",
+        "depuis 2007"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Espace_Seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Espace_Seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

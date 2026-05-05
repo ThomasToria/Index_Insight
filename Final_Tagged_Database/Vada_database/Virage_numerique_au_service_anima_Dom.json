@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Virage numérique au service anim’à Dom’",
+    "territoire": "Titre: Virage numérique au service anim’à Dom’ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/301-anim-a-dom.pdf  ---  --- FAIRE DÉCOUVRIR LES NOUVELLES TECHNOLOGIES Depuis 2015, le service Anim’ à Dom (animation au domicile des personnes âgées) mis en place par l’OPAR (Observatoire et Pôle d’Animation des Retraités Rennais) propose une animation sur les nouvelles technologies: « Virage Numérique ».",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Des entretiens ont été menés avec les personnes âgées visitées et les familles pour mesurer le chemin parcouru dans l’utilisation des nouvelles technologies et leur impact sur l’amélioration du lien social.",
+    "description": {
+        "description_generale": "Cette expérimentation est un projet qui est né à l’initiative des jeunes bénévoles de l’association qui souhaitaient partager leur connaissance dans ce domaine pour faire découvrir « leur monde numérique » aux plus anciens.",
+        "contexte": "PARTENAIRES ET COMMUNICATION Plusieurs partenaires entourent le projet: la Ville de Rennes et la Direction des Personnes Âgées du CCAS par un conventionnement, un soutien financier, logistique et en relais d’information.",
+        "problematique": "Elle a mis en place un groupe de rencontre des différents acteurs de la lutte contre l’isolement, dont l’OPAR, qui alimente les réflexions.",
+        "solution_envisagee": "Titre: Virage numérique au service anim’à Dom’ Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/301-anim-a-dom.pdf  ---  --- FAIRE DÉCOUVRIR LES NOUVELLES TECHNOLOGIES Depuis 2015, le service Anim’ à Dom (animation au domicile des personnes âgées) mis en place par l’OPAR (Observatoire et Pôle d’Animation des Retraités Rennais) propose une animation sur les nouvelles technologies: « Virage Numérique ».",
+        "objectifs": "VIRAGE NUMÉRIQUE AU SERVICE ANIM’À DOM’ Fiche PARTAGE D'EXPÉRIENCE N°301 Villes Amies des Aînés en France OPAR Ville Amie des Aînés depuis 2012 Rennes (35) Faire intervenir des générations plus jeunes auprès de personnes âgées afin de développer de nouvelles solidarités entre les générations en stimulant les liens familiaux et sociaux au travers des nouveaux outils de communication."
+    },
+    "porteur_initiative": "Cette expérimentation est un projet qui est né à l’initiative des jeunes bénévoles de l’association qui souhaitaient partager leur connaissance dans ce domaine pour faire découvrir « leur monde numérique » aux plus anciens.",
+    "date": [
+        "novembre 2015",
+        "2025",
+        "2015",
+        "2012",
+        "2016",
+        "Depuis 2015",
+        "depuis 2012",
+        "en 2015",
+        "en 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Virage_numerique_au_service_anima_Dom.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Virage_numerique_au_service_anima_Dom.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

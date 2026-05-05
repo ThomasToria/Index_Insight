@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: INFORMATIONS ET CONSEILS EN PRÉVENTION",
+    "territoire": "Ces vidéos exposeront, autour d’une vingtaine de thématiques de prévention (estime de soi, activité physique adaptée, mémoire, sommeil, aménagement du domicile, nutrition, intergénérationnel, écologie, mobilité…) des informations et conseils ciblés sur la thématique et la présentation d’un lieu dans chaque région du territoire Français (métropole et outre-mer).",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Publics participants: • futurs retraités: à partir de 2 ans avant le départ à la retraite, identifiés comme fragiles; • retraités: jusqu’à 2 ans après le départ à la retraite, isolés socialement et/ou géographiquement collectives.",
+    "description": {
+        "description_generale": "L ’atelier collectif « Bienvenue à la retraite », par le biais des actions qui y sont développées, vise à accompagner les nouveaux retraités dans leur transition de l’activité professionnelle vers une retraite active et épanouie en s’appuyant sur différentes thématiques: démarches administratives et financières, projets de vie, lien social, prévention santé.",
+        "contexte": "Il s’articule autour de: • 4 modules socles obligatoires abordant 8 thématiques: information et sollicitation des droits sociaux; gestion budgétaire; projet et rythme de vie à la retraite; activités sociales, culturelles de bénévolat; nouveaux besoins liés à l’habitat; pouvoir d’agir en prévention santé; conditions du bien-être physique et psychologique; « Bons plans », informations locales. • 4 modules complémentaires, dont la mise en œuvre est en fonction des contextes locaux et des besoins exprimés des participants: apports et enjeux du bénévolat; le statut d’aidant: ses caractéristiques, les accompagnements existants; mobilité: sécurité routière et nouveaux modes de déplacement; apports et enjeux des activités intergénérationnelles.",
+        "problematique": "Il s’articule autour de: • 4 modules socles obligatoires abordant 8 thématiques: information et sollicitation des droits sociaux; gestion budgétaire; projet et rythme de vie à la retraite; activités sociales, culturelles de bénévolat; nouveaux besoins liés à l’habitat; pouvoir d’agir en prévention santé; conditions du bien-être physique et psychologique; « Bons plans », informations locales. • 4 modules complémentaires, dont la mise en œuvre est en fonction des contextes locaux et des besoins exprimés des participants: apports et enjeux du bénévolat; le statut d’aidant: ses caractéristiques, les accompagnements existants; mobilité: sécurité routière et nouveaux modes de déplacement; apports et enjeux des activités intergénérationnelles.",
+        "solution_envisagee": "Il s’articule autour de: • 4 modules socles obligatoires abordant 8 thématiques: information et sollicitation des droits sociaux; gestion budgétaire; projet et rythme de vie à la retraite; activités sociales, culturelles de bénévolat; nouveaux besoins liés à l’habitat; pouvoir d’agir en prévention santé; conditions du bien-être physique et psychologique; « Bons plans », informations locales. • 4 modules complémentaires, dont la mise en œuvre est en fonction des contextes locaux et des besoins exprimés des participants: apports et enjeux du bénévolat; le statut d’aidant: ses caractéristiques, les accompagnements existants; mobilité: sécurité routière et nouveaux modes de déplacement; apports et enjeux des activités intergénérationnelles.",
+        "objectifs": "De manière transversale, l’atelier « Bienvenue à la retraite » permet de: • sensibiliser à l’importance de suivre un parcours de prévention global; • développer et entretenir le lien social; • promouvoir le pouvoir d’agir grâce aux retours d’expériences; • favoriser une application pratique des conseils délivrés par une immersion concrète dans des activités; • innover dans les modalités pédagogiques grâce à de nouvelles méthodes, y compris numériques, ainsi que par une diversité d’intervenants experts de leurs thématiques; • ancrer l’atelier dans son écosystème partenarial local permettant au participant d’y trouver facilement un relais."
+    },
+    "porteur_initiative": "Titre: INFORMATIONS ET CONSEILS EN PRÉVENTION Pages: 30, 31, 32  Promotion de l’offre de service INFORMATIONS ET CONSEILS EN PRÉVENTION LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+    "date": [
+        "juillet 2022",
+        "2024",
+        "2022",
+        "2023",
+        "3330",
+        "en 2024",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

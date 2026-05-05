@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Chantier jeunes - festiv'été",
+    "territoire": "Titre: Chantier jeunes - festiv'été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/864-pe-chantier-jeunes-festiv-ete.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL En 2022, le service Jeunesse de Maxéville a souhaité impliquer les jeunes de 11 à 17 ans dans un nouveau projet intergénérationnel.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Les animations ont été pensées pour plaire aux deux publics (jeunes et seniors) et favoriser l'échange et le partage.",
+    "description": {
+        "description_generale": "Titre: Chantier jeunes - festiv'été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/864-pe-chantier-jeunes-festiv-ete.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL En 2022, le service Jeunesse de Maxéville a souhaité impliquer les jeunes de 11 à 17 ans dans un nouveau projet intergénérationnel.",
+        "contexte": "Titre: Chantier jeunes - festiv'été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/864-pe-chantier-jeunes-festiv-ete.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL En 2022, le service Jeunesse de Maxéville a souhaité impliquer les jeunes de 11 à 17 ans dans un nouveau projet intergénérationnel.",
+        "problematique": "Titre: Chantier jeunes - festiv'été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/864-pe-chantier-jeunes-festiv-ete.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL En 2022, le service Jeunesse de Maxéville a souhaité impliquer les jeunes de 11 à 17 ans dans un nouveau projet intergénérationnel.",
+        "solution_envisagee": "Titre: Chantier jeunes - festiv'été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/864-pe-chantier-jeunes-festiv-ete.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL En 2022, le service Jeunesse de Maxéville a souhaité impliquer les jeunes de 11 à 17 ans dans un nouveau projet intergénérationnel.",
+        "objectifs": "L'événement a eu lieu sur trois journées de fin juillet, dans des quartiers différents à chaque fois, afin de permettre au maximum de seniors de participer."
+    },
+    "porteur_initiative": "Titre: Chantier jeunes - festiv'été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/864-pe-chantier-jeunes-festiv-ete.pdf  ---  --- UN PROJET INTERGÉNÉRATIONNEL En 2022, le service Jeunesse de Maxéville a souhaité impliquer les jeunes de 11 à 17 ans dans un nouveau projet intergénérationnel.",
+    "date": [
+        "21/09/2023",
+        "2025",
+        "2022",
+        "2019",
+        "2023",
+        "depuis 2019",
+        "En 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Chantier_jeunes_-_festivete.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Chantier_jeunes_-_festivete.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

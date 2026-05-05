@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: Activie: une application innovante en faveur de la prévention",
+    "territoire": "Titre: Activie: une application innovante en faveur de la prévention Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/610-pe-activie-lyon-mise-en-forme-2023.pdf  ---  --- UNE POLITIQUE DE PRÉVENTION AMBITIEUSE La ville de Lyon a souhaité développer sur son territoire un application gratuite à destination des seniors, “ACTIVIE” dont l’objectif est de les inciter à prendre soin de leur santé au quotidien et de manière durable en les motivant à appliquer les trois recommandations majeures de la prévention de la perte d’autonomie: pratiquer un activité physique adaptée, renforcer les interactions sociales et optimiser leur nutrition (pour plus d’informations, consulter le site: www.activie.fr).",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Au total sur cette période, ce sont des médecins, des professionnels des secteurs publics, associatifs et privés ainsi que près de 400 personnes âgées qui ont pris part à la réflexion pour développer et, pour une partie d’entre eux, tester l’application ACTIVIE.",
+    "description": {
+        "description_generale": "Afin de proposer un service répondant aux préoccupations et aux usages des seniors, ces derniers continueront d’être directement intégrés au cœur du projet, 2017–2018: CRÉATION, EXPÉRIMENTATION ET PARTICIPATION En 2017 et en 2018, le projet a bénéficié d’un financement de la conférence des financeurs de la métropole de Lyon.",
+        "contexte": "ACTIVIE: UNE APPLICATION INNOVANTE EN FAVEUR DE LA PRÉVENTION Fiche PARTAGE D'EXPÉRIENCE N°610 Villes Amies des Aînés en France LILI SMART Lyon (69) Ville Amie des Aînés depuis 2012 Fiche publiée le 30/01/2020 Préserver l’autonomie des seniors en élevant les facteurs motivationnels, tout en renforçant le lien social et l’inclusion dans la ville.",
+        "problematique": "C’est l’un des enjeux du développement prévu dans les prochains mois.",
+        "solution_envisagee": "Dès son déploiement, ACTIVIE proposera l’agenda de l’ensemble de la ville de Lyon.",
+        "objectifs": "Titre: Activie: une application innovante en faveur de la prévention Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/610-pe-activie-lyon-mise-en-forme-2023.pdf  ---  --- UNE POLITIQUE DE PRÉVENTION AMBITIEUSE La ville de Lyon a souhaité développer sur son territoire un application gratuite à destination des seniors, “ACTIVIE” dont l’objectif est de les inciter à prendre soin de leur santé au quotidien et de manière durable en les motivant à appliquer les trois recommandations majeures de la prévention de la perte d’autonomie: pratiquer un activité physique adaptée, renforcer les interactions sociales et optimiser leur nutrition (pour plus d’informations, consulter le site: www.activie.fr)."
+    },
+    "porteur_initiative": "ACTIVIE: UNE APPLICATION INNOVANTE EN FAVEUR DE LA PRÉVENTION Fiche PARTAGE D'EXPÉRIENCE N°610 Villes Amies des Aînés en France LILI SMART Lyon (69) Ville Amie des Aînés depuis 2012 Fiche publiée le 30/01/2020 Préserver l’autonomie des seniors en élevant les facteurs motivationnels, tout en renforçant le lien social et l’inclusion dans la ville.",
+    "date": [
+        "30/01/2020",
+        "2025",
+        "2023",
+        "2012",
+        "2020",
+        "2019",
+        "2017",
+        "2018",
+        "depuis 2012",
+        "En 2017",
+        "en 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activie_une_application_innovante_en_faveur_de_la_prevention.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Activie_une_application_innovante_en_faveur_de_la_prevention.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Du Ping-Pong intergénérationnel pour favoriser les échanges",
+    "territoire": "Titre: Du Ping-Pong intergénérationnel pour favoriser les échanges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/108-pe-ping-pong-interge.pdf  ---  --- RÉUNIR JEUNES ET SENIORS AUTOUR D‘UNE PASSION COMMUNE L’adjoint au Maire délégué aux liens intergénérationnels et aux seniors dans le troisième arrondissement de la Ville de Lyon est un ancien pongiste de bon niveau.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Du Ping-Pong intergénérationnel pour favoriser les échanges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/108-pe-ping-pong-interge.pdf  ---  --- RÉUNIR JEUNES ET SENIORS AUTOUR D‘UNE PASSION COMMUNE L’adjoint au Maire délégué aux liens intergénérationnels et aux seniors dans le troisième arrondissement de la Ville de Lyon est un ancien pongiste de bon niveau.",
+    "description": {
+        "description_generale": "Du fait des relations privilégiées qu’il entretient toujours avec le PLVPB, son ancien club de ping-pong, et de la volonté politique de la ville de Lyon de soutenir de telles actions, il a suffi d’environ quatre mois pour que ce beau projet puisse voir le jour.",
+        "contexte": "Coût: Environ 1 000 € pris en charge par les différents partenaires de l’action  ---  --- PARTAGER LA VICTOIRE Le tournoi a été suivi d’une remise de récompenses.",
+        "problematique": "Coût: Environ 1 000 € pris en charge par les différents partenaires de l’action  ---  --- PARTAGER LA VICTOIRE Le tournoi a été suivi d’une remise de récompenses.",
+        "solution_envisagee": "C’est la bonne volonté de tous les acteurs (club sportif, bénévoles...) qui a largement participé à rendre possible la mise en place d’un tel événement, et particulièrement dans des délais aussi courts.",
+        "objectifs": "Il a été décidé que ce tournoi se déroulerait un mercredi afin de favoriser la présence des jeunes qui s’entraînent habituellement ce jour de la semaine."
+    },
+    "porteur_initiative": "Du fait du succès remporté par ce tournoi, un partenariat de six ans a été signé afin de pérenniser cette action au moins jusqu’à la fin du mandat en cours.",
+    "date": [
+        "8 octobre",
+        "8 octobre 2014",
+        "octobre",
+        "octobre 2014",
+        "2025",
+        "2009",
+        "2014",
+        "depuis 2009"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_Ping-Pong_intergenerationnel_pour_favoriser_les_echanges.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Du_Ping-Pong_intergenerationnel_pour_favoriser_les_echanges.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

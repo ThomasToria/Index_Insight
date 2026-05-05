@@ -1,0 +1,60 @@
+{
+    "titre": "Titre: Des rides et des rêves: ateliers des arts du cirque au Gérontopôle de Toulouse",
+    "territoire": "Titre: Des rides et des rêves: ateliers des arts du cirque au Gérontopôle de Toulouse Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/271-271-peokdes-rides-et-des-reves-toulouse.pdf  ---  --- AUTOUR DES ARTS DU CIRQUE Le Gérontopôle de Toulouse, première implantation de ce type en France est, depuis sa fondation, une structure performante de soins, de promotion de la santé et de la recherche clinique.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les personnes âgées hospitalisées, bénéficiaires de ce projet, ont pu pratiquer plusieurs activités: travail sur l’ équilibre, redécouverte du corps, travail sur la mémoire, etc.",
+    "description": {
+        "description_generale": "C’ est un projet autour des arts du cirque et une rencontre de plu - sieurs partenaires dans un même objectif final: amé - liorer la vie des personnes âgées et leur apporter un moment de détente, d’apaisement et de bien être.",
+        "contexte": "Le travail heb - domadaire avec une équipe d’intervenants jeunes et dynamiques apporte aux patients un moment de détente et de bien être, au delà des bienfaits phy - siques constatés.",
+        "problematique": "Stimuler l’évasion à travers l’univers circassien et rompre l’isolement.",
+        "solution_envisagee": "C’ est un projet autour des arts du cirque et une rencontre de plu - sieurs partenaires dans un même objectif final: amé - liorer la vie des personnes âgées et leur apporter un moment de détente, d’apaisement et de bien être.",
+        "objectifs": "Améliorer la qualité de vie des personnes âgées et leur apporter un\nmoment de détente, d’apaisement et de bien être par le biais d’activités\nphysiques adaptées. Stimuler l’évasion à travers l’univers circassien et\nrompre l’isolement. Favoriser les liens intergénérationnels.\nPRATIQUE\nCréer un partenariat entre un gérontopôle, un cirque et la Ville. Mettre\nen place des ateliers physiques pour les personnes âgées animés par\ndeux jeunes intervenants au cirque adapté. Constituer un groupe de\nparticipants en vue d’une représentation grand public.\nCoût: Interventions artistiques à l’Hôpital Garonne (3400€)\nPAR HAZ’ART\nToulouse (31)\nFiche publiée le 16/11/2016\nLIEN SOCIAL ET SOLIDARITÉ\nwww.villesamiesdesaines-rf.fr\nAUTONOMIE, SERVICES ET SOINS\nCULTURE ET LOISIRS\n---  ---\nSi, comme Toulouse, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nwww.villesamiesdesaines-rf.fr\nPERSPECTIVES\nDe septembre 2016 à avril 2017, un groupe de six\nparticipants à ces trois cycles d’ateliers sera consti -\ntué en vue d’une représentation grand public lors de\nla 5ème édition Rencontres de Cirque Extraordinaire\nen mars 2017. Du 24 au 26 mars 2017, auront lieu les\nRencontres de cirque extraordinaire Méli Mélo avec\npour thématique les Seniors. Au programme: ate -\nliers, débat, spectacles et animations, exposition et\nThé dansant à la Grainerie, Fabrique des arts du\ncirque à Balma. Cet événement viendra compléter\nles ateliers et sera l’ occasion de partager le travail\nréalisé dans l’année dans un esprit intergénéra -\ntionnel et convivial.\nLIEN SOCIAL ET SOLIDARITÉ\nCULTURE ET LOISIRS\nAUTONOMIE, SERVICES ET SOINS\nFilm Des Rides et des Rêves:\nhttps://www.youtube.com/watch?v=74kO0KhPw8A"
+    },
+    "porteur_initiative": "C’ est un projet autour des arts du cirque et une rencontre de plu - sieurs partenaires dans un même objectif final: amé - liorer la vie des personnes âgées et leur apporter un moment de détente, d’apaisement et de bien être.",
+    "date": [
+        "26 mars 2017",
+        "septembre 2015",
+        "juin 2016",
+        "septembre 2016",
+        "avril 2017",
+        "mars 2017",
+        "16/11/2016",
+        "2025",
+        "2008",
+        "2013",
+        "2015",
+        "2016",
+        "3400",
+        "2017",
+        "depuis",
+        "depuis 2015",
+        "En 2008",
+        "en 2013"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rides_et_des_reves_ateliers_des_arts_du_cirque_au_Gerontopole_de_Toulouse.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_rides_et_des_reves_ateliers_des_arts_du_cirque_au_Gerontopole_de_Toulouse.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

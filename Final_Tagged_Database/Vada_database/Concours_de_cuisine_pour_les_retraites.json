@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Concours de cuisine pour les retraités",
+    "territoire": "Titre: Concours de cuisine pour les retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/849-pe-concours-de-cuisine-pour-les-retraites.pdf  ---  --- REDONNER LE GOÛT DE LA CUISINE L'association brestoise Défi Santé Nutrition a souhaité développer un projet autour de l'alimentation des seniors.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Concours de cuisine pour les retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/849-pe-concours-de-cuisine-pour-les-retraites.pdf  ---  --- REDONNER LE GOÛT DE LA CUISINE L'association brestoise Défi Santé Nutrition a souhaité développer un projet autour de l'alimentation des seniors.",
+    "description": {
+        "description_generale": "Titre: Concours de cuisine pour les retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/849-pe-concours-de-cuisine-pour-les-retraites.pdf  ---  --- REDONNER LE GOÛT DE LA CUISINE L'association brestoise Défi Santé Nutrition a souhaité développer un projet autour de l'alimentation des seniors.",
+        "contexte": "Ce désir était partagé par l'Office des Retraités de Brest, qui a constaté que beaucoup de seniors délaissent le repas du soir, alors qu'il est particulièrement important avec l'avancée en âge.",
+        "problematique": "CONCOURS DE CUISINE POUR LES RETRAITÉS Fiche PARTAGE D'EXPÉRIENCE N°714 Villes Amies des Aînés en France Office des Retraités de Brest Ville Amie des Aînés depuis 2016 Brest (29) Publiée le 03.07/2023 Valoriser les seniors; Sensibiliser sur les besoins nutritionnels des seniors; Favoriser le plaisir alimentaire quand on vit seul; Créer du lien social et de la solidarité.",
+        "solution_envisagee": "Le projet visait particulièrement les personnes âgées de 60 ans et plus qui vivent seules et tendait à proposer un moment de partage et de plaisir culinaire.",
+        "objectifs": "Voulant donc développer une action d'éducation nutritionnelle à destination des seniors, l'ORB a donc imaginé un concours de cuisine qui associerait seniors et étudiants, afin de favoriser le lien social et intergénérationnel."
+    },
+    "porteur_initiative": "Titre: Concours de cuisine pour les retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/849-pe-concours-de-cuisine-pour-les-retraites.pdf  ---  --- REDONNER LE GOÛT DE LA CUISINE L'association brestoise Défi Santé Nutrition a souhaité développer un projet autour de l'alimentation des seniors.",
+    "date": [
+        "novembre 2017",
+        "février 2018",
+        "2025",
+        "2017",
+        "2016",
+        "2023",
+        "2018",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Concours_de_cuisine_pour_les_retraites.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Concours_de_cuisine_pour_les_retraites.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

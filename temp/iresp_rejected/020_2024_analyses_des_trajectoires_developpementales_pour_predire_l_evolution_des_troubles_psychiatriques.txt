@@ -1,0 +1,140 @@
+Analyses des trajectoires développementales pour prédire l’évolution des troubles psychiatriques
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/analyses-des-trajectoires-developpementales-pour-predire-levolution-des-troubles-psychiatriques/
+Programme concerné : MESSIDORE
+Nom de l'appel : Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année : 2024
+État du projet : En cours
+Durée : 36 mois
+Subvention allouée : 850 973,00
+Financeurs : INSERM
+Disciplines : Psychiatry - Mental Health / Neurosciences / Data sciences
+
+Analyses des trajectoires développementales pour prédire l'évolution des troubles psychiatriques - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Analyses des trajectoires développementales pour prédire l’évolution des troubles psychiatriques
+Programme concerné
+MESSIDORE
+Nom de l'appel
+Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année
+2024
+Modalité de soutien
+Projet de recherche complet
+État du projet
+En cours
+Durée
+36 mois
+Subvention allouée
+850 973,00
+Financeurs
+INSERM
+Disciplines
+Psychiatry - Mental Health / Neurosciences / Data sciences
+Analyses des trajectoires développementales pour prédire l’évolution des troubles psychiatriques
+Résumé de soumission
+Contexte Les troubles psychiatriques, issus d’interactions entre des facteurs génétiques et environnementaux, sont une cause majeure de handicap. Les cadres diagnostiques traditionnels comme le DSM et la CIM, qui catégorisent les maladies mentales en fonction des symptômes présent à un temps donné, présentent des limitations importantes, notamment pour rendre compte des limites imprécises entre les troubles, de l’hétérogénéité au sein des catégories et de l’évolution des troubles au cours de la vie. Cette approche catégorielle masque l’émergence progressive des troubles ou l’intervention de facteurs de risque. Pour répondre cela, des stratégies transdiagnostiques dimensionnelles, telles que les Research Domain Criteria, considèrent la maladie mentale en termes de déviations par rapport aux fonctions fondamentales normales. De plus, la caractérisation des troubles devrait prendre en compte les interactions dynamiques tout au long du développement et de la maturation cérébrale plutôt que des critères statiques et pour mieux reflèter la nature évolutive des troubles psychiatriques et rendre compte de l’apparition retardée de troubles bipolaires et schizophréniques associés à des altérations neurodéveloppementales précoces.
+Des études longitudinales à grande échelle, telles que l’étude Adolescent Brain Cognitive Development (ABCD) et la cohorte IMAGEN, ainsi que des initiatives nationales comme les cohortes RHU PsyCARE et le PEPR Propsy, ou les données non structurées provenant des entrepôts de données de santé (HDW) fournissent des données inestimables pour analyser ces trajectoires. Cependant, l’intégration de données cliniques complexes en psychiatrie reste un défi.
+Objectif Les troubles psychiatriques émergent souvent pendant l’adolescence ou au début de l’âge adulte, avec une charge neurodéveloppementale plus ou moins marquée associée à des déficiences cognitives, une résistance au traitement et un pronostic plus sombre. En analysant des données longitudinales étendues, TRAJECTOME vise à reconstruire les trajectoires de développement pour identifier des marqueurs prédictifs de l’apparition et de la progression des troubles psychiatriques. Notre hypothèse est que les déviations développementales entraînent des profils symptomatiques et pronostiques spécifiques qui pourraient aider à définir des stratégies personnalisées et préventives, dès les premiers symptômes psychiatriques.
+Le flux de travail comprendra 3 tâches :
+* Développement de modèles de données * Objectif : Faciliter l’intégration des données à travers divers ensembles de données en utilisant des cadres interopérables. Pour ce faire, nous (i) Compléterons les ontologies existantes avec des concepts neurodéveloppementaux. (ii) Développerons un Modèle de Données Commun (MDC) pour l’interopérabilité entre les référentiels. (iii) Mettrons en œuvre des outils de prétraitement pour garantir la conformité au RGPD et la qualité des données. La plateforme s’appuiera sur la plateforme PsyCARE, en utilisant des ontologies multi-niveaux pour assurer l’interopérabilité sémantique des différentes bases.
+* Annotation sémantique des données non structurées * Objectif : Créer des outils pour annoter les textes psychiatriques afin de fournir des données longitudinales structurées. (i) développement d’outils de traitement de langage naturel pour la reconnaissance d’entités nommées, la désambiguïsation et l’extraction de relations. (ii) reconstruction longitudinale des données sur les sections narratives des dossiers cliniques (iii) complément de l’outils SemOntoMap par des adaptations contextuelles spécifiques concernant le neurodéveloppement et l’évolution des symptômes.
+* Prédiction des résultats des troubles psychiatriques * Objectif : Utiliser les profils de développement pour prédire les trajectoires et les résultats des troubles psychiatriques. (i) Construction des profils neurodéveloppementaux. (ii) Entraînement de modèles d’apprentissage pour prédire les profils neurodéveloppementaux en utilisant des données IRM et EEG. (iii) clustering non supervisé pour identifier des sous-phénotypes et des modèles supervisés pour prédire les résultats individuels.
+Les données seront issues de cohortes établies et conformes aux exigences éthiques: cohortes internationales ABCD, IMAGEN en population de générale et cohortes cliniques françaises de PsyCARE 4.0 et les entrepôts de données de santé du GHU Paris. Les protocoles d’accès et de transfert des données sont en place, assurant la progression rapide du projet.
+Le projet TRAJECTOME regroupe quatre équipes d’experts complémentaires en sciences des données et psychiatrie, ayant déjà des collaborations réussies : Inserm – PMP : physiopathologie des troubles psychiatriques émergents ; Équipe d’épidémiologie du GHU : statistiques, collecte de données cliniques en conditions réelles ;SU-LIMICS : modélisation et annotation des données ; CEA NeuroSpin : intégration et analyse de grands ensembles de données en neurosciences.
+Résultats attendus Le projet permettra d’identifier précocement les individus à haut risque de maladie mentale grave et ceux avec de mauvais pronostic. Il fournira aux cliniciens des algorithmes prédictifs pour guider leurs stratégies thérapeutiques préventives et personnalisées. Il comblera le fossé entre la psychiatrie de l’enfant et l’adolescent et la psychiatrie adulte, notamment dans le cas de troubles du neurodéveloppement offrant une compréhension complète des déterminants des troubles psychiatriques et des cibles thérapeutiques potentielles.
+Dans l’ensemble, TRAJECTOME fera progresser significativement la compréhension des troubles psychiatriques et améliorera les stratégies de traitement préventives et personnalisées. Tous les modèles et outils développés seront disponibles, contribuant à une grande base de données française multimodale sur les principaux troubles psychiatriques et neurodéveloppementaux, améliorant la recherche future.
+Equipes du projet
+Coordonnateur :
+KREBS Marie-Odile
+N° ORCID :
+0000-0002-4715-9890
+Structure administrative de rattachement :
+INSERM DR PARIS IDF Centre Nord
+Laboratoire ou équipe :
+Equipe Physiopathologie des troubles psychiatriques émergents - Institut de Psychiatrie et Neurosciences de Paris UMR_S 1266
+N° RNSR :
+200816530M
+Autres équipes participantes :
+Responsable de l'équipe 2 : PEROZZIELLO Anne
+CELLULE EPIDEMIOLOGIE GHU PARIS
+Responsable de l'équipe 3 : CHARLET Jean
+LIMICS laboratoire de recherche en informatique pour la santé - Sorbonne Université
+Responsable de l'équipe 4 : DUCHESNAY Edouard
+CEA Neurospin - Laboratoire GAIA - Equipe SIGNATURE
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

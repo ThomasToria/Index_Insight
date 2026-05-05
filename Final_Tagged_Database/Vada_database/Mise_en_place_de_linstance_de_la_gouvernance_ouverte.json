@@ -1,0 +1,61 @@
+{
+    "titre": "Titre: Mise en place de l'instance de la gouvernance ouverte",
+    "territoire": "Titre: Mise en place de l'instance de la gouvernance ouverte Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/809-pe-mise-en-place-de-l-instance-de-gouevrnance.pdf  ---  --- UNE INSTANCE DE GOUVERNANCE PRECEDEE PAR UNE FEUILLE DE ROUTE En décembre 2019 le rapport final du Grand débat \"Longévité, ouvrons les possibles\", a été approuvé par le Conseil Métropolitain, qui a aussi pris l'engagement de co-construire une feuille de route Longévité (Nantes Métropole, 24 communes, acteurs du territoire).",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Produire un récit distancié: rendre compte des avancées (production et diffusion de livrables, participation à des temps publics), formaliser des alertes et recommandations, repérer des initiatives et des expérimentations inspirantes.",
+    "description": {
+        "description_generale": "Produire un récit distancié: rendre compte des avancées (production et diffusion de livrables, participation à des temps publics), formaliser des alertes et recommandations, repérer des initiatives et des expérimentations inspirantes.",
+        "contexte": "DIVERSITE DES OUTILS D'EVALUATION Différents outils d'évaluation ont été utilisés: OBJECTIFS ET BILANS A ce jour, seule la représentation des structures membres de l'Instance de Gouvernance Ouverte dans les séances de travail peut être constatée: par exemple, lors de la première séance de juin 2022, 19 structures étaient présentes et douze lors de la deuxième séance.",
+        "problematique": "Ainsi, deux problématiques phares (chantiers) ont été définies, déclinées en questionnements thématiques et planifiées sur la durée du mandat: • Comment Nantes Métropole accompagne le souhait des seniors à vieillir « chez soi »?",
+        "solution_envisagee": "Titre: Mise en place de l'instance de la gouvernance ouverte Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/809-pe-mise-en-place-de-l-instance-de-gouevrnance.pdf  ---  --- UNE INSTANCE DE GOUVERNANCE PRECEDEE PAR UNE FEUILLE DE ROUTE En décembre 2019 le rapport final du Grand débat \"Longévité, ouvrons les possibles\", a été approuvé par le Conseil Métropolitain, qui a aussi pris l'engagement de co-construire une feuille de route Longévité (Nantes Métropole, 24 communes, acteurs du territoire).",
+        "objectifs": "DIVERSITE DES OUTILS D'EVALUATION Différents outils d'évaluation ont été utilisés: OBJECTIFS ET BILANS A ce jour, seule la représentation des structures membres de l'Instance de Gouvernance Ouverte dans les séances de travail peut être constatée: par exemple, lors de la première séance de juin 2022, 19 structures étaient présentes et douze lors de la deuxième séance."
+    },
+    "porteur_initiative": "Approuvée par le Conseil Métropolitain en décembre 2021, la feuille de route porte quatre ambitions, déclinées en engagements et actions opérationnelles, dont une centaine portée par Nantes Métropole.",
+    "date": [
+        "décembre 2019",
+        "décembre 2021",
+        "Avril",
+        "juin",
+        "juin 2022",
+        "Avril 2022",
+        "2025",
+        "2019",
+        "2021",
+        "2022",
+        "2026",
+        "2023",
+        "2024",
+        "depuis 2019",
+        "En 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_de_linstance_de_la_gouvernance_ouverte.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mise_en_place_de_linstance_de_la_gouvernance_ouverte.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

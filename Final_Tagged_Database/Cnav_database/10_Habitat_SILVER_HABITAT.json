@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Habitat SILVER HABITAT",
+    "territoire": "LA CIBLE Les porteurs de projets d’habitat senior (bailleurs sociaux, CCAS, Communes).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Plus d’informations sur Réinventer les lieux de vie des seniors de demain ADAPTER SES HABITUDES ET SES COMPORTEMENTS • Le programme Activ’ et vous • Les Zastuces pour bien vieillir – informations et conseils en prévention pour une image positive de la retraite • Référentiel de l’atelier « Bienvenue à la retraite » • Le site internet ICOPE • Alapage (CARSAT SUD-EST) • Gym Enform' et Fitness (CGSS GUADELOUPE) • Atelier « Bienvenue à la retraite »: expérimentation auprès d'un public de futur retraité (L'ASSURANCE RETRAITE ÎLE-DE-FRANCE) • Atelier « Bienvenue à la retraite » partenariat Centres de Médecine Préventive (CARSAT NORD-EST) • Atelier « Habitat: les clefs de ma santé » (CARSAT AQUITAINE) • Atelier Mnémotricité (CARSAT RHÔNE-ALPES) • Demande unique de co-financement avec la Conférence des financeurs de la prévention de la perte d’autonomie de Meurthe et Moselle (CARSAT NORD-EST) • Escape Game sommeil (CARSAT AQUITAINE) • Gran Moun Djok – Le Raid des Séniors (CGSS MARTINIQUE) • Je continue à jardiner (CARSAT PAYS DE LA LOIRE) • Mamies Gâteaux (CARSAT ALSACE-MOSELLE) • Mieux vivre au quotidien avec les médicaments (CARSAT MIDI-PYRÉNÉES) • Parcours attentionné coordonné « Du repérage du risque de chute à la participation à un atelier équilibre » • Parcours « L’équilibre Pas à Pas » (CARSAT BOURGOGNE-FRANCHE-COMTÉ) • Parcours prévention des chutes (CARSAT CENTRE-OUEST) • Bus numérique (CARSAT CENTRE-VAL DE LOIRE) • Digital Séniors 28 • Mise en place de parcours seniors avec le Bailleur Social Hérault Logement (CARSAT LANGUEDOC-ROUSSILLON) GuadeloupeMartinique Sud-Est Midi-Pyrénées Rhône-Alpes Aquitaine Languedoc- Roussillon Bourgogne- Franche-Comté Île-de-France Centre-Val de LoirePays de la Loire Centre- Ouest Nord-Est Alsace- Moselle",
+    "description": {
+        "description_generale": "LA CIBLE Les porteurs de projets d’habitat senior (bailleurs sociaux, CCAS, Communes).",
+        "contexte": "Titre: Habitat SILVER HABITAT Pages: 26, 27, 28  CARSAT NORMANDIE Habitat SILVER HABITAT LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les CAUE normands.",
+        "problematique": "Titre: Habitat SILVER HABITAT Pages: 26, 27, 28  CARSAT NORMANDIE Habitat SILVER HABITAT LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les CAUE normands.",
+        "solution_envisagee": "Plus d’informations sur Réinventer les lieux de vie des seniors de demain ADAPTER SES HABITUDES ET SES COMPORTEMENTS • Le programme Activ’ et vous • Les Zastuces pour bien vieillir – informations et conseils en prévention pour une image positive de la retraite • Référentiel de l’atelier « Bienvenue à la retraite » • Le site internet ICOPE • Alapage (CARSAT SUD-EST) • Gym Enform' et Fitness (CGSS GUADELOUPE) • Atelier « Bienvenue à la retraite »: expérimentation auprès d'un public de futur retraité (L'ASSURANCE RETRAITE ÎLE-DE-FRANCE) • Atelier « Bienvenue à la retraite » partenariat Centres de Médecine Préventive (CARSAT NORD-EST) • Atelier « Habitat: les clefs de ma santé » (CARSAT AQUITAINE) • Atelier Mnémotricité (CARSAT RHÔNE-ALPES) • Demande unique de co-financement avec la Conférence des financeurs de la prévention de la perte d’autonomie de Meurthe et Moselle (CARSAT NORD-EST) • Escape Game sommeil (CARSAT AQUITAINE) • Gran Moun Djok – Le Raid des Séniors (CGSS MARTINIQUE) • Je continue à jardiner (CARSAT PAYS DE LA LOIRE) • Mamies Gâteaux (CARSAT ALSACE-MOSELLE) • Mieux vivre au quotidien avec les médicaments (CARSAT MIDI-PYRÉNÉES) • Parcours attentionné coordonné « Du repérage du risque de chute à la participation à un atelier équilibre » • Parcours « L’équilibre Pas à Pas » (CARSAT BOURGOGNE-FRANCHE-COMTÉ) • Parcours prévention des chutes (CARSAT CENTRE-OUEST) • Bus numérique (CARSAT CENTRE-VAL DE LOIRE) • Digital Séniors 28 • Mise en place de parcours seniors avec le Bailleur Social Hérault Logement (CARSAT LANGUEDOC-ROUSSILLON) GuadeloupeMartinique Sud-Est Midi-Pyrénées Rhône-Alpes Aquitaine Languedoc- Roussillon Bourgogne- Franche-Comté Île-de-France Centre-Val de LoirePays de la Loire Centre- Ouest Nord-Est Alsace- Moselle",
+        "objectifs": "Titre: Habitat SILVER HABITAT Pages: 26, 27, 28  CARSAT NORMANDIE Habitat SILVER HABITAT LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les CAUE normands."
+    },
+    "porteur_initiative": "Titre: Habitat SILVER HABITAT Pages: 26, 27, 28  CARSAT NORMANDIE Habitat SILVER HABITAT LES ACTEURS Porteur(s) de la pépite: Carsat Normandie et les CAUE normands.",
+    "date": [
+        "octobre 2021",
+        "2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\10_Habitat_SILVER_HABITAT.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\10_Habitat_SILVER_HABITAT.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

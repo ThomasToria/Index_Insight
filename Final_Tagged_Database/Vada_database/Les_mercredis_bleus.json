@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Les mercredis bleus",
+    "territoire": "Titre: Les mercredis bleus Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1093-pe-les-mercredis-bleus.pdf  ---  --- LA SEMAINE BLEUE TOUTE L’ANNÉE Dans la continuité de la semaine bleue, ce projet vise à favoriser une année bleue par le développement d’un projet intergénérationnel sur des mercredis hors vacances scolaires, avec la participation des associations locales et des services de la ville.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Lors de la première édition, les objectifs ont été atteints dans la rencontre des publics, le partage et l'échange de connaissance autour du jeu et l'implication des publics (enfants et seniors).",
+    "description": {
+        "description_generale": "En novembre, c'est une réunion de présentation du projet, avec cadrage, qui a eu lieu.",
+        "contexte": "En fonction des actions menées, de nombreux partenaires peuvent être impliqués: associations locales, mission locale, amicale des retraites, AJOT, centre activité familiale, club vélo, ESSOR, commerces, etc.",
+        "problematique": "Les thèmes sont variés et répondent à des besoins du public.",
+        "solution_envisagee": "Après le bilan de la semaine bleue (octobre), une réunion d'orientation sur la mise en place des mercredis bleus a été organisée.",
+        "objectifs": "Elle fut l'occasion de renforcer les objectifs."
+    },
+    "porteur_initiative": "En fonction des actions menées, de nombreux partenaires peuvent être impliqués: associations locales, mission locale, amicale des retraites, AJOT, centre activité familiale, club vélo, ESSOR, commerces, etc.",
+    "date": [
+        "juillet 2024",
+        "janvier 2025",
+        "mai 2025",
+        "2025",
+        "1093",
+        "2024",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mercredis_bleus.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_mercredis_bleus.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

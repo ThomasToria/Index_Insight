@@ -1,0 +1,54 @@
+{
+    "titre": "Bien-être des parents d’enfants ayant un trouble du spectre de l’autisme: études comparatives interculturelle et inter-trouble",
+    "territoire": "Objectifs: Cette étude vise à évaluer le stress parental, la symptomatologie anxio-dépresssive et la qualité de vie de parents d’enfants TSA ou TDC et de mieux comprendre la spécificité du bien-être parental en fonction de variables individuelles, psychosociales et culturelles.",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Méthodes: Le recrutement se fera au sein de centres de diagnostic, de services spécialisés et d’associations défendant la cause des personnes TSA et TDC et leurs familles.",
+    "description": {
+        "description_generale": "Bien-être des parents d’enfants ayant un trouble du spectre de l’autisme: études comparatives interculturelle et inter-trouble  Statut tri: accepted Source: IReSP URL: https://iresp.net/projets_finances/bien-etre-des-parents-denfants-ayant-un-trouble-du-spectre-de-lautisme-etudes-comparatives-interculturelle-et-inter-trouble/ Programme concerné: Autonomie Nom de l'appel: Autisme et sciences humaines et sociales (session 2) Année: 2021 État du projet: En cours Durée: 36 mois Subvention allouée: 148 746,00 € Financeurs: CNSA Disciplines: None  Bien-être des parents d’enfants ayant un trouble du spectre de l’autisme: études comparatives interculturelle et inter-trouble - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » Bien-être des parents d’enfants ayant un trouble du spectre de l’autisme: études comparatives interculturelle et inter-trouble Programme concerné Autonomie Nom de l'appel Autisme et sciences humaines et sociales (session 2) Année 2021 Modalité de soutien Projet de recherche complet État du projet En cours Durée 36 mois Subvention allouée 148 746,00 € Financeurs CNSA Disciplines None Bien-être des parents d’enfants ayant un trouble du spectre de l’autisme: études comparatives interculturelle et inter-trouble Résumé de soumission Contexte: L’accompagnement et le soutien des parents d’enfants présentant un trouble du spectre de l’autisme (TSA) ainsi que l’étude de leur adaptation au handicap de leur enfant, constituent aujourd’hui une nécessité clinique et scientifique majeure, encouragée par la Stratégie Nationale pour l’Autisme (2018).",
+        "contexte": "Méthodes: Le recrutement se fera au sein de centres de diagnostic, de services spécialisés et d’associations défendant la cause des personnes TSA et TDC et leurs familles.",
+        "problematique": "Une grille d’entretien, spécialement conçue pour les besoins de l’étude, permettra de spécifier le vécu des parents d’enfants ayant un TSA et celui des parents d’enfants ayant un TDC, et d’investiguer les différences interculturelles des politiques d’accompagnement des parents d’enfants avec un TSA.",
+        "solution_envisagee": "Ainsi, ils permettront d’orienter la mise en place des dispositifs de soutien et d’accompagnement des familles d’enfants présentant un trouble neurodéveloppemental (TSA et TDC).",
+        "objectifs": "Objectifs: Cette étude vise à évaluer le stress parental, la symptomatologie anxio-dépresssive et la qualité de vie de parents d’enfants TSA ou TDC et de mieux comprendre la spécificité du bien-être parental en fonction de variables individuelles, psychosociales et culturelles."
+    },
+    "porteur_initiative": "Synthèse finale du projet Equipes du projet Coordonnateur: CAPPE Emilie N° ORCID: 0000-0002-4792-8653 Structure administrative de rattachement: Université de Paris Laboratoire ou équipe: Laboratoire de Psychopathologie et Processus de Santé (LPPS UR4057) / Institut de Psychologie, Université de Paris N° RNSR: 200615303M Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2021",
+        "2018",
+        "0000",
+        "0002",
+        "4792",
+        "8653",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\016_2021_bien_etre_des_parents_d_enfants_ayant_un_trouble_du_spectre_de_l_autisme_etudes_comparatives_interculturelle_et_inter_tr.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\016_2021_bien_etre_des_parents_d_enfants_ayant_un_trouble_du_spectre_de_l_autisme_etudes_comparatives_interculturelle_et_inter_tr.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

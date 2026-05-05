@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Des vacances pour les aînés Lyonnais",
+    "territoire": "Titre: Des vacances pour les aînés Lyonnais Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/142-pe-vacances-pour-lyonnais.pdf  ---  --- S‘ÉCHAPPER QUELQUES JOURS Depuis 2008, le Centre Communal d’Action Sociale (CCAS) de la Ville de Lyon, en partenariat avec l’Agence Nationale du Chèque Vacances (ANCV) dans le cadre du programme « Seniors en vacances » propose chaque année aux plus âgés des séjours à l’extérieur de la ville.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Des vacances pour les aînés Lyonnais Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/142-pe-vacances-pour-lyonnais.pdf  ---  --- S‘ÉCHAPPER QUELQUES JOURS Depuis 2008, le Centre Communal d’Action Sociale (CCAS) de la Ville de Lyon, en partenariat avec l’Agence Nationale du Chèque Vacances (ANCV) dans le cadre du programme « Seniors en vacances » propose chaque année aux plus âgés des séjours à l’extérieur de la ville.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Pour ceux dont les ressources sont trop faibles, une aide peut être accordée par l’ANCV: il en a été ainsi pour 82 personnes sur les 140 participants en 2014.",
+        "problematique": "Le CCAS évoque la nécessité d’un certain niveau de validité et d’autonomie des participants, même si les séjours proposés sont toujours pensés en fonction des fragilités liées au vieillissement (difficultés pour marcher, fatigabilité à l’effort...).",
+        "solution_envisagee": "Titre: Des vacances pour les aînés Lyonnais Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/142-pe-vacances-pour-lyonnais.pdf  ---  --- S‘ÉCHAPPER QUELQUES JOURS Depuis 2008, le Centre Communal d’Action Sociale (CCAS) de la Ville de Lyon, en partenariat avec l’Agence Nationale du Chèque Vacances (ANCV) dans le cadre du programme « Seniors en vacances » propose chaque année aux plus âgés des séjours à l’extérieur de la ville.",
+        "objectifs": "Ces séjours ont pour objectif principal de permettre aux personnes âgées isolées de partir en groupe dans d’autres régions de France."
+    },
+    "porteur_initiative": "Pour ceux dont les ressources sont trop faibles, une aide peut être accordée par l’ANCV: il en a été ainsi pour 82 personnes sur les 140 participants en 2014.",
+    "date": [
+        "avril 2014",
+        "2025",
+        "2008",
+        "2014",
+        "2009",
+        "Depuis 2008",
+        "depuis 2009",
+        "en 2014"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_vacances_pour_les_aines_Lyonnais.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_vacances_pour_les_aines_Lyonnais.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

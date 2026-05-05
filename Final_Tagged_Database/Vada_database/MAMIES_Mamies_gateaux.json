@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: MAMIES Mamies gâteaux",
+    "territoire": "Ses territoires d'intervention correspondent en effet à des secteurs particulièrement vieillissants et précaires (les quartiers Neuhof et Meinau sont par exemple les principaux quartiers prioritaires de la politique de la Ville).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Un tiers-lieu sous la forme d'un salon de thé est aussi mis à disposition: il s'agit d'une offre de services qui est un espace de convivialité et de ressources à destination des habitants seniors du quartier.",
+    "description": {
+        "description_generale": "COÛTS DE L'ACTION Le coût total de l’action, pour la phase d’expérimentation et d’émergence s'élève à hauteur de 50 000 € financés par le Fonds Social Européen, la Place de l’Emergence (Malakoff Humanis et Klesia) et le Crédit Mutuel.",
+        "contexte": "Un tiers-lieu sous la forme d'un salon de thé est aussi mis à disposition: il s'agit d'une offre de services qui est un espace de convivialité et de ressources à destination des habitants seniors du quartier.",
+        "problematique": "L'association est très soucieuse d'ancrer son action pour mieux répondre aux enjeux locaux.",
+        "solution_envisagee": "Ces ateliers proposent aux seniors de réaliser des pâtisseries en transmettant leurs connaissances grâce à des cours.",
+        "objectifs": "MAMIES GATEAUX Combattre l'isolement et favoriser le lien social: constitution d'un groupe, réalisation d'ateliers intergénérationnels dans ses locaux et dans des structures partenaires (centres socioculturels etc.)."
+    },
+    "porteur_initiative": "Un tiers-lieu sous la forme d'un salon de thé est aussi mis à disposition: il s'agit d'une offre de services qui est un espace de convivialité et de ressources à destination des habitants seniors du quartier.",
+    "date": [
+        "octobre 2022",
+        "2025",
+        "2022",
+        "2018",
+        "2019",
+        "2021",
+        "2015",
+        "Depuis 2022",
+        "depuis 2015",
+        "En 2018",
+        "En 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\MAMIES_Mamies_gateaux.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\MAMIES_Mamies_gateaux.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

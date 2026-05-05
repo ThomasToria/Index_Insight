@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Seniors, la route et vous",
+    "territoire": "Titre: Seniors, la route et vous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/445-pe-seniors-la-route-et-vous.pdf  ---  --- CONDUIRE A TOUT ÂGE La mobilité est l’un des facteurs clé du maintien de l’autonomie et du lien social des personnes âgées.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Seniors, la route et vous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/445-pe-seniors-la-route-et-vous.pdf  ---  --- CONDUIRE A TOUT ÂGE La mobilité est l’un des facteurs clé du maintien de l’autonomie et du lien social des personnes âgées.",
+    "description": {
+        "description_generale": "DES ATELIERS TRÈS ATTENDUS Destiné aux personnes âgées de Colomiers titulaires du permis de conduire et utilisant un véhicule comme moyen de transport, le premier atelier de l’action a remporté un franc succès: les demandes d’inscription ont dépassé la capacité d’accueil de 22 places de la session, entraînant la reconduction de l’action pour une deuxième session en mi-novembre 2018.",
+        "contexte": "Titre: Seniors, la route et vous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/445-pe-seniors-la-route-et-vous.pdf  ---  --- CONDUIRE A TOUT ÂGE La mobilité est l’un des facteurs clé du maintien de l’autonomie et du lien social des personnes âgées.",
+        "problematique": "Le réactiomètre, outil permettant de tester à la fois ses propres réflexes et la durée de freinage, s’est également montré très utile en permettant à ceux qui l’ont essayé de réaliser que leurs réflexes n’étaient plus forcément les mêmes qu’auparavant, et qu’ils devaient de ce fait adapter leur conduite.",
+        "solution_envisagee": "Il est également envisagé de proposer une journée entière d’animations, avec la possibilité de conduire sur une voiture à double commandes pour se tester.",
+        "objectifs": "Enfin, les rencontres et échanges durant l’atelier ont permis de créer du lien entre les participants, ce qui était également l’un des objectifs de l’action proposée."
+    },
+    "porteur_initiative": "Titre: Seniors, la route et vous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/445-pe-seniors-la-route-et-vous.pdf  ---  --- CONDUIRE A TOUT ÂGE La mobilité est l’un des facteurs clé du maintien de l’autonomie et du lien social des personnes âgées.",
+    "date": [
+        "novembre 2018",
+        "2025",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_la_route_et_vous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Seniors_la_route_et_vous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

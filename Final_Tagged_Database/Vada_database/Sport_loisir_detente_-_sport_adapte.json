@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Sport loisir détente - sport adapté",
+    "territoire": "Titre: Sport loisir détente - sport adapté Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/979-concours-2023-sport-loisir-detente-sport-adapte.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN PROGRAMME LANCÉ EN 2018 Suite à une réflexion sur la prévention et la préservation de la santé et en coopération avec le club de l'amitié, la commune de Ports-sur-Vienne a mis en place depuis quelques années des séances de sport adapté, principalement pour les séniors.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Ce programme bénéficie aujourd'hui à un petite cinquantaine de personnes avec une participation qui s’est accrue (s port adapté: 16 participants, marche: 30 participants).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Ports-sur-Vienne, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Ce programme bénéficie aujourd'hui à un petite cinquantaine de personnes avec une participation qui s’est accrue (s port adapté: 16 participants, marche: 30 participants).",
+        "problematique": "Ce programme bénéficie aujourd'hui à un petite cinquantaine de personnes avec une participation qui s’est accrue (s port adapté: 16 participants, marche: 30 participants).",
+        "solution_envisagee": "Ce programme bénéficie aujourd'hui à un petite cinquantaine de personnes avec une participation qui s’est accrue (s port adapté: 16 participants, marche: 30 participants).",
+        "objectifs": "Ce programme bénéficie aujourd'hui à un petite cinquantaine de personnes avec une participation qui s’est accrue (s port adapté: 16 participants, marche: 30 participants)."
+    },
+    "porteur_initiative": "Ce programme bénéficie aujourd'hui à un petite cinquantaine de personnes avec une participation qui s’est accrue (s port adapté: 16 participants, marche: 30 participants).",
+    "date": [
+        "2025",
+        "2023",
+        "2018",
+        "2020",
+        "depuis 2020",
+        "EN 2018",
+        "en"
+    ],
+    "thematique": [
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_loisir_detente_-_sport_adapte.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sport_loisir_detente_-_sport_adapte.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.25,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

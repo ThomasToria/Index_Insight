@@ -1,0 +1,57 @@
+{
+    "titre": "Titre: Elaboration du \"guide du bien vieillir à bourges\"",
+    "territoire": "Titre: Elaboration du \"guide du bien vieillir à bourges\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1017-concours-2023-elaboration-du-guide-du-bien-vieillir-a-bourges.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE MÉCONNAISSANCE DES DISPOSITIFS EXISTANTS Dans le cadre de l'agenda 2021 sur la longévité, le maire de Bourges- Président du CCAS, M.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Les bénéficiaires sont avant tout les seniors berruyers mais également leur entourage ou les professionnels qui se voient offrir à travers le guide une information complète sur les dispositifs et services existants pour les retraités: plus de 3 200 guides distribués dont près de 3 000 à destination des 75 ans et plus.  ---  --- DES ÉVALUATIONS POSITIVES ET UNE LARGE DISTRIBUTION L'évaluation est qualitative d'une part: les seniors et les professionnels ont répondu favorablement à cette démarche participative.",
+    "description": {
+        "description_generale": "Trois rencontres ont été indispensables pour mettre en exergue les attentes du groupe: un guide centré uniquement sur les informations en lien avec les seniors (enlever tout ce qui est touristique par exemple) la mise en avant des services et des activités proposés par le CCAS une présentation plus aérée (texte en lien avec les centres d'intérêts spécifiques des séniors) une illustration avec des photos \"locales\" un sommaire sur une même page pour un meilleur repérage dans la lecture la présence d'un annuaire afin d'y faire apparaître un classement par chapitre et par ordre alphabétique La deuxième grande étape s'est portée sur la mise à jour des informations, la rédaction, la recherche d'illustrations.",
+        "contexte": "Il a été constaté que la population berruyère méconnaissait les services du CCAS ainsi que les activités proposées à l'égard des publics notamment les seniors.",
+        "problematique": "L'élaboration du guide, de façon participative avec les usagers, permettait d'une part de faire le point sur leurs connaissances des services et des dispositifs, et de recenser leurs besoins en terme d'information d'autre part.",
+        "solution_envisagee": "L'évaluation est quantitative d'autre part: une distribution massive (3 000 exemplaires) auprès du public cible de 75 ans et plus.",
+        "objectifs": "TROIS RENCONTRES PRÉPARATOIRES La première rencontre avec le groupe a permis de présenter en détails les objectifs de cette démarche participative et de définir les modalités de la refonte du guide."
+    },
+    "porteur_initiative": "CONSTITUTION DU GROUPE DE TRAVAIL Ainsi un groupe de travail a été constitué et animé par les deux conseillères de l'accueil sénior CLIC du CCAS de la ville de Bourges.",
+    "date": [
+        "octobre",
+        "janvier 2023",
+        "octobre 2023",
+        "2025",
+        "1017",
+        "2023",
+        "2021",
+        "2019",
+        "2020",
+        "3500",
+        "depuis 2020",
+        "en 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_du_guide_du_bien_vieillir_a_bourges.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Elaboration_du_guide_du_bien_vieillir_a_bourges.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

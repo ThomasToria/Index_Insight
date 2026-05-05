@@ -1,0 +1,126 @@
+[
+    {
+        "titre": "CARTE INTERACTIVE « TROUVER MON ACTIVITÉ »",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "départementale",
+            "régionale"
+        ],
+        "public_vise": "Retraités: tous les retraités et personnes approchant de l’âge de la retraite. Professionnels: opérateurs d’actions collectives, structure d’évaluation, intervenants auprès des retraités. Autres: aidants, grand public.",
+        "description": {
+            "description_generale": "Le service « Trouver mon activité » permet aux retraités et personnes en fin de carrière de trouver des activités adaptées à leur âge et à leurs compétences.",
+            "contexte": "",
+            "problematique": "Les retraités et personnes en fin d'activité ont souvent du mal à trouver des activités qui correspondent à leurs besoins et compétences, ce qui peut entraîner une perte de connexion sociale et mentale.",
+            "solution_envisagee": "La carte interactive permet de rendre plus accessible la programmation des actions collectives portées par les caisses d'assurance retraite et l'intérégime.",
+            "objectifs": "Faire connaître et rendre plus accessible la programmation des actions collectives pour les retraités et personnes en fin d'activité, ainsi que leur faciliter le processus de recherche d'activités adaptées à leurs besoins."
+        },
+        "porteur_initiative": "Caisse nationale de l’Assurance retraite",
+        "date": [],
+        "thematique": [
+            "Santé et bien-être",
+            "Social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.txt",
+        "nom_fichier": "01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.txt"
+    },
+    {
+        "titre": "Partenariat VIV A LAB",
+        "territoire": "",
+        "echelle": [
+            "nationale"
+        ],
+        "public_vise": "Retraités, Professionnels (porteurs de projets/entrepreneurs dans le champ du vieillissement actif)",
+        "description": {
+            "description_generale": "Caisse nationale de l’Assurance retraite, Caisse des dépôts, France Active, Agirc-Arrco, MSA sont les porteurs de la pépite. Les partenaires incluent réseaux régionaux des fondateurs (supra), Gérontopôles, Conseils départementaux et régionaux ainsi que 14 experts en accompagnement de projets.",
+            "contexte": "",
+            "problematique": "Encourager l’innovation dans les aides techniques, technologiques ou organisationnelles pour prévenir la perte d’autonomie et le vieillissement actif.",
+            "solution_envisagee": "Repérer et accompagner des projets répondant à des besoins nouveaux ou apportant de nouvelles solutions.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Caisse nationale de l’Assurance retraite, Caisse des dépôts, France Active, Agirc-Arrco, MSA",
+        "date": [],
+        "thematique": [
+            "vieillissement actif",
+            "innovation"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\02_Partenariat_VIV_A_LAB.txt",
+        "nom_fichier": "02_Partenariat_VIV_A_LAB.txt"
+    },
+    {
+        "titre": "CARSAT HAUTS-DE-FRANCE",
+        "territoire": "",
+        "echelle": [
+            "communale",
+            "départementale"
+        ],
+        "public_vise": "tout public, seniors GIR 5 et 6 compris (50 % des participants ont plus de 60 ans)",
+        "description": {
+            "description_generale": "CARSAT HAUTS-DE-FRANCE est une initiative entreprise solidaire d'utilité sociale qui apporte du service de proximité et du lien social dans les territoires ruraux.",
+            "contexte": "La Somme est le Département le plus rural de la région avec 54 % de ses habitants vivant en zone rurale.",
+            "problematique": "Problématique non spécifiée",
+            "solution_envisagee": "Solution non détaillée",
+            "objectifs": ""
+        },
+        "porteur_initiative": "SAS « Ville à Joie », entreprise labellisée Entreprise Solidaire d’Utilité Sociale (ESUS)",
+        "date": [],
+        "thematique": [
+            "santé",
+            "social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\03_CARSAT_HAUTS-DE-FRANCE.txt",
+        "nom_fichier": "03_CARSAT_HAUTS-DE-FRANCE.txt"
+    },
+    {
+        "titre": "L ’INTERGÉNÉRATIONNEL – BERCEAU DU LIEN SOCIAL",
+        "territoire": "",
+        "echelle": [
+            "régionale"
+        ],
+        "public_vise": "",
+        "description": {
+            "description_generale": "Cette initiative vise à promouvoir l’intergénérationnel et le lien social entre les retraités et les professionnels de santé, en particulier par la mise en place d’échanges intergénérationnels.",
+            "contexte": "La Carsat Centre-Val de Loire a lancé cette initiative pour renforcer le lien social dans sa région.",
+            "problematique": "Le retraitement des personnes âgées est souvent isolant et peut entraîner une dégradation du bien-être psychologique. De plus, les professionnels de santé ont parfois des difficultés à comprendre la réalité des personnes âgées.",
+            "solution_envisagee": "L’initiative vise à créer un espace d’échange intergénérationnel entre retraités et professionnels de santé pour améliorer le bien-être social et émotionnel.",
+            "objectifs": "Promouvoir l’intergénérationnel, renforcer les liens sociaux, améliorer la compréhension des personnes âgées par les professionnels de santé, et favoriser un environnement plus inclusif."
+        },
+        "porteur_initiative": "L’association Les Petits Frères des Pauvres - Région Centre-Val de Loire et la Carsat Centre-Val de Loire",
+        "date": [],
+        "thematique": [
+            "liens sociaux",
+            "retraités",
+            "professionnels de santé"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.txt",
+        "nom_fichier": "04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.txt"
+    },
+    {
+        "titre": "BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: tous les retraités. Professionnels: professionnels avec un rôle de conseil et d’accompagnement auprès des retraités (évaluateurs, assistant social). Autres: grand public (famille, aidant).",
+        "description": {
+            "description_generale": "L ’Assurance retraite a développé le site bien-chez-soi.lassuranceretraite.fr dans le cadre de sa politique d’action sociale.",
+            "contexte": "",
+            "problematique": "Les retraités ont besoin d’outils et de conseils pour maintenir leur autonomie.",
+            "solution_envisagee": "Le site bien-chez-soi.lassuranceretraite.fr est un outil dynamique qui propose des informations sur plus de 200 équipements adaptés aux retraités.",
+            "objectifs": "Proposer un outil dynamique à ses partenaires et un site informatif au grand public pour préserver l’autonomie des retraités."
+        },
+        "porteur_initiative": "Caisse nationale de l’Assurance retraite",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Autonomie"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt",
+        "nom_fichier": "05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt"
+    }
+]

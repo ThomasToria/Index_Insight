@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Défilé de mode à Saint-Nazaire, les seniors sur la piste!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/991-concours-2023-defile-de-mode-a-saint-nazaire-les-seniors-sur-la-piste.pdf  ---  --- POUR UNE MEILLEURE ESTIME DE SOI L'estime de soi est une composante nécessaire pour bien vivre, et ce quelque soit son âge.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Défilé de mode à Saint-Nazaire, les seniors sur la piste!",
+    "description": {
+        "description_generale": "Printemps 2023: mise en place du défilé.  ---  --- ATELIERS COMPLÉMENTAIRES Les ateliers de préparation du défilé n'étaient pas les seuls proposés au cours du projet.",
+        "contexte": "Titre: Défilé de mode à Saint-Nazaire, les seniors sur la piste!",
+        "problematique": "Titre: Défilé de mode à Saint-Nazaire, les seniors sur la piste!",
+        "solution_envisagee": "Printemps 2023: mise en place du défilé.  ---  --- ATELIERS COMPLÉMENTAIRES Les ateliers de préparation du défilé n'étaient pas les seuls proposés au cours du projet.",
+        "objectifs": "Ils ont tous comme objectifs de renforcer l’estime de soi des usagers afin qu’ils soient en capacité de pouvoir défiler le jour J."
+    },
+    "porteur_initiative": "Pour permettre aux seniors isolés de reprendre confiance en eux et ainsi mettre en place des stratégies pour entretenir leur estime d’eux-mêmes, le Pôle Prévention Seniors a souhaité proposer un programme animé par des intervenants spécialisés et compétents dans le cadre d'un projet collectif.",
+    "date": [
+        "2025",
+        "2023",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_a_Saint-Nazaire_les_seniors_sur_la_piste.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Defile_de_mode_a_Saint-Nazaire_les_seniors_sur_la_piste.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

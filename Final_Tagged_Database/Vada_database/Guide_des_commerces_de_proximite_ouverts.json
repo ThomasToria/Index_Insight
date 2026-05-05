@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Guide des commerces de proximité ouverts",
+    "territoire": "Titre: Guide des commerces de proximité ouverts Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/251-copie-de-pe-fiche-vierge-1.pdf  ---  --- INFORMER LES HABITANTS Depuis 2012, la Ville de Laval édite chaque année un guide qui recense tous les commerces ouverts durant l’été.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Guide des commerces de proximité ouverts Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/251-copie-de-pe-fiche-vierge-1.pdf  ---  --- INFORMER LES HABITANTS Depuis 2012, la Ville de Laval édite chaque année un guide qui recense tous les commerces ouverts durant l’été.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Laval, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Guide des commerces de proximité ouverts Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/251-copie-de-pe-fiche-vierge-1.pdf  ---  --- INFORMER LES HABITANTS Depuis 2012, la Ville de Laval édite chaque année un guide qui recense tous les commerces ouverts durant l’été.",
+        "problematique": "Ce projet est né d’une réflexion au sujet de l’isolement des personnes âgées, en particulier pendant la période estivale.",
+        "solution_envisagee": "Titre: Guide des commerces de proximité ouverts Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/251-copie-de-pe-fiche-vierge-1.pdf  ---  --- INFORMER LES HABITANTS Depuis 2012, la Ville de Laval édite chaque année un guide qui recense tous les commerces ouverts durant l’été.",
+        "objectifs": "Répondre à une réelle demande des habitants afin de maintenir la chaîne de solidarité durant l’été."
+    },
+    "porteur_initiative": "Titre: Guide des commerces de proximité ouverts Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/251-copie-de-pe-fiche-vierge-1.pdf  ---  --- INFORMER LES HABITANTS Depuis 2012, la Ville de Laval édite chaque année un guide qui recense tous les commerces ouverts durant l’été.",
+    "date": [
+        "2025",
+        "2012",
+        "2016",
+        "2015",
+        "Depuis 2012",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_commerces_de_proximite_ouverts.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Guide_des_commerces_de_proximite_ouverts.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

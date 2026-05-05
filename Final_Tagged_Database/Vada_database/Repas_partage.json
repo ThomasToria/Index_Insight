@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Repas partagé",
+    "territoire": "Titre: Repas partagé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-repas-partage.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ Un transport à la demande a été mis en place par le Centre Social « Saint- Exupéry ».",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "PERSONNES ÂGÉES SEULES, VIVANT SUR LA COMMUNE.\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Permettre aux personnes âgées isolées de se retrouv er une fois par semaine avec d’autres seniors pour partager\nle déjeuner afin de rompre l’isolement et de mainte nir une vie sociale.\nFICHE PARTAGE D’EXPÉRIENCE N°1022\nVILLE AMIE DES AÎNÉS DEPUIS 2019, EN ROUTE VERS LE LABEL - COULOUNIEIX-CHAMIERS (24)\nREPAS PARTAGÉ\n1.\n2.\n3.\nLES OBJECTIFS DU PROJET\nL’objectif de cette action de prévention est un acc ès à la vie sociale, c’est aussi\nune activité physique, la création d’un lien social, faire des connaissances et\nles maintenir et aussi lutter contre l’isolement de s personnes âgées.\n2025\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLES COMPÉTENCES MOBILISÉES\nPOUR LE PROJET\nLe coût financier global de l’action est\nsurtout la mise à disposition du\npersonnel de chaque structure (Mairie,\nCCAS, ACADVS, Centre Social, CIAS).\nCe projet était innovant sur la commune,\ncela a créé réellement un lien entre les\npersonnes et un bien-être concret. Le\ntemps d’un repas, la salle était transformée\nen restaurant avec le menu, la décoration\nde la table et le service par du personnel\nmunicipal. La bonne humeur, le partage et\nle sourire ont toujours perduré.\nLES ÉTAPES\nDU PROJET\nIdentification du besoin - 6 mois\nDéfinition des objectifs - 3 mois\nEtude de faisabilité - 3 mois\nElaboration du cahier des\ncharges - 2 mois\nPlanification des ressources - 3\nmois / Mise à disposition du\npersonnel de chaque structure\nLancement du projet - 6 mois\nRéalisation du projet - 6 mois\nEvaluation - Annuelle\nÉVALUATION\nDU PROJET\nPour chaque année, une\nmoyenne de 14 repas\nhebdomadaires.\n42 séances d’accueil ont été\nréalisées annuellement pour\n383 participations.\n6 personnes demandent un\naccompagnement pour le\ntransport aller-retour, soit 204\ntransports et 8 personnes se\ndéplacent de façon autonome.\nBilan positif pour cette action\ntant sur la qualité que sur le\nnombre de personnes\nparticipantes.\nDepuis le COVID, l’action a été\nstoppée; actuellement, les\npartenaires mènent une\nréflexion sur une reprise en 2026\nau deuxième semestre.\nLES PARTENAIRES\nDU PROJET\nMairie – Prêt de la salle et\nconfection des repas\nCCAS – Pilotage et animation\nCentre Social - Animation\nCIAS - Animation\nACADVS – Animation\nLes seniors de la commune\nLE PLAN\nDE COMMUNICATION\nAffichage public,\nJournal municipal,\nProgramme du Centre Social,\nGazette senior du CCAS",
+        "contexte": "Titre: Repas partagé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-repas-partage.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ Un transport à la demande a été mis en place par le Centre Social « Saint- Exupéry ».",
+        "problematique": "Ce réel besoin de transport fait suite à une fragil ité des personnes qui participaient à l’action en venant à pied et qui au jourd’hui ne peuvent plus se déplacer seules.",
+        "solution_envisagee": "6 personnes demandent un accompagnement pour le transport aller-retour, soit 204 transports et 8 personnes se déplacent de façon autonome.",
+        "objectifs": "LES OBJECTIFS DU PROJET L’objectif de cette action de prévention est un acc ès à la vie sociale, c’est aussi une activité physique, la création d’un lien social, faire des connaissances et les maintenir et aussi lutter contre l’isolement de s personnes âgées."
+    },
+    "porteur_initiative": "Titre: Repas partagé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-repas-partage.pdf  ---  --- LIEN SOCIAL & SOLIDARITÉ Un transport à la demande a été mis en place par le Centre Social « Saint- Exupéry ».",
+    "date": [
+        "2026",
+        "1022",
+        "2019",
+        "2025",
+        "DEPUIS 2019",
+        "en 2026"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Repas_partage.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Repas_partage.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

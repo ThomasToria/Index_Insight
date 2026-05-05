@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Les aines a l'honneur lors d'un repas",
+    "territoire": "Titre: Les aines a l'honneur lors d'un repas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1091-pe-les-aines-a-l-honneur-lors-d-un-repas.pdf  ---  --- UNE ENVIE DE S’IMPLIQUER Il est de tradition au Trait de préparer annuellement un repas en l'honneur des aînés.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Ces demandes ont donc été prises en comptes avec la volonté de permettre un moment festif, convivial créant du lien social et partagé entre les seniors et les élus et service personnes âgées.",
+    "description": {
+        "description_generale": "Ateliers créatifs avec les seniors pour confectionner la décoration 250 participants au repas Coût total: 18 000 € (fleurs, transport, repas, animation, ateliers de création)  ---  --- UN REPAS CONVIVIAL Les seniors qui participent aux ateliers créatifs se sont dits satisfaits de leur participation active et des temps partagés autour de cette action.",
+        "contexte": "Titre: Les aines a l'honneur lors d'un repas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1091-pe-les-aines-a-l-honneur-lors-d-un-repas.pdf  ---  --- UNE ENVIE DE S’IMPLIQUER Il est de tradition au Trait de préparer annuellement un repas en l'honneur des aînés.",
+        "problematique": "Titre: Les aines a l'honneur lors d'un repas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1091-pe-les-aines-a-l-honneur-lors-d-un-repas.pdf  ---  --- UNE ENVIE DE S’IMPLIQUER Il est de tradition au Trait de préparer annuellement un repas en l'honneur des aînés.",
+        "solution_envisagee": "Une consultation auprès des seniors présents lors d'un café des échanges permet de discuter au sujet de ce temps festif, la thématique et le partage des idées de décoration.",
+        "objectifs": "Des réunions de préparation internes sont mises en place, afin de choisir le traiteur, le menu, les couleurs, le thème de l'artiste ou de la compagnie présent.e, etc."
+    },
+    "porteur_initiative": "Titre: Les aines a l'honneur lors d'un repas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1091-pe-les-aines-a-l-honneur-lors-d-un-repas.pdf  ---  --- UNE ENVIE DE S’IMPLIQUER Il est de tradition au Trait de préparer annuellement un repas en l'honneur des aînés.",
+    "date": [
+        "2025",
+        "1091",
+        "2024",
+        "2023",
+        "depuis 2023",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aines_a_lhonneur_lors_dun_repas.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_aines_a_lhonneur_lors_dun_repas.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

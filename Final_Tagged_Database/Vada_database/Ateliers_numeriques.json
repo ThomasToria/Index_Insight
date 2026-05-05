@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Ateliers numériques",
+    "territoire": "Titre: Ateliers numériques Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Ateliers-numeriques-Maxeville.pdf  ---  --- PUBLIC VISÉ: LES SENIORS MAXÉVILLOIS DE SOIXANTE ANS ET PLUS.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "LES SENIORS MAXÉVILLOIS DE SOIXANTE ANS ET PLUS.\nLors de la démarche de labélisation VADA, certains séniors ont fait part de leur difficulté à utiliser l'outil\nnumérique. Beaucoup ont le matériel à domicile mais ne savent pas l'utiliser (peur de demander aux\nenfants ou petits enfants). La ville a donc souhaité leur proposer des ateliers numériques.\nL’ORIGINE\nDU PROJET",
+    "description": {
+        "description_generale": "Depuis 2024, la ville propose gratuitement aux seni ors de 60 ans et plus, des ateliers numériques.\nPour l’aider dans cette démarche, elle est accompag née d’un conseiller numérique. Les ateliers sont\ndivisés en deux groupes, débutants ou avancés, afin de s’adapter au mieux à tous les publics.\nLIEN SOCIAL ET\nSOLIDARITÉ\nAUTONOMIE,\nSERVICE ET SOINS\nFICHE PARTAGE D’EXPÉRIENCE N°960\nVILLE AMIE DES AÎNÉS DEPUIS 2019 - MAXÉVILLE (54)\nATELIERS NUMÉRIQUES\n1.\nLES OBJECTIFS DU PROJET\nRéduire la fracture numérique notamment auprès des seniors, qui sont parfois\ntrès éloignés des nouvelles technologies.\n2025\nLIEN SOCIAL\n& SOLIDARITÉ\nAUTONOMIE,\nSERVICES & SOINS\n---  ---\nLE SÉQUENÇAGE DU PROJET\nRESSOURCES MOBILISÉES\nLE BUDGET DÉDIÉ\nAU PROJET\nLES COMPÉTENCES MOBILISÉES\nPOUR LE PROJET\nLe projet est financé par la ville, et a un\nbudget d’environ 4000€.\nLe service seniors a déployé de nombreuses\ncompétences logistiques (programmation\nde l'atelier, gestion des inscriptions, prêt de\nsalle), mais aussi d'animation, en aidant le\nconseiller numérique lors de l'atelier.\nLES ÉTAPES\nDU PROJET\nPrise de contact avec un\nconseiller numérique\nTravail sur une programmation\navec des groupes débutants et\ndes groupes avancés\nMise en place des ateliers\nLes ateliers mis en place se\ndéroulent de la façon suivante:\npar groupe de douze, chaque\nsenior s'installe devant un\nordinateur portable. Le conseiller\nnumérique anime l'atelier, en\nadaptant les informations qu'il\ntransmet selon le niveau du\ngroupe.\nÉVALUATION\nDU PROJET\nTous les ateliers sont complets\ndepuis 2 ans (une cinquantaine de\nseniors bénéficiaires).\nLes seniors sont très satisfaits des\nateliers numériques. Certains sont\naujourd'hui autonomes, d'autres\nqui ont commencé en atelier\ndébutant sont passé en atelier\navancé.\nLes ateliers seront pérennisés. De\nplus, certains seniors, trop éloignés\ndu numérique, sont suivis en\nindividuel par le conseiller\nnumérique.\nLES PARTENAIRES\nDU PROJET\nLe conseiller numérique,\nprestataire engagé par la ville,\ns’implique dans la\nprogrammation, prête le matériel,\net anime les ateliers.\nLE PLAN\nDE COMMUNICATION\nCommunication via le journal\nmunicipal et les réseaux\nsociaux de la ville\nDiffusion d'affiches et de flyers",
+        "contexte": "Titre: Ateliers numériques Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Ateliers-numeriques-Maxeville.pdf  ---  --- PUBLIC VISÉ: LES SENIORS MAXÉVILLOIS DE SOIXANTE ANS ET PLUS.",
+        "problematique": "Lors de la démarche de labélisation VADA, certains séniors ont fait part de leur difficulté à utiliser l'outil numérique.",
+        "solution_envisagee": "LES ÉTAPES DU PROJET Prise de contact avec un conseiller numérique Travail sur une programmation avec des groupes débutants et des groupes avancés Mise en place des ateliers Les ateliers mis en place se déroulent de la façon suivante: par groupe de douze, chaque senior s'installe devant un ordinateur portable.",
+        "objectifs": "LES OBJECTIFS DU PROJET Réduire la fracture numérique notamment auprès des seniors, qui sont parfois très éloignés des nouvelles technologies."
+    },
+    "porteur_initiative": "Titre: Ateliers numériques Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Ateliers-numeriques-Maxeville.pdf  ---  --- PUBLIC VISÉ: LES SENIORS MAXÉVILLOIS DE SOIXANTE ANS ET PLUS.",
+    "date": [
+        "2025",
+        "2024",
+        "2019",
+        "4000",
+        "Depuis 2024",
+        "DEPUIS 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_numeriques.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ateliers_numeriques.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.95,
+        "description_generale": 0.95,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: \"Endro nes\" dans la maison de ty bemdez",
+    "territoire": "Titre: \"Endro nes\" dans la maison de ty bemdez Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1110-concours-2024-endro-nes-dans-la-maison-de-ty-bemdez.pdf  ---  --- UNE COLOCATION PARTICULIÈRE Le développement du projet de la Maison de Ty Bemdez est issu de la demande des personnes malades et de leurs proches.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Fiche PARTAGE D'EXPÉRIENCE N°5 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS \"ENDRO NES\" DANS LA MAISON DE TY BEMDEZ Association Ty Bemdez Brest (29) Ville Amie des Aînés depuis 2016 Soutenir les proches aidants dans leur rôle d'aidant au quotidien Prévenir l'épuisement psychologique et physique des aidants Faciliter les relations interpersonnelles entre l'aidant et son proche Prendre le relai des proches en cas d'absence (programmée ou non) Prévenir et accompagner la gestion des conflits Maison de Ty Bemdez: colocation pour 8 personnes atteintes de maladie neurodégénératives; Aide avant emménagement (présentation du projet, aide administrative, aide au déménagement; Aide dans la maison: intervention de professionnels, aide à l'organisation humaine, animations et moments conviviaux,...  ---  --- UNE DYNAMIQUE À ÉVALUER Le projet a débuté en juillet 2023.",
+    "description": {
+        "description_generale": "Fiche PARTAGE D'EXPÉRIENCE N°5 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS \"ENDRO NES\" DANS LA MAISON DE TY BEMDEZ Association Ty Bemdez Brest (29) Ville Amie des Aînés depuis 2016 Soutenir les proches aidants dans leur rôle d'aidant au quotidien Prévenir l'épuisement psychologique et physique des aidants Faciliter les relations interpersonnelles entre l'aidant et son proche Prendre le relai des proches en cas d'absence (programmée ou non) Prévenir et accompagner la gestion des conflits Maison de Ty Bemdez: colocation pour 8 personnes atteintes de maladie neurodégénératives; Aide avant emménagement (présentation du projet, aide administrative, aide au déménagement; Aide dans la maison: intervention de professionnels, aide à l'organisation humaine, animations et moments conviviaux,...  ---  --- UNE DYNAMIQUE À ÉVALUER Le projet a débuté en juillet 2023.",
+        "contexte": "Il a été constaté que la majorité des proches étaient en difficulté dans leur rôle d'aidant et l'association a proposé une aide adaptée à chacun en fonction de leurs besoins. \"Endro nes\" a été formalisé pour continuer l'accompagnement des proches au sein de l'habitat.",
+        "problematique": "Il a été constaté que la majorité des proches étaient en difficulté dans leur rôle d'aidant et l'association a proposé une aide adaptée à chacun en fonction de leurs besoins. \"Endro nes\" a été formalisé pour continuer l'accompagnement des proches au sein de l'habitat.",
+        "solution_envisagee": "Une fois à la Maison, les professionnels adaptent leur accompagnement aux disponibilités et possibilités des aidants et coordonnent la mise en place d'aides humaines pour pallier l'absence d'aidant.",
+        "objectifs": "Les axes suivants ont notamment été identifiés: l'accompagnement administratif et social, l'aide matérielle et logistique (pendant et après le déménagement), faciliter les relations et la participation à la vie de la colocation, et favoriser la communication."
+    },
+    "porteur_initiative": "Titre: \"Endro nes\" dans la maison de ty bemdez Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1110-concours-2024-endro-nes-dans-la-maison-de-ty-bemdez.pdf  ---  --- UNE COLOCATION PARTICULIÈRE Le développement du projet de la Maison de Ty Bemdez est issu de la demande des personnes malades et de leurs proches.",
+    "date": [
+        "juillet 2023",
+        "2025",
+        "1110",
+        "2024",
+        "2016",
+        "2023",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Endro_nes_dans_la_maison_de_ty_bemdez.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Endro_nes_dans_la_maison_de_ty_bemdez.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

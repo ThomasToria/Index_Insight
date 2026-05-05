@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été",
+    "territoire": "Titre: Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/292-pe-lutter-contre-l-isolement.pdf  ---  --- ROMPRE LA SOLITUDE DURANT L‘ÉTÉ Suite à la canicule de 2003, la ville de Caluire et Cuire a décidé de mettre en place une action de prévention dès l’été 2004 pour renforcer son réseau de bénévoles (existant depuis 1985).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/292-pe-lutter-contre-l-isolement.pdf  ---  --- ROMPRE LA SOLITUDE DURANT L‘ÉTÉ Suite à la canicule de 2003, la ville de Caluire et Cuire a décidé de mettre en place une action de prévention dès l’été 2004 pour renforcer son réseau de bénévoles (existant depuis 1985).",
+    "description": {
+        "description_generale": "Coût: Environ 10 000€ par an  ---  --- DES SORTIES COLLECTIVES L’été 2016 est la treizième saison de cette action qui remporte tous les ans un franc succès.",
+        "contexte": "Coût: Environ 10 000€ par an  ---  --- DES SORTIES COLLECTIVES L’été 2016 est la treizième saison de cette action qui remporte tous les ans un franc succès.",
+        "problematique": "TRAVAILLER EN RÉSEAU Comme c’est souvent le cas lorsqu’il s’agit de lutter contre l’isolement des aînés, la principale difficulté est d’atteindre les personnes les plus isolées et non connues des services sociaux.",
+        "solution_envisagee": "Proposer gratuitement aux aînés des visites de courtoisie, des accompagnements et des animations par des agents sociaux (étudiants) durant la période estivale.",
+        "objectifs": "Titre: Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/292-pe-lutter-contre-l-isolement.pdf  ---  --- ROMPRE LA SOLITUDE DURANT L‘ÉTÉ Suite à la canicule de 2003, la ville de Caluire et Cuire a décidé de mettre en place une action de prévention dès l’été 2004 pour renforcer son réseau de bénévoles (existant depuis 1985)."
+    },
+    "porteur_initiative": "Coût: Environ 10 000€ par an  ---  --- DES SORTIES COLLECTIVES L’été 2016 est la treizième saison de cette action qui remporte tous les ans un franc succès.",
+    "date": [
+        "2025",
+        "2003",
+        "2004",
+        "1985",
+        "2016",
+        "2007",
+        "depuis 1985",
+        "depuis 2016",
+        "en 2007"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

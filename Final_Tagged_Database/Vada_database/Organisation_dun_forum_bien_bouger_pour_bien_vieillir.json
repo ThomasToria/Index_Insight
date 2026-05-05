@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Organisation d’un forum « bien bouger pour bien vieillir »",
+    "territoire": "Titre: Organisation d’un forum « bien bouger pour bien vieillir » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/970-concours-2023-organisation-d-un-forum-bien-bouger-pour-bien-vieillir.pdf  ---  --- UN FORUM POUR LA MOBILITÉ Le forum \"Bien bouger pour bien vieillir\" a été reprogrammé pour avril 2023, après avoir été reporté à deux reprises.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Cette initiative découle de la convention de partenariat signée en 2017 entre la Carsat Bretagne/Ville et le CCAS qui visait à promouvoir le bien-vieillir des habitants de Rennes.",
+    "description": {
+        "description_generale": "Ces stands incluaient des informations collectives et individuelles sur les offres, dispositifs existants, aides financières, présentation et essais de moyens individuels de déplacements, ainsi que des propositions de visites ou d'ateliers \"post-forum\".",
+        "contexte": "En effet, ce sont plus de deux cents personnes qui se sont rendus sur place (malgré un contexte de grève des transports).",
+        "problematique": "En effet, le manque d'informations, l'hésitation à demander de l'aide ou de l'appréhension de se sentir stigmatisé en utilisant des aides techniques sont autant de freins à la mobilité chez les personnes âgées.",
+        "solution_envisagee": "Ces ateliers incluent des ateliers \"prévention des chutes\", des ateliers \"remise en selle\" pour reprendre l'usage du vélo, un accompagnement sur un trajet en train, une découverte du métro et une visite d'un équipement culturel.",
+        "objectifs": "Le forum avait ainsi pour objectif d'informer, d'encourager les déplacements et de donner envie de sortir de chez soi."
+    },
+    "porteur_initiative": "Les participants ont aussi pu découvrir l'exposition de photos intitulée \"Sortir, c'est le pied!\" qui a été réalisée à l'initiative de la Ville et présentée dans divers lieux depuis 2022.",
+    "date": [
+        "avril",
+        "avril 2023",
+        "2025",
+        "2023",
+        "2017",
+        "2018",
+        "2022",
+        "2012",
+        "Depuis 2018",
+        "depuis 2022",
+        "depuis 2012",
+        "en 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Organisation_dun_forum_bien_bouger_pour_bien_vieillir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Organisation_dun_forum_bien_bouger_pour_bien_vieillir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.65,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

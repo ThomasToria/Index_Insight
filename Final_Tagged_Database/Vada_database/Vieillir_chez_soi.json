@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Vieillir chez soi",
+    "territoire": "Si les résultats du projet sont probants, la méthodologie « Vieillir chez soi » de Pro Senectute Vaud pourrait être appliquée à d’autres quartiers de la ville de Lausanne ou à d’autres communes vaudoises.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Vieillir chez soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/651-pe-519-vieillir-chez-soi-pro-senectute-vaud-1.pdf  ---  --- ADAPTER LES LOGEMENTS 95% des seniors vivent à domicile et souhaitent rester vivre et vieillir chez eux.",
+    "description": {
+        "description_generale": "L’initiative a été permise grâce au financement conjoint de la Confédération, la Ville de Lausanne (qui a aussi participé à la gestion du projet avec l’association Pro Senectute Vaud) et par des recherches de fonds auprès de diverses fondations et associations.",
+        "contexte": "Face à ce constat, la Ville de Lausanne en partenariat avec quelques propriétaires et l’association Pro Senectute Vaud a mis en place un projet visant à promouvoir des appartements adaptés à prix modérés dans le cadre de la démolition et reconstruction de bâtiments vétustes.",
+        "problematique": "Identifier les besoins des seniors pour vieillir à domicile ou dans leur quartier en allant à leur rencontre.",
+        "solution_envisagee": "Favoriser le lien social grâce à la mise en place d’activités choisies par les seniors.",
+        "objectifs": "Cette démarche a pour objectif de développer une politique du logement senior à l’échelle de la partie ouest du quartier Sous-Gare à Lausanne."
+    },
+    "porteur_initiative": "Titre: Vieillir chez soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/651-pe-519-vieillir-chez-soi-pro-senectute-vaud-1.pdf  ---  --- ADAPTER LES LOGEMENTS 95% des seniors vivent à domicile et souhaitent rester vivre et vieillir chez eux.",
+    "date": [
+        "2025",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vieillir_chez_soi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Vieillir_chez_soi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

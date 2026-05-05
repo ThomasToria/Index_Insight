@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Prendre soin de soi",
+    "territoire": "Titre: Prendre soin de soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/959-concours-2023-prendre-soin-de-soi.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE JOURNÉE POUR LE BIEN VIEILLIR Nous vivons de plus en plus longtemps.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "C'est pourquoi le CCAS de Château Thierry a décidé de mettre en place le premier mardi de chaque mois, une journée à thème proposée au public seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Château Thierry, vous avez mi s en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com L'association Ambre propose ensuite des massage assis.",
+        "contexte": "Malheureusement, force est de constater que les aînés sont victimes de plusieurs maux, même lorsqu’ils adoptent une excellente hygiène de vie.",
+        "problematique": "L’enjeu n’est plus de repousser sans cesse les limites de l’âge, mais plutôt de bien vieillir en restant en bonne santé.",
+        "solution_envisagee": "Si, comme la Ville de Château Thierry, vous avez mi s en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com L'association Ambre propose ensuite des massage assis.",
+        "objectifs": "Il sera remis un questionnaire rapide de 5 questions afin de savoir si les objectifs ont été atteints et d'appréhender les attentes du public."
+    },
+    "porteur_initiative": "Titre: Prendre soin de soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/959-concours-2023-prendre-soin-de-soi.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE JOURNÉE POUR LE BIEN VIEILLIR Nous vivons de plus en plus longtemps.",
+    "date": [
+        "5 septembre 2023",
+        "septembre 2023",
+        "2025",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prendre_soin_de_soi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Prendre_soin_de_soi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Se déplacer en transports en commun",
+    "territoire": "Titre: Se déplacer en transports en commun Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1067-concours-2024-se-deplacer-en-transports-en-commun.pdf  ---  --- ENCOURAGER LES AÎNÉS À UTILISER LES TRANSPORTS EN COMMUN Le maintien de l’autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Fiche PARTAGE D'EXPÉRIENCE N°25-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS SE DÉPLACER EN TRANSPORTS EN COMMUN Maintenir l’autonomie des personnes âgées Permettre aux seniors de mieux connaître les transports en commun Se sentir en confiance et en sécurité dans les transports en commun Susciter l’envie de se déplacer en transports en commun Partenaire adapté aux besoins: association Wimoov Programme des interventions: Deux ateliers, un théorique, un pratique, dans chaque résidence autonomie Atelier théorique animé par Wimoov, avec deux médiateurs du réseau Fil Bleu Atelier pratique: mise en situation pour aller à un lieu culturel Ville de Tours Ville Amie des Aînés depuis 2019 Tours (37)  ---  --- REPRENDRE CONFIANCE Sur chaque résidence, le taux de participation à l'atelier théorique a été assez élevé, soit environ 10 à 15 personnes.",
+    "description": {
+        "description_generale": "DEUX ATELIERS PAR RÉSIDENCE La mise en oeuvre du projet a débuté avec la recherche de partenaires proposant des ateliers correspondants aux besoins de l'action.",
+        "contexte": "Titre: Se déplacer en transports en commun Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1067-concours-2024-se-deplacer-en-transports-en-commun.pdf  ---  --- ENCOURAGER LES AÎNÉS À UTILISER LES TRANSPORTS EN COMMUN Le maintien de l’autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028.",
+        "problematique": "Dans un deuxième temps, les résidents ont pu exprimer les problématiques rencontrées lors de leur déplacement en transports en commun, tels que les difficultés à monter et à descendre ou le fait que certains chauffeurs n'attendent pas que les seniors soient assis pour démarrer.",
+        "solution_envisagee": "Le choix s'est arrêté sur l'association Wimoov, professionnel dans le domaine de la mobilité, spécialisé dans l'accompagnement du public senior.",
+        "objectifs": "Titre: Se déplacer en transports en commun Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1067-concours-2024-se-deplacer-en-transports-en-commun.pdf  ---  --- ENCOURAGER LES AÎNÉS À UTILISER LES TRANSPORTS EN COMMUN Le maintien de l’autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028."
+    },
+    "porteur_initiative": "Fiche PARTAGE D'EXPÉRIENCE N°25-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS SE DÉPLACER EN TRANSPORTS EN COMMUN Maintenir l’autonomie des personnes âgées Permettre aux seniors de mieux connaître les transports en commun Se sentir en confiance et en sécurité dans les transports en commun Susciter l’envie de se déplacer en transports en commun Partenaire adapté aux besoins: association Wimoov Programme des interventions: Deux ateliers, un théorique, un pratique, dans chaque résidence autonomie Atelier théorique animé par Wimoov, avec deux médiateurs du réseau Fil Bleu Atelier pratique: mise en situation pour aller à un lieu culturel Ville de Tours Ville Amie des Aînés depuis 2019 Tours (37)  ---  --- REPRENDRE CONFIANCE Sur chaque résidence, le taux de participation à l'atelier théorique a été assez élevé, soit environ 10 à 15 personnes.",
+    "date": [
+        "2025",
+        "1067",
+        "2024",
+        "2028",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_en_transports_en_commun.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Se_deplacer_en_transports_en_commun.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

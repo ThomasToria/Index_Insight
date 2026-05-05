@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: La résidence Boréa: des appartements regroupés avec services partagés",
+    "territoire": "Si, comme la Ville de Romans-sur-Isère, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN LIEU D'IMPLANTATION STRATÉGIQUE Vingt-quatre logements ont été créés à Romans dans le cadre de ce projet.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En effet, le diagnostic territorial réalisé en 2011 souligne que la proportion des personnes âgées de plus de 60 ans est supérieure à 25 % et que les projections pour les années 2013 et 2020 font apparaître des pourcentages respectifs de 28.6 et 32.1.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Romans-sur-Isère, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN LIEU D'IMPLANTATION STRATÉGIQUE Vingt-quatre logements ont été créés à Romans dans le cadre de ce projet.",
+        "contexte": "En effet, le diagnostic territorial réalisé en 2011 souligne que la proportion des personnes âgées de plus de 60 ans est supérieure à 25 % et que les projections pour les années 2013 et 2020 font apparaître des pourcentages respectifs de 28.6 et 32.1.",
+        "problematique": "LA RÉSIDENCE BORÉA: DES APPARTEMENTS REGROUPÉS AVEC SERVICES PARTAGÉS Fiche PARTAGE D'EXPÉRIENCE N°199 Villes Amies des Aînés en France Romans-sur-Isère Ville Amie des Aînés depuis 2015 Romans-sur-Isère (26) Publiée le 25.11.2015 Proposer un type d’habitat alternatif entre le domicile et l’établissement à des retraités autonomes; Lutter contre l’isolement; Favoriser le maintien d’un lien social.",
+        "solution_envisagee": "Créer une résidence de 24 logements autonomes dans un lieu stratégique (à proximité de services, en cœur de ville…); Proposer un certain nombre de services gratuits ou payants à destination des locataires.  ---  --- LA RÉSIDENCE BORÉA: UNE RÉPONSE INNOVANTE ET ADAPTÉE La Résidence Boréa est un ensemble d’appartements regroupés aux normes BBC, avec services partagés pour personnes âgées autonomes qui a été implanté sur le site de la « Villa BOREA ».",
+        "objectifs": "LA RÉSIDENCE BORÉA: DES APPARTEMENTS REGROUPÉS AVEC SERVICES PARTAGÉS Fiche PARTAGE D'EXPÉRIENCE N°199 Villes Amies des Aînés en France Romans-sur-Isère Ville Amie des Aînés depuis 2015 Romans-sur-Isère (26) Publiée le 25.11.2015 Proposer un type d’habitat alternatif entre le domicile et l’établissement à des retraités autonomes; Lutter contre l’isolement; Favoriser le maintien d’un lien social."
+    },
+    "porteur_initiative": "LA RÉSIDENCE BORÉA: DES APPARTEMENTS REGROUPÉS AVEC SERVICES PARTAGÉS Fiche PARTAGE D'EXPÉRIENCE N°199 Villes Amies des Aînés en France Romans-sur-Isère Ville Amie des Aînés depuis 2015 Romans-sur-Isère (26) Publiée le 25.11.2015 Proposer un type d’habitat alternatif entre le domicile et l’établissement à des retraités autonomes; Lutter contre l’isolement; Favoriser le maintien d’un lien social.",
+    "date": [
+        "2025",
+        "2011",
+        "2013",
+        "2020",
+        "2015",
+        "depuis 2015",
+        "en 2011",
+        "en 2013",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_residence_Borea_des_appartements_regroupes_avec_services_partages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

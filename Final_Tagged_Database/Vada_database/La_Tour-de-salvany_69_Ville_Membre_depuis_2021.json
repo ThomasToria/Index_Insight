@@ -1,0 +1,40 @@
+{
+    "titre": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021",
+    "territoire": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+    "description": {
+        "description_generale": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+        "contexte": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+        "problematique": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+        "solution_envisagee": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+        "objectifs": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf"
+    },
+    "porteur_initiative": "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf",
+    "date": [
+        "2021",
+        "2025",
+        "depuis 2021"
+    ],
+    "thematique": [],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Tour-de-salvany_69_Ville_Membre_depuis_2021.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_Tour-de-salvany_69_Ville_Membre_depuis_2021.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.25,
+        "description_generale": 0.25,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.0,
+        "source_site": 0.95
+    }
+}

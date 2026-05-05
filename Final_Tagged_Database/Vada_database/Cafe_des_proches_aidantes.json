@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Café des proches aidant.e.s",
+    "territoire": "Titre: Café des proches aidant.e.s Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1096-concours-2024-cafe-des-proches-aidant-e-s-1.pdf  ---  --- UN ENGAGEMENT DE LONGUE DATE Le Service social s’est engagé dans le soutien aux proches aidant.e.s dès 2004, à travers un projet développé par l’Unité d'action communautaire (UAC) des Eaux-Vives, et déployé sur deux axes: le soutien aux proches aidant.e.s, notamment par la création du “Café des aidant.e.s”, et la sensibilisation du public, des professionnel.le.s et des élu.e.s politiques par le biais d’un cycle de conférences.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Café des proches aidant.e.s Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1096-concours-2024-cafe-des-proches-aidant-e-s-1.pdf  ---  --- UN ENGAGEMENT DE LONGUE DATE Le Service social s’est engagé dans le soutien aux proches aidant.e.s dès 2004, à travers un projet développé par l’Unité d'action communautaire (UAC) des Eaux-Vives, et déployé sur deux axes: le soutien aux proches aidant.e.s, notamment par la création du “Café des aidant.e.s”, et la sensibilisation du public, des professionnel.le.s et des élu.e.s politiques par le biais d’un cycle de conférences.",
+    "description": {
+        "description_generale": "Titre: Café des proches aidant.e.s Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1096-concours-2024-cafe-des-proches-aidant-e-s-1.pdf  ---  --- UN ENGAGEMENT DE LONGUE DATE Le Service social s’est engagé dans le soutien aux proches aidant.e.s dès 2004, à travers un projet développé par l’Unité d'action communautaire (UAC) des Eaux-Vives, et déployé sur deux axes: le soutien aux proches aidant.e.s, notamment par la création du “Café des aidant.e.s”, et la sensibilisation du public, des professionnel.le.s et des élu.e.s politiques par le biais d’un cycle de conférences.",
+        "contexte": "Titre: Café des proches aidant.e.s Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1096-concours-2024-cafe-des-proches-aidant-e-s-1.pdf  ---  --- UN ENGAGEMENT DE LONGUE DATE Le Service social s’est engagé dans le soutien aux proches aidant.e.s dès 2004, à travers un projet développé par l’Unité d'action communautaire (UAC) des Eaux-Vives, et déployé sur deux axes: le soutien aux proches aidant.e.s, notamment par la création du “Café des aidant.e.s”, et la sensibilisation du public, des professionnel.le.s et des élu.e.s politiques par le biais d’un cycle de conférences.",
+        "problematique": "CAFÉS MENSUELS Organisé sous la forme d’un groupe de parole, le “Café des aidant.e.s” est ouvert à toutes personnes vivant une situation d’aidant qui ressentent le besoin ou l’envie de partager leurs expériences et leurs difficultés.",
+        "solution_envisagee": "Les participant.e.s peuvent ensuite proposer des situations concrètes les touchant, et le groupe choisi une situation ou deux qui sera discutée.",
+        "objectifs": "Une sujet différent est choisi pour chacune des dates afin de lancer la discussion et faire émerger les interventions."
+    },
+    "porteur_initiative": "Dans la suite logique de cette collaboration, le “Café des aidant.e.s”, tout d’abord mis en place par l’UAC des Eaux-Vives dans son quartier, s’est vu transféré à Cité Seniors en 2009.",
+    "date": [
+        "2025",
+        "1096",
+        "2024",
+        "2004",
+        "2009",
+        "2012",
+        "depuis 2004",
+        "depuis 2012",
+        "en 2009"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafe_des_proches_aidantes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cafe_des_proches_aidantes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

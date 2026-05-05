@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Guide des seniors à Belfort",
+    "territoire": "Titre: Guide des seniors à Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1083-pe-guide-des-seniors-a-belfort-3.pdf  ---  --- UN BESOIN MIS EN ÉVIDENCE Dans le cadre de la démarche VADA, la Ville de Belfort a réalisé un diagnostic participatif qui a mis en évidence la nécessité de créer un guide d'informations dédié aux seniors.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Ce document a pour vocation de recenser les activités et prestations proposées par la Mairie ou ses partenaires qui s’investissent au quotidien pour que Belfort soit une ville toujours plus accueillante et bienveillante à l’égard des seniors, des aidants et de leurs familles.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Belfort, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Guide des seniors à Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1083-pe-guide-des-seniors-a-belfort-3.pdf  ---  --- UN BESOIN MIS EN ÉVIDENCE Dans le cadre de la démarche VADA, la Ville de Belfort a réalisé un diagnostic participatif qui a mis en évidence la nécessité de créer un guide d'informations dédié aux seniors.",
+        "problematique": "Titre: Guide des seniors à Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1083-pe-guide-des-seniors-a-belfort-3.pdf  ---  --- UN BESOIN MIS EN ÉVIDENCE Dans le cadre de la démarche VADA, la Ville de Belfort a réalisé un diagnostic participatif qui a mis en évidence la nécessité de créer un guide d'informations dédié aux seniors.",
+        "solution_envisagee": "Titre: Guide des seniors à Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1083-pe-guide-des-seniors-a-belfort-3.pdf  ---  --- UN BESOIN MIS EN ÉVIDENCE Dans le cadre de la démarche VADA, la Ville de Belfort a réalisé un diagnostic participatif qui a mis en évidence la nécessité de créer un guide d'informations dédié aux seniors.",
+        "objectifs": "Titre: Guide des seniors à Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1083-pe-guide-des-seniors-a-belfort-3.pdf  ---  --- UN BESOIN MIS EN ÉVIDENCE Dans le cadre de la démarche VADA, la Ville de Belfort a réalisé un diagnostic participatif qui a mis en évidence la nécessité de créer un guide d'informations dédié aux seniors."
+    },
+    "porteur_initiative": "Titre: Guide des seniors à Belfort Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1083-pe-guide-des-seniors-a-belfort-3.pdf  ---  --- UN BESOIN MIS EN ÉVIDENCE Dans le cadre de la démarche VADA, la Ville de Belfort a réalisé un diagnostic participatif qui a mis en évidence la nécessité de créer un guide d'informations dédié aux seniors.",
+    "date": [
+        "juin 2023",
+        "janvier 2025",
+        "2025",
+        "1083",
+        "2023",
+        "2018",
+        "3300",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_seniors_a_Belfort.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Guide_des_seniors_a_Belfort.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

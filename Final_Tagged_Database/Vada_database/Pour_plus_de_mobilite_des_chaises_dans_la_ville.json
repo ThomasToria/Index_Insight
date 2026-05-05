@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Pour plus de mobilité, des chaises dans la ville",
+    "territoire": "Titre: Pour plus de mobilité, des chaises dans la ville Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/416-pe-des-cahises-dans-la-ville.pdf  ---  --- UN CONSEIL DES SENIORS ACTIF La commune de Saint-Germain-au-Mont-d’Or s’est engagée en 2016 dans la démarche Ville Amie des Aînés en commençant par créer un Conseil des seniors.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Constitué d’une quinzaine de personnes, celui-ci a d’abord établi un premier état des lieux sur la propension de la collectivité à accueillir et faire vivre agréablement sur son territoire les publics seniors.",
+    "description": {
+        "description_generale": "Parmi les actions menées, un groupe a réalisé un diagnostic en marchant qui a permis d’identifier sur le territoire communal les contraintes sur les principaux cheminements piétonniers: les trottoirs étroits ou dégradés, l’implantation des bancs et les absences notables de ces lieux de pause, les traversées de chaussée inadaptées, etc.",
+        "contexte": "Parmi les actions menées, un groupe a réalisé un diagnostic en marchant qui a permis d’identifier sur le territoire communal les contraintes sur les principaux cheminements piétonniers: les trottoirs étroits ou dégradés, l’implantation des bancs et les absences notables de ces lieux de pause, les traversées de chaussée inadaptées, etc.",
+        "problematique": "Cet état des lieux a porté sur de nombreux domaines: urbanisme, logement, loisirs, lutte contre l’isolement, prévention de la dépendance, etc.",
+        "solution_envisagee": "Cette action a pu être mise en place grâce à la coordination de différents acteurs: le conseil des seniors qui organise le diagnostic, l’adjoint aux travaux qui est responsable de l’analyse technique et la Métropole de Lyon qui a la compétence en matière d’installation des bancs.",
+        "objectifs": "UN DIAGNOSTIC ORIGINAL A la suite de la réunion du Conseil des seniors, des seniors volontaires du territoire ont été mobilisés afin de parcourir la ville et ses cheminements piétonniers dans le but d’identifier les bons points du territoires mais aussi les voies d’amélioration."
+    },
+    "porteur_initiative": "Titre: Pour plus de mobilité, des chaises dans la ville Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/416-pe-des-cahises-dans-la-ville.pdf  ---  --- UN CONSEIL DES SENIORS ACTIF La commune de Saint-Germain-au-Mont-d’Or s’est engagée en 2016 dans la démarche Ville Amie des Aînés en commençant par créer un Conseil des seniors.",
+    "date": [
+        "2025",
+        "2016",
+        "depuis 2016",
+        "en 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pour_plus_de_mobilite_des_chaises_dans_la_ville.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Pour_plus_de_mobilite_des_chaises_dans_la_ville.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

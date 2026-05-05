@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Des seniors aménagent leur espace de vie",
+    "territoire": "Titre: Des seniors aménagent leur espace de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1037-pe-des-seniors-amenagent-leur-espace-de-vie.pdf  ---  --- AMÉNAGER LES EXTÉRIEURS Deux résidences autonomie seniors de Caen fêtaient leurs 50 ans en 2023.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "DES SENIORS AMÉNAGENT LEUR ESPACE DE VIE Fiche PARTAGE D'EXPÉRIENCE N°XXX Villes Amies des Aînés en France CCAS de Caen Ville Amie des Aînés depuis 2021 Caen (14) Associer les résidents à l’amélioration de leur cadre de vie.",
+    "description": {
+        "description_generale": "À l’issue du projet, la majorité des résidents ont exprimé leur satisfaction quant au fonctionnement des ateliers et ont souhaité prolonger ces interventions.",
+        "contexte": "Ce constat a été renforcé pendant la période de confinement et les contraintes de distanciation sociale.",
+        "problematique": "Plusieurs rencontres ont été organisées pour permettre aux résidents de s’exprimer sur leurs besoins et leurs attentes autour de cet événement.",
+        "solution_envisagee": "Titre: Des seniors aménagent leur espace de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1037-pe-des-seniors-amenagent-leur-espace-de-vie.pdf  ---  --- AMÉNAGER LES EXTÉRIEURS Deux résidences autonomie seniors de Caen fêtaient leurs 50 ans en 2023.",
+        "objectifs": "Ouvrir la résidence vers le quartier et les acteurs locaux pour renforcer le partenariat."
+    },
+    "porteur_initiative": "Titre: Des seniors aménagent leur espace de vie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1037-pe-des-seniors-amenagent-leur-espace-de-vie.pdf  ---  --- AMÉNAGER LES EXTÉRIEURS Deux résidences autonomie seniors de Caen fêtaient leurs 50 ans en 2023.",
+    "date": [
+        "janvier 2023",
+        "2025",
+        "1037",
+        "2023",
+        "2021",
+        "6000",
+        "depuis 2021",
+        "en 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_amenagent_leur_espace_de_vie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_seniors_amenagent_leur_espace_de_vie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

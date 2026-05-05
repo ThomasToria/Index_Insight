@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Lien social et solidarité",
+    "territoire": "Titre: Lien social et solidarité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/286-copie-de-pe-fiche-vierge.pdf  ---  --- CRÉER DES RENCONTRES INTERGÉNÉRATIONNELLES Suite à un questionnaire transmis à l’ensemble des aînés de la commune de Meaulne, il en est ressorti un intérêt tout particulier pour la création d’activités intergénérationnelles.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Trouver un projet intergénérationnel à mettre en place et communiquer auprès des écoliers et des personnes âgées.",
+    "description": {
+        "description_generale": "Coût: Budget consacré à la commune dans le cadre de la démarche Villes Amies des Aînés (3000€)  ---  --- PROJETS À VENIR Les retours par le bouche à oreille lors de conversations sur le marché, au petit commerce de la commune ainsi qu’à la boulangerie témoignent d’une grande satisfaction autour des rencontres intergénérationnelles.",
+        "contexte": "Titre: Lien social et solidarité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/286-copie-de-pe-fiche-vierge.pdf  ---  --- CRÉER DES RENCONTRES INTERGÉNÉRATIONNELLES Suite à un questionnaire transmis à l’ensemble des aînés de la commune de Meaulne, il en est ressorti un intérêt tout particulier pour la création d’activités intergénérationnelles.",
+        "problematique": "Les aînés ressentaient le besoin de partager et transmettre leur vécu, leurs expériences et leurs passions.",
+        "solution_envisagee": "Les associations meaulnoises se joignent également pour proposer diverses activités.",
+        "objectifs": "C’est ainsi que c’est développer une dynamique de développement autour de la mixité des âges articulée avec une mixité sociale et professionnelle sur le territoire de Meaulne."
+    },
+    "porteur_initiative": "Titre: Lien social et solidarité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/286-copie-de-pe-fiche-vierge.pdf  ---  --- CRÉER DES RENCONTRES INTERGÉNÉRATIONNELLES Suite à un questionnaire transmis à l’ensemble des aînés de la commune de Meaulne, il en est ressorti un intérêt tout particulier pour la création d’activités intergénérationnelles.",
+    "date": [
+        "13 décembre 2016",
+        "septembre 2015",
+        "décembre 2016",
+        "2025",
+        "2015",
+        "2014",
+        "3000",
+        "2016",
+        "2017",
+        "depuis 2014"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lien_social_et_solidarite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Lien_social_et_solidarite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

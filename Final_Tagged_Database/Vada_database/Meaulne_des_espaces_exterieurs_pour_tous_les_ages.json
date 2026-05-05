@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Meaulne: des espaces extérieurs pour tous les âges",
+    "territoire": "Coût: environ 10 000 euros pour les travaux d’aménagement.  ---  --- DES RETOURS POSITIFS Des affichages dans les lieux accueillant du public (médecin, pharmacien, dentiste et autres commerces) mais aussi le relais apporté par les réunions de quartier ou le site internet de la Commune ont permis une large diffusion de l’information.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Meaulne: des espaces extérieurs pour tous les âges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/205-pe-meaulne-des-espaces-exterieurs-pour-tous-les-ages-mise-en-forme-2023.pdf  ---  --- LA VOLONTÉ D’ÉCOUTER LES AINÉS Les personnes âgées de la commune de Meaulne, environ 150, ont été répertoriées puis interrogées grâce à un questionnaire.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Meaulne-Vitray, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Meaulne: des espaces extérieurs pour tous les âges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/205-pe-meaulne-des-espaces-exterieurs-pour-tous-les-ages-mise-en-forme-2023.pdf  ---  --- LA VOLONTÉ D’ÉCOUTER LES AINÉS Les personnes âgées de la commune de Meaulne, environ 150, ont été répertoriées puis interrogées grâce à un questionnaire.",
+        "problematique": "La volonté d’améliorer le quotidien des aînés et de préparer l’avenir pour le vieillissement de la population dans leur environnement quotidien, a motivé les élus à trouver des solutions aux problèmes qu’ils ont rencontrés.",
+        "solution_envisagee": "DES AMÉNAGEMENTS QUI VONT PROFITER À TOUS Lors de cette première réunion publique, une demande a été formulée pour réaménager le cimetière: un nouvel accès dans sa partie haute, des places de parking supplémentaires et réservées aux aînés, l’aménagement d’un espace de repos (installation de bancs) ou la mise en place d’une arrivée d’eau près de l’entrée.",
+        "objectifs": "Afin de compléter l’évaluation de ce document, les réunions publiques sur le thème de la « Marguerite », représentant les 8 thématiques de la démarche Villes Amies des Aînés, ont débuté en Décembre 2015."
+    },
+    "porteur_initiative": "Coût: environ 10 000 euros pour les travaux d’aménagement.  ---  --- DES RETOURS POSITIFS Des affichages dans les lieux accueillant du public (médecin, pharmacien, dentiste et autres commerces) mais aussi le relais apporté par les réunions de quartier ou le site internet de la Commune ont permis une large diffusion de l’information.",
+    "date": [
+        "Décembre 2015",
+        "2025",
+        "2023",
+        "2015",
+        "2014",
+        "depuis 2014"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Meaulne_des_espaces_exterieurs_pour_tous_les_ages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Meaulne_des_espaces_exterieurs_pour_tous_les_ages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

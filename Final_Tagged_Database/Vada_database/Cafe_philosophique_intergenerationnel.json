@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Café philosophique intergénérationnel",
+    "territoire": "A l'issue de l'état des lieux du territoire, dans le cadre de la démarche Villes Amies des Aînés, est ressorti l'envie des aînés d'avoir plus de partage intergénérationnel et de transmettre aux plus jeunes tout en ayant une meilleure clé de lecture de la vision de la société actuelle par ces derniers.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Participants: enfants du centre de loisir, seniors en résidence autonomie, seniors de la ville.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Clamart, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Café philosophique intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/910-concours-2023-cafe-philosophique-intergenerationnel.pdf  ---  --- UNE VOLONTÉ DE PARTAGE Les \"cafés philo\" à destination des aînés existent sur la ville de Clamart depuis plusieurs années.",
+        "problematique": "Ces résultats sont encourageants pour la suite du projet, et permettront d'adapter au besoin la réponse aux attentes des participants pour les séances à venir.",
+        "solution_envisagee": "Une communication régulière sur le projet a été mise en place, avec une diffusion mensuelle dans la newsletter du CCAS, un article dans le journal de la ville et un relai sur les réseaux sociaux de la ville.",
+        "objectifs": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS CAFÉ PHILOSOPHIQUE INTERGÉNÉRATIONNEL Fiche PARTAGE D'EXPÉRIENCE N°774 Villes Amies des Aînés en France CCAS de Clamart Ville Amie des Aînés depuis 2022 Clamart (92) Permettre de s’exprimer sur des sujets existentiels."
+    },
+    "porteur_initiative": "Titre: Café philosophique intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/910-concours-2023-cafe-philosophique-intergenerationnel.pdf  ---  --- UNE VOLONTÉ DE PARTAGE Les \"cafés philo\" à destination des aînés existent sur la ville de Clamart depuis plusieurs années.",
+    "date": [
+        "Juin 2023",
+        "Mai 2023",
+        "2025",
+        "2023",
+        "2022",
+        "depuis 2022",
+        "en 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafe_philosophique_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cafe_philosophique_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Défilé de mode intergénérationnel",
+    "territoire": "Titre: Défilé de mode intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/850-pe-defile-de-mode-intergenerationnel.pdf  ---  --- METTRE LES AINÉS SOUS LE FEU DES PROJECTEURS À Brest, l'idée d'organiser un défilé intergénérationnel a germé suite à une autre une action sur l'estime de soi qui s'est déroulée en 2016/2017 qui consistait à proposer une série d'ateliers portant sur l'image de soi avec l'avancée en âge.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Le public et les partenaires institutionnels ont été mobilisés et des rencontres entre seniors et étudiants furent organisées afin de trouver les candidats volontaires.",
+    "description": {
+        "description_generale": "Regarder le reportage vidéo: La mode à tout âge, un défilé intergénérationnel. - YouTube Si, comme la Ville de Brest, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Mise en binôme de seniors et lycéens; Constitution de divers partenariats locaux (commerçants, spécialistes, étudiants); Préparation: essayages, répétitions, mise en scène; Défilé.  ---  --- UN SUCCÈS À TOUT POINT DE VUE Ce défilé intergénérationnel a eu une certaine couverture médiatique, grâce notamment à une conférence de presse et aux réseaux sociaux de l'ORB.",
+        "problematique": "Mise en binôme de seniors et lycéens; Constitution de divers partenariats locaux (commerçants, spécialistes, étudiants); Préparation: essayages, répétitions, mise en scène; Défilé.  ---  --- UN SUCCÈS À TOUT POINT DE VUE Ce défilé intergénérationnel a eu une certaine couverture médiatique, grâce notamment à une conférence de presse et aux réseaux sociaux de l'ORB.",
+        "solution_envisagee": "Titre: Défilé de mode intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/850-pe-defile-de-mode-intergenerationnel.pdf  ---  --- METTRE LES AINÉS SOUS LE FEU DES PROJECTEURS À Brest, l'idée d'organiser un défilé intergénérationnel a germé suite à une autre une action sur l'estime de soi qui s'est déroulée en 2016/2017 qui consistait à proposer une série d'ateliers portant sur l'image de soi avec l'avancée en âge.",
+        "objectifs": "Le public et les partenaires institutionnels ont été mobilisés et des rencontres entre seniors et étudiants furent organisées afin de trouver les candidats volontaires."
+    },
+    "porteur_initiative": "Mise en binôme de seniors et lycéens; Constitution de divers partenariats locaux (commerçants, spécialistes, étudiants); Préparation: essayages, répétitions, mise en scène; Défilé.  ---  --- UN SUCCÈS À TOUT POINT DE VUE Ce défilé intergénérationnel a eu une certaine couverture médiatique, grâce notamment à une conférence de presse et aux réseaux sociaux de l'ORB.",
+    "date": [
+        "2025",
+        "2016",
+        "2017",
+        "2018",
+        "depuis 2016",
+        "en 2016",
+        "en 2018"
+    ],
+    "thematique": [
+        "vieillissement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Defile_de_mode_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.25,
+        "source_site": 0.95
+    }
+}

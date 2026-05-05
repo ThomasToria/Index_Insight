@@ -1,0 +1,44 @@
+{
+    "titre": "---  ---",
+    "territoire": "Où et quand? - Dans le centre d’Ostricourt, sur les zones bleues et les places ou rues nouvellement mises en sens unique (places de l'Estrée et Albert Thomas, les rues Florent Evrard, Saint Venant, Léon Blum et Jean Jaurès). (Voir schéma 1 pour avoir un aperçu des lieux). - Dès que possible.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Constats: - Les voitures mal garées peuvent empêcher les piétons, les personnes âgées ou en fauteuil, les personnes avec des poussettes, de se déplacer à pied au centre et sur les trottoirs d’Ostricourt.",
+    "description": {
+        "description_generale": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°2: Amélioration des conditions de stationnement et de circulation à Ostricourt Quoi?",
+        "contexte": "Constats: - Les voitures mal garées peuvent empêcher les piétons, les personnes âgées ou en fauteuil, les personnes avec des poussettes, de se déplacer à pied au centre et sur les trottoirs d’Ostricourt.",
+        "problematique": "Or, personne ne passe pour constater, sensibiliser ou sanctionner. - Ce problème est alimenté par: o Un manque de civisme des personnes qui se garent mal, qui n’ont peut - être pas conscience des conséquences, ou qui peut-être s’en fichent.",
+        "solution_envisagee": "Solutions proposées: - Sensibilisation sur le stationnement gênant par un article dans le journal, et dans chaque bulletin municipal. - Dans certaines zones bleues, réserver des emplacements pour les entreprises ou commerces en envisageant un macaron spécial qui sera apposé sur le ---  --- véhicule par l'entreprise le cas échéant, - Avant d’envisager de sanctionner, a ttribuer la tâche de sensibilisation à quelqu’un qui soit reconnu ou déjà assermenté.",
+        "objectifs": "Objectifs et moyens: - Sensibiliser chacun aux différents usages de la voirie. - Améliorer les conditions de stationnement et limiter le stationnement gênant en agissant sur ces diverses pistes. - Utiliser éventuellement la vidéo surveillance à certains endroits."
+    },
+    "porteur_initiative": "---  --- Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024) Fiche-action n°2: Amélioration des conditions de stationnement et de circulation à Ostricourt Quoi?",
+    "date": [
+        "10 avril 2024",
+        "avril 2024",
+        "2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction2_Ostricourt_VF.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FicheAction2_Ostricourt_VF.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "titre": "Organisation et pratiques du « médico-social ». Un réseau de recherches transversal aux catégories, aux acteurs, aux disciplines, à l’Europe",
+    "territoire": "Premier point, la recherche s’est structurée, en France, mais aussi à l’étranger, autour de catégories de populations: recherches sur le handicap, recherches sur les personnes âgées, recherches en santé mentale.",
+    "echelle": [
+        "internationale"
+    ],
+    "public_vise": "Premier point, la recherche s’est structurée, en France, mais aussi à l’étranger, autour de catégories de populations: recherches sur le handicap, recherches sur les personnes âgées, recherches en santé mentale.",
+    "description": {
+        "description_generale": "Un réseau de recherches transversal aux catégories, aux acteurs, aux disciplines, à l’Europe - IReSP L’IReSP L’institut Missions Organisation Les instances Équipe Actualités Contact Thématiques Addictions Autonomie, grand âge et handicap Services, interventions et politiques favorables à la santé Programme Antiépileptiques MESSIDORE Portail des études en santé Financements Les financements à L’IResp Programmes et appels Procédure d’évaluation Programme Addictions Programme Antiépileptiques Programme Autonomie, grand âge et handicap Programme MESSIDORE Programme Services, interventions et politiques favorables à la santé Appel à projets clos Subventions hors appels à projets Suivi des projets financés Projets financés Animation L’animation de la recherche en Santé Publique Evènements à venir Toutes nos actions Ressources des actions d’animation Ressources Lettre d’information en santé publique Revue « Questions de Santé Publique » Publications de l’IReSP Offres d’emploi en Santé Publique Accueil » Organisation et pratiques du « médico-social ».",
+        "contexte": "Un réseau de recherches transversal aux catégories, aux acteurs, aux disciplines, à l’Europe Résumé de soumission Contexte: En France, le « secteur médico-social » désigne un ensemble de services et d’établissements qui accompagnent, de manière durable ou temporaire, certaines personnes ayant besoin d’aide, de soin (médical, paramédical, d’hygiène…), de soutien pour tout ou partie des activités de la vie quotidienne.",
+        "problematique": "D’un autre côté, le médico-social a été, en France, une catégorie politique et pragmatique, utilisée à la fois pour construire et définir les problèmes posés par certaines catégories de personnes ayant des difficultés à la fois médicales et sociales, et nécessitant une aide ou des soins au long cours, et pour organiser pour ces personnes, des modalités de prise en charge qui elles-mêmes reposent sur l’intrication de dimensions médicales et sociales.",
+        "solution_envisagee": "Notre questionnement sera organisé autour de trois axes: 1/ Les formes d’organisation du travail d’accompagnement, 2/ Le travail d’accompagnement en pratique, 3/Les transformations de l’État-Providence.",
+        "objectifs": "Objectifs: Notre objectif est d’initier et de constituer un réseau de recherches, qui soit un espace de réflexion transversal aux catégories (handicap, vieillesse, santé mentale, auxquelles il faut ajouter maladie chronique, également problématisée dans certains pays), aux disciplines de sciences sociales et humaines, aux acteurs (chercheurs académiques, chercheurs-acteurs, professionnels, administrations) et enfin aux différents contextes nationaux –en nous focalisant d’abord sur l’Europe."
+    },
+    "porteur_initiative": "Inégalités et Populations » Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2018",
+        "0000",
+        "0003",
+        "2317",
+        "2844",
+        "1901",
+        "6051",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\094_2018_organisation_et_pratiques_du_medico_social_un_reseau_de_recherches_transversal_aux_categories_aux_acteurs_aux_discipline.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\094_2018_organisation_et_pratiques_du_medico_social_un_reseau_de_recherches_transversal_aux_categories_aux_acteurs_aux_discipline.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

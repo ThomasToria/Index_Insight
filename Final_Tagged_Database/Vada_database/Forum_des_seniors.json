@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Forum des seniors",
+    "territoire": "Titre: Forum des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/Concours-2024-FORUM-DES-SENIORS.pdf  ---  --- UN BESOIN DE COMMUNICATION Le CCAS de Bailleul a souhaité créer un événement à destination des seniors sous forme de forum où les acteurs du bien-vieillir sur le territoire pourraient leur donner des informations ciblées: aides en termes de prévention, activités pour le maintien de la vie sociale, le bien-être, la retraite.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Organisation du projet en comité de pilotage pour échanger et s'accorder;  Envoi des invitations aux professionnels, demande de devis et autres prises de contact;  Bilan/ajustement du contenu en fonction des réponses et nouvelles propositions étudiées;  Réunion équipe pour la répartition des sous-taches restantes; Validation du programme définitif; Réalisation des supports de communication;  J-1: préparation de la salle et coordination des services; Jour J: accueil, information et orientation du public  ---  --- UN BILAN TRÈS ENCOURAGEANT Deux cent personnes sont venues au Forum.",
+    "description": {
+        "description_generale": "ORGANISATION DU FORUM Pour mettre en place ce projet, une réunion de présentation de la commande des élus aux agents du service porteur du projet a d'abord eu lieu.",
+        "contexte": "Cette demande a fait écho aux attentes plus générales en termes de communication relevées par le biais de cette enquête, ainsi qu'aux constats effectués sur les modes de diffusion de l'information lors de l'état des lieux.",
+        "problematique": "Titre: Forum des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/Concours-2024-FORUM-DES-SENIORS.pdf  ---  --- UN BESOIN DE COMMUNICATION Le CCAS de Bailleul a souhaité créer un événement à destination des seniors sous forme de forum où les acteurs du bien-vieillir sur le territoire pourraient leur donner des informations ciblées: aides en termes de prévention, activités pour le maintien de la vie sociale, le bien-être, la retraite.",
+        "solution_envisagee": "Organisation du projet en comité de pilotage pour échanger et s'accorder;  Envoi des invitations aux professionnels, demande de devis et autres prises de contact;  Bilan/ajustement du contenu en fonction des réponses et nouvelles propositions étudiées;  Réunion équipe pour la répartition des sous-taches restantes; Validation du programme définitif; Réalisation des supports de communication;  J-1: préparation de la salle et coordination des services; Jour J: accueil, information et orientation du public  ---  --- UN BILAN TRÈS ENCOURAGEANT Deux cent personnes sont venues au Forum.",
+        "objectifs": "Cette action a donc été inscrite au plan d'action 2023-2026 Ville Amie des Aînés, avec un objectif de réalisation à court terme."
+    },
+    "porteur_initiative": "ORGANISATION DU FORUM Pour mettre en place ce projet, une réunion de présentation de la commande des élus aux agents du service porteur du projet a d'abord eu lieu.",
+    "date": [
+        "30 janvier 2024",
+        "janvier 2024",
+        "2025",
+        "2024",
+        "2022",
+        "2023",
+        "2026",
+        "2021",
+        "depuis 2021",
+        "en 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forum_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

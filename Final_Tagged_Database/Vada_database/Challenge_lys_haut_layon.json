@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Challenge lys haut layon",
+    "territoire": "Titre: Challenge lys haut layon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/961-concours-2023-challenge-lys-haut-layon.pdf  ---  --- AU DÉPART UNE VOLONTÉ DE PROPOSER UNE JOURNÉE DE CONVIVIALITÉ ET DE PRÉVENTION Lancée en 2018 et alors appelée Challenge Séniors, cette manifestation a vu le jour grâce à une volonté politique de proposer une journée de convivialité et de prévention via la pratique d'activités physiques dédiées aux séniors.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Une journée conviviale et sportive proposée aux personnes âgées d'au moins 60 ans.",
+    "description": {
+        "description_generale": "Si, comme la Commune de Lys Haut Layon, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Commune de Lys Haut Layon, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Freinée par le Covid en 2020 et 2021, cette manifestation, ancrée sur le territoire, a recommencé en 2023 sous l'impulsion des élus et en lien avec le label Terre de jeux 2024.",
+        "solution_envisagee": "Titre: Challenge lys haut layon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/961-concours-2023-challenge-lys-haut-layon.pdf  ---  --- AU DÉPART UNE VOLONTÉ DE PROPOSER UNE JOURNÉE DE CONVIVIALITÉ ET DE PRÉVENTION Lancée en 2018 et alors appelée Challenge Séniors, cette manifestation a vu le jour grâce à une volonté politique de proposer une journée de convivialité et de prévention via la pratique d'activités physiques dédiées aux séniors.",
+        "objectifs": "Enfin, quelques achats supplémentaires (boissons, biscuits) ont été nécessaires afin de restaurer les participants entre les activités."
+    },
+    "porteur_initiative": "Si, comme la Commune de Lys Haut Layon, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "2018",
+        "2020",
+        "2021",
+        "2024",
+        "depuis 2018",
+        "en 2018",
+        "en 2020",
+        "en 2023",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Challenge_lys_haut_layon.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Challenge_lys_haut_layon.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

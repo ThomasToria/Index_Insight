@@ -1,0 +1,45 @@
+{
+    "titre": "Titre: Le rôle de la technologie dans le soutien à l’autonomie. Quel possible? Quelle éthique de la preuve?",
+    "territoire": "Titre: Le rôle de la technologie dans le soutien à l’autonomie.",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Sous-titre: Séminaire de travail organisé le 22 septembre 2020 Publication: Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA Paramètres d'affichage Fermer Rechercher Appliquer Fermer HCFEA Conseil de la famille Conseil de l'enfance Conseil de l'âge Documents transverses Actualités Archives Agenda Voir le fil d'Ariane Accueil Conseil de l'âge Le rôle de la technologie dans le soutien à l’autonomie.",
+    "description": {
+        "description_generale": "D’autre part, des appuis sont requis pour structurer la filière et dégager une doctrine d’investissement public (opérateur de place de marché pour favoriser l’émergence de bouquets de service, développement d’outils d’évaluations socioéconomiques, réseau de recrutement et coordination d’expérimentation).",
+        "contexte": "Dans un contexte de structuration de ce marché technologique peu engagée, et à partir d’un besoin identifié d’évaluations et d’analyses partagées, le séminaire interdisciplinaire du HCFEA a contribué à: mieux repérer la maturité des technologies et leurs usages (sessions I et II), et dégager des pistes en vue d’une structuration des développements technologiques partenariaux autour de l’âge, plusieurs pays semblant à la veille d’une montée en puissance orchestrée; dégager des pistes d’évolutions pour répondre aux enjeux éthiques (session III); dégager des options en vue de la création d’un « centre de preuves » (session IV).",
+        "problematique": "Dans un contexte de structuration de ce marché technologique peu engagée, et à partir d’un besoin identifié d’évaluations et d’analyses partagées, le séminaire interdisciplinaire du HCFEA a contribué à: mieux repérer la maturité des technologies et leurs usages (sessions I et II), et dégager des pistes en vue d’une structuration des développements technologiques partenariaux autour de l’âge, plusieurs pays semblant à la veille d’une montée en puissance orchestrée; dégager des pistes d’évolutions pour répondre aux enjeux éthiques (session III); dégager des options en vue de la création d’un « centre de preuves » (session IV).",
+        "solution_envisagee": "Séminaire de travail organisé le 22 septembre 2020 Publié le 01/12/2020 | Temps de lecture: 2 minutes Conseil de l'âge Documents La question technologique reste abordée à la marge des réflexions jalonnant la mise en place d’un 5 e risque qui reste centrée sur les besoins en aide humaine.",
+        "objectifs": "Il s’agit a minima de mutualiser au niveau national des retours d’expériences « consolidés » dans l’usage des technologies en appui sur le réseau des Living labs, des « gérontopôles », et de développer des méthodologies d’évaluation multidimensionnelles."
+    },
+    "porteur_initiative": "Titre: Le rôle de la technologie dans le soutien à l’autonomie.",
+    "date": [
+        "22 septembre 2020",
+        "septembre 2020",
+        "01/12/2020",
+        "2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "HCFEA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le rôle de la technologie dans le soutien à lauton.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Hcfea_database\\Le rôle de la technologie dans le soutien à lauton.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.25,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

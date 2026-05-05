@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Carte part'âges",
+    "territoire": "Titre: Carte part'âges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1009-concours-2023-carte-part-ages.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LES ACTIVITÉS DE LA COMMUNE À PORTÉE DE MAIN La carte Part-âge est, comme son nom l'indique, une carte, destinée aux seniors de la ville à partir de 60 ans et pour les personnes handicapées sans limite d'âge.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Carte part'âges Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1009-concours-2023-carte-part-ages.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS LES ACTIVITÉS DE LA COMMUNE À PORTÉE DE MAIN La carte Part-âge est, comme son nom l'indique, une carte, destinée aux seniors de la ville à partir de 60 ans et pour les personnes handicapées sans limite d'âge.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Max, vous avez mis en p lace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Elle compte 17 activités reparties en catégories: les activités sportives (zumba, gym, natation, country), les activités bien être (qi-qong, pilate, sophrologie), les activités gourmandes (pâtisserie), les activités culturelles (informatique, généalogie, kiosque aux chansons) et les activités manuelles (tricot, pastel, home déco, art floral).",
+        "problematique": "Plusieurs critères sont à prendre en compte: la carte doit être variée au niveau des activités afin de répondre aux souhaits d'un plus grand nombre, et la tranche d'âge sénior allant de 60 ans à 99 ans, il faut s'adapter chaque année selon les besoins de la population.",
+        "solution_envisagee": "Pour la rentrée 2023-2024 la commune proposera deux nouvelles activités: une activité théâtre et une activité chorale.",
+        "objectifs": "Plusieurs critères sont à prendre en compte: la carte doit être variée au niveau des activités afin de répondre aux souhaits d'un plus grand nombre, et la tranche d'âge sénior allant de 60 ans à 99 ans, il faut s'adapter chaque année selon les besoins de la population."
+    },
+    "porteur_initiative": "Elle compte 17 activités reparties en catégories: les activités sportives (zumba, gym, natation, country), les activités bien être (qi-qong, pilate, sophrologie), les activités gourmandes (pâtisserie), les activités culturelles (informatique, généalogie, kiosque aux chansons) et les activités manuelles (tricot, pastel, home déco, art floral).",
+    "date": [
+        "2025",
+        "1009",
+        "2023",
+        "2024",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_partages.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Carte_partages.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

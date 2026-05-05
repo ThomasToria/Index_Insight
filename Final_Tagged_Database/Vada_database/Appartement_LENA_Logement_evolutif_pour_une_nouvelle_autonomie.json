@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Appartement LENA (Logement évolutif pour une nouvelle autonomie)",
+    "territoire": "Titre: Appartement LENA (Logement évolutif pour une nouvelle autonomie) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/683-pe-19-appartement-lena-saintgemmessurloire-3.pdf  ---  --- Concours  RFVAA 2021 UN LOGEMENT POUR LE MAINTIEN À DOMICILE L'appartement LENA a été créé, au sein de la résidence Les 3 Moulins (EHPAD et Résidence Autonomie) dans le but d'accompagner au mieux des bénéficiaires, en sortant d'hospitalisation ou présentant d es difficultés de maintien à domicile.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "La présence du COVID et ainsi de la nécessité de garantir la sécurité non seulement des résidents mais également des potentiels bénéficiaires a entraîné la suspension de l'accompagnement depuis mars 2020.",
+    "description": {
+        "description_generale": "Communiquer autour du projet.  ---  --- UNE AIDE ORIGINALE ET PERSONNELLE Cette action s'inscrit dans une volonté d’adaptation aux besoins réels de chaque bénéficiaire, des aides tant matérielles que techniques ou domotiques nécessaires au quotidien.",
+        "contexte": "S’ADAPTER AUX BESOINS PERSONNALISÉS DES SENIORS Ce projet a été élaboré à partir des besoins constatés sur le territoire et un intérêt commun concernant le maintien à domicile.",
+        "problematique": "Titre: Appartement LENA (Logement évolutif pour une nouvelle autonomie) Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/683-pe-19-appartement-lena-saintgemmessurloire-3.pdf  ---  --- Concours  RFVAA 2021 UN LOGEMENT POUR LE MAINTIEN À DOMICILE L'appartement LENA a été créé, au sein de la résidence Les 3 Moulins (EHPAD et Résidence Autonomie) dans le but d'accompagner au mieux des bénéficiaires, en sortant d'hospitalisation ou présentant d es difficultés de maintien à domicile.",
+        "solution_envisagee": "Elle permet de répondre aux attentes de façon personnalisée en sensibilisant aux solutions dans tout le chemin du possible, que ce soit des aides habituelles ou innovantes.",
+        "objectifs": "Les objectifs de l'appartement ont alors été précisés afin de ne pas dévier vers un  APPARTEMENT LENA (LOGEMENT ÉVOLUTIF POUR UNE NOUVELLE AUTONOMIE) Fiche PARTAGE D'EXPÉRIENCE 551 Villes Amies des Aînés en France Ville de Sainte-Gemmes-Sur-Loire Ville adhérente depuis 2020 Sainte-Gemmes-Sur-Loire (49) Éviter une institutionnalisation de personnes souhaitant rester à domicile en garantissant un équilibre entre sécurité et liberté."
+    },
+    "porteur_initiative": "Si, comme la ville de Sainte-Gemmes-Sur-Loire, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "mars 2020",
+        "avril 2019",
+        "septembre 2019",
+        "janvier 2020",
+        "2025",
+        "2021",
+        "2020",
+        "2019",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Appartement_LENA_Logement_evolutif_pour_une_nouvelle_autonomie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Appartement_LENA_Logement_evolutif_pour_une_nouvelle_autonomie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

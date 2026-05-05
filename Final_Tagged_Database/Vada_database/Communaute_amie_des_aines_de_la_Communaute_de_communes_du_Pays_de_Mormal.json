@@ -1,0 +1,62 @@
+{
+    "titre": "Titre: Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
+    "territoire": "Titre: Communauté amie des aînés de la Communauté de communes du Pays de Mormal Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/536-pe-communaute-amie-des-aines-de-la-communaute-de-communes-du-pays-de-mormal-mise-en-forme-2023.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°536 Villes Amies des Aînés en France Permettre aux aînés de vivre chez eux le plus longtemps possible Faciliter leurs déplacements Leur offrir la possibilité d’une vie sociale épanouie Préserver leur santé Améliorer leur information Favoriser les politiques en faveur des aînés des autres acteurs du territoire.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Des audits ont été menés auprès des aînés et des aidants afin de cerner les manques et les besoins exprimés par les personnes âgées et leur entourage.",
+    "description": {
+        "description_generale": "Elles s’articulent autour de six engagements principaux: Un plan d’action comprenant ces six engagements a été présenté en novembre 2016 aux conseillers communautaires.",
+        "contexte": "Elle reprend et adapte la méthodologie du RFVAA à un contexte rural, intercommunal, et à une volonté de conduire toutes les actions de front.",
+        "problematique": "Des audits ont été menés auprès des aînés et des aidants afin de cerner les manques et les besoins exprimés par les personnes âgées et leur entourage.",
+        "solution_envisagee": "Elles s’articulent autour de six engagements principaux: Un plan d’action comprenant ces six engagements a été présenté en novembre 2016 aux conseillers communautaires.",
+        "objectifs": "Titre: Communauté amie des aînés de la Communauté de communes du Pays de Mormal Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/536-pe-communaute-amie-des-aines-de-la-communaute-de-communes-du-pays-de-mormal-mise-en-forme-2023.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°536 Villes Amies des Aînés en France Permettre aux aînés de vivre chez eux le plus longtemps possible Faciliter leurs déplacements Leur offrir la possibilité d’une vie sociale épanouie Préserver leur santé Améliorer leur information Favoriser les politiques en faveur des aînés des autres acteurs du territoire."
+    },
+    "porteur_initiative": "Elles s’articulent autour de six engagements principaux: Un plan d’action comprenant ces six engagements a été présenté en novembre 2016 aux conseillers communautaires.",
+    "date": [
+        "janvier 2016",
+        "mars 2020",
+        "novembre 2016",
+        "janvier",
+        "juin 2018",
+        "janvier 2017",
+        "2025",
+        "2023",
+        "2016",
+        "2020",
+        "2017",
+        "2019",
+        "2018",
+        "depuis 2016",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

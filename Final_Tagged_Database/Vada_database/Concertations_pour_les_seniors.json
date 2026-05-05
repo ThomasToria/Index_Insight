@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Concertations pour les seniors",
+    "territoire": "Parmi les moyens et outils de communication utilisés, la\nville de Mulhouse conçoit affiches et flyers. Des mails\nsont envoyés à l'ensemble des responsables de structures\ndu secteur ainsi qu'au listing des personnes âgées du\nCCAS.\nLes personnes âgées sont pleinement impliquées dans le\ndiagnostic (centres sociaux, EHPAD, résidences\nautonomie, seniors à domicile). Elles sont invitées à\ntémoigner de leur usage du territoire, de leurs besoins\nfuturs, de leurs souhaits d'aménagement. Leur rôle est\nd'apporter leur expertise du territoire. Les demandes qui\nauront été validées sont intégrées, dans la mesure du\npossible, dans le coût global des opérations.\nUNE CONCERTATION SPÉCIFIQUE\nPOUR LES SENIORS\nSYSTÉMATIQUEMENT PRÉVUE\nLes concertations seniors sont un moment d'échange\nprivilégié entre les habitants et les services de la ville. Les\nchangements urbains sont souvent une source\nd'inquiétude pour les usagers et le fait de les associer dès le\ndépart permet de lever un certain nombre de freins en\nprenant en compte leurs besoins. Ces échanges\npermettent aussi aux services de faire prendre conscience\naux usagers des contraintes techniques à respecter ce qui\nfacilite l'adhésion au projet et au changement. La\nprogrammation de ces concertations fait partie des modes\nde fonctionnement de la collectivité et lors de chaque\nphase de diagnostic à destination du grand public, une\nconcertation spécifique pour les seniors est\nsystématiquement prévue.\nSi, comme la Ville de Mulhouse, vous avez mis en pl ace des projets pour les aînés,\nn’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les personnes âgées sont pleinement impliquées dans le diagnostic (centres sociaux, EHPAD, résidences autonomie, seniors à domicile).",
+    "description": {
+        "description_generale": "DIAGNOSTIC EN MARCHANT Lors de chaque phase de pré-projet, les services techniques concernés, l'agence de la participation citoyenne et l'unité “actions et informations seniors” se réunissent pour identifier des seniors, les structures seniors du territoire et le périmètre de concertation.",
+        "contexte": "Ces concertations viennent également répondre aux besoins identifiés lors du diagnostic territorial VADA notamment concernant l'accessibilité et la mobilité.",
+        "problematique": "Le diagnostic en marchant permet à chaque participant de s'exprimer sur les difficultés rencontrées et les besoins identifiés (bancs, revêtement de la chaussée).",
+        "solution_envisagee": "Dans chaque grand projet urbain porté par la ville, les seniors sont invités à venir rencontrer les services techniques et échanger avec eux sur leurs difficultés, proposer des améliorations, échanger sur les aménagements possibles.  ---  --- APPORTER UNE EXPERTISE DU TERRITOIRE Parmi les moyens et outils de communication utilisés, la ville de Mulhouse conçoit affiches et flyers.",
+        "objectifs": "Titre: Concertations pour les seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/874-pe-concertations-pour-les-seniors.pdf  ---  --- DÉVELOPPER LES MOBILITÉS DOUCES La ville de Mulhouse a lancé une dynamique de changement urbain important en vue de développer les mobilités douces."
+    },
+    "porteur_initiative": "Dans chaque grand projet urbain porté par la ville, les seniors sont invités à venir rencontrer les services techniques et échanger avec eux sur leurs difficultés, proposer des améliorations, échanger sur les aménagements possibles.  ---  --- APPORTER UNE EXPERTISE DU TERRITOIRE Parmi les moyens et outils de communication utilisés, la ville de Mulhouse conçoit affiches et flyers.",
+    "date": [
+        "2025",
+        "2015",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Concertations_pour_les_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Concertations_pour_les_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.95,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

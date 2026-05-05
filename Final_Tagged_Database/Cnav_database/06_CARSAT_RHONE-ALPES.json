@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: CARSAT RHÔNE-ALPES",
+    "territoire": "LA LOCALISATION L ’ensemble des départements de Rhône-Alpes et La Métropole de Lyon.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Habitat ACCOMPAGNER LE VIEILLISSEMENT DES LOCATAIRES DU PARC SOCIAL – PACK ACCESSIBILITÉ SENIORS Analyse sociale T aux d’occupation par des personnes âgées au sein de l’immeuble Immeuble ciblé comportant plus de 25 à 30 % de personnes âgées de + de 60 ans.",
+    "description": {
+        "description_generale": "LA DESCRIPTION DE LA PÉPITE Auvergne-Rhône-Alpes coordonnent leurs efforts pour soutenir les initiatives des bailleurs sociaux couplant mise en accessibilité des immeubles et adaptation des logements occupés par les personnes retraitées dans le cadre de programmes de rénovation.",
+        "contexte": "LA FINALITÉ Dans un contexte marqué par le vieillissement de la population et l’allongement de la durée de vie, les enjeux liés à l’adaptation de notre société à cette évolution démographique sont multiples et parmi eux, figure naturellement la nécessité de prévoir les conditions d’habitat permettant au plus grand nombre de seniors de vieillir dans les meilleures conditions possibles à domicile, en rapport avec leur degré d’autonomie.",
+        "problematique": "L ’adaptation des logements occupés par les locataires seniors et la mise en accessibilité des immeubles sont des enjeux pour favoriser le bien vieillir, qui nécessitent qu’une approche plus globale soit conduite et renforcée telle que voulue dans le cadre de la loi d’adaptation de la société au vieillissement.",
+        "solution_envisagee": "Titre: CARSAT RHÔNE-ALPES Pages: 19, 20, 21  CARSAT RHÔNE-ALPES LES ACTEURS Partenaire(s): Banques des Territoires Auvergne-Rhône- Alpes, AURA HLM- Fédération des bailleurs sociaux Auvergne-Rhône-Alpes et les bailleurs sociaux de Rhône- Alpes.",
+        "objectifs": "L ’adaptation des logements occupés par les locataires seniors et la mise en accessibilité des immeubles sont des enjeux pour favoriser le bien vieillir, qui nécessitent qu’une approche plus globale soit conduite et renforcée telle que voulue dans le cadre de la loi d’adaptation de la société au vieillissement."
+    },
+    "porteur_initiative": "Titre: CARSAT RHÔNE-ALPES Pages: 19, 20, 21  CARSAT RHÔNE-ALPES LES ACTEURS Partenaire(s): Banques des Territoires Auvergne-Rhône- Alpes, AURA HLM- Fédération des bailleurs sociaux Auvergne-Rhône-Alpes et les bailleurs sociaux de Rhône- Alpes.",
+    "date": [
+        "20 décembre 2018",
+        "8 novembre",
+        "8 novembre 2023",
+        "décembre 2018",
+        "novembre",
+        "mai 2022",
+        "novembre 2023",
+        "2018",
+        "2023",
+        "2027",
+        "2022",
+        "2024",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\06_CARSAT_RHONE-ALPES.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\06_CARSAT_RHONE-ALPES.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

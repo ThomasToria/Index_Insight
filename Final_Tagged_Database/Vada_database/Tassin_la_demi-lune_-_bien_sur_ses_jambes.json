@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Tassin la demi-lune - bien sur ses jambes",
+    "territoire": "Titre: Tassin la demi-lune - bien sur ses jambes Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1005-concours-2023-tassin-la-demi-lune-bien-sur-ses-jambes.pdf  ---  --- UN PROJET DÉVELOPPÉ PAR L'INSTITUT DU VIEILLISSEMENT DES HOSPICES CIVILS DE LYON En France, les projections démographiques actuelles révèlent une augmentation de la part de séniors de plus de 75 ans, qui atteindra 16.2% de la population totale en 2060.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Une première phase de communication avec comme temps fort l'organisation d'une conférence à destination du public.",
+    "description": {
+        "description_generale": "Il sont 35 à participer au programme et 83 personnes ont participé à la conférence de présentation du dispositif et de sensibilisation.",
+        "contexte": "Si, comme la Ville de Tassin la Demi-Lune, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com DEUX BILANS POUR UNE PREMIÈRE ÉVALUATION Un premier bilan anonymisé sera réalisé une fois que l’ensemble des évaluations finales des administrés ayant participé aux séances collectives seront terminées.",
+        "problematique": "De ce fait, l’un des plus grands enjeux du vieillissement est de prévenir la perte de mobilité et ses comorbidités.",
+        "solution_envisagee": "Il comprendra les éléments suivants: Bénéfices de l’accompagnement: évolution moyenne des capacités physiques et fonctionnelles, évolution moyenne de la qualité de vie, évolution moyenne de la peur de chuter.",
+        "objectifs": "Afin de répondre à cette problématique, la ville de Tassin la Demi-Lune a souhaité mettre en place des initiatives dont le but est de promouvoir le vieillissement en bonne santé."
+    },
+    "porteur_initiative": "À QUI S'ADRESSE CE DISPOSITIF? «Bien sur ses jambes» est un parcours de santé et de prévention pour les personnes de 70 ans et plus mis en place par l'hôpital Lyon Sud.",
+    "date": [
+        "décembre 2022",
+        "mars 2023",
+        "2025",
+        "1005",
+        "2023",
+        "2060",
+        "2022",
+        "2017",
+        "depuis 2017",
+        "en 2060"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tassin_la_demi-lune_-_bien_sur_ses_jambes.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tassin_la_demi-lune_-_bien_sur_ses_jambes.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

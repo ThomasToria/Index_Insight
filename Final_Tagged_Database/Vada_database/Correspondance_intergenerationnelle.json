@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Correspondance intergénérationnelle",
+    "territoire": "Titre: Correspondance intergénérationnelle Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/698-pe-6-correspondance-intergenerationnelle-caen-1.pdf  ---  --- PARTAGER, ÉCHANGER ET METTRE EN LIEN LIEN met en relation des jeunes de l’association Rotaract avec les retraités de son association (cohabitation intergénérationnelle) pour qu’ils puissent entretenir une relation épistolaire.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "C’est une période parfois très difficile pour les personnes âgées, des seniors en pleurs ont appelé l'association, ne supportant plus cette solitude, ou des personnes âgées avec des idées tristes ou des comportements à risques pour leur santé et pour la poursuite de notre collaboration (début d’alcoolisation, envahissement de la maison par des chats de gouttière…).",
+    "description": {
+        "description_generale": "Pour cela, des étapes seront nécessaires pour mener à bien le projet: l'envoi des invitations par courrier aux retraités des invitations en se déplaçant à une réunion Rotaract, la relance des Rotaractiens et la relance des retraités par téléphone Si, comme l'association LIEN, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Pour cela, des étapes seront nécessaires pour mener à bien le projet: l'envoi des invitations par courrier aux retraités des invitations en se déplaçant à une réunion Rotaract, la relance des Rotaractiens et la relance des retraités par téléphone Si, comme l'association LIEN, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Durant le premier confinement de mars 2020, l’association de jeunes le « Rotaract » a ressenti l’envie et le besoin d’aider les personnes âgées en maintenant un lien épistolaire avec ces derniers.",
+        "solution_envisagee": "En effet, la présence d'un jeune au domicile d'une personne âgée permet de dynamiser la personne âgée par la présence d’un jeune, rompre la solitude, favoriser le bien-être, participer au maintien à domicile en retardant l'entrée en maison de retraite, favoriser la sécurité (le jeune peut appeler les secours en cas de problème de santé ou en cas de chute), bénéficier d’une présence rassurante la nuit, partager des temps de convivialité, tisser une nouvelle forme de lien social, et éviter la construction de nouveaux logements comme des logements étudiants ou des maisons de retraites.",
+        "objectifs": "Favoriser le sentiment d’utilité chez les jeunes en rompant la solitude des retraités."
+    },
+    "porteur_initiative": "Pour cela, des étapes seront nécessaires pour mener à bien le projet: l'envoi des invitations par courrier aux retraités des invitations en se déplaçant à une réunion Rotaract, la relance des Rotaractiens et la relance des retraités par téléphone Si, comme l'association LIEN, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "mars 2020",
+        "2025",
+        "2020",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Correspondance_intergenerationnelle.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Correspondance_intergenerationnelle.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

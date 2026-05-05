@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Chaque mois, « ensemble autour »... d’un moment convivial",
+    "territoire": "Titre: Chaque mois, « ensemble autour »... d’un moment convivial Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/304-304-besancon-lien-social-ensemble-autour-pe.pdf  ---  --- UNE RENCONTRE MENSUELLE En 2013, un groupe de travail spécifique composé des services opérationnels en lien avec le territoi re et / ou des personnes âgées s’ est réuni.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Chaque mois, « ensemble autour »... d’un moment convivial Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/304-304-besancon-lien-social-ensemble-autour-pe.pdf  ---  --- UNE RENCONTRE MENSUELLE En 2013, un groupe de travail spécifique composé des services opérationnels en lien avec le territoi re et / ou des personnes âgées s’ est réuni.",
+    "description": {
+        "description_generale": "Afin d’assurer la transversalité du projet et de pe r- mettre un repérage efficace desaînés isolés, le gro upe de travail réunit des agents de la Maison de quarti er, du service de soutien à domicile, de la Maison des Seniors, de l’antenne sociale de Planoise, de la Mi s- sion inter-âges, du centre médico-social ou encore du logement foyer des hortensias.",
+        "contexte": "Titre: Chaque mois, « ensemble autour »... d’un moment convivial Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/304-304-besancon-lien-social-ensemble-autour-pe.pdf  ---  --- UNE RENCONTRE MENSUELLE En 2013, un groupe de travail spécifique composé des services opérationnels en lien avec le territoi re et / ou des personnes âgées s’ est réuni.",
+        "problematique": "Aussi, se retrouvent lors de ces temps d’échange des jeunes de la Maison de quartier, des résidents du foyer-logement ou des aînés en situation précaire ou d’isolement social repérés grâce à ces partenaires.",
+        "solution_envisagee": "Cet accompagnement est cependant une condition essentielle à leur partici - pation pour beaucoup de ces personnes.",
+        "objectifs": "Lutter contre l’isolement, en touchant le plus grand nombre de\npersonnes isolées de plus de 60 ans résidant dans le quar -\ntier de Planoise à Besançon. Renforcer les liens et la coo -\npération entre les différents acteurs et institutions concernés.\nRecenser les besoins de ce public et lui proposer des activités\nvariées (sportives, culturelles...).\nPRATIQUE\nCréer un groupe de travail réunissant tous les acteurs et struc-\ntures en lien avec les personnes âgées du territoire. Décider\nde la forme et de la fréquence d’une action a mener a¿n de\nrapprocher l’ensemble des publics concernés. Communiquer\nsur le projet après validation de celui-ci.\nCoût: environ 4000€ par an\nBESANÇON\nVille Amie des Aînés depuis 06-2012\nBesançon (25)\nFiche publiée le 05/01/2017\nwww.villesamiesdesaines-rf.fr\nLIEN SOCIAL ET SOLIDARITÉ\nCULTURE ET LOISIRS\nSi, comme Besançon, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Titre: Chaque mois, « ensemble autour »... d’un moment convivial Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/304-304-besancon-lien-social-ensemble-autour-pe.pdf  ---  --- UNE RENCONTRE MENSUELLE En 2013, un groupe de travail spécifique composé des services opérationnels en lien avec le territoi re et / ou des personnes âgées s’ est réuni.",
+    "date": [
+        "avril 2014",
+        "mai 2014",
+        "05/01/2017",
+        "2025",
+        "2013",
+        "2014",
+        "4000",
+        "2012",
+        "2017",
+        "En 2013"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Chaque_mois_ensemble_autour_dun_moment_convivial.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Chaque_mois_ensemble_autour_dun_moment_convivial.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

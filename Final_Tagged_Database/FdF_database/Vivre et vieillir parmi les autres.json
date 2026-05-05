@@ -1,0 +1,59 @@
+{
+    "titre": "Vivre et vieillir parmi les autres",
+    "territoire": "Ou encore par des marches urbaines partagées quotidiennement entre bénévoles de tous âges et résidents d’Ehpad d’un quartier de Villeurbane grâce à l’association Arpavie.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Déjà présent à Arras, Saint-Étienne ou encore Strasbourg, ce concept réunit dans de petits immeubles (neufs ou rénovés) des résidents de tous âges et conditions sociales (jeunes, personnes âgées, familles monoparentales).",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "C’est le constat que dresse par expérience Agathe Gestin: « Le dialogue intergénérationnel ne se décrète pas, il se construit dans le temps.",
+        "problematique": "Au-delà de la crise, un système d’accueil à repenser Trouver le juste équilibre entre sécurité d’une part et vie sociale de l’autre est aujourd’hui l'un des grands enjeux à relever.",
+        "solution_envisagee": "Si la Fondation de France s’est fortement mobilisée pour proposer des solutions durant la crise sanitaire, en soutenant par exemple une web-TV produite par des soignants à destination des malades isolés, ou en soutenant des cellules d'aide psychologique au sein d'Ehpad, cet engagement n’est pas nouveau.",
+        "objectifs": "Mobilisées depuis plus de 50 ans sur ce sujet, la Fondation de France et les fondations qu’elle abrite soutiennent des démarches innovantes pour améliorer les conditions de vie des personnes âgées."
+    },
+    "porteur_initiative": "Vivre et vieillir parmi les autres  https://www.fondationdefrance.org/fr/cat-personnes-agees/personnes-agees-vivre-et-vieillir-parmi-les-autres  Qui sommes-nous?",
+    "date": [
+        "2050",
+        "1975",
+        "1981",
+        "1984",
+        "2018",
+        "2022",
+        "1991",
+        "depuis 1991",
+        "En 1981",
+        "en 1984",
+        "En 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Vivre et vieillir parmi les autres.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Vivre et vieillir parmi les autres.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

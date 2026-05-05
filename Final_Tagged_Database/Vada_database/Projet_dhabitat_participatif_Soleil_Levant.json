@@ -1,0 +1,60 @@
+{
+    "titre": "Titre: Projet d'habitat participatif Soleil Levant",
+    "territoire": "Titre: Projet d'habitat participatif Soleil Levant Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/718-pe-586-150422projet-d-habitat-participatif-soleil-levant-saint-nazaire.pdf  ---  --- L’Association Habitat participatif Soleil Levant (HPSL), créée en avril 2018, se donne pour objet de promouvoir et accompagner des projets d’habitat participatif à Saint-Nazaire, en Loire-Atlantique, sous une ou des formes juridiques adaptées, reflétant les valeurs énoncées dans sa Charte: lien social, solidarité, respect mutuel, respect de l’environnement, gouvernance démocratique.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "régionale"
+    ],
+    "public_vise": "Ce montage mixte est porté dans le cadre d'une Société Civile Coopérative de Construction \"Soleil Levant S3C\" qui regroupe trois entités: la SCOP Macoretz, les futurs propriétaires occupants de la SAS Coopérative Soleil Levant, personne morale représentant la cooprative d'habitants qui sera propriétaire d'une quote-part de la copropriété future.",
+    "description": {
+        "description_generale": "Si, comme la ville de Saint-Nazaire, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Ce montage mixte est porté dans le cadre d'une Société Civile Coopérative de Construction \"Soleil Levant S3C\" qui regroupe trois entités: la SCOP Macoretz, les futurs propriétaires occupants de la SAS Coopérative Soleil Levant, personne morale représentant la cooprative d'habitants qui sera propriétaire d'une quote-part de la copropriété future.",
+        "problematique": "Des réunions de groupe pour penser le projet de man ière à ce qu'il soit le plus adapté aux besoins des aînés.",
+        "solution_envisagee": "Ce montage mixte est porté dans le cadre d'une Société Civile Coopérative de Construction \"Soleil Levant S3C\" qui regroupe trois entités: la SCOP Macoretz, les futurs propriétaires occupants de la SAS Coopérative Soleil Levant, personne morale représentant la cooprative d'habitants qui sera propriétaire d'une quote-part de la copropriété future.",
+        "objectifs": "Des actions de communication menées par le groupe et par la mairie de Saint-Nazaire devront permettre de compléter le groupe à hauteur des treize logements prévus, toujours dans l'objectif de mixité générationnelle."
+    },
+    "porteur_initiative": "En juin 2020, le groupe porteur du projet Sautron abandonne faute d’avoir réussi à élaborer un montage juridique et financier convenant à tous ses membres.",
+    "date": [
+        "avril 2018",
+        "février 2020",
+        "juin 2020",
+        "mars 2021",
+        "octobre 2021",
+        "2025",
+        "2018",
+        "2017",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "depuis 2019",
+        "En 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_dhabitat_participatif_Soleil_Levant.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_dhabitat_participatif_Soleil_Levant.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

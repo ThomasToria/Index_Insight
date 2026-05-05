@@ -1,0 +1,44 @@
+{
+    "titre": "Les enjeux du « Grand âge », vus par deux bénévoles à la Fondation de France Sud-Ouest",
+    "territoire": "Le travail que fait actuellement la Fondation de France sur les lieux de vie en habitats partagés, avec les appels à projets « Coopérons pour habiter nos territoires » et « Vieillir acteur et citoyen de son territoire », est fondamental.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Mon rôle était d’obtenir la meilleure protection sociale pour les populations agricoles et leurs familles.",
+    "description": {
+        "description_generale": "Ce n’est qu’une illustration du type d’initiative que la Fondation de France a soutenu dans le cadre de son appel à projets, et je pense qu’il y a encore beaucoup d’innovations à développer dans ce domaine si sensible.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "M.P.: De mon côté, je pense que le Grand âge et les difficultés qui accompagnent cette étape de la vie, sont des enjeux considérables dans notre société.",
+        "solution_envisagee": "Aujourd’hui, les politiques publiques nous proposent des solutions « techniques ».",
+        "objectifs": "Ce n’est qu’une illustration du type d’initiative que la Fondation de France a soutenu dans le cadre de son appel à projets, et je pense qu’il y a encore beaucoup d’innovations à développer dans ce domaine si sensible."
+    },
+    "porteur_initiative": "J’ai instruit par exemple un dossier sur l’accompagnement des personnes en soins palliatifs dans un hôpital, porté par une association qui travaille en lien avec les équipes médicales.",
+    "date": [
+        "juin 2019",
+        "2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Les enjeux du Grand âge , vus par deux bénévoles à la Fondation de France Sud-Ouest.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Les enjeux du Grand âge , vus par deux bénévoles à la Fondation de France Sud-Ouest.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

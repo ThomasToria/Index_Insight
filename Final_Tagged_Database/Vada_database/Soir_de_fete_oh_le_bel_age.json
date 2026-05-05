@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Soir de fête, oh le bel âge!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/971-concours-2023-soir-de-fete-oh-le-bel-age.pdf  ---  --- UN PROJET DE DÉFILÉ SENIOR La soirée \"Soir de fête, oh le bel âge\" s'inscrit dans le congrès des JVMA qui s'adressent à tous les acteurs du vieillissement.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Suite au défilé, le public a pu écouter des lectures, des témoignages de seniors, voir de la danse (hip-hop et flamenco) et assister à une diffusion de photos et de vidéos.",
+    "description": {
+        "description_generale": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/971-concours-2023-soir-de-fete-oh-le-bel-age.pdf  ---  --- UN PROJET DE DÉFILÉ SENIOR La soirée \"Soir de fête, oh le bel âge\" s'inscrit dans le congrès des JVMA qui s'adressent à tous les acteurs du vieillissement.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/971-concours-2023-soir-de-fete-oh-le-bel-age.pdf  ---  --- UN PROJET DE DÉFILÉ SENIOR La soirée \"Soir de fête, oh le bel âge\" s'inscrit dans le congrès des JVMA qui s'adressent à tous les acteurs du vieillissement.",
+        "problematique": "Le CCAS a dans un premier temps défini l'événement: les attentes, la forme, le fond, les besoins.",
+        "solution_envisagee": "Le CCAS va proposer aux seniors, artistes, et au \"staff\" de se retrouver au mois de septembre pour partager un moment convivial, regarder les photos et pourquoi pas les encourager a garder contact.",
+        "objectifs": "DE MULTIPLES PARTENAIRES Afin de faire vivre cet événement, un travail collaboratif et de partenariat s'est construit."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/971-concours-2023-soir-de-fete-oh-le-bel-age.pdf  ---  --- UN PROJET DE DÉFILÉ SENIOR La soirée \"Soir de fête, oh le bel âge\" s'inscrit dans le congrès des JVMA qui s'adressent à tous les acteurs du vieillissement.",
+    "date": [
+        "2025",
+        "2023",
+        "2022",
+        "2019",
+        "depuis 2019",
+        "en 2022"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soir_de_fete_oh_le_bel_age.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Soir_de_fete_oh_le_bel_age.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

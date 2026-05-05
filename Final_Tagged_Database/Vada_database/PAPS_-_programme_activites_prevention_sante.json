@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: PAP'S - programme activités prévention santé",
+    "territoire": "Titre: PAP'S - programme activités prévention santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1047-pe-pap-s-programme-activites-prevention-sante-de-pe-fiche-vierge.pdf  ---  --- S’EXERCER POUR RESTER EN BONNE SANTÉ Les personnes âgées souffrent parfois de troubles de mémoire et ressentent bien souvent un embarras vis à vis du regard des autres.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: PAP'S - programme activités prévention santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1047-pe-pap-s-programme-activites-prevention-sante-de-pe-fiche-vierge.pdf  ---  --- S’EXERCER POUR RESTER EN BONNE SANTÉ Les personnes âgées souffrent parfois de troubles de mémoire et ressentent bien souvent un embarras vis à vis du regard des autres.",
+    "description": {
+        "description_generale": "Le projet PAP’S consiste à mettre en place, à Fouras-les-Bains, des actions de proximité visant à promouvoir la santé, l’activité physique, l’activité intellectuelle, l’insertion sociale, et la participation citoyenne chez les seniors.",
+        "contexte": "Enfin, en octobre, la Semaine Bleue 2023 a été organisée, accompagnée du lancement du Plan d'Action Personnalisé: PAP'S.",
+        "problematique": "Pour éviter cela et permettre aux seniors de rester en bonne santé, ils ont besoin d'exercer leurs capacités physiques et cognitives.",
+        "solution_envisagee": "Un partenariat avec le cinéma permettra une sortie collective mensuelle à 4 euros, tandis qu'un autre partenariat avec le restaurant EHPAD Domusvi proposera un repas collectif mensuel à 11 euros.",
+        "objectifs": "PAP'S - PROGRAMME ACTIVITÉS PRÉVENTION SANTÉ Fiche PARTAGE D'EXPÉRIENCE N°908 Villes Amies des Aînés en France Favoriser un mode de vie équilibré ( par la pratique de l’activité physique et de l’entraînement cérébral); Renforcer des liens intergénérationnels; Participation et implication citoyenne; Mobilisations des acteurs locaux."
+    },
+    "porteur_initiative": "Enfin, en octobre, la Semaine Bleue 2023 a été organisée, accompagnée du lancement du Plan d'Action Personnalisé: PAP'S.",
+    "date": [
+        "février 2023",
+        "2025",
+        "1047",
+        "2023",
+        "2017",
+        "2024",
+        "depuis 2017",
+        "en",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\PAPS_-_programme_activites_prevention_sante.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\PAPS_-_programme_activites_prevention_sante.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

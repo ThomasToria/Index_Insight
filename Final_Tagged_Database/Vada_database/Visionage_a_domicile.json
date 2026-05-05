@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Vision'age à domicile",
+    "territoire": "Titre: Vision'age à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/907-concours-2023-vision-age-a-domicile-1.pdf  ---  --- UNE NOUVELLE FAÇON DE SE DÉTENDRE En tant que service d'aide à domicile (SAAD), l'isolement des personnes âgées et dépendantes est un constat quotidien, partagé par de nombreux partenaires, dont le Département de la Marne.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Lumeen évalue scientifiquement son dispositif auprès de professionnels experts et propose ainsi une solution adaptée aux besoins des personnes âgées.",
+    "description": {
+        "description_generale": "Un appel à projet du département, au bénéfice d'une dotation complémentaire aux SAAD pour le financement d’actions améliorant la qualité de service rendu à l’usager, a permis d'expérimenter un outil novateur: le casque virtuel.",
+        "contexte": "Titre: Vision'age à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/907-concours-2023-vision-age-a-domicile-1.pdf  ---  --- UNE NOUVELLE FAÇON DE SE DÉTENDRE En tant que service d'aide à domicile (SAAD), l'isolement des personnes âgées et dépendantes est un constat quotidien, partagé par de nombreux partenaires, dont le Département de la Marne.",
+        "problematique": "Le choix s'est porté sur le dispositif de casques virtuels de Lumeen, qui est indiqué pour une utilisation auprès des personnes âgées dépendantes ou en perte d’autonomie à des fins thérapeutiques et préventives dans les cas d'isolement social, d'anxiété, de dépression, de perte de mémoire, de troubles du comportement et de problèmes psychomoteurs et psychologiques.",
+        "solution_envisagee": "Lumeen évalue scientifiquement son dispositif auprès de professionnels experts et propose ainsi une solution adaptée aux besoins des personnes âgées.",
+        "objectifs": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS VISION'AGE À DOMICILE Fiche PARTAGE D'EXPÉRIENCE N°771 Villes Amies des Aînés en France SERVICI - Agence de Reims Ville Amie des Aînés depuis 2020 Reims (51) Améliorer la qualité de vie et l’accompagnement des personnes âgées dépendantes."
+    },
+    "porteur_initiative": "Un appel à projet du département, au bénéfice d'une dotation complémentaire aux SAAD pour le financement d’actions améliorant la qualité de service rendu à l’usager, a permis d'expérimenter un outil novateur: le casque virtuel.",
+    "date": [
+        "octobre 2022",
+        "mars 2023",
+        "juin 2023",
+        "2025",
+        "2023",
+        "2022",
+        "2020",
+        "depuis 2020",
+        "en 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Visionage_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Visionage_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

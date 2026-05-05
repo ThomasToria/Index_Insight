@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Accueillir les futurs et nouveaux retraités",
+    "territoire": "Titre: Accueillir les futurs et nouveaux retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/203-203-accueil-retraites-besancon.pdf  ---  --- UNE ACTION QUI RÉPOND AUX BESOINS DES RETRAITÉS, ENGAGÉE PAR LES RETRAI - TÉS.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les articles dans la presse locale, l’affichage sur la vitrine de la Maison des Seniors, mais aussi la réalisation d’une plaquette d’information diffusée au sein du monde a sso- ciatif ou lors du colloque des rendez-vous de l’âge, réu - nissant chaque année 2 000 personnes, sont autant d e moyens de toucher le public concerné.",
+    "description": {
+        "description_generale": "Titre: Accueillir les futurs et nouveaux retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/203-203-accueil-retraites-besancon.pdf  ---  --- UNE ACTION QUI RÉPOND AUX BESOINS DES RETRAITÉS, ENGAGÉE PAR LES RETRAI - TÉS.",
+        "contexte": "Après de nom - breux échanges, ils ont posé le constat que les per - sonnes concernées par la retraite ne la préparaient pas suffisamment.",
+        "problematique": "Titre: Accueillir les futurs et nouveaux retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/203-203-accueil-retraites-besancon.pdf  ---  --- UNE ACTION QUI RÉPOND AUX BESOINS DES RETRAITÉS, ENGAGÉE PAR LES RETRAI - TÉS.",
+        "solution_envisagee": "Lors de ces échanges, il n’y a ni bonnes ni mauvaises réponses.",
+        "objectifs": "Accueil des futurs et nouveau retraités a¿n de les aider à\nmieux appréhender et vivre cette étape de vie. Favoriser un\nvieillissement actif. Prévention de l’isolement.\nPRATIQUE\nOrganiser des séances d’accueil et d’échanges. Créer un\nréseau de bénévoles retraités. Communiquer sur la tenue\ndes séances.\nBESANÇON\nVille amie des aînés depuis 09-2011\nBESANÇON (25)\nFiche publiée le 22/01/2016\nPARTICIPATION CITOYENNE ET EMPLOI\nwww.villesamiesdesaines-rf.fr\nSi, comme Besançon, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION\nPrix Villes Amies des Aînés 2015\nThème: La lutte contre l’isolement\nCatégorie: Par ticipation citoyenne et emploi"
+    },
+    "porteur_initiative": "Titre: Accueillir les futurs et nouveaux retraités Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/203-203-accueil-retraites-besancon.pdf  ---  --- UNE ACTION QUI RÉPOND AUX BESOINS DES RETRAITÉS, ENGAGÉE PAR LES RETRAI - TÉS.",
+    "date": [
+        "22/01/2016",
+        "2025",
+        "2013",
+        "2000",
+        "2011",
+        "2016",
+        "2015",
+        "Depuis 2013"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accueillir_les_futurs_et_nouveaux_retraites.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Accueillir_les_futurs_et_nouveaux_retraites.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

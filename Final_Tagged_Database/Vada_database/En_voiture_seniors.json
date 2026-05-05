@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: En voiture seniors!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1098-concours-2024-en-voiture-seniors.pdf  ---  --- L’ENJEU DE LA MOBILITÉ Le thème de la mobilité chez les seniors a été sollicité par les seniors lors de la programmation des ateliers \"bons jours\".",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1098-concours-2024-en-voiture-seniors.pdf  ---  --- L’ENJEU DE LA MOBILITÉ Le thème de la mobilité chez les seniors a été sollicité par les seniors lors de la programmation des ateliers \"bons jours\".",
+    "description": {
+        "description_generale": "La thématique n'ayant pas pu être mise en œuvre via ce dispositif, le CCAS a décidé de créer son propre projet.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1098-concours-2024-en-voiture-seniors.pdf  ---  --- L’ENJEU DE LA MOBILITÉ Le thème de la mobilité chez les seniors a été sollicité par les seniors lors de la programmation des ateliers \"bons jours\".",
+        "problematique": "La mobilité reste une problématique de territoire majeure en milieu rural en raison d'une offre de transports limitée et inadaptée aux besoins des personnes âgées - la mobilité reste essentielle pour la vie sociale, et pour l'accès aux soins.",
+        "solution_envisagee": "Un grand nombre de participants a sollicité une mise en pratique avec la mise en place d'une heure individuelle de conduite avec un moniteur d'auto-école, en complément de la remise à niveau du code de la route.",
+        "objectifs": "Initialement, la jauge avait été fixée par l'auto-école à 10 personnes par séance, notamment pour favoriser l'échange entre le moniteur et les participants et offrir la possibilité de poser des questions en suspens par rapport à leurs pratiques de conduite."
+    },
+    "porteur_initiative": "CONSTRUCTION DU PROJET En 1er lieu, le CCAS a candidaté à l'appel à projet \"Actions collectives de prévention 2023\" porté par la conférence des financeurs de la prévention de la perte d'autonomie de Saône-et-Loire sur le volet \"mobilité\", pour présenter le projet et essayer d'obtenir des financements pour donner une envergure pertinente.",
+    "date": [
+        "2025",
+        "1098",
+        "2024",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\En_voiture_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\En_voiture_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Le café des seniors: un lieu de répit et de rencontres",
+    "territoire": "Titre: Le café des seniors: un lieu de répit et de rencontres Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/157-157-cafe-des-seniors.pdf  ---  --- UN LIEU DE RÉPIT La création du Café des Seniors est née d’un constat: les aînés Dijonnais, adhérents ou non à l’OPAD, avaient besoin d’un lieu de répit en accès libre au cœur de la ville et notamment à proximi - té du marché.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Toutefois, l’OPAD sollicite les médecins, les pharmacies, les kinési - thérapeutes, les infirmières et ses partenaires pou r informer les personnes âgées de l’ existence du café des seniors.",
+    "description": {
+        "description_generale": "L ’OPAD est labellisé MONALISA et conduit une action « les dimanches de la vie » financée par la Fondation de France.",
+        "contexte": "Titre: Le café des seniors: un lieu de répit et de rencontres Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/157-157-cafe-des-seniors.pdf  ---  --- UN LIEU DE RÉPIT La création du Café des Seniors est née d’un constat: les aînés Dijonnais, adhérents ou non à l’OPAD, avaient besoin d’un lieu de répit en accès libre au cœur de la ville et notamment à proximi - té du marché.",
+        "problematique": "Titre: Le café des seniors: un lieu de répit et de rencontres Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/157-157-cafe-des-seniors.pdf  ---  --- UN LIEU DE RÉPIT La création du Café des Seniors est née d’un constat: les aînés Dijonnais, adhérents ou non à l’OPAD, avaient besoin d’un lieu de répit en accès libre au cœur de la ville et notamment à proximi - té du marché.",
+        "solution_envisagee": "DES WEEK-END ANIMÉS Conscients de la solitude et de l’isolement plus pe - sants le week-end et de la nécessité d’y remédier, l’OPAD propose les samedis et dimanches de 14h à 17h, gratuitement et sans condition d’adhésion, des activités encadrées et animées par des béné - voles seniors et surtout par des étudiants de l’ESC.",
+        "objectifs": "Offrir aux aînés un lieu de repos et de répit au cœur du centre-\nville. Leur proposer le week-end des animations pour lutter\ncontre la solitude et l’isolement. Favoriser les rencontres et\nles liens sociaux.\nPRATIQUE\nDisposer de locaux aménagés au cœur de la ville à\nproximité des transports en commun. Proposer des sièges,\ndes lectures et une machine à boissons chaudes.\nOPAD\nDijon (21)\nFiche publiée le 26/05/2015\nCULTURE ET LOISIRS\nwww.villesamiesdesaines-rf.fr\nLIEN SOCIAL ET SOLIDARITÉ\nSi vous avez mis en place des projets pour\nles aînés, n’hésitez pas à nous en faire part.\nrfvada@gmail.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Celles-ci se font sur inscripti on et sont payantes: 2€ pour les adhérents et 3€ pour les non-adhérents.",
+    "date": [
+        "26/05/2015",
+        "2025",
+        "2014",
+        "2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cafe_des_seniors_un_lieu_de_repit_et_de_rencontres.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_cafe_des_seniors_un_lieu_de_repit_et_de_rencontres.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

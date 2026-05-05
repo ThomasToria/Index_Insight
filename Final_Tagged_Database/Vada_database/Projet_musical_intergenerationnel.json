@@ -1,0 +1,42 @@
+{
+    "titre": "Titre: Projet musical intergénérationnel",
+    "territoire": "Titre: Projet musical intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/847-pe-projet-musical-intergenerationnel.pdf  ---  --- CHANGER DE REGARD SUR LES AÎNES Dans le cadre de la Semaine Bleue, un projet musical intergénérationnel a vu le jour sous le thème « Changeons le regard sur nos ainés, brisons les préjugés ».",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "La responsable des activités seniors et la coordinatrice jeunesse de la MJC se sont associées pour travailler en transversalité sur le sujet: quels stéréotypes les jeunes ont-ils des séniors? et inversement.",
+    "description": {
+        "description_generale": "UN PROJET COMMUN QUI A DU SENS La MJC a proposé la réalisation d’une chanson avec six jeunes et six seniors de la MJC sur les représentations que chaque groupe a de l’autre.",
+        "contexte": "Titre: Projet musical intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/847-pe-projet-musical-intergenerationnel.pdf  ---  --- CHANGER DE REGARD SUR LES AÎNES Dans le cadre de la Semaine Bleue, un projet musical intergénérationnel a vu le jour sous le thème « Changeons le regard sur nos ainés, brisons les préjugés ».",
+        "problematique": "Titre: Projet musical intergénérationnel Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/847-pe-projet-musical-intergenerationnel.pdf  ---  --- CHANGER DE REGARD SUR LES AÎNES Dans le cadre de la Semaine Bleue, un projet musical intergénérationnel a vu le jour sous le thème « Changeons le regard sur nos ainés, brisons les préjugés ».",
+        "solution_envisagee": "Coût total: 1 900 euros.  ---  --- LES PARTENAIRES ET LES ACTEURS DU PROJET La MJC est le porteur principal du projet (recherche de l’auteur et du vidéaste – constitution des groupes - mise en place et organisation des ateliers).",
+        "objectifs": "DES OBJECTIFS ATTEINTS ET UNE SUITE POUR LE PROJET Le taux de participation aux deux projets, à la conférence sur l’âgisme ainsi qu'à la présentation du clip vidéo ont été utilisés comme outils d'évaluation."
+    },
+    "porteur_initiative": "Coût total: 1 900 euros.  ---  --- LES PARTENAIRES ET LES ACTEURS DU PROJET La MJC est le porteur principal du projet (recherche de l’auteur et du vidéaste – constitution des groupes - mise en place et organisation des ateliers).",
+    "date": [
+        "2025",
+        "2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_musical_intergenerationnel.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_musical_intergenerationnel.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

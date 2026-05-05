@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Atelier écriture",
+    "territoire": "Titre: Atelier écriture Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Atelier-ecriture.pdf  ---  --- UN ATELIER INSTALLÉ EN 2008 Un atelier régulier hebdomadaire a été mis en place en 2008 au CCAS, afin de répondre aux souhaits de seniors qui avaient envie de se regrouper collectivement et être accompagnés d'un.e animateur.trice pour les guider dans leur projet d'écriture.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Un point est fait chaque trimestre avec les seniors sur les activités et ateliers proposés par le CCAS lors d'une instance de consultation citoyenne au CCAS (Comité des Usagers).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Biot, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Biot, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Si, comme la Ville de Biot, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "solution_envisagee": "Les secteurs Accueil Animation et Direction du CCAS assurent la mise en place et le suivi de l'atelier (programmation du calendrier annuel et inscriptions, réservation de la salle, paiement des factures de l'intervenant et encaissement des règlements, réunion de bilan annuel, etc.).",
+        "objectifs": "Titre: Atelier écriture Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Atelier-ecriture.pdf  ---  --- UN ATELIER INSTALLÉ EN 2008 Un atelier régulier hebdomadaire a été mis en place en 2008 au CCAS, afin de répondre aux souhaits de seniors qui avaient envie de se regrouper collectivement et être accompagnés d'un.e animateur.trice pour les guider dans leur projet d'écriture."
+    },
+    "porteur_initiative": "L'atelier est aujourd'hui animé par un.e intervenant.e extérieur.e, artiste.",
+    "date": [
+        "2025",
+        "2008",
+        "2024",
+        "2592",
+        "depuis 2024",
+        "EN 2008",
+        "En 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_ecriture.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_ecriture.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

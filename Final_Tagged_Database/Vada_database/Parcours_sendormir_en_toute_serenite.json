@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Parcours (s'en)dormir en toute sérénité",
+    "territoire": "Titre: Parcours (s'en)dormir en toute sérénité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1089-pe-parcours-s-en-dormir-en-toute-serenite-3.pdf  ---  --- LES TROUBLES DU SOMMEIL CHEZ LES SENIORS La consommation de somnifère est particulièrement élevée et banalisée chez les personnes âgées, près d'un tiers des personnes âgées de plus de 65 ans et près de 40 % des plus de 85 ans en consomment de façon régulière.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Parcours (s'en)dormir en toute sérénité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1089-pe-parcours-s-en-dormir-en-toute-serenite-3.pdf  ---  --- LES TROUBLES DU SOMMEIL CHEZ LES SENIORS La consommation de somnifère est particulièrement élevée et banalisée chez les personnes âgées, près d'un tiers des personnes âgées de plus de 65 ans et près de 40 % des plus de 85 ans en consomment de façon régulière.",
+    "description": {
+        "description_generale": "En réponse à ce constat, le CCAS de Saint-Laurent-de-Mure, en partenariat avec la Mutualité Française, a souhaité proposer au public senior un projet construit en deux temps distincts: un temps fort sous format d'une conférence théâtralisée autour du bien-vieillir et du sommeil avec la présence d'experts, et un parcours découverte de pratiques en vue de favoriser un meilleur sommeil.",
+        "contexte": "En réponse à ce constat, le CCAS de Saint-Laurent-de-Mure, en partenariat avec la Mutualité Française, a souhaité proposer au public senior un projet construit en deux temps distincts: un temps fort sous format d'une conférence théâtralisée autour du bien-vieillir et du sommeil avec la présence d'experts, et un parcours découverte de pratiques en vue de favoriser un meilleur sommeil.",
+        "problematique": "En réponse à ce constat, le CCAS de Saint-Laurent-de-Mure, en partenariat avec la Mutualité Française, a souhaité proposer au public senior un projet construit en deux temps distincts: un temps fort sous format d'une conférence théâtralisée autour du bien-vieillir et du sommeil avec la présence d'experts, et un parcours découverte de pratiques en vue de favoriser un meilleur sommeil.",
+        "solution_envisagee": "En réponse à ce constat, le CCAS de Saint-Laurent-de-Mure, en partenariat avec la Mutualité Française, a souhaité proposer au public senior un projet construit en deux temps distincts: un temps fort sous format d'une conférence théâtralisée autour du bien-vieillir et du sommeil avec la présence d'experts, et un parcours découverte de pratiques en vue de favoriser un meilleur sommeil.",
+        "objectifs": "En réponse à ce constat, le CCAS de Saint-Laurent-de-Mure, en partenariat avec la Mutualité Française, a souhaité proposer au public senior un projet construit en deux temps distincts: un temps fort sous format d'une conférence théâtralisée autour du bien-vieillir et du sommeil avec la présence d'experts, et un parcours découverte de pratiques en vue de favoriser un meilleur sommeil."
+    },
+    "porteur_initiative": "En réponse à ce constat, le CCAS de Saint-Laurent-de-Mure, en partenariat avec la Mutualité Française, a souhaité proposer au public senior un projet construit en deux temps distincts: un temps fort sous format d'une conférence théâtralisée autour du bien-vieillir et du sommeil avec la présence d'experts, et un parcours découverte de pratiques en vue de favoriser un meilleur sommeil.",
+    "date": [
+        "2025",
+        "1089",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_sendormir_en_toute_serenite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Parcours_sendormir_en_toute_serenite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

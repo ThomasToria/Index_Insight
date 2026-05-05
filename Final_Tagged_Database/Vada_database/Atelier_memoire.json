@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Atelier mémoire",
+    "territoire": "Titre: Atelier mémoire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/917-concours-2023-atelier-memoire.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS STIMULER SA MÉMOIRE POUR MIEUX VIEILLIR Dans le cadre de sa politique inclusive tournée vers les aînés et le bien vieillir, le CCAS de Clamart a souhaité mettre en place des ateliers mémoire suite aux nombreuses sollicitations des seniors Clamartois qui voulaient stimuler et entraîner leur mémoire.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Atelier mémoire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/917-concours-2023-atelier-memoire.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS STIMULER SA MÉMOIRE POUR MIEUX VIEILLIR Dans le cadre de sa politique inclusive tournée vers les aînés et le bien vieillir, le CCAS de Clamart a souhaité mettre en place des ateliers mémoire suite aux nombreuses sollicitations des seniors Clamartois qui voulaient stimuler et entraîner leur mémoire.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Clamart, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "L’atelier se termine toujours par le même jeu/exercice, « le jeu du téléphone arabe »: encodage de 25 mots dans 25 catégories différentes.",
+        "problematique": "L’atelier se termine toujours par le même jeu/exercice, « le jeu du téléphone arabe »: encodage de 25 mots dans 25 catégories différentes.",
+        "solution_envisagee": "L’atelier se termine toujours par le même jeu/exercice, « le jeu du téléphone arabe »: encodage de 25 mots dans 25 catégories différentes.",
+        "objectifs": "Le projet vise à informer le public sur le fonctionnement cognitif et les différentes mémoires, mais aussi à aborder différentes techniques et méthodes favorisant sa préservation."
+    },
+    "porteur_initiative": "L’atelier se termine toujours par le même jeu/exercice, « le jeu du téléphone arabe »: encodage de 25 mots dans 25 catégories différentes.",
+    "date": [
+        "octobre 2022",
+        "mars 2023",
+        "2025",
+        "2023",
+        "2022",
+        "depuis 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_memoire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Atelier_memoire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

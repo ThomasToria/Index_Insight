@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: La Semaine Bleue des seniors",
+    "territoire": "Titre: La Semaine Bleue des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf  ---  --- LA FLEUR DE L'AGE: UN ROMAN-PHOTO INTERGÉNÉRATIONNEL ET DES BALADES Le projet est né après le projet Semaine Bleue 2017 « Nos seniors dans l’œil de Ken ».",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Titre: La Semaine Bleue des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf  ---  --- LA FLEUR DE L'AGE: UN ROMAN-PHOTO INTERGÉNÉRATIONNEL ET DES BALADES Le projet est né après le projet Semaine Bleue 2017 « Nos seniors dans l’œil de Ken ».",
+    "description": {
+        "description_generale": "Titre: La Semaine Bleue des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf  ---  --- LA FLEUR DE L'AGE: UN ROMAN-PHOTO INTERGÉNÉRATIONNEL ET DES BALADES Le projet est né après le projet Semaine Bleue 2017 « Nos seniors dans l’œil de Ken ».",
+        "contexte": "Titre: La Semaine Bleue des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf  ---  --- LA FLEUR DE L'AGE: UN ROMAN-PHOTO INTERGÉNÉRATIONNEL ET DES BALADES Le projet est né après le projet Semaine Bleue 2017 « Nos seniors dans l’œil de Ken ».",
+        "problematique": "Titre: La Semaine Bleue des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf  ---  --- LA FLEUR DE L'AGE: UN ROMAN-PHOTO INTERGÉNÉRATIONNEL ET DES BALADES Le projet est né après le projet Semaine Bleue 2017 « Nos seniors dans l’œil de Ken ».",
+        "solution_envisagee": "Il permet de développer et poursuivre l’utilisation du media photo, en y associant l’intergénérationnel.",
+        "objectifs": "LES ÉTAPES DU PROJET En juin, une réunion de l'ensemble des acteurs du projet a été organisée pour fixer les objectifs et les thèmes des balades."
+    },
+    "porteur_initiative": "Titre: La Semaine Bleue des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf  ---  --- LA FLEUR DE L'AGE: UN ROMAN-PHOTO INTERGÉNÉRATIONNEL ET DES BALADES Le projet est né après le projet Semaine Bleue 2017 « Nos seniors dans l’œil de Ken ».",
+    "date": [
+        "2025",
+        "2017",
+        "2019",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Semaine_Bleue_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_Semaine_Bleue_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

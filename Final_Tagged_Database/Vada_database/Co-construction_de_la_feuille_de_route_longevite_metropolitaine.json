@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Co-construction de la feuille de route longévité métropolitaine",
+    "territoire": "En décembre 2019, le rapport final du Grand débat \"Longévité, ouvrons les possibles\", rédigé par les services à partir des contributions recueillies, a été approuvé par le Conseil Métropolitain, qui a également pris l'engagement de co-construire une Feuille de route Longévité (Nantes Métropole, ses 24 communes, acteurs du territoire) et d'adhérer au Réseau Francophone des Villes Amies des Aînés.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "UNE DIFFUSION ÉTENDUE SUR L'ENSEMBLE DU TERRITOIRE La feuille de route a été largement diffusée auprès des élu.e.s de la Métropole et des 24 communes, des directions thématiques de la Métropole impliquées dans le pilotage d'engagements, des services seniors / solidarités des communes, des acteurs du territoire.",
+    "description": {
+        "description_generale": "Nantes Métropole (44) Ville Membre depuis 2019  ---  --- Les deux engagements pris par cette même instance en décembre 2019, lors de l'approbation du rapport final du Grand débat \"Longévité, ouvrons les possibles\", ont été honorés: 1) poser les principes d'un projet de territoire favorable à la longévité dans une feuille de route partagée et sa gouvernance associée, en s'appuyant sur la coopération d'une part entre les territoires et les différentes échelles d'action, et d'autre part entre les acteurs et 2) adhérer en tant que Métropole au RFVAA, aux côtés de 9 communes adhérentes.",
+        "contexte": "Finalement, à l'issue de cette première année de mise en œuvre opérationnelle, il est constaté une meilleure appropriation de la thématique longévité, dans la diversité de ses approches: de nouvelles coopérations et complémentarités émergent.",
+        "problematique": "Pour chaque thématique étaient rappelés les constats et enjeux issus des séminaires; à partir de ceux-ci, les participants ont identifié et priorisé les actions à mettre en place; ils ont également précisé le cadre nécessaire à leur mise en œuvre.",
+        "solution_envisagee": "La mise en œuvre des engagements permet de structurer les partenariats et modalités de réalisation des actions, d'apporter des ajustements aux pratiques, de faire émerger de nouvelles coopérations.",
+        "objectifs": "Finalement, à l'issue de cette première année de mise en œuvre opérationnelle, il est constaté une meilleure appropriation de la thématique longévité, dans la diversité de ses approches: de nouvelles coopérations et complémentarités émergent."
+    },
+    "porteur_initiative": "Finalement, à l'issue de cette première année de mise en œuvre opérationnelle, il est constaté une meilleure appropriation de la thématique longévité, dans la diversité de ses approches: de nouvelles coopérations et complémentarités émergent.",
+    "date": [
+        "mai 2019",
+        "décembre 2019",
+        "décembre 2021",
+        "2025",
+        "2019",
+        "2021",
+        "depuis 2019",
+        "En 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Co-construction_de_la_feuille_de_route_longevite_metropolitaine.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Co-construction_de_la_feuille_de_route_longevite_metropolitaine.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

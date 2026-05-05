@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Un parcours répit pour faciliter la vie des aidants",
+    "territoire": "Titre: Un parcours répit pour faciliter la vie des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1063-concours-2024-un-parcours-repit-pour-faciliter-la-vie-des-aidants.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°20-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS DIVERSIFIER L'OFFRE RÉPIT POUR RÉPONDRE À TOUS LES BESOINS Le CCAS de la Ville d’Angers a constaté une difficulté chez les aidants à accéder aux dispositifs de répit, et ce, malgré un fort besoin.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "UN PARCOURS RÉPIT POUR FACILITER LA VIE DES AIDANTS CCAS de la Ville d’Angers Ville Amie des Aînés depuis 2012 Angers (49) Pour les aidants: Soutenir l'aidant et éviter son épuisement; Faciliter l’accès aux soins des aidants en les suppléant; Veiller sur l'état de santé de l'aidant et l'orienter vers des consultations médicales spécifiques; Favoriser le lien social; Limiter les hospitalisations des aidants et de fait les ruptures de parcours des seniors à domicile.",
+    "description": {
+        "description_generale": "Si, comme la Ville d’Angers, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Un parcours répit pour faciliter la vie des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1063-concours-2024-un-parcours-repit-pour-faciliter-la-vie-des-aidants.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°20-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS DIVERSIFIER L'OFFRE RÉPIT POUR RÉPONDRE À TOUS LES BESOINS Le CCAS de la Ville d’Angers a constaté une difficulté chez les aidants à accéder aux dispositifs de répit, et ce, malgré un fort besoin.",
+        "problematique": "Titre: Un parcours répit pour faciliter la vie des aidants Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1063-concours-2024-un-parcours-repit-pour-faciliter-la-vie-des-aidants.pdf  ---  --- Fiche PARTAGE D'EXPÉRIENCE N°20-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS DIVERSIFIER L'OFFRE RÉPIT POUR RÉPONDRE À TOUS LES BESOINS Le CCAS de la Ville d’Angers a constaté une difficulté chez les aidants à accéder aux dispositifs de répit, et ce, malgré un fort besoin.",
+        "solution_envisagee": "Pour les proches aidés: Proposer des activités adaptées; Repérer les compétences pour l’orienter vers des solutions qui répondent aux besoins; Favoriser le lien social.",
+        "objectifs": "Pour les proches aidés: Proposer des activités adaptées; Repérer les compétences pour l’orienter vers des solutions qui répondent aux besoins; Favoriser le lien social."
+    },
+    "porteur_initiative": "Plusieurs freins sont détectés: psychologiques, matériels et administratifs.",
+    "date": [
+        "janvier 2024",
+        "2025",
+        "1063",
+        "2024",
+        "2012",
+        "2023",
+        "2021",
+        "depuis 2012",
+        "en 2023",
+        "en 2021",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "numérique",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_parcours_repit_pour_faciliter_la_vie_des_aidants.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_parcours_repit_pour_faciliter_la_vie_des_aidants.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

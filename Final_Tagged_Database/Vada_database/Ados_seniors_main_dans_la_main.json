@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Ados & seniors, main dans la main",
+    "territoire": "Titre: Ados & seniors, main dans la main Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/740-pe-ados-seniors-main-dans-la-main-atouts-ville-gravelines.pdf  ---  --- TRANSMISSION ENTRE GÉNÉRATIONS Face au vieillissement de la population gravelinoise et l'isolement qu'il peut engendrer, mais aussi à la présence de nombreux équipements et dispositifs accueillant du public de tout âge, à la volonté de valoriser la force de la transmission et de faire collectif sur le territoire, l'idée du projet est née.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Le public participant est également impatient de découvrir les clichés, notamment les familles des adolescents et des personnes âgées.",
+    "description": {
+        "description_generale": "UNE ACTION CO-CONSTRUITE Une fois le projet déposé et validé par le Département du Nord, les partenaires ciblés (particulièrement les structures d'accueil du public et les équipes d'animation et d'encadrement) ont quant à eux joué le rôle de présentation et d'explication du sens du projet.",
+        "contexte": "Si, comme à Gravelines, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Aperçu de l'exposition photos « Ados & seniors, main dans la main » bercée par ce projet et réalisée par Olivier Soury avec les ados d’Atouts Ville et les seniors des org anismes partenaires.",
+        "problematique": "Il apparaît nécessaire de proposer une continuité à ces actions intergénérationnelles, amenant de la joie et de nouvelles perspectives en matière de besoins. \"Ados Seniors Main dans la main\" est un projet action qui a intégré un projet plus global autour des enjeux liés au vieillissement de la population.",
+        "solution_envisagee": "Il apparaît nécessaire de proposer une continuité à ces actions intergénérationnelles, amenant de la joie et de nouvelles perspectives en matière de besoins. \"Ados Seniors Main dans la main\" est un projet action qui a intégré un projet plus global autour des enjeux liés au vieillissement de la population.",
+        "objectifs": "EVALUER LE PROJET Les objectifs ont été atteints."
+    },
+    "porteur_initiative": "Si, comme à Gravelines, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Aperçu de l'exposition photos « Ados & seniors, main dans la main » bercée par ce projet et réalisée par Olivier Soury avec les ados d’Atouts Ville et les seniors des org anismes partenaires.",
+    "date": [
+        "17 septembre 2021",
+        "octobre",
+        "septembre 2021",
+        "octobre 2020",
+        "2025",
+        "2017",
+        "2020",
+        "2021",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ados_seniors_main_dans_la_main.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ados_seniors_main_dans_la_main.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

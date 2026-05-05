@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Espace part'âge joséphine baker à bailleul atelier santé et activité physique adaptée",
+    "territoire": "Titre: Espace part'âge joséphine baker à bailleul atelier santé et activité physique adaptée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/998-concours-2023-espace-part-age-josephine-baker-a-bailleul-atelier-sante-et-activite-physique-adaptee.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DES DEMANDES SPÉCIFIQUES À L'ORIGINE DU PROJET Dans le cadre de ses activités \"Seniors\", l' Espace Part'âge Joséphine Baker proposait déjà le vendredi après-midi un atelier santé autour d'activités physiques avec différentes thématiques (techniques douces et relaxation, équilibre et prévention des chutes, randonnée, sports de raquettes par exemple).",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Espace part'âge joséphine baker à bailleul atelier santé et activité physique adaptée Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/998-concours-2023-espace-part-age-josephine-baker-a-bailleul-atelier-sante-et-activite-physique-adaptee.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS DES DEMANDES SPÉCIFIQUES À L'ORIGINE DU PROJET Dans le cadre de ses activités \"Seniors\", l' Espace Part'âge Joséphine Baker proposait déjà le vendredi après-midi un atelier santé autour d'activités physiques avec différentes thématiques (techniques douces et relaxation, équilibre et prévention des chutes, randonnée, sports de raquettes par exemple).",
+    "description": {
+        "description_generale": "Si, comme la Ville de Bailleul, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Bailleul, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Mais certains seniors n'avaient pas accès à cette activité suite à des problèmes de santé.",
+        "solution_envisagee": "Proposer aux seniors ayant des problèmes de santé de pouvoir continuer une activité physique une fois par semaine. Œuvrer à leur réinsertion dans des activités sociales.",
+        "objectifs": "L’objectif principal des APA est de prévenir l’apparition ou l’aggravation de maladies, d’augmenter l’autonomie et la qualité de vie des seniors, voire de les réinsérer dans des activités sociales."
+    },
+    "porteur_initiative": "Si, comme la Ville de Bailleul, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "septembre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Espace_partage_josephine_baker_a_bailleul_atelier_sante_et_activite_physique_adaptee.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Espace_partage_josephine_baker_a_bailleul_atelier_sante_et_activite_physique_adaptee.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

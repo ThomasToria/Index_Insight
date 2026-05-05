@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Emocionament \"Emotionnellement\"",
+    "territoire": "Titre: Emocionament \"Emotionnellement\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/767-concours-2022-3-emocionament-emotionnellement.pdf  ---  --- DES ATELIERS COLLECTIFS POUR AMÉLIORER LA GESTION ÉMOTIONNELLE Le projet consiste en la mise en place d’ateliers collectifs pendant deux semaines pour améliorer la gestion émotionnelle des situations angoissantes et prévenir ainsi la fragilité qui peut y être associée.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "EMOCIONAMENT \"EMOTIONNELLEMENT\" Fiche PARTAGE D'EXPÉRIENCE N°633 Villes Amies des Aînés en France Andorra la Vella (Principauté d'Andorre) Ville Membre depuis 2017 Promouvoir l’indépendance et l’autonomie des personnes âgées (prévention de la fragilité) tout en transmettant des outils pour: maintenir activement le bien-être physique, mental et social de l'individu.",
+    "description": {
+        "description_generale": "Mettre en place différents ateliers sur la gestion émotionnelle, le bien-être physique etc.  ---  --- UNE ACTION COLLECTIVE Le projet a été porté par différents partenaires: des kinésithérapeutes, une psycho-neuro-immunologue et une ostéopathe qui sont intervenus dans des ateliers d'activité physique et de nutrition.",
+        "contexte": "EMOCIONAMENT \"EMOTIONNELLEMENT\" Fiche PARTAGE D'EXPÉRIENCE N°633 Villes Amies des Aînés en France Andorra la Vella (Principauté d'Andorre) Ville Membre depuis 2017 Promouvoir l’indépendance et l’autonomie des personnes âgées (prévention de la fragilité) tout en transmettant des outils pour: maintenir activement le bien-être physique, mental et social de l'individu.",
+        "problematique": "Ce besoin survient à la suite du confinement dû au COVID-19, mais peut être appliqué facilement à toute autre situation émotionnellement stressante.",
+        "solution_envisagee": "Titre: Emocionament \"Emotionnellement\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/767-concours-2022-3-emocionament-emotionnellement.pdf  ---  --- DES ATELIERS COLLECTIFS POUR AMÉLIORER LA GESTION ÉMOTIONNELLE Le projet consiste en la mise en place d’ateliers collectifs pendant deux semaines pour améliorer la gestion émotionnelle des situations angoissantes et prévenir ainsi la fragilité qui peut y être associée.",
+        "objectifs": "Titre: Emocionament \"Emotionnellement\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/767-concours-2022-3-emocionament-emotionnellement.pdf  ---  --- DES ATELIERS COLLECTIFS POUR AMÉLIORER LA GESTION ÉMOTIONNELLE Le projet consiste en la mise en place d’ateliers collectifs pendant deux semaines pour améliorer la gestion émotionnelle des situations angoissantes et prévenir ainsi la fragilité qui peut y être associée."
+    },
+    "porteur_initiative": "Mettre en place différents ateliers sur la gestion émotionnelle, le bien-être physique etc.  ---  --- UNE ACTION COLLECTIVE Le projet a été porté par différents partenaires: des kinésithérapeutes, une psycho-neuro-immunologue et une ostéopathe qui sont intervenus dans des ateliers d'activité physique et de nutrition.",
+    "date": [
+        "juin 2020",
+        "septembre 2020",
+        "mai 2021",
+        "2025",
+        "2022",
+        "2020",
+        "2021",
+        "2017",
+        "depuis 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Emocionament_Emotionnellement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Emocionament_Emotionnellement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

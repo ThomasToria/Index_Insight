@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Bien chez soi",
+    "territoire": "Titre: Bien chez soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/728-pe-596-bien-chez-soi-grenoble.pdf  ---  --- ORGANISER LA COMMUNICATION, FAVORISER L'ÉCHANGE L’action “Bien chez soi” a pour objectif de permettre aux aînés de partager leur expérience vis-à-vis de leur logement actuel, afin de faciliter l’identification des problèmes par la Ville et le CCAS, des facteurs qui concourent au bien-être au sein de l’habitat: superficie, aménités à proximité, domicile individuel ou collectif, éventualité d'un déménagement etc.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Des liens ont ensuite été établis entre les trois groupes de réflexion, un support de communication a été diffusé et les habitants ont été invités.",
+    "description": {
+        "description_generale": "UN PROJET INCLUSIF Avant la mise en place de l’action, des réunions techniques préalables ont eu lieu et une conception partagée d'outils d’investigations et de support de communication a été élaborée.",
+        "contexte": "Une évaluation intermédiaire de l'action a été mise en place par le responsable de l'observation sociale et territoriale, à travers la rédaction d'un diagnostic relatif aux besoins des personnes âgées et aux résidences autonomie.",
+        "problematique": "Titre: Bien chez soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/728-pe-596-bien-chez-soi-grenoble.pdf  ---  --- ORGANISER LA COMMUNICATION, FAVORISER L'ÉCHANGE L’action “Bien chez soi” a pour objectif de permettre aux aînés de partager leur expérience vis-à-vis de leur logement actuel, afin de faciliter l’identification des problèmes par la Ville et le CCAS, des facteurs qui concourent au bien-être au sein de l’habitat: superficie, aménités à proximité, domicile individuel ou collectif, éventualité d'un déménagement etc.",
+        "solution_envisagee": "UN PROJET INCLUSIF Avant la mise en place de l’action, des réunions techniques préalables ont eu lieu et une conception partagée d'outils d’investigations et de support de communication a été élaborée.",
+        "objectifs": "Titre: Bien chez soi Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/728-pe-596-bien-chez-soi-grenoble.pdf  ---  --- ORGANISER LA COMMUNICATION, FAVORISER L'ÉCHANGE L’action “Bien chez soi” a pour objectif de permettre aux aînés de partager leur expérience vis-à-vis de leur logement actuel, afin de faciliter l’identification des problèmes par la Ville et le CCAS, des facteurs qui concourent au bien-être au sein de l’habitat: superficie, aménités à proximité, domicile individuel ou collectif, éventualité d'un déménagement etc."
+    },
+    "porteur_initiative": "Une évaluation intermédiaire de l'action a été mise en place par le responsable de l'observation sociale et territoriale, à travers la rédaction d'un diagnostic relatif aux besoins des personnes âgées et aux résidences autonomie.",
+    "date": [
+        "février 2021",
+        "septembre 2021",
+        "décembre 2021",
+        "2025",
+        "2021",
+        "2012",
+        "2017",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_chez_soi.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bien_chez_soi.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

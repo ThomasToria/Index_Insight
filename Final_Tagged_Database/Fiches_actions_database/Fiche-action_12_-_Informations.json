@@ -1,0 +1,41 @@
+{
+    "titre": "---  ---",
+    "territoire": "Il faudrait mettre une attention particulière sur la lutte contre l’isolement et encourager les seniors à participer à la vie de leur quartier/ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Tout au long de l’année, dans les lieux quotidiennement fréquentés par les personnes âgées D E S C R I P T O N Humaines: Chargé de communication et graphiste (spécialisé dans l’adaptation aux seniors) Coordination de la part de la ville Bénévoles Matérielles: Impression des flyers Présentoirs spécifiques Information et communication: … Financières: Minimales car intégrées dans ce que la ville fait déjà U Information",
+    "description": {
+        "description_generale": "---  --- FICHE-ACTION N°12 Campagne(s) d’information ciblée séniors Objectifs • Transmettre des informations claires et adaptées aux besoins des seniors • Toucher un plus grand nombre de seniors • Lutter contre l’isolement Indicateurs de réussite • Nombre de campagnes de flyers organisées • Nombre de nouveaux lieux de distribution • Nouvelles personnes touchées par la communication Quoi?",
+        "contexte": "---  --- FICHE-ACTION N°12 Campagne(s) d’information ciblée séniors Objectifs • Transmettre des informations claires et adaptées aux besoins des seniors • Toucher un plus grand nombre de seniors • Lutter contre l’isolement Indicateurs de réussite • Nombre de campagnes de flyers organisées • Nombre de nouveaux lieux de distribution • Nouvelles personnes touchées par la communication Quoi?",
+        "problematique": "---  --- FICHE-ACTION N°12 Campagne(s) d’information ciblée séniors Objectifs • Transmettre des informations claires et adaptées aux besoins des seniors • Toucher un plus grand nombre de seniors • Lutter contre l’isolement Indicateurs de réussite • Nombre de campagnes de flyers organisées • Nombre de nouveaux lieux de distribution • Nouvelles personnes touchées par la communication Quoi?",
+        "solution_envisagee": "---  --- FICHE-ACTION N°12 Campagne(s) d’information ciblée séniors Objectifs • Transmettre des informations claires et adaptées aux besoins des seniors • Toucher un plus grand nombre de seniors • Lutter contre l’isolement Indicateurs de réussite • Nombre de campagnes de flyers organisées • Nombre de nouveaux lieux de distribution • Nouvelles personnes touchées par la communication Quoi?",
+        "objectifs": "• Transmettre des informations claires et adaptées aux besoins des seniors\n• Toucher un plus grand nombre de seniors\n• Lutter contre l’isolement\nIndicateurs de réussite\n• Nombre de campagnes de flyers organisées\n• Nombre de nouveaux lieux de distribution\n• Nouvelles personnes touchées par la communication\nQuoi?\nAméliorer l’information que les personnes âgées reçoivent concernant la thématique de la\nsanté mais aussi sur d’autres sujets. Il s’agit de flyers d’informations courtes à mettre dans les\ncommerces, mairies de quartier, clubs du 3 e âge et autres endroits ciblés fréquentés par les\nseniors. Le format papier est à privilégier.\nIl faudrait mettre une attention particulière sur la lutte contre l’isolement et encourager les\nseniors à participer à la vie de leur quartier/ville.\nPour qui?\nTous les seniors de Metz\nOù et quand?\nTout au long de l’année, dans les lieux quotidiennement fréquentés par les personnes âgées\nD\nE\nS\nC\nR\nI\nP\nT\nO\nN\nHumaines:\nChargé de communication et graphiste (spécialisé dans l’adaptation aux seniors)\nCoordination de la part de la ville\nBénévoles\nMatérielles:\nImpression des flyers\nPrésentoirs spécifiques\nInformation et communication:\n…\nFinancières:\nMinimales car intégrées dans ce que la ville fait déjà\nU\nInformation"
+    },
+    "porteur_initiative": "---  --- FICHE-ACTION N°12 Campagne(s) d’information ciblée séniors Objectifs • Transmettre des informations claires et adaptées aux besoins des seniors • Toucher un plus grand nombre de seniors • Lutter contre l’isolement Indicateurs de réussite • Nombre de campagnes de flyers organisées • Nombre de nouveaux lieux de distribution • Nouvelles personnes touchées par la communication Quoi?",
+    "date": [],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_12_-_Informations.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\Fiche-action_12_-_Informations.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

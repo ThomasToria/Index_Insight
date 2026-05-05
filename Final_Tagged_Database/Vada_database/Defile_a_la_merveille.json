@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Défilé à la merveille",
+    "territoire": "UNE ANNÉE DE PRÉPARATION En 2022, ce projet a reçu le soutien du Conseil départemental de la Manche pour mettre en place des castings bienveillants sur 6 territoires de la Manche à savoir: Avranches, Coutances, Granville, Gavray, St Lo, Carentan.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Partant des retours positifs du défilé \"J'irai fleurir vos rêves\" en 2021, et suite à une demande importante des habitants de refaire ce type de projet intergénérationnel en tant que mannequins ou bénévoles, l'association a décidé collectivement de relancer une nouvelle aventure humaine et sociétale sur le territoire du département de la Manche.",
+    "description": {
+        "description_generale": "UNE ANNÉE DE PRÉPARATION En 2022, ce projet a reçu le soutien du Conseil départemental de la Manche pour mettre en place des castings bienveillants sur 6 territoires de la Manche à savoir: Avranches, Coutances, Granville, Gavray, St Lo, Carentan.",
+        "contexte": "Titre: Défilé à la merveille Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/937-concours-2023-defile-a-la-merveille.pdf  ---  --- LA MODE INTERGÉNÉRATIONELLE Depuis 2016, la ville travaille avec l'association FUTUR COLLECTIVE autour des défilés de mode éco-responsable intergénérationnels.",
+        "problematique": "L'évaluation se jugera sur l'assiduité des participants, sur les difficultés rencontrés, sur le succès populaire.",
+        "solution_envisagee": "Volonté de proposer un défilé intergénérationnel dans le département.",
+        "objectifs": "Titre: Défilé à la merveille Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/937-concours-2023-defile-a-la-merveille.pdf  ---  --- LA MODE INTERGÉNÉRATIONELLE Depuis 2016, la ville travaille avec l'association FUTUR COLLECTIVE autour des défilés de mode éco-responsable intergénérationnels."
+    },
+    "porteur_initiative": "Titre: Défilé à la merveille Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/937-concours-2023-defile-a-la-merveille.pdf  ---  --- LA MODE INTERGÉNÉRATIONELLE Depuis 2016, la ville travaille avec l'association FUTUR COLLECTIVE autour des défilés de mode éco-responsable intergénérationnels.",
+    "date": [
+        "juillet 2023",
+        "septembre 2023",
+        "2025",
+        "2023",
+        "2016",
+        "2021",
+        "2022",
+        "Depuis 2016",
+        "en 2021",
+        "En 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_a_la_merveille.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Defile_a_la_merveille.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

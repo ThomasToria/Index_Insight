@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Réseau Bénévoles",
+    "territoire": "Titre: Réseau Bénévoles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1129-pe-reseau-benevoles-1.pdf  ---  --- LUTTER CONTRE L’ISOLEMENT DES SENIORS Avec l e vieillissement, de la population et de l’allongement de la durée de vie, de plus en plus de personnes âgées vivent seules, souvent dans une situation d'isolement social.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "Titre: Réseau Bénévoles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1129-pe-reseau-benevoles-1.pdf  ---  --- LUTTER CONTRE L’ISOLEMENT DES SENIORS Avec l e vieillissement, de la population et de l’allongement de la durée de vie, de plus en plus de personnes âgées vivent seules, souvent dans une situation d'isolement social.",
+    "description": {
+        "description_generale": "Si, comme la Ville de XXXX, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Face à ce constat, l'idée de créer un réseau de bénévoles pour lutter contre l'isolement des aînés a émergé comme une réponse concrète et adaptée.",
+        "problematique": "Titre: Réseau Bénévoles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1129-pe-reseau-benevoles-1.pdf  ---  --- LUTTER CONTRE L’ISOLEMENT DES SENIORS Avec l e vieillissement, de la population et de l’allongement de la durée de vie, de plus en plus de personnes âgées vivent seules, souvent dans une situation d'isolement social.",
+        "solution_envisagee": "Face à ce constat, l'idée de créer un réseau de bénévoles pour lutter contre l'isolement des aînés a émergé comme une réponse concrète et adaptée.",
+        "objectifs": "Ce projet vise à mobiliser des citoyens volontaires pour établir un lien social avec les personnes âgées isolées, en leur offrant de la compagnie, du soutien, et en les aidant à accéder aux services dont elles ont besoin."
+    },
+    "porteur_initiative": "Titre: Réseau Bénévoles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1129-pe-reseau-benevoles-1.pdf  ---  --- LUTTER CONTRE L’ISOLEMENT DES SENIORS Avec l e vieillissement, de la population et de l’allongement de la durée de vie, de plus en plus de personnes âgées vivent seules, souvent dans une situation d'isolement social.",
+    "date": [
+        "janvier 2018",
+        "juin 2018",
+        "octobre 2018",
+        "2025",
+        "1129",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Benevoles.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Reseau_Benevoles.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

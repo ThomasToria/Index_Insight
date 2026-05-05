@@ -1,0 +1,63 @@
+{
+    "titre": "Titre: Bib' à Dom', un service de portage de livres à domicile",
+    "territoire": "Titre: Bib' à Dom', un service de portage de livres à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/163-pe-bibadom-mise-en-forme-2023.pdf  ---  --- FONCTIONNEMENT La Bibliothèque à Domicile - dite la Bib’ à Dom’ - est une association Loi 1901 créée en 1984 qui a pour but de permettre aux personnes dans l’incapacité, même temporaire, de se déplacer, d’avoir accès ou de continuer à avoir accès à la lecture et aux livres.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Mme Rivoire, adjointe à la mairie de Lyon, était présente sur ce forum, ainsi que Mr Bel, adjoint chargé des personnes âgées du 3ème.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Le Progrès, 15 janvier 2014",
+        "contexte": "Pour s’informer plus précisément on peut soit venir à la permanence du mardi après-midi, téléphoner au 04 78 62 19 64, adresser un mail (bibadomlyon@yahoo.fr), ou consulter le blog (http://labibadomlyon. blogspot.com).",
+        "problematique": "Mais son souci principal est actuellement de faire passer l’information aux personnes isolées qui pourraient avoir envie ou besoin de se procurer des livres ou d’écouter des lectures.",
+        "solution_envisagee": "La Bib’ à Dom’ propose également des lectures à haute voix à domicile par des bénévoles ayant suivi une formation.",
+        "objectifs": "Titre: Bib' à Dom', un service de portage de livres à domicile Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/163-pe-bibadom-mise-en-forme-2023.pdf  ---  --- FONCTIONNEMENT La Bibliothèque à Domicile - dite la Bib’ à Dom’ - est une association Loi 1901 créée en 1984 qui a pour but de permettre aux personnes dans l’incapacité, même temporaire, de se déplacer, d’avoir accès ou de continuer à avoir accès à la lecture et aux livres."
+    },
+    "porteur_initiative": "La Bibliothèque à Domicile participe également à des salons et forums, comme la Semaine bleue, ou récemment, en mars 2015, le Forum “Bien vieillir chez soi”, organisé par la Mairie du 2ème, et le “Forum Bien vieillir à Domicile”, organisé par les associations Alerte et Un Moment de Détente.",
+    "date": [
+        "7 AVRIL 2014",
+        "15 janvier 2014",
+        "mars 2015",
+        "FÉVRIER 2013",
+        "AVRIL 2014",
+        "janvier 2014",
+        "27/05/2015",
+        "2025",
+        "2023",
+        "1901",
+        "1984",
+        "2015",
+        "2012",
+        "2013",
+        "2014",
+        "2011",
+        "depuis 2012",
+        "depuis 2011",
+        "en 1984"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bib_a_Dom_un_service_de_portage_de_livres_a_domicile.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bib_a_Dom_un_service_de_portage_de_livres_a_domicile.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Le \"pari foot\" - tournoi de babyfoot intergénérationnel du pari solidaire Lyon",
+    "territoire": "Titre: Le \"pari foot\" - tournoi de babyfoot intergénérationnel du pari solidaire Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/980-concours-2023-le-pari-foot-tournoi-de-babyfoot-intergenerationnel-du-pari-solidaire-lyon.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN JOUR DE PLUIE Le \"Pari Solidaire Lyon\" est une association qui a pour but de mettre en relation des seniors ayant une chambre disponible avec des étudiants en recherche d'hébergement sur la base de l'échange \"chambre contre présence ou contre participation financière\".",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Le \"pari foot\" - tournoi de babyfoot intergénérationnel du pari solidaire Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/980-concours-2023-le-pari-foot-tournoi-de-babyfoot-intergenerationnel-du-pari-solidaire-lyon.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN JOUR DE PLUIE Le \"Pari Solidaire Lyon\" est une association qui a pour but de mettre en relation des seniors ayant une chambre disponible avec des étudiants en recherche d'hébergement sur la base de l'échange \"chambre contre présence ou contre participation financière\".",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "BABYFOOT: 18 ÉQUIPES EN COMPÉTITION Le tournoi s'est déroulé à l'occasion du Rendez-vous intergénérationnel annuel du Pari Solidaire Lyon au Domaine de l'île Barbe, le mercredi 7 juin 2023.",
+        "problematique": "De nombreux messages de remerciements ont été reçus des participant.es, qui sont autant d'indicateurs d'un moment important pour des personnes qui peuvent souffrir d'isolement.",
+        "solution_envisagee": "LE \"PARI FOOT\" - TOURNOI DE BABYFOOT INTERGÉNÉRATIONNEL DU PARI SOLIDAIRE LYON Fiche PARTAGE D'EXPÉRIENCE N°843 Villes Amies des Aînés en France Association Le Pari Solidaire Lyon Ville Amie des Aînés depuis 2012 Lyon (69) Proposer un évènement à la fois sportif et convivial pouvant être accessible à toutes et tous.",
+        "objectifs": "Titre: Le \"pari foot\" - tournoi de babyfoot intergénérationnel du pari solidaire Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/980-concours-2023-le-pari-foot-tournoi-de-babyfoot-intergenerationnel-du-pari-solidaire-lyon.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UN JOUR DE PLUIE Le \"Pari Solidaire Lyon\" est une association qui a pour but de mettre en relation des seniors ayant une chambre disponible avec des étudiants en recherche d'hébergement sur la base de l'échange \"chambre contre présence ou contre participation financière\"."
+    },
+    "porteur_initiative": "BABYFOOT: 18 ÉQUIPES EN COMPÉTITION Le tournoi s'est déroulé à l'occasion du Rendez-vous intergénérationnel annuel du Pari Solidaire Lyon au Domaine de l'île Barbe, le mercredi 7 juin 2023.",
+    "date": [
+        "7 juin 2023",
+        "juin 2023",
+        "2025",
+        "2023",
+        "2021",
+        "4000",
+        "2012",
+        "2024",
+        "depuis 2012",
+        "En 2021",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_pari_foot_-_tournoi_de_babyfoot_intergenerationnel_du_pari_solidaire_Lyon.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_pari_foot_-_tournoi_de_babyfoot_intergenerationnel_du_pari_solidaire_Lyon.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Un atelier de cuisine au masculin",
+    "territoire": "Titre: Un atelier de cuisine au masculin Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/928-concours-2023-un-atelier-de-cuisine-au-masculin.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS FAIRE VENIR LES HOMMES EN CUISINE L’OPAR, Observatoire et Pôle d’Animation des Retraités Rennais, est une association dont l'objectif est de participer au « Bien vieillir » des retraités, en proposant et développant des animations et formations adaptées qui favorisent le bien-être, le lien social, les initiatives, la solidarité et la citoyenneté.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En effet, beaucoup d'hommes seniors ont peu d'expérience, et manquent d'autonomie en cuisine, trop souvent considérée comme une activité féminine.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "En 2017, l'OPAR a constaté que les ateliers Cuisine Bio Santé proposé comptaient très peu d'hommes parmi les participants.",
+        "problematique": "DES ATELIERS ADAPTÉS AUX BESOINS Le but des ateliers pour les seniors est d'apprendre à préparer un repas équilibré et adapté à leurs besoins nutritionnels, leur matériel personnel et à toutes les bourses.",
+        "solution_envisagee": "Conférence ouverte avec une diététicienne; Mise en place des ateliers: 6 ateliers de 4 heures; Ateliers ouverts à tous les retraités hommes; Par atelier, réalisation d'un menu puis dégustation; Fonctionnement de l'atelier par thématique; Menu modulable selon les envies de chacun.  ---  --- BILAN ET PÉRÉNISATION Le bilan des ateliers est toujours très positif, c'est pourquoi l'action est renouvelée chaque année.",
+        "objectifs": "Un des objectifs est d'aider les aînés à modifier leurs comportements alimentaires, en leur donnant des clés."
+    },
+    "porteur_initiative": "Si, comme la Ville de Rennes, vous avez mis en plac e des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2023",
+        "2017",
+        "2012",
+        "depuis 2012",
+        "En 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_atelier_de_cuisine_au_masculin.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_atelier_de_cuisine_au_masculin.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

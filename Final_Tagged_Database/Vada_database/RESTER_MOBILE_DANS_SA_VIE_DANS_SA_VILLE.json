@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: RESTER MOBILE DANS SA VIE, DANS SA VILLE!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/824-concours-2022-51-rester-mobile-dans-sa-vie-dans-sa-ville.pdf  ---  --- DEUX PROGRAMMES DE SENSIBILISATION AUX DANGERS ROUTIERS La conduite et la route représentent des dangers qui peuvent limiter la mobilité des seniors.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Fiche PARTAGE D'EXPÉRIENCE N°690 Villes Amies des Aînés en France Reims (51) Ville Membre depuis 2020 Donner aux seniors les outils pour conduire en sécurité pour eux-mêmes et les autres usagers de la route grâce à la remise à niveau du Code de la route, et les remettre en confiance et au niveau.",
+    "description": {
+        "description_generale": "Je tenais à vous remercier pour cette initiative ô combien utile pour nous qui avons passé et obtenu le permis de conduire il y a une cinquantaine d’années. […]\" UN PROJET COLLABORATIF: UNE SOLUTION POUR LES AUTOMOBILISTES ET LES PIÉTONS Divers partenaires ont participé à la mise en place de l'action.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/824-concours-2022-51-rester-mobile-dans-sa-vie-dans-sa-ville.pdf  ---  --- DEUX PROGRAMMES DE SENSIBILISATION AUX DANGERS ROUTIERS La conduite et la route représentent des dangers qui peuvent limiter la mobilité des seniors.",
+        "problematique": "Deux programmes ont été coconstruits pour répondre aux besoins des conducteurs et des piétons.",
+        "solution_envisagee": "Je tenais à vous remercier pour cette initiative ô combien utile pour nous qui avons passé et obtenu le permis de conduire il y a une cinquantaine d’années. […]\" UN PROJET COLLABORATIF: UNE SOLUTION POUR LES AUTOMOBILISTES ET LES PIÉTONS Divers partenaires ont participé à la mise en place de l'action.",
+        "objectifs": "Elle a aussi commandé et coconstruit un programme expérimental et innovant, en lien avec le code de la rue du Grand Reims, en intégrant l'approche des bienfaits de la marche sur la santé: podomètres avec livrets réalisés par les services recensant les objectifs de nombre de pas, l'humeur du moment pour faire prendre conscience aux seniors qu'il y a un lien entre activité physique de marche et bien-être."
+    },
+    "porteur_initiative": "Cette approche en deux volets tend aussi à leur faire découvrir de nouveaux modes de mobilité: elle valorise la marche à pied plutôt que la voiture quand cela est possible, la marche comme vecteur bienfaisant pour leur santé et le climat.  un rallye pédestre en ville avec un quiz animé par un bénévole de la prévention routière sur des situations rencontrées sur le parcours, d'une durée de quarante minutes; une animation ludique par équipe sur le thème \"Tous piétons\", d'une durée de 45 minutes; une remise des récompenses aux participants avec l'obtention d'un diplôme \"Tous piétons\" avant le verre de l'amitié.",
+    "date": [
+        "2025",
+        "2022",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\RESTER_MOBILE_DANS_SA_VIE_DANS_SA_VILLE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\RESTER_MOBILE_DANS_SA_VIE_DANS_SA_VILLE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

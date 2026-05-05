@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Plateforme Info Seniors Vaud",
+    "territoire": "Titre: Plateforme Info Seniors Vaud Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/674-pe-542-plateforme-info-seniors-vaud-pro-senectute-vaud.pdf  ---  --- UNE OFFRE D’INFORMATIONS DIVERSIFIÉE ET ACCESSIBLE POUR TOUS Les seniors et leurs proches peuvent se sentir démunis lorsqu’ils se retrouvent confrontés à une situation nécessitant des conseils sur l’avancée en âge car il n’est pas toujours aisé de savoir où obtenir des réponses et orientations adaptées.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Simple d’utilisation et gratuite, la plateforme Info seniors Vaud s’adresse donc à tous les seniors, proches et professionnels du domaine social et de la santé qui ne peuvent pas se déplacer.",
+    "description": {
+        "description_generale": "Le Canton de Vaud a soutenu financièrement le projet (coût de la plateforme), la Fondation Leenaards a donné un soutien plus large au dispositif intégré d’informations dans lequel s’inscrit la plateforme et la Loterie romande a participé à la promotion de la plateforme.",
+        "contexte": "Constatant leurs difficultés, Pro Senectute Vaud a décidé de développer en 2014 son point Info-seniors, créé en 1999.",
+        "problematique": "Constatant leurs difficultés, Pro Senectute Vaud a décidé de développer en 2014 son point Info-seniors, créé en 1999.",
+        "solution_envisagee": "Titre: Plateforme Info Seniors Vaud Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/674-pe-542-plateforme-info-seniors-vaud-pro-senectute-vaud.pdf  ---  --- UNE OFFRE D’INFORMATIONS DIVERSIFIÉE ET ACCESSIBLE POUR TOUS Les seniors et leurs proches peuvent se sentir démunis lorsqu’ils se retrouvent confrontés à une situation nécessitant des conseils sur l’avancée en âge car il n’est pas toujours aisé de savoir où obtenir des réponses et orientations adaptées.",
+        "objectifs": "Pro Senectute Vaud (Suisse) Membre depuis 2017  ---  --- UN SYSTÈME AUTO-ÉVALUATEUR QUI ÉVOLUE EN CONTINU Les objectifs fixés tant au niveau du contenu, de la forme (navigation simplifiée) que de la participation des partenaires-contributeurs ont été pleinement atteints et dans les délais impartis."
+    },
+    "porteur_initiative": "Les thématiques sont nombreuses et variées: elles concernent l’habitat et la sécurité, les assurances sociales, les questions juridiques, les actualités, les “bons plans”, mais la plateforme comporte aussi un annuaire des institutions ou encore un agenda des évènements.",
+    "date": [
+        "2025",
+        "2014",
+        "1999",
+        "2015",
+        "2020",
+        "2017",
+        "2021",
+        "depuis 2017",
+        "depuis 2015",
+        "en 2014",
+        "en 1999",
+        "en 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plateforme_Info_Seniors_Vaud.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plateforme_Info_Seniors_Vaud.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

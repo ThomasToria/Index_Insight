@@ -1,0 +1,208 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche6-Mobilite.txt",
+    "nom_fichier": "Fiche6-Mobilite.txt",
+    "lignes": [
+        "---  ---",
+        "MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés",
+        "Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question",
+        "Quoi? Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui? Toutes personnes âgées sans moyen de transport Où et quand? Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport",
+        "DESCRIPTION",
+        "Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport? Achat d’un mini bus et organisation s’un service? Information et communication: Réunion d’information générale Financières: A préciser",
+        "RESSOURCES",
+        "Mobilité"
+    ],
+    "paragraphes": [
+        "---  ---\nMODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés\nObjectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question\nQuoi? Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui? Toutes personnes âgées sans moyen de transport Où et quand? Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport\nDESCRIPTION\nHumaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport? Achat d’un mini bus et organisation s’un service? Information et communication: Réunion d’information générale Financières: A préciser\nRESSOURCES\nMobilité"
+    ],
+    "phrases": [
+        "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+        "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+        "Toutes personnes âgées sans moyen de transport Où et quand?",
+        "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+        "Achat d’un mini bus et organisation s’un service?",
+        "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité"
+    ],
+    "stats": {
+        "nombre_lignes": 8,
+        "nombre_paragraphes": 1,
+        "nombre_phrases": 6,
+        "nombre_caracteres": 1469,
+        "nombre_sections_detectees": 1,
+        "nombre_dates_candidates": 0,
+        "nombre_territoires_candidates": 0,
+        "nombre_organisations_candidates": 1,
+        "nombre_public_vise_candidates": 5,
+        "nombre_porteur_candidates": 4,
+        "nombre_territoire_candidates": 4,
+        "nombre_description_candidates": 5,
+        "nombre_contexte_candidates": 4,
+        "nombre_problematique_candidates": 4,
+        "nombre_solution_candidates": 4,
+        "nombre_objectifs_candidates": 4
+    },
+    "sections_detectees": {
+        "description": "Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport? Achat d’un mini bus et organisation s’un service? Information et communication: Réunion d’information générale Financières: A préciser\nRESSOURCES\nMobilité"
+    },
+    "entites_candidates": {
+        "dates_candidates": [],
+        "territoires_candidates": [],
+        "organisations_candidates": [
+            "Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêm"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 3
+            },
+            {
+                "texte": "Toutes personnes âgées sans moyen de transport Où et quand?",
+                "score": 2
+            },
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 2
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 1
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 2
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 1
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 1
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 8
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 3
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 1
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport? Achat d’un mini bus et organisation s’un service? Information et communication: Réunion d’information générale Financières: A préciser\nRESSOURCES\nMobilité",
+                "score": 10,
+                "source": "section_detectee"
+            },
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 4
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 3
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 1
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 2
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 1
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 1
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 4
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 3
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 1
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 2
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 1
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "---  --- MODÈLE DE FICHE-ACTION FICHE-ACTION N°6 ADAPTER les services de transports aux ainés Objectifs • Proposer des solutions de transport à cout réduit avec des objectifs bien définies (accés aux soins notamment mais aussi à la vie sociale) Indicateurs de réussite • Volonté politique de réfléchir à la question Quoi?",
+                "score": 5
+            },
+            {
+                "texte": "Pour les personnes qui ont avec l’âge des difficultés à se véhiculer en dehors des trajets habituels et sur de courtes distances, leur donner la possibilité d’utiliser des transports en commun « adaptés » pour leur permettre de bouger: -Accès facilité aux grandes villes / pouvoir se rendre aux arrêts de tramway pour accéder au centre ville de Montpellier ou aux hôpitaux Pour les personnes âgées non véhiculées, organiser un transport pour se rendre à la maison médicale si elle est en dehors des 2 villages historiques (Acquérir un mini-bus communal?intercommunal?Mutualiser avec l’école?) Pour qui?",
+                "score": 3
+            },
+            {
+                "texte": "Sur la commune d’Entre-Vignes mais qui peut être mutualisé sur les communes voisines ayant les mêmes problématiques Réfexion à conduire au niveau des politiques de la ville, l’intercommunalité et les réseaux de transport DESCRIPTION Humaines: Investissement des élus locaux Matérielles: Négociation avec les réseaux de transport?",
+                "score": 2
+            },
+            {
+                "texte": "Information et communication: Réunion d’information générale Financières: A préciser RESSOURCES Mobilité",
+                "score": 2
+            }
+        ]
+    }
+}

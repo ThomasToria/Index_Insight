@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Plan de lutte contre isolement des personnes âgées à domicileV",
+    "territoire": "Titre: Plan de lutte contre isolement des personnes âgées à domicileV Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/867-pe-plan-de-lutte-contre-isolement-des-personnes-agees-a-domicile.pdf  ---  --- UN PLAN TERRITORIAL ET PARTENARIAL La ville de Saint-Nazaire et plus particulièrement le Pôle prévention seniors a été plébiscitée par les acteurs du territoire afin de coordonner et animer la question de l'isolement des personnes âgées à domicile.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Plan de lutte contre isolement des personnes âgées à domicileV Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/867-pe-plan-de-lutte-contre-isolement-des-personnes-agees-a-domicile.pdf  ---  --- UN PLAN TERRITORIAL ET PARTENARIAL La ville de Saint-Nazaire et plus particulièrement le Pôle prévention seniors a été plébiscitée par les acteurs du territoire afin de coordonner et animer la question de l'isolement des personnes âgées à domicile.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Nazaire, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "LE CCAS COMME COORDINATEUR En 2020, le contexte sanitaire a nécessité la mise en place d’une organisation expérimentale de liens du CCAS avec les structures présentes sur le territoire.",
+        "problematique": "Il s’agit de d éfinir les enjeux de l’isolement, partager une définition commune, se connaître et se reconnaître.",
+        "solution_envisagee": "LE CCAS COMME COORDINATEUR En 2020, le contexte sanitaire a nécessité la mise en place d’une organisation expérimentale de liens du CCAS avec les structures présentes sur le territoire.",
+        "objectifs": "D'autres acteurs seront associés afin de permettre de participer au repérage des personnes isolées et développer de nouvelles réponses à apporter aux différents besoins (professionnels de santé, acteurs du social et médicosocial, secouristes, facteurs, gardiens, voisins, commerçants et tout citoyen)."
+    },
+    "porteur_initiative": "Ils apportent ainsi leur vision du sujet et sont eux - mêmes porteurs de solutions.",
+    "date": [
+        "2025",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2019",
+        "depuis 2019",
+        "En 2020",
+        "en 2021",
+        "en 2022",
+        "En 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plan_de_lutte_contre_isolement_des_personnes_agees_a_domicileV.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plan_de_lutte_contre_isolement_des_personnes_agees_a_domicileV.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.8,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

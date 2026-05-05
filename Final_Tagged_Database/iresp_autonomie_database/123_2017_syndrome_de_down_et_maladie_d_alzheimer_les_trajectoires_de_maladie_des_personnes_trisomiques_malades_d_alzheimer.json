@@ -1,0 +1,55 @@
+{
+    "titre": "Syndrome de Down et maladie d’Alzheimer. Les trajectoires de maladie des personnes trisomiques malades d’Alzheimer",
+    "territoire": "Cette recherche se déroulera dans les départements du Nord et du Pas – de – Calais.",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "Ensuite, se pose la question de leur prise en charge: il n’existe actuellement pas, en France, de dispositifs dédiés aux personnes trisomiques malades d’Alzheimer, et elles constituent un public qui se trouve à l’intersection de différents champs de l’intervention médicosociale.",
+    "description": {
+        "description_generale": "Nous approfondirons plus particulièrement trois aspects de cette mise en forme: les représentations qu’ont les différents acteurs de la maladie, de la vieillesse et du handicap; les pratiques d’accompagnement, appréhendées dans leur diversité, et leur coordination; l’organisation politique et institutionnelle des dispositifs sanitaires et médicosociaux.",
+        "contexte": "Ce projet vise à éclairer les conditions de diagnostic et de prise en charge de personnes trisomiques malades d’Alzheimer et vivant dans différents contextes de vie, à domicile ou en établissement médicosocial.",
+        "problematique": "Or, plusieurs difficultés spécifiques apparaissent pour les personnes trisomiques malades d’Alzheimer.",
+        "solution_envisagee": "Nous approfondirons plus particulièrement trois aspects de cette mise en forme: les représentations qu’ont les différents acteurs de la maladie, de la vieillesse et du handicap; les pratiques d’accompagnement, appréhendées dans leur diversité, et leur coordination; l’organisation politique et institutionnelle des dispositifs sanitaires et médicosociaux.",
+        "objectifs": "Ce projet vise à éclairer les conditions de diagnostic et de prise en charge de personnes trisomiques malades d’Alzheimer et vivant dans différents contextes de vie, à domicile ou en établissement médicosocial."
+    },
+    "porteur_initiative": "Les trajectoires de maladie des personnes trisomiques malades d’Alzheimer - Vincent CARADEC Equipes du projet Coordonnateur: CARADEC Vincent N° ORCID: 0000-0003-1653-128X Structure administrative de rattachement: Université Lille 3 Laboratoire ou équipe: Centre de Recherches « Individus, Épreuves, Sociétés » CeRIES (EA 3589) N° RNSR: 200214864C Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour?",
+    "date": [
+        "03/03/2026",
+        "27/02/2026",
+        "05/02/2026",
+        "10/04/2025",
+        "2017",
+        "0000",
+        "0003",
+        "1653",
+        "3589",
+        "2026",
+        "2025"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "IRESP Autonomie",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\123_2017_syndrome_de_down_et_maladie_d_alzheimer_les_trajectoires_de_maladie_des_personnes_trisomiques_malades_d_alzheimer.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\iresp_autonomie_database\\123_2017_syndrome_de_down_et_maladie_d_alzheimer_les_trajectoires_de_maladie_des_personnes_trisomiques_malades_d_alzheimer.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

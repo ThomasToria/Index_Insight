@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: A Dijon, une journée de l’audition",
+    "territoire": "Titre: A Dijon, une journée de l’audition Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/341-341-journee-de-l-audition.pdf  ---  --- PERTE D’AUDITION ET ISOLEMENT DES AÎNÉS Dans le cadre du travail conséquent initié par l’Ob - servatoire de l’âge de la Ville de Dijon sur le thè me de la lutte contre l’isolement, la perte d’audition a été identifiée comme étant un facteur de risque important.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "UNE JOURNÉE D’INFORMATION ET DE DÉ - PISTAGE Plusieurs rencontres du groupe de travail ont été n é- cessaires pour préparer la journée de sensibilisati on des seniors, ainsi que des rencontres entre bénévol es et professionnels.",
+    "description": {
+        "description_generale": "UNE ACTION RÉUSSIE Le bilan est positif, puisqu’ en progression depuis 2016.",
+        "contexte": "Elle est rythmée par les interventions d’experts divers: gériatres, audioprothésistes ou encore associations impliquées (information sur les prises en charge fi - nancières, mutuelles).",
+        "problematique": "Titre: A Dijon, une journée de l’audition Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/341-341-journee-de-l-audition.pdf  ---  --- PERTE D’AUDITION ET ISOLEMENT DES AÎNÉS Dans le cadre du travail conséquent initié par l’Ob - servatoire de l’âge de la Ville de Dijon sur le thè me de la lutte contre l’isolement, la perte d’audition a été identifiée comme étant un facteur de risque important.",
+        "solution_envisagee": "Proposer une information large, lors de la Journée Nationale de l’Audition, sur le vieillissement de l’appareil auditif, ses conséquences et les solutions exis - tantes.",
+        "objectifs": "Lutter contre l’isolement des aînés en soutenant la préven -\ntion de la perte d’audition. Proposer une information large,\nlors de la Journée Nationale de l’Audition, sur le vieillissement\nde l’appareil auditif, ses conséquences et les solutions exis -\ntantes. Contribuer au dépistage précoce de la perte d’audi -\ntion.\nPRATIQUE\nOrganiser une journée d’information et de prévention sur\nla perte d’audition. Faire intervenir des experts sur le sujet.\nProposer des tests de dépistage par des professionnels.\nCoût: 700 euros\nDIJON\nVille Amie des Aînés depuis 06-2009\nDijon (21)\nFiche publiée le 10/10/2017\nJEUDI 9 MARS 2017\nMAISON DES SENIORS\nDe 9H30 à 12H et de 14H à 16H30:\nDépistages auditifs gratuits\nà but non médical\nInscriptions obligatoires\nMaison des Seniors\n03 80 74 71 71\nDe 10H30 à 11H30\net de 15H30 à 16H30:\nConférences\nQu’est-ce qu’un audioprothésiste?\nPourquoi s’appareiller?\nLes différents appareils auditifs\net leurs coûts?\nDe 14H30 à 15H30:\nAppareil auditif et vieillissement Intervention: Pr. JOUANNY,\nCHU de Dijon Toute la journée,\nPoint d’information\nAssociation AGIR abcd\nDe 9H30 à 12 H et de 14 H à 16H30\nJOURNÉE NATIONALE DE L’AUDITION\n03 80 74 71 71\nwww.dijon.fr\nRue Mère-Javouhey (près de la Place de la République)\nTram T1 et T2 – arrêt République\nDivia City – arrêt Préfecture\nQu’est ce qu’un audioprothésiste?\nPourquoi s’appareiller?\nPoint d’information\n–\n–\nINFORMATION ET COMMUNICATION\nwww.villesamiesdesaines-rf.fr\nAUTONOMIE, SERVICES ET SOINS\nLIEN SOCIAL ET SOLIDARITÉ\nSi, comme Dijon, vous avez mis en place des pro -\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Elle est rythmée par les interventions d’experts divers: gériatres, audioprothésistes ou encore associations impliquées (information sur les prises en charge fi - nancières, mutuelles).",
+    "date": [
+        "9 MARS 2017",
+        "MARS 2017",
+        "10/10/2017",
+        "2025",
+        "2016",
+        "2017",
+        "2018",
+        "2009",
+        "depuis 2016",
+        "depuis",
+        "en 2017",
+        "en",
+        "en 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_une_journee_de_laudition.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Dijon_une_journee_de_laudition.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

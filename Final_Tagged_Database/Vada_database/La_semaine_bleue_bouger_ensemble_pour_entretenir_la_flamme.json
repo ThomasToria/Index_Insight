@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: La semaine bleue bouger ensemble pour entretenir la flamme",
+    "territoire": "Titre: La semaine bleue bouger ensemble pour entretenir la flamme Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1090-pe-bouger-ensemble-pour-entretenir-la-flamme-5.pdf  ---  --- UNE SEMAINE BLEUE À SAINT-LAURENT-DE-MURE Depuis plusieurs années, à l'occasion de la semaine bleue nationale, et pour répondre à la volonté de la commune de développer des actions en direction des personnages âgées, le CCAS de Saint-Laurent-de-Mure met en place différentes actions sur toute une semaine.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Des associations locales ont également participé en relayant les informations et en orientant les seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Laurent-de-Mure, vous a vez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Octobre 2024 n’a pas fait exception et les objectifs de cette semaine bleue étaient nombreux: le partage, la convivialité, la découverte, et le lien intergénérationnel.",
+        "problematique": "LA SEMAINE BLEUE BOUGER ENSEMBLE POUR ENTRETENIR LA FLAMME Fiche PARTAGE D'EXPÉRIENCE N°926 Villes Amies des Aînés en France CCAS Saint-Laurent-de-Mure Ville Amie des Aînés depuis 2023 Saint-Laurent-de-Mure (69) Valoriser la place des aînés Lutter contre l'isolement des personnes âgées Créer du lien social Favoriser les échanges intergénérationnels Sollicitation des partenaires Réunions de préparation: définition du programme et du plan de communication Déroulement de la semaine bleue (octobre 2024) Coût: 3 500€  ---  --- UNE SEMAINE RÉUSSIE Si le taux de participation était légèrement inférieur aux prévisions, le bilan de cette action reste très positif.",
+        "solution_envisagee": "Octobre 2024 n’a pas fait exception et les objectifs de cette semaine bleue étaient nombreux: le partage, la convivialité, la découverte, et le lien intergénérationnel.",
+        "objectifs": "Octobre 2024 n’a pas fait exception et les objectifs de cette semaine bleue étaient nombreux: le partage, la convivialité, la découverte, et le lien intergénérationnel."
+    },
+    "porteur_initiative": "Octobre 2024 n’a pas fait exception et les objectifs de cette semaine bleue étaient nombreux: le partage, la convivialité, la découverte, et le lien intergénérationnel.",
+    "date": [
+        "Octobre 2024",
+        "octobre",
+        "2025",
+        "1090",
+        "2024",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_semaine_bleue_bouger_ensemble_pour_entretenir_la_flamme.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_semaine_bleue_bouger_ensemble_pour_entretenir_la_flamme.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

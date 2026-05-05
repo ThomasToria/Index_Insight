@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Se préparer à bien vivre sa retraite",
+    "territoire": "Titre: Se préparer à bien vivre sa retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/816-concours2022-37-se-preparer-a-bien-vivre-sa-retraite.pdf  ---  --- UNE FORMATION POUR PRÉPARER SA RETRAITE Depuis 2018, sous l'impulsion des élus locaux et des professionnels territoriaux de la Ville de Rennes, les agents de la collectivité et du CCAS de Rennes peuvent bénéficier d'un accompagnement pour préparer au mieux ces agents à leur départ en retraite en leur proposant de nouvelles perspectives favorables à une qualité de vie.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Se préparer à bien vivre sa retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/816-concours2022-37-se-preparer-a-bien-vivre-sa-retraite.pdf  ---  --- UNE FORMATION POUR PRÉPARER SA RETRAITE Depuis 2018, sous l'impulsion des élus locaux et des professionnels territoriaux de la Ville de Rennes, les agents de la collectivité et du CCAS de Rennes peuvent bénéficier d'un accompagnement pour préparer au mieux ces agents à leur départ en retraite en leur proposant de nouvelles perspectives favorables à une qualité de vie.",
+    "description": {
+        "description_generale": "Si, comme Rennes, vous avez mis en place des projet s pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Mettre des mots sur cette nouvelle étape de vie Explorer ses ressentis et ses représentations Identifier les divers changements et les phases de la transition Connaître les sources de stress et les conseils pour les atténuer Réaliser un bilan de son équilibre de vie Dessiner un équilibre adéquat entre temps personnel, temps familial, temps social Faire le point sur sa relation au travail Préparer sa sortie de la vie professionnelle Organiser la célébration de son départ Elargir la connaissance de ses potentiels et de sa personnalité Qu'est-ce que le \"moi social\"?",
+        "contexte": "Accessible dans le catalogue de formation et proposer lors des entretiens annuels.  ---  --- BILAN DES QUATRE DERNIÈRES ANNÉES Ces deux dernières années ont été marquées par la crise sanitaire liée à l'épidémie de Covid-19, la collectivité a su s'adapter au contexte en remplaçant les groupes collectifs par des entretiens individuels par téléphone d'environ deux heures par agents.",
+        "problematique": "Le point sur l'importance de l'image Intégrer l'écart générationnel Prendre soin de ses relations affectives: nouvel équilibre du couple, accompagnement de ses parents âgés, l'art d'être parent et grand-parent Soigner ses relations amicales Aller vers de nouvelles rencontres Etre acteur de sa santé: mémoire, alimentation, activité physique, sommeil Préserver sa santé mentale: cultiver l'optimisme Analyser la situation financière pouvant modifier son niveau de vie Accueillir un nouveau rapport au temps Se familiariser avec l'outil numérique (CESU, Impôts…) Préserver son besoin d'utilité sociale: le bénévolat Vivre sa retraite avec sens, plaisir et engagement PROGRAMME 1er jour: La préparation psychologique au changement Etre retraité cela veut dire quoi pour moi?",
+        "solution_envisagee": "Le départ en retraite est l'un des plus grands changement de la vie: il implique pour chacun, une restructuration de son univers, dont une réorganisation \"mentale\", c'est-à-dire un changement dans sa façon de penser, de concevoir la vie et l'avenir, qui nécessite un accompagnement.",
+        "objectifs": "OBJECTIFS POUR LES QUATRE PROCHAINES ANNÉES Pour satisfaire ces demandes, la DRH a souhaité augmenter le budget de cette formation à hauteur de 56 000€ contre 37 000€ les quatre dernières années."
+    },
+    "porteur_initiative": "Le départ en retraite est l'un des plus grands changement de la vie: il implique pour chacun, une restructuration de son univers, dont une réorganisation \"mentale\", c'est-à-dire un changement dans sa façon de penser, de concevoir la vie et l'avenir, qui nécessite un accompagnement.",
+    "date": [
+        "2025",
+        "2018",
+        "2012",
+        "2022",
+        "2021",
+        "Depuis 2018",
+        "depuis 2012",
+        "entre 2018",
+        "entre 2018 et 2021",
+        "entre 2018 et 2022"
+    ],
+    "thematique": [
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_preparer_a_bien_vivre_sa_retraite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Se_preparer_a_bien_vivre_sa_retraite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

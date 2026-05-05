@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: « Y’a pas d’âge pour marcher »",
+    "territoire": "Titre: « Y’a pas d’âge pour marcher » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/273-pe-y-a-pas-d-age-pour-marcher-mise-a-jour-2023.pdf  ---  --- UNE MARCHE INTERGÉNÉRATIONNELLE Régulièrement, les associations de marches et de randonnées se réunissent afin de mettre en place la marche intergénérationnelle qui a lieu chaque année à Besançon depuis 2010.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "régionale",
+        "internationale"
+    ],
+    "public_vise": "Cette marche s’adresse à tous: bisontins ou non, jeunes, moins jeunes et personnes âgées, habitants d’un quartier, ou d’une maison de retraite, grand marcheur ou marcheur occasionnel ayant besoin d’un accompagnement.",
+    "description": {
+        "description_generale": "Ainsi, de nombreux acteurs sont impliqués dans le projet: Au delà de ce travail avec les partenaires, cet événement favorise le décloisonnement entre les services en proposant une action commune de coopération et de convivialité qui met en avant les savoirs et les capacités de chacun.",
+        "contexte": "Cette marche s’adresse à tous: bisontins ou non, jeunes, moins jeunes et personnes âgées, habitants d’un quartier, ou d’une maison de retraite, grand marcheur ou marcheur occasionnel ayant besoin d’un accompagnement.",
+        "problematique": "Cette marche s’adresse à tous: bisontins ou non, jeunes, moins jeunes et personnes âgées, habitants d’un quartier, ou d’une maison de retraite, grand marcheur ou marcheur occasionnel ayant besoin d’un accompagnement.",
+        "solution_envisagee": "Cette marche s’adresse à tous: bisontins ou non, jeunes, moins jeunes et personnes âgées, habitants d’un quartier, ou d’une maison de retraite, grand marcheur ou marcheur occasionnel ayant besoin d’un accompagnement.",
+        "objectifs": "MARCHER ENSEMBLE L’objectif de cette marche est de favoriser la solidarité et la coopération pour que toutes les générations puissent participer malgré les différences liées à l’âge, au handicap, à la culture."
+    },
+    "porteur_initiative": "Cette marche s’adresse à tous: bisontins ou non, jeunes, moins jeunes et personnes âgées, habitants d’un quartier, ou d’une maison de retraite, grand marcheur ou marcheur occasionnel ayant besoin d’un accompagnement.",
+    "date": [
+        "2025",
+        "2023",
+        "2010",
+        "2011",
+        "depuis 2010",
+        "depuis 2011"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ya_pas_dage_pour_marcher.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Ya_pas_dage_pour_marcher.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

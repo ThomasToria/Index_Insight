@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Forum bien vieillir",
+    "territoire": "Titre: Forum bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1034-pe-forum-bien-vieillir.pdf  ---  --- FAIRE CONNAÎTRE LES OFFRES Lors des groupes de travail Villes Amie des Aînés, de nombreux participants ont constaté que l’offre de services en direction des seniors caennais était riche mais souvent difficilement accessible.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Valoriser les partenaires institutionnels du secteur gérontologiques et notamment le Département intervenant directement ou non en direction du public seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Caen, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Forum bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1034-pe-forum-bien-vieillir.pdf  ---  --- FAIRE CONNAÎTRE LES OFFRES Lors des groupes de travail Villes Amie des Aînés, de nombreux participants ont constaté que l’offre de services en direction des seniors caennais était riche mais souvent difficilement accessible.",
+        "problematique": "Titre: Forum bien vieillir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1034-pe-forum-bien-vieillir.pdf  ---  --- FAIRE CONNAÎTRE LES OFFRES Lors des groupes de travail Villes Amie des Aînés, de nombreux participants ont constaté que l’offre de services en direction des seniors caennais était riche mais souvent difficilement accessible.",
+        "solution_envisagee": "La mise en place d’un Forum Bien Vieillir est l’une des actions mise en place pour atteindre cet objectif clé du premier plan d’actions de la démarche Villes Amies des Aînés.",
+        "objectifs": "L’un des objectifs de cette journée était de valoriser des structures de quartiers variés et pas uniquement celles intervenant en direction des seniors."
+    },
+    "porteur_initiative": "Ainsi, plusieurs actions \"grand public\" étaient proposées, comme un petit marché bio (organisé par une épicerie sociale), un mini concert, une visite commentée du quartier, ou encore un temps de découverte des vélos à assistance électrique et une marche dynamique.",
+    "date": [
+        "novembre 2023",
+        "2025",
+        "1034",
+        "2023",
+        "2021",
+        "2024",
+        "depuis 2021",
+        "En 2024",
+        "en 2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_bien_vieillir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Forum_bien_vieillir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

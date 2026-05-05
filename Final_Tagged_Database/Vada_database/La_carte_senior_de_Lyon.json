@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: La carte senior de Lyon",
+    "territoire": "Titre: La carte senior de Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/336-pe-carte-senior-lyon-mise-en-forme-2023.pdf  ---  --- CARTE SENIOR ET NOUVEAU DISPOSITIF La carte senior de Lyon vise à encourager l’accès des seniors aux activités proposées dans la ville grâce à une meilleure information de ces derniers et des tarifs privilégiés.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: La carte senior de Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/336-pe-carte-senior-lyon-mise-en-forme-2023.pdf  ---  --- CARTE SENIOR ET NOUVEAU DISPOSITIF La carte senior de Lyon vise à encourager l’accès des seniors aux activités proposées dans la ville grâce à une meilleure information de ces derniers et des tarifs privilégiés.",
+    "description": {
+        "description_generale": "Ce sont près de 60 structures qui se sont associées à ce projet afin de promouvoir leurs actions.",
+        "contexte": "Fort du constat que l’ancien dispositif d’inscription aux activités était lourd et contraignant (formulaire et visuel obsolètes, manque de lisibilité et d’impact, déficit dans la diffusion et l’inscription) et qu’il ne facilitait et n’incitait en aucun cas les sorties des seniors, la Ville de Lyon a souhaité revisiter la démarche.",
+        "problematique": "L’offre, au départ exclusivement culturelle, a évolué vers une dynamique globale et a donc été modernisée, le fil conducteur étant avant tout la lutte contre l’isolement, génératrice de lien social en harmonie avec le rayonnement et l’attractivité de la Ville.",
+        "solution_envisagee": "LA CARTE SENIOR DE LYON Fiche PARTAGE D'EXPÉRIENCE N°336 Villes Amies des Aînés en France Lyon Ville Amie des Aînés depuis 2012 Lyon (69) Fiche publiée le 18/09/2017 Proposer une offre de loisirs et d’animations large et variée aux seniors de la ville de Lyon.",
+        "objectifs": "Titre: La carte senior de Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/336-pe-carte-senior-lyon-mise-en-forme-2023.pdf  ---  --- CARTE SENIOR ET NOUVEAU DISPOSITIF La carte senior de Lyon vise à encourager l’accès des seniors aux activités proposées dans la ville grâce à une meilleure information de ces derniers et des tarifs privilégiés."
+    },
+    "porteur_initiative": "Titre: La carte senior de Lyon Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/336-pe-carte-senior-lyon-mise-en-forme-2023.pdf  ---  --- CARTE SENIOR ET NOUVEAU DISPOSITIF La carte senior de Lyon vise à encourager l’accès des seniors aux activités proposées dans la ville grâce à une meilleure information de ces derniers et des tarifs privilégiés.",
+    "date": [
+        "septembre 2016",
+        "janvier",
+        "janvier 2017",
+        "18/09/2017",
+        "2025",
+        "2023",
+        "2012",
+        "2017",
+        "2014",
+        "2016",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_carte_senior_de_Lyon.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_carte_senior_de_Lyon.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

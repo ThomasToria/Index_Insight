@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Envie de sortir",
+    "territoire": "Titre: Envie de sortir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/919-pe-le-chambon-feugerolles-envie-de-sortir.pdf  ---  --- LA NÉCESSITÉ DE CENTRALISER LES OFFRES La ville du Chambon-Feugerolles propose un support de communication spécialement dédié aux seniors, sous format papier ou numérique sur le site internet de la collectivité.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Titre: Envie de sortir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/919-pe-le-chambon-feugerolles-envie-de-sortir.pdf  ---  --- LA NÉCESSITÉ DE CENTRALISER LES OFFRES La ville du Chambon-Feugerolles propose un support de communication spécialement dédié aux seniors, sous format papier ou numérique sur le site internet de la collectivité.",
+    "description": {
+        "description_generale": "2014: proposition de nouvelles offres en matière de prévention et d'accès à la culture et aux loisirs, offres portées et pilotées par le centre communal d'action sociale.",
+        "contexte": "Titre: Envie de sortir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/919-pe-le-chambon-feugerolles-envie-de-sortir.pdf  ---  --- LA NÉCESSITÉ DE CENTRALISER LES OFFRES La ville du Chambon-Feugerolles propose un support de communication spécialement dédié aux seniors, sous format papier ou numérique sur le site internet de la collectivité.",
+        "problematique": "Titre: Envie de sortir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/919-pe-le-chambon-feugerolles-envie-de-sortir.pdf  ---  --- LA NÉCESSITÉ DE CENTRALISER LES OFFRES La ville du Chambon-Feugerolles propose un support de communication spécialement dédié aux seniors, sous format papier ou numérique sur le site internet de la collectivité.",
+        "solution_envisagee": "Titre: Envie de sortir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/919-pe-le-chambon-feugerolles-envie-de-sortir.pdf  ---  --- LA NÉCESSITÉ DE CENTRALISER LES OFFRES La ville du Chambon-Feugerolles propose un support de communication spécialement dédié aux seniors, sous format papier ou numérique sur le site internet de la collectivité.",
+        "objectifs": "Proposer un support papier facilement accessible pour les seniors afin de limiter les effets de la fracture numérique en matière de communication."
+    },
+    "porteur_initiative": "Les seniors voudraient que toutes les offres disponibles sur la commune, quelque soit le porteur de projet, soient regroupées sur le même document.",
+    "date": [
+        "2025",
+        "2012",
+        "2014",
+        "2023",
+        "2022",
+        "depuis 2022",
+        "EN 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Envie_de_sortir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Envie_de_sortir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

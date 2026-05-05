@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Les mardis près de chez vous",
+    "territoire": "Titre: Les mardis près de chez vous Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/702-pe-2-les-mardis-pres-de-chez-vous-claix.pdf  ---  --- FAVORISER LE LIEN SOCIAL DANS LES TERRITOIRES ÉLOIGNÉS Certaines activités et animations du quartier de Claix ont été supprimées: que ce soit les midis amicaux qui étaient intergénérationnels (les personnes se réunissaient tous les jeudis pour préparer et partager un déjeuner ensemble) ou encore des rencontres hebdomadaires qui ont peu à peu disparu.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "La demande et la motivation de renouer différemment avec les personnes âgées et l'ensemble des habitants était donc nécessaire.",
+    "description": {
+        "description_generale": "Le projet se présente aujourd'hui sous l'action \"Les balades près de chez vous\".",
+        "contexte": "Face à ce constat, le CCAS de Claix organise depuis 2018 des rencontres intergénérationnelles au sein d'un quartier de la ville.",
+        "problematique": "Lutter contre l'isolement en favorisant les rencontres intergénérationnelles.",
+        "solution_envisagee": "Plusieurs points de départs se sont mis en place au sein de la commune afin de regrouper le plus grand nombre et proposer une action à l'ensemble des habitants de la commune.",
+        "objectifs": "Le centre social a fait le choix d'aller dans d'autres quartiers de la commune pour répondre à des objectifs \"d'aller vers\"."
+    },
+    "porteur_initiative": "Ce projet est aujourd'hui porté par le centre social.",
+    "date": [
+        "2025",
+        "2018",
+        "2021",
+        "2020",
+        "depuis 2018",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mardis_pres_de_chez_vous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_mardis_pres_de_chez_vous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Journée bien-être dans le cadre de la semaine bleue",
+    "territoire": "Titre: Journée bien-être dans le cadre de la semaine bleue Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/845-pe-journee-bien-etre-bailleul.pdf  ---  --- A LA DÉCOUVERTE DES TECHNIQUES DE RELAXATION ET DES TECHNIQUES DOUCES Dans le cadre de l’édition 2022 de la Semaine Bleue de Bailleul, une journée de détente et de bien-être a été proposée aux seniors de la Ville.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Un groupe de six seniors a participé avec enthousiasme sur le projet dans sa globalité: recherche des prestataires, présentation du projet auprès des services partenaires et diffusion de la communication auprès des habitants de la Ville.",
+    "description": {
+        "description_generale": "Un groupe de six seniors a participé avec enthousiasme sur le projet dans sa globalité: recherche des prestataires, présentation du projet auprès des services partenaires et diffusion de la communication auprès des habitants de la Ville.",
+        "contexte": "Un groupe de six seniors a participé avec enthousiasme sur le projet dans sa globalité: recherche des prestataires, présentation du projet auprès des services partenaires et diffusion de la communication auprès des habitants de la Ville.",
+        "problematique": "Un groupe de six seniors a participé avec enthousiasme sur le projet dans sa globalité: recherche des prestataires, présentation du projet auprès des services partenaires et diffusion de la communication auprès des habitants de la Ville.",
+        "solution_envisagee": "Si, comme la Ville de Bailleul, vous avez mis en pl ace des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Les conseillers quant à eux, ont passé une belle journée de partage, se sont sentis utiles et ont été fiers d'avoir pu proposer cette journée à un grand nombre de Bailleulois.",
+        "objectifs": "Avec une participation d’une centaine de seniors sur les quatre ateliers, les objectifs ont été atteints."
+    },
+    "porteur_initiative": "Un groupe de six seniors a participé avec enthousiasme sur le projet dans sa globalité: recherche des prestataires, présentation du projet auprès des services partenaires et diffusion de la communication auprès des habitants de la Ville.",
+    "date": [
+        "05/06/2023",
+        "2025",
+        "2022",
+        "2021",
+        "2023",
+        "depuis 2021",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_bien-etre_dans_le_cadre_de_la_semaine_bleue.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Journee_bien-etre_dans_le_cadre_de_la_semaine_bleue.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

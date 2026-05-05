@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: LA papothèque",
+    "territoire": "Titre: LA papothèque Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/522-pe-papotheque.pdf  ---  --- LE PROJET Soutenu par l’association Gaïa, le projet est de créer une structure à caractère social nommée “La Papothèque”.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "DE NOMBREUX BÉNÉFICIAIRES Les premiers bénéficiaires de cette action sont les personnes âgées isolées: celles qui sont à leur domicile, avec ou sans auxiliaire de vie, et celles qui sont déjà en institution.",
+    "description": {
+        "description_generale": "Cette action veut aboutir à un projet pérenne avec une structure de restauration ouverte six jour sur sept et un service d’aide à domicile proposant des activités quotidiennes à destination des personnes âgées, de leurs aidants et plus globalement de tous, afin de permettre une vie sociale intergénérationnelle de quartier.",
+        "contexte": "Titre: LA papothèque Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/522-pe-papotheque.pdf  ---  --- LE PROJET Soutenu par l’association Gaïa, le projet est de créer une structure à caractère social nommée “La Papothèque”.",
+        "problematique": "Au travers de multiples services d’accompagnement, l’objectif principal est la prévention de l’isolement des personnes âgées en favorisant la solidarité et le lien social intergénérationnel à Grenoble (secteur III).",
+        "solution_envisagee": "Au travers de multiples services d’accompagnement, l’objectif principal est la prévention de l’isolement des personnes âgées en favorisant la solidarité et le lien social intergénérationnel à Grenoble (secteur III).",
+        "objectifs": "Au travers de multiples services d’accompagnement, l’objectif principal est la prévention de l’isolement des personnes âgées en favorisant la solidarité et le lien social intergénérationnel à Grenoble (secteur III)."
+    },
+    "porteur_initiative": "Titre: LA papothèque Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/522-pe-papotheque.pdf  ---  --- LE PROJET Soutenu par l’association Gaïa, le projet est de créer une structure à caractère social nommée “La Papothèque”.",
+    "date": [
+        "septembre 2018",
+        "2025",
+        "2016",
+        "2018",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LA_papotheque.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\LA_papotheque.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

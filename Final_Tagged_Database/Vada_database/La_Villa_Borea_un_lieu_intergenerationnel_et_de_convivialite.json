@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: La Villa Boréa: un lieu intergénérationnel et de convivialité",
+    "territoire": "Titre: La Villa Boréa: un lieu intergénérationnel et de convivialité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/200-pe-villa-borea-mise-en-forme-2023.pdf  ---  --- UN SITE HISTORIQUE MODERNISÉ POUR MIEUX ACCUEILLIR LES HABITANTS Romans sur Isère est une ville liée à l’histoire du cuir-chaussure.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Moderniser une structure publique et les services proposés aux seniors dans la ville; Créer un guichet unique visant à proposer des services, de la convivialité et de l’information aux habitants âgés; Créer un lieu intergénérationnel accueillant des publics différents.  ---  --- UN LIEU INTERGÉNÉRATIONNEL OUVERT À TOUS LES ROMANAIS Désormais, l’ancien site de la Villa Boréa accueille une maison des jeunes et de la culture, une maison du judo, un foyer des jeunes travailleurs, les restos du cœur mais également un parc public, un bâtiment sportif de même qu’une Maison des Seniors disposant d’un restaurant, de services de soutien à domicile et de salles d’animation.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Romans-sur-Isère, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: La Villa Boréa: un lieu intergénérationnel et de convivialité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/200-pe-villa-borea-mise-en-forme-2023.pdf  ---  --- UN SITE HISTORIQUE MODERNISÉ POUR MIEUX ACCUEILLIR LES HABITANTS Romans sur Isère est une ville liée à l’histoire du cuir-chaussure.",
+        "problematique": "C’est donc forte de sa volonté de lutter contre l’isolement social mais également dans le but de moderniser certains des services que la municipalité a fait de la Villa Boréa ce qu’elle est aujourd’hui.",
+        "solution_envisagee": "En 2006, Romans souhaite trouver des réponses au défi du vieillissement de sa population locale.",
+        "objectifs": "LA VILLA BORÉA: UN LIEU INTERGÉNÉRATIONNEL DE SERVICES ET DE CONVIVIALITÉ Fiche PARTAGE D'EXPÉRIENCE N°200 Villes Amies des Aînés en France Romans-sur-Isère Ville Amie des Aînés depuis 2015 Romans-sur-Isère (26) Publiée le 25.11.2015 Développer une politique intégrée en direction des personnes âgées; Reconquérir des espaces publics laissés à l’abandon; Permettre aux aînés de se sentir bienvenus dans un lieu accueillant des publics divers; Favoriser l’intergénération."
+    },
+    "porteur_initiative": "Titre: La Villa Boréa: un lieu intergénérationnel et de convivialité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/200-pe-villa-borea-mise-en-forme-2023.pdf  ---  --- UN SITE HISTORIQUE MODERNISÉ POUR MIEUX ACCUEILLIR LES HABITANTS Romans sur Isère est une ville liée à l’histoire du cuir-chaussure.",
+    "date": [
+        "2025",
+        "2023",
+        "1800",
+        "2006",
+        "2015",
+        "depuis 2015",
+        "En 2006"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Villa_Borea_un_lieu_intergenerationnel_et_de_convivialite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_Villa_Borea_un_lieu_intergenerationnel_et_de_convivialite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

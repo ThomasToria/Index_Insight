@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Bien vieillir à domicile: la réponse conjointe des collectivités et des bailleurs sociaux",
+    "territoire": "Titre: Bien vieillir à domicile: la réponse conjointe des collectivités et des bailleurs sociaux Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/462-pe-bien-vieillir-a-domicile-1.pdf  ---  --- LES LOGEMENTS SOCIAUX ADAPTÉS Avec le vieillissement global de la population, on observe une recrudescence de personnes en perte d’autonomie.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Bien vieillir à domicile: la réponse conjointe des collectivités et des bailleurs sociaux Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/462-pe-bien-vieillir-a-domicile-1.pdf  ---  --- LES LOGEMENTS SOCIAUX ADAPTÉS Avec le vieillissement global de la population, on observe une recrudescence de personnes en perte d’autonomie.",
+    "description": {
+        "description_generale": "Ainsi, l’idée de mener un projet commun, plus conséquent, structuré et efficace que des initiatives ponctuelles et individuelles a rapidement convaincu.",
+        "contexte": "Pour faire face à cet enjeu, la Ville d’Angers, son CCAS, Angers Loire Métropole et les bailleurs sociaux ont établi une convention pour la réalisation d’une offre de logements sociaux adaptés et/ou adaptables en direction des personnes âgées dans le parc existant (réhabilitation) et dans de nouvelles constructions.",
+        "problematique": "UN PROJET COMMUN Chacun de leur côté, les signataires de la convention avaient déjà commencé un travail sur cette nouvelle donnée démographique: les agents du CCAS effectuaient un travail de sensibilisation aux enjeux du vieillissement, les bailleurs sociaux adaptaient certains logements suite à la demande de locataires, et la communauté urbaine réfléchissait aux solutions concrètes à apporter à ces populations.",
+        "solution_envisagee": "Cette action prend en considération les problèmes de sa population et lui propose une solution pour vivre pleinement sa retraite et pour mener un projet de vie digne quel que soit son niveau de ressources.",
+        "objectifs": "En définir les objectifs quantitatifs et qualitatifs clairs."
+    },
+    "porteur_initiative": "Titre: Bien vieillir à domicile: la réponse conjointe des collectivités et des bailleurs sociaux Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/462-pe-bien-vieillir-a-domicile-1.pdf  ---  --- LES LOGEMENTS SOCIAUX ADAPTÉS Avec le vieillissement global de la population, on observe une recrudescence de personnes en perte d’autonomie.",
+    "date": [
+        "2025",
+        "2012",
+        "2018",
+        "1000",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_a_domicile_la_reponse_conjointe_des_collectivites_et_des_bailleurs_sociaux.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Bien_vieillir_a_domicile_la_reponse_conjointe_des_collectivites_et_des_bailleurs_sociaux.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Tout baigne!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/761-pe-tout-baigne-1.pdf  ---  --- DES ACTIVITÉS AQUATIQUES ET NAUTIQUES POUR ÊTRE EN BONNE SANTÉ Royan a été une des quatre villes pilotes du programme national PENSA (Préservons Ensemble Notre Santé).",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Les activités proposées évoluent en fonction des demandes et besoins exprimés par les seniors; ainsi, les activités aquatiques et nautiques ont été mises en place et développées au fil des années.",
+    "description": {
+        "description_generale": "Dans ce cadre, elle a développé dès 2009, en parallèle des actions des associations locales, des ateliers fondés sur quatre piliers: nutrition, activités physiques, activités cérébrales, liens/vie locale.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/761-pe-tout-baigne-1.pdf  ---  --- DES ACTIVITÉS AQUATIQUES ET NAUTIQUES POUR ÊTRE EN BONNE SANTÉ Royan a été une des quatre villes pilotes du programme national PENSA (Préservons Ensemble Notre Santé).",
+        "problematique": "Les activités proposées évoluent en fonction des demandes et besoins exprimés par les seniors; ainsi, les activités aquatiques et nautiques ont été mises en place et développées au fil des années.",
+        "solution_envisagee": "Des rencontres avec les intervenants sont organisées pour la préparation et la mise en place des ateliers.",
+        "objectifs": "DES ACTIVITÉS QUI CRÉENT DU LIEN SOCIAL Les ateliers se déroulent en petits groupes afin de favoriser au maximum les échanges et la création de liens entre les participants."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/761-pe-tout-baigne-1.pdf  ---  --- DES ACTIVITÉS AQUATIQUES ET NAUTIQUES POUR ÊTRE EN BONNE SANTÉ Royan a été une des quatre villes pilotes du programme national PENSA (Préservons Ensemble Notre Santé).",
+    "date": [
+        "2025",
+        "2009",
+        "2013",
+        "2018",
+        "2020",
+        "2021",
+        "2022",
+        "depuis 2013",
+        "En 2009",
+        "En 2013",
+        "en 2018",
+        "En 2020"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tout_baigne.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tout_baigne.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

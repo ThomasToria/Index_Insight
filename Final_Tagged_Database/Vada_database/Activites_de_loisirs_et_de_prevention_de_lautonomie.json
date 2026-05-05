@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Activités de loisirs et de prévention de l’autonomie",
+    "territoire": "Titre: Activités de loisirs et de prévention de l’autonomie Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/314-pe-activites-de-prevention-de-l-autonomie.pdf  ---  --- UN BINOME EFFICACE En lien avec la municipalité et notamment l’adjointe aux affaires sociales, le Conseil des seniors est force de proposition pour que la vie des aînés à Saint- Germain au Mont-D’or soit plus facile, active et festive...",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "D’un côté le Conseil des seniors établit un diagnostic des activités et en propose de nouvelles et de l’autre côté l’adjointe aux affaires sociales se charge de piloter le projet dans son ensemble, tant par la recherche de partenaires, que par la réservation de salles et par la communication auprès des habitants.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Saint-Germain en Mont d’Or, v ous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "D’un côté le Conseil des seniors établit un diagnostic des activités et en propose de nouvelles et de l’autre côté l’adjointe aux affaires sociales se charge de piloter le projet dans son ensemble, tant par la recherche de partenaires, que par la réservation de salles et par la communication auprès des habitants.",
+        "problematique": "L’instance réfléchit et intervient dans tous les domaines qui touchent à la vie quotidienne des personnes âgées: déplacements, autonomie, animations...",
+        "solution_envisagee": "La municipalité propose aussi des ateliers-mémoire qui, au travers d’exercices ludiques et pratiques, aident les individus à stimuler les différentes formes de mémoire: mémoire ancienne, mémoire immédiate, mémoire visuelle et auditive, logique et imagination.",
+        "objectifs": "Afin de maintenir cette dynamique, le Conseil des seniors en lien avec la municipalité travaille à organiser d’autres ateliers informatiques, à reproduire les ateliers mémoire, et à développer de nouvelles activités physiques."
+    },
+    "porteur_initiative": "L’instance réfléchit et intervient dans tous les domaines qui touchent à la vie quotidienne des personnes âgées: déplacements, autonomie, animations...",
+    "date": [
+        "2025",
+        "2016",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activites_de_loisirs_et_de_prevention_de_lautonomie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Activites_de_loisirs_et_de_prevention_de_lautonomie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

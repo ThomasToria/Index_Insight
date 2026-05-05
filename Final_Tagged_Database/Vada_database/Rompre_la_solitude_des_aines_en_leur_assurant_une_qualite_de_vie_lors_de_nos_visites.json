@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Rompre la solitude des aînés en leur assurant une qualité de vie lors de nos visites",
+    "territoire": "Fiche PARTAGE D'EXPÉRIENCE N°16-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS ROMPRE LA SOLITUDE DES AÎNÉS EN LEUR ASSURANT UNE QUALITÉ DE VIE LORS DE NOS VISITES Association ACLAP Ville Amie des Aînés depuis 2021 Avignon (84) Les objectifs de l’association sont: Lutter contre la solitude; Favoriser l’entraide et la solidarité entre les générations dans la commune; Tout faire pour que se poursuive, malgré le handicap de l’âge, l’épanouissement de la personne et le plaisir de vivre; Animer un lieu d’accueil et de loisirs pour les personnes âgées.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Rompre la solitude des aînés en leur assurant une qualité de vie lors de nos visites Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1061-concours-2024-rompre-la-solitude-de-nos-aines-en-leur-assurant-une-qualite-de-vie-lors-de-nos-visites.pdf  ---  --- PRÉSENTATION D’ACLAP L’association ACLAP (Action de Coordination de Loisirs et d’Accueil aux Personnes âgées) a été créée suite à un constat de désert social des personnes âgées.",
+    "description": {
+        "description_generale": "Titre: Rompre la solitude des aînés en leur assurant une qualité de vie lors de nos visites Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1061-concours-2024-rompre-la-solitude-de-nos-aines-en-leur-assurant-une-qualite-de-vie-lors-de-nos-visites.pdf  ---  --- PRÉSENTATION D’ACLAP L’association ACLAP (Action de Coordination de Loisirs et d’Accueil aux Personnes âgées) a été créée suite à un constat de désert social des personnes âgées.",
+        "contexte": "Titre: Rompre la solitude des aînés en leur assurant une qualité de vie lors de nos visites Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1061-concours-2024-rompre-la-solitude-de-nos-aines-en-leur-assurant-une-qualite-de-vie-lors-de-nos-visites.pdf  ---  --- PRÉSENTATION D’ACLAP L’association ACLAP (Action de Coordination de Loisirs et d’Accueil aux Personnes âgées) a été créée suite à un constat de désert social des personnes âgées.",
+        "problematique": "Les équipes bénévoles d’ACLAP assurent un rôle de vigie en analysant la situation et les besoins des personnes et en contactant les instances nécessaires pour s'assurer que le maintien à domicile de passe dans les meilleures conditions.",
+        "solution_envisagee": "LES AUTRES ACTIONS D'ACLAP ACLAP propose également d'autres actions complémentaires: l'association distribue des colis de la banque alimentaire à des personnes âgées (sous condition de ressources) l'été, elle fait une veille sociale (appels téléphoniques, visites à domicile) pour se rapprocher des personnes âgées isolées et fragilisées pour combattre la canicule, et à Noël elle organise des visites la journée du 24 décembre pour les personnes âgées isolées.",
+        "objectifs": "Fiche PARTAGE D'EXPÉRIENCE N°16-2024 Villes Amies des Aînés en France CONCOURS 2024V ILLES AM I E S D ES AÎN ÉS ROMPRE LA SOLITUDE DES AÎNÉS EN LEUR ASSURANT UNE QUALITÉ DE VIE LORS DE NOS VISITES Association ACLAP Ville Amie des Aînés depuis 2021 Avignon (84) Les objectifs de l’association sont: Lutter contre la solitude; Favoriser l’entraide et la solidarité entre les générations dans la commune; Tout faire pour que se poursuive, malgré le handicap de l’âge, l’épanouissement de la personne et le plaisir de vivre; Animer un lieu d’accueil et de loisirs pour les personnes âgées."
+    },
+    "porteur_initiative": "Si, comme la Ville de Avignon, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "1061",
+        "2024",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Rompre_la_solitude_des_aines_en_leur_assurant_une_qualite_de_vie_lors_de_nos_visites.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Rompre_la_solitude_des_aines_en_leur_assurant_une_qualite_de_vie_lors_de_nos_visites.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

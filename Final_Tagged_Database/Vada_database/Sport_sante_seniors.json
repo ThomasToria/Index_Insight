@@ -1,0 +1,49 @@
+{
+    "titre": "Titre: Sport santé seniors",
+    "territoire": "Titre: Sport santé seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/885-concours-2023-la-chapelle-sur-erdre-sport-sante-seniors.pdf  ---  --- LA SANTÉ, UN ÉTAT DE COMPLET BIEN-ÊTRE PHYSIQUE, MENTAL ET SOCIAL Afin d’éviter la surenchère des soins et de prévenir la perte d’autonomie, la pratique d’une activité physique et sportive s’inscrit au cœur des enjeux de santé publique.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Chaque cycle est ponctué d'une séance avec un club partenaire pouvant accueillir des seniors, permettant aux bénéficiaires de découvrir une activité adaptée à leur condition physique (le Tai So, une méthode d'entrainement construite à partir d’exercices traditionnels de préparation au judo, et le \"Handball bien- être\").",
+    "description": {
+        "description_generale": "Ce dispositif municipal propose aux seniors de participer à des activités physiques encadrées permettant d’apporter à tous la « santé » telle que le définie l’Organisation Mondial de la santé: \"la santé est un état de complet bien-être physique, mental et social, et ne constitue pas seulement en une absence de maladie ou d’infirmité\".",
+        "contexte": "L'ensemble des participants a pu constater au moins une amélioration dans sa condition physique dans l'une des aptitudes ciblées (tonicité, souplesse, équilibre et endurance).",
+        "problematique": "Titre: Sport santé seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/885-concours-2023-la-chapelle-sur-erdre-sport-sante-seniors.pdf  ---  --- LA SANTÉ, UN ÉTAT DE COMPLET BIEN-ÊTRE PHYSIQUE, MENTAL ET SOCIAL Afin d’éviter la surenchère des soins et de prévenir la perte d’autonomie, la pratique d’une activité physique et sportive s’inscrit au cœur des enjeux de santé publique.",
+        "solution_envisagee": "Ce dispositif municipal propose aux seniors de participer à des activités physiques encadrées permettant d’apporter à tous la « santé » telle que le définie l’Organisation Mondial de la santé: \"la santé est un état de complet bien-être physique, mental et social, et ne constitue pas seulement en une absence de maladie ou d’infirmité\".",
+        "objectifs": "L’un des objectifs principaux est de mettre, ou remettre à l’activité physique et sportive des chapelains et chapelaines afin de les maintenir en forme physique et de \"mieux\" vivre chez eux."
+    },
+    "porteur_initiative": "Ce dispositif municipal propose aux seniors de participer à des activités physiques encadrées permettant d’apporter à tous la « santé » telle que le définie l’Organisation Mondial de la santé: \"la santé est un état de complet bien-être physique, mental et social, et ne constitue pas seulement en une absence de maladie ou d’infirmité\".",
+    "date": [
+        "avril 2021",
+        "2025",
+        "2023",
+        "2021",
+        "2022",
+        "2020",
+        "depuis 2020"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_sante_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Sport_sante_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

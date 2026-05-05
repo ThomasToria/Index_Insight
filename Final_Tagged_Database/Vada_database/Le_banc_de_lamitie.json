@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Le banc de l’amitié",
+    "territoire": "Titre: Le banc de l’amitié Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/832-concours-2022-60-le-banc-de-l-amitie.pdf  ---  --- UNE ACTION INTERGÉNÉRATIONNELLE CONTRE LA SOLITUDE La solitude est l’état, ponctuel ou durable, plus au moins choisi ou subi, d’un individu qui n’est engagé dans aucun rapport avec autrui.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les personnes âgées et/ou handicapées prises de sentiment de solitude sont souvent seules également à errer sur le domaine public.",
+    "description": {
+        "description_generale": "Titre: Le banc de l’amitié Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/832-concours-2022-60-le-banc-de-l-amitie.pdf  ---  --- UNE ACTION INTERGÉNÉRATIONNELLE CONTRE LA SOLITUDE La solitude est l’état, ponctuel ou durable, plus au moins choisi ou subi, d’un individu qui n’est engagé dans aucun rapport avec autrui.",
+        "contexte": "Pour faire suite à ce constat de pratique similaire de deux populations opposées en âge, le conseil municipal des enfants a décidé de réfléchir au sujet.",
+        "problematique": "Un message est alors envoyé à ses petits camarades ou personnes circulant sur l’aire publique qui savent alors qu’il a besoin d’aide, et qui peuvent venir s’assoir avec lui, lui parler, ou l’inviter à venir jouer.",
+        "solution_envisagee": "Mettre en place l'information quant à l'utilisation du banc pour faire se rejoindre seniors et jeunes vers le banc lorsque c'est nécessaire.  ---  --- BILAN ET PERSPECTIVES DU PROJET Ce projet permet de répondre à l’aménagement de mobiliers en ville et de renforcer les liens intergénérationnels.",
+        "objectifs": "LE BANC DE L'AMITIÉ Fiche PARTAGE D'EXPÉRIENCE N°697 Villes Amies des Aînés en France La-Tour-de-Salvagny (69) Ville Membre depuis 2021 Créer du lien social dedans et hors les murs et favoriser l’entraide entre les enfants afin de ne laisser personne de côté."
+    },
+    "porteur_initiative": "Titre: Le banc de l’amitié Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/832-concours-2022-60-le-banc-de-l-amitie.pdf  ---  --- UNE ACTION INTERGÉNÉRATIONNELLE CONTRE LA SOLITUDE La solitude est l’état, ponctuel ou durable, plus au moins choisi ou subi, d’un individu qui n’est engagé dans aucun rapport avec autrui.",
+    "date": [
+        "2025",
+        "2022",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_banc_de_lamitie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_banc_de_lamitie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

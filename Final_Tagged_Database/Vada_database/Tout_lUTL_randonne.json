@@ -1,0 +1,44 @@
+{
+    "titre": "Titre: Tout l'UTL randonne",
+    "territoire": "Titre: Tout l'UTL randonne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf  ---  --- DES RANDONNÉES THÉMATIQUES L’Université du Temps Libre du Pays de Rennes (UTL Rennes) a proposé un projet de randonnées thématiques aux habitants de Rennes et alentours.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Tout l'UTL randonne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf  ---  --- DES RANDONNÉES THÉMATIQUES L’Université du Temps Libre du Pays de Rennes (UTL Rennes) a proposé un projet de randonnées thématiques aux habitants de Rennes et alentours.",
+    "description": {
+        "description_generale": "Prévoir les besoins (approvisionnements…)  ---  --- DE NOMBREUX BIENFAITS Cette action a eu plusieurs répercussions positives pour l’équipe projet, qui a pris un grand plaisir à construire une initiative de façon collective et une satisfaction d’être au coeur de l’organisation d’un tel événement.",
+        "contexte": "Titre: Tout l'UTL randonne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf  ---  --- DES RANDONNÉES THÉMATIQUES L’Université du Temps Libre du Pays de Rennes (UTL Rennes) a proposé un projet de randonnées thématiques aux habitants de Rennes et alentours.",
+        "problematique": "Prévoir les besoins (approvisionnements…)  ---  --- DE NOMBREUX BIENFAITS Cette action a eu plusieurs répercussions positives pour l’équipe projet, qui a pris un grand plaisir à construire une initiative de façon collective et une satisfaction d’être au coeur de l’organisation d’un tel événement.",
+        "solution_envisagee": "Titre: Tout l'UTL randonne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf  ---  --- DES RANDONNÉES THÉMATIQUES L’Université du Temps Libre du Pays de Rennes (UTL Rennes) a proposé un projet de randonnées thématiques aux habitants de Rennes et alentours.",
+        "objectifs": "Titre: Tout l'UTL randonne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf  ---  --- DES RANDONNÉES THÉMATIQUES L’Université du Temps Libre du Pays de Rennes (UTL Rennes) a proposé un projet de randonnées thématiques aux habitants de Rennes et alentours."
+    },
+    "porteur_initiative": "Titre: Tout l'UTL randonne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf  ---  --- DES RANDONNÉES THÉMATIQUES L’Université du Temps Libre du Pays de Rennes (UTL Rennes) a proposé un projet de randonnées thématiques aux habitants de Rennes et alentours.",
+    "date": [
+        "2025",
+        "2012",
+        "depuis 2012"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tout_lUTL_randonne.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tout_lUTL_randonne.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

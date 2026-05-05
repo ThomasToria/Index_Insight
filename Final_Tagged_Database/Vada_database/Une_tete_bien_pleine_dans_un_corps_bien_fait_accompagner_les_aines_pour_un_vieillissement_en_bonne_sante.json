@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: “Une tête bien pleine dans un corps bien fait” accompagner les aînés pour un vieillissement en bonne santé",
+    "territoire": "Titre: “Une tête bien pleine dans un corps bien fait” accompagner les aînés pour un vieillissement en bonne santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/441-pe-la-fabrique-a-neurones-mise-en-forme-2023.pdf  ---  --- LE BIEN-ÊTRE DU CORPS ET DE L’ESPRIT Des études scientifiques ont montré que pratiquer une activité cognitive ou une activité physique régulière produisait des effets bénéfiques sur le cerveau.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Les mairies des différents arrondissements de Lyon communiquent autour de ces conférences auprès des habitants seniors, dans le cadre de l’offre seniors (loisirs, culture, activités avec la carte “Senior”) et les deux intervenantes se rendent disponibles à l’occasion de divers événements lyonnais orientés autour du vieillissement, tels que la Semaine bleue, Salon Horizon Sénior et la semaine de la Forme par exemple.",
+    "description": {
+        "description_generale": "Le CODAP est également partenaire du projet: il s’agit d’une association de sport pour les personnes retraitées.",
+        "contexte": "Ce projet a été créé suite aux constats réalisés par les deux intervenantes au sein de leurs pratiques respectives.",
+        "problematique": "Deux professionnelles ont fait le choix de rejoindre la structure afin d’y développer un axe qui mêle ateliers cognitifs et physique: une coach sportive professionnelle spécialisée en marche nordique et une doctorante en neuropsychologie spécialisée dans l’étude du vieillissement du cerveau.",
+        "solution_envisagee": "L’idée est de proposer des ateliers cognitifs de La Fabrique A Neurones, et des exercices de marche nordique et de Bungy Pump, deux types de marches adaptées aux plus de 50 ans.",
+        "objectifs": "Deux professionnelles ont fait le choix de rejoindre la structure afin d’y développer un axe qui mêle ateliers cognitifs et physique: une coach sportive professionnelle spécialisée en marche nordique et une doctorante en neuropsychologie spécialisée dans l’étude du vieillissement du cerveau."
+    },
+    "porteur_initiative": "Deux professionnelles ont fait le choix de rejoindre la structure afin d’y développer un axe qui mêle ateliers cognitifs et physique: une coach sportive professionnelle spécialisée en marche nordique et une doctorante en neuropsychologie spécialisée dans l’étude du vieillissement du cerveau.",
+    "date": [
+        "28/11/2018",
+        "2025",
+        "2023",
+        "2012",
+        "2018",
+        "depuis 2012",
+        "en 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_tete_bien_pleine_dans_un_corps_bien_fait_accompagner_les_aines_pour_un_vieillissement_en_bonne_sante.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Une_tete_bien_pleine_dans_un_corps_bien_fait_accompagner_les_aines_pour_un_vieillissement_en_bonne_sante.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Projet de vie à la retraite",
+    "territoire": "Titre: Projet de vie à la retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/464-pe-projet-de-vie-a-la-retraite.pdf  ---  --- LA RETRAITE, UNE NOUVELLE ÉTAPE DE LA VIE La Ville de Colomiers a mis en place un cycle de trois ateliers intitulé “Votre projet de vie à la retraite”.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Coût global: 1 500 €  ---  --- DES SENIORS DEMANDEURS Douze personnes âgées de 61 à 73 ans ont participé à ces ateliers (le groupe a été élargi au vu des demandes).",
+    "description": {
+        "description_generale": "De plus, la présentation des activités proposées sur la Ville permet aux aînés de pouvoir s’investir en fonction de la définition de leur projet sur des domaines différents et de créer du lien social.",
+        "contexte": "Ce projet est parti du constat que vivre pleinement sa retraite n’est pas une évidence pour tous.",
+        "problematique": "Il s’agit de comprendre les enjeux et les modifications associés à ce nouveau référentiel qu’est la retraite afin de pouvoir la vivre pleinement.",
+        "solution_envisagee": "Titre: Projet de vie à la retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/464-pe-projet-de-vie-a-la-retraite.pdf  ---  --- LA RETRAITE, UNE NOUVELLE ÉTAPE DE LA VIE La Ville de Colomiers a mis en place un cycle de trois ateliers intitulé “Votre projet de vie à la retraite”.",
+        "objectifs": "Informer les retraités sur les actions du territoire: bénévolat, loisirs, culture… Favoriser la participation citoyenne."
+    },
+    "porteur_initiative": "Titre: Projet de vie à la retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/464-pe-projet-de-vie-a-la-retraite.pdf  ---  --- LA RETRAITE, UNE NOUVELLE ÉTAPE DE LA VIE La Ville de Colomiers a mis en place un cycle de trois ateliers intitulé “Votre projet de vie à la retraite”.",
+    "date": [
+        "2025",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_vie_a_la_retraite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_de_vie_a_la_retraite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

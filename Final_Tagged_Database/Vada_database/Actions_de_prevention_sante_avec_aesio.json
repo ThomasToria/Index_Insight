@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Actions de prévention santé avec aesio",
+    "territoire": "Titre: Actions de prévention santé avec aesio Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/890-concours-2023-actions-de-prevention-sante-avec-aesio-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS CONTEXTE DU PARTENARIAT AVEC AESIO L'analyse des besoins sociaux de la commune, menée en 2021, a indiqué que les personnes de plus de 60 ans représentaient 26.3% de la population en 2017, et que leur souhait était de pouvoir rester vivre à domicile aussi longtemps que possible.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Suite à cet ABS de 2017, une convention de partenariat triennale a été signée avec la mutuelle Aesio sur l'organisation d'action de prévention santé à destination des seniors.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Valence, vous avez mis en pla ce des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Actions de prévention santé avec aesio Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/890-concours-2023-actions-de-prevention-sante-avec-aesio-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS CONTEXTE DU PARTENARIAT AVEC AESIO L'analyse des besoins sociaux de la commune, menée en 2021, a indiqué que les personnes de plus de 60 ans représentaient 26.3% de la population en 2017, et que leur souhait était de pouvoir rester vivre à domicile aussi longtemps que possible.",
+        "problematique": "Titre: Actions de prévention santé avec aesio Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/890-concours-2023-actions-de-prevention-sante-avec-aesio-1.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS CONTEXTE DU PARTENARIAT AVEC AESIO L'analyse des besoins sociaux de la commune, menée en 2021, a indiqué que les personnes de plus de 60 ans représentaient 26.3% de la population en 2017, et que leur souhait était de pouvoir rester vivre à domicile aussi longtemps que possible.",
+        "solution_envisagee": "Semaine de l'alimentation 2023: mise en place de divers ateliers.",
+        "objectifs": "Chaque année, le thème choisi varie: mémoire, adaptation du logement, sommeil, DMLA..."
+    },
+    "porteur_initiative": "Chaque année, le thème choisi varie: mémoire, adaptation du logement, sommeil, DMLA...",
+    "date": [
+        "octobre 2023",
+        "2025",
+        "2023",
+        "2021",
+        "2017",
+        "2022",
+        "depuis 2017",
+        "en 2021",
+        "en",
+        "en 2022",
+        "En 2023",
+        "en 2017"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_de_prevention_sante_avec_aesio.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Actions_de_prevention_sante_avec_aesio.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Le CREAT: un logement reconstitué dédié à la prévention de la perte d’autonomie",
+    "territoire": "LE CREAT: UN LOGEMENT RECONSTITUÉ DÉDIÉ À LA PRÉVENTION DE LA PERTE D’AUTONOMIE Fiche PARTAGE D'EXPÉRIENCE N°599 Villes Amies des Aînés en France Centre de Ressource et d’Expertise en Aides Techniques À Nantes Métropole (44) Amie des Aînés depuis 2019 Découvrir une multitude de conseils et d’aides techniques pour prévenir au quotidien la perte d’autonomie.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "Les aidants (familiaux ou professionnels) trouvent également les informations nécessaires au bien-être de leurs proches et aidés.",
+    "description": {
+        "description_generale": "COMPOSITION ET FINANCEMENT DU PROJET Le CreAT est composé d’une équipe de quatre personnes: une responsable, une personne chargée de l’accueil et de l’administratif et deux ergothérapeutes qui se relaient sur place.",
+        "contexte": "LE CREAT: UN LOGEMENT RECONSTITUÉ DÉDIÉ À LA PRÉVENTION DE LA PERTE D’AUTONOMIE Fiche PARTAGE D'EXPÉRIENCE N°599 Villes Amies des Aînés en France Centre de Ressource et d’Expertise en Aides Techniques À Nantes Métropole (44) Amie des Aînés depuis 2019 Découvrir une multitude de conseils et d’aides techniques pour prévenir au quotidien la perte d’autonomie.",
+        "problematique": "Les professionnels du CreAT sont à la disposition des visiteurs pour leur donner des conseils personnalisés selon la problématique identifiée et pour les orienter, si besoin, vers d’autres professionnels spécialisés.",
+        "solution_envisagee": "Un logement reconstitué: des solutions pour mieux vieillir chez soi!  ---  --- PROPOSER UN ACCOMPAGNEMENT PERSONNALISÉ Ce site est un équipement unique en Loire-Atlantique.",
+        "objectifs": "LE CREAT: UN LOGEMENT RECONSTITUÉ DÉDIÉ À LA PRÉVENTION DE LA PERTE D’AUTONOMIE Fiche PARTAGE D'EXPÉRIENCE N°599 Villes Amies des Aînés en France Centre de Ressource et d’Expertise en Aides Techniques À Nantes Métropole (44) Amie des Aînés depuis 2019 Découvrir une multitude de conseils et d’aides techniques pour prévenir au quotidien la perte d’autonomie."
+    },
+    "porteur_initiative": "LE CREAT: UN LOGEMENT RECONSTITUÉ DÉDIÉ À LA PRÉVENTION DE LA PERTE D’AUTONOMIE Fiche PARTAGE D'EXPÉRIENCE N°599 Villes Amies des Aînés en France Centre de Ressource et d’Expertise en Aides Techniques À Nantes Métropole (44) Amie des Aînés depuis 2019 Découvrir une multitude de conseils et d’aides techniques pour prévenir au quotidien la perte d’autonomie.",
+    "date": [
+        "mai 2019",
+        "2025",
+        "2021",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.8,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

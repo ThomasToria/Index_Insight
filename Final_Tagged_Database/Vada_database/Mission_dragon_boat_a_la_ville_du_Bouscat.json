@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Mission dragon boat à la ville du Bouscat",
+    "territoire": "Titre: Mission dragon boat à la ville du Bouscat Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/927-concours-2023-mission-dragon-boat-a-la-ville-de-bouscat.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE DEMANDE CONJOINTE Les politiques \"Senior\" et \"Jeunesse\" mettent l'action intergénérationnelle au coeur de leurs démarches.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En 2022 les seniors Bouscatais ont été interrogé sur leurs envies et besoins mais aussi sur la mise en place d'action intergénérationnelle.",
+    "description": {
+        "description_generale": "La mise en place d'une « stratégie » d'actions intergénérationnelles a pour objectifs généraux de créer des liens entre les générations, favoriser l'échange et mettre en place des projets collaboratifs avec du sens.",
+        "contexte": "Titre: Mission dragon boat à la ville du Bouscat Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/927-concours-2023-mission-dragon-boat-a-la-ville-de-bouscat.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE DEMANDE CONJOINTE Les politiques \"Senior\" et \"Jeunesse\" mettent l'action intergénérationnelle au coeur de leurs démarches.",
+        "problematique": "En 2022 les seniors Bouscatais ont été interrogé sur leurs envies et besoins mais aussi sur la mise en place d'action intergénérationnelle.",
+        "solution_envisagee": "La mise en place d'une « stratégie » d'actions intergénérationnelles a pour objectifs généraux de créer des liens entre les générations, favoriser l'échange et mettre en place des projets collaboratifs avec du sens.",
+        "objectifs": "La mise en place d'une « stratégie » d'actions intergénérationnelles a pour objectifs généraux de créer des liens entre les générations, favoriser l'échange et mettre en place des projets collaboratifs avec du sens."
+    },
+    "porteur_initiative": "Titre: Mission dragon boat à la ville du Bouscat Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/927-concours-2023-mission-dragon-boat-a-la-ville-de-bouscat.pdf  ---  --- 2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS UNE DEMANDE CONJOINTE Les politiques \"Senior\" et \"Jeunesse\" mettent l'action intergénérationnelle au coeur de leurs démarches.",
+    "date": [
+        "février 2022",
+        "2025",
+        "2023",
+        "2022",
+        "depuis 2022",
+        "En 2022"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mission_dragon_boat_a_la_ville_du_Bouscat.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Mission_dragon_boat_a_la_ville_du_Bouscat.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

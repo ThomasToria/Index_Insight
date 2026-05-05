@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Plan tous en forme: nutrition, sport, santé",
+    "territoire": "Titre: Plan tous en forme: nutrition, sport, santé Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/993-concours-2023-plan-tous-en-forme-nutrition-sport-sante.pdf  ---  --- \"PLAN MUNICIPAL NUTRITION SPORT SANTÉ\" Au cours de ces dernières années, de très nombreux travaux scientifiques ont démontré que les risques de maladies et d'incapacités pouvaient être réduits grâce à une bonne nutrition et une activité physique régulière.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "Soucieuse de prendre sa part à la sensibilisation et l'accompagnement du grand public sur les questions de santé publique, la Ville de Tassin La Demi-Lune a adopté en 2022 un \"Plan Municipal Nutrition Sport Santé\", se traduisant concrètement par un mois d'animations, de conférences et d'ateliers à destination de tous les publics.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Tassin la Demi-Lune, vous ave z mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS PLAN TOUS EN FORME: NUTRITION, SPORT, SANTÉ Fiche PARTAGE D'EXPÉRIENCE N°855 Villes Amies des Aînés en France Tassin la Demi-Lune Ville Amie des Aînés depuis 2017 Tassin la Demi-Lune (69) Favoriser certains comportements nutritionnels et la pratique d'activités physiques.",
+        "problematique": "2023 CONCOURS V ILLES AM I E S D ES AÎN ÉS PLAN TOUS EN FORME: NUTRITION, SPORT, SANTÉ Fiche PARTAGE D'EXPÉRIENCE N°855 Villes Amies des Aînés en France Tassin la Demi-Lune Ville Amie des Aînés depuis 2017 Tassin la Demi-Lune (69) Favoriser certains comportements nutritionnels et la pratique d'activités physiques.",
+        "solution_envisagee": "Soucieuse de prendre sa part à la sensibilisation et l'accompagnement du grand public sur les questions de santé publique, la Ville de Tassin La Demi-Lune a adopté en 2022 un \"Plan Municipal Nutrition Sport Santé\", se traduisant concrètement par un mois d'animations, de conférences et d'ateliers à destination de tous les publics.",
+        "objectifs": "La commande publique a été retranscrite avec la formulation d'objectifs concrets."
+    },
+    "porteur_initiative": "Il est composé des membres du service éducation et du porteur du projet du CCAS en 2022.",
+    "date": [
+        "24 septembre 2022",
+        "septembre 2022",
+        "2025",
+        "2023",
+        "2022",
+        "2019",
+        "2017",
+        "depuis 2017",
+        "en 2022",
+        "En 2019",
+        "EN 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plan_tous_en_forme_nutrition_sport_sante.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Plan_tous_en_forme_nutrition_sport_sante.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

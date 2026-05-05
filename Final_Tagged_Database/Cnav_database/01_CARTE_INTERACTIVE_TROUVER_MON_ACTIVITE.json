@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: CARTE INTERACTIVE « TROUVER MON ACTIVITÉ »",
+    "territoire": "LA LOCALISATION Nationale Plus d’informations sur pourbienvieillir.fr",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "Autres: aidants, grand public.",
+    "description": {
+        "description_generale": "Professionnels: opérateurs d’actions collectives, structure d’évaluation, intervenants auprès des retraités.",
+        "contexte": "Titre: CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » Pages: 9  CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+        "problematique": "Titre: CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » Pages: 9  CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+        "solution_envisagee": "Titre: CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » Pages: 9  CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+        "objectifs": "LA FINALITÉ La carte interactive, positionnée sur le portail interrégime pourbienvieillir.fr, a pour objectif de faire connaître et rendre plus accessible la programmation des actions collectives portées ou soutenues par les caisses de l’Assurance retraite et de l’interrégime."
+    },
+    "porteur_initiative": "Titre: CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » Pages: 9  CARTE INTERACTIVE « TROUVER MON ACTIVITÉ » LES ACTEURS Porteur(s) de la pépite: Caisse nationale de l’Assurance retraite.",
+    "date": [
+        "2019",
+        "2024",
+        "depuis 2019",
+        "en",
+        "en 2024"
+    ],
+    "thematique": [
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

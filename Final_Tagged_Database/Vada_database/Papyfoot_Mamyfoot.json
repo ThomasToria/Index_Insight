@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Papyfoot/ Mamyfoot",
+    "territoire": "Titre: Papyfoot/ Mamyfoot Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/544-pe-mamyfoot-papyfoot.pdf  ---  --- QUAND LE JEU RAPPROCHE LES GÉNÉRATIONS Le projet « Papyfoot/Mamyfoot » repose sur l’organisation d’un tournoi de baby-foot intergénérationnel, où s’affrontent plusieurs binômes constitués d’une personne âgée de plus de 55 ans et d’un jeune âgé de 10 à 15 ans.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Favoriser l’ouverture d’équipements municipaux qui accueillent principalement des habitants âgés, sur l’extérieur, la vie sociale locale et d’autres générations (Résidences autonomie, Espace Personnes âgées et Maison des Habitants).",
+    "description": {
+        "description_generale": "En plus des collaborateurs déjà mentionnés, d’autres partenaires se sont associés à l’action: le chef de projet JO- Coupe du monde féminine de football; le Service Jeunesse; des responsables des six PAGI (Pôle d’Animation Gérontologique et Intergénérationnelle); et des partenaires socioculturels - MJC (Anatole France, Lucie Aubrac et Prémol), CLEF, Maison de l’Enfance.",
+        "contexte": "Les jeunes ont quant à eux été agréablement surpris par la qualité du projet et des échanges et qu’ils ont pu avoir avec les personnes âgées: «Au début, on venait un peu comme ça pour voir, mais en vrai c’était trop cool, on s’est éclatés!».",
+        "problematique": "Les jeunes ont quant à eux été agréablement surpris par la qualité du projet et des échanges et qu’ils ont pu avoir avec les personnes âgées: «Au début, on venait un peu comme ça pour voir, mais en vrai c’était trop cool, on s’est éclatés!».",
+        "solution_envisagee": "Dans le cadre de l’accueil de la coupe du monde féminine de football, la Ville de Grenoble a en effet souhaité proposer différents temps forts réunis autour du slogan «Vivez la coupe du monde de foot autrement!».",
+        "objectifs": "Pour la prochaine édition, l’objectif serait d’acheminer les baby-foot plus en amont du jour J afin de permettre aux participants de s’entraîner, comme cela nous a été demandé."
+    },
+    "porteur_initiative": "Il s’agit d’un projet co-porté par différentes directions de la Ville de Grenoble (Direction de la Communication et de l’Évènementiel, pilotes de la démarche «Ville Amie des Aînés», Direction de l’Action Territoriale, Direction de l’Environnement et du Cadre de Vie, Cabinet du Maire), de son CCAS (Direction de l’Action Sociale Personnes gées) et de Grenoble Alpes Métropole, en lien avec l’association Parisienne TATANE.",
+    "date": [
+        "2025",
+        "2016",
+        "2019",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Papyfoot_Mamyfoot.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Papyfoot_Mamyfoot.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "titre": "Ehpad: aider les soignants à prendre soin d’eux",
+    "territoire": "Nous vous invitons également à vous adresser au CCAS (Centre Communal d'Action Sociale) de votre ville.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Absence d’équipement de protection, recours à la fabrication de masques en tissu, présence accrue auprès des résidents coupés de leurs familles: au plus fort de la crise, les agents de l’EHPAD ont assuré les gestes du quotidien, mis en place de nouvelles procédures, créé une cellule de crise et une Unité Covid… « Nous avons vécu le confinement comme un moment suspendu, en quasi-autarcie… Certains ont même pris la décision de s’isoler de leur foyer afin de protéger leur famille et les résidents.",
+    "description": {
+        "description_generale": "Pour permettre à chacun de poursuivre ses missions le plus sereinement possible, la Fondation de France souhaite soutenir des actions dans les domaines suivants: Soutenir les professionnels et les aidants familiaux, Accompagner les évolutions d’organisation du travail, Renforcer les savoirs et les compétences. >> En savoir plus sur l’appel à projets POUR ALLER PLUS LOIN → Toutes les actualités de la Fondation de France Centre-Est Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+        "contexte": "Le but étant de mettre les angoisses à distance et de rétablir une vision plus positive de la situation. » La sophrologie propose une thérapie éprouvée dans le cadre de la gestion du stress « C’est aussi un exercice qui s’inscrit dans le temps, avec des outils à utiliser au-delà des séances pour en pérenniser les bénéfices. » Avec un but ultime: prendre soin de soi pour prendre soin des autres, comme le souligne Géraldine Laprugne: « Face à l’ampleur de la tâche, les soignants ont naturellement tendance à s’oublier.",
+        "problematique": "Le confinement, ses conséquences et la crise sanitaire qui se prolonge, contraignent les professionnels et les aidants à modifier leurs approches pour répondre aux enjeux de continuité des soins et de prise en charge des personnes malades, en situation de handicap et/ou de vulnérabilité.",
+        "solution_envisagee": "Dans l’Allier, Géraldine Laprugne, directrice de l’Ehpad de Chantelle, a sollicité l’appui de la Fondation de France pour proposer à ses équipes un accompagnement adapté, indispensable pour poursuivre leur mission.",
+        "objectifs": "Absence d’équipement de protection, recours à la fabrication de masques en tissu, présence accrue auprès des résidents coupés de leurs familles: au plus fort de la crise, les agents de l’EHPAD ont assuré les gestes du quotidien, mis en place de nouvelles procédures, créé une cellule de crise et une Unité Covid… « Nous avons vécu le confinement comme un moment suspendu, en quasi-autarcie… Certains ont même pris la décision de s’isoler de leur foyer afin de protéger leur famille et les résidents."
+    },
+    "porteur_initiative": "Piloté par la sophrologue Cindy Verron, le parcours comprend dix séances collectives en groupes de 10 à 12 personnes, en trois étapes: « Un temps d’écoute pour commencer, puis des exercices de relaxation pour relâcher la pression et modifier sa perception de l’environnement.",
+    "date": [],
+    "thematique": [
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Ehpad aider les soignants à prendre soin d'eux.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Ehpad aider les soignants à prendre soin d'eux.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

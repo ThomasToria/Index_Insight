@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Service des bénévoles du ccas",
+    "territoire": "Titre: Service des bénévoles du ccas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/366-pe-service-des-benevoles-du-ccas-1.pdf  ---  --- UN SERVICE D’ACCOMPAGNEMENT A LA PERTE D’AUTONOMIE Le vieillissement de la population et la croissance du phénomène d’isolement des personnes âgées dépendantes ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles visant à mieux accompagner la perte d’autonomie de ce public fragilisé.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Service des bénévoles du ccas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/366-pe-service-des-benevoles-du-ccas-1.pdf  ---  --- UN SERVICE D’ACCOMPAGNEMENT A LA PERTE D’AUTONOMIE Le vieillissement de la population et la croissance du phénomène d’isolement des personnes âgées dépendantes ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles visant à mieux accompagner la perte d’autonomie de ce public fragilisé.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Caluire et Cuire, vous avez m is en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "En 2016, l’équipe de bénévoles, en majorité des personnes âgées, était composée de 19 personnes, dont une nouvellement inscrite: dix pour l’accompagnement, sept pour les visites de courtoisie et deux pour le bricolage.",
+        "problematique": "Titre: Service des bénévoles du ccas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/366-pe-service-des-benevoles-du-ccas-1.pdf  ---  --- UN SERVICE D’ACCOMPAGNEMENT A LA PERTE D’AUTONOMIE Le vieillissement de la population et la croissance du phénomène d’isolement des personnes âgées dépendantes ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles visant à mieux accompagner la perte d’autonomie de ce public fragilisé.",
+        "solution_envisagee": "En 2016, l’équipe de bénévoles, en majorité des personnes âgées, était composée de 19 personnes, dont une nouvellement inscrite: dix pour l’accompagnement, sept pour les visites de courtoisie et deux pour le bricolage.",
+        "objectifs": "Titre: Service des bénévoles du ccas Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/366-pe-service-des-benevoles-du-ccas-1.pdf  ---  --- UN SERVICE D’ACCOMPAGNEMENT A LA PERTE D’AUTONOMIE Le vieillissement de la population et la croissance du phénomène d’isolement des personnes âgées dépendantes ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles visant à mieux accompagner la perte d’autonomie de ce public fragilisé."
+    },
+    "porteur_initiative": "Les retraités bénévoles viennent régulièrement rencontrer l’équipe qui gère l’activité du CCAS et expriment tous l’enrichissement apporté par ce service.",
+    "date": [
+        "2025",
+        "1985",
+        "2016",
+        "2017",
+        "1000",
+        "2003",
+        "depuis 2016",
+        "en 1985",
+        "En",
+        "En 2016",
+        "En 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_des_benevoles_du_ccas.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Service_des_benevoles_du_ccas.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

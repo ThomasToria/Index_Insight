@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Grand autunois morvan - bien dans ses baskets",
+    "territoire": "Le souhait commun est également de poursuivre le déploiement des APA sur d'autres communes en 2024 et 2025 avec le soutien de la CFPPA du département de Saône-et-Loire qui en a fait une thématique socle en retenant ce territoire à titre expérimental, du premier appel à manifestation d'intérêt.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Les bénéficiaires sont des personnes âgées de 65 ans à 92\nans, hommes et femmes avec une majorité de dames\nimpliquées. Leur rôle a été de mobiliser les amis et leur\nparticipation a été ouverte à d'autres actions portées par le\nCIAS ou par leur propre initiative. Des temps\nintergénérationnels sont ainsi en cours de réflexion avec\nles écoles du village. Le FC Gueugnon a convié les deux\ngroupes de Mesvres à un challenge inter ateliers avec\nd'autres ateliers organisés sur Gueugnon et aux alentours,\ncomme à Marly, par exemple.",
+    "description": {
+        "description_generale": "Si, comme la communauté de communes du Grand Autuno is Morvan, vous avez mis en place des projets pour les aînés, n’hésitez pas à n ous en faire part: contact@rfvaa.com UN DISPOSITIF QUI A TROUVÉ SON PUBLIC Les bénéficiaires sont des personnes âgées de 65 ans à 92 ans, hommes et femmes avec une majorité de dames impliquées.",
+        "contexte": "Il a également été constaté qu'en milieu rural, en dehors de quelques associations phares (foyer rural ou club des aînés), la proposition faite aux séniors d'une activité physique vraiment adaptée n'était pas organisée.",
+        "problematique": "M Léonetti, l'intervenant, a expliqué la manière dont il allait fonctionner et très vite des groupes se sont constitués: trois sur Auxy et un à la Celle-En-Morvan.",
+        "solution_envisagee": "Titre: Grand autunois morvan - bien dans ses baskets Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/892-concours-2023-grand-autunois-morvan-bien-dans-ses-baskets.pdf  ---  --- UN DÉFAUT D'OFFRE D'ACTIVITÉ PHYSIQUE ADAPTÉE La stratégie nationale sport santé 2019/2024 qui donne entre autre un cadre d'action sur la \"lutte\" contre la sédentarité, a invité la communauté de communes du Grand Autunois Morvan à réfléchir aux modalités de déploiement d'actions en ce sens.",
+        "objectifs": "Par ailleurs, la Mutualité française 71 va déployer pour cette fin d'année un tiers lieu \"PREVENTO\", dont les objectifs visent à proposer, en plus d'être un lieu d'activités, de projets et de lien social, un coaching individuel pour encourager les séniors à s'inscrire dans un parcours de prévention au sens large, en les accompagnant et les conseillant."
+    },
+    "porteur_initiative": "M Léonetti, l'intervenant, a expliqué la manière dont il allait fonctionner et très vite des groupes se sont constitués: trois sur Auxy et un à la Celle-En-Morvan.",
+    "date": [
+        "janvier 2023",
+        "2025",
+        "2023",
+        "2019",
+        "2024",
+        "2022",
+        "depuis 2022",
+        "en 2024"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Grand_autunois_morvan_-_bien_dans_ses_baskets.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Grand_autunois_morvan_-_bien_dans_ses_baskets.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.8,
+        "public_vise": 0.95,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

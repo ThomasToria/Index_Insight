@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS",
+    "territoire": "Titre: LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-LES-CHAISES-CONVIVIALES.pdf  ---  --- UNE INITIATIVE INNOVANTE  Ville Amie des Aînés depuis 2016  Impliquer les habitants âgés dans la création, la mise en œuvre et l’évaluation d’un projet répondant à leurs préoccupations, en leur donnant la possibilité d’être acteurs et coconcepteurs.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Le vieillissement actif se trouve favorisé par une participation à toutes les étapes du projet: idée initiale, mise en œuvre par des seniors bénévoles, évaluation, participation à un groupe de réflexion avec des designers et entreprises, proposition d’actions nouvelles… Ce projet associe de manière forte les usagers de tous les âges mais aussi des professionnels d’horizons très différents (centres sociaux, designers, urbanistes, entreprises …) en leur proposant un projet commun répondant aux besoins liés au vieillissement de la population.",
+    "description": {
+        "description_generale": "Titre: LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-LES-CHAISES-CONVIVIALES.pdf  ---  --- UNE INITIATIVE INNOVANTE  Ville Amie des Aînés depuis 2016  Impliquer les habitants âgés dans la création, la mise en œuvre et l’évaluation d’un projet répondant à leurs préoccupations, en leur donnant la possibilité d’être acteurs et coconcepteurs.",
+        "contexte": "Le projet a été également travaillé au sein des « Commissions du bien vieillir » mises en place dans plusieurs quartiers afin de l’adapter au contexte et de le coconstruire avec les participants institutionnels et les bénéficiaires.",
+        "problematique": "Coût direct: 778 euros Lutter contre l’isolement des personnes âgées pendant la période estivale en favorisant les possibilités de rencontres sur l’espace public et les liens intergénérationnels.",
+        "solution_envisagee": "Fiche PARTAGE D'EXPÉRIENCE N°275 Villes Amies des Aînés en France  LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS  A l’initiative d’une habitante âgée et avec l’accompagnement de la Ville, un groupe de parole réunissant des personnes âgées souffrant de solitude a été créé en 2012.",
+        "objectifs": "Suite à cette demande, la Ville avec la Cité du design et une entreprise locale, a mis à disposition durant l’été 2013 des chaises au sein de différents quartiers stéphanois, afin de créer des espaces extérieurs de rencontre dédiés aux seniors et ouverts aux habitants et enfants du quartier."
+    },
+    "porteur_initiative": "Coût direct: 778 euros Lutter contre l’isolement des personnes âgées pendant la période estivale en favorisant les possibilités de rencontres sur l’espace public et les liens intergénérationnels.",
+    "date": [
+        "2025",
+        "2016",
+        "2012",
+        "2013",
+        "depuis 2016",
+        "en 2012",
+        "en 2013",
+        "en 2016"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LES_CHAISES_CONVIVIALES_DES_CHAISES_DESIGN_QUI_CREENT_DU_LIEN_SOCIAL_ENTRE_LES_GENERATIONS.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\LES_CHAISES_CONVIVIALES_DES_CHAISES_DESIGN_QUI_CREENT_DU_LIEN_SOCIAL_ENTRE_LES_GENERATIONS.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

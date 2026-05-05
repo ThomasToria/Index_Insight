@@ -1,0 +1,133 @@
+Modèle de prédiction de la réponse au traitement à l’aide d’une analyse intégrative de données cliniques, moléculaires et d’imagerie dans une large cohorte de lymphome folliculaire
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/modele-de-prediction-de-la-reponse-au-traitement-a-laide-dune-analyse-integrative-de-donnees-cliniques-moleculaires-et-dimagerie-dans-une-large-cohorte-de-lymphome-follicul/
+Programme concerné : MESSIDORE
+Nom de l'appel : Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année : 2023
+État du projet : En cours
+Durée : 36 mois
+Subvention allouée : 1 440 943,00 €
+Financeurs : INSERM
+Disciplines : Intelligence artificielle / hémato-oncologie / biologie moléculaire
+
+Modèle de prédiction de la réponse au traitement à l’aide d’une analyse intégrative de données cliniques, moléculaires et d’imagerie dans une large cohorte de lymphome folliculaire - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Modèle de prédiction de la réponse au traitement à l’aide d’une analyse intégrative de données cliniques, moléculaires et d’imagerie dans une large cohorte de lymphome folliculaire
+Programme concerné
+MESSIDORE
+Nom de l'appel
+Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année
+2023
+Modalité de soutien
+Projet d'amorçage et pilote
+État du projet
+En cours
+Durée
+36 mois
+Subvention allouée
+1 440 943,00 €
+Financeurs
+INSERM
+Disciplines
+Intelligence artificielle / hémato-oncologie / biologie moléculaire
+Modèle de prédiction de la réponse au traitement à l’aide d’une analyse intégrative de données cliniques, moléculaires et d’imagerie dans une large cohorte de lymphome folliculaire
+Résumé de soumission
+Contexte : Le lymphome folliculaire (LF) est le lymphome indolent le plus fréquent, et se caractérise par une histoire naturelle très hétérogène d’un patient à l’autre. Plus particulièrement, les patients qui progressent dans les 24 mois après l’initiation du traitement de chimiothérapie première ligne (situation appelée la POD24) présentent un risque de décès du lymphome bien supérieur, avec une survie à 5 ans de 50% versus 90% pour les autres patients. Prédire cet évènement de POD24 est donc un enjeu majeur, actuellement non atteint. En effet, les scores actuellement disponibles ont été développés à l’aide de petites séries et avec des variables n’intégrant qu’une ou deux modalités (ie clinique et moléculaire, ou clinique et d’imagerie) et manquent de sensibilité et/ou de reproductibilité. Notre hypothèse est que l’analyse d’un seul type de donnée n’est pas suffisante pour pouvoir caractériser et comprendre l’hétérogénéité du LF et que l’intégration de différents types (moléculaire, clinique, d’imagerie radiologique et anatomopathologique) est nécessaire pour aboutir à une classification du LF permettant d’améliorer notre compréhension de l’hétérogénéité biologique et clinique et ainsi guider la stratégie thérapeutique. L’intelligence artificielle nous apporte maintenant les outils nécessaires pour répondre à ce besoin en développant des stratégies d’intégration multimodale à partir de données annotées.
+Objectif : (1) Intégrer des données cliniques, biologiques, moléculaires, radiomiques, et anatomopathologiques pour développer un modèle de prédiction de la POD24 dans le LF ; (2) comprendre l’hétérogénéité du LF grâce à une classification théranostique non supervisée au diagnostic, à partir de données multi-modales ; (3) identifier de nouvelles cibles thérapeutiques potentielles.
+Méthode : Nous allons exploiter une base de données unique en son genre, rassemblant tous les patients inclus dans des essais clinique du groupe coopérateur de recherche contre le lymphome, le LYSA (Lymphoma Study Association), depuis 15 ans, pour générer et analyser à l’aide d’algorithmes d’IA des données moléculaires (exome, transcriptome, ADN tumoral circulant), de radiomique (TEP/TDM), de lames d’anatomapathologie scannées en lien avec la clinique et le devenir des patients. Les données cliniques et de TEP/TDM ont déjà été rassemblées en une base unique, et les éléments moléculaires ou de scan de lames sont en train d’être générés. Dans le projet proposé, au sein de chaque jeu de données, les éléments clés associés avec la POD24 seront sélectionnés pour ensuite être intégrés. Au temps M0, les données préliminaires serviront pour entrainer les modèles d’intégration multimodale. Le jeu complet de données, y compris sa mise en forme, sera disponible à M3, et les corrélations unimodales avec la sélection des éléments d’intérêt à M12. Des outils d’analyse et de travail sont en train d’être déployés dans un espace sécurisé et déclaré à la CNIL, le « lymphoma data-hub », plateforme Microsoft Azure permettant le partage des données et une interaction optimale entre les équipes. Nous allons tout d’abord tenter d’identifier des corrélations entre les différents jeux de données, afin de mettre en lumière les éléments les plus appropriés pour la création du modèle pronostique multi-omique. Les modèles pouvant gérer les données manquantes seront construits avec des approches classiques (régression logistique, forêts aléatoires, réseaux de neurones), et plus originales développées dans notre laboratoire (par exemple le modèle ICARE (Individual Coefficient Approximation for Risk Estimation) utilisant une approche de fusion précoce et ayant démontré son efficacité pour la prédiction de la survie tout en s’accommodant des données manquantes, en étant interprétable et résiliant au sur-ajustement (overfitting). D’autres approches seront aussi étudiées, comme la fusion tardive (agrégant des modèles ou scores unimodaux) ou intermédiaire (avec un espace de représentation multi-modal, émanant des espaces monomodaux). Nos approches privilégieront systématiquement les modèles interprétables sur le plan biologique, capables de gérer les données manquantes, pour simplifier le déploiement futur. La performance du modèle sera évaluée avec une approche de validation croisée ou « leave-one-site/trial-out », avant la validation externe (déjà anticipée). Enfin, pour développer une classification théranostique, des méthodes comme « iclusterPlus », l’agrégation consensuelle NMF ou « genClass » seront utilisées pour une agrégation multi-niveau afin d’identifier les sous-groupes de LF avec des altérations moléculaires, un micro-environnement tumoral, ou un profil radiomique communs, et qui seraient ainsi susceptibles de répondre à un même traitement donné.
+Perspectives
+Valider les modèles obtenus dans une cohorte externe est une étape indispensable pour démontrer leur capacité à fournir des résultats fiables sur d’autres données. Cette étape est déjà planifiée et sera mise en œuvre grâce à une base de données, REALYSA, issue d’un grand essai observationnel incluant les patients au diagnostic d’un lymphome en France depuis 2018 (6000 patients inclus, dont 700 LF). Dans le contexte de DATA-FOL, cette cohorte constitue une excellente base pour la validation des scores prédictifs qui seront développés. Les échantillons et les images de cette cohorte seront collectés en 2024-5, pour être disponibles à la fin du projet DATA-FOL.
+Enfin, nous envisageons de déployer une stratégie de traitement adaptée au risque dans un essai clinique de phase III, pour transférer le modèle prédictif développé dans le soin en routine. Cet essai pourra être mené au sein du groupe coopérateur LYSA et avec ses collaborateurs afin (1) de mettre en place une stratégie d’escalade des traitements pour les patients à haut risque de POD24 et (2) de proposer une désescalade pour les patients à très bas risque.
+Equipes du projet
+Coordonnateur :
+SARKOZY Clémentine
+N° ORCID :
+0000-0001-9542-1163
+Structure administrative de rattachement :
+Institut Curie
+Laboratoire ou équipe :
+Institut Curie, Ensemble Hospitalier
+Autres équipes participantes :
+Responsable de l'équipe 2 : BUVAT Irène
+Laboratoire d'Imagerie Translationnelle en Oncologie (LITO)
+Responsable de l'équipe 3 : WALTER Thomas
+Centre for computational Biology (CBIO) Ecole des Mines
+Responsable de l'équipe 4 : TESSON Bruno
+LYSARC
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

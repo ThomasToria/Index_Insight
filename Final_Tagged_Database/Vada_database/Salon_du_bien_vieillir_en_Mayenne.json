@@ -1,0 +1,53 @@
+{
+    "titre": "Titre: Salon du bien vieillir en Mayenne",
+    "territoire": "Titre: Salon du bien vieillir en Mayenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1109-concours-2024-salon-du-bien-vieillir-en-mayenne-1-1.pdf  ---  --- INFORMER LES SENIORS Le Conseil départemental de la Mayenne est fortement engagé auprès du public âgé, avec une politique volontariste, depuis plusieurs années.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Titre: Salon du bien vieillir en Mayenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1109-concours-2024-salon-du-bien-vieillir-en-mayenne-1-1.pdf  ---  --- INFORMER LES SENIORS Le Conseil départemental de la Mayenne est fortement engagé auprès du public âgé, avec une politique volontariste, depuis plusieurs années.",
+    "description": {
+        "description_generale": "Définition du projet Identification des thématiques et invitation exposants et partenaires Gestion de la logistique Large communication Lors du salon: 90 stands, ateliers, animations et conférences.  ---  --- UN BILAN TRÈS POSITIF Le salon a accueilli 2 600 visiteurs, dont 75% de retraités.",
+        "contexte": "Titre: Salon du bien vieillir en Mayenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1109-concours-2024-salon-du-bien-vieillir-en-mayenne-1-1.pdf  ---  --- INFORMER LES SENIORS Le Conseil départemental de la Mayenne est fortement engagé auprès du public âgé, avec une politique volontariste, depuis plusieurs années.",
+        "problematique": "Par ailleurs, le Conseil a pu identifier un manque d'information, chez le public seniors, des différents dispositifs ou structures existantes, mais aussi des difficultés à être orienté vers les bonnes solutions et un manque de prise de conscience et d'anticipation.",
+        "solution_envisagee": "Par ailleurs, le Conseil a pu identifier un manque d'information, chez le public seniors, des différents dispositifs ou structures existantes, mais aussi des difficultés à être orienté vers les bonnes solutions et un manque de prise de conscience et d'anticipation.",
+        "objectifs": "Tout d'abord, il a été nécessaire de rechercher un lieu approprié et de définir la date, ainsi que les objectifs et la cible de l'événement."
+    },
+    "porteur_initiative": "Titre: Salon du bien vieillir en Mayenne Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1109-concours-2024-salon-du-bien-vieillir-en-mayenne-1-1.pdf  ---  --- INFORMER LES SENIORS Le Conseil départemental de la Mayenne est fortement engagé auprès du public âgé, avec une politique volontariste, depuis plusieurs années.",
+    "date": [
+        "6 décembre 2023",
+        "janvier 2023",
+        "décembre 2023",
+        "2025",
+        "1109",
+        "2024",
+        "2023",
+        "depuis 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_du_bien_vieillir_en_Mayenne.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Salon_du_bien_vieillir_en_Mayenne.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

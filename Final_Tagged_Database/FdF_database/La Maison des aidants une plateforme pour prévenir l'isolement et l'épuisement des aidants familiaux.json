@@ -1,0 +1,44 @@
+{
+    "titre": "La Maison des aidants: une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux",
+    "territoire": "Nos missions Notre réseau Agir avec nous Nos temps forts FR FR EN FR EN Accueil Fondation de France région Nord En France, près de 11 millions de personnes sont aidants familiaux, soit environ un Français sur six.",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "La Maison des aidants: une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/la-maison-des-aidants-une-plateforme-pour-prevenir-l-isolement-et-l-epuisement-des-aidants-familiaux  Qui sommes-nous?",
+    "description": {
+        "description_generale": "Nous vous remercions pour votre compréhension et nous nous tenons disponibles par téléphone au 01 85 53 13 66.​ Vous recherchez un soutien pour votre structure et/ou votre projet et nous vous remercions de l’intérêt que vous portez aux actions de la Fondation de France.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "La Maison des aidants: une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/la-maison-des-aidants-une-plateforme-pour-prevenir-l-isolement-et-l-epuisement-des-aidants-familiaux  Qui sommes-nous?",
+        "solution_envisagee": "Une association de Lille Roubaix Tourcoing propose un dispositif d’accompagnement pour ces aidants.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "La Maison des aidants: une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux  https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/la-maison-des-aidants-une-plateforme-pour-prevenir-l-isolement-et-l-epuisement-des-aidants-familiaux  Qui sommes-nous?",
+    "date": [],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "lien social",
+        "numérique",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La Maison des aidants une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\La Maison des aidants une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.0,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

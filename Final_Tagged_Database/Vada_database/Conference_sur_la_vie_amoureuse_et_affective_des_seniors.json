@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Conférence sur la vie amoureuse et affective des seniors",
+    "territoire": "Si, comme la ville de Lille, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN PROJET PARTAGE Ce projet a été rendu possible par le financement d e la conférence départementale des financeurs, le coût d e l'initiative s'élevant à 5 210,10 €.",
+    "echelle": [
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Coût global: 5 210, 10 €.  ---  --- DES OBJECTIFS ATTEINTS Les objectifs quantitatifs ont été atteints avec 12 0 seniors participants, qui ont été très satisfaits de l’init iative et des informations délivrées.",
+    "description": {
+        "description_generale": "Si, comme la ville de Lille, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com UN PROJET PARTAGE Ce projet a été rendu possible par le financement d e la conférence départementale des financeurs, le coût d e l'initiative s'élevant à 5 210,10 €.",
+        "contexte": "L’événement s'est déroulé sur une demi-journée en trois temps: un spectacle d’improvisation a été mis en place précédé par une compagnie de théâtre et la mise en place de tables rondes et de stands d’informations.",
+        "problematique": "L’événement s'est déroulé sur une demi-journée en trois temps: un spectacle d’improvisation a été mis en place précédé par une compagnie de théâtre et la mise en place de tables rondes et de stands d’informations.",
+        "solution_envisagee": "Apporter des solutions et des réponses concrètes aux seniors.",
+        "objectifs": "Coût global: 5 210, 10 €.  ---  --- DES OBJECTIFS ATTEINTS Les objectifs quantitatifs ont été atteints avec 12 0 seniors participants, qui ont été très satisfaits de l’init iative et des informations délivrées."
+    },
+    "porteur_initiative": "L’événement s'est déroulé sur une demi-journée en trois temps: un spectacle d’improvisation a été mis en place précédé par une compagnie de théâtre et la mise en place de tables rondes et de stands d’informations.",
+    "date": [
+        "2025",
+        "2017",
+        "2021",
+        "depuis 2017",
+        "en 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conference_sur_la_vie_amoureuse_et_affective_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Conference_sur_la_vie_amoureuse_et_affective_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Viens je t’emmène en suisse",
+    "territoire": "VIENS JE T’EMMÈNE EN SUISSE Fiche PARTAGE D'EXPÉRIENCE N°903 Villes Amies des Aînés en France CCAS de Belfort Ville Amie des Aînés depuis 2018 Belfort (90) Organiser une sortie pour inciter les plus isolés à sortir, découvrir des lieux, retisser des liens avec d’autres personnes; Pour les ambassadeurs VADA: convier et accompagner un habitant de leur quartier n’ayant pas l’opportunité de participer à ce type de sortie.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Cette sortie a réuni 41 personnes âgées de plus de 65 ans: des personnes isolées accompagnées des ambassadeurs VADA et des locataires de la Résidence L.",
+    "description": {
+        "description_generale": "Choix de la date; Mise en place du programme de la journée; Prévision du transport et de l’encadrement; 41 personnes participantes; Coût total: 2 500€.  ---  --- UNE ACTION RÉUSSIE À RENOUVELER Les participants ont été ravis de cette petite parenthèse estivale leur permettant de découvrir un autre territoire et surtout de créer de nouveaux liens pour les personnes seules.",
+        "contexte": "Cette sortie est une réponse aux attentes et aux souhaits exprimés par les habitants lors du diagnostic participatif de la démarche VADA.",
+        "problematique": "Cette sortie a réuni 41 personnes âgées de plus de 65 ans: des personnes isolées accompagnées des ambassadeurs VADA et des locataires de la Résidence L.",
+        "solution_envisagee": "Choix de la date; Mise en place du programme de la journée; Prévision du transport et de l’encadrement; 41 personnes participantes; Coût total: 2 500€.  ---  --- UNE ACTION RÉUSSIE À RENOUVELER Les participants ont été ravis de cette petite parenthèse estivale leur permettant de découvrir un autre territoire et surtout de créer de nouveaux liens pour les personnes seules.",
+        "objectifs": "D’autres pistes de repérage sont à développer avec les partenaires locaux comme Territoire Habitat, les Centres sociaux dans le cadre des QPV (projet accompagnement au vieillissement dans les quartiers prioritaires AMI)."
+    },
+    "porteur_initiative": "Cette sortie a réuni 41 personnes âgées de plus de 65 ans: des personnes isolées accompagnées des ambassadeurs VADA et des locataires de la Résidence L.",
+    "date": [
+        "30 août",
+        "30 août 2024",
+        "août",
+        "août 2024",
+        "2025",
+        "1042",
+        "2024",
+        "2018",
+        "depuis 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_en_suisse.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Viens_je_temmene_en_suisse.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

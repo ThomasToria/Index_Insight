@@ -1,0 +1,59 @@
+{
+    "titre": "Titre: La résidence Marc Bloch: héberger et accompagner une population vieillissante, fragilisée et précaire",
+    "territoire": "Titre: La résidence Marc Bloch: héberger et accompagner une population vieillissante, fragilisée et précaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/256-pe-residence-marc-bloch-mise-en-forme-2023.pdf  ---  --- LA VOLONTÉ POLITIQUE DE SOUTENIR UNE POPULATION PRÉCAIRE Le 7ème arrondissement de Lyon est historiquement un quartier qui accueille de nombreuses associations d’aide aux personnes en difficulté (sans-abri, Centre d’accueil et d’orientation, forum des réfugiés, secours populaire…).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "LA RÉSIDENCE MARC BLOCH: HÉBERGER ET ACCOMPAGNER UNE POPULATION VIEILLISSANTE, FRAGILISÉE ET PRÉCAIR E Fiche PARTAGE D'EXPÉRIENCE N°256 Villes Amies des Aînés en France Lyon Ville Amie des Aînés depuis 2012 Lyon (69) Fiche publiée le 01/08/2016 Accueillir dans un lieu confortable et sécurisé des personnes âgées fragilisées par leur parcours de vie (rue, psychiatrie).",
+    "description": {
+        "description_generale": "Néanmoins, le public accueilli étant souvent difficile à mobiliser autour d’un nouveau projet de vie, de nombreux dossiers n’aboutissent pas Selon une enquête menée en 2015, il existe une réelle adéquation entre le public accueilli et le projet: 53% des personnes accueillies ont eu un parcours de rue; 43% ont une addiction à l’alcool; 62.5% sont suivis par le secteur psychiatrique.",
+        "contexte": "LA RÉSIDENCE MARC BLOCH: HÉBERGER ET ACCOMPAGNER UNE POPULATION VIEILLISSANTE, FRAGILISÉE ET PRÉCAIR E Fiche PARTAGE D'EXPÉRIENCE N°256 Villes Amies des Aînés en France Lyon Ville Amie des Aînés depuis 2012 Lyon (69) Fiche publiée le 01/08/2016 Accueillir dans un lieu confortable et sécurisé des personnes âgées fragilisées par leur parcours de vie (rue, psychiatrie).",
+        "problematique": "Titre: La résidence Marc Bloch: héberger et accompagner une population vieillissante, fragilisée et précaire Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/256-pe-residence-marc-bloch-mise-en-forme-2023.pdf  ---  --- LA VOLONTÉ POLITIQUE DE SOUTENIR UNE POPULATION PRÉCAIRE Le 7ème arrondissement de Lyon est historiquement un quartier qui accueille de nombreuses associations d’aide aux personnes en difficulté (sans-abri, Centre d’accueil et d’orientation, forum des réfugiés, secours populaire…).",
+        "solution_envisagee": "Un travailleur social détaché de l’antenne solidarité du CCAS (0.4 ETP) propose un suivi social quotidien et individualisé, un accompagnement vers l’accès aux droits (CMU, Retraite, complémentaire Santé).",
+        "objectifs": "Enfin, un service civique ayant pour mission d’aider l’ensemble de l’équipe à développer organiser et coordonner les animations en lien avec les objectifs du projet d’établissement."
+    },
+    "porteur_initiative": "LA RÉSIDENCE MARC BLOCH: HÉBERGER ET ACCOMPAGNER UNE POPULATION VIEILLISSANTE, FRAGILISÉE ET PRÉCAIR E Fiche PARTAGE D'EXPÉRIENCE N°256 Villes Amies des Aînés en France Lyon Ville Amie des Aînés depuis 2012 Lyon (69) Fiche publiée le 01/08/2016 Accueillir dans un lieu confortable et sécurisé des personnes âgées fragilisées par leur parcours de vie (rue, psychiatrie).",
+    "date": [
+        "01/08/2016",
+        "2025",
+        "2023",
+        "2000",
+        "1969",
+        "2007",
+        "2012",
+        "2016",
+        "2015",
+        "depuis",
+        "depuis 2012",
+        "depuis 2007",
+        "en 1969",
+        "en 2007",
+        "en 2012",
+        "en 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Marc_Bloch_heberger_et_accompagner_une_population_vieillissante_fragilisee_et_precaire.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_residence_Marc_Bloch_heberger_et_accompagner_une_population_vieillissante_fragilisee_et_precaire.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.8,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

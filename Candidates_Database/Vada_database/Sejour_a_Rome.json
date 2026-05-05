@@ -1,0 +1,378 @@
+{
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejour_a_Rome.txt",
+    "nom_fichier": "Sejour_a_Rome.txt",
+    "lignes": [
+        "Titre: Séjour à Rome",
+        "Catégories:",
+        "Commune:",
+        "Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf",
+        "---  ---",
+        "DES VACANCES POUR LES AÎNÉS",
+        "Le service Animations Seniors a organisé un séjour à Rome avec cinquante",
+        "personnes âgées en mai 2023. Le séjour a duré cinq jours, et les seniors",
+        "étaient accompagnés de deux animateur qu'ils connaissaient déjà. Le coût",
+        "fut de 890€ par seniors. Un échéancier avait été mis en place avec ces",
+        "derniers en amont.",
+        "TOUTES LES FACETTES DE ROME",
+        "Dans le séjour, était compris l'hébergement, le transport, la restauration,",
+        "que la visite guidée des différents sites touristiques. Ainsi, les seniors ont pu",
+        "visiter le Vatican, des sites antiques, le Rome romantique, etc. Les",
+        "participants étaient ravis de l'expérience, leur permettant de faire des",
+        "découvertes en se sentant en sécurité. Ils souhaitent que le CCAS organise",
+        "d'autres séjours, en France ou à l'étranger.",
+        "Permettre aux seniors Vençois de voyager et",
+        "de découvrir de nouveaux paysages.",
+        "Créer du lien social le temps du séjour en",
+        "rencontrant seniors.",
+        "CCAS de Vence",
+        "Ville Amie des Aînés depuis 2023",
+        "Vence (06)",
+        "Organisation d’un séjour à Rome (destination",
+        "choisie par les séniors).",
+        "Echéancier de paiement des participants",
+        "pour financer le voyage.",
+        "Voyage: transport, hébergement,",
+        "restauration et visites guidées.",
+        "SÉJOUR À ROME",
+        "Fiche PARTAGE D'EXPÉRIENCE N°745 Villes Amies des Aînés en France"
+    ],
+    "paragraphes": [
+        "Titre: Séjour à Rome\nCatégories:\nCommune:\nSource PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf",
+        "---  ---\nDES VACANCES POUR LES AÎNÉS\nLe service Animations Seniors a organisé un séjour à Rome avec cinquante\npersonnes âgées en mai 2023. Le séjour a duré cinq jours, et les seniors\nétaient accompagnés de deux animateur qu'ils connaissaient déjà. Le coût\nfut de 890€ par seniors. Un échéancier avait été mis en place avec ces\nderniers en amont.\nTOUTES LES FACETTES DE ROME\nDans le séjour, était compris l'hébergement, le transport, la restauration,\nque la visite guidée des différents sites touristiques. Ainsi, les seniors ont pu\nvisiter le Vatican, des sites antiques, le Rome romantique, etc. Les\nparticipants étaient ravis de l'expérience, leur permettant de faire des\ndécouvertes en se sentant en sécurité. Ils souhaitent que le CCAS organise\nd'autres séjours, en France ou à l'étranger.\nPermettre aux seniors Vençois de voyager et\nde découvrir de nouveaux paysages.\nCréer du lien social le temps du séjour en\nrencontrant seniors.\nCCAS de Vence\nVille Amie des Aînés depuis 2023\nVence (06)\nOrganisation d’un séjour à Rome (destination\nchoisie par les séniors).\nEchéancier de paiement des participants\npour financer le voyage.\nVoyage: transport, hébergement,\nrestauration et visites guidées.\nSÉJOUR À ROME\nFiche PARTAGE D'EXPÉRIENCE N°745 Villes Amies des Aînés en France"
+    ],
+    "phrases": [
+        "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+        "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+        "Le coût fut de 890€ par seniors.",
+        "Un échéancier avait été mis en place avec ces derniers en amont.",
+        "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+        "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+        "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+        "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+        "Permettre aux seniors Vençois de voyager et de découvrir de nouveaux paysages.",
+        "Créer du lien social le temps du séjour en rencontrant seniors.",
+        "CCAS de Vence Ville Amie des Aînés depuis 2023 Vence (06) Organisation d’un séjour à Rome (destination choisie par les séniors).",
+        "Echéancier de paiement des participants pour financer le voyage.",
+        "Voyage: transport, hébergement, restauration et visites guidées.",
+        "SÉJOUR À ROME Fiche PARTAGE D'EXPÉRIENCE N°745 Villes Amies des Aînés en France"
+    ],
+    "stats": {
+        "nombre_lignes": 33,
+        "nombre_paragraphes": 2,
+        "nombre_phrases": 14,
+        "nombre_caracteres": 1420,
+        "nombre_sections_detectees": 0,
+        "nombre_dates_candidates": 4,
+        "nombre_territoires_candidates": 4,
+        "nombre_organisations_candidates": 10,
+        "nombre_public_vise_candidates": 8,
+        "nombre_porteur_candidates": 8,
+        "nombre_territoire_candidates": 8,
+        "nombre_description_candidates": 8,
+        "nombre_contexte_candidates": 8,
+        "nombre_problematique_candidates": 8,
+        "nombre_solution_candidates": 8,
+        "nombre_objectifs_candidates": 8
+    },
+    "sections_detectees": {},
+    "entites_candidates": {
+        "dates_candidates": [
+            "mai 2023",
+            "2025",
+            "2023",
+            "depuis 2023"
+        ],
+        "territoires_candidates": [
+            "Rome",
+            "Rome avec cinquante",
+            "Rome Catégories",
+            "Rome avec cinquante personnes âgées en mai"
+        ],
+        "organisations_candidates": [
+            "organise",
+            "Vence",
+            "organise d'autres séjours",
+            "Vence Ville Amie des Aînés depuis",
+            "Ils souhaitent que le CCAS",
+            "Commune:",
+            "découvertes en se sentant en sécurité",
+            "CCAS de Vence",
+            "Ils souhaitent que le CCAS organise d'autres séjours",
+            "CCAS de Vence Ville Amie des Aînés depuis 2023 Vence (06) Organisation d’un séjour à Rome (destination choisie par les séniors)"
+        ]
+    },
+    "phrases_candidates": {
+        "public_vise_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 6
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 3
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 3
+            },
+            {
+                "texte": "Permettre aux seniors Vençois de voyager et de découvrir de nouveaux paysages.",
+                "score": 3
+            },
+            {
+                "texte": "Créer du lien social le temps du séjour en rencontrant seniors.",
+                "score": 3
+            },
+            {
+                "texte": "Le coût fut de 890€ par seniors.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            }
+        ],
+        "porteur_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            },
+            {
+                "texte": "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+                "score": 1
+            },
+            {
+                "texte": "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+                "score": 1
+            }
+        ],
+        "territoire_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 6
+            },
+            {
+                "texte": "CCAS de Vence Ville Amie des Aînés depuis 2023 Vence (06) Organisation d’un séjour à Rome (destination choisie par les séniors).",
+                "score": 3
+            },
+            {
+                "texte": "SÉJOUR À ROME Fiche PARTAGE D'EXPÉRIENCE N°745 Villes Amies des Aînés en France",
+                "score": 3
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            }
+        ],
+        "description_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            },
+            {
+                "texte": "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+                "score": 1
+            },
+            {
+                "texte": "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+                "score": 1
+            }
+        ],
+        "contexte_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            },
+            {
+                "texte": "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+                "score": 1
+            },
+            {
+                "texte": "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+                "score": 1
+            }
+        ],
+        "problematique_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            },
+            {
+                "texte": "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+                "score": 1
+            },
+            {
+                "texte": "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+                "score": 1
+            }
+        ],
+        "solution_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            },
+            {
+                "texte": "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+                "score": 1
+            },
+            {
+                "texte": "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+                "score": 1
+            }
+        ],
+        "objectifs_candidates": [
+            {
+                "texte": "Titre: Séjour à Rome Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf  ---  --- DES VACANCES POUR LES AÎNÉS Le service Animations Seniors a organisé un séjour à Rome avec cinquante personnes âgées en mai 2023.",
+                "score": 2
+            },
+            {
+                "texte": "Voyage: transport, hébergement, restauration et visites guidées.",
+                "score": 2
+            },
+            {
+                "texte": "Le séjour a duré cinq jours, et les seniors étaient accompagnés de deux animateur qu'ils connaissaient déjà.",
+                "score": 1
+            },
+            {
+                "texte": "Un échéancier avait été mis en place avec ces derniers en amont.",
+                "score": 1
+            },
+            {
+                "texte": "TOUTES LES FACETTES DE ROME Dans le séjour, était compris l'hébergement, le transport, la restauration, que la visite guidée des différents sites touristiques.",
+                "score": 1
+            },
+            {
+                "texte": "Ainsi, les seniors ont pu visiter le Vatican, des sites antiques, le Rome romantique, etc.",
+                "score": 1
+            },
+            {
+                "texte": "Les participants étaient ravis de l'expérience, leur permettant de faire des découvertes en se sentant en sécurité.",
+                "score": 1
+            },
+            {
+                "texte": "Ils souhaitent que le CCAS organise d'autres séjours, en France ou à l'étranger.",
+                "score": 1
+            }
+        ]
+    }
+}

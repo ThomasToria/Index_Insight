@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: \"J’aimerais que ça se passe comme ça pour ma fin de vie et après\"",
+    "territoire": "Titre: \"J’aimerais que ça se passe comme ça pour ma fin de vie et après\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/771-concours-2022-35-l-accompagnement-vers-la-fin-de-vie.pdf  ---  --- UN GUIDE PÉDAGOGIQUE POUR RECUEILLIR LES SOUHAITS DES PERSONNES CONCERNANT LEUR FIN DE VIE ET L'APRÈS En 2019, des professionnels et des résidents de cinq pensions de famille du Groupement des Possibles se sont réunis pour parler des questions de mort et de fin de vie, encore trop souvent taboues et difficiles à aborder.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "UN GUIDE RÉDIGÉ COLLECTIVEMENT Des résidents des pensions de famille, comme les professionnels ont participé à l’ensemble des étapes de ce projet: recherche du cadre législatif, partage d'expériences, rédaction du contenu, choix de la mise en page, présentation aux différents acteurs… Ils ont été rémunérés pour leur participation et leur implication.",
+    "description": {
+        "description_generale": "UN GUIDE RÉDIGÉ COLLECTIVEMENT Des résidents des pensions de famille, comme les professionnels ont participé à l’ensemble des étapes de ce projet: recherche du cadre législatif, partage d'expériences, rédaction du contenu, choix de la mise en page, présentation aux différents acteurs… Ils ont été rémunérés pour leur participation et leur implication.",
+        "contexte": "UN GUIDE RÉDIGÉ COLLECTIVEMENT Des résidents des pensions de famille, comme les professionnels ont participé à l’ensemble des étapes de ce projet: recherche du cadre législatif, partage d'expériences, rédaction du contenu, choix de la mise en page, présentation aux différents acteurs… Ils ont été rémunérés pour leur participation et leur implication.",
+        "problematique": "L'accueil reçu par ce document auprès des personnes comme des acteurs des divers secteurs d'intervention (social, sanitaire, gérontologique) montre qu'il vient répondre à un vrai besoin de terrain.",
+        "solution_envisagee": "UN GUIDE RECONDUIT QUI A APPORTÉ DES RÉPONSES ET OUVERT UN ESPACE DE DIALOGUES Finalement, l'accompagnement vers la fin de vie et la mort est encore un sujet trop peu abordé de manière collective et notamment auprès de personnes touchées par la précarité, qui se retrouvent souvent encore plus exclues dans ces étapes, faute de connaissances de leurs droits, de prise en compte de leurs volontés et de formation des professionnels sur ces thématiques.",
+        "objectifs": "C'est aussi dans cette dynamique qu'un document complémentaire pour les accompagnants a été rédigé afin de leur faciliter l'utilisation du guide et les démarches d'appui pour le remplir."
+    },
+    "porteur_initiative": "Par exemple, la Plateforme ViP a été sollicitée pour co-animer un temps d'échange collectif autour des questions de mort, lors d'un \"Parlons-en!\" organisé par le Lîeu, espace d'accueil ouvert aux habitants de la rue à Grenoble.",
+    "date": [
+        "Janvier 2021",
+        "novembre 2021",
+        "2025",
+        "2022",
+        "2019",
+        "2021",
+        "2016",
+        "depuis 2016",
+        "En 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jaimerais_que_ca_se_passe_comme_ca_pour_ma_fin_de_vie_et_apres.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Jaimerais_que_ca_se_passe_comme_ca_pour_ma_fin_de_vie_et_apres.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.8,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "titre": "Titre: Balades patrimoniales: Les Genadines",
+    "territoire": "Titre: Balades patrimoniales: Les Genadines Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1087-pe-balades-patrimoniales-les-genadines-1.pdf  ---  --- DES PARCOURS THÉMATIQUES La création de balades patrimoniales au sein de la ville, s'inscrit dans l'ambitieuse réfection du site de Gandil et la mise en place de projets qui permettent de recréer du lien entre les habitants et le territoire genassien.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "En effet, après un diagnostic complet (réunion de travail, rencontres et entretiens avec les personnes ressources, état des lieux des thématiques, des collections, recherches de contenus, étude paysagère, écoute des publics...), la municipalité a décidé de créer plusieurs sentiers-promenades, destinés à proposer aux habitants et aux visiteurs de Genas des déambulations thématiques pour découvrir ou re-découvrir la commune.",
+    "description": {
+        "description_generale": "Cout total: 112 654,80 euros  ---  --- UN DISPOSITIF DÉJÀ EN VOIE D’EXTENSION Un cinquième parcours est en cours de réalisation, avec pour ambition de donner directement la parole aux anciens et de valoriser le patrimoine immatériel de Genas.",
+        "contexte": "En effet, après un diagnostic complet (réunion de travail, rencontres et entretiens avec les personnes ressources, état des lieux des thématiques, des collections, recherches de contenus, étude paysagère, écoute des publics...), la municipalité a décidé de créer plusieurs sentiers-promenades, destinés à proposer aux habitants et aux visiteurs de Genas des déambulations thématiques pour découvrir ou re-découvrir la commune.",
+        "problematique": "Ainsi, quatre parcours ont été élaborés: Art mural, Art minéral, Art sacré, et Art végétal.",
+        "solution_envisagee": "Titre: Balades patrimoniales: Les Genadines Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1087-pe-balades-patrimoniales-les-genadines-1.pdf  ---  --- DES PARCOURS THÉMATIQUES La création de balades patrimoniales au sein de la ville, s'inscrit dans l'ambitieuse réfection du site de Gandil et la mise en place de projets qui permettent de recréer du lien entre les habitants et le territoire genassien.",
+        "objectifs": "UNE TRANSMISSION DE LA MÉMOIRE LOCALE Les retours sur les Genadines, après le lancement des quatre premiers parcours, montrent que les objectifs fixés ont été en grande partie atteints."
+    },
+    "porteur_initiative": "Ainsi, quatre parcours ont été élaborés: Art mural, Art minéral, Art sacré, et Art végétal.",
+    "date": [
+        "2025",
+        "1087",
+        "2022",
+        "2024",
+        "depuis 2022",
+        "en 2024"
+    ],
+    "thematique": [
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Balades_patrimoniales_Les_Genadines.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Balades_patrimoniales_Les_Genadines.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

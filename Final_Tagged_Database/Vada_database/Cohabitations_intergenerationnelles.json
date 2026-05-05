@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Cohabitations intergénérationnelles",
+    "territoire": "Titre: Cohabitations intergénérationnelles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/303-pe-cohabitations-interge-parisolidaire.pdf  ---  --- UN ACCOMPAGNEMENT POUR GARANTIR LE SUCCÈS DES COLOCATIONS Afin de bien cerner les attentes et désiratas de chacun, le Parisolidaire met en lien des profils concordants de seniors et d’étudiants après études des dossiers de candidatures et rencontres individuelles.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Les seniors prennent plus le temps de manger (on mange mieux quand on est deux!) et sollicitent moins leur entourage puisque la présence d’un jeune le soir et la nuit soulage les aidants familiaux.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "problematique": "Cette action est innovante car elle répond à des besoins de sociétés identifiés tels que l’isolement des âgés et la pénurie de logement pour les jeunes.",
+        "solution_envisagee": "Titre: Cohabitations intergénérationnelles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/303-pe-cohabitations-interge-parisolidaire.pdf  ---  --- UN ACCOMPAGNEMENT POUR GARANTIR LE SUCCÈS DES COLOCATIONS Afin de bien cerner les attentes et désiratas de chacun, le Parisolidaire met en lien des profils concordants de seniors et d’étudiants après études des dossiers de candidatures et rencontres individuelles.",
+        "objectifs": "Titre: Cohabitations intergénérationnelles Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/303-pe-cohabitations-interge-parisolidaire.pdf  ---  --- UN ACCOMPAGNEMENT POUR GARANTIR LE SUCCÈS DES COLOCATIONS Afin de bien cerner les attentes et désiratas de chacun, le Parisolidaire met en lien des profils concordants de seniors et d’étudiants après études des dossiers de candidatures et rencontres individuelles."
+    },
+    "porteur_initiative": "Si, comme la Ville de Lyon, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+    "date": [
+        "2025",
+        "2009",
+        "2015",
+        "depuis 2009",
+        "En 2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cohabitations_intergenerationnelles.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Cohabitations_intergenerationnelles.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

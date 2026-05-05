@@ -1,0 +1,58 @@
+{
+    "titre": "Titre: L ’INTERGÉNÉRATIONNEL – BERCEAU DU LIEN SOCIAL",
+    "territoire": "Des exemples d’actions concrètes mises en place sur le département ont donné lieu à des échanges nourris entre les intervenants et les participants à la journée entre 13 et 99 ans.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale",
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "Titre: L ’INTERGÉNÉRATIONNEL – BERCEAU DU LIEN SOCIAL Pages: 13, 14, 15, 16, 17  CARSAT CENTRE-VAL DE LOIRE Lien intergénérationnel L ’INTERGÉNÉRATIONNEL – BERCEAU DU LIEN SOCIAL LES ACTEURS Porteur(s) de la pépite: l’association Les Petits Frères des Pauvres - Région Centre-Val de Loire et la Carsat Centre- Val de Loire Partenaire(s): • association des Petits Frères des Pauvres – échelons national et régional; • Carsat Centre-Val de Loire; • Kristell Pothier, Maitre de conférences en psychologie des âges à l’université de Tours; • une classe d’un collège du Loir-et-Cher; • jeunes professionnels engagés sur des missions auprès des personnes âgées.",
+    "description": {
+        "description_generale": "Les projets innovants doivent concerner les thématiques suivantes: l’accès aux droits, la lutte contre la précarité économique, le pouvoir d’agir, les actions hors les murs, la solidarité et les enjeux liés à la grande parentalité par exemple.",
+        "contexte": "LA CIBLE Retraités: ciblés par un e-mailing Carsat Centre-Val de Loire.",
+        "problematique": "Les projets innovants doivent concerner les thématiques suivantes: l’accès aux droits, la lutte contre la précarité économique, le pouvoir d’agir, les actions hors les murs, la solidarité et les enjeux liés à la grande parentalité par exemple.",
+        "solution_envisagee": "Quelques exemples des projets financés: • Cyber Trotter: triporteur électrique connecté (équipé de matériels informatiques) pour aller vers les seniors isolés des quartiers prioritaires de la ville. • Droit au voyage: accompagnement au voyage par la mise en place de voyages virtuels individuels durant les périodes de vacances scolaires, et l’organisation d’un séjour adapté. • La citoyenne monsoise: un réseau de bénévoles et d’ambassadeurs seniors qui arpente la ville, à heures régulières pour aller à la rencontre des retraités au pied de leur immeuble.",
+        "objectifs": "L ’objectif était également de valoriser le programme « génération lien » mis en place par une chargée de mission de l’association avec les élèves d’une classe d’un collège du département."
+    },
+    "porteur_initiative": "Porteur(s) de la pépite: Carsat Hauts-de-France / Fédération des centres sociaux Nord-Pas-de-Calais / Fédération des centres sociaux des Pays Picards.",
+    "date": [
+        "3 octobre 2023",
+        "6 octobre 2023",
+        "septembre 2023",
+        "octobre 2023",
+        "janvier 2022",
+        "2023",
+        "2022",
+        "2020",
+        "2021",
+        "2024",
+        "2025"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "CNAV",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Cnav_database\\04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

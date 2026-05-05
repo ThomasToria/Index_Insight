@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde",
+    "territoire": "Titre: Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Elaboration-dun-guide-ressources.pdf  ---  --- FACILITER LE PASSAGE À LA RETRAITE Ce projet trouve son origine dans les constats de ruptures de parcours faits par les travailleurs sociaux accompagnant les personnes en situation de handicap lors du départ en retraite (difficulté de recours aux droits, recours à des logements en urgence suite à la perte de la place en foyer d’hébergement, perte de lien social...).",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ÉLABORATION D'UN GUIDE RESSOURCES POUR LES FUTURS RETRAITÉS DU SUD GIRONDE Fiche PARTAGE D'EXPÉRIENCE N°958 Villes Amies des Aînés en France Syndicat mixte public dit Pôle Territorial du Sud Gironde Ville Amie des Aînés depuis 2023 Syndicat mixte Sud Gironde (33) Créer un livrable accessible à tous les habitants du territoire pouvant rencontrer des difficultés dans l'accès à l'information sur les ressources locales et sur la possibilité de mobiliser ces ressources pour préparer leur retraite Sécuriser le passage à la retraite des habitants du territoire, notamment ceux en situation de handicap, en leur fournissant des informations dans les domaines-clés (accès aux droits, santé, logement, lien social, transports/mobilité) Favoriser la connaissance mutuelle et la co- construction entre les futurs retraités et les acteurs locaux, susciter l'engagement de ceux-ci dans la communauté d'innovation seniors.",
+    "description": {
+        "description_generale": "Si, comme le Syndicat Mixte Sud Gironde, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Elaboration-dun-guide-ressources.pdf  ---  --- FACILITER LE PASSAGE À LA RETRAITE Ce projet trouve son origine dans les constats de ruptures de parcours faits par les travailleurs sociaux accompagnant les personnes en situation de handicap lors du départ en retraite (difficulté de recours aux droits, recours à des logements en urgence suite à la perte de la place en foyer d’hébergement, perte de lien social...).",
+        "problematique": "Titre: Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Elaboration-dun-guide-ressources.pdf  ---  --- FACILITER LE PASSAGE À LA RETRAITE Ce projet trouve son origine dans les constats de ruptures de parcours faits par les travailleurs sociaux accompagnant les personnes en situation de handicap lors du départ en retraite (difficulté de recours aux droits, recours à des logements en urgence suite à la perte de la place en foyer d’hébergement, perte de lien social...).",
+        "solution_envisagee": "Ensuite, une réunion du comité de pilotage a pe rmis la co-construction de l'outil d'enquête pour la phase d'exploration du territoire ainsi qu'un travail créatif autour de la future mise en place du guide ressources.",
+        "objectifs": "En parallèle, le contrat local de santé Sud Gironde 2024-2029 comporte un axe \"Bien vieillir\" qui promeut des actions de prévention, de lutte contre l'isolement et entend favoriser l'accès aux ressources du territoire pour tous les habitants du territoire."
+    },
+    "porteur_initiative": "Porté par le Pôle territorial Sud Gironde et par l'association Un avenir après le travail, ce projet a pour ambition de faciliter le passage à la retraite pour les salariés en situation de handicap comme pour tous les futurs retraités dans différents domaines (accès aux droits, logement, santé, mobilité, lien social).",
+    "date": [
+        "janvier 2025",
+        "2025",
+        "2024",
+        "2029",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_guide_ressources_pour_les_futurs_retraites_du_Sud_Gironde.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Elaboration_dun_guide_ressources_pour_les_futurs_retraites_du_Sud_Gironde.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

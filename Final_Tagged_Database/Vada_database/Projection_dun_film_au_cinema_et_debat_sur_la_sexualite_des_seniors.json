@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: Projection d'un film au cinéma et débat sur la sexualité des seniors",
+    "territoire": "Titre: Projection d'un film au cinéma et débat sur la sexualité des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/879-pe-projection-d-un-film-au-cinema-et-debat-sur-la-sexualite-des-seniors.pdf  ---  --- PARLONS SEXUALITÉ SENIORE Bien qu'organisée par le CCAS, cette action vient d'une idée du responsable de l'activité prévention et promotion de la santé de la Mutualité Française.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "CCAS de Vence Ville Amie des Aînés depuis 2023 Vence (06) Publiée le 15.11.2023 Organisation d’une projection traitant de la sexualité chez les seniors, à destination d’un public âgé.",
+    "description": {
+        "description_generale": "Titre: Projection d'un film au cinéma et débat sur la sexualité des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/879-pe-projection-d-un-film-au-cinema-et-debat-sur-la-sexualite-des-seniors.pdf  ---  --- PARLONS SEXUALITÉ SENIORE Bien qu'organisée par le CCAS, cette action vient d'une idée du responsable de l'activité prévention et promotion de la santé de la Mutualité Française.",
+        "contexte": "Après la projection, un débat a eu lieu avec des intervenants: distributeur du film, gérant de la salle, psychologue et sociologue).",
+        "problematique": "Après la projection, un débat a eu lieu avec des intervenants: distributeur du film, gérant de la salle, psychologue et sociologue).",
+        "solution_envisagee": "Le but était de créer une opportunité pour que les seniors trouvent des réponses sur leurs questions concernant la sexualité.",
+        "objectifs": "Après la projection, un débat a eu lieu avec des intervenants: distributeur du film, gérant de la salle, psychologue et sociologue)."
+    },
+    "porteur_initiative": "Après la projection, un débat a eu lieu avec des intervenants: distributeur du film, gérant de la salle, psychologue et sociologue).",
+    "date": [
+        "2025",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

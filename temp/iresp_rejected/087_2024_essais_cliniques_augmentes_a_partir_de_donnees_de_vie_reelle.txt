@@ -1,0 +1,136 @@
+Essais cliniques augmentés à partir de données de vie réelle
+
+Statut tri : rejected
+Source : IReSP
+URL : https://iresp.net/projets_finances/essais-cliniques-augmentes-a-partir-de-donnees-de-vie-reelle/
+Programme concerné : MESSIDORE
+Nom de l'appel : Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année : 2024
+État du projet : En cours
+Durée : 36 mois
+Subvention allouée : 623 023,00
+Financeurs : INSERM
+Disciplines : Le projet CAIR s'inscrit principalement dans le domaine de la Biostatistique et plus particulièrement les méthodes pour l'inférence causale appliquée à la recherche clinique. De nombreux développements feront appel à du machine learning, à des modèle
+
+Essais cliniques augmentés à partir de données de vie réelle - IReSP
+L’IReSP
+L’institut
+Missions
+Organisation
+Les instances
+Équipe
+Actualités
+Contact
+Thématiques
+Addictions
+Autonomie, grand âge et handicap
+Services, interventions et politiques favorables à la santé
+Programme Antiépileptiques
+MESSIDORE
+Portail des études en santé
+Financements
+Les financements à L’IResp
+Programmes et appels
+Procédure d’évaluation
+Programme Addictions
+Programme Antiépileptiques
+Programme Autonomie, grand âge et handicap
+Programme MESSIDORE
+Programme Services, interventions et politiques favorables à la santé
+Appel à projets clos
+Subventions hors appels à projets
+Suivi des projets financés
+Projets financés
+Animation
+L’animation de la recherche en Santé Publique
+Evènements à venir
+Toutes nos actions
+Ressources des actions d’animation
+Ressources
+Lettre d’information en santé publique
+Revue « Questions de Santé Publique »
+Publications de l’IReSP
+Offres d’emploi en Santé Publique
+Accueil
+»
+Essais cliniques augmentés à partir de données de vie réelle
+Programme concerné
+MESSIDORE
+Nom de l'appel
+Méthodologie des essais cliniques innovants, dispositifs, outils et recherches exploitant les données de santé et biobanques
+Année
+2024
+Modalité de soutien
+Projet de recherche complet
+État du projet
+En cours
+Durée
+36 mois
+Subvention allouée
+623 023,00
+Financeurs
+INSERM
+Disciplines
+Le projet CAIR s'inscrit principalement dans le domaine de la Biostatistique et plus particulièrement les méthodes pour l'inférence causale appliquée à la recherche clinique. De nombreux développements feront appel à du machine learning, à des modèle
+Essais cliniques augmentés à partir de données de vie réelle
+Résumé de soumission
+Contexte. Pour évaluer l’efficacité et la tolérance d’un traitement (médicament, dispositif médical…), les essais cliniques randomisés individuels représentent le protocole de référence. Néanmoins, plusieurs écueils méthodologiques et statistiques sont souvent rapportés, par exemple des biais de sélection, de petites tailles d’échantillons ou des résultats à court terme. L’appariement des scores de propension a récemment été utilisé pour l’augmentation de bras contrôles des essais cliniques randomisés par des données en vie réelle. Les avantages sont multiples, notamment l’augmentation de la puissance. Mais une telle approche soulève également plusieurs questions, en particulier la violation de l’hypothèse de positivité.
+Objectif. L’objectif général du projet CAIR est de proposer des nouvelles méthodologies pour augmenter le pouvoir de preuve des essais randomisés individuels grâce aux données de vie réelle. Pour cela, nous supposons que l’utilisation des scores de propension n’est pas la méthode la plus pertinente, en comparaison à la G-Computation au regard de nos résultats précédents et de la littérature récente. L’originalité de notre projet est de proposer des méthodes où les conditions de validité de l’inférence causale sont évaluées de manière prospective pendant l’essai. Il s’agit ainsi de tendre soit vers un essai augmenté si elles sont respectées, soit vers un essai randomisé classique si elles sont rejetées.
+Méthodes. Cinq lots de travail ont été définis pour les développements méthodologiques et les applications associées, tous basés sur la G-Computation. De nombreux essais sont basés sur un bras contrôle représentant un traitement standard : pouvoir simuler les évolutions contre-factuelles des patients inclus dans le bras avec le traitement d’intérêt, comme s’ils avaient été inclus dans le bras contrôle, permettrait d’augmenter la puissance.
+Les données de vie réelle seront issues des Entrepôt de Données de Santé des CHUs de NOuVelle-Aquitaine (EDS@NOVA). L’objectif du premier lot est de structurer et mettre en qualité ces données en se concentrant sur les données collectées dans les unités de soins intensifs pour une première preuve de concept. Nous fournirons un effort particulier pour les patients respectant les mêmes critères d’inclusion qua ceux de l’essai PROPHYLOXITIN (EudraCT : 2022-003262-20). Son objectif est de démontrer la supériorité d’un bolus de céfoxitine suivie d’une perfusion continue par rapport aux bolus standards.
+Le deuxième lot de travail consistera à définir un algorithme de type « test-then-pool » pour effectuer à la fois l’évaluation des hypothèses nécessaires à la causalité, en particulier les bonnes performances du modèle pour les prédictions contre-factuelles, et l’estimation de l’effet moyen du traitement lors de la mise en oeuvre de l’essai clinique.
+La méthodologie développée dans le troisième lot de travail est différente de l’approche contre-factuelle précédente puisqu’il s’agit de construire un modèle mécanistique de l’effet biologique. Parce qu’il s’agit d’un modèle structuré à partir d’un modèle biologique, notre hypothèse principale est que, sa validité externe pourrait être supérieure.
+Le quatrième lot de travail consistera à investiguer les capacités de l’apprentissage par renforcement pour optimiser le nombre de patients à randomiser dans le bras contrôle par rapport à l’approche « test-then-pool » précédente. Nous interrogerons également l’augmentation de la puissance en générant des patients virtuels, c’est-à-dire en simulant leurs caractéristiques à la randomisation et leur pronostic contre-factuel.
+Le cinquième lot vise à promouvoir les approches développées et les conditions à respecter en organisant des ateliers grâce au soutien du GIRCI SOHO (groupes de 13 hôpitaux) et de la conférence nationale des Comités de Protection des Personnes (CPP).
+Perspectives. Réduire le nombre de patients nécessaires facilitera les futurs essais et augmentera leur rapport coût/bénéfice : amélioration de leur précision, gain de temps et de financement, et surtout amélioration de la sécurité des patients. Si les simulations et les applications aboutissent à des conclusions positives, notre projet peut participer à une plus grande utilisation de ces méthodes. Nous pensons que ces approches adaptatives, vérifiant le respect des conditions à l’inférence causale, amélioreront l’acceptabilité des résultats par la communauté médicale et les autorités de santé. Pour le promoteur, le fait de converger vers un essai individuel si les conditions de validité sont rejetées, représente aussi un point essentiel pour réduire le risque de l’investissement.
+Equipes du projet
+Coordonnateur :
+FOUCHER Yohann
+N° ORCID :
+0000-0003-0330-7457
+Structure administrative de rattachement :
+Centre Hospitalier Universitaire de Poitiers
+Laboratoire ou équipe :
+CIC Inserm 1402, Equipe SCALE-EPI (methodS in ClincAL rEsearch and EPIdemiology)
+N° RNSR :
+200818006S
+Autres équipes participantes :
+Responsable de l'équipe 2 : WITTKOP Linda
+Bordeaux Population Health Research Center U1219 et équipe SISTM (Inria & Inserm, Statistics in systems biology and translational medicine)
+Responsable de l'équipe 3 : SAVY Nicolas
+Institut de Mathématiques de Toulouse (CNRS, Université de Toulouse)
+Vous êtes porteur/membre du projet et vous souhaitez faire une mise à jour ?
+Dites-le nous !
+LES ACTUALITÉS
+03/03/2026
+Enrichissez le catalogue des études en santé humaine
+> Lire la suite
+27/02/2026
+Deuil après suicide : résultats de la recherche ESPOIR²S sur les besoins et l’accompagnement numérique
+> Lire la suite
+05/02/2026
+Troubles de l’usage des opioïdes : pourquoi les médecins généralistes sont-ils de moins en moins nombreux à initier certains médicaments ?
+> Lire la suite
+10/04/2025
+FReSH, le portail des études en santé
+> Lire la suite
+LES MEMBRES DE L'IRESP
+INSCRIVEZ-VOUS A NOTRE NEWSLETTER
+L'institut
+Missions
+Organisation
+Les instances de l'IReSP
+Équipe
+Contact
+Recrutement
+Mentions légales
+Politique de confidentialité
+IReSP
+Institut pour la Recherche en Santé Publique
+Paris Biopark
+Bâtiment A – 1er étage
+8, rue de la croix Jarry
+75013 Paris
+01 82 53 34 64
+info@iresp.net
+Agence Web AUDOUIN REALISATIONS

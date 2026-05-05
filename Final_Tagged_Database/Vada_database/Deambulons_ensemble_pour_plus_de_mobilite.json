@@ -1,0 +1,48 @@
+{
+    "titre": "Titre: Déambulons ensemble pour plus de mobilité",
+    "territoire": "DÉAMBULONS ENSEMBLE POUR PLUS DE MOBILITÉ Fiche PARTAGE D'EXPÉRIENCE N°561 Villes Amies des Aînés en France Claix (38) Ville Amie des Aînés depuis 2021 Construire une vision commune du territoire et de ses aménagements urbains.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Une invitation a été envoyée aux résidents de la résidence des personnes âgées et aux participants des groupes de travail VADA.",
+    "description": {
+        "description_generale": "Si, comme la ville de Claix, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com Dans le cadre du projet de restructuration du centre bourg, de nouveaux aménagements sont à prévoir et peuvent bouleverser le quotidien des personnes habitants la commune.",
+        "contexte": "Titre: Déambulons ensemble pour plus de mobilité Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/690-pe-deambulons-ensemble-pour-plus-de-mobilite-claix-1.pdf  ---  --- ETABLIR UN DIAGNOSTIC MOBILITÉ ORIGINAL La commune a souhaité approfondir le diagnostic participatif différemment en organisant un diagnostic en marchant afin d'appréhender directement les aspects de mobilité de la commune.",
+        "problematique": "Les élus, les techniciens mais surtout habitants de la commune se sont ainsi réunis et chaque acteur avait le même rôle: repérer lors de la déambulation, les points noirs et points positifs dans les différentes catégories suivantes: mobiliers urbains, abribus, aspects liés à la pente, signalétique, passages piétons, trottoirs et espaces verts.",
+        "solution_envisagee": "Les élus, les techniciens mais surtout habitants de la commune se sont ainsi réunis et chaque acteur avait le même rôle: repérer lors de la déambulation, les points noirs et points positifs dans les différentes catégories suivantes: mobiliers urbains, abribus, aspects liés à la pente, signalétique, passages piétons, trottoirs et espaces verts.",
+        "objectifs": "BILAN ET SUITE DE L'ACTION Les objectifs ont été atteints."
+    },
+    "porteur_initiative": "Les élus, les techniciens mais surtout habitants de la commune se sont ainsi réunis et chaque acteur avait le même rôle: repérer lors de la déambulation, les points noirs et points positifs dans les différentes catégories suivantes: mobiliers urbains, abribus, aspects liés à la pente, signalétique, passages piétons, trottoirs et espaces verts.",
+    "date": [
+        "décembre",
+        "décembre 2020",
+        "2025",
+        "2020",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deambulons_ensemble_pour_plus_de_mobilite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Deambulons_ensemble_pour_plus_de_mobilite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

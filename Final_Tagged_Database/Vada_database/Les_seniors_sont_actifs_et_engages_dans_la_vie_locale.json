@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Les seniors sont actifs et engagés dans la vie locale",
+    "territoire": "Titre: Les seniors sont actifs et engagés dans la vie locale Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/487-pe-seniors-actif-vie-locale.pdf  ---  --- UN CONSEIL DES SENIORS Le Conseil des Aînés a été créé en 2003.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Le faire participer à la prise de décisions relatives à la vie locale.  ---  --- UNE VÉRITABLE PARTICIPATION CITOYENNE La participation des aînés, des élus, des aidants familiaux et du service Vie sociale seniors permet à ce Conseil d’avoir un réel impact sur la vie quotidienne des personnes âgées à travers la mise en place de nombreux projets concrets.",
+    "description": {
+        "description_generale": "L’ORGANISATION DU CONSEIL Deux commissions thématiques animées par des agents de la Ville composent ce Conseil: “vie pratique” et “loisirs” se réunissent trois fois par an afin de traiter des aspects de la vie quotidienne locale: loisirs, culture, nouvelles technologies, sécurité, relations entre les générations… puis émet des propositions au Conseil des aînés qui débat ensuite du projet.",
+        "contexte": "Titre: Les seniors sont actifs et engagés dans la vie locale Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/487-pe-seniors-actif-vie-locale.pdf  ---  --- UN CONSEIL DES SENIORS Le Conseil des Aînés a été créé en 2003.",
+        "problematique": "Il s’agit d’une instance de consultation et de concertation qui a pour objectifs de relayer les attentes et les besoins des seniors, et de permettre aux membres de faire des propositions.",
+        "solution_envisagee": "Informer la population de la mise en place d’un Conseil des Seniors.",
+        "objectifs": "Il s’agit d’une instance de consultation et de concertation qui a pour objectifs de relayer les attentes et les besoins des seniors, et de permettre aux membres de faire des propositions."
+    },
+    "porteur_initiative": "Titre: Les seniors sont actifs et engagés dans la vie locale Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/487-pe-seniors-actif-vie-locale.pdf  ---  --- UN CONSEIL DES SENIORS Le Conseil des Aînés a été créé en 2003.",
+    "date": [
+        "2025",
+        "2003",
+        "2017",
+        "2015",
+        "depuis 2015",
+        "en 2003",
+        "en 2017"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_seniors_sont_actifs_et_engages_dans_la_vie_locale.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Les_seniors_sont_actifs_et_engages_dans_la_vie_locale.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

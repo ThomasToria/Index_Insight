@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Conseil consultatif des seniors",
+    "territoire": "Titre: Conseil consultatif des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/655-pe-523-conseil-consultatif-des-seniors-saint-chamond-1.pdf  ---  --- UN CONSEIL PARTICIPATIF Penser la ville aujourd’hui, c’est innover en travaillant ensemble, que ce soit avec les habitants, les élus ou encore les techniciens, en s’interrogeant sur chaque initiative afin de s’assurer que les actions seront aussi au bénéfice des aînés.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "LA COMPOSITION DU CONSEIL Le conseil est composé lui-même de trois conseils c omprenant vingt-quatre sièges.Le collège des usagers « Seniors et Aidants », comporte quatorze représentants de personnes âgées (douze seniors - d eux aidants), désignés suite à un appel à candidature diffusé dans le journal mu nicipal (puis tirage au sort des candidatures reçues).",
+    "description": {
+        "description_generale": "Titre: Conseil consultatif des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/655-pe-523-conseil-consultatif-des-seniors-saint-chamond-1.pdf  ---  --- UN CONSEIL PARTICIPATIF Penser la ville aujourd’hui, c’est innover en travaillant ensemble, que ce soit avec les habitants, les élus ou encore les techniciens, en s’interrogeant sur chaque initiative afin de s’assurer que les actions seront aussi au bénéfice des aînés.",
+        "contexte": "Des conditions son t requises pour se porter candidat: tout citoyen retraité, âgé de plus de 62 ans, habitant Saint-  CONSEIL CONSULTATIF DES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°523 Villes Amies des Aînés en France Ville de Saint-Chamond Ville adhérente depuis 2019 Saint-Chamond (42) Co-construire la ville avec les habitants les plus âgés.",
+        "problematique": "HABITER ET CONSTRURE LA VILLE ENSEMBLE Le Conseil Consultatif des Seniors permet de mettre en place un calibrage des projets en fonction des besoins et de faire émerger des projets innovants notamment avec l'apport des experts d’usage, c’est-à-dire des personnes âgées.",
+        "solution_envisagee": "Cette action s’est incarnée dans la mise en place d’un Conseil Consultatif des Seniors, à vocation consultative.",
+        "objectifs": "Titre: Conseil consultatif des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/655-pe-523-conseil-consultatif-des-seniors-saint-chamond-1.pdf  ---  --- UN CONSEIL PARTICIPATIF Penser la ville aujourd’hui, c’est innover en travaillant ensemble, que ce soit avec les habitants, les élus ou encore les techniciens, en s’interrogeant sur chaque initiative afin de s’assurer que les actions seront aussi au bénéfice des aînés."
+    },
+    "porteur_initiative": "Des conditions son t requises pour se porter candidat: tout citoyen retraité, âgé de plus de 62 ans, habitant Saint-  CONSEIL CONSULTATIF DES SENIORS Fiche PARTAGE D'EXPÉRIENCE N°523 Villes Amies des Aînés en France Ville de Saint-Chamond Ville adhérente depuis 2019 Saint-Chamond (42) Co-construire la ville avec les habitants les plus âgés.",
+    "date": [
+        "décembre 2018",
+        "2025",
+        "2018",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conseil_consultatif_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Conseil_consultatif_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

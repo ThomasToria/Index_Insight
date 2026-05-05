@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: La résidence des personnes âgées, implantée au cœur du village de Claix",
+    "territoire": "LA RÉSIDENCE DES PERSONNES ÂGÉES, IMPLANTÉE AU COEUR DU VILLAGE DE CLAIX Fiche PARTAGE D'EXPÉRIENCE N°605 Villes Amies des Aînés en France Commune de Claix (38) Ville adhérente depuis 2021 Claix (38) Permettre aux habitants de la résidence de vivre dans un lieu sécurisé et ouvert sur les activités organisées au cœur du village.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "Les espaces communs sont en accès libre: salle de restaurant, salon de repos et de jeux climatisé pendant l'été et les fortes chaleurs de la région grenobloise ainsi qu'une terrasse équipée de jardinières hautes adaptées aux personnes âgées et gérées par les habitants de la résidence.",
+    "description": {
+        "description_generale": "PROPOSER DES ACTIONS DE PRÉVENTION ET D’ACCOMPAGNEMENT Le conseil départemental de l’Isère accompagne la résidence dans la réalisation de certains projets grâce à la conférence des financeurs.",
+        "contexte": "Les espaces communs sont en accès libre: salle de restaurant, salon de repos et de jeux climatisé pendant l'été et les fortes chaleurs de la région grenobloise ainsi qu'une terrasse équipée de jardinières hautes adaptées aux personnes âgées et gérées par les habitants de la résidence.",
+        "problematique": "Les partenaires sanitaires et médico- sociaux participent au bon déroulement de la vie quotidienne de chaque résident en fonction de leurs besoins ainsi qu'à la mise en place d'actions de prévention.",
+        "solution_envisagee": "PROPOSER DES ACTIONS DE PRÉVENTION ET D’ACCOMPAGNEMENT Le conseil départemental de l’Isère accompagne la résidence dans la réalisation de certains projets grâce à la conférence des financeurs.",
+        "objectifs": "Organiser des rencontres intergénérationnelles.  ---  --- Les associations du territoire interviennent également pour des actions de prévention ou de loisirs afin de favoriser l'estime de soi, lutter contre l'isolement social et faire de la résidence un lieu de vie, d'échange et de convivialité."
+    },
+    "porteur_initiative": "Les espaces communs sont en accès libre: salle de restaurant, salon de repos et de jeux climatisé pendant l'été et les fortes chaleurs de la région grenobloise ainsi qu'une terrasse équipée de jardinières hautes adaptées aux personnes âgées et gérées par les habitants de la résidence.",
+    "date": [
+        "2025",
+        "2021",
+        "1987",
+        "depuis 2021",
+        "en 1987"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_des_personnes_agees_implantee_au_cur_du_village_de_Claix.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\La_residence_des_personnes_agees_implantee_au_cur_du_village_de_Claix.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "titre": "---  ---",
+    "territoire": "Pour qui? (Le public visé) - L’Assemblée des aînés dans son ensemble - Les membres de l’assemblée compte tenu de leurs engagements respectifs ---  --- Où et quand? - Régulièrement - En Mairie, mais aussi dans les quartiers ou dans les endroits où ont lieu des activités avec une nécessaire coordination entre Assemblée des Aînés et Mairie Objectifs et moyens (Le but visé et l’action – ou les actions – à mettre en place) - Se faire connaître auprès des élus et des techniciens - Valoriser les projets réalisés (par ex.: bancs publics) o Être associés occasionnellement au conseil municipal, en fonction des sujets qui concernent l’Assemblée des Aînés o Rencontrer les élus de quartier - Faire savoir que l’Assemblée des aînés propose son aide aux autres associations en cas de besoin",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Cela se base sur plusieurs constats: o Des professionnels nouveaux ne semblent pas toujours au courant des projets ou des activités; o Des techniciens ne sont pas toujours là où ils sont attendus et il est parfois difficile de se coordonner avec eux; o Des techniciens et des élus peuvent se sentir concurrencés par les ainés engagés; o Le CCAS joue un rôle important pour les habitants de Barlin.",
+    "description": {
+        "description_generale": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 1: Communication et valorisation de l’Assemblée des Ainés Quoi? (Les constats) Le groupe a l’impression qu’il existe des problèmes de transmission de l’information au sein de la Mairie.",
+        "contexte": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 1: Communication et valorisation de l’Assemblée des Ainés Quoi? (Les constats) Le groupe a l’impression qu’il existe des problèmes de transmission de l’information au sein de la Mairie.",
+        "problematique": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 1: Communication et valorisation de l’Assemblée des Ainés Quoi? (Les constats) Le groupe a l’impression qu’il existe des problèmes de transmission de l’information au sein de la Mairie.",
+        "solution_envisagee": "Pour qui? (Le public visé) - L’Assemblée des aînés dans son ensemble - Les membres de l’assemblée compte tenu de leurs engagements respectifs ---  --- Où et quand? - Régulièrement - En Mairie, mais aussi dans les quartiers ou dans les endroits où ont lieu des activités avec une nécessaire coordination entre Assemblée des Aînés et Mairie Objectifs et moyens (Le but visé et l’action – ou les actions – à mettre en place) - Se faire connaître auprès des élus et des techniciens - Valoriser les projets réalisés (par ex.: bancs publics) o Être associés occasionnellement au conseil municipal, en fonction des sujets qui concernent l’Assemblée des Aînés o Rencontrer les élus de quartier - Faire savoir que l’Assemblée des aînés propose son aide aux autres associations en cas de besoin",
+        "objectifs": "Pour qui? (Le public visé) - L’Assemblée des aînés dans son ensemble - Les membres de l’assemblée compte tenu de leurs engagements respectifs ---  --- Où et quand? - Régulièrement - En Mairie, mais aussi dans les quartiers ou dans les endroits où ont lieu des activités avec une nécessaire coordination entre Assemblée des Aînés et Mairie Objectifs et moyens (Le but visé et l’action – ou les actions – à mettre en place) - Se faire connaître auprès des élus et des techniciens - Valoriser les projets réalisés (par ex.: bancs publics) o Être associés occasionnellement au conseil municipal, en fonction des sujets qui concernent l’Assemblée des Aînés o Rencontrer les élus de quartier - Faire savoir que l’Assemblée des aînés propose son aide aux autres associations en cas de besoin"
+    },
+    "porteur_initiative": "---  --- Projet Papot’Age – Démarche de design citoyen à Barlin (62) Les fiches-actions présentées lors de la restitution publique du 24 avril 2025 Fiche-action n° 1: Communication et valorisation de l’Assemblée des Ainés Quoi? (Les constats) Le groupe a l’impression qu’il existe des problèmes de transmission de l’information au sein de la Mairie.",
+    "date": [
+        "24 avril 2025",
+        "avril 2025",
+        "2025"
+    ],
+    "thematique": [
+        "santé",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction1_Barlin_vf.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Fiches_actions_database\\FicheAction1_Barlin_vf.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

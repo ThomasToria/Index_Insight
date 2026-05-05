@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Des projets, en lien avec les expériences sensorielles, le vivant et la terre...\"happy\"!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/909-concours-2023-des-projets-en-lien-avec-les-experiences-sensorielles-le-vivant-et-la-terre-happy-1.pdf  ---  --- À LA RECHERCHE DU BIEN ÊTRE DE SES USAGERS Pour les résidents des EHPAD, nombreux étaient ceux qui étaient en contact avec des animaux et avec la terre quand ils étaient autonomes.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/909-concours-2023-des-projets-en-lien-avec-les-experiences-sensorielles-le-vivant-et-la-terre-happy-1.pdf  ---  --- À LA RECHERCHE DU BIEN ÊTRE DE SES USAGERS Pour les résidents des EHPAD, nombreux étaient ceux qui étaient en contact avec des animaux et avec la terre quand ils étaient autonomes.",
+    "description": {
+        "description_generale": "Titre: Des projets, en lien avec les expériences sensorielles, le vivant et la terre...\"happy\"!",
+        "contexte": "Titre: Des projets, en lien avec les expériences sensorielles, le vivant et la terre...\"happy\"!",
+        "problematique": "Le fait de vivre en structure ne devait pas être un frein pour faire perdurer ces liens avec le vivant.",
+        "solution_envisagee": "Avoir deux casques de réalité virtuelle à disposition à l'Office permet de proposer très régulièrement tout au long de l'année cette activité.",
+        "objectifs": "A chaque fois, une collation est prévue afin de renforcer la convivialité et les échanges entre seniors autonomes et résidents."
+    },
+    "porteur_initiative": "Titre: Des projets, en lien avec les expériences sensorielles, le vivant et la terre...\"happy\"!",
+    "date": [
+        "2025",
+        "2023",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_projets_en_lien_avec_les_experiences_sensorielles_le_vivant_et_la_terrehappy.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Des_projets_en_lien_avec_les_experiences_sensorielles_le_vivant_et_la_terrehappy.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

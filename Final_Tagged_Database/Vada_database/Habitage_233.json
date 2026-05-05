@@ -1,0 +1,55 @@
+{
+    "titre": "Titre: Habit'âge 233",
+    "territoire": "Titre: Habit'âge 233 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/779-concours-2022-69-habit-age-233.pdf  ---  --- DOPTAVI: UN ACCOMPAGNEMENT INDIVIDUALISÉ ET COMPLET L'opportunité de louer une maison familiale, la détresse d’une famille en difficulté avec un parent âgé, des désagréments préfectoraux et la sollicitation de professionnel de santé ont conduit MICS'AGES à se lancer dans un dispositif de colocation assistée alliant cadre de vie, tradition, modernité et accompagnement médico-social.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "départementale"
+    ],
+    "public_vise": "Enfin, il conviendra aussi de préciser les critères d'admission: la capacité à vivre en autonomie et en collectivité, l'éligibilité à une allocation en cohérence avec le public accueilli, un plan d'aide suffisant pour contribuer à la vie dans l'habitat, la cohérence entre projet de vie individuel et le projet de vie sociale et partagée.",
+    "description": {
+        "description_generale": "La première étape de concrétisation du projet a été la rédaction d'un cahier de charges afin de définir les caractéristiques des logements: le choix s'est fait sur des maisons individuelles, traditionnelles pour lesquelles l'adaptation aux besoins, et habitudes de vie des occupants était possible.",
+        "contexte": "C'est dans ce contexte que l'association MICS'AGES, dans le cadre de la convention établit avec le CCAS de Schoelcher, a proposé DOPTAVI.",
+        "problematique": "La première étape de concrétisation du projet a été la rédaction d'un cahier de charges afin de définir les caractéristiques des logements: le choix s'est fait sur des maisons individuelles, traditionnelles pour lesquelles l'adaptation aux besoins, et habitudes de vie des occupants était possible.",
+        "solution_envisagee": "Titre: Habit'âge 233 Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/779-concours-2022-69-habit-age-233.pdf  ---  --- DOPTAVI: UN ACCOMPAGNEMENT INDIVIDUALISÉ ET COMPLET L'opportunité de louer une maison familiale, la détresse d’une famille en difficulté avec un parent âgé, des désagréments préfectoraux et la sollicitation de professionnel de santé ont conduit MICS'AGES à se lancer dans un dispositif de colocation assistée alliant cadre de vie, tradition, modernité et accompagnement médico-social.",
+        "objectifs": "Renforcer le lien entre les générations et favoriser l'insertion de jeunes actifs."
+    },
+    "porteur_initiative": "Trois personnes ont intégrées le logement: une orientée par la famille, une orientée par son infirmière à domicile et l’autre par sa sœur.",
+    "date": [
+        "janvier 2023",
+        "2025",
+        "2022",
+        "2015",
+        "2018",
+        "2023",
+        "depuis 2015"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Habitage_233.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Habitage_233.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

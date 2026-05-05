@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: À Besançon: \"Transportez-vous\"",
+    "territoire": "Titre: À Besançon: \"Transportez-vous\" Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/240-240-transportez-vous.pdf  ---  --- « Y’A PAS D’ÂGE POUR MARCHER » En mai 2011, la Ville de Besançon a créé une marche intergénérationnelle intitulée « Y’a pas d’âge pour marcher » qui s’est depuis renouvelée chaque an - née, le 29 avril, dans le cadre de la « journée eur o- péenne des solidarités et des coopérations entre les générations ».",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Il s’agit de faire marcher ensemble toutes les générations: enfants des centres de loi sirs, jeunes des maisons de quartier, adultes, jeunes re - traités, résidents de logements foyers ou de maison s de retraite.",
+    "description": {
+        "description_generale": "C’ est cette initiative qui a donné lieu à un autre pro- jet initié dans le cadre de la Semaine Bleue 2014: « Transportez-vous! ».",
+        "contexte": "Il s’agit de faire marcher ensemble toutes les générations: enfants des centres de loi sirs, jeunes des maisons de quartier, adultes, jeunes re - traités, résidents de logements foyers ou de maison s de retraite.",
+        "problematique": "Ce groupe de travail a pour objectif de développer de l’accompagnement personnalisé auprès d’aînés fragiles par des bénévoles pouvant utiliser diffé - rents moyens de transport selon leurs besoins.",
+        "solution_envisagee": "Il s’agissait alors de propo - ser des accompagnements individualisés aux per - sonnes âgées par des jeunes afin de faire découvrir les nouveaux moyens de transport de Besançon (tramway, cyclopousse, bus et voitures en partage).",
+        "objectifs": "Inciter les seniors en perte d’autonomie à continuer à sortir\nde leur domicile. Proposer un soutien individuel pour favoriser\nles sorties. Accompagner les âgés dans la découverte de nou-\nveaux modes de déplacements.\nPRATIQUE\nOrganiser des groupes de travail pour réÀéchir à la question\nde la mobilité des aînés. Organiser un réseau bénévole\npour favoriser la mobilité des plus âgés.\nCoût: environ 7000 €\nBESANÇON\nVille amie des aînés depuis 06-12\nBesançon (25)\nFiche publiée le 11/05/2016\nTRANSPORTS ET MOBILITÉ\nwww.villesamiesdesaines-rf.fr\nSi, comme Besançon, vous avez mis en place des pro-\njets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Il s’agit de faire marcher ensemble toutes les générations: enfants des centres de loi sirs, jeunes des maisons de quartier, adultes, jeunes re - traités, résidents de logements foyers ou de maison s de retraite.",
+    "date": [
+        "mai 2011",
+        "11/05/2016",
+        "2025",
+        "2011",
+        "2014",
+        "7000",
+        "2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Besancon_Transportez-vous.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\A_Besancon_Transportez-vous.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

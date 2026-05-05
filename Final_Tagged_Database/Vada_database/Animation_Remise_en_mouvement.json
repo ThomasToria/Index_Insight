@@ -1,0 +1,54 @@
+{
+    "titre": "Titre: Animation « Remise en mouvement »",
+    "territoire": "Titre: Animation « Remise en mouvement » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/577-577-saint-sebastien-sur-loire-balades-solidaires.pdf  ---  --- FAVORISER LA MOBILITÉ DES SENIORS Suite au diagnostic réalisé dans le cadre de la mis e en œuvre de la démarche Villes Amies des Aînés, Saint-Sébastien-sur-Loire a choisi de prioriser en 2018 la thématique « Transports et mobilité ».",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Cinq groupes de travail composés d’habitants et de partenaires ont été constitués pour élaborer des projets visant à « favoriser la mobilité des senior s »: l’aménagement de l’ espace public pour l’adapter à la mobilité des seniors; des ateliers de préventio n routière proposés régulièrement (rappel des règles de sécurité routière, informations sur les nouvelle s signalisations et conseils sur l’adaptation de la conduite au vieillissement...); une campagne de communication pour inciter au civisme sur la voie publique; la création du point mobilité senior et du transport solidaire; la création d’un parcours san té seniors.",
+    "description": {
+        "description_generale": "Cinq groupes de travail composés d’habitants et de partenaires ont été constitués pour élaborer des projets visant à « favoriser la mobilité des senior s »: l’aménagement de l’ espace public pour l’adapter à la mobilité des seniors; des ateliers de préventio n routière proposés régulièrement (rappel des règles de sécurité routière, informations sur les nouvelle s signalisations et conseils sur l’adaptation de la conduite au vieillissement...); une campagne de communication pour inciter au civisme sur la voie publique; la création du point mobilité senior et du transport solidaire; la création d’un parcours san té seniors.",
+        "contexte": "Titre: Animation « Remise en mouvement » Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/577-577-saint-sebastien-sur-loire-balades-solidaires.pdf  ---  --- FAVORISER LA MOBILITÉ DES SENIORS Suite au diagnostic réalisé dans le cadre de la mis e en œuvre de la démarche Villes Amies des Aînés, Saint-Sébastien-sur-Loire a choisi de prioriser en 2018 la thématique « Transports et mobilité ».",
+        "problematique": "Il s’ est déroulé sous forme d’ échanges en deux demi- groupes: l’un sur les déplacements au domicile et le second sur les déplacements à l’ extérieur.",
+        "solution_envisagee": "Il s’ est déroulé sous forme d’ échanges en deux demi- groupes: l’un sur les déplacements au domicile et le second sur les déplacements à l’ extérieur.",
+        "objectifs": "Maintenir les capacités de mouvements des personnes a¿n\nde ralentir le processus de vieillissement. Donner envie aux\nseniors de marcher et de bouger grâce à la convivialité et au\nlien social. Prévenir les chutes.\nPRATIQUE\nRepérer ou créer des installations accessibles ou adaptées\nqui permettent de pratiquer des exercices favorisant la\nmobilité des seniors. Rechercher des partenariats (école de\nKinésithérapie). Mobiliser des seniors en perte de mobilité.\nSAINT-SÉBASTIEN-SUR-LOIRE\nVille Amie des Aînés depuis 10-2016\nSaint-Sébastien-sur-Loire (44)\nFiche publiée le 04/06/2020\nwww.villesamiesdesaines-rf.fr\nTRANSPORTS ET MOBILITÉ\nSi, comme St-Sebastien-sur-Loire, vous avez mis en place\ndes projets pour les aînés, n’hésitez pas à nous en faire part.\ncontact@rfvaa.com\nAPPEL À CONTRIBUTION"
+    },
+    "porteur_initiative": "Il était animé par qu atre étudiants et il a réuni 32 seniors.",
+    "date": [
+        "25 avril 2019",
+        "avril 2019",
+        "octobre 2019",
+        "juin 2020",
+        "04/06/2020",
+        "2025",
+        "2018",
+        "2019",
+        "2020",
+        "2016",
+        "en 2018"
+    ],
+    "thematique": [
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Animation_Remise_en_mouvement.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Animation_Remise_en_mouvement.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.25,
+        "solution_envisagee": 0.25,
+        "objectifs": 0.95,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "titre": "Titre: Gazette des seniors",
+    "territoire": "Titre: Gazette des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/878-pe-gazette-des-seniors.pdf  ---  --- UNE GAZETTE PARTICIPATIVE \"Plus de solidarité, moins de solitude\" telle est la devise de la nouvelle gazette senior de Vence.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Titre: Gazette des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/878-pe-gazette-des-seniors.pdf  ---  --- UNE GAZETTE PARTICIPATIVE \"Plus de solidarité, moins de solitude\" telle est la devise de la nouvelle gazette senior de Vence.",
+    "description": {
+        "description_generale": "Un numéro par trimestre, quatre réunion de rédaction par numéro.",
+        "contexte": "Titre: Gazette des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/878-pe-gazette-des-seniors.pdf  ---  --- UNE GAZETTE PARTICIPATIVE \"Plus de solidarité, moins de solitude\" telle est la devise de la nouvelle gazette senior de Vence.",
+        "problematique": "Titre: Gazette des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/878-pe-gazette-des-seniors.pdf  ---  --- UNE GAZETTE PARTICIPATIVE \"Plus de solidarité, moins de solitude\" telle est la devise de la nouvelle gazette senior de Vence.",
+        "solution_envisagee": "Tous les seniors sont invités à participer, même ponctuellement, qu'il s'agisse d'écrire ou même simplement de proposer des idées.",
+        "objectifs": "Titre: Gazette des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/878-pe-gazette-des-seniors.pdf  ---  --- UNE GAZETTE PARTICIPATIVE \"Plus de solidarité, moins de solitude\" telle est la devise de la nouvelle gazette senior de Vence."
+    },
+    "porteur_initiative": "Titre: Gazette des seniors Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/878-pe-gazette-des-seniors.pdf  ---  --- UNE GAZETTE PARTICIPATIVE \"Plus de solidarité, moins de solitude\" telle est la devise de la nouvelle gazette senior de Vence.",
+    "date": [
+        "2025",
+        "2023",
+        "depuis 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Gazette_des_seniors.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Gazette_des_seniors.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.25,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.45,
+        "source_site": 0.95
+    }
+}

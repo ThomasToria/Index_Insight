@@ -1,0 +1,47 @@
+{
+    "titre": "Titre: Autrement dit",
+    "territoire": "Titre: Autrement dit Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/932-concours-2023-autrement-dit.pdf  ---  --- UN OUTIL POUR ÉCHANGER Le CLIC de Pornic Agglo a identifié un besoin en lien avec les aidants familiaux, entre autres, concernant le mal-être psychologique.",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "Titre: Autrement dit Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/932-concours-2023-autrement-dit.pdf  ---  --- UN OUTIL POUR ÉCHANGER Le CLIC de Pornic Agglo a identifié un besoin en lien avec les aidants familiaux, entre autres, concernant le mal-être psychologique.",
+    "description": {
+        "description_generale": "Si, comme l'agglomération de Pornic, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Autrement dit Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/932-concours-2023-autrement-dit.pdf  ---  --- UN OUTIL POUR ÉCHANGER Le CLIC de Pornic Agglo a identifié un besoin en lien avec les aidants familiaux, entre autres, concernant le mal-être psychologique.",
+        "problematique": "Titre: Autrement dit Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/932-concours-2023-autrement-dit.pdf  ---  --- UN OUTIL POUR ÉCHANGER Le CLIC de Pornic Agglo a identifié un besoin en lien avec les aidants familiaux, entre autres, concernant le mal-être psychologique.",
+        "solution_envisagee": "Suite à cette formation, elles peuvent récupérer le kit de cartes qui permet de réaliser l'atelier.",
+        "objectifs": "Deuxième partie sur les situations: échanges sur divers évènements (deuil, entrée en EPHAD, etc.).  ---  --- À la fin de l'atelier, les participants reçoivent une évaluation à remplir de manière anonyme afin de pouvoir donner son avis et des recommandations s'il en a, ceci afin de mieux pouvoir ajuster l'atelier la prochaine fois."
+    },
+    "porteur_initiative": "Titre: Autrement dit Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/932-concours-2023-autrement-dit.pdf  ---  --- UN OUTIL POUR ÉCHANGER Le CLIC de Pornic Agglo a identifié un besoin en lien avec les aidants familiaux, entre autres, concernant le mal-être psychologique.",
+    "date": [
+        "2025",
+        "2023",
+        "2021",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "lien social",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Autrement_dit.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Autrement_dit.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

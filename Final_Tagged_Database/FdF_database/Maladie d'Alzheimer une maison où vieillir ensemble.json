@@ -1,0 +1,58 @@
+{
+    "titre": "Maladie d'Alzheimer: une maison où vieillir ensemble",
+    "territoire": "Cet ancrage territorial permettra à terme de mutualiser les moyens et permettre des activités communes ainsi que le partage d’un minibus pour les sorties et les excursions.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale",
+        "internationale"
+    ],
+    "public_vise": "Faire un don POUR ALLER PLUS LOIN → Maison des aidants: du répit pour les aidants pour renforcer la relation avec les aidés → Découvrez le programme Personnes âgées Espace presse Recrutement L'Observatoire Philanthropie & Société Annuaire des fondations abritées Guide des bourses Notre charte de bonne conduite et de modération FAQ Mentions légales Dispositif d’alerte interne Politique des données personnelles Politique des cookies Paramètres de cookies Pour réinitialiser le formulaire, veuillez fermer cette boîte.",
+    "description": {
+        "description_generale": "Ce projet fait partie des nombreuses actions soutenues par la Fondation de France et ses fondations abritées, qui s’engagent depuis plus de dix ans pour améliorer la vie des malades d’Alzheimer.",
+        "contexte": "L’impossibilité pour les malades de vivre chez elle en raison de l’aggravation de leur état, l’épuisement des aidants proches, ainsi que le coût financier souvent prohibitif du recours à une aide professionnelle 24h/24.",
+        "problematique": "Cette forme d’habitat adapté aux personnes atteintes d’une maladie neuro-évolutive de type Alzheimer répond à une problématique avérée et complexe.",
+        "solution_envisagee": "Or ce mode d’accueil standardisé, à l’atmosphère très médico-sociale et aux rythmes souvent figés, ne convient pas à leurs troubles qui nécessitent un accompagnement plus souple et personnalisé, dans un logement à taille humaine ouvert sur l’extérieur.",
+        "objectifs": "Ce projet fait partie des nombreuses actions soutenues par la Fondation de France et ses fondations abritées, qui s’engagent depuis plus de dix ans pour améliorer la vie des malades d’Alzheimer."
+    },
+    "porteur_initiative": "Ce partenariat a contribué à la création d’un prix dédié (Prix Alzheimer pour une société plus inclusive et solidaire) et au développement d’un réseau de chercheurs et de porteurs de projets.",
+    "date": [
+        "2021",
+        "2019",
+        "2022",
+        "2016",
+        "2018",
+        "depuis 2016",
+        "Depuis 2019",
+        "en 2019",
+        "en 2022",
+        "En 2018"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "mobilité",
+        "santé",
+        "aidants",
+        "inclusion"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Maladie d'Alzheimer une maison où vieillir ensemble.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\Maladie d'Alzheimer une maison où vieillir ensemble.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.8,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

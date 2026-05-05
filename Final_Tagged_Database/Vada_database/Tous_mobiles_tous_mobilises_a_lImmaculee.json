@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Tous mobiles, tous mobilisés à l’Immaculée",
+    "territoire": "Evaluer l'action et mener des réflexions sur une éventuelle reconduction.  ---  --- PARTENAIRES, FINANCEMENT, ÉVALUATION Les partenaires de ce projet sont multiples: Maison de quartier Immaculée, le CLIC, Stran, Vélycéo, Volontaires Unis Cités, A Vélo Sans âge, Brain Up, ECF, Malakoff humanis, Place au vélo, la Police Municipale, les médiateurs de la ville et Labsport maison sport santé.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Le projet mis en place est donc un projet de sensibilisation et d'accompagnement quant aux problèmes et aux obstacles de mobilité auxquels font face les seniors à travers la mise en place d'ateliers à l'occasion d'un événement spécifique.",
+    "description": {
+        "description_generale": "Evaluer l'action et mener des réflexions sur une éventuelle reconduction.  ---  --- PARTENAIRES, FINANCEMENT, ÉVALUATION Les partenaires de ce projet sont multiples: Maison de quartier Immaculée, le CLIC, Stran, Vélycéo, Volontaires Unis Cités, A Vélo Sans âge, Brain Up, ECF, Malakoff humanis, Place au vélo, la Police Municipale, les médiateurs de la ville et Labsport maison sport santé.",
+        "contexte": "La période du mois de juin à décembre 2021 a consisté au partage des diagnostics concernant les freins à la mobilité des seniors.",
+        "problematique": "Ces enjeux ont été partagés avec un des groupes de travail du Conseil des aînés, ainsi qu'avec des membres de la commission senior de la Maison de quartier d’Immaculée de Saint-Nazaire.",
+        "solution_envisagee": "Le projet mis en place est donc un projet de sensibilisation et d'accompagnement quant aux problèmes et aux obstacles de mobilité auxquels font face les seniors à travers la mise en place d'ateliers à l'occasion d'un événement spécifique.",
+        "objectifs": "Ce fut l'occasion de définir des objectifs et d'organiser petit à petit l'événement."
+    },
+    "porteur_initiative": "DES SOLUTIONS POUR TOUS ET ADAPTÉ À CHAQUE MODE DE VIE \"Tous mobiles, tous mobilisés à l'Immaculée\" s'est déroulé du 1er au 3 juin 2022 avec une dizaine d'ateliers programmés à la Maison de quartier (gratuits et sur inscription): \"Réviser le code de la route, sous forme ludique\", \"Apprendre à utiliser les transports en commun\", \"S'initier au vélo électrique\", \"Se promener en triporteur\", \"Echanges: conduire pour rester le plus autonome possible\", \"Gagner en confiance en marchant\"...",
+    "date": [
+        "3 juin",
+        "3 juin 2022",
+        "décembre 2021",
+        "février",
+        "juin",
+        "février 2022",
+        "juin 2022",
+        "2025",
+        "2022",
+        "2021",
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tous_mobiles_tous_mobilises_a_lImmaculee.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Tous_mobiles_tous_mobilises_a_lImmaculee.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.45,
+        "public_vise": 0.45,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.65,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "titre": "Titre: Reims urban nature",
+    "territoire": "Pendant 13 jours, les clubs sportifs locaux, maisons de quartier, office du tourisme et agents de la ville proposent des créneaux de découverte et d'initiation à des activités diverses et variées.  ---  --- UN SUCCÈS EN TERME DE FRÉQUENTATION L'évaluation de cette manifestation se base sur des données quantitatives: Nombre d'inscriptions et de présences réelles sur les activités Nombre d'entités prenant part à l'organisation Nombre de lieux de pratique Nombre d'activités différentes Différents types de public ciblés Le cas échéant: inscriptions en clubs après participation Ainsi 6 358 participations ont été enregistrées pour l'édition 2022.",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "Le concept de l’événement a rassemblé ces trois constats pour proposer une multitude d'activités ouvertes parfois à des publics cibles, tels que les seniors, personnes en situation de handicap, enfants, etc.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Reims, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Titre: Reims urban nature Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/960-concours-2023-reims-urban-nature.pdf  ---  --- PROPOSER UNE MULTITUDE D'ACTIVITÉS OUVERTES À TOUS La création du \"Reims Urban Nature\" part de plusieurs constats: dans les manifestations sportives de découverte des activités locales, peu d'initiations sont proposées.",
+        "problematique": "Le développement d'actions éco- responsables sur le territoire révèle le besoin de la population d'être en contact avec la nature, de prendre soin de soi et de partager de manière conviviale ces valeurs dans la ville.",
+        "solution_envisagee": "Titre: Reims urban nature Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/960-concours-2023-reims-urban-nature.pdf  ---  --- PROPOSER UNE MULTITUDE D'ACTIVITÉS OUVERTES À TOUS La création du \"Reims Urban Nature\" part de plusieurs constats: dans les manifestations sportives de découverte des activités locales, peu d'initiations sont proposées.",
+        "objectifs": "Après réception des propositions, des échanges en direct ont été nécessaires (réunions, visio-conférences, appels et comptes-rendus) afin de mettre en place la programmation des activités, leurs répartitions sur les différents sites et d'évaluer les besoins en ressources humaines et logistiques spécifiques sur l’événement."
+    },
+    "porteur_initiative": "Titre: Reims urban nature Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/960-concours-2023-reims-urban-nature.pdf  ---  --- PROPOSER UNE MULTITUDE D'ACTIVITÉS OUVERTES À TOUS La création du \"Reims Urban Nature\" part de plusieurs constats: dans les manifestations sportives de découverte des activités locales, peu d'initiations sont proposées.",
+    "date": [
+        "juin 2021",
+        "2025",
+        "2023",
+        "2020",
+        "2022",
+        "2021",
+        "depuis 2020",
+        "en 2023"
+    ],
+    "thematique": [
+        "vieillissement",
+        "mobilité",
+        "santé",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reims_urban_nature.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Reims_urban_nature.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.8,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

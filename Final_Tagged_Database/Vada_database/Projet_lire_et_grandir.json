@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Projet lire et grandir",
+    "territoire": "Titre: Projet lire et grandir Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1036-pe-projet-lire-et-grandir.pdf  ---  --- L’INTERGÉNÉRATIONNEL SOUS LA BANNIÈRE DE LA LECTURE Dans le cadre de la démarche Villes Amies des Aînés, la Mission Bien Vieillir, les services municipaux de l’Education, de la Jeunesse et de la Culture de la Ville de Caen se sont réunies pour proposer une action commune visant à favoriser les relations intergénérationnelles.",
+    "echelle": [
+        "quartier",
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "VERS UNE PÉRENNISATION Cette action a créé des liens sur le territoire qui se sont prolongés au-delà du projet initial: invitation de résidents à la kermesse de l’école, mise en place d’une chorale intergénérationnelle, atelier jeux de société mensuel entre une école et une résidence autonomie seniors...",
+    "description": {
+        "description_generale": "VERS UNE PÉRENNISATION Cette action a créé des liens sur le territoire qui se sont prolongés au-delà du projet initial: invitation de résidents à la kermesse de l’école, mise en place d’une chorale intergénérationnelle, atelier jeux de société mensuel entre une école et une résidence autonomie seniors...",
+        "contexte": "Les cérémonies de vote se sont déroulées en quatre temps: un temps d’accueil des participants en présence de la conseillère municipale en charge du bien vieillir à Caen, un temps de restitution de projet (lecture de contes, restitution des ateliers d’écriture), un temps de vote (carte d’électeurs, isoloir) et de dépouillement ainsi qu’un temps de convivialité autour d’un goûter.",
+        "problematique": "Les cérémonies de vote se sont déroulées en quatre temps: un temps d’accueil des participants en présence de la conseillère municipale en charge du bien vieillir à Caen, un temps de restitution de projet (lecture de contes, restitution des ateliers d’écriture), un temps de vote (carte d’électeurs, isoloir) et de dépouillement ainsi qu’un temps de convivialité autour d’un goûter.",
+        "solution_envisagee": "VERS UNE PÉRENNISATION Cette action a créé des liens sur le territoire qui se sont prolongés au-delà du projet initial: invitation de résidents à la kermesse de l’école, mise en place d’une chorale intergénérationnelle, atelier jeux de société mensuel entre une école et une résidence autonomie seniors...",
+        "objectifs": "L’un des objectifs de cette première action développée dans le cadre de la démarche Ville Amie des Aînés était de penser un projet réunissant plusieurs services de la ville et ayant un rayonnement sur plusieurs quartiers autour d’un objectif commun."
+    },
+    "porteur_initiative": "Les cérémonies de vote se sont déroulées en quatre temps: un temps d’accueil des participants en présence de la conseillère municipale en charge du bien vieillir à Caen, un temps de restitution de projet (lecture de contes, restitution des ateliers d’écriture), un temps de vote (carte d’électeurs, isoloir) et de dépouillement ainsi qu’un temps de convivialité autour d’un goûter.",
+    "date": [
+        "2025",
+        "1036",
+        "2021",
+        "2024",
+        "depuis 2021",
+        "en 2024"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_lire_et_grandir.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Projet_lire_et_grandir.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.25,
+        "problematique": 0.25,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

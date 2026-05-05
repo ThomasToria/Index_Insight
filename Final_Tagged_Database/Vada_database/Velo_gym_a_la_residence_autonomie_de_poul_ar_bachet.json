@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: \"Velo gym\" à la résidence autonomie de poul ar bachet",
+    "territoire": "Titre: \"Velo gym\" à la résidence autonomie de poul ar bachet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/956-concours-2023-velo-gym-a-la-residence-autonomie-de-poul-ar-bachet-1.pdf  ---  --- UNE INITIATIVE DU MINISTÈRE DES SPORTS À L'OCCASION DES JEUX OLYMPIQUES ET PARALYMPIQUES Initié par le ministère des sports et des Jeux Olympiques et Paralympiques, le programme «VéloGym + autonomie» vise à expérimenter et protocoliser un programme d'activité physique adaptée innovant pour réduire et retarder la perte d'autonomie de personnes âgées en résidences autonomie.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Les animateurs sportifs professionnels très appréciés, pédagogues et à l'écoute, ainsi que la personnalisation des séances n'ont fait que renforcer la motivation des résidents à s'inscrire dans ce projet. \"VÉLO GYM\" UNE ACTIVITÉ QUI FAIT DU BIEN Douze résidents ont participé à ce projet, six femmes et six hommes de 56 à 91 ans, la moyenne d'âge étant de 73 ans.",
+    "description": {
+        "description_generale": "PHOTO: OUEST-FRANCE  ---  --- UNE ACTION MIS EN PLACE D'OCTOBRE 2022 À AVRIL 2023 Le projet \"Vélo gym\" a débuté en octobre 2022 et a consisté à la mise en place durant 6 mois de deux séances de \"vélo santé\" et de gymnastique adaptée par semaine.",
+        "contexte": "Les professionnels ont constaté une amélioration de leur moral, une stabilisation voire une amélioration de l'autonomie ainsi qu'une appétence accrue pour l'exercice physique qui devient un besoin.",
+        "problematique": "Les professionnels ont constaté une amélioration de leur moral, une stabilisation voire une amélioration de l'autonomie ainsi qu'une appétence accrue pour l'exercice physique qui devient un besoin.",
+        "solution_envisagee": "PHOTO: OUEST-FRANCE  ---  --- UNE ACTION MIS EN PLACE D'OCTOBRE 2022 À AVRIL 2023 Le projet \"Vélo gym\" a débuté en octobre 2022 et a consisté à la mise en place durant 6 mois de deux séances de \"vélo santé\" et de gymnastique adaptée par semaine.",
+        "objectifs": "Titre: \"Velo gym\" à la résidence autonomie de poul ar bachet Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/956-concours-2023-velo-gym-a-la-residence-autonomie-de-poul-ar-bachet-1.pdf  ---  --- UNE INITIATIVE DU MINISTÈRE DES SPORTS À L'OCCASION DES JEUX OLYMPIQUES ET PARALYMPIQUES Initié par le ministère des sports et des Jeux Olympiques et Paralympiques, le programme «VéloGym + autonomie» vise à expérimenter et protocoliser un programme d'activité physique adaptée innovant pour réduire et retarder la perte d'autonomie de personnes âgées en résidences autonomie."
+    },
+    "porteur_initiative": "PHOTO: OUEST-FRANCE  ---  --- UNE ACTION MIS EN PLACE D'OCTOBRE 2022 À AVRIL 2023 Le projet \"Vélo gym\" a débuté en octobre 2022 et a consisté à la mise en place durant 6 mois de deux séances de \"vélo santé\" et de gymnastique adaptée par semaine.",
+    "date": [
+        "OCTOBRE 2022",
+        "AVRIL 2023",
+        "2025",
+        "2023",
+        "2016",
+        "2022",
+        "depuis 2016"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Velo_gym_a_la_residence_autonomie_de_poul_ar_bachet.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Velo_gym_a_la_residence_autonomie_de_poul_ar_bachet.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

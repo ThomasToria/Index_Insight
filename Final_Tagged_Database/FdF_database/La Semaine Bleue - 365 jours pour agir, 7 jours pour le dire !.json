@@ -1,0 +1,47 @@
+{
+    "titre": "La Semaine Bleue - 365 jours pour agir, 7 jours pour le dire!",
+    "territoire": "Cet événement, qui existe depuis 72 ans, se déploie chaque année sur tout le territoire au cours de la première semaine d'octobre.",
+    "echelle": [
+        "communale",
+        "nationale"
+    ],
+    "public_vise": "La semaine du 2 octobre 2023, plusieurs activités ont ainsi été organisées au lycée Charles Péguy: une exposition photos/textes “rencontres intergénérationnelles”, des ateliers “simulateurs de vieillissement” avec un médecin du CD44, un atelier sur l’être humain dans sa globalité, des ateliers Danse et Yoga, un coaching sur le sens de soi, un atelier sur \"la culture et l’animation en EHPAD: le champ des possibles \", un atelier création avenir, scénario fictif, un spectacle ‘Christophine’ avec lycéens, résidents, IFAS, classes d’école et une soirée table ronde avec présentation d’un court métrage “Ce qui nous lie”… 2 e prix: « Le Tango pour ne pas tomber » organisée par Les Amis du 7 Le deuxième prix a été attribué à l’association « Les Amis du 7 » pour son action “Tango pour les Aînés” Il s’agit d’ateliers de tango thérapeutique pour les personnes âgées résidant en EHPAD ou à domicile.",
+    "description": {
+        "description_generale": "La semaine du 2 octobre 2023, plusieurs activités ont ainsi été organisées au lycée Charles Péguy: une exposition photos/textes “rencontres intergénérationnelles”, des ateliers “simulateurs de vieillissement” avec un médecin du CD44, un atelier sur l’être humain dans sa globalité, des ateliers Danse et Yoga, un coaching sur le sens de soi, un atelier sur \"la culture et l’animation en EHPAD: le champ des possibles \", un atelier création avenir, scénario fictif, un spectacle ‘Christophine’ avec lycéens, résidents, IFAS, classes d’école et une soirée table ronde avec présentation d’un court métrage “Ce qui nous lie”… 2 e prix: « Le Tango pour ne pas tomber » organisée par Les Amis du 7 Le deuxième prix a été attribué à l’association « Les Amis du 7 » pour son action “Tango pour les Aînés” Il s’agit d’ateliers de tango thérapeutique pour les personnes âgées résidant en EHPAD ou à domicile.",
+        "contexte": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "problematique": "De plus, la Fondation de France est sensible aux difficultés rencontrées par les associations dans le contexte actuel qui bouleverse leurs modèles socio-économiques.",
+        "solution_envisagee": "Ainsi, si vous souhaitez proposer un projet dans ce cadre, veuillez remplir le formulaire suivant.",
+        "objectifs": "Afin de mieux vous répondre, veuillez nous indiquer le numéro de votre dossier commençant par « EF » ou « WB » ainsi que l’objet de votre demande dans la rubrique prévue à cet effet ci-dessous."
+    },
+    "porteur_initiative": "Le Grand Prix: La Semaine « Part'Age » organisé par l’EHPAD le Bon Vieux Temps Le Grand Prix revient à la semaine « Part’Age ».",
+    "date": [
+        "2 octobre 2023",
+        "octobre 2023",
+        "2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "Fondation de France",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La Semaine Bleue - 365 jours pour agir, 7 jours pour le dire !.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\FdF_database\\La Semaine Bleue - 365 jours pour agir, 7 jours pour le dire !.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.45,
+        "echelle": 0.45,
+        "public_vise": 0.65,
+        "description_generale": 0.65,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

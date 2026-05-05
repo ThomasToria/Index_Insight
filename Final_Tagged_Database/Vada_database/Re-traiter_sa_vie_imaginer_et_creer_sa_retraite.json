@@ -1,0 +1,52 @@
+{
+    "titre": "Titre: Re-traiter sa vie: imaginer et créer sa retraite",
+    "territoire": "Titre: Re-traiter sa vie: imaginer et créer sa retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/802-concours-2022-43-retraiter-sa-vie.pdf  ---  --- UN STAGE POUR PRÉPARER SA RETRAITE A l'origine du projet, c'est un besoin qui a été identifié par de jeunes retraités qui ont mal vécu ce sentiment de rupture au moment de la retraite.",
+    "echelle": [
+        "communale",
+        "intercommunale",
+        "nationale"
+    ],
+    "public_vise": "Si, comme l'Espace Entour'âge maison des seniors et des aidants, vous avez mis en place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com TEMOIGNAGES D'USAGERS \"Ça a été une meilleure connaissance de soi - vous voyez, même à 60 ans, on a plein de choses à apprendre sur soi - pour pouvoir pleinement profiter de l'avenir, et en tirer profit pour soi mais aussi pour les autres\" \"La retraite, même si j'entrevoyais ça paisiblement, je m'interrogeais sur quoi faire et comment choisir, alors pour tous les autres qui hésitent, je leur dis allez-y, faites- vous confiance, faites confiance au reste du groupe\". \"Soudain je me suis retrouvée seule, isolée, perdue, angoissée.",
+    "description": {
+        "description_generale": "Titre: Re-traiter sa vie: imaginer et créer sa retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/802-concours-2022-43-retraiter-sa-vie.pdf  ---  --- UN STAGE POUR PRÉPARER SA RETRAITE A l'origine du projet, c'est un besoin qui a été identifié par de jeunes retraités qui ont mal vécu ce sentiment de rupture au moment de la retraite.",
+        "contexte": "Titre: Re-traiter sa vie: imaginer et créer sa retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/802-concours-2022-43-retraiter-sa-vie.pdf  ---  --- UN STAGE POUR PRÉPARER SA RETRAITE A l'origine du projet, c'est un besoin qui a été identifié par de jeunes retraités qui ont mal vécu ce sentiment de rupture au moment de la retraite.",
+        "problematique": "Titre: Re-traiter sa vie: imaginer et créer sa retraite Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/802-concours-2022-43-retraiter-sa-vie.pdf  ---  --- UN STAGE POUR PRÉPARER SA RETRAITE A l'origine du projet, c'est un besoin qui a été identifié par de jeunes retraités qui ont mal vécu ce sentiment de rupture au moment de la retraite.",
+        "solution_envisagee": "Elle propose une véritable démarche de développement personnel qui ne se termine pas à la fin des six jours de stage, mais permet de poursuivre son chemin: c'est un apprentissage à vivre autrement, à faire des choix, à se positionner, à dépasser les échecs pour appréhender la retraite, nouvelle étape de sa vie, sereinement.",
+        "objectifs": "Ses objectifs étaient de proposer des actions en privilégiant la recherche d'un mieux-être et de positionner les retraités comme acteurs de ce mieux-être."
+    },
+    "porteur_initiative": "En 1998 est né un groupe de réflexion composé de retraités et animé par CLIC Entour'âge: le groupe \"Projet de vie\".",
+    "date": [
+        "2025",
+        "2022",
+        "1998",
+        "1999",
+        "5340",
+        "3000",
+        "depuis 2022",
+        "En 1998",
+        "en 1999"
+    ],
+    "thematique": [
+        "vieillissement",
+        "santé",
+        "aidants"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.8,
+        "description_generale": 0.45,
+        "contexte": 0.25,
+        "problematique": 0.45,
+        "solution_envisagee": 0.65,
+        "objectifs": 0.65,
+        "porteur_initiative": 0.45,
+        "date": 0.8,
+        "thematique": 0.65,
+        "source_site": 0.95
+    }
+}

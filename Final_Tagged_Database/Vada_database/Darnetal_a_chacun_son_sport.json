@@ -1,0 +1,50 @@
+{
+    "titre": "Titre: Darnétal: à chacun son sport!",
+    "territoire": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/969-concours-2023-darnetal-a-chacun-son-sport.pdf  ---  --- CONTEXTE ET ORIGINE DU PROJET E n 2011, le CCAS de la ville de D arné tal organisait la semaine bleue en proposant une no uvelle activité: de la gym adaptée aux personne s âgée s.",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "I l oriente les personne s sur le programme le mie ux adapté: S port S énio rs, le ma rdi ma tin au gymna se m unicipal, en centre ville, qu i perme t à des seniors ayant envie de garder une activité physiqu e adaptée et rég ulière de le faire en toute séc urité.",
+    "description": {
+        "description_generale": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/969-concours-2023-darnetal-a-chacun-son-sport.pdf  ---  --- CONTEXTE ET ORIGINE DU PROJET E n 2011, le CCAS de la ville de D arné tal organisait la semaine bleue en proposant une no uvelle activité: de la gym adaptée aux personne s âgée s.",
+        "contexte": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/969-concours-2023-darnetal-a-chacun-son-sport.pdf  ---  --- CONTEXTE ET ORIGINE DU PROJET E n 2011, le CCAS de la ville de D arné tal organisait la semaine bleue en proposant une no uvelle activité: de la gym adaptée aux personne s âgée s.",
+        "problematique": "C ette action ré pond à un besoin fort de la popu lation \"sénio r\" dan s la comm une et comble un man qu e associatif lié à cette pratiqu e adaptée à ce pu blic.",
+        "solution_envisagee": "Il y a 3 groupes de 25 places.  ---  --- UNE MISE EN PLACE THÉMATIQUE L e programme se décline par théma tiqu es: - socialisation, renforcemen t m uscu laire, soup lesse et é tiremen t, cardiorespiratoire, é qu ilibre, gainage et mémo risation...",
+        "objectifs": "Maintenir des capacités physiques afin de retarder les pathologies de l ’âgisme (comme l'arthrose, ou le cancer par exemple) ainsi que la dépendance."
+    },
+    "porteur_initiative": "Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/969-concours-2023-darnetal-a-chacun-son-sport.pdf  ---  --- CONTEXTE ET ORIGINE DU PROJET E n 2011, le CCAS de la ville de D arné tal organisait la semaine bleue en proposant une no uvelle activité: de la gym adaptée aux personne s âgée s.",
+    "date": [
+        "2025",
+        "2023",
+        "2011",
+        "2012",
+        "2021",
+        "2022",
+        "depuis 2021"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "habitat",
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Darnetal_a_chacun_son_sport.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Darnetal_a_chacun_son_sport.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.25,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.45,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "titre": "Titre: Un bien-être pour prendre le temps de se détendre",
+    "territoire": "Titre: Un bien-être pour prendre le temps de se détendre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1028-concours-2023-un-bien-etre-pour-prendre-le-temps-de-se-detendre.pdf  ---  --- LES SENIORS EN RECHERCHE DE BIEN-ÊTRE \"Le bonheur n'est pas toujours dans un ciel éternellement bleu, mais dans les choses les plus simples de la vie\" - Confusius.",
+    "echelle": [
+        "communale",
+        "départementale",
+        "nationale"
+    ],
+    "public_vise": "Titre: Un bien-être pour prendre le temps de se détendre Catégories: Commune: Source PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1028-concours-2023-un-bien-etre-pour-prendre-le-temps-de-se-detendre.pdf  ---  --- LES SENIORS EN RECHERCHE DE BIEN-ÊTRE \"Le bonheur n'est pas toujours dans un ciel éternellement bleu, mais dans les choses les plus simples de la vie\" - Confusius.",
+    "description": {
+        "description_generale": "Si, comme la Ville de Valenciennes, vous avez mis e n place des projets pour les aînés, n’hésitez pas à nous en faire part: contact@rfvaa.com",
+        "contexte": "Ceux-ci ont exprimé, dans un contexte national actuel compliqué, leur souhait de découvrir des techniques de relaxation et de bien-être afin de se sentir mieux au quotidien.",
+        "problematique": "MÉDITATION ET RELAXATION Suite aux requêtes des seniors et les retours d'un diagnostic participatif sur l'isolement de ces derniers, le Pôle Seniors du CCAS a donc souhaité, en 2022, mettre à disposition une action en lien avec le bien-être et l’estime de soi.",
+        "solution_envisagee": "En parallèle, une liste d'attente a été mise en place pour les seniors ayant déjà assisté à une séance et souhaitant renouveler l'expérience.",
+        "objectifs": "Valenciennes, adhérente de \"Villes Amies des Ainés\" a organisé des ateliers seniors participatifs afin de recueillir la parole des aînés."
+    },
+    "porteur_initiative": "De la méditation a été proposée par différentes techniques: respiration, réflexologie plantaire et palmaire en automassage, mais aussi par des temps d'esthétique et de revalorisation de soi-même (beauté des mains, soins du visage, conseils de mise en beauté).",
+    "date": [
+        "mai 2022",
+        "2025",
+        "1028",
+        "2023",
+        "2022",
+        "2015",
+        "depuis 2015",
+        "en",
+        "en 2022",
+        "en 2023"
+    ],
+    "thematique": [
+        "autonomie",
+        "vieillissement",
+        "santé",
+        "lien social",
+        "numérique",
+        "inclusion"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_bien-etre_pour_prendre_le_temps_de_se_detendre.txt",
+    "fichier_json_intermediaire": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Scored_Database\\Vada_database\\Un_bien-etre_pour_prendre_le_temps_de_se_detendre.json",
+    "confiance": {
+        "titre": 0.8,
+        "territoire": 0.65,
+        "echelle": 0.65,
+        "public_vise": 0.45,
+        "description_generale": 0.45,
+        "contexte": 0.65,
+        "problematique": 0.45,
+        "solution_envisagee": 0.45,
+        "objectifs": 0.45,
+        "porteur_initiative": 0.25,
+        "date": 0.8,
+        "thematique": 0.8,
+        "source_site": 0.95
+    }
+}
