@@ -122,5 +122,908 @@
         "source_site": "CNAV",
         "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt",
         "nom_fichier": "05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt"
+    },
+    {
+        "titre": "CARSAT RHÔNE-ALPES",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "départementale"
+        ],
+        "public_vise": "Retraités: locataires du parc social",
+        "description": {
+            "description_generale": "Dans un contexte marqué par le vieillissement de la population et l’allongement de la durée de vie, les enjeux liés à l’adaptation de notre société à cette évolution démographique sont multiples. Au sein du parc social, le nombre de résidents âgés de plus de 65 ans",
+            "contexte": "",
+            "problematique": "Nécessité de prévoir les conditions d'habitat permettant au plus grand nombre de seniors de vieillir dans les meilleures conditions possibles à domicile, en rapport avec leur degré d'autonomie.",
+            "solution_envisagee": "Dans un contexte marqué par le vieillissement de la population et l’allongement de la durée de vie, les enjeux liés à l’adaptation de notre société à cette évolution démographique sont multiples. Au sein du parc social, le nombre de résidents âgés de plus de 65 ans",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Partenaire(s): Banques des Territoires Auvergne-Rhône-Alpes, AURA HLM- Fédération des bailleurs sociaux Auvergne-Rhône-Alpes et les bailleurs sociaux de Rhône-Alpes.",
+        "date": [],
+        "thematique": [
+            "vieillissement",
+            "adaptation sociale"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\06_CARSAT_RHONE-ALPES.txt",
+        "nom_fichier": "06_CARSAT_RHONE-ALPES.txt"
+    },
+    {
+        "titre": "ADAPTATION DES LOGEMENTS DU PARC SOCIAL D’HABITAT DE L ’ILL",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: locataires retraités autonomes du parc social. Professionnels: équipe dédiée coordonnée par le Référent Senior. Autre: acteurs locaux de l’accompagnement des seniors.",
+        "description": {
+            "description_generale": "Habitat de l’Ill s’est engagé dans la réalisation d’un projet visant à prévenir la perte d’autonomie de locataires du parc social d’Habitat de l’Ill par des travaux d’adaptation des logements tels que la création de douches et de revêtements intérieurs, pose de barres d’appui dans les salles de bains et toilettes, installation de système de commandes d’éclairage et de volets roulants.",
+            "contexte": "",
+            "problematique": "La perte d’autonomie des locataires du parc social d’Habitat de l’Ill.",
+            "solution_envisagee": "Travaux d'adaptation des logements tels que la création de douches et de revêtements intérieurs, pose de barres d'appui dans les salles de bains et toilettes, installation de système de commandes d'éclairage et de volets roulants.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Habitat de l’Ill",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Autonomie"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt",
+        "nom_fichier": "07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt"
+    },
+    {
+        "titre": "PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC)",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Les porteurs de projets d’habitat senior (bailleurs sociaux, Centres communaux d'action sociale (CCAS), communes)",
+        "description": {
+            "description_generale": "La Carsat a souhaité enrichir son analyse des dossiers LVC par une expertise architecturale afin de vérifier la pertinence des programmes présentés. Le conseil porte sur les",
+            "contexte": "",
+            "problematique": "L'absence de contexte spécifique est indiquée par l'utilisation du guillemet vide.",
+            "solution_envisagee": "Une expertise architecturale pour vérifier la pertinence des programmes d’habitat senior",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat Normandie et les Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands",
+        "date": [],
+        "thematique": [
+            "Habitat",
+            "Senior"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
+        "nom_fichier": "08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt"
+    },
+    {
+        "titre": "CARSAT HAUTS-DE-FRANCE",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "départementale"
+        ],
+        "public_vise": "Retraités: résidents de résidences autonomie, seniors à domicile dans les villes ciblées par les tiers-lieux. Professionnels: professionnels des résidences autonomie. Autres: partenaires institutionnels (Conseils Départementaux, ARS Hauts-de-France, CNSA).",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "Développement et intégration des tiers-lieux en résidences autonomie.",
+            "solution_envisagee": "Positionner la Carsat Hauts-de-France comme acteur du développement des tiers-lieux, soutenu par le Plan d’Aide à l’Investissement « Soutien au développement de tiers-lieux en résidence autonomie ».",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat Hauts-de-France",
+        "date": [],
+        "thematique": [
+            "développement économique",
+            "logement",
+            "retraite"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\09_CARSAT_HAUTS-DE-FRANCE.txt",
+        "nom_fichier": "09_CARSAT_HAUTS-DE-FRANCE.txt"
+    },
+    {
+        "titre": "Habitat SILVER HABITAT",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "départementale"
+        ],
+        "public_vise": "Les porteurs de projets d'habitat senior (bailleurs sociaux, CCAS, Communes)",
+        "description": {
+            "description_generale": "Un appel à idées nommé « Silver Habitat » a été lancé auprès d’architectes, paysagistes, urbanistes, économistes, afin d’apporter de l’innovation et d’enrichir l’offre habitat des seniors. Les travaux rendus sont valorisés dans le livre blanc.",
+            "contexte": "",
+            "problematique": "L'absence de détails sur la problématique spécifique n'est pas fournie ici.",
+            "solution_envisagee": "La valorisation des travaux réalisés par les équipes pluridisciplinaires en s’inspirant de sites réels pour enrichir l’offre d'habitat senior.",
+            "objectifs": "Inspérer les porteurs de projets par de nouveaux concepts d'habitat senior et diversifier l'offre d'habitat pour les seniors."
+        },
+        "porteur_initiative": "Carsat Normandie et les CAUE normands, avec la participation de VAA conseils – Anne LABBIT.",
+        "date": [],
+        "thematique": [
+            "Habitat",
+            "Seniors"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\10_Habitat_SILVER_HABITAT.txt",
+        "nom_fichier": "10_Habitat_SILVER_HABITAT.txt"
+    },
+    {
+        "titre": "LE PROGRAMME ACTIV’ ET VOUS",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "régionale"
+        ],
+        "public_vise": "Retraités: précaires",
+        "description": {
+            "description_generale": "La Mutualité Française et ses unions régionales, la Caisse nationale de Assurance retraite et les Carsat ont coconstruit un programme de prévention complet en distanciel, facile à suivre et riche de bonnes pratiques à appliquer au quotidien. Articulé autour de 13 séances d'une heure sur l'alimentation et l'activité physique (réveils musculaires, souplesse)",
+            "contexte": "",
+            "problematique": "Promouvoir l'activité physique et une alimentation saine chez les plus de 60 ans pour favoriser un vieillissement actif en santé et réduire les inégalités de santé",
+            "solution_envisagee": "Un programme complet en distanciel, facile à suivre et riche de bonnes pratiques à appliquer au quotidien",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Caisse nationale de l'Assurance retraite et la Mutualité Française",
+        "date": [],
+        "thematique": [
+            "santé",
+            "activité physique",
+            "alimentation"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\11_LE_PROGRAMME_ACTIV_ET_VOUS.txt",
+        "nom_fichier": "11_LE_PROGRAMME_ACTIV_ET_VOUS.txt"
+    },
+    {
+        "titre": "INFORMATIONS ET CONSEILS EN PRÉVENTION",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "départementale"
+        ],
+        "public_vise": "Retraités: de tous âges. Professionnels: animateurs d’actions collectives. Autre: grand public.",
+        "description": {
+            "description_generale": "La Caisse nationale de l’Assurance retraite soutient la réalisation de vidéos dans le cadre d’un programme initialement construit par la Carsat de Bourgogne-Franche-Comté. Cette série de vidéos fera l’objet d’une exploitation.",
+            "contexte": "",
+            "problematique": "L'absence de prévention chez les seniors peut entraîner des problèmes de santé et une augmentation du coût des soins.",
+            "solution_envisagee": "La diffusion de vidéos pour sensibiliser et inciter les seniors à agir en prévention.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Caisse nationale de l’Assurance retraite",
+        "date": [],
+        "thematique": [
+            "santé publique",
+            "prévention"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
+        "nom_fichier": "12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt"
+    },
+    {
+        "titre": "LE SITE INTERNET ICOPE",
+        "territoire": "",
+        "echelle": [
+            "nationale"
+        ],
+        "public_vise": "Aides individuelles",
+        "description": {
+            "description_generale": "Le site internet ICOPE est mis à disposition des retraités, aidants et professionnels du domicile pour promouvoir une culture de prévention en matière de santé.",
+            "contexte": "",
+            "problematique": "La diffusion d'une culture de prévention auprès du grand public, des professionnels du domicile et des professionnels de santé est un défi majeur.",
+            "solution_envisagee": "Le site internet ICOPE vise à faciliter cette diffusion en rendant le programme de prévention ICOPE accessible via l'Assurance retraite et l'IHU HealthAge de Toulouse.",
+            "objectifs": "Promouvoir une culture de prévention auprès du grand public, des professionnels du domicile et des professionnels de santé; Diffuser les informations sur le programme de prévention ICOPE."
+        },
+        "porteur_initiative": "Caisse nationale de l’Assurance retraite, IHU HealthAge de Toulouse",
+        "date": [],
+        "thematique": [
+            "santé",
+            "prévention"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\13_LE_SITE_INTERNET_ICOPE.txt",
+        "nom_fichier": "13_LE_SITE_INTERNET_ICOPE.txt"
+    },
+    {
+        "titre": "CARSAT SUD-EST",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités; Professionnels",
+        "description": {
+            "description_generale": "L'étude Alapage vise à co-construire une offre de prévention harmonisée et à mesurer l'impact d'une telle intervention collective sur les comportements alimentaires et d'activité physique des seniors.",
+            "contexte": "",
+            "problematique": "Les comportements alimentaires et d'activité physique des seniors sont souvent dégradés, ce qui peut entraîner une perte de poids et un manque d'énergie.",
+            "solution_envisagee": "L'amélioration de l'alimentation et de l'activité physique chez les seniors à domicile pour prévenir ces problèmes.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat Sud-Est",
+        "date": [],
+        "thematique": [
+            "Santé publique",
+            "Nutrition",
+            "Activité physique"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\14_CARSAT_SUD-EST.txt",
+        "nom_fichier": "14_CARSAT_SUD-EST.txt"
+    },
+    {
+        "titre": "GYM ENFORM' ET FITNESS",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: de 60 ans et plus",
+        "description": {
+            "description_generale": "Entretenir et améliorer son processus de mémorisation, apprendre à rester concentré sur une tâche motrice malgré les interférences associées à l'activité physique. L'atelier gym mémoire permet de garder la forme tout en stimulant son cerveau! En alternant jeux de mémorisation et activité physique, l'atelier permet de travailler tous les sens et donc de stimuler la mémoire sensorielle (mémoire auditive, olfactive, visuelle).",
+            "contexte": "",
+            "problematique": "L’activité physique peut interférer avec le processus de mémorisation.",
+            "solution_envisagee": "Atelier gym mémoire qui combine jeux de mémorisation et activités physiques pour stimuler la mémoire sensorielle.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "CGSS de Guadeloupe « Direction de l’accompagnement et de la prévention »",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Mémoire"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\15_GYM_ENFORM_ET_FITNESS.txt",
+        "nom_fichier": "15_GYM_ENFORM_ET_FITNESS.txt"
+    },
+    {
+        "titre": "EXPÉRIMENTATION AUPRÈS D’UN PUBLIC DE FUTUR RETRAITÉ",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Les personnes salariées des organismes partenaires de l'expérimentation, futur retraité.",
+        "description": {
+            "description_generale": "Expérimentation auprès d'un public de futurs retraités pour tester l’appropriation de l’atelier « Bienvenue à la retraite ».",
+            "contexte": "",
+            "problematique": "L'absence de connaissances et de préparation des futurs retraités aux démarches administratives liées à leur entrée en retraite.",
+            "solution_envisagee": "La mise en place d’ateliers « Bienvenue à la retraite » pour sensibiliser et informer les futurs retraités.",
+            "objectifs": "Tester l'efficacité de l'atelier, identifier les besoins spécifiques du public cible et améliorer sa conception avant son déploiement sur le territoire francilien."
+        },
+        "porteur_initiative": "l’Assurance retraite Île-de-France et le Prif",
+        "date": [],
+        "thematique": [
+            "Santé publique",
+            "Économie"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\16_EXPERIMENTATION_AUPRES_DUN_PUBLIC_DE_FUTUR_RETR.txt",
+        "nom_fichier": "16_EXPERIMENTATION_AUPRES_DUN_PUBLIC_DE_FUTUR_RETR.txt"
+    },
+    {
+        "titre": "PARTENARIAT CENTRES DE MÉDECINE PRÉVENTIVE",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: futurs et jeunes retraités (2 ans avant et après retraite). Professionnels: centres de médecine préventive (Médecins, infirmières).",
+        "description": {
+            "description_generale": "ATELIER « BIENVENUE À LA RETRAITE » PARTENARIAT CENTRES DE MÉDECINE PRÉVENTIVE LES ACTEURS Porteur(s) de la pépite: Carsat Nord-Est. Partenaire(s): opérateurs de prévention.",
+            "contexte": "",
+            "problematique": "L'absence de maladies détectées précocement et l'évaluation des risques ne permet pas d'anticiper les maladies liées au vieillissement.",
+            "solution_envisagee": "Proposer aux futurs et jeunes retraités, ainsi qu'aux professionnels de santé, les examens de prévention en santé (EPS) afin de faire un bilan de santé préventif pour maintenir une bonne santé.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Porteur(s) de la pépite: Carsat Nord-Est. Partenaire(s): opérateurs de prévention.",
+        "date": [],
+        "thematique": [
+            "Santé publique",
+            "Médicaments et soins"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\17_PARTENARIAT_CENTRES_DE_MEDECINE_PREVENTIVE.txt",
+        "nom_fichier": "17_PARTENARIAT_CENTRES_DE_MEDECINE_PREVENTIVE.txt"
+    },
+    {
+        "titre": "ATALIER « HABITAT: LES CLEFS DE MA SANTÉ »",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: à partir de 55 ans et autonomes.",
+        "description": {
+            "description_generale": "CARSAT AQUITAINE, association Santé Éducation et Prévention sur les Territoires, MSA Gironde, MSA Sud Aquitaine, MSA Dordogne Lot-et-Garonne, CAP Seniors Aquitaine et partenaires locaux (mairies, CCAS, Associations) organisent un atelier intitulé « HABITAT: LES CLEFS DE MA SANTÉ ».",
+            "contexte": "",
+            "problematique": "Les liens entre les notions d’habitat, de bien-être et de santé; la santé environnementale et la qualité de l'air intérieur; les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives.",
+            "solution_envisagee": "",
+            "objectifs": "Identifier les liens entre les notions d’habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives."
+        },
+        "porteur_initiative": "association Santé Éducation et Prévention sur les Territoires",
+        "date": [],
+        "thematique": [
+            "santé",
+            "habitat",
+            "bien-être"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt",
+        "nom_fichier": "18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt"
+    },
+    {
+        "titre": "ATALIER MNÉMOTRICITÉ",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Tout public retraité, prioritairement les publics fragilisés pratiquant pas ou peu d'activité physique ou rencontrant des difficultés liées aux barrières linguistiques",
+        "description": {
+            "description_generale": "L’atelier se déroule en 6 séances (1h30 par séance) et s’inscrit dans le cadre des actions visant à améliorer l'accompagnement et la qualité de vie des personnes retraitées, notamment celles qui connaissent des vulnérabilités liées à la langue.",
+            "contexte": "",
+            "problematique": "Préserver et développer les capacités mnésiques",
+            "solution_envisagee": "Travail associant une approche corporelle et sensorielle",
+            "objectifs": "Améliorer l'accompagnement et la qualité de vie des personnes retraitées, notamment celles ayant des vulnérabilités liées à la langue."
+        },
+        "porteur_initiative": "Carsat Rhône-Alpes",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Activité physique",
+            "Langue"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\19_ATELIER_MNEMOTRICITE.txt",
+        "nom_fichier": "19_ATELIER_MNEMOTRICITE.txt"
+    },
+    {
+        "titre": "DE CO-FINANCEMENT A VEC LA CFPPA DE MEURTHE-ET-MOSELLE",
+        "territoire": "",
+        "echelle": [
+            "départementale"
+        ],
+        "public_vise": "Professionnels: les porteurs de projets de prévention de la perte d’autonomie et du lien.",
+        "description": {
+            "description_generale": "Dans le cadre du partenariat qui lie la Carsat au Conseil départemental, beaucoup d’actions ont été mises en place : échanges de données, reconnaissance mutuelle des évaluations et des GIR, demande unique sur l'individuel.",
+            "contexte": "",
+            "problematique": "Simplifier le dépôt de demandes de financements si un co-financement CFPPA/Carsat est sollicité : demande unique.",
+            "solution_envisagee": "",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Porteur(s) de la pépite: Carsat Nord-Est. Partenaire(s): conférence des financeurs de la prévention de la perte d’autonomie (CFPPA) de Meurthe-et-Moselle.",
+        "date": [],
+        "thematique": [
+            "prévention de la perte d'autonomie"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.txt",
+        "nom_fichier": "20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.txt"
+    },
+    {
+        "titre": "ESCAPE GAME SOMMEIL",
+        "territoire": "",
+        "echelle": [
+            "intercommunale",
+            "départementale"
+        ],
+        "public_vise": "Retraités: de 55 ans et plus, vivant à domicile, capable de se rendre à l’escape game et sans troubles cognitifs. Le senior doit être volontaire et motivé pour participer au jeu durant 1 h 30.",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "La prévention du sommeil chez les seniors",
+            "solution_envisagee": "L’organisation d’un escape game thématique sur le thème du sommeil, visant à sensibiliser et à renforcer la prise de conscience des retards de sommeil.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat Aquitaine / MSA / Association interrégime Cap senior / Asept",
+        "date": [],
+        "thematique": [
+            "santé",
+            "prévention"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\21_ESCAPE_GAME_SOMMEIL.txt",
+        "nom_fichier": "21_ESCAPE_GAME_SOMMEIL.txt"
+    },
+    {
+        "titre": "GRAN MOUN DJOK – LE RAID DES SENIORS",
+        "territoire": "",
+        "echelle": [
+            "communale",
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: GIR 5 et 6 majoritairement des associations partenaires répartis sur le département, environ 360 seniors. Il s'agit dans un premier lieu de seniors déjà bénéficiaires d'APA, mais tout seniors peut y participer.",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "Le projet vise à combattre la perte de forme physique et l’isolement social des personnes âgées en proposant une activité adaptée aux leurs besoins.",
+            "solution_envisagee": "La mise en place d’un raid sportif pour les seniors, basé sur l’activité physique adaptée (APA).",
+            "objectifs": ""
+        },
+        "porteur_initiative": "association APASAM (Activités Physiques Adaptées Santé Martinique) et CFPPA de la Martinique, le comité Handisport, des associations de seniors, communes et structures privées (sponsoring).",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Sport",
+            "Bien-être"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt",
+        "nom_fichier": "22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt"
+    },
+    {
+        "titre": "CARSAT PAYS DE LA LOIRE JE CONTINUE À JARDINER",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: autonomes vivant dans leur domicile avec un jardin.",
+        "description": {
+            "description_generale": "Association Ecos (44) est le porteur de la pépite, accompagnée par Kiné Ouest Prévention (22), le CréAT (44), et un paysagiste. L'objectif est d'améliorer l'expérience de jardinage chez les seniors.",
+            "contexte": "",
+            "problematique": "Maintenir une activité physique chez les seniors ayant un jardin, sensibiliser aux bonnes pratiques et à l'aide technique pour se préserver en jardinant, informer sur les aménagements possibles au jardin.",
+            "solution_envisagee": "Création d'une offre complète de services ajustés favorisant le maintien de la pratique de jardinage aux seniors jardiniers.",
+            "objectifs": "Maintenir une activité physique chez les seniors, sensibiliser aux bonnes pratiques et à l'aide technique pour se préserver en jardinant, informer sur les aménagements possibles au jardin."
+        },
+        "porteur_initiative": "Association Ecos (44)",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Environnement"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\23_CARSAT_PAYS_DE_LA_LOIRE_JE_CONTINUE_A_JARDINER.txt",
+        "nom_fichier": "23_CARSAT_PAYS_DE_LA_LOIRE_JE_CONTINUE_A_JARDINER.txt"
+    },
+    {
+        "titre": "CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: tous type de retraités. Autre: personnes de moins de 60 ans.",
+        "description": {
+            "description_generale": "Association des amis de Mamies Gâteaux, portée par Malakoff-Humanis et Association générale des familles, propose des ateliers de pâtisserie pour favoriser les échanges intergénérationnels, transmettre savoirs et compétences, renforcer sentiment d'utilité et estime de soi, promouvoir inclusion sociale et mode de vie sain.",
+            "contexte": "",
+            "problematique": "Problématiques non spécifiquement mentionnées dans le texte",
+            "solution_envisagee": "Solution envisagée : Ateliers de pâtisserie pour favoriser échanges intergénérationnels et transmettre savoirs.",
+            "objectifs": "Favoriser les échanges intergénérationnels, renforcer lien social, transmettre savoirs et compétences, encourager mode de vie sain et équilibré, stimuler créativité et découverte"
+        },
+        "porteur_initiative": "Association des amis de Mamies Gâteaux",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.txt",
+        "nom_fichier": "24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.txt"
+    },
+    {
+        "titre": "MIEUX VIVRE AU QUOTIDIEN AVEC LES MÉDICAMENTS",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: l’ensemble des retraités quel que soit leur régime de retraite, autonomes (GIR 6 et 5 ou non girés) vivant au domicile (ou assimilé). Professionnels: les animateurs du réseau M2P et les pharmaciens du réseau REIPO formés au programme européen intitulé PESBUM (Programme d'éducation sanitaire pour le bon usage des médicaments).",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "Les retraités et les professionnels de santé ont besoin d'une meilleure compréhension du bon usage des médicaments.",
+            "solution_envisagee": "L'expérimentation vise à améliorer la connaissance des seniors sur le bon usage des médicaments grâce aux animateurs du réseau M2P et aux pharmaciens formés au programme PESBUM.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Association Interrégime Midi-Pyrénées Prévention (M2P). Partenaire(s): le CHU de Toulouse et le réseau REIPO",
+        "date": [],
+        "thematique": [
+            "Santé publique",
+            "Pharmacie"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
+        "nom_fichier": "25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt"
+    },
+    {
+        "titre": "DU REPÉRAGE DU RISQUE DE CHUTE À UN ATELIER ÉQUILIBRE",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Les personnes de plus de 70 ans qui présentent un risque de perte de mobilité.",
+        "description": {
+            "description_generale": "Le parcours débute par la consultation",
+            "contexte": "",
+            "problematique": "La fréquence, le risque et la gravité des chutes",
+            "solution_envisagee": "Repérage du risque et complémentarité des actions développées",
+            "objectifs": "Diminuer la fréquence, le risque et la gravité des chutes, préserver la qualité de vie et maintenir ou développer le lien social."
+        },
+        "porteur_initiative": "Carsat Rhône-Alpes",
+        "date": [],
+        "thematique": [
+            "Santé publique",
+            "Mobilité"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\26_DU_REPERAGE_DU_RISQUE_DE_CHUTE_A_UN_ATELIER_EQU.txt",
+        "nom_fichier": "26_DU_REPERAGE_DU_RISQUE_DE_CHUTE_A_UN_ATELIER_EQU.txt"
+    },
+    {
+        "titre": "CARSAT BOURGOGNE-FRANCHE-COMTÉ",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: de plus de 60 ans. Autre: dispositif à caractère intergénérationnel.",
+        "description": {
+            "description_generale": "Le parcours équilibre est un dispositif de mobilier urbain, en libre accès, qui permet de travailler la fonction d‘équilibration à tout moment.",
+            "contexte": "",
+            "problematique": "prévenir les chutes",
+            "solution_envisagee": "Le parcours équilibre",
+            "objectifs": "réassurer la stabilité posturale; contribuer au renforcement musculaire et à l'amélioration de l'équilibre."
+        },
+        "porteur_initiative": "Carsat Bourgogne-Franche-Comté, MSA Bourgogne. Porteur(s) de la pépite: Carsat Bourgogne-Franche-Comté, MSA Bourgogne. Partenaire(s): association Fapa seniors 21, ville de Dijon, ville de Semur en Auxois, ville de Talant (via ECLAT), CHU de Dijon.",
+        "date": [],
+        "thematique": [
+            "santé publique",
+            "mobilité"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\27_CARSAT_BOURGOGNE-FRANCHE-COMTE.txt",
+        "nom_fichier": "27_CARSAT_BOURGOGNE-FRANCHE-COMTE.txt"
+    },
+    {
+        "titre": "PARCOURS « PRÉVENTION DES CHUTES »",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités",
+        "description": {
+            "description_generale": "Sensibiliser les personnes âgées à la prévention des chutes, sous le format d’une conférence et d’ateliers ludiques et pratiques.",
+            "contexte": "",
+            "problematique": "Les chutes sont la première cause d’hospitalisation et de mortalité par accident de la vie courante chez les plus de 65 ans (8000 décès par an).",
+            "solution_envisagee": "Conférence et ateliers ludiques et pratiques.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "association interrégimes CAP Limousin Poitou-Charentes, ASEPT",
+        "date": [],
+        "thematique": [
+            "santé",
+            "gériatrie"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\28_PARCOURS_PREVENTION_DES_CHUTES.txt",
+        "nom_fichier": "28_PARCOURS_PREVENTION_DES_CHUTES.txt"
+    },
+    {
+        "titre": "CARSAT CENTRE-VAL DE LOIRE",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités",
+        "description": {
+            "description_generale": "Le projet vise à accompagner les retraités dans l'apprentissage du numérique pour développer et favoriser le lien social.",
+            "contexte": "",
+            "problematique": "La prévention de la perte d'autonomie",
+            "solution_envisagee": "Promouvoir l'utilisation du numérique comme vecteur du lien social, de mobilité, d'accès aux droits, d'ouverture sur l'information et sur le monde.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "SAS Solutions Vie Pratique",
+        "date": [],
+        "thematique": [
+            "technologie",
+            "santé",
+            "social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
+        "nom_fichier": "29_CARSAT_CENTRE-VAL_DE_LOIRE.txt"
+    },
+    {
+        "titre": "Aller vers DIGITAL SENIORS 28",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: personnes âgées de 60 ans et plus. Professionnels: professeurs, responsable du projet au sein de l'établissement qui accompagnent les lycéens dans le cadre de la mise en œuvre du projet.",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "Problématique non fournie",
+            "solution_envisagee": "Solution envisagée non fournie",
+            "objectifs": "Objectifs principaux non fournis"
+        },
+        "porteur_initiative": "association responsable de la gestion du Lycée Agricole Privé de Nermont",
+        "date": [],
+        "thematique": [
+            "technologie",
+            "santé"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\30_Aller_vers_DIGITAL_SENIORS_28.txt",
+        "nom_fichier": "30_Aller_vers_DIGITAL_SENIORS_28.txt"
+    },
+    {
+        "titre": "SENIORS A VEC LE BAILLEUR SOCIAL HÉRAULT LOGEMENT",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: locataires d’Hérault Logement. Professionnels: Hérault Logement / Cpts de Sète / CHU de Montpellier / ANCV / associations locales.",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "Face aux nouveaux enjeux liés aux retombées de la transition démographique, la Carsat ne cesse d’élargir ses prérogatives pour répondre au mieux aux défis du bien-vieillir.",
+            "solution_envisagee": "",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat du Languedoc-Roussillon",
+        "date": [],
+        "thematique": [
+            "Bien vieillir",
+            "Transition démographique"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt",
+        "nom_fichier": "31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt"
+    },
+    {
+        "titre": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Retraités: âgés de 68 ans en situation de précarité économique (exonérés de la CSG). Professionnels: auxiliaires de vie.",
+        "description": {
+            "description_generale": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
+            "contexte": "",
+            "problematique": "Les retraités âgés de 68 ans exonérés de la CSG sont souvent confrontés à des difficultés financières et sociales, ce qui peut affecter leur qualité de vie.",
+            "solution_envisagee": "Déployer un rendez-vous « Ma retraite accompagnée » pour les retraités âgés de 68 ans exonérés de CSG, en incluant notamment la réalisation de l’étape 1 du programme Icope. Cette solution vise à améliorer leur autonomie et leur bien-être.",
+            "objectifs": "Déployer un rendez-vous « Ma retraite accompagnée » auprès des retraités âgés de 68 ans exonérés de CSG, en incluant notamment la réalisation de l’étape 1 du programme Icope. Améliorer leur qualité de vie et leur autonomie."
+        },
+        "porteur_initiative": "Caisse nationale de l’Assurance retraite",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",
+        "nom_fichier": "32_Accompagner_les_plus_fragiles_et_precaires_dans.txt"
+    },
+    {
+        "titre": "Aide aux aidants TUTO'NOMIE",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: aidants. Autre: aidants de tous âges.",
+        "description": {
+            "description_generale": "Tuto'nomie est composé de tutoriels de vidéos gratuits, ludiques et éducatifs destinés à des aidants. Les informations données sur le bon geste à faire sont résolument pratiques et validées par un professionnel. Ils portent sur des thématiques trop complexes à aborder dans un tutoriel de quelques minutes.",
+            "contexte": "",
+            "problematique": "Les aidants, en particulier les personnes âgées, ont besoin d'aide pour gérer leur quotidien et peuvent rencontrer des difficultés lorsqu'ils essaient de soutenir leurs proches. Ils cherchent souvent des informations précises et pratiques.",
+            "solution_envisagee": "Rassurer et soutenir la gestion du quotidien en offrant des tutoriels vidéo courts, ludiques et éducatifs. Créer un lieu d'échanges et de réponses aux questions sur des thématiques complexes.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Humagogie",
+        "date": [],
+        "thematique": [
+            "Santé et bien-être",
+            "Aide aux aidants"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\33_Aide_aux_aidants_TUTONOMIE.txt",
+        "nom_fichier": "33_Aide_aux_aidants_TUTONOMIE.txt"
+    },
+    {
+        "titre": "ATALIER « BIENVENUE À LA RETRAITE » ADAPTÉ AU PUBLIC DES SALARIÉS ESAT",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Les salariés des ESAT proches du départ en retraite.",
+        "description": {
+            "description_generale": "Dans le cadre du déploiement des parcours « Bienvenue à la Retraite » (BAR), la Carsat a souhaité avoir une attention particulière auprès des salariés ESAT. En effet, ces salariés très encadrés durant toute leur activité professionnelle se retrouvent très dépourvu.",
+            "contexte": "",
+            "problematique": "Les salariés des ESAT proches du départ en retraite sont souvent confrontés à une transition difficile et complexe.",
+            "solution_envisagee": "L'organisation d'ateliers adaptés aux spécificités de ces salariés, avec un accompagnement personnalisé.",
+            "objectifs": "Accompagner le passage à la retraite de publics potentiellement très fragilisés par ce changement de statut et mutualiser les ateliers à l'échelle départementale pour disposer d'une meilleure couverture."
+        },
+        "porteur_initiative": "Carsat Normandie et NEOSILVER",
+        "date": [],
+        "thematique": [
+            "Retraite",
+            "Accompagnement social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\34_ATELIER_BIENVENUE_A_LA_RETRAITE_ADAPTE_AU_PUBLI.txt",
+        "nom_fichier": "34_ATELIER_BIENVENUE_A_LA_RETRAITE_ADAPTE_AU_PUBLI.txt"
+    },
+    {
+        "titre": "Aller vers ALLER VERS",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités isolés. Professionnels en charge du repérage. Professionnels en charge de la prise en charge. Autre: Institut Transdisciplinaire des Études du Vieillissement pour l’appui méthodologique. Autre: en articulation avec les Conseils départementaux engagés dans la démarche initiée par la C.N.S.A visant à prévenir",
+        "description": {
+            "description_generale": "",
+            "contexte": "",
+            "problematique": "Les retraitsés isolés et les professionnels impliqués dans le repérage et la prise en charge de leurs besoins rencontrent des difficultés pour accéder aux services adaptés.",
+            "solution_envisagee": "La mise en place d'un réseau de partenaires coordonnant l'offre de services vers ces retraitsés",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat du Languedoc-Roussillon",
+        "date": [],
+        "thematique": [
+            "Santé et bien-être",
+            "Social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.txt",
+        "nom_fichier": "35_Aller_vers_ALLER_VERS.txt"
+    },
+    {
+        "titre": "UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités accompagnés par Les Petits frères des Pauvres",
+        "description": {
+            "description_generale": "Un parcours spécifique a été créé pour proposer un cycle d'ateliers adaptés aux retraités fragilisés et isolés, afin de leur dispenser des conseils de prévention dans un environnement sécurisé.",
+            "contexte": "",
+            "problematique": "Les retraités accompagnés par les Petits Frères des Pauvres sont des personnes fragilisées, isolées qui n'arrivent pas à s'intégrer dans des parcours de prévention classiques.",
+            "solution_envisagee": "La création d'un parcours spécifique avec un cycle d'ateliers adaptés pour dispenser des conseils de prévention dans un environnement sécurisé.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat Bretagne, pôle des actions collectives de prévention de l’ASR. Partenaire(s): Petits Frères des Pauvres, Brain Up",
+        "date": [],
+        "thematique": [
+            "prévention",
+            "santé publique"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
+        "nom_fichier": "36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt"
+    },
+    {
+        "titre": "SEMAINE NATIONALE DE LUTTE CONTRE LA DÉNUTRITION DES SENIORS",
+        "territoire": "",
+        "echelle": [
+            "nationale"
+        ],
+        "public_vise": "Professionnel intervenant au domicile des personnes âgées: structure évaluatrice (SAAS), structures conventionnées: aides ménagères, auxiliaires de vie, porteurs de repas",
+        "description": {
+            "description_generale": "Formation des professionnels pour lutter contre la dénutrition chez les seniors.",
+            "contexte": "",
+            "problematique": "La dénutrition chez les personnes âgées",
+            "solution_envisagee": "Formation des professionnels à domicile",
+            "objectifs": "Permettre aux professionnels de: acquérir des notions de base sur le vieillissement humain et des notions pratiques pour la prévention de la dénutrition."
+        },
+        "porteur_initiative": "le service Action Sociale Retraite",
+        "date": [],
+        "thematique": [
+            "santé",
+            "nutrition",
+            "vieillissement"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.txt",
+        "nom_fichier": "37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.txt"
+    },
+    {
+        "titre": "EN ACCOMPAGNANT NOS PARTENAIRES DE L ’ ACTION SOCIALE",
+        "territoire": "",
+        "echelle": [
+            "intercommunale"
+        ],
+        "public_vise": "Professionnels: eacteurs associatifs, bailleurs sociaux, bénévoles Petits Frères des Pauvres, Salariés des Clics et des Centres sociaux, structures évaluatrices",
+        "description": {
+            "description_generale": "Promotion de l’offre de service et diffusion de la culture de la prévention en accompagnant nos partenaires de l'action sociale.",
+            "contexte": "",
+            "problematique": "Faire connaitre l'ensemble de notre offre de services bien-vieillir à nos partenaires en contact direct avec des publics retraités potentiellement fragiles dans une optique de Préservation de l’Autonomie et d'accès aux droits.",
+            "solution_envisagee": "Faire connaitre l'ensemble de notre offre de services bien-vieillir à nos partenaires en contact direct avec des publics retraités potentiellement fragiles dans une optique de Préservation de l’Autonomie et d'accès aux droits.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Carsat Auvergne",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\38_EN_ACCOMPAGNANT_NOS_PARTENAIRES_DE_L_ACTION_SOC.txt",
+        "nom_fichier": "38_EN_ACCOMPAGNANT_NOS_PARTENAIRES_DE_L_ACTION_SOC.txt"
+    },
+    {
+        "titre": "CINÉ-DÉBAT « A V ANT J’ÉTAIS VIEUX… »",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Personnes prochainement retraitées et récemment retraitées (période de transition entre vie professionnelle et vie à la retraite).",
+        "description": {
+            "description_generale": "Cela consiste en l’organisation de projections de la captation du spectacle musical « Avant j’étais vieux » (financé par la Carsat Aquitaine) dans des salles de cinéma.",
+            "contexte": "",
+            "problematique": "Les personnes prochainement ou récemment retraitées se trouvent face à une transition importante vers leur vie à la retraite, ce qui peut engendrer diverses inquiétudes et interrogations.",
+            "solution_envisagee": "L’organisation de projections de spectacle musical pour permettre aux personnes de mieux appréhender leurs futurs projets de vie en évoquant les sujets liés au vieillissement (vie sociale/familiale, santé, habitat) de manière ludique et accessible.",
+            "objectifs": "Permettre aux personnes d’envisager leur projet de vie à la retraite de manière ludique et accessible, tout en abordant des sujets liés au vieillissement."
+        },
+        "porteur_initiative": "Porteur(s) de la pépite: Carsat Aquitaine. Partenaire(s): MSA, ASEPT, structures locales (mairie, CCAS, cinéma), Société de production Ugo&Play.",
+        "date": [],
+        "thematique": [
+            "vieillissement",
+            "retraite"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\39_CINE-DEBAT_A_V_ANT_JETAIS_VIEUX.txt",
+        "nom_fichier": "39_CINE-DEBAT_A_V_ANT_JETAIS_VIEUX.txt"
+    },
+    {
+        "titre": "SPECTACLE « VIVRE SA RETRAITE AVEC HUMOUR »",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: personne autonome (GIR 5/6) de plus de 55 ans.",
+        "description": {
+            "description_generale": "SPECTACLE « VIVRE SA RETRAITE AVEC HUMOUR »",
+            "contexte": "LES ACTEURS Porteur(s) de la pépite: Atout Age Alsace / groupe MSA Services (La Carsat Alsace-Moselle est membre de l’association interrégime Atout Age Alsace). Partenaire(s): Carsat, MSA, CNRACL, CAMIEG, IRCANTEC, Mutualia, Générations Mouvement, Conférence des Financeurs, CAAA et CEA.",
+            "problematique": "LA FINALITÉ • Inciter les bénéficiaires à s’inscrire dans une activité organisée par des associations locales. • Informer et sensibiliser les seniors sur le bien-vieillir au cours d'un moment divertissant et plaisant: le théâtre. • Provoquer un questionnement personnel, une prise de conscience sur son propre rapport au vieillissement.",
+            "solution_envisagee": "",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Atout Age Alsace / groupe MSA",
+        "date": [],
+        "thematique": [
+            "vieillissement",
+            "santé publique"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\40_SPECTACLE_VIVRE_SA_RETRAITE_A_VEC_HUMOUR.txt",
+        "nom_fichier": "40_SPECTACLE_VIVRE_SA_RETRAITE_A_VEC_HUMOUR.txt"
+    },
+    {
+        "titre": "SPECTACLE « PLUS JAMAIS SEULE »",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités: tout régime sur un bassin de vie ciblé (isolé). Professionnels: les associations et structures œuvrant sur le territoire.",
+        "description": {
+            "description_generale": "SPECTACLE « PLUS JAMAIS SEULE »",
+            "contexte": "",
+            "problematique": "Les situations d’isolement des retraités, notamment ceux isolés ou peu pourvus en réseaux de bénévolats.",
+            "solution_envisagee": "Proposer une action évoquant les situations d'isolement sous forme conviviale (théâtre-débat) et promouvoir/développer des réseaux de bénévolats sur des territoires peu ou pas pourvus.",
+            "objectifs": ""
+        },
+        "porteur_initiative": "Malakoff Humanis et Carsat Bretagne",
+        "date": [],
+        "thematique": [
+            "Santé",
+            "Social"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\41_SPECTACLE_PLUS_JAMAIS_SEULE.txt",
+        "nom_fichier": "41_SPECTACLE_PLUS_JAMAIS_SEULE.txt"
+    },
+    {
+        "titre": "Zoom sur les spectacles CARSAT AQUITAINE",
+        "territoire": "",
+        "echelle": [
+            "communale"
+        ],
+        "public_vise": "Retraités, particulièrement le public des retraités (aidés, aidants familiaux et leurs familles) vivant à domicile. Professionnels: les structures d’aides à domicile",
+        "description": {
+            "description_generale": "Zoom sur les spectacles organisés par Carsat Aquitaine.",
+            "contexte": "",
+            "problematique": "La participation des retraités aux activités culturelles peut être limitée en raison de facteurs tels que la disponibilité du temps, l’absence d’aménagement pour les personnes à mobilité réduite et le manque de connaissances sur les spectacles proposés.",
+            "solution_envisagee": "Organisation de spectacles adaptés aux retraités dans des lieux accessibles et avec un contenu adapté à leur âge et leurs intérêts.",
+            "objectifs": "Promouvoir la culture auprès du public cible, améliorer l’accessibilité des spectacles pour les personnes âgées et aider à maintenir une connexion sociale."
+        },
+        "porteur_initiative": "Carsat Aquitaine, service risques professionnels et action sanitaire et sociale",
+        "date": [],
+        "thematique": [
+            "Culture",
+            "Santé publique",
+            "Aide aux personnes âgées"
+        ],
+        "source_site": "CNAV",
+        "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
+        "nom_fichier": "42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt"
     }
 ]

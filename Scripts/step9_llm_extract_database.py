@@ -7,13 +7,13 @@ from tqdm import tqdm
 
 PROJECT_ROOT = Path(r"C:\Users\PC\Desktop\Project_Internship\Index_Insight")
 
-INPUT_DIR = PROJECT_ROOT / "Cleaned_Database"
+INPUT_DIR = PROJECT_ROOT / "Cleaned_Database" / "Cnav_database"
 OUTPUT_DIR = PROJECT_ROOT / "LLM_Tagged_Database"
 
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
 MODEL = "qwen2.5:3b"
 
-MAX_FILES = 5
+MAX_FILES = None
 MAX_CHARS = 800
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -237,7 +237,10 @@ def process_file(txt_path: Path) -> dict:
     return final_record
 
 def main():
-    txt_files = list(INPUT_DIR.rglob("*.txt"))[:MAX_FILES]
+    txt_files = list(INPUT_DIR.rglob("*.txt"))
+
+    if MAX_FILES:
+        txt_files = txt_files[:MAX_FILES]
 
     if not txt_files:
         print(f"Aucun fichier .txt trouvé dans : {INPUT_DIR}")
@@ -277,6 +280,7 @@ def main():
     print("\nTerminé")
     print(f"Fichier global : {global_output}")
     print(f"Réponses brutes : {OUTPUT_DIR / '_raw_responses'}")
+    print(f"{len(txt_files)} fichiers traités")
 
 if __name__ == "__main__":
     main()
