@@ -7,26 +7,15 @@ from tqdm import tqdm
 
 PROJECT_ROOT = Path(r"C:\Users\PC\Desktop\Project_Internship\Index_Insight")
 
-INPUT_DIR = PROJECT_ROOT / "Cleaned_Database" / "Cnav_database"
-OUTPUT_DIR = PROJECT_ROOT / "LLM_Tagged_Database"
+INPUT_DIR = PROJECT_ROOT / "Cleaned_Database" / "Hcfea_database"
+OUTPUT_DIR = PROJECT_ROOT / "LLM_Tagged_Database" / "Hcfea_database"
 
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
 MODEL = "qwen2.5:3b"
 
-MAX_FILES = None
 MAX_CHARS = 800
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-SOURCE_MAPPING = {
-    "Cnav_database": "CNAV",
-    "cnsa_database": "CNSA",
-    "FdF_database": "Fondation de France",
-    "Fiches_actions_database": "Fiches actions",
-    "Hcfea_database": "HCFEA",
-    "iresp_autonomie_database": "IRESP Autonomie",
-    "Vada_database": "VADA"
-}
 
 EXPECTED_KEYS = [
     "titre",
@@ -43,12 +32,6 @@ EXPECTED_KEYS = [
     "thematique",
     "source_site"
 ]
-
-def detect_source_site(txt_path: Path) -> str:
-    for part in txt_path.parts:
-        if part in SOURCE_MAPPING:
-            return SOURCE_MAPPING[part]
-    return ""
 
 def empty_record(source_site: str) -> dict:
     return {
@@ -220,7 +203,7 @@ def rebuild_nested_description(record: dict) -> dict:
 
 def process_file(txt_path: Path) -> dict:
     text = txt_path.read_text(encoding="utf-8", errors="ignore")[:MAX_CHARS]
-    source_site = detect_source_site(txt_path)
+    source_site = "HCFEA"
 
     prompt = build_prompt(text, source_site)
     response_text = call_ollama(prompt)
@@ -239,27 +222,29 @@ def process_file(txt_path: Path) -> dict:
 def main():
     txt_files = list(INPUT_DIR.rglob("*.txt"))
 
-    if MAX_FILES:
-        txt_files = txt_files[:MAX_FILES]
-
     if not txt_files:
         print(f"Aucun fichier .txt trouvé dans : {INPUT_DIR}")
         return
 
-    print(f"{len(txt_files)} fichiers test")
+    print(f"{len(txt_files)} fichier(s) trouvé(s)")
     print(f"Modèle : {MODEL}")
 
     results = []
 
-    for txt_file in tqdm(txt_files, desc="LLM extraction", unit="fichier"):
+    for txt_file in tqdm(txt_files, desc="LLM extraction HCFEA", unit="fichier"):
         try:
+            relative_path = txt_file.relative_to(INPUT_DIR)
+            output_file = OUTPUT_DIR / relative_path.with_suffix(".json")
+
+            if output_file.exists():
+                tqdm.write(f"Déjà traité, ignoré : {txt_file.name}")
+                continue
+
             tqdm.write(f"→ {txt_file.name}")
 
             data = process_file(txt_file)
             results.append(data)
 
-            relative_path = txt_file.relative_to(INPUT_DIR)
-            output_file = OUTPUT_DIR / relative_path.with_suffix(".json")
             output_file.parent.mkdir(parents=True, exist_ok=True)
 
             with output_file.open("w", encoding="utf-8") as f:
@@ -272,7 +257,7 @@ def main():
 
         time.sleep(0.3)
 
-    global_output = OUTPUT_DIR / "all_llm_test.json"
+    global_output = OUTPUT_DIR / "all_hcfea_llm.json"
 
     with global_output.open("w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
@@ -280,7 +265,6 @@ def main():
     print("\nTerminé")
     print(f"Fichier global : {global_output}")
     print(f"Réponses brutes : {OUTPUT_DIR / '_raw_responses'}")
-    print(f"{len(txt_files)} fichiers traités")
 
 if __name__ == "__main__":
     main()
