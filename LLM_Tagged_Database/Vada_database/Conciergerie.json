@@ -1,0 +1,27 @@
+{
+    "titre": "Conciergerie",
+    "territoire": "",
+    "echelle": [
+        "commune"
+    ],
+    "public_vise": "32 000 personnes vivant en dessous du seuil de pauvreté ou 20% au-dessus",
+    "description": {
+        "description_generale": "Création d'une conciergerie sociale et solidaire par le CCAS d'Amiens pour redonner du pouvoir d’achat à la population.",
+        "contexte": "",
+        "problematique": "La pauvreté et l'accès aux services essentiels",
+        "solution_envisagee": "Création d'une conciergerie sociale et solidaire offrant des solutions gratuites ou à coûts très modiques pour 64 services dans 10 domaines d'activité.",
+        "objectifs": "Atteindre 300 bénévoles"
+    },
+    "porteur_initiative": "CCAS d'Amiens",
+    "date": [],
+    "thematique": [
+        "santé",
+        "éducation",
+        "emploi",
+        "logement",
+        "pouvoir d’achat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conciergerie.txt",
+    "nom_fichier": "Conciergerie.txt"
+}

@@ -1,0 +1,26 @@
+{
+    "titre": "Séjours Seniors",
+    "territoire": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "personnes âgées isolées et/ou en perte d'autonomie",
+    "description": {
+        "description_generale": "Organisation de séjours seniors par le service seniors de la ville pour les personnes âgées isolées et/ou en perte d'autonomie.",
+        "contexte": "Dans le cadre du programme ANCV seniors, un premier séjour a eu lieu en 2022 avec 16 participants, suivi d'un second séjour en mars 2023 avec 14 participants.",
+        "problematique": "Isolation et perte d'autonomie des personnes âgées",
+        "solution_envisagee": "Organisation de séjours seniors pour offrir une présence sociale et améliorer la qualité de vie des participants",
+        "objectifs": "Renforcement du lien social, soutien aux personnes âgées isolées et/ou en perte d'autonomie, amélioration de leur bien-être."
+    },
+    "porteur_initiative": "Service seniors de la ville",
+    "date": [
+        "2022",
+        "mars 2023"
+    ],
+    "thematique": [
+        "Solidarité et lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejours_Seniors.txt",
+    "nom_fichier": "Sejours_Seniors.txt"
+}

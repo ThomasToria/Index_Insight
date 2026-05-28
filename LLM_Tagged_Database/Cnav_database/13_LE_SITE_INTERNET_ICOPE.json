@@ -4,19 +4,23 @@
     "echelle": [
         "nationale"
     ],
-    "public_vise": "Aides individuelles",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "outil numérique",
     "description": {
-        "description_generale": "Le site internet ICOPE est mis à disposition des retraités, aidants et professionnels du domicile pour promouvoir une culture de prévention en matière de santé.",
-        "contexte": "",
-        "problematique": "La diffusion d'une culture de prévention auprès du grand public, des professionnels du domicile et des professionnels de santé est un défi majeur.",
-        "solution_envisagee": "Le site internet ICOPE vise à faciliter cette diffusion en rendant le programme de prévention ICOPE accessible via l'Assurance retraite et l'IHU HealthAge de Toulouse.",
-        "objectifs": "Promouvoir une culture de prévention auprès du grand public, des professionnels du domicile et des professionnels de santé; Diffuser les informations sur le programme de prévention ICOPE."
+        "description_generale": "Ce site internet met à disposition le programme Icope, un programme innovant de prévention de l'Organisation mondiale de la santé (OMS) visant à maintenir les capacités essentielles des personnes âgées.",
+        "contexte": "Le programme Icope a été développé depuis 2019 par le centre collaborateur de l’OMS sur la fragilité du CHU de Toulouse, en lien avec l'Organisation mondiale de la santé (OMS). Il s'adresse à toute personne de 60 ans et plus.",
+        "problematique": "La diffusion des informations sur le programme Icope reste éparses et difficilement accessibles au grand public.",
+        "solution_envisagee": "Le site internet a pour objectif de délivrer une information simple, fiable et complète sur le programme Icope, ainsi que les messages clés pour préserver les capacités essentielles des personnes âgées.",
+        "objectifs": ""
     },
-    "porteur_initiative": "Caisse nationale de l’Assurance retraite, IHU HealthAge de Toulouse",
-    "date": [],
+    "porteur_initiative": "Caisse nationale de l’Assurance retraite, IHU Health Age de Toulouse",
+    "date": [
+        "14 décembre 2023"
+    ],
     "thematique": [
         "santé",
-        "prévention"
+        "numérique",
+        "intergénérationnel"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\13_LE_SITE_INTERNET_ICOPE.txt",

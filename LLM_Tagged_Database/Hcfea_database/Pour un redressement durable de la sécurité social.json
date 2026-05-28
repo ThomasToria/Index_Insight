@@ -4,21 +4,23 @@
     "echelle": [
         "nationale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Rapport remis au Premier ministre le 2 juillet 2025 suite à la saisine du HCaam, du HCFEA et du HCFiPS",
         "contexte": "",
-        "problematique": "La sécurité sociale nécessite un redressement durable",
-        "solution_envisagee": "Rapport remis au Premier ministre pour une solution à la sécurité sociale",
-        "objectifs": "Solutions proposées pour le redressement de la sécurité sociale"
+        "problematique": "Contexte financier préoccupant dans lequel la sécurité sociale évolue",
+        "solution_envisagee": "",
+        "objectifs": ""
     },
-    "porteur_initiative": "Gouvernement",
+    "porteur_initiative": "",
     "date": [
-        "2025-07-03"
+        "2025-06"
     ],
     "thematique": [
-        "sécurité sociale",
-        "restructuration"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Pour un redressement durable de la sécurité social.txt",

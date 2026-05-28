@@ -4,23 +4,23 @@
     "echelle": [
         "nationale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "rapport",
     "description": {
-        "description_generale": "Rapport qui propose des stratégies pour soutenir l'autonomie des personnes âgées jusqu'en 2030.",
-        "contexte": "Le rapport est produit dans le cadre d'une collaboration entre HCaam et Conseil de l'âge",
-        "problematique": "La dépendance croissante des personnes âgées et la nécessité de maintenir leur autonomie à long terme",
-        "solution_envisagee": "Propositions de soutien aux personnes âgées, y compris services d'aide à domicile, d'hébergement et de soins infirmiers",
-        "objectifs": "Maintenir l'autonomie des personnes âgées jusqu'en 2030, réduire la dépendance et améliorer leur qualité de vie"
+        "description_generale": "Ce rapport a été réalisé dans le cadre d’une cosaisine du HCaam et du Conseil de l'âge du HCFEA par la ministre des Solidarités et de la Santé, Agnès Buzyn.",
+        "contexte": "",
+        "problematique": "La demande de soins et le nombre de personnes ayant un besoin d'aide à l'autonomie augmenteront sous l'effet des évolutions démographiques (+19% d’individus de plus de 85 ans) et épidémiologiques; l’accompagnement des personnes atteintes de troubles cognitifs restera un défi majeur des prochaines années;",
+        "solution_envisagee": "",
+        "objectifs": ""
     },
-    "porteur_initiative": "HCFEA",
+    "porteur_initiative": "",
     "date": [
-        "7 novembre 2018",
-        "07/01/2019"
+        "2019"
     ],
     "thematique": [
-        "santé publique",
-        "inclusion sociale",
-        "recherche et innovation"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le soutien à l'autonomie des personnes âgées à l'h.txt",

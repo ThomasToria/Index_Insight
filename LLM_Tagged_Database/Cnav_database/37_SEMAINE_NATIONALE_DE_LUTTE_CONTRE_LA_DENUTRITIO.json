@@ -4,20 +4,22 @@
     "echelle": [
         "nationale"
     ],
-    "public_vise": "Professionnel intervenant au domicile des personnes âgées: structure évaluatrice (SAAS), structures conventionnées: aides ménagères, auxiliaires de vie, porteurs de repas",
+    "public_vise": "professionnels",
+    "nature_initiative": "formation",
     "description": {
-        "description_generale": "Formation des professionnels pour lutter contre la dénutrition chez les seniors.",
-        "contexte": "",
-        "problematique": "La dénutrition chez les personnes âgées",
-        "solution_envisagee": "Formation des professionnels à domicile",
-        "objectifs": "Permettre aux professionnels de: acquérir des notions de base sur le vieillissement humain et des notions pratiques pour la prévention de la dénutrition."
+        "description_generale": "La CGSS a organisé une formation à destination des intervenants au domicile des personnes âgées sur la dénutrition et ses enjeux, avec l'Association Société de Gériatrie et de Gérontologie de la Guadeloupe.",
+        "contexte": "Organisée dans le cadre de la 3e édition de la Semaine de la dénutrition, cette formation a permis aux professionnels d'apprendre des notions pratiques sur la dénutrition et ses enjeux.",
+        "problematique": "Le besoin de renforcer les connaissances des professionnels intervenant à domicile sur la dénutrition et son impact sur la santé des personnes âgées.",
+        "solution_envisagee": "La formation a permis aux professionnels d'acquérir des notions théoriques et pratiques pour prévenir et gérer la dénutrition chez les personnes âgées.",
+        "objectifs": "Permettre aux professionnels de: acquérir des notions de base sur le vieillissement humain, la prévention de la perte d'autonomie, les besoins nutritionnels de base de la Personne âgée, l'aspect de repérage de la dénutrition et les moyens de prise en charge au domicile."
     },
-    "porteur_initiative": "le service Action Sociale Retraite",
-    "date": [],
+    "porteur_initiative": "Service Action Sociale Retraite",
+    "date": [
+        "21 novembre 2022"
+    ],
     "thematique": [
         "santé",
-        "nutrition",
-        "vieillissement"
+        "lien social"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.txt",

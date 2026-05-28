@@ -1,22 +1,24 @@
 {
-    "titre": "CARSAT BOURGOGNE-FRANCHE-COMTÉ",
+    "titre": "CARSAT BOURGOGNE-FRANCE-COMTÉ",
     "territoire": "",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "Retraités: de plus de 60 ans. Autre: dispositif à caractère intergénérationnel.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Le parcours équilibre est un dispositif de mobilier urbain, en libre accès, qui permet de travailler la fonction d‘équilibration à tout moment.",
-        "contexte": "",
-        "problematique": "prévenir les chutes",
-        "solution_envisagee": "Le parcours équilibre",
-        "objectifs": "réassurer la stabilité posturale; contribuer au renforcement musculaire et à l'amélioration de l'équilibre."
+        "description_generale": "Le parcours équilibre est un dispositif de mobilier urbain en libre accès qui permet de travailler la fonction d'équilibration à tout moment. Il remplit plusieurs objectifs intermédiaires : réassurer la stabilité posturale, contribuer au renforcement musculaire, encourager les personnes à pratiquer une activité physique de façon régulière et pérenne, développer et entretenir le lien social.",
+        "contexte": "Le parcours équilibre a trouvé son origine dans les ateliers de prévention des chutes. Le projet est travaillé en concertation avec les associations de quartier, la ville de Dijon et la Carsat.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Le parcours équilibre est un dispositif de mobilier urbain qui permet de travailler la fonction d'équilibration à tout moment. Il comprend des agrès pour réaliser différents exercices, tels que le flamant rose, les sables mouvants, les escaliers, les talons-pointes, etc.",
+        "objectifs": ""
     },
-    "porteur_initiative": "Carsat Bourgogne-Franche-Comté, MSA Bourgogne. Porteur(s) de la pépite: Carsat Bourgogne-Franche-Comté, MSA Bourgogne. Partenaire(s): association Fapa seniors 21, ville de Dijon, ville de Semur en Auxois, ville de Talant (via ECLAT), CHU de Dijon.",
+    "porteur_initiative": "Carsat Bourgogne-Franche-Comté",
     "date": [],
     "thematique": [
-        "santé publique",
-        "mobilité"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\27_CARSAT_BOURGOGNE-FRANCHE-COMTE.txt",

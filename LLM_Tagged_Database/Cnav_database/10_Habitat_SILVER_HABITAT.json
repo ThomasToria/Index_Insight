@@ -2,22 +2,25 @@
     "titre": "Habitat SILVER HABITAT",
     "territoire": "",
     "echelle": [
-        "intercommunale",
-        "départementale"
+        "nationale"
     ],
-    "public_vise": "Les porteurs de projets d'habitat senior (bailleurs sociaux, CCAS, Communes)",
+    "public_vise": "professionnels",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Un appel à idées nommé « Silver Habitat » a été lancé auprès d’architectes, paysagistes, urbanistes, économistes, afin d’apporter de l’innovation et d’enrichir l’offre habitat des seniors. Les travaux rendus sont valorisés dans le livre blanc.",
-        "contexte": "",
-        "problematique": "L'absence de détails sur la problématique spécifique n'est pas fournie ici.",
-        "solution_envisagee": "La valorisation des travaux réalisés par les équipes pluridisciplinaires en s’inspirant de sites réels pour enrichir l’offre d'habitat senior.",
-        "objectifs": "Inspérer les porteurs de projets par de nouveaux concepts d'habitat senior et diversifier l'offre d'habitat pour les seniors."
+        "description_generale": "Un appel à idées nommé « Silver Habitat » a été lancé auprès d'architectes, paysagistes, urbanistes, économistes afin d'apporter de l'innovation et d'enrichir l'offre habitat des seniors. Les travaux rendus sont valorisés dans un ouvrage intitulé « réinventer les lieux de vie collectifs de demain », et sur le site de la Carsat Normandie, une source d'inspiration pour les futurs porteurs de projets.",
+        "contexte": "L’ouvrage est diffusé à l’échelle de la Normandie, et auprès d’institutions ou de partenaires nationaux. Plus d’informations sur Réinventer les lieux de vie des seniors de demain.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Lancement d’un appel à idées pour inspirer les porteurs de projets par de nouveaux concepts d'habitat senior et enrichir l’offre de l'habitat pour les seniors.",
+        "objectifs": ""
     },
-    "porteur_initiative": "Carsat Normandie et les CAUE normands, avec la participation de VAA conseils – Anne LABBIT.",
-    "date": [],
+    "porteur_initiative": "Carsat Normandie et les CAUE normands, avec le concours de VAA conseils – Anne LABBIT.",
+    "date": [
+        "octobre 2021"
+    ],
     "thematique": [
-        "Habitat",
-        "Seniors"
+        "habitat",
+        "lien social",
+        "prévention"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\10_Habitat_SILVER_HABITAT.txt",

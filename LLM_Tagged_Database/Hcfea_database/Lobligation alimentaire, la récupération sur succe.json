@@ -1,23 +1,26 @@
 {
-    "titre": "L’obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l’aide sociale à l’hébergement",
+    "titre": "L'obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l'aide sociale à l'hébergement",
     "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "autre",
+    "nature_initiative": "rapport",
     "description": {
-        "description_generale": "Rapport qui détaille les obligations alimentaires, la récupération sur succession et leur application dans le contexte de l'aide sociale à l'hébergement.",
-        "contexte": "Le rapport traite des nouvelles dispositions législatives concernant l'allocation d'aide sociale à l'hébergement (ASH) basées sur les obligations alimentaires et la récupération sur succession.",
-        "problematique": "La mise en œuvre efficace de ces nouvelles règles dans le cadre de l’aide sociale à l’hébergement pose des défis, notamment en termes de reconnaissance juridique et d’application pratique.",
-        "solution_envisagee": "Le rapport propose une série de recommandations pour améliorer la mise en œuvre de ces nouvelles dispositions législatives.",
-        "objectifs": "Amélioration de l'efficacité de l'aide sociale à l'hébergement, reconnaissance juridique des obligations alimentaires et récupération sur succession dans le cadre de l’aide sociale, simplification administrative."
+        "description_generale": "Rapport adopté par les membres le 9 juillet 2020",
+        "contexte": "Les personnes âgées bénéficient de l'aide sociale à l'hébergement (ASH) malgré la modestie de leurs ressources. Cette aide subsidiaire est récupérée sur l'actif net de la succession ou sur les donataires au décès du résident.",
+        "problematique": "Les personnes âgées doivent solliciter leurs enfants pour bénéficier de l'aide sociale à l'hébergement, ce qui peut entraîner des contraintes et une renonciation à l'entrée en Ehpad. Les contempteurs soulignent également que l'ASH se situe en marge du mouvement historique de constitution de droits sociaux directs et personnels.",
+        "solution_envisagee": "",
+        "objectifs": ""
     },
-    "porteur_initiative": "Gouvernement",
+    "porteur_initiative": "",
     "date": [
-        "2020-07-09"
+        "20/07/2020"
     ],
     "thematique": [
-        "Aide sociale à l'hébergement",
-        "Obligation alimentaire",
-        "Récupération sur succession"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.txt",

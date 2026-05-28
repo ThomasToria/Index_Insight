@@ -1,7 +1,6 @@
 from pathlib import Path
 import json
 import re
-import time
 import requests
 from tqdm import tqdm
 
@@ -11,17 +10,29 @@ INPUT_DIR = PROJECT_ROOT / "Cleaned_Database" / "Hcfea_database"
 OUTPUT_DIR = PROJECT_ROOT / "LLM_Tagged_Database" / "Hcfea_database"
 
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
-MODEL = "qwen2.5:3b"
+MODEL = "qwen2.5:1.5b"
 
-MAX_CHARS = 800
+MAX_CHARS = 2500
+OVERWRITE_EXISTING = True
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+SOURCE_SITE_MAP = {
+    "Vada_database": "VADA",
+    "Cnav_database": "CNAV",
+    "cnsa_database": "CNSA",
+    "FdF_database": "Fondation de France",
+    "Fiches_actions_database": "Fiches actions",
+    "Hcfea_database": "HCFEA",
+    "iresp_autonomie_database": "IRESP"
+}
 
 EXPECTED_KEYS = [
     "titre",
     "territoire",
     "echelle",
     "public_vise",
+    "nature_initiative",
     "description_generale",
     "contexte",
     "problematique",
@@ -33,12 +44,16 @@ EXPECTED_KEYS = [
     "source_site"
 ]
 
+def get_source_site(txt_path: Path) -> str:
+    return "HCFEA"
+
 def empty_record(source_site: str) -> dict:
     return {
         "titre": "",
         "territoire": "",
         "echelle": [],
-        "public_vise": "",
+        "public_vise": "public non connu",
+        "nature_initiative": "",
         "description_generale": "",
         "contexte": "",
         "problematique": "",
@@ -68,6 +83,7 @@ Structure obligatoire :
   "territoire": "",
   "echelle": [],
   "public_vise": "",
+  "nature_initiative": "",
   "description_generale": "",
   "contexte": "",
   "problematique": "",
@@ -79,14 +95,100 @@ Structure obligatoire :
   "source_site": "{source_site}"
 }}
 
-Règles :
+Règles générales :
 - N'invente rien.
-- Si une information est absente, mets "" ou [].
+- Tu peux déduire une information seulement si elle est fortement implicite dans le texte.
+- Si une information est absente ou impossible à déduire clairement, mets "" ou [].
 - source_site doit être exactement "{source_site}".
-- echelle doit contenir seulement : quartier, communale, intercommunale, départementale, régionale, nationale, internationale.
-- date doit être une liste.
-- thematique doit être une liste.
+
+Règles pour "public_vise" :
+- public_vise doit contenir une seule valeur parmi :
+  "ainés",
+  "ainés et autres",
+  "professionnels",
+  "autre",
+  "public non connu".
+- Utilise "ainés" si le texte vise principalement des personnes âgées, seniors, retraités, résidents d’EHPAD ou aînés.
+- Utilise "ainés et autres" si les personnes âgées sont concernées avec d’autres publics : familles, aidants, grand public, professionnels, voisins, scolaires, etc.
+- Utilise "professionnels" si le texte vise principalement des agents, services techniques, établissements, responsables, soignants ou autres professionnels.
+- Utilise "autre" si le public est identifiable mais ne correspond pas aux catégories précédentes.
+- Utilise "public non connu" si le public n’est pas identifiable.
+
+Règles pour "nature_initiative" :
+- Indique la nature principale de l’initiative.
+- Exemples possibles :
+  "atelier",
+  "formation",
+  "sensibilisation",
+  "enquête",
+  "rapport",
+  "outil numérique",
+  "événement",
+  "action intergénérationnelle",
+  "accompagnement",
+  "dispositif",
+  "publication",
+  "autre".
+- Si plusieurs natures sont possibles, choisis la plus représentative.
+
+Règles pour "echelle" :
 - echelle doit être une liste.
+- echelle doit contenir seulement :
+  "quartier",
+  "communale",
+  "intercommunale",
+  "départementale",
+  "régionale",
+  "nationale",
+  "internationale".
+- Si le texte mentionne une ville ou une commune, utilise "communale".
+- Si le texte mentionne une métropole, une intercommunalité ou plusieurs communes, utilise "intercommunale".
+- Si le texte mentionne un département, utilise "départementale".
+- Si le texte mentionne une région, utilise "régionale".
+- Si le texte mentionne une portée nationale ou un organisme national, utilise "nationale".
+
+Règles pour "date" :
+- date doit être une liste.
+- Repère toutes les dates explicites, même approximatives.
+- Conserve les formulations temporelles utiles telles qu’elles apparaissent dans le texte.
+- Exemples acceptés :
+  ["2019"],
+  ["depuis 2019"],
+  ["mars 2016"],
+  ["fin janvier 2025"],
+  ["25/01/2018"],
+  ["19 mai 2017"].
+- Ne transforme pas forcément les dates approximatives en format ISO.
+- Si le texte dit "disponible depuis 2019", la date doit contenir "depuis 2019".
+- Si le texte dit "enquête lancée fin janvier", la date doit contenir "fin janvier" ou "fin janvier 2025" si l’année est déductible.
+
+Règles pour "porteur_initiative" :
+- Identifie l’acteur qui porte, organise, lance, pilote ou met en œuvre l’initiative.
+- Si le texte indique qu’un EHPAD, une résidence, une association, une ville, une métropole, une caisse ou une fondation organise l’action, utilise cet acteur.
+- Exemple : si le texte indique que l’action concerne les 30 ans de l’EHPAD « La Résidence de l’Ille » et que la direction/personnel de l’établissement organise la journée, le porteur peut être "EHPAD La Résidence de l’Ille".
+- Ne laisse vide que si aucun porteur n’est identifiable ou fortement déductible.
+
+Règles pour "problematique" :
+- La problématique doit exprimer le problème, besoin ou enjeu auquel répond l’initiative.
+- Elle peut être déduite à partir des objectifs, du contexte ou des obstacles mentionnés.
+- Ne recopie pas seulement l’objectif si une problématique peut être formulée.
+- Exemple : pour une action autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents, une problématique possible est :
+  "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale."
+
+Règles pour "thematique" :
+- thematique doit être une liste.
+- Utilise des intitulés courts et homogènes.
+- Évite les doublons dus aux majuscules/minuscules.
+- Préfère par exemple :
+  "santé",
+  "mobilité",
+  "lien social",
+  "numérique",
+  "habitat",
+  "prévention",
+  "intergénérationnel",
+  "isolement",
+  "participation citoyenne".
 
 Texte :
 {text}
@@ -98,7 +200,7 @@ def call_ollama(prompt: str) -> str:
         "messages": [
             {
                 "role": "system",
-                "content": "Tu réponds uniquement avec un JSON valide. Aucun texte hors JSON."
+                "content": "Tu réponds uniquement avec un JSON strictement valide. Aucun texte hors JSON."
             },
             {
                 "role": "user",
@@ -109,24 +211,23 @@ def call_ollama(prompt: str) -> str:
         "format": "json",
         "options": {
             "temperature": 0,
-            "num_predict": 500,
-            "num_ctx": 2048
+            "num_predict": 700,
+            "num_ctx": 8192
         }
     }
 
-    response = requests.post(OLLAMA_CHAT_URL, json=payload, timeout=240)
+    response = requests.post(OLLAMA_CHAT_URL, json=payload, timeout=900)
     response.raise_for_status()
     return response.json()["message"]["content"]
 
 def save_raw_response(txt_path: Path, response_text: str):
-    raw_dir = OUTPUT_DIR / "_raw_responses"
-    raw_dir.mkdir(parents=True, exist_ok=True)
-    raw_file = raw_dir / f"{txt_path.stem}_raw.txt"
+    relative_path = txt_path.relative_to(INPUT_DIR)
+    raw_file = OUTPUT_DIR / "_raw_responses" / relative_path.with_suffix(".txt")
+    raw_file.parent.mkdir(parents=True, exist_ok=True)
     raw_file.write_text(response_text, encoding="utf-8")
 
 def repair_json_text(text: str) -> str:
     text = text.strip()
-
     start = text.find("{")
     end = text.rfind("}")
 
@@ -156,6 +257,93 @@ def extract_json(response_text: str) -> dict:
         repaired = repair_json_text(response_text)
         return json.loads(repaired)
 
+def clean_list(values):
+    if values is None:
+        return []
+
+    if not isinstance(values, list):
+        values = [values]
+
+    cleaned = []
+    seen = set()
+
+    for value in values:
+        value = str(value).strip()
+        if not value:
+            continue
+
+        key = value.lower()
+        if key not in seen:
+            cleaned.append(value)
+            seen.add(key)
+
+    return cleaned
+
+def normalize_public_vise(value: str) -> str:
+    allowed = {
+        "ainés",
+        "ainés et autres",
+        "professionnels",
+        "autre",
+        "public non connu"
+    }
+
+    value = str(value).strip().lower()
+
+    replacements = {
+        "aînés": "ainés",
+        "aines": "ainés",
+        "seniors": "ainés",
+        "personnes âgées": "ainés",
+        "personnes agees": "ainés",
+        "retraités": "ainés",
+        "retraites": "ainés",
+        "professionnel": "professionnels",
+        "professionnels": "professionnels",
+        "inconnu": "public non connu",
+        "non connu": "public non connu",
+        "public inconnu": "public non connu"
+    }
+
+    value = replacements.get(value, value)
+
+    if value in allowed:
+        return value
+
+    return "public non connu"
+
+def normalize_echelle(values):
+    allowed = {
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale",
+        "régionale",
+        "nationale",
+        "internationale"
+    }
+
+    replacements = {
+        "departementale": "départementale",
+        "régional": "régionale",
+        "regional": "régionale",
+        "regionale": "régionale",
+        "national": "nationale",
+        "international": "internationale",
+        "communal": "communale"
+    }
+
+    cleaned = []
+
+    for value in clean_list(values):
+        v = value.strip().lower()
+        v = replacements.get(v, v)
+
+        if v in allowed and v not in cleaned:
+            cleaned.append(v)
+
+    return cleaned
+
 def normalize(record: dict, source_site: str) -> dict:
     if "problématique" in record and "problematique" not in record:
         record["problematique"] = record["problématique"]
@@ -163,21 +351,22 @@ def normalize(record: dict, source_site: str) -> dict:
     if "thématique" in record and "thematique" not in record:
         record["thematique"] = record["thématique"]
 
+    if "nature de l'initiative" in record and "nature_initiative" not in record:
+        record["nature_initiative"] = record["nature de l'initiative"]
+
+    if "nature_initiative" not in record and "nature" in record:
+        record["nature_initiative"] = record["nature"]
+
     base = empty_record(source_site)
 
     for key in base:
         if key in record:
             base[key] = record[key]
 
-    if not isinstance(base["echelle"], list):
-        base["echelle"] = [str(base["echelle"])]
-
-    if not isinstance(base["date"], list):
-        base["date"] = [str(base["date"])]
-
-    if not isinstance(base["thematique"], list):
-        base["thematique"] = [str(base["thematique"])]
-
+    base["echelle"] = normalize_echelle(base["echelle"])
+    base["date"] = clean_list(base["date"])
+    base["thematique"] = clean_list(base["thematique"])
+    base["public_vise"] = normalize_public_vise(base["public_vise"])
     base["source_site"] = source_site
 
     return base
@@ -188,6 +377,7 @@ def rebuild_nested_description(record: dict) -> dict:
         "territoire": record["territoire"],
         "echelle": record["echelle"],
         "public_vise": record["public_vise"],
+        "nature_initiative": record["nature_initiative"],
         "description": {
             "description_generale": record["description_generale"],
             "contexte": record["contexte"],
@@ -202,8 +392,12 @@ def rebuild_nested_description(record: dict) -> dict:
     }
 
 def process_file(txt_path: Path) -> dict:
-    text = txt_path.read_text(encoding="utf-8", errors="ignore")[:MAX_CHARS]
-    source_site = "HCFEA"
+    text = txt_path.read_text(
+        encoding="utf-8",
+        errors="ignore"
+    )[:MAX_CHARS]
+
+    source_site = get_source_site(txt_path)
 
     prompt = build_prompt(text, source_site)
     response_text = call_ollama(prompt)
@@ -228,19 +422,25 @@ def main():
 
     print(f"{len(txt_files)} fichier(s) trouvé(s)")
     print(f"Modèle : {MODEL}")
+    print(f"Écrasement des JSON existants : {OVERWRITE_EXISTING}")
 
     results = []
+    errors = []
 
-    for txt_file in tqdm(txt_files, desc="LLM extraction HCFEA", unit="fichier"):
+    for txt_file in tqdm(
+        txt_files,
+        desc="LLM extraction corpus complet",
+        unit="fichier"
+    ):
         try:
             relative_path = txt_file.relative_to(INPUT_DIR)
             output_file = OUTPUT_DIR / relative_path.with_suffix(".json")
 
-            if output_file.exists():
+            if output_file.exists() and not OVERWRITE_EXISTING:
                 tqdm.write(f"Déjà traité, ignoré : {txt_file.name}")
                 continue
 
-            tqdm.write(f"→ {txt_file.name}")
+            tqdm.write(f"→ {relative_path}")
 
             data = process_file(txt_file)
             results.append(data)
@@ -253,17 +453,28 @@ def main():
             tqdm.write(f"OK : {output_file}")
 
         except Exception as e:
+            error = {
+                "fichier": str(txt_file),
+                "erreur": str(e)
+            }
+            errors.append(error)
             tqdm.write(f"ERREUR avec {txt_file.name}: {e}")
 
-        time.sleep(0.3)
-
-    global_output = OUTPUT_DIR / "all_hcfea_llm.json"
+    global_output = OUTPUT_DIR / "all_corpus_llm.json"
 
     with global_output.open("w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
 
+    error_output = OUTPUT_DIR / "errors_llm.json"
+
+    with error_output.open("w", encoding="utf-8") as f:
+        json.dump(errors, f, indent=4, ensure_ascii=False)
+
     print("\nTerminé")
+    print(f"Fichiers traités : {len(results)}")
+    print(f"Erreurs : {len(errors)}")
     print(f"Fichier global : {global_output}")
+    print(f"Rapport erreurs : {error_output}")
     print(f"Réponses brutes : {OUTPUT_DIR / '_raw_responses'}")
 
 if __name__ == "__main__":

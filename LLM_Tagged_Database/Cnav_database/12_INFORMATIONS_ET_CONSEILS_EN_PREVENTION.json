@@ -2,22 +2,25 @@
     "titre": "INFORMATIONS ET CONSEILS EN PRÉVENTION",
     "territoire": "",
     "echelle": [
-        "intercommunale",
-        "départementale"
+        "nationale"
     ],
-    "public_vise": "Retraités: de tous âges. Professionnels: animateurs d’actions collectives. Autre: grand public.",
+    "public_vise": "public non connu",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "La Caisse nationale de l’Assurance retraite soutient la réalisation de vidéos dans le cadre d’un programme initialement construit par la Carsat de Bourgogne-Franche-Comté. Cette série de vidéos fera l’objet d’une exploitation.",
-        "contexte": "",
-        "problematique": "L'absence de prévention chez les seniors peut entraîner des problèmes de santé et une augmentation du coût des soins.",
-        "solution_envisagee": "La diffusion de vidéos pour sensibiliser et inciter les seniors à agir en prévention.",
-        "objectifs": ""
+        "description_generale": "La Caisse nationale de l'Assurance retraite soutient la réalisation de vidéos dans le cadre d'un programme initialement construit par la Carsat de Bourgogne-Franche-Comté. Ces vidéos exposeront des informations et conseils sur différentes thématiques de prévention, illustrées par des défis pour enrichir les connaissances et des informations pratiques.",
+        "contexte": "La diffusion prévue en 2024 couvrira plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux).",
+        "problematique": "Le besoin de renforcer la connaissance et l'engagement des retraités sur les thématiques de prévention.",
+        "solution_envisagee": "La diffusion de vidéos format courts et longs sur différents canaux pour informer, sensibiliser et inciter les retraités à agir en prévention.",
+        "objectifs": "40 vidéos réalisées en format courts et longs. Diffusion grand public sur plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux)."
     },
-    "porteur_initiative": "Caisse nationale de l’Assurance retraite",
-    "date": [],
+    "porteur_initiative": "Interrégime (Caisse nationale de l'Assurance retraite, CCMSA, CNRACL, Agirc-Arrco)",
+    "date": [
+        "2024"
+    ],
     "thematique": [
-        "santé publique",
-        "prévention"
+        "santé",
+        "prévention",
+        "lien social"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",

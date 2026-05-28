@@ -1,0 +1,40 @@
+{
+    "titre": "Création d'un habitat convivial et solidaire",
+    "territoire": [
+        "communale",
+        "régionale"
+    ],
+    "echelle": [
+        "quartier",
+        "départementale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Cette initiative vise à créer un habitat convivial et solidaire pour les personnes âgées qui souhaitent rester vivre dans leur commune.",
+        "contexte": "La municipalité souhaite améliorer la qualité de vie des habitants, notamment en matière de prévention du vieillissement et d'accompagnement social. Les problèmes actuels comprennent l'isolement social et les difficultés à trouver un environnement propice pour une vie active.",
+        "problematique": "Le besoin de créer un espace communautaire convivial où les personnes âgées peuvent rester acteurs de leur vie, participer activement à la vie de la commune, et se sentir engagées dans le développement local.",
+        "solution_envisagee": "Un habitat inclusif situé dans une des deux communes historiques du village, avec un espace communautaire et des services communs pour faciliter les interactions entre habitants et personnes âgées. Des activités artistiques, manuelles et physiques seront organisées pour favoriser la convivialité.",
+        "objectifs": [
+            "Permettre aux personnes âgées qui le souhaitent de rester vivre dans leur commune en leur permettant de rester acteurs de leur vie et de participer à la vie de la cité",
+            "Faciliter la vie et le parcours des habitants (prévention et accompagnement au vieillissement)",
+            "Bienveillance, entraide et solidarité"
+        ]
+    },
+    "porteur_initiative": "Municipalité",
+    "date": [
+        "2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche1-habitat.txt",
+    "nom_fichier": "Fiche1-habitat.txt"
+}

@@ -1,22 +1,31 @@
 {
     "titre": "CINÉ-DÉBAT « A V ANT J’ÉTAIS VIEUX… »",
-    "territoire": "",
+    "territoire": "ancienne Aquitaine",
     "echelle": [
-        "communale"
+        "quartier",
+        "communale",
+        "intercommunale",
+        "départementale"
     ],
-    "public_vise": "Personnes prochainement retraitées et récemment retraitées (période de transition entre vie professionnelle et vie à la retraite).",
+    "public_vise": "public non connu",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Cela consiste en l’organisation de projections de la captation du spectacle musical « Avant j’étais vieux » (financé par la Carsat Aquitaine) dans des salles de cinéma.",
-        "contexte": "",
-        "problematique": "Les personnes prochainement ou récemment retraitées se trouvent face à une transition importante vers leur vie à la retraite, ce qui peut engendrer diverses inquiétudes et interrogations.",
-        "solution_envisagee": "L’organisation de projections de spectacle musical pour permettre aux personnes de mieux appréhender leurs futurs projets de vie en évoquant les sujets liés au vieillissement (vie sociale/familiale, santé, habitat) de manière ludique et accessible.",
-        "objectifs": "Permettre aux personnes d’envisager leur projet de vie à la retraite de manière ludique et accessible, tout en abordant des sujets liés au vieillissement."
+        "description_generale": "Organisation de projections de la captation du spectacle musical « Avant j’étais vieux » dans les cinémas de proximité, suivi d'un débat avec une personnalité spécialisée sur le vieillissement.",
+        "contexte": "CARSAT AQUITAINE, MSA, ASEPT, structures locales (mairie, CCAS, cinéma), Société de production Ugo&Play",
+        "problematique": "Le besoin de sensibiliser le public au bien-vieillir et d'aider les personnes âgées à envisager leur projet de vie à la retraite.",
+        "solution_envisagee": "Organisation de projections de spectacle musical accompagné d'un débat avec des professionnels spécialisés sur le sujet.",
+        "objectifs": "Toucher 658 personnes, améliorer la satisfaction moyenne à 4,4/5 et encourager l'inscription aux ateliers ASEPT."
     },
-    "porteur_initiative": "Porteur(s) de la pépite: Carsat Aquitaine. Partenaire(s): MSA, ASEPT, structures locales (mairie, CCAS, cinéma), Société de production Ugo&Play.",
-    "date": [],
+    "porteur_initiative": "Carsat Aquitaine - Service action sanitaire et sociale / MSA",
+    "date": [
+        "15/05/2022",
+        "17/11/2023",
+        "30/11/2023"
+    ],
     "thematique": [
-        "vieillissement",
-        "retraite"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\39_CINE-DEBAT_A_V_ANT_JETAIS_VIEUX.txt",

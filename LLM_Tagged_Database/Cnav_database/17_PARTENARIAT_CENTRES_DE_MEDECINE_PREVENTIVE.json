@@ -2,21 +2,23 @@
     "titre": "PARTENARIAT CENTRES DE MÉDECINE PRÉVENTIVE",
     "territoire": "",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "Retraités: futurs et jeunes retraités (2 ans avant et après retraite). Professionnels: centres de médecine préventive (Médecins, infirmières).",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "ATELIER « BIENVENUE À LA RETRAITE » PARTENARIAT CENTRES DE MÉDECINE PRÉVENTIVE LES ACTEURS Porteur(s) de la pépite: Carsat Nord-Est. Partenaire(s): opérateurs de prévention.",
+        "description_generale": "Dans le cadre de l’appel à projets « Bienvenue à la retraite », la Carsat Nord-Est a initié un partenariat avec les centres de médecine préventive de son territoire afin que ceux-ci puissent intervenir lors de la séance 3 des modules socles 'je continue de prendre soin de moi'. Le but étant de proposer à l’issue de cette séance d'information un bilan de santé senior au sein des centres de médecine préventive au plus près des bénéficiaires. Ils pourront ainsi bénéficier d’un examen médical complet, d'analyses biologiques, de diagnostics dentaire, visuel, auditif, cardiaque et gynécologique afin de prévenir les maladies liées au vieillissement.",
         "contexte": "",
-        "problematique": "L'absence de maladies détectées précocement et l'évaluation des risques ne permet pas d'anticiper les maladies liées au vieillissement.",
-        "solution_envisagee": "Proposer aux futurs et jeunes retraités, ainsi qu'aux professionnels de santé, les examens de prévention en santé (EPS) afin de faire un bilan de santé préventif pour maintenir une bonne santé.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L ’ambition est de proposer les examens de prévention en santé (EPS) aux futurs et jeunes retraités afin de faire un état des lieux de leur état de santé et de prévenir des maladies. Ce bilan de santé préventif vise à détecter précocement les maladies courantes liées au vieillissement, ainsi qu’à évaluer les risques et à prodiguer des conseils personnalisés pour maintenir une bonne santé.",
         "objectifs": ""
     },
-    "porteur_initiative": "Porteur(s) de la pépite: Carsat Nord-Est. Partenaire(s): opérateurs de prévention.",
+    "porteur_initiative": "Carsat Nord-Est",
     "date": [],
     "thematique": [
-        "Santé publique",
-        "Médicaments et soins"
+        "santé",
+        "lien social",
+        "mobilité"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\17_PARTENARIAT_CENTRES_DE_MEDECINE_PREVENTIVE.txt",

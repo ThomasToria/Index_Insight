@@ -1,23 +1,36 @@
 {
     "titre": "Éléments de guidance pour un lexique renouvelé de l’âge et des personnes âgées",
     "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "echelle": [
+        "nationale"
+    ],
+    "public_vise": "autre",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Réflexions pour un vocabulaire inclusif et adapté.",
-        "contexte": "",
-        "problematique": "Définition d'un nouveau lexique pour l'âge et les personnes âgées.",
-        "solution_envisagee": "Création d'un nouveau lexique de l'âge et des personnes âgées.",
-        "objectifs": "Fournir un vocabulaire inclusif et adapté aux différents publics concernés par la question de l'âge."
+        "description_generale": "Réflexions pour un vocabulaire inclusif et adapté",
+        "contexte": "La réflexion visait à moderniser et affiner le vocabulaire relatif à l’âge et aux personnes âgées, afin de proposer un lexique de l’âge clair et respectueux.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "moderniser le vocabulaire relatif à l’âge et aux personnes âgées",
+            "proposer un lexique de l’âge clair et respectueux",
+            "renforcer les liens entre les résidents, leurs proches et la société civile",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l’âge - HCFEA",
+    "porteur_initiative": "",
     "date": [
-        "2025-09-30"
+        "2019",
+        "fin janvier 2025"
     ],
     "thematique": [
-        "Inclusion",
-        "Vocabulaire",
-        "Personnes âgées"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Éléments de guidance pour un lexique renouvelé de .txt",

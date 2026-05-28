@@ -1,22 +1,26 @@
 {
     "titre": "PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC)",
-    "territoire": "",
+    "territoire": "Normandie",
     "echelle": [
-        "intercommunale"
+        "nationale"
     ],
-    "public_vise": "Les porteurs de projets d’habitat senior (bailleurs sociaux, Centres communaux d'action sociale (CCAS), communes)",
+    "public_vise": "professionnels",
+    "nature_initiative": "outil numérique",
     "description": {
-        "description_generale": "La Carsat a souhaité enrichir son analyse des dossiers LVC par une expertise architecturale afin de vérifier la pertinence des programmes présentés. Le conseil porte sur les",
-        "contexte": "",
-        "problematique": "L'absence de contexte spécifique est indiquée par l'utilisation du guillemet vide.",
-        "solution_envisagee": "Une expertise architecturale pour vérifier la pertinence des programmes d’habitat senior",
-        "objectifs": ""
+        "description_generale": "La Carsat Normandie a souhaité enrichir son analyse des dossiers LVC par une expertise architecturale, en collaboration avec les Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
+        "contexte": "Le projet vise à inspirer les porteurs de projets d’habitat senior, notamment bailleurs sociaux, Centres communaux d'action sociale (CCAS), et communes. Il s'agit également d'offrir une diversification de l'offre en matière d'habitat pour les seniors.",
+        "problematique": "Le manque de connaissance sur la pertinence des programmes présentés dans les dossiers LVC nécessite une expertise architecturale et urbanistique pour garantir leur adéquation avec les besoins et conditions du terrain.",
+        "solution_envisagee": "L'expertise apportée par le conseil CAUE à la Carsat permet de vérifier la pertinence des programmes, en amont des projets de construction ou de réhabilitation. Elle offre également une aide à la décision pour l'aménagement du site.",
+        "objectifs": "Inspérer les porteurs de projets par de nouveaux concepts d'habitat senior et diversifier l'offre en matière d'habitat pour les seniors."
     },
-    "porteur_initiative": "Carsat Normandie et les Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands",
-    "date": [],
+    "porteur_initiative": "Carsat Normandie et Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "Habitat",
-        "Senior"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",

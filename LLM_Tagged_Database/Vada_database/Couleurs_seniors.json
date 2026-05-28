@@ -1,0 +1,27 @@
+{
+    "titre": "Couleurs seniors",
+    "territoire": "",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "retraités",
+    "description": {
+        "description_generale": "Un magazine pour s'informer, distribué dans toutes les boîtes aux lettres de la commune.",
+        "contexte": "Diagnostic vieillissement en 2015 et tables rondes avec retraités.",
+        "problematique": "Manque d'informations ciblées à destination des retraités.",
+        "solution_envisagee": "Distribuer un magazine dans toutes les boîtes aux lettres pour répondre au besoin identifié.",
+        "objectifs": ""
+    },
+    "porteur_initiative": "Ville de Saint-Priest",
+    "date": [
+        "2015"
+    ],
+    "thematique": [
+        "vieillissement",
+        "information des retraités"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Couleurs_seniors.txt",
+    "nom_fichier": "Couleurs_seniors.txt"
+}

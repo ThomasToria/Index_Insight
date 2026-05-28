@@ -2,21 +2,25 @@
     "titre": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
     "territoire": "",
     "echelle": [
-        "intercommunale"
+        "nationale"
     ],
-    "public_vise": "Retraités: âgés de 68 ans en situation de précarité économique (exonérés de la CSG). Professionnels: auxiliaires de vie.",
+    "public_vise": "autre",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
-        "contexte": "",
-        "problematique": "Les retraités âgés de 68 ans exonérés de la CSG sont souvent confrontés à des difficultés financières et sociales, ce qui peut affecter leur qualité de vie.",
-        "solution_envisagee": "Déployer un rendez-vous « Ma retraite accompagnée » pour les retraités âgés de 68 ans exonérés de CSG, en incluant notamment la réalisation de l’étape 1 du programme Icope. Cette solution vise à améliorer leur autonomie et leur bien-être.",
-        "objectifs": "Déployer un rendez-vous « Ma retraite accompagnée » auprès des retraités âgés de 68 ans exonérés de CSG, en incluant notamment la réalisation de l’étape 1 du programme Icope. Améliorer leur qualité de vie et leur autonomie."
+        "description_generale": "Le rendez-vous 'Ma retraite accompagnée' est un nouveau service proposé (en 'aller-vers') à des retraités éloignés des politiques publiques et plus particulièrement des politiques de prévention. Ce rendez-vous est structuré en deux rendez-vous : Rendez-vous 1 - à domicile, environ 1 h 15 ; Rendez-vous 2, par téléphone, environ 20 minutes.",
+        "contexte": "Le service vise les retraités âgés de 68 ans exonérés de la CSG et bénéficiaires d'un plan d'aide de l'Assurance Retraite. Il est proposé par la Caisse nationale de l’Assurance retraite, avec le soutien des partenaires Gérontopôle de Toulouse, I2ML (Institut Méditerranéen des Métiers de la Longévité), des SAAD, Carsat Aquitaine, Midi-Pyrénées, Languedoc-Roussillon.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Déployer un rendez-vous 'Ma retraite accompagnée' auprès de retraités âgés de 68 ans exonérés de CSG intégrant notamment la réalisation de l’étape 1 du programme Icope, et déployer auprès des retraités bénéficiaires d’un plan d’aide de l’Assurance Retraite un 'temps de prévention' réalisé deux fois par an par les auxiliaires de vie.",
+        "objectifs": "Développer le service 'Ma retraite accompagnée' pour atteindre une couverture des retraités âgés de 68 ans exonérés de CSG, et proposer un 'temps de prévention' à tous les bénéficiaires d'un plan d'aide de l’Assurance Retraite."
     },
     "porteur_initiative": "Caisse nationale de l’Assurance retraite",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "numérique",
+        "lien social"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",

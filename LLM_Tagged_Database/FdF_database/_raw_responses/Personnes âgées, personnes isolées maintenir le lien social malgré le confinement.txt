@@ -1,0 +1,23 @@
+{
+  "titre": "Conciergerie solidaire: soutien aux personnes isolées face au confinement",
+  "territoire": ["métropolitain"],
+  "echelle": ["communale", "intercommunale"],
+  "public_vise": "autre",
+  "nature_initiative": "dispositif",
+  "description_generale": "La Fondation de France a mis en place un dispositif exceptionnel pour soutenir les personnes isolées face au confinement.",
+  "contexte": "Le confinement est une mesure sanitaire qui peut représenter une menace pour les personnes vulnérables, comme les personnes âgées et handicapées.",
+  "problematique": "La crise sanitaire a conduit à une rupture du lien social, avec des effets particulièrement graves sur les personnes isolées.",
+  "solution_envisagee": "Le dispositif « Croix Rouge chez vous » a été mis en place pour identifier et répondre aux besoins d’approvisionnement de ces personnes isolées.",
+  "objectifs": [
+    "Identifier les situations d'isolement les plus critiques",
+    "Répondre aux besoins d'approvisionnement"
+  ],
+  "porteur_initiative": "La Fondation de France avec le soutien du Croix-Rouge français",
+  "date": ["depuis 2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social"
+  ],
+  "source_site": "Fondation de France"
+}

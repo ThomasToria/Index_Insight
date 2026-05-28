@@ -1,0 +1,24 @@
+{
+    "titre": "Réseau Bénévoles",
+    "territoire": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "personnes âgées seules, seniors isolés",
+    "description": {
+        "description_generale": "Création d'un réseau de bénévoles pour lutter contre l'isolement des personnes âgées.",
+        "contexte": "Vieillissement de la population et allongement de la durée de vie, entraînant une augmentation du nombre de personnes seules",
+        "problematique": "L’isolement social des seniors contribue à leur isolement dans les services sociaux et renforce leurs situations de précarité.",
+        "solution_envisagee": "Création d'un réseau de bénévoles pour améliorer la connexion sociale et l'accès aux services",
+        "objectifs": "Réduire l'isolement social des seniors, améliorer leur accès aux services sociaux, renforcer leur autonomie mentale et physique."
+    },
+    "porteur_initiative": "Villes Amiens-des-Aines",
+    "date": [],
+    "thematique": [
+        "santé",
+        "social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Benevoles.txt",
+    "nom_fichier": "Reseau_Benevoles.txt"
+}

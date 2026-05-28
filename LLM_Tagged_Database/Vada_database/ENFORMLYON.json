@@ -1,0 +1,24 @@
+{
+    "titre": "ENFORM@LYON",
+    "territoire": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "seniors",
+    "description": {
+        "description_generale": "Une application mobile proposant des parcours sportifs à pratiquer librement en ville.",
+        "contexte": "Développée par la Direction des Sports, avec le concours de la Ligue Auvergne Rhône-Alpes d’athlétisme et des musées Gadagne",
+        "problematique": "L'activité physique chez les seniors n'étant pas suffisamment valorisée.",
+        "solution_envisagee": "Développement de l'application mobile 'enform@lyon' qui propose des parcours sportifs adaptés aux seniors et s'appuie sur le mobilier urbain.",
+        "objectifs": "Promouvoir la pratique sportive, favoriser la découverte du patrimoine et valoriser l’activité physique chez les seniors"
+    },
+    "porteur_initiative": "Direction des Sports",
+    "date": [],
+    "thematique": [
+        "sport",
+        "patrimoine"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENFORMLYON.txt",
+    "nom_fichier": "ENFORMLYON.txt"
+}

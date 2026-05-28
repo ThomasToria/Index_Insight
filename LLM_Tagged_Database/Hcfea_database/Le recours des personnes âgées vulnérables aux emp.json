@@ -1,22 +1,30 @@
 {
     "titre": "Le recours des personnes âgées vulnérables aux emplois et services d’aide à domicile",
     "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Rapport qui identifie les défis rencontrés par les personnes âgées vulnérables lorsqu'elles recourent aux emplois et services d’aide à domicile.",
-        "contexte": "Le rapport est basé sur des observations et témoignages de personnes âgées, ainsi que sur des données statistiques concernant l'utilisation des services d'aide à domicile.",
-        "problematique": "Les personnes âgées vulnérables rencontrent des difficultés pour accéder aux emplois et services d’aide à domicile en raison de la complexité du système, des inadéquations dans les ressources disponibles, ainsi que des obstacles sociaux.",
-        "solution_envisagee": "La mise en place de mesures visant à simplifier le processus d'inscription aux services d'aide à domicile et à améliorer l'accès à ces services pour les personnes âgées vulnérables.",
-        "objectifs": "Amélioration de la qualité de vie des personnes âgées vulnérables, réduction du stress lié à l'utilisation des services d’aide à domicile, simplification du processus d'inscription et amélioration de l'accès aux services."
+        "description_generale": "Rapport adopté le 20 avril 2020",
+        "contexte": "Stabilité du taux d'institutionnalisation des seniors depuis 2008, près de 40% des allocataires résident en établissement.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'Établissement pourvu d’Hébergement à Partir du domicile (EHPAD), leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA",
+    "porteur_initiative": "",
     "date": [
         "20/04/2020"
     ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "isolement"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le recours des personnes âgées vulnérables aux emp.txt",

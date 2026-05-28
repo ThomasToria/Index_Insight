@@ -1,0 +1,24 @@
+{
+    "titre": "Appartement meublé d'hébergement temporaire",
+    "territoire": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "Seniors, personnes en résidence autonomie",
+    "description": {
+        "description_generale": "Permettre à des seniors de se reposer dans un hébergement sécurisé après une hospitalisation ou d'être hébergé pendant leurs travaux.",
+        "contexte": "Les structures existantes sont limitées aux EHPAD et non dans les résidences autonomie.",
+        "problematique": "La transition vers la vie en résidence autonomie peut être stressante pour certains seniors, souvent motivés par des travaux ou une hospitalisation.",
+        "solution_envisagee": "Création d'un appartement meublé d'hébergement temporaire dans les résidences autonomie.",
+        "objectifs": "Permettre aux personnes de vivre quelques semaines au sein d'une résidence pour se familiariser avec le mode de vie, réduire l'anxiété et encourager la transition vers une résidence autonomie."
+    },
+    "porteur_initiative": "Villes Amiénoises des Aines",
+    "date": [],
+    "thematique": [
+        "Santé",
+        "Autonomie"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Appartement_meuble_dhebergement_temporaire.txt",
+    "nom_fichier": "Appartement_meuble_dhebergement_temporaire.txt"
+}

@@ -1,0 +1,28 @@
+{
+    "titre": "Carte part'âges",
+    "territoire": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "seniors de la ville à partir de 60 ans et pour les personnes handicapées sans limite d'âge",
+    "description": {
+        "description_generale": "Une carte destinée aux seniors de la ville à partir de 60 ans et pour les personnes handicapées sans limite d'âge, regroupant des activités de loisirs variées selon les besoins sur la commune.",
+        "contexte": "",
+        "problematique": "La difficulté de trouver des activités adaptées aux seniors et aux personnes handicapées dans leur environnement communautaire.",
+        "solution_envisagee": "La mise en place d'une carte part'âge regroupant les différentes activités proposées sur la commune.",
+        "objectifs": "Fournir une carte pratique pour faciliter l'accès à des activités de loisirs adaptées aux besoins des seniors et personnes handicapées, ainsi que promouvoir le bien-être et l'autonomie dans leur vie quotidienne."
+    },
+    "porteur_initiative": "",
+    "date": [
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "social",
+        "culturel",
+        "loisirs"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_partages.txt",
+    "nom_fichier": "Carte_partages.txt"
+}

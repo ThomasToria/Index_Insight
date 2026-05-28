@@ -2,24 +2,33 @@
     "titre": "Retours d’expériences Covid dans le champ de l'âge",
     "territoire": "",
     "echelle": [
-        "nationale"
+        "communale",
+        "régionale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Séminaire de travail HCFEA-CNSA du 12 octobre 2021 pour partager des retours d’expériences sur le Covid dans le champ de l'âge.",
-        "contexte": "Partenariat entre le Conseil de l'âge du Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA) et la Caisse nationale",
-        "problematique": "Impact du Covid sur les personnes âgées et leurs aidants.",
+        "description_generale": "Séminaire de travail HCFEA-CNSA du 12 octobre 2021",
+        "contexte": "",
+        "problematique": "Les retours d'expériences Covid ont montré des défis majeurs pour les Ehpad, les services à domicile et la continuité de vie des personnes âgées.",
         "solution_envisagee": "",
-        "objectifs": "Partager des informations, échanger sur les meilleures pratiques et identifier des solutions pour améliorer la prise en charge des personnes âgées durant la pandémie."
+        "objectifs": [
+            "Renforcer l'échange intergénérationnel",
+            "Valoriser le rôle des résidents dans la société civile",
+            "Améliorer les conditions d'isolement et de sécurité"
+        ]
     },
-    "porteur_initiative": "HCFEA",
+    "porteur_initiative": "HCFEA-CNSA",
     "date": [
-        "2021-10-12"
+        "depuis 2019"
     ],
     "thematique": [
-        "Santé publique",
-        "Aide aux personnes âgées",
-        "Pandémies"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Retours dexpériences Covid dans le champ de l'âge.txt",

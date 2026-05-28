@@ -1,0 +1,36 @@
+{
+    "titre": "Création d'un centre médical / polyclinique",
+    "territoire": [
+        "régionale",
+        "nationale"
+    ],
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "autre",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "La création d'un centre médical / polyclinique vise à lutter contre l'encombrement des urgences et limiter les délais d'attente, rapprocher les points de contact pour les prises en charge, réhumaniser la médecine de contact, et prodiguer des soins immédiatement et sans rendez-vous.",
+        "contexte": "Les problèmes actuels concernent l'encombrement des urgences hospitalières et le retard dans les délais d'attente pour les consultations. Les patients souhaiteraient une meilleure prise en charge rapide et personnalisée.",
+        "problematique": "L’objectif est de réduire la congestion des hôpitaux, améliorer l'accueil des services de santé, et assurer un accès plus facile aux soins bénins. Les plateaux techniques et matériel du centre médical seront adaptés en fonction de leur périmètre d’intervention.",
+        "solution_envisagee": "La création d'un dispensaire qui pourrait être situé dans une structure polyclinique située au centre-ville de Metz, permettant des consultations sans rendez-vous et sans frais d'avance. Cette nouvelle polyclinique serait attachée à l'Hôpital de Mercy.",
+        "objectifs": [
+            "Lutter contre l'encombrement des urgences et limiter les délais d'attente",
+            "Rapprocher les points de contact pour les prises en charge",
+            "Réhumaniser la médecine de contact"
+        ]
+    },
+    "porteur_initiative": "Un EHPAD, une résidence, une association, une ville, une métropole, une caisse ou une fondation",
+    "date": [
+        "2019"
+    ],
+    "thematique": [
+        "santé",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_1_new.txt",
+    "nom_fichier": "Fiche-action_1_new.txt"
+}

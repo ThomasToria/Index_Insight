@@ -1,0 +1,27 @@
+{
+    "titre": "Quartier libre",
+    "territoire": "",
+    "echelle": [
+        "quartier"
+    ],
+    "public_vise": "",
+    "description": {
+        "description_generale": "",
+        "contexte": "",
+        "problematique": "La gestion et l'organisation des espaces publics dans les quartiers nécessitent une meilleure coordination entre les différents acteurs impliqués.",
+        "solution_envisagee": "Développer un système de suivi et d'information centralisé pour faciliter la communication entre les services municipaux, les associations locales et les résidents du quartier.",
+        "objectifs": ""
+    },
+    "porteur_initiative": "Le CCAS de Metz",
+    "date": [
+        "2023"
+    ],
+    "thematique": [
+        "Santé",
+        "Gestion urbaine",
+        "Activités communautaires"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Quartier_libre.txt",
+    "nom_fichier": "Quartier_libre.txt"
+}

@@ -1,22 +1,26 @@
 {
     "titre": "GYM ENFORM' ET FITNESS",
-    "territoire": "",
+    "territoire": "La Guadeloupe et ses dépendances",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Retraités: de 60 ans et plus",
+    "public_vise": "ainés",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Entretenir et améliorer son processus de mémorisation, apprendre à rester concentré sur une tâche motrice malgré les interférences associées à l'activité physique. L'atelier gym mémoire permet de garder la forme tout en stimulant son cerveau! En alternant jeux de mémorisation et activité physique, l'atelier permet de travailler tous les sens et donc de stimuler la mémoire sensorielle (mémoire auditive, olfactive, visuelle).",
-        "contexte": "",
-        "problematique": "L’activité physique peut interférer avec le processus de mémorisation.",
-        "solution_envisagee": "Atelier gym mémoire qui combine jeux de mémorisation et activités physiques pour stimuler la mémoire sensorielle.",
-        "objectifs": ""
+        "description_generale": "Prévention senior: atelier de 1h30 par séance, composé d'exercices et parcours ludiques avec conseils personnalisés dans une ambiance conviviale. Test initial et final pour évaluer les améliorations.",
+        "contexte": "Association Gym Enform' et Fitness anime des ateliers de gymnastique mémoire visant à maintenir la forme tout en stimulant le cerveau.",
+        "problematique": "Le besoin d'améliorer les processus de mémorisation chez les retraités, notamment pour prévenir l'isolement et réduire les comportements sédentaires.",
+        "solution_envisagee": "Atelier de gymnastique mémoire avec exercices ludiques et conseils personnalisés.",
+        "objectifs": "Amélioration des processus de mémorisation, augmentation de l'estime de soi, renforcement des liens sociaux, réduction de l'isolement et des comportements sédentaires."
     },
-    "porteur_initiative": "CGSS de Guadeloupe « Direction de l’accompagnement et de la prévention »",
-    "date": [],
+    "porteur_initiative": "CGSS Guadeloupe",
+    "date": [
+        "enquête lancée fin janvier"
+    ],
     "thematique": [
-        "Santé",
-        "Mémoire"
+        "santé",
+        "lien social",
+        "prévention"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\15_GYM_ENFORM_ET_FITNESS.txt",

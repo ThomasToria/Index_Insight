@@ -1,0 +1,38 @@
+{
+    "titre": "Modèle de Fiche-Action N°2 : Accessibilité et Adaptation du Habitat",
+    "territoire": [
+        "communale"
+    ],
+    "echelle": [
+        "quartier",
+        "intercommunale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
+    "description": {
+        "description_generale": "Cette fiche-action vise à améliorer l’accessibilité et la capacité d’adaptation des logements pour les personnes âgées, en particulier celles de plus de 60 ans.",
+        "contexte": "La municipalité a identifié un besoin croissant dans sa commune concernant l’accès aux logements pour les seniors. Les habitants âgés ont exprimé une préoccupation concernant la sécurité et la facilité d’accessibilité des lieux de vie.",
+        "problematique": "La difficulté pour certaines personnes âgées, en particulier celles de plus de 60 ans, à trouver un logement adapté aux besoins spécifiques de leur condition physique ou sensorielle.",
+        "solution_envisagee": "Une démarche intergénérationnelle visant à améliorer l’accessibilité et la capacité d’adaptation des logements pour les personnes âgées, en particulier celles de plus de 60 ans.",
+        "objectifs": [
+            "Établir une liste des personnes intéressées par la démarche",
+            "Mettre en place le diagnostic des logements de ces personnes (exemple: solliciter l’intervention d’un ergothérapeute)",
+            "Accompagner la mise en œuvre en accompagnant la personne sur les dossiers de financement"
+        ]
+    },
+    "porteur_initiative": "CCAS",
+    "date": [
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche2-habitat.txt",
+    "nom_fichier": "Fiche2-habitat.txt"
+}

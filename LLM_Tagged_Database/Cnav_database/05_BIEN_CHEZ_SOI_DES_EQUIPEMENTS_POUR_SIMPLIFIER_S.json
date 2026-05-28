@@ -2,21 +2,25 @@
     "titre": "BIEN CHEZ SOI – DES ÉQUIPEMENTS POUR SIMPLIFIER SON QUOTIDIEN",
     "territoire": "",
     "echelle": [
-        "intercommunale"
+        "nationale"
     ],
-    "public_vise": "Retraités: tous les retraités. Professionnels: professionnels avec un rôle de conseil et d’accompagnement auprès des retraités (évaluateurs, assistant social). Autres: grand public (famille, aidant).",
+    "public_vise": "autre",
+    "nature_initiative": "outil numérique",
     "description": {
-        "description_generale": "L ’Assurance retraite a développé le site bien-chez-soi.lassuranceretraite.fr dans le cadre de sa politique d’action sociale.",
-        "contexte": "",
-        "problematique": "Les retraités ont besoin d’outils et de conseils pour maintenir leur autonomie.",
-        "solution_envisagee": "Le site bien-chez-soi.lassuranceretraite.fr est un outil dynamique qui propose des informations sur plus de 200 équipements adaptés aux retraités.",
-        "objectifs": "Proposer un outil dynamique à ses partenaires et un site informatif au grand public pour préserver l’autonomie des retraités."
+        "description_generale": "Bien-chez-soi.lassuranceretraite.fr est un site internet présentant des aides techniques et technologiques pour préserver l'autonomie des retraités. Ces aides se présentent sous forme de fiches pratiques rédigées par des ergothérapeutes.",
+        "contexte": "L’Assurance retraite a développé le site bien-chez-soi.lassuranceretraite.fr dans le cadre de sa politique d'action sociale.",
+        "problematique": "Le besoin de préserver l'autonomie des retraités en leur proposant des aides techniques et technologiques adaptées à leurs besoins.",
+        "solution_envisagee": "La mise en place d'un site internet présentant des fiches pratiques rédigées par des ergothérapeutes, avec des informations sur l'utilisation de l'aide, son prix, ses éventuelles aides financières, ainsi que des photos et vidéos explicatives.",
+        "objectifs": "Proposer un outil dynamique à ses partenaires et un site informatif au grand public pour préserver l'autonomie des retraités."
     },
     "porteur_initiative": "Caisse nationale de l’Assurance retraite",
-    "date": [],
+    "date": [
+        "depuis mai 2021"
+    ],
     "thematique": [
-        "Santé",
-        "Autonomie"
+        "santé",
+        "numérique",
+        "habitat"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt",

@@ -2,22 +2,25 @@
     "titre": "L ’INTERGÉNÉRATIONNEL – BERCEAU DU LIEN SOCIAL",
     "territoire": "",
     "echelle": [
-        "régionale"
+        "nationale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Cette initiative vise à promouvoir l’intergénérationnel et le lien social entre les retraités et les professionnels de santé, en particulier par la mise en place d’échanges intergénérationnels.",
-        "contexte": "La Carsat Centre-Val de Loire a lancé cette initiative pour renforcer le lien social dans sa région.",
-        "problematique": "Le retraitement des personnes âgées est souvent isolant et peut entraîner une dégradation du bien-être psychologique. De plus, les professionnels de santé ont parfois des difficultés à comprendre la réalité des personnes âgées.",
-        "solution_envisagee": "L’initiative vise à créer un espace d’échange intergénérationnel entre retraités et professionnels de santé pour améliorer le bien-être social et émotionnel.",
-        "objectifs": "Promouvoir l’intergénérationnel, renforcer les liens sociaux, améliorer la compréhension des personnes âgées par les professionnels de santé, et favoriser un environnement plus inclusif."
+        "description_generale": "La journée a été organisée autour des liens entre générations, des stéréotypes qui entretiennent l’âgisme. Les interventions de différents professionnels du secteur ont permis de décrire et de préciser la teneur de ces liens.",
+        "contexte": "",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Valoriser le programme « génération lien » mis en place par une chargée de mission de l’association avec les élèves d’une classe d’un collège du département.",
+        "objectifs": ""
     },
-    "porteur_initiative": "L’association Les Petits Frères des Pauvres - Région Centre-Val de Loire et la Carsat Centre-Val de Loire",
-    "date": [],
+    "porteur_initiative": "Carsat Centre-Val de Loire, association des Petits Frères des Pauvres - échelons national et régional, Kristell Pothier, Maitre de conférences en psychologie des âges à l’université de Tours",
+    "date": [
+        "3 octobre 2023"
+    ],
     "thematique": [
-        "liens sociaux",
-        "retraités",
-        "professionnels de santé"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.txt",

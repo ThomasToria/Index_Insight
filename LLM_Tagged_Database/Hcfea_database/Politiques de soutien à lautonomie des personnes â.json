@@ -1,25 +1,26 @@
 {
-    "titre": "Politiques de soutien à l’autonomie des personnes âgées, quelques comparaisons internationales",
+    "titre": "Politiques de soutien à l'autonomie des personnes âgées, quelques comparaisons internationales",
     "territoire": "",
     "echelle": [
-        "nationale"
+        "départementale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "note",
     "description": {
-        "description_generale": "Note adoptée en mars 2019 sur les politiques de soutien à l’autonomie des personnes âgées, comparant différentes approches internationales.",
-        "contexte": "",
-        "problematique": "Défis liés à la maintenir l'autonomie et le bien-être des personnes âgées dans divers contextes culturels et politiques.",
-        "solution_envisagee": "Analyse comparative de politiques existantes pour identifier les meilleures pratiques internationales.",
-        "objectifs": "Élaborer une recommandation basée sur l'analyse comparative, favoriser la mise en œuvre de solutions innovantes dans le domaine de l'autonomie des personnes âgées."
+        "description_generale": "Note adoptée en mars 2019",
+        "contexte": "Dans la continuité de ses précédents rapports et de sa contribution à la concertation sur le grand âge et l'autonomie, le Conseil de l’âge a produit une note de comparaisons internationales sur les politiques de soutien à l’autonomie des personnes âgées. Celle-ci a vocation à nourrir les réflexions menées dans le cadre du projet de loi annoncé à l’automne prochain sur ces questions.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": ""
     },
-    "porteur_initiative": "Gouvernement",
+    "porteur_initiative": "",
     "date": [
-        "2019-03-28"
+        "2019"
     ],
     "thematique": [
         "santé",
-        "social",
-        "politique"
+        "mobilité",
+        "lien social"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Politiques de soutien à lautonomie des personnes â.txt",

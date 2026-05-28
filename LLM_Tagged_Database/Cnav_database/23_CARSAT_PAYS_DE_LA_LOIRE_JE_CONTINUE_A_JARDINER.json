@@ -1,22 +1,27 @@
 {
-    "titre": "CARSAT PAYS DE LA LOIRE JE CONTINUE À JARDINER",
-    "territoire": "",
+    "titre": "JE CONTINUE À JARDINER",
+    "territoire": "Pays de la Loire",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Retraités: autonomes vivant dans leur domicile avec un jardin.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Association Ecos (44) est le porteur de la pépite, accompagnée par Kiné Ouest Prévention (22), le CréAT (44), et un paysagiste. L'objectif est d'améliorer l'expérience de jardinage chez les seniors.",
-        "contexte": "",
-        "problematique": "Maintenir une activité physique chez les seniors ayant un jardin, sensibiliser aux bonnes pratiques et à l'aide technique pour se préserver en jardinant, informer sur les aménagements possibles au jardin.",
+        "description_generale": "Cycle pour 12 retraités composé de 5 sessions avec différents intervenants : kinésithérapeute, ergothérapeute, paysagiste.",
+        "contexte": "Association Ecos (44) porte l'initiative en partenariat avec Kiné Ouest Prévention (22), le CréAT (44) et un paysagiste.",
+        "problematique": "Le maintien de la pratique de jardinage chez les seniors ayant un jardin, ainsi que leur sensibilisation aux bonnes pratiques et aides techniques pour se préserver en jardinant.",
         "solution_envisagee": "Création d'une offre complète de services ajustés favorisant le maintien de la pratique de jardinage aux seniors jardiniers.",
-        "objectifs": "Maintenir une activité physique chez les seniors, sensibiliser aux bonnes pratiques et à l'aide technique pour se préserver en jardinant, informer sur les aménagements possibles au jardin."
+        "objectifs": "Maintenir une activité physique chez les seniors ayant un jardin, sensibiliser les seniors aux bonnes pratiques et aides techniques pour se préserver en jardinant, informer les seniors sur les aménagements possibles au jardin pour le rendre sécurisant et faciliter son usage, créer des espaces d'échanges et de rencontres entre les seniors."
     },
     "porteur_initiative": "Association Ecos (44)",
-    "date": [],
+    "date": [
+        "01/09/2023",
+        "31/08/2024"
+    ],
     "thematique": [
-        "Santé",
-        "Environnement"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\23_CARSAT_PAYS_DE_LA_LOIRE_JE_CONTINUE_A_JARDINER.txt",

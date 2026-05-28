@@ -1,0 +1,25 @@
+{
+    "titre": "Dispositif Logements Bleus",
+    "territoire": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "",
+    "description": {
+        "description_generale": "Le label 'logement bleu' identifie les logements ayant bénéficié de travaux d'aménagement favorisant le maintien à domicile et évitant ainsi un départ prématuré en maison de retraite. Les logements sont conçus pour être accessibles et adaptés à la perte de mobilité liée à l'avancée en âge.",
+        "contexte": "",
+        "problematique": "Départ prématuré des personnes âgées en maison de retraite",
+        "solution_envisagee": "Adaptation technique du logement et présence de référents pour les personnes âgées",
+        "objectifs": ""
+    },
+    "porteur_initiative": "",
+    "date": [],
+    "thematique": [
+        "accessibilité",
+        "maintenance à domicile",
+        "perte de mobilité"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_Logements_Bleus.txt",
+    "nom_fichier": "Dispositif_Logements_Bleus.txt"
+}

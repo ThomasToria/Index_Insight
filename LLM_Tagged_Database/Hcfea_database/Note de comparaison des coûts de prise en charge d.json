@@ -2,24 +2,33 @@
     "titre": "Note de comparaison des coûts de prise en charge d’une personne en perte d’autonomie selon le lieu de vie (domicile ou Ehpad)",
     "territoire": "",
     "echelle": [
-        "nationale"
+        "communale",
+        "intercommunale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Cette note compare les coûts liés à la prise en charge d'une personne en perte d'autonomie, soit dans son domicile que dans un Ehpad (Etablissement d'hébergement pour personnes âgées dépendantes).",
+        "description_generale": "Cette note propose une estimation du coût de prise en charge des personnes en perte d'autonomie (principalement bénéficiaires de l’APA) et de sa répartition entre dépenses publiques et reste-à-charge (RAC) pour les personnes selon leur lieu de vie, mais aussi selon la configuration de leur ménage (en couple ou non) et leur niveau de revenu, pour différents GIR et niveaux de salaire horaire des intervenants à domicile.",
         "contexte": "",
-        "problematique": "La gestion des coûts de prise en charge d'une personne en perte d'autonomie selon le lieu de vie.",
-        "solution_envisagee": "Comparaison des coûts entre domicile et Ehpad pour aider à prendre des décisions éclairées.",
-        "objectifs": "Fournir une information précise aux professionnels de santé, aux aidants familiaux et aux personnes âgées concernant les coûts liés à la prise en charge d'une personne en perte d'autonomie."
+        "problematique": "Le coût actuel de prise en charge des personnes en perte d'autonomie selon le lieu de vie (domicile ou Ehpad) est plus faible que l'accueil en Ehpad, mais les dépenses publiques sont plus importantes pour les allocataires en GIR 1 à domicile.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Éclairer l’impact économique d’une politique de virage domiciliaire",
+            "Estimer le coût de prise en charge des personnes en perte d'autonomie selon leur lieu de vie et leur configuration socio-économique"
+        ]
     },
-    "porteur_initiative": "Gouvernement",
+    "porteur_initiative": "",
     "date": [
-        "2021-11-30"
+        "2021"
     ],
     "thematique": [
         "santé",
-        "famille",
-        "âge"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note de comparaison des coûts de prise en charge d.txt",

@@ -2,21 +2,23 @@
     "titre": "CARSAT ALSACE-MOSELLE MAMIES GÂTEAUX",
     "territoire": "",
     "echelle": [
-        "communale"
+        "intercommunale"
     ],
-    "public_vise": "Retraités: tous type de retraités. Autre: personnes de moins de 60 ans.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Association des amis de Mamies Gâteaux, portée par Malakoff-Humanis et Association générale des familles, propose des ateliers de pâtisserie pour favoriser les échanges intergénérationnels, transmettre savoirs et compétences, renforcer sentiment d'utilité et estime de soi, promouvoir inclusion sociale et mode de vie sain.",
-        "contexte": "",
-        "problematique": "Problématiques non spécifiquement mentionnées dans le texte",
-        "solution_envisagee": "Solution envisagée : Ateliers de pâtisserie pour favoriser échanges intergénérationnels et transmettre savoirs.",
-        "objectifs": "Favoriser les échanges intergénérationnels, renforcer lien social, transmettre savoirs et compétences, encourager mode de vie sain et équilibré, stimuler créativité et découverte"
+        "description_generale": "Un cycle de confection de pâtisserie de 56 séances (de 2 à 3h) avec temps conviviaux pendant les pauses et dégustations en commun, encadré par des pâtissiers professionnels.",
+        "contexte": "Retraités: tous types de retraités. Autre: personnes de moins de 60 ans.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Favoriser les échanges intergénérationnels au travers d'ateliers de pâtisserie, renforcer le lien social; transmettre les savoirs et compétences; promouvoir l'inclusion sociale des personnes âgées; encourager un mode de vie sain et équilibré.",
+        "objectifs": ""
     },
-    "porteur_initiative": "Association des amis de Mamies Gâteaux",
+    "porteur_initiative": "association des amis de Mamies Gâteaux – Mamies Gâteaux",
     "date": [],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.txt",

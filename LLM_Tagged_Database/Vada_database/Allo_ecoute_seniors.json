@@ -1,0 +1,24 @@
+{
+    "titre": "Allô écoute seniors",
+    "territoire": "Maxéville",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "seniors de 60 ans et plus",
+    "description": {
+        "description_generale": "Un service permettant aux maxévillois de 60 ans et plus de recevoir des appels téléphoniques pour rompre l'isolement et détecter éventuellement des situations d'urgence.",
+        "contexte": "La crise sanitaire due à la COVID-19 a isolé un grand nombre de seniors.",
+        "problematique": "La solitude et la perte d'autonomie sont des facteurs à risques pour les ainés.",
+        "solution_envisagee": "L'association d'insertion Rebond met à disposition deux agents pour passer les appels aux seniors.",
+        "objectifs": "Rompre l'isolement, détecter éventuellement des situations d'urgence et aider les seniors dans leur autonomie."
+    },
+    "porteur_initiative": "La municipalité de Maxéville",
+    "date": [],
+    "thematique": [
+        "santé publique",
+        "social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Allo_ecoute_seniors.txt",
+    "nom_fichier": "Allo_ecoute_seniors.txt"
+}

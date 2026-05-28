@@ -1,22 +1,28 @@
 {
     "titre": "EN ACCOMPAGNANT NOS PARTENAIRES DE L ’ ACTION SOCIALE",
-    "territoire": "",
+    "territoire": "Région Auvergne",
     "echelle": [
-        "intercommunale"
+        "intercommunale",
+        "départementale"
     ],
-    "public_vise": "Professionnels: eacteurs associatifs, bailleurs sociaux, bénévoles Petits Frères des Pauvres, Salariés des Clics et des Centres sociaux, structures évaluatrices",
+    "public_vise": "professionnels",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Promotion de l’offre de service et diffusion de la culture de la prévention en accompagnant nos partenaires de l'action sociale.",
-        "contexte": "",
-        "problematique": "Faire connaitre l'ensemble de notre offre de services bien-vieillir à nos partenaires en contact direct avec des publics retraités potentiellement fragiles dans une optique de Préservation de l’Autonomie et d'accès aux droits.",
-        "solution_envisagee": "Faire connaitre l'ensemble de notre offre de services bien-vieillir à nos partenaires en contact direct avec des publics retraités potentiellement fragiles dans une optique de Préservation de l’Autonomie et d'accès aux droits.",
-        "objectifs": ""
+        "description_generale": "Programmation annuelle d'interventions/formations en direction des principaux partenaires de l'Action Sociale de la Carsat Auvergne avec : participation au cycle de formation/information de la Cpam de l'Allier, participation aux journées de regroupement des bénévoles, co-organisation de webinaires avec Aura HLM, organisation d'une formation au Marketing Social et organisation de Focus Groupes.",
+        "contexte": "Promotion de l’offre de service promotion de la culture de la prévention en direction des partenaires de l'Action Sociale",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Accompagner nos principaux partenaires dans l’évolution de leurs pratiques pour favoriser les changements de comportement des seniors en termes de vieillissement actif en santé.",
+        "objectifs": "Faire connaitre l’ensemble de notre offre de services bien-vieillir à nos partenaires, évaluer les pratiques et organiser des Focus Groupes avec des structures évaluatrices."
     },
     "porteur_initiative": "Carsat Auvergne",
-    "date": [],
+    "date": [
+        "Depuis 2022 / 2023"
+    ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "lien social",
+        "prévention",
+        "participation citoyenne"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\38_EN_ACCOMPAGNANT_NOS_PARTENAIRES_DE_L_ACTION_SOC.txt",

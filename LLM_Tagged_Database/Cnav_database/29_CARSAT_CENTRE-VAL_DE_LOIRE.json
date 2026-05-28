@@ -2,22 +2,26 @@
     "titre": "CARSAT CENTRE-VAL DE LOIRE",
     "territoire": "",
     "echelle": [
-        "intercommunale"
+        "intercommunale",
+        "départementale"
     ],
-    "public_vise": "Retraités",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Le projet vise à accompagner les retraités dans l'apprentissage du numérique pour développer et favoriser le lien social.",
+        "description_generale": "Le bus numérique itinérant rend la formation numérique accessible à tous, quel que soit le lieu géographique. Il s'agit d'allier mobilité et sensibilisation des retraités.",
         "contexte": "",
-        "problematique": "La prévention de la perte d'autonomie",
-        "solution_envisagee": "Promouvoir l'utilisation du numérique comme vecteur du lien social, de mobilité, d'accès aux droits, d'ouverture sur l'information et sur le monde.",
+        "problematique": "La prévention de la perte d'autonomie et l'accès aux droits",
+        "solution_envisagee": "Formation numérique itinérante via un bus équipé de postes informatiques, tablettes et antenne satellite pour sensibiliser et accompagner les retraités dans l'utilisation des outils numériques.",
         "objectifs": ""
     },
     "porteur_initiative": "SAS Solutions Vie Pratique",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "technologie",
         "santé",
-        "social"
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",

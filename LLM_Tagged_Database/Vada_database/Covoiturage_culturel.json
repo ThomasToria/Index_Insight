@@ -1,0 +1,27 @@
+{
+    "titre": "Covoiturage culturel",
+    "territoire": "Saint-Quentin (02)",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "",
+    "description": {
+        "description_generale": "Favoriser l'accès à la culture pour les seniors en proposant un dispositif de covoiturage.",
+        "contexte": "Difficultés observées par le Conseil des seniors de Saint-Quentin concernant l'accès aux spectacles culturels et leur retour chez eux.",
+        "problematique": "L'isolement des seniors et la difficulté à se déplacer pour assister aux événements culturels.",
+        "solution_envisagee": "Concevoir un dispositif de covoiturage pour faciliter l'accès à ces événements.",
+        "objectifs": "Favoriser l'accès à la culture, réduire l'isolement des seniors et créer du lien social."
+    },
+    "porteur_initiative": "Le Conseil des seniors de Saint-Quentin",
+    "date": [
+        "2019-01-15"
+    ],
+    "thematique": [
+        "Mobilité",
+        "Culture",
+        "Seniors"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Covoiturage_culturel.txt",
+    "nom_fichier": "Covoiturage_culturel.txt"
+}

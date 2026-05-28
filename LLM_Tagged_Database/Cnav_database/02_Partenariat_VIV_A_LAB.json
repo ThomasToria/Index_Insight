@@ -4,19 +4,23 @@
     "echelle": [
         "nationale"
     ],
-    "public_vise": "Retraités, Professionnels (porteurs de projets/entrepreneurs dans le champ du vieillissement actif)",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "accompagnement de projets",
     "description": {
-        "description_generale": "Caisse nationale de l’Assurance retraite, Caisse des dépôts, France Active, Agirc-Arrco, MSA sont les porteurs de la pépite. Les partenaires incluent réseaux régionaux des fondateurs (supra), Gérontopôles, Conseils départementaux et régionaux ainsi que 14 experts en accompagnement de projets.",
-        "contexte": "",
-        "problematique": "Encourager l’innovation dans les aides techniques, technologiques ou organisationnelles pour prévenir la perte d’autonomie et le vieillissement actif.",
-        "solution_envisagee": "Repérer et accompagner des projets répondant à des besoins nouveaux ou apportant de nouvelles solutions.",
-        "objectifs": ""
+        "description_generale": "VIVA Lab est un accélérateur destiné à accompagner la structuration nationale et la croissance de projets améliorant la qualité de vie des retraités autonomes. Il propose deux programmes d'accompagnement (Accès au marché et Accélération) suivant le stade de maturité des projets.",
+        "contexte": "Depuis le 19 février 2019, VIVA Lab accompagne 45 solutions sur différents domaines : autonomie numérique, bien-être et perte d'autonomie.",
+        "problematique": "Le besoin de renforcer les liens entre retraités, leurs proches et la société civile pour valoriser leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Encourager et soutenir l'innovation nouvelle génération d'aides techniques, technologiques ou organisationnelles dédiées à la prévention de la perte d'autonomie et du vieillissement actif.",
+        "objectifs": "Accompagner les projets répondant aux besoins nouveaux des retraités autonomes, ayant un potentiel national et/ou de réplicabilité sur d'autres territoires."
     },
     "porteur_initiative": "Caisse nationale de l’Assurance retraite, Caisse des dépôts, France Active, Agirc-Arrco, MSA",
-    "date": [],
+    "date": [
+        "Depuis le 19 février 2019"
+    ],
     "thematique": [
-        "vieillissement actif",
-        "innovation"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\02_Partenariat_VIV_A_LAB.txt",

@@ -1,22 +1,26 @@
 {
-    "titre": "ATALIER « BIENVENUE À LA RETRAITE » ADAPTÉ AU PUBLIC DES SALARIÉS ESAT",
-    "territoire": "",
+    "titre": "ATELIER « BIENVENUE À LA RETRAITE » ADAPTÉ AU PUBLIC DES SALARIÉS ESAT",
+    "territoire": "Normandie",
     "echelle": [
-        "intercommunale"
+        "départementale"
     ],
-    "public_vise": "Les salariés des ESAT proches du départ en retraite.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Dans le cadre du déploiement des parcours « Bienvenue à la Retraite » (BAR), la Carsat a souhaité avoir une attention particulière auprès des salariés ESAT. En effet, ces salariés très encadrés durant toute leur activité professionnelle se retrouvent très dépourvu.",
-        "contexte": "",
-        "problematique": "Les salariés des ESAT proches du départ en retraite sont souvent confrontés à une transition difficile et complexe.",
-        "solution_envisagee": "L'organisation d'ateliers adaptés aux spécificités de ces salariés, avec un accompagnement personnalisé.",
-        "objectifs": "Accompagner le passage à la retraite de publics potentiellement très fragilisés par ce changement de statut et mutualiser les ateliers à l'échelle départementale pour disposer d'une meilleure couverture."
+        "description_generale": "Dans le cadre du déploiement des parcours « Bienvenue à la Retraite » (BAR), la Carsat a souhaité avoir une attention particulière auprès des salariés ESAT. Les outils d'animation des séances composant le parcours BAR ont été ajustés et adaptés au public avec l'appui du service retraite de la Carsat, de référents retraite au sein de l'AFRESAT et de NEOSILVER.",
+        "contexte": "Les salariés ESAT sont très encadrés durant toute leur activité professionnelle et ont du mal à identifier les soutiens possibles pour rester dans un vieillissement actif et autonome.",
+        "problematique": "Le besoin de renforcer les liens entre les salariés des ESAT, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Accompagner le passage à la retraite de publics potentiellement très fragilisés par ce changement de statut et mutualiser les ateliers à l'échelle départementale pour disposer d'une meilleure couverture.",
+        "objectifs": "Accompagner le passage à la retraite des salariés ESAT, valoriser leur mémoire et leur place dans la vie locale, renforcer les liens entre les salariés des ESAT, leurs proches et la société civile."
     },
     "porteur_initiative": "Carsat Normandie et NEOSILVER",
-    "date": [],
+    "date": [
+        "en septembre 2023"
+    ],
     "thematique": [
-        "Retraite",
-        "Accompagnement social"
+        "santé",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\34_ATELIER_BIENVENUE_A_LA_RETRAITE_ADAPTE_AU_PUBLI.txt",

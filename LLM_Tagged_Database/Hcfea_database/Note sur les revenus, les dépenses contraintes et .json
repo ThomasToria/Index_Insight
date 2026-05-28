@@ -2,24 +2,32 @@
     "titre": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
     "territoire": "",
     "echelle": [
-        "nationale"
+        "départementale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Cette note présente un état des lieux concernant les revenus, les dépenses contraintes et le patrimoine des seniors.",
-        "contexte": "Le document est issu d'une réunion du Conseil de l'âge du Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA.",
-        "problematique": "Les revenus des seniors ne couvrent pas toujours leurs dépenses contraintes et leur patrimoine est souvent limité.",
+        "description_generale": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
+        "contexte": "",
+        "problematique": "Les seniors détiennent aujourd’hui environ 60 % du patrimoine non financier et 60 % du patrimoine financier. Toutefois, ces situations plutôt favorables cachent des disparités importantes.",
         "solution_envisagee": "",
-        "objectifs": "Élaborer une compréhension approfondie du contexte financier des seniors pour améliorer les politiques sociales."
+        "objectifs": [
+            "Analyser les revenus, les dépenses contraintes et le patrimoine des seniors",
+            "Rappeler certains effets de générations et rappeller quelques éléments de comparaisons internationales",
+            "Intégrer les limites de l'appareil statistique concernant la population en Ehpad nuance les résultats, tout comme les perspectives d’évolution"
+        ]
     },
-    "porteur_initiative": "Conseil de l'âge",
+    "porteur_initiative": "",
     "date": [
         "20/05/2022"
     ],
     "thematique": [
         "santé",
-        "social",
-        "vieillissement"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes et .txt",

@@ -1,0 +1,37 @@
+{
+    "titre": "Création d'un réseau d'entraide",
+    "territoire": [
+        "communale",
+        "intercommunale"
+    ],
+    "echelle": [
+        "régionale",
+        "nationale"
+    ],
+    "public_vise": "autre",
+    "nature_initiative": "action intergénérationnelle",
+    "description": {
+        "description_generale": "Proposer des solutions aux seniors basées sur un réseau d'entraide à différents niveaux.",
+        "contexte": "Le besoin croissant de soutien social et l’isolement des personnes âgées sont des enjeux majeurs dans la société actuelle.",
+        "problematique": "Renforcer les liens sociaux entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Création d'un réseau d'entraide basé sur le bénévolat et le troc, porté par les citoyens eux-mêmes ou proposés par la mairie.",
+        "objectifs": [
+            "Renforcer les liens sociaux entre les seniors",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": "La commune de la ville concernée",
+    "date": [
+        "2019",
+        "fin janvier 2025"
+    ],
+    "thematique": [
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
+    ],
+    "source_site": "Fiches actions",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche4-LienSocial.txt",
+    "nom_fichier": "Fiche4-LienSocial.txt"
+}

@@ -1,0 +1,27 @@
+{
+  "titre": "Ateliers Préparation à la Retraite",
+  "territoire": ["communale", "régionale"],
+  "echelle": ["quartier", "intercommunale"],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description_generale": "Proposer des ateliers aux futurs retraités de « préparation à la retraite »",
+  "contexte": "La ville souhaite améliorer l’isolement des personnes âgées et favoriser les interactions entre les résidents, leurs proches et la société civile.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Proposer des ateliers à la préparation face à la rupture entre le monde du travail et la retraite",
+  "objectifs": [
+    "Prévenir la rupture entre la vie professionnelle et la retraite",
+    "Préparer à la vie à la retraite",
+    "Éviter l’isolement"
+  ],
+  "porteur_initiative": "La ville de [ville] avec le soutien des partenaires sociaux et institutionnels",
+  "date": ["depuis 2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "Fiches actions"
+}

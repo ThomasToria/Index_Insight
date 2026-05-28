@@ -1,0 +1,132 @@
+================================================================================
+                        INDEX_INSIGHT - PROJECT WORK SUMMARY
+================================================================================
+
+PROJECT OVERVIEW
+================================================================================
+Index_Insight is a multi-stage data processing pipeline designed to extract, 
+clean, segment, and analyze social services information from multiple French 
+databases.
+
+DATA SOURCES PROCESSED
+================================================================================
+- 6 primary databases: Cnav, FdF, Fiches_actions, Hcfea, iresp_autonomie, Vada
+- Additional source: CNSA (with scraping completion report)
+- Multiple CSV index files for tracking and validation
+
+COMPLETED WORK - 9-STEP PIPELINE
+================================================================================
+
+STEP 1: CLEAN & NORMALIZE TEXT
+Status: ✅ COMPLETE
+Output: Cleaned_Database/
+Description: Removes formatting noise, page breaks, extra whitespace, and 
+standardizes line endings and spacing across all documents.
+
+STEP 2: SEGMENT DATABASE
+Status: ✅ COMPLETE
+Output: Segmented_Database/
+Description: Splits documents into lines, paragraphs, and sentences for 
+structured processing.
+
+STEP 3: DETECT SECTIONS
+Status: ✅ COMPLETE
+Output: Sectioned_Database/
+Description: Identifies and maps document structure/sections for hierarchical 
+analysis.
+
+STEP 4: EXTRACT ENTITIES
+Status: ✅ COMPLETE
+Output: Entities_Database/
+Description: Named Entity Recognition (NER) tasks to identify key entities 
+in documents.
+
+STEP 5: EXTRACT CANDIDATES
+Status: ✅ COMPLETE
+Output: Candidates_Database/
+Description: Extracts candidate information and relevant data points from 
+processed documents.
+
+STEP 6: SCORE CANDIDATES
+Status: ✅ COMPLETE
+Output: Scored_Database/
+Generated Reports:
+  - keyword_scores_top_10.csv
+  - keyword_scores_bottom_10.csv
+  - keyword_scores_full.csv
+Description: Keyword-based scoring system for candidate ranking and analysis.
+
+STEP 7: BUILD FINAL JSON
+Status: ✅ COMPLETE
+Output: Final_Tagged_Database/all_final_tagged_data.json
+Description: Consolidates all processed data into a single structured JSON 
+file for final delivery.
+
+STEP 8: EVALUATE RESULTS
+Status: ✅ COMPLETE
+Output: Evaluation/final_tagged_review.csv
+Description: Comprehensive evaluation metrics and validation of results across 
+all databases.
+
+STEP 9: LLM EXTRACTION
+Status: ✅ COMPLETE
+Output: LLM_Tagged_Database/
+Model: Ollama with Qwen2.5:3b
+Description: Local LLM-based extraction and tagging using Ollama API.
+Raw responses archived in _raw_responses/ folder.
+
+WEB SCRAPING SCRIPTS
+================================================================================
+- cnav_scrap.py - Cnav website data extraction
+- fdf_scrap.py - FdF website data extraction
+- hcfea_scrap.py - HCFEA website data extraction
+- vada_scrap.py - VADA website data extraction
+- cnsa_srap.py - CNSA website data extraction
+  └─ Completion Report: cnsa_scraping_report.csv
+
+UTILITY SCRIPTS
+================================================================================
+- Docx_to_txt.py - Converts Word documents to plain text format
+- filename_cleaner.py - Standardizes and cleans filenames
+- compute_threshold.py - Calculates scoring thresholds for analysis
+- score_keywords.py - Generates keyword scoring analytics
+
+INFRASTRUCTURE & DEPENDENCIES
+================================================================================
+Python Version: 3.x
+Core Libraries:
+  - requests - HTTP requests for web scraping
+  - beautifulsoup4 - HTML/XML parsing
+  - pypdf - PDF text extraction
+  - lxml - XML/HTML parsing
+
+LLM Integration:
+  - Ollama API for local model execution
+  - Model: Qwen2.5:3b
+  - Endpoint: http://localhost:11434/api/chat
+
+Database Processing:
+  - Multiple databases with thousands of documents
+  - Parallel processing across 6 primary data sources
+  - Efficient pipeline with progressive data enrichment
+
+DELIVERABLES READY FOR USE
+================================================================================
+✓ Cleaned and processed data across all 6 databases
+✓ Final tagged JSON with structured, machine-readable data
+✓ Evaluation metrics and comprehensive scoring analysis
+✓ Raw LLM responses archived for review and validation
+✓ Database organization with clear separation of processing stages
+
+PROJECT STATUS
+================================================================================
+PHASE: POST-PROCESSING & COMPLETE
+
+All major pipeline steps have been successfully executed and results have 
+been evaluated. The project is ready for:
+  - Final data delivery and export
+  - Analysis and reporting
+  - Integration with downstream systems
+  - Further specialized processing as needed
+
+Date Completed: May 11, 2026

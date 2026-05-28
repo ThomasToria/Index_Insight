@@ -1,23 +1,26 @@
 {
-    "titre": "ATALIER MNÉMOTRICITÉ",
+    "titre": "ATELIER MNÉMOTRICITÉ",
     "territoire": "",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Tout public retraité, prioritairement les publics fragilisés pratiquant pas ou peu d'activité physique ou rencontrant des difficultés liées aux barrières linguistiques",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "L’atelier se déroule en 6 séances (1h30 par séance) et s’inscrit dans le cadre des actions visant à améliorer l'accompagnement et la qualité de vie des personnes retraitées, notamment celles qui connaissent des vulnérabilités liées à la langue.",
-        "contexte": "",
-        "problematique": "Préserver et développer les capacités mnésiques",
-        "solution_envisagee": "Travail associant une approche corporelle et sensorielle",
-        "objectifs": "Améliorer l'accompagnement et la qualité de vie des personnes retraitées, notamment celles ayant des vulnérabilités liées à la langue."
+        "description_generale": "Un atelier de 6 séances (1 conférence + 5 séances d'ateliers) de 1h30, visant à préserver et développer les capacités mnésiques des personnes retraitées. Il s'adresse aux publics fragilisés en résidences sociales.",
+        "contexte": "L'atelier est organisé par Carsat Rhône-Alpes avec le soutien de partenaires locaux, notamment ADOMA.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L'atelier propose une approche corporelle et sensorielle pour améliorer l'accueil des informations et renforcer le lien social.",
+        "objectifs": "Préserver et développer les capacités mnésiques, redonner confiance en soi aux participants fragilisés, favoriser la participation sociale."
     },
     "porteur_initiative": "Carsat Rhône-Alpes",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Santé",
-        "Activité physique",
-        "Langue"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\19_ATELIER_MNEMOTRICITE.txt",

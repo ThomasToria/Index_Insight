@@ -1,26 +1,29 @@
 {
-    "titre": "Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilitabilité financière aux Ehpad, RA, RSS",
+    "titre": "Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS",
     "territoire": "",
     "echelle": [
-        "nationale"
+        "régionale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "rapport",
     "description": {
-        "description_generale": "Note présentant une analyse sur les revenus, dépenses contraintes, patrimoine des seniors et l'accessibilitabilité financière aux Ehpad, RA, RSS.",
-        "contexte": "Adoptée par les membres à l'issue de la séance du 8 novembre 2022",
-        "problematique": "Revenus, dépenses contraintes, patrimoine des seniors et accessibilitabilité financière aux Ehpad, RA, RSS.",
+        "description_generale": "Cette note propose une méthodologie nouvelle pour évaluer l'accessibilité financière des Ehpad, en combinant la quantité de places installées, le niveau de reste à charge et le niveau de ressource disponible.",
+        "contexte": "",
+        "problematique": "La politique d’Ehpad ne permet pas de déduire une inaccessibilité financière des établissements aux personnes âgées vulnérables. Les disparités territoriales et les contraintes de prix sont importantes, mais l'absence de données sur la quantité de places installées et le niveau de reste à charge limitent l'évaluation.",
         "solution_envisagee": "",
-        "objectifs": ""
+        "objectifs": [
+            "Évaluer l’accessibilité financière des Ehpad",
+            "Proposer une méthodologie nouvelle pour évaluer cette inaccessibilité"
+        ]
     },
     "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA",
     "date": [
-        "2022-11-08"
+        "2022-11-23"
     ],
     "thematique": [
-        "finances",
-        "seniors",
-        "services sociaux",
-        "logement"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.txt",
