@@ -1,22 +1,32 @@
 {
     "titre": "Des toilettes publiques 'nouvelles générations'",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Afin de faciliter le déplacement des piétons en ville, les municipalités sont encouragées à prendre en compte plusieurs éléments tels que les trottoirs, les structures de repos et les toilettes publiques. Ce dernier élément est souvent évoqué par les touristes ainsi que par les habitants.",
-        "contexte": "",
-        "problematique": "Il existe une différence d'habitude entre certaines générations qui préfèrent utiliser des sanitaires dans un café pour profiter de la même occasion, et celles plus âgées qui ont besoin régulièrement de toilettes publiques.",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer les conditions de toilettes publiques dans la commune, en particulier pour les personnes âgées.",
+        "contexte": "Les toilettes publiques sont souvent mal utilisées par les personnes âgées, ce qui peut conduire à des problèmes de mobilité et d’isolement social. Les initiatives comme celle-ci visent à améliorer ces conditions.",
+        "problematique": "Le manque de toilettes accessibles pour les personnes âgées dans les communes.",
+        "solution_envisagee": "Implanter des toilettes publiques 'nouvelles générations' avec des équipements spécifiques et une facilité d'accès aux personnes à mobilité réduite.",
+        "objectifs": [
+            "Encourager les déplacements piétonniers",
+            "Fournir aux habitants et aux touristes des toilettes accessibles"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Municipalité de Dijon",
+    "date": [
+        "2014"
+    ],
     "thematique": [
-        "PIÉTONNIERS",
-        "TOILETTES_PUBLIQUES"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_toilettes_publiques_nouvelles_generations.txt",

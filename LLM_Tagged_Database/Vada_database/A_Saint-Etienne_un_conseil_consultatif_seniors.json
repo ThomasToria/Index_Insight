@@ -1,22 +1,31 @@
 {
     "titre": "À Saint-Étienne, un conseil consultatif seniors",
-    "territoire": "Saint-Étienne",
+    "territoire": "Saint-Etienne",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "conseil consultatif",
     "description": {
-        "description_generale": "La Ville de Saint-Etienne compte environ 45 000 personnes de plus de 60 ans, soit un quart de la population. Avec l'allongement de l'espérance de vie, cette proportion devrait augmenter à un tiers en 2030.",
-        "contexte": "Consciente des évolutions démographiques et sociales liées à l’allongement de l’espérance de vie, la Ville de Saint-Etienne développe une politique gérontologique ambitieuse.",
-        "problematique": "Développer une politique gérontologique pour répondre aux défis sociaux et démographiques liés à l'allongement de l'espérance de vie.",
-        "solution_envisagee": "La création d'un conseil consultatif seniors",
-        "objectifs": ""
+        "description_generale": "Un Conseil consultatif des seniors a été créé par décision du Conseil municipal pour associer la population âgée à la politique gérontologique de la Ville de Saint-Etienne.",
+        "contexte": "La population stéphanoise est composée d'une majorité de personnes de plus de 60 ans, et l'allongement de l'espérance de vie prévoit une augmentation significative des seniors dans les années à venir. La Ville de Saint-Etienne a donc engagé une politique gérontologique ambitieuse pour favoriser le « bon vieillir ».",
+        "problematique": "Promouvoir le « vivre ensemble » et la contribution citoyenne des seniors en leur permettant d'être des citoyens actifs et en veillant à ce qu'ils aient accès aux processus politiques et civiques; renforcer leur participation à la société.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Promouvoir le « vivre ensemble » et la contribution citoyenne des seniors",
+            "Renforcer leur participation à la société"
+        ]
     },
     "porteur_initiative": "La Ville de Saint-Etienne",
-    "date": [],
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "gérontologie",
-        "politique publique"
+        "vieillissement",
+        "participation citoyenne",
+        "société civile",
+        "vieillesse",
+        "contribution sociale"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Saint-Etienne_un_conseil_consultatif_seniors.txt",

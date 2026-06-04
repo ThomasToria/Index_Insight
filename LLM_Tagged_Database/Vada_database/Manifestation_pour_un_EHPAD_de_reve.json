@@ -1,20 +1,31 @@
 {
     "titre": "Manifestation pour un EHPAD de rêve",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
-    "description": {
-        "description_generale": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel, visant à revendiquer des droits pour un EHPAD de rêve.",
-        "contexte": "Début 2022",
-        "problematique": "Manifestation manquée en raison d'un atelier préalable",
-        "solution_envisagee": "Rassemblement par petits groupes des revendications écrites sur des panneaux, temps pour l'écoute et la parole libre des résidents.",
-        "objectifs": "Revendiquer les droits de l'EHPAD, rassembler les revendications des résidents"
-    },
-    "porteur_initiative": "",
-    "date": [
-        "Début 2022"
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
     ],
-    "thematique": [],
+    "public_vise": "professionnels",
+    "nature_initiative": "atelier",
+    "description": {
+        "description_generale": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement. Les résidents ont manifesté pour un EHPAD de rêve.",
+        "contexte": "Le texte indique que le projet visait à rassembler les revendications des résidents autour d'un atelier 'manifestation'.",
+        "problematique": "Réaliser une manifestation pour un EHPAD de rêve, valoriser les revendications des résidents et inclure les résidents dans une pratique artistique et réflexion collective.",
+        "solution_envisagee": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement. Les résidents ont manifesté pour un EHPAD de rêve, rassemblant les revendications autour d'un projet d'ateliers.",
+        "objectifs": [
+            "valoriser les revendications des résidents",
+            "apprendre à formuler ses souhaits pour améliorer le cadre de vie au sein des établissements",
+            "inclure les résidents dans une pratique artistique et réflexion collective"
+        ]
+    },
+    "porteur_initiative": "EHPAD Saint-Bruno",
+    "date": [
+        "2022"
+    ],
+    "thematique": [
+        "santé",
+        "lien social",
+        "intergénérationnel"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Manifestation_pour_un_EHPAD_de_reve.txt",
     "nom_fichier": "Manifestation_pour_un_EHPAD_de_reve.txt"

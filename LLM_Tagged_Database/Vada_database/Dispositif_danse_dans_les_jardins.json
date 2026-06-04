@@ -1,22 +1,32 @@
 {
-    "titre": "Dispositif \"danse dans les jardins\"",
-    "territoire": "",
+    "titre": "Dispositif 'danse dans les jardins'",
+    "territoire": "Nice (06)",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Dans le contexte de crise sanitaire, la Direction des Seniors a développé une offre renforcée en extérieur pour maintenir les activités seniors. Le dispositif \"Danse dans les jardins\" propose six danses différentes (hip-hop, disco, country, capoeira, danse africaine, danse en ligne) à cinq jardins municipaux de quartiers différents.",
-        "contexte": "Dans le contexte de crise sanitaire, la programmation intérieure n'a pas pu être maintenue. Les seniors ont demandé des activités extérieures.",
-        "problematique": "La possibilité de tenir les activités en intérieur a été limitée par la crise sanitaire.",
-        "solution_envisagee": "Le dispositif \"Danse dans les jardins\" propose des activités extérieures pour maintenir l'engagement des seniors.",
-        "objectifs": ""
+        "description_generale": "Dans le contexte de crise sanitaire, la Direction des Seniors a développé une offre renforcée en extérieur. C'est dans ce contexte que nous avons proposé au public le dispositif 'Danse dans les jardins'.",
+        "contexte": "Contexte de crise sanitaire et impossibilité de tenir programmation en intérieur.",
+        "problematique": "Le besoin de renforcer les liens entre seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposition d'activités en extérieur pour six danses différentes (hip-hop, disco, country, capoeira, danse africaine, danse en ligne) dans cinq jardins municipaux de quartiers différents.",
+        "objectifs": [
+            "Renforcer les liens entre seniors et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Direction des Seniors",
-    "date": [],
+    "porteur_initiative": "Direction des Seniors de Nice (06)",
+    "date": [
+        "2023"
+    ],
     "thematique": [
-        "Santé publique",
-        "Culture"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_danse_dans_les_jardins.txt",

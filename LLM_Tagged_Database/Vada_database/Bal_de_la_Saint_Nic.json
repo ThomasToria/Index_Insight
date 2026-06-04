@@ -1,22 +1,36 @@
 {
     "titre": "Bal de la Saint Nic'",
-    "territoire": "",
+    "territoire": "Commune: Nancy (54)",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Promouvoir les jeunes artistes, créer du lien social et encourager l'échange intergénérationnel en organisant un bal de la Saint-Nicolas avec un karaoké intergénérationnel.",
-        "contexte": "La Ville de Nancy porte une attention toute particulière à une tradition fortement ancrée dans le territoire : les Fêtes de la Saint-Nicolas.",
-        "problematique": "",
-        "solution_envisagee": "Organiser un bal avec un karaoké intergénérationnel pour promouvoir les jeunes artistes, créer du lien social et encourager l'échange intergénérationnel.",
-        "objectifs": "Promouvoir la culture musicale, favoriser l'échange entre générations et renforcer le sentiment de communauté."
+        "description_generale": "Un karaoké intergénérationnel organisé à l'occasion du Bal de la Saint-Nicolas dans une ambiance festive et musicale.",
+        "contexte": "La Ville de Nancy a poursuivi le projet en rendant l'action intergénérationnelle et participative avec du karaoké, professionnalisant ainsi avec la participation d'étudiants stagiaires de la Music Academy International.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un karaoké intergénérationnel organisé à l'occasion du Bal de la Saint-Nicolas avec des élèves de la Music Academy International.",
+        "objectifs": [
+            "Réunir les jeunes artistes",
+            "Créer du lien social",
+            "Encourager l'échange intergénérationnel",
+            "Participer à des animations collectives"
+        ]
     },
-    "porteur_initiative": "La Ville de Nancy",
-    "date": [],
+    "porteur_initiative": "VillesAM",
+    "date": [
+        "2017",
+        "2018"
+    ],
     "thematique": [
-        "Culture",
-        "Éducation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bal_de_la_Saint_Nic.txt",

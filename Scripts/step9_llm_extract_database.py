@@ -1,31 +1,20 @@
 from pathlib import Path
 import json
 import re
-import requests
-from tqdm import tqdm
+import requests # type: ignore
+from tqdm import tqdm # type: ignore
 
 PROJECT_ROOT = Path(r"C:\Users\PC\Desktop\Project_Internship\Index_Insight")
 
-INPUT_DIR = PROJECT_ROOT / "Cleaned_Database" / "Hcfea_database"
-OUTPUT_DIR = PROJECT_ROOT / "LLM_Tagged_Database" / "Hcfea_database"
+INPUT_DIR = PROJECT_ROOT / "Cleaned_Database" / "Vada_database"
+OUTPUT_DIR = PROJECT_ROOT / "LLM_Tagged_Database" / "Vada_database"
 
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
 MODEL = "qwen2.5:1.5b"
 
 MAX_CHARS = 2500
-OVERWRITE_EXISTING = True
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-SOURCE_SITE_MAP = {
-    "Vada_database": "VADA",
-    "Cnav_database": "CNAV",
-    "cnsa_database": "CNSA",
-    "FdF_database": "Fondation de France",
-    "Fiches_actions_database": "Fiches actions",
-    "Hcfea_database": "HCFEA",
-    "iresp_autonomie_database": "IRESP"
-}
 
 EXPECTED_KEYS = [
     "titre",
@@ -45,7 +34,31 @@ EXPECTED_KEYS = [
 ]
 
 def get_source_site(txt_path: Path) -> str:
-    return "HCFEA"
+    return "VADA"
+
+def has_nature_initiative(obj):
+    if isinstance(obj, dict):
+        if "nature_initiative" in obj:
+            return True
+        return any(has_nature_initiative(value) for value in obj.values())
+
+    if isinstance(obj, list):
+        return any(has_nature_initiative(item) for item in obj)
+
+    return False
+
+def should_skip_file(output_file: Path) -> bool:
+    if not output_file.exists():
+        return False
+
+    try:
+        with output_file.open("r", encoding="utf-8") as f:
+            existing_json = json.load(f)
+
+        return has_nature_initiative(existing_json)
+
+    except Exception:
+        return False
 
 def empty_record(source_site: str) -> dict:
     return {
@@ -422,22 +435,24 @@ def main():
 
     print(f"{len(txt_files)} fichier(s) trouvé(s)")
     print(f"Modèle : {MODEL}")
-    print(f"Écrasement des JSON existants : {OVERWRITE_EXISTING}")
+    print("Mode : ignore les JSON qui contiennent déjà nature_initiative")
 
     results = []
     errors = []
+    skipped = 0
 
     for txt_file in tqdm(
         txt_files,
-        desc="LLM extraction corpus complet",
+        desc="LLM extraction VADA",
         unit="fichier"
     ):
         try:
             relative_path = txt_file.relative_to(INPUT_DIR)
             output_file = OUTPUT_DIR / relative_path.with_suffix(".json")
 
-            if output_file.exists() and not OVERWRITE_EXISTING:
-                tqdm.write(f"Déjà traité, ignoré : {txt_file.name}")
+            if should_skip_file(output_file):
+                skipped += 1
+                tqdm.write(f"Déjà au nouveau format, ignoré : {txt_file.name}")
                 continue
 
             tqdm.write(f"→ {relative_path}")
@@ -460,7 +475,7 @@ def main():
             errors.append(error)
             tqdm.write(f"ERREUR avec {txt_file.name}: {e}")
 
-    global_output = OUTPUT_DIR / "all_corpus_llm.json"
+    global_output = OUTPUT_DIR / "new_or_updated_vada_llm.json"
 
     with global_output.open("w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
@@ -471,9 +486,10 @@ def main():
         json.dump(errors, f, indent=4, ensure_ascii=False)
 
     print("\nTerminé")
-    print(f"Fichiers traités : {len(results)}")
+    print(f"Fichiers ignorés déjà au nouveau format : {skipped}")
+    print(f"Fichiers traités ou retraités : {len(results)}")
     print(f"Erreurs : {len(errors)}")
-    print(f"Fichier global : {global_output}")
+    print(f"Fichier global des nouveaux/retraités : {global_output}")
     print(f"Rapport erreurs : {error_output}")
     print(f"Réponses brutes : {OUTPUT_DIR / '_raw_responses'}")
 

@@ -1,22 +1,40 @@
 {
     "titre": "Et si on se retrouvait",
-    "territoire": "",
+    "territoire": "Saint-Etienne, France",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Le Conseil Consultatif Seniors de Saint-Etienne a été créé en 2014. Il travaille régulièrement sur les huit thématiques du label VADA, dont l’isolement des seniors.",
-        "contexte": "La question de l'isolement des seniors est ressortie comme une problématique majeure lors d'ateliers de travail. Les seniors ont souhaité dynamiser leur quartier en proposant des temps de rencontres réguliers pour faciliter la participation au plus près.",
-        "problematique": "L’isolement des seniors, notamment à cause de la perte de conjoint, la retraite, l'isolement familial et les difficultés à se déplacer.",
-        "solution_envisagee": "Proposer des temps de rencontres réguliers pour faciliter la participation des seniors isolés au plus près de leur quartier.",
-        "objectifs": ""
+        "description_generale": "Une initiative visant à lutter contre la solitude et à favoriser le lien social par des rencontres régulières entre seniors isolés dans leur quartier.",
+        "contexte": "Le Conseil Consultatif Seniors de Saint-Etienne a identifié l'isolement comme une problématique majeure concernant les seniors, notamment en raison de la perte de conjoint et du retrait. Les seniors ont souhaité dynamiser leur quartier en proposant des temps de rencontres pour faciliter la participation des seniors isolés.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des temps de rencontres réguliers pour faciliter la participation des seniors isolés au plus près de chez eux.",
+        "objectifs": [
+            "Lutter contre la solitude",
+            "Favoriser le lien social",
+            "Être au plus près de la population en étant dans les différents quartiers",
+            "Permettre aux seniors de partager des moments de convivialité, d'information et de connaître les structures existantes sur leur quartier",
+            "Intégrer différents âges de seniors dans le quartier",
+            "Proposer des activités qui mettent en avant les talents de chacun",
+            "Favoriser l'entraide et la solidarité entre la population de la commune"
+        ]
     },
-    "porteur_initiative": "Le Conseil Consultatif Seniors de Saint-Etienne",
-    "date": [],
+    "porteur_initiative": "EHPAD La Résidence de l’Ille, Ville Amie des Aînés depuis 2016",
+    "date": [
+        "depuis 2014"
+    ],
     "thematique": [
-        "vieillesse",
-        "société"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_se_retrouvait.txt",

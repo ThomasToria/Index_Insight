@@ -1,23 +1,35 @@
 {
     "titre": "La Chaîne de télé des résidents de l’EHPAD",
-    "territoire": "",
+    "territoire": "Commune: Grenoble, 38",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "Résidents de l'EHPAD Saint Bruno de Grenoble",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Un projet de chaîne de télévision interne à l'établissement pour informer sur la vie de la structure et maintenir le lien social.",
-        "contexte": "",
-        "problematique": "La communication interne et externe à l’établissement est limitée, nécessitant une solution innovante pour améliorer les liens sociaux.",
-        "solution_envisagee": "Création d'une chaîne de télévision interne qui diffusera du contenu d'animation en chambre.",
-        "objectifs": "Informer sur la vie de l'établissement, maintenir et développer le lien social interne et externe, offrir un divertissement diversifié, faciliter l'accès à la culture et soutenir les capacités cognitives des résidents."
+        "description_generale": "La chaîne de télévision des résidents de l’EHPAD Saint Bruno de Grenoble a été mise en place pour informer sur la vie de la structure, maintenir le lien social interne et externe à l’établissement, permettre l’accès à la culture, participer au maintien des capacités physiques et cognitives, et offrir un moyen de plaisir via un média connu des personnes âgées.",
+        "contexte": "La chaîne a été mise en place pendant le confinement en urgence pour répondre aux besoins d’animation limités. Elle a permis de toucher de nombreux résidents de l’établissement, notamment ceux qui étaient isolés.",
+        "problematique": "Le besoin de maintenir les liens sociaux et culturels entre les résidents des EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La chaîne de télévision interne au sein de l’EHPAD Saint Bruno de Grenoble a été créée pour informer sur la vie de la structure, maintenir le lien social interne et externe à l’établissement, permettre l’accès à la culture, participer au maintien des capacités physiques et cognitives, et offrir un moyen de plaisir via un média connu des personnes âgées.",
+        "objectifs": [
+            "Rechercher des soutiens financiers",
+            "Installer et régler les télévisions des résidents",
+            "Former l’équipe dédiée pour proposer la mise en ligne de contenus divers sur la chaîne",
+            "Embaucher une animatrice"
+        ]
     },
-    "porteur_initiative": "Villes d'Amiens-des-Aines",
-    "date": [],
+    "porteur_initiative": "Ville Amie des Aînés depuis 2016, Grenoble (38)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Communication interne",
-        "Culture",
-        "Santé mentale"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Chaine_de_tele_des_residents_de_lEHPAD.txt",

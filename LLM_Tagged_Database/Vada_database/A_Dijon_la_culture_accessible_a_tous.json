@@ -1,22 +1,35 @@
 {
     "titre": "A Dijon, la culture accessible à tous!",
-    "territoire": "",
+    "territoire": "Commune de Dijon",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "L'objectif principal est d'améliorer l'accès physique aux lieux culturels de la ville de Dijon.",
-        "contexte": "La Ville de Dijon réalise un travail important de mise en accessibilité de divers bâtiments culturels, notamment le Théâtre de la Fontaine d’Ouche et le Musée des Beaux-Arts.",
-        "problematique": "L'accessibilité physique des lieux culturels est un prérequis crucial pour permettre l'accès à la culture pour tous.",
-        "solution_envisagee": "La Ville de Dijon réalise des travaux importants afin de rendre accessibles divers bâtiments culturels, notamment le Théâtre des Beaux-Arts et le Musée des Beaux-Arts.",
-        "objectifs": ""
+        "description_generale": "La Ville de Dijon a mis en place des initiatives pour rendre la culture accessible à tous, notamment grâce à une enquête sur les attentes des seniors.",
+        "contexte": "Dijon est un exemple d'une ville qui s'engage dans l'amélioration de l'accès à la culture pour tous, en particulier pour les personnes âgées. Les travaux de mise en accessibilité du Théâtre de la Fontaine d’Ouche et du Musée des Beaux Arts ont été réalisés avec un engagement fort.",
+        "problematique": "Favoriser l'accès aux seniors à la culture, répondre aux besoins spécifiques des plus âgés en termes de sorties et d'activités culturelles.",
+        "solution_envisagee": "Améliorer l'accès aux lieux culturels, proposer des horaires adaptés pour les personnes âgées, mettre en place des spectacles d'opérette spécifiques à la demande des seniors, et offrir un dispositif tarifaire innovant pour encourager les sorties intergénérationnelles.",
+        "objectifs": [
+            "Favoriser l'accès des seniors à la culture",
+            "Répondre aux besoins spécifiques des plus âgés en termes de sorties et d'activités culturelles"
+        ]
     },
     "porteur_initiative": "La Ville de Dijon",
-    "date": [],
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "accessibilité",
-        "culture"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_la_culture_accessible_a_tous.txt",

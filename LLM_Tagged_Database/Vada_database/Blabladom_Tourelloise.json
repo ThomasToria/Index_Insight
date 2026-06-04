@@ -1,22 +1,31 @@
 {
     "titre": "Blabla'dom Tourelloise",
-    "territoire": "La-Tour-de-Salvagny (69)",
+    "territoire": "Commune de La-Tour-de-Salvagny (69)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Promouvoir le maintien à domicile des personnes âgées et handicapées en proposant des visites pour les aider dans leurs tâches quotidiennes.",
-        "contexte": "Suite aux besoins exprimés par les personnes âgées et handicapées lors de l'ABS et/ou de la démarche participative.",
-        "problematique": "La perte d'autonomie des seniors, notamment celles en perte d'autonomie qui souhaitent rester le plus longtemps possible au domicile.",
-        "solution_envisagee": "Un groupe de visiteurs bénévoles offrant des services tels que faire une course ou partager un moment de détente avec les seniors.",
-        "objectifs": "Promouvoir la continuité du maintien à domicile, améliorer l'autonomie et le bien-être des personnes âgées et handicapées."
+        "description_generale": "La Commune met tout en œuvre pour promouvoir le maintien à domicile des personnes âgées, notamment via une série de visites bénévoles.",
+        "contexte": "Les personnes âgées et handicapées souhaitent rester au domicile après l'ABS ou la démarche participative. Le Service seniors de la commune organise un groupe de visiteurs bénévoles pour accompagner les seniors en perte d'autonomie dans des activités de loisirs.",
+        "problematique": "Renforcer le lien social, préserver l'autonomie et favoriser le retour au domicile après une hospitalisation.",
+        "solution_envisagee": "Visites bénévoles pour accompagner les seniors en perte d'autonomie dans des activités de loisirs, réunions pour échanger sur les visites au domicile des seniors et personnes handicapées, création de chartes visiteurs et accueillants.",
+        "objectifs": [
+            "Renforcer le lien social",
+            "Préserver l'autonomie",
+            "Favoriser le retour au domicile après une hospitalisation"
+        ]
     },
-    "porteur_initiative": "Service seniors de la commune",
-    "date": [],
+    "porteur_initiative": "Commune de La-Tour-de-Salvagny (69)",
+    "date": [
+        "depuis 2021"
+    ],
     "thematique": [
-        "santé publique",
-        "services aux personnes âgées"
+        "santé",
+        "lien social",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Blabladom_Tourelloise.txt",

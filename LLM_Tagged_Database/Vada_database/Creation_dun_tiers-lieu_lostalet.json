@@ -1,22 +1,33 @@
 {
     "titre": "Création d'un tiers-lieu: « l’ostalet »",
-    "territoire": "",
+    "territoire": "Commune : Périgueux, Ville Amie des Aînés depuis 2021",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Population senior",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Ce projet vise à créer un lieu unique pour la population senior, offrant des espaces d'accueil, de convivialité, de détente et de lecture, ainsi qu'un espace informatique et une zone dédiée aux activités physiques et sportives.",
-        "contexte": "",
-        "problematique": "Besoin de créer un lieu unique pour la population senior afin de faciliter l'accès à des informations et maintenir le lien social",
-        "solution_envisagee": "Création d'un tiers-lieu appelé 'l’ostalet' comprenant cinq espaces distincts sur 180m².",
-        "objectifs": ""
+        "description_generale": "Ce projet résulte d'un besoin de la population senior de bénéficier d'un lieu unique pour s'informer mais également de créer et maintenir le lien social à travers des rencontres ou des activités.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Le besoin de créer un lieu unique pour s'informer mais également de maintenir le lien social à travers des rencontres ou des activités.",
+        "solution_envisagee": "Un espace d'accueil, un espace de convivialité avec une cuisine aménagée, un espace de détente et de lecture, un espace informatique et un espace pour la pratique d’activités physiques et sportives.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD",
+            "Créer des occasions de rencontres et d'échanges intergénérationnels",
+            "Valoriser la mémoire et la place des seniors dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Sans spécification",
-    "date": [],
+    "porteur_initiative": "CCAS de Périgueux, Ville Amie des Aînés depuis 2021",
+    "date": [
+        "depuis 2021"
+    ],
     "thematique": [
-        "Santé et bien-être",
-        "Social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_tiers-lieu_lostalet.txt",

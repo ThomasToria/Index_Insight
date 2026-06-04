@@ -1,22 +1,30 @@
 {
-    "titre": "La résidence Arborea, un havre de sérénité au cœur de la nature",
-    "territoire": "",
+    "titre": "La résidence Arboréa, un havre de sérénité au cœur de la nature",
+    "territoire": "Commune: Claix",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "UN PARCOURS RÉSIDENTIEL ADAPTÉ. La commune de Claix a constaté un nombre important de seniors venant se renseigner au service urbanisme sur les projets immobiliers en vente sur la commune.",
-        "contexte": "La typologie des logements à Claix correspond à de grandes maisons de cinq ou six pièces sous occupées par des couples ou des personnes seules retraitées. Certains souhaitent anticiper leur vieillissement en vendant leur grande maison et investir dans un logement plus petit et plus accessible, tout en restant vivre à Claix.",
-        "problematique": "La particularité de la commune de Claix est d'être",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "La municipalité a lancé un projet immobilier à Claix, en collaboration avec le promoteur SAFILAF et le bailleur SDH.",
+        "contexte": "Claix est une commune étalée avec plusieurs hameaux en altitude. Les personnes âgées souhaitent déménager vers un habitat plus récent et accessible.",
+        "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La résidence Arboréa est conçue pour répondre à ces enjeux du territoire Claixois, proposant une offre de parcours résidentiel diversifiée sur la commune de Claix.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD",
+            "Valoriser leur mémoire et leur place dans la vie locale",
+            "Proposer un habitat plus récent et accessible aux personnes à mobilité réduite"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "La municipalité de Claix, en collaboration avec le promoteur SAFILAF et le bailleur SDH.",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "vieillissement",
-        "logement"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Arborea_un_havre_de_serenite_au_cur_de_la_nature.txt",

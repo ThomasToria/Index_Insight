@@ -1,23 +1,29 @@
 {
     "titre": "A Dijon, un calendrier des manifestations",
-    "territoire": "",
+    "territoire": "Commune: Dijon",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées de plus de 60 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Chaque semaine, le service Accueil – Information – Animation propose une animation aux dijonnais âgés de plus de 60 ans.",
-        "contexte": "prévention d'un vieillissement actif, lutte contre l'isolement des seniors et motivation du maintien d'une vie sociale",
-        "problematique": "vieillissement actif et isolement des seniors",
-        "solution_envisagee": "animations pour les personnes âgées de plus de 60 ans",
-        "objectifs": "prévention du vieillissement actif, lutte contre l'isolement des seniors, motivation du maintien d'une vie sociale"
+        "description_generale": "Le service Accueil - Information - Animation propose une animation aux dijonnais âgés de plus de 60 ans. L'objectif est d'agir dans le cadre de la prévention d’un vieillissement actif, en lut- tant contre l’isolement des seniors et en motivant le maintien d’une vie sociale.",
+        "contexte": "Le service Accueil - Information - Animation propose une animation aux dijonnais âgés de plus de 60 ans. L'objectif est d'agir dans le cadre de la prévention d’un vieillissement actif, en lut- tant contre l’isolement des seniors et en motivant le maintien d’une vie sociale.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une dynamique transversale pour garantir la variété des activités proposées",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "service Accueil – Information – Animation",
-    "date": [],
+    "porteur_initiative": "La Ville de Dijon",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "vieillissement",
-        "isolement",
-        "social"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_un_calendrier_des_manifestations.txt",

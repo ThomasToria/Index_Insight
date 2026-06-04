@@ -1,0 +1,35 @@
+{
+    "titre": "DIVIACCÈS: Un Service Personnalisé pour les Personnes à Mobilité Réduite",
+    "territoire": "Commune de Dijon, Yonne",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
+    "description": {
+        "description_generale": "Un service personnalisé pour les personnes à mobilité réduite dans la commune de Dijon, Yonne.",
+        "contexte": "La ville de Dijon a mis en place un réseau de transports publics accessibles et sécurisés, notamment grâce au développement d'un réseau de tramways et de bus adaptés aux besoins des personnes âgées.",
+        "problematique": "Les personnes âgées rencontrent souvent des difficultés pour se rendre à travers le centre-ville sans assistance. Leur mobilité est limitée parfois, ce qui les empêche d'accéder facilement aux lieux importants de la ville et aux services publics.",
+        "solution_envisagee": "Un service personnalisé adapté aux besoins des personnes âgées pour faciliter leur mobilité dans le centre-ville de Dijon, en utilisant un réseau de tramways et de bus adaptés à leurs spécificités.",
+        "objectifs": [
+            "Accroître la mobilité",
+            "Desservir les lieux importants de la ville et d'agglomération",
+            "Proposer des transports accessibles et sécurisés pour tous"
+        ]
+    },
+    "porteur_initiative": "La Ville de Dijon, Yonne",
+    "date": [
+        "2015"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DIVIACCES_un_service_personnalise_pour_les_personnes_a_mobilite_reduite.txt",
+    "nom_fichier": "DIVIACCES_un_service_personnalise_pour_les_personnes_a_mobilite_reduite.txt"
+}

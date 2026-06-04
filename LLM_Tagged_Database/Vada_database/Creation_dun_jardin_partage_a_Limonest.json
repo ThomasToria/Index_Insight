@@ -1,22 +1,32 @@
 {
-    "titre": "Création d'un jardin partage à Limonest",
-    "territoire": "",
+    "titre": "Création d'un jardin partagé à Limonest",
+    "territoire": "Commune de Limonest, Haute-Savoie",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le projet consiste à proposer aux Limonois intéressés par la jardinage de se retrouver pour cultiver des légumes, des fruits, des fleurs et des herbes aromatiques dans un espace écologiquement conçu dont ils assureront collectivement la gestion.",
-        "contexte": "",
-        "problematique": "L'absence de lieu de partage intergénérationnel autour d'un jardin partagé pour répondre aux besoins des Limonois intéressés par le jardinage.",
-        "solution_envisagee": "La création d'un jardin partagé géré collectivement par les Limonois, inspiré des réalisations des communes voisines gérées par l'association 'PASSE-JARDINS'.",
-        "objectifs": ""
+        "description_generale": "Le projet consiste à proposer aux Limonois intéressés par la jardinage de se retrouver pour cultiver des légumes, des fruits, des fleurs, des herbes aromatiques dans un espace écologiquement conçu dont ils assureront collectivement la gestion.",
+        "contexte": "Le projet a été initié suite à une proposition du Conseil des Aînés de Limonest et repose sur l'inspiration d'autres communes voisines gérées par l'association 'PASSE-JARDINS'.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile autour d'un jardin partagé.",
+        "solution_envisagee": "Organiser un lieu de partage intergénérationnel autour d'un jardin partagé en s'inspirant des réalisations des communes voisines gérées par l'association 'PASSE-JARDINS'.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents, leurs proches et la société civile.",
+            "Valoriser leur mémoire et leur place dans la vie locale."
+        ]
     },
-    "porteur_initiative": "Conseil des Aînés de Limonest",
-    "date": [],
+    "porteur_initiative": "Commune de Limonest (69)",
+    "date": [
+        "2019",
+        "2020-21"
+    ],
     "thematique": [
-        "jardinage",
-        "partage intergénérationnel"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_jardin_partage_a_Limonest.txt",

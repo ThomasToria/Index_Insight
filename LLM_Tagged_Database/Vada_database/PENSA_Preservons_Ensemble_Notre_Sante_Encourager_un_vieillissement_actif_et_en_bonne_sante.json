@@ -1,22 +1,28 @@
 {
     "titre": "PENSA (Préservons Ensemble Notre Santé): Encourager un vieillissement actif et en bonne santé",
-    "territoire": "Royan",
+    "territoire": "Commune de Royan, 17ème arrondissement",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Maintenir une vie en bonne santé grâce aux divers ateliers préventifs qui sont présentés; Rompre l’isolement en facilitant la participation des seniors à la vie locale et en les réintégrant au circuit social; Créer du lien social entre les habitants et les associations ou acteurs locaux.",
-        "contexte": "La ville de Royan dispose d’une démographie particulière avec 55 % de ses résidents âgés de plus de 60 ans. C’est une station balnéaire appréciée.",
-        "problematique": "L’isolement et la dépendance des seniors dans un environnement touristique",
-        "solution_envisagee": "Ateliers préventifs, participation sociale et création de liens sociaux",
-        "objectifs": ""
+        "description_generale": "Programme d'initiative visant à promouvoir le bien-être des aînés, notamment en encourageant un vieillissement actif et en bonne santé.",
+        "contexte": "La ville de Royan compte une population qui est composée de 55% de personnes âgées de plus de 60 ans. La station balnéaire de la ville attire des résidents de retraite, ce qui a conduit à l'introduction d'un dispositif de promotion de la santé dédié aux seniors: le programme PENSA.",
+        "problematique": "Le besoin de maintenir les seniors en bonne santé et dans un mode de vie équilibré pour qu’ils puissent vivre activement jusqu’à leur retraite.",
+        "solution_envisagee": "Programme d'initiative visant à promouvoir le bien-être des aînés, notamment en encourageant un vieillissement actif et en bonne santé.",
+        "objectifs": [
+            "Encourager un vieillissement actif et en bonne santé",
+            "Créer du lien social entre les habitants et les associations ou acteurs locaux"
+        ]
     },
-    "porteur_initiative": "La ville de Royan",
-    "date": [],
+    "porteur_initiative": "La municipalité de Royan",
+    "date": [
+        "depuis 2009"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\PENSA_Preservons_Ensemble_Notre_Sante_Encourager_un_vieillissement_actif_et_en_bonne_sante.txt",

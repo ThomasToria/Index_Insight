@@ -1,0 +1,44 @@
+{
+    "titre": "Saint-Nazaire auto solidaire",
+    "territoire": "communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
+    "description": {
+        "description_generale": "Proposer des déplacements accompagnés occasionnels pour se rendre chez un proche, visiter une personne malade ou en maison de retraite, au marché, dans des commerces et services de proximité, à un rendez-vous médical ou paramédical (non pris en charge par l’assurance maladie), chez le dentiste, à la pharmacie, à un rendez-vous administratif.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Renforcement des liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer des déplacements accompagnés occasionnels pour se rendre chez un proche, visiter une personne malade ou en maison de retraite, au marché, dans des commerces et services de proximité, à un rendez-vous médical ou paramédical (non pris en charge par l’assurance maladie), chez le dentiste, à la pharmacie, à un rendez-vous administratif.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": [
+        {
+            "nom": "Conseil des aîné.es de Saint-Nazaire",
+            "description": "Missionné par la ville pour accompagner le déploiement de la démarche Ville Amie des Aînés."
+        },
+        {
+            "nom": "Commission seniors de la maison de quartier Immaculée",
+            "description": "Porteur du projet Saint-Nazaire Auto Solidaire"
+        }
+    ],
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-Nazaire_auto_solidaire.txt",
+    "nom_fichier": "Saint-Nazaire_auto_solidaire.txt"
+}

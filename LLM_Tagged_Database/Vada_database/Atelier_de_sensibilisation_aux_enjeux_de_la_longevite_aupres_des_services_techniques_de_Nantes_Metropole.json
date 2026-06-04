@@ -4,19 +4,32 @@
     "echelle": [
         "communale"
     ],
-    "public_vise": "services techniques",
+    "public_vise": "professionnels",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "présentation des engagements de la feuille de route, notamment ceux en lien avec les activités de ces professionnels (thématique Fabrique de la Ville); visite du CreAT et sensibilisation au vécu des seniors dans les gestes du quotidien via le port de « kits de vieillissement ».",
-        "contexte": "",
-        "problematique": "anticiper et accompagner la transition démographique",
-        "solution_envisagee": "inscrire la Longévité au cœur de l'action publique métropolitaine, pour mobiliser une approche transversale à 360°",
-        "objectifs": ""
+        "description_generale": "Atelier de sensibilisation aux enjeux de la longévité auprès des services techniques de Nantes Métropole",
+        "contexte": "Longévité dans l'action publique métropolitaine, mobilisant de nombreuses directions thématiques",
+        "problematique": "Sensibiliser et acculturer les agents à la longévité, observer et améliorer les pratiques professionnelles pour une meilleure prise en compte des seniors dans les projets d'espaces publics",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Sensibiliser les services techniques aux enjeux de la longévité",
+            "Acculturer les agents à la longévité, observer et améliorer les pratiques professionnelles"
+        ]
     },
     "porteur_initiative": "Nantes Métropole",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Fabrique de la Ville",
-        "transition démographique"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_de_sensibilisation_aux_enjeux_de_la_longevite_aupres_des_services_techniques_de_Nantes_Metropole.txt",

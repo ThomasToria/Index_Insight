@@ -1,23 +1,28 @@
 {
     "titre": "Parcours culture-loisirs",
-    "territoire": "",
+    "territoire": "Commune: La-Roche-sur-yon Agglomération (85)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Dans le cadre de la démarche Ville Amie des Aînés, un parcours composé de dix défis culturels et sportifs a été imaginé pour amener les aînés à expérimenter de nouvelles activités sur leur territoire.",
-        "contexte": "",
-        "problematique": "Promouvoir la santé en offrant aux aînés des opportunités d'activités culturelles et sportives innovantes.",
-        "solution_envisagee": "La mise en place d'un parcours de défis culturels et sportifs sous forme de challenge, avec récompenses pour les participants.",
-        "objectifs": ""
+        "description_generale": "Un projet de promotion culturelle et sportive pour les aînés, visant à lutter contre l'âgisme et l'isolement.",
+        "contexte": "La-Roche-sur-yon Agglomération (85) a choisi la thématique 'Culture-Loisirs' en 2021 pour améliorer les relations intergénérationnelles.",
+        "problematique": "Lutter contre l'âgisme et l'isolement, promouvoir des activités culturelles et sportives pour les aînés.",
+        "solution_envisagee": "Un parcours culture-loisirs composé de dix défis variés, avec une récompense finale en forme de carte d'avantages 'Parcours +'.",
+        "objectifs": [
+            "Améliorer la santé des aînés par l'engagement dans des activités culturelles et sportives.",
+            "Lutter contre le phénomène de l'isolement social chez les personnes âgées."
+        ]
     },
-    "porteur_initiative": "Un groupe de travail constitué de partenaires locaux et d'usagers retraités",
-    "date": [],
+    "porteur_initiative": "Espace Entour'âge",
+    "date": [
+        "depuis 2021"
+    ],
     "thematique": [
         "santé",
-        "culture",
-        "sport"
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_culture-loisirs.txt",

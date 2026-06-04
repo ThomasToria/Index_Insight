@@ -1,0 +1,25 @@
+{
+  "titre": "0Mobival: un service de transport accompagné",
+  "territoire": ["communale", "départementale"],
+  "echelle": ["communale", "régionale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description_generale": "Le service de mobilité accompagnée MOBIVAL a été créé pour améliorer la qualité de vie des personnes âgées dans les communes voisines.",
+  "contexte": "Les seniors ont besoin d'une aide supplémentaire pour se déplacer, mais le service communautaire local était limité en couverture et en durée. Le CCAS a décidé de créer un service complet pour répondre à ce besoin.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "MOBIVAL est un service d’aide à la mobilité des seniors qui repose sur trois piliers: l’aire géographique (étendue à l’aire urbaine), les horaires, et les destinations proposées. Le personnel est vêtu d’un tailleur permettant une identification auprès des partenaires.",
+  "objectifs": [
+    "Améliorer la qualité de vie des personnes âgées",
+    "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "CCAS de Valentigney",
+  "date": ["2019", "2025"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "intergénérationnel"
+  ],
+  "source_site": "VADA"
+}

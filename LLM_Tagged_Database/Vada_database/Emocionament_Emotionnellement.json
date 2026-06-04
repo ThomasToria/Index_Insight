@@ -4,19 +4,26 @@
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le projet consiste en la mise en place d'ateliers collectifs pendant deux semaines pour améliorer la gestion émotionnelle des situations angoissantes et prévenir ainsi la fragilité qui peut y être associée.",
-        "contexte": "Suite du confinement dû au COVID-19, mais applicable à toute autre situation émotionnellement stressante.",
-        "problematique": "La gestion émotionnelle des situations angoissantes et la prévention de la fragilité qui peut y être associée.",
-        "solution_envisagee": "Mise en place d'ateliers collectifs sur la base de la gestion émotionnelle, sans négliger l'activité physique, la nutrition et la prise de conscience de soi.",
-        "objectifs": ""
+        "description_generale": "Le projet consiste en la mise en place d’ateliers collectifs pendant deux semaines pour améliorer la gestion émotionnelle des situations angoissantes et prévenir ainsi la fragilité qui peut y être associée. Ce besoin survient à la suite du confinement dû au COVID-19, mais peut être appliqué facilement à toute autre situation émotionnellement stressante.",
+        "contexte": "Le projet a été rédigé et planifié de mai à juin 2020. Les ateliers sur la gestion émotionnelle, le bien-être physique, la prise de conscience de soi, l'apprentissage et la promotion des nouvelles technologies ont eu lieu en juin 2020.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Les ateliers sur la gestion émotionnelle, le bien-être physique, la prise de conscience de soi, l'apprentissage et la promotion des nouvelles technologies ont été mis en place pour améliorer la gestion émotionnelle des résidents et prévenir la fragilité.",
+        "objectifs": [
+            "Améliorer la gestion émotionnelle des résidents",
+            "Prévenir la fragilité associée à certaines situations angoissantes"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Des kinésithérapeutes, une psycho-neuro-immunologue et une ostéopathe ont participé aux ateliers d'activité physique et de nutrition. Une psychologue et professeure à l'Université d'Andorre a également intervenu pour la gestion émotionnelle.",
+    "date": [
+        "mai 2020",
+        "juin 2020"
+    ],
     "thematique": [
-        "Bien-être",
-        "Gestion émotionnelle"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Emocionament_Emotionnellement.txt",

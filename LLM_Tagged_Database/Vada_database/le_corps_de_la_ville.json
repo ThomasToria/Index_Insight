@@ -1,22 +1,37 @@
 {
-    "titre": "le corps de la ville",
-    "territoire": "",
+    "titre": "Le Corps de la Ville",
+    "territoire": "Commune: Fouras-les-Bains, Charente-Maritime",
     "echelle": [
         "communale"
     ],
-    "public_vise": "DES AÎNÉS EN MOUVEMENT DANS L’ESPACE PUBLIC",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Co-construire un projet artistique pour maîtriser son équilibre, apprendre à faire face au regard de l'autre dans un espace public de proximité, reconstruire du lien avec soi et les autres, faire pratiquer une activité d'expression corporelle, se reconnecter à son corps, retrouver le goût de l'action collective.",
-        "contexte": "",
-        "problematique": "DES AÎNÉS EN MOUVEMENT DANS L’ESPACE PUBLIC",
-        "solution_envisagee": "initier un projet de renforcement de lien social par la culture et l'intergénérationnel, mêlant expression corporelle et vidéo.",
-        "objectifs": ""
+        "description_generale": "Un projet artistique initié par le CCAS de la ville de Fouras (Charente-Maritime) pour valoriser les aînés dans un patrimoine remarquable, mêlant expression corporelle et vidéo.",
+        "contexte": "Le projet a eu lieu de mars 2019 à décembre 2019 et a été projeté devant une quarantaine de personnes.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un court-métrage pour démontrer les stéréotypes sur les seniors et amener ces derniers à se reconnecter avec eux-mêmes et les autres.",
+        "objectifs": [
+            "Organiser le projet vidéo",
+            "Rechercher des acteurs participants au projet",
+            "Organiser des ateliers à destination des personnes âgées ayant des difficultés à se mouvoir",
+            "Tourner les séquences dans l'espace public",
+            "Monter la vidéo",
+            "Organiser des projections dans la ville"
+        ]
     },
-    "porteur_initiative": "CCAS de la ville de Fouras (Charente-Maritime)",
-    "date": [],
+    "porteur_initiative": "CCAS de Fouras-les-Bains (Charente-Maritime)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "expression corporelle",
-        "culture intergénérationnelle"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\le_corps_de_la_ville.txt",

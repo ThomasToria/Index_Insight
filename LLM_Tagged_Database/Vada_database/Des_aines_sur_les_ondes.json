@@ -1,23 +1,28 @@
 {
     "titre": "Des aînés sur les ondes",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "jeune, aîné",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Née en 2009 pendant la Semaine Bleue, De mon temps est une émission diffusée sur Radio Dijon Campus. Cette antenne est principalement dédiée à un public jeune, cette émission est donc intergénérationnelle.",
-        "contexte": "L’Université de Bourgogne est voisine d’un EHPAD, pourtant aucun lien n'existait entre ces deux structures.",
-        "problematique": "Il n'y a pas de problème spécifique mentionné dans le texte fourni.",
-        "solution_envisagee": "De mon temps était un moyen de faire la liaison entre les deux structures (Université et EHPAD).",
-        "objectifs": ""
+        "description_generale": "Une émission diffusée sur Radio Dijon Campus, une radio basée sur le campus de l'Université de Bourgogne, qui a pour but d'établir un lien entre les résidents des EHPAD et les étudiants.",
+        "contexte": "L’Université de Bourgogne est voisine d’un EHPAD, mais aucun lien n’était existant entre ces deux structures. De mon temps était une initiative originale qui voulait créer ce lien.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents des EHPAD et les étudiants pour valoriser leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une émission diffusée sur Radio Dijon Campus, une radio basée sur le campus de l'Université de Bourgogne, qui a pour but d'établir un lien entre les résidents des EHPAD et les étudiants.",
+        "objectifs": [
+            "Valoriser la mémoire et la place des résidents dans la vie locale",
+            "Renforcer les liens entre les résidents des EHPAD et les étudiants"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Radio Dijon Campus, une radio basée sur le campus de l'Université de Bourgogne",
+    "date": [
+        "depuis 2009"
+    ],
     "thematique": [
-        "société",
-        "sport",
-        "politique"
+        "santé",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_aines_sur_les_ondes.txt",

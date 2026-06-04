@@ -1,25 +1,31 @@
 {
-    "titre": "Atelier mémoire",
-    "territoire": "",
+    "titre": "Atelier Mémoire",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "aînés",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le projet vise à informer le public sur le fonctionnement cognitif et les différentes mémoires, mais aussi à aborder différentes techniques et méthodes favorisant sa préservation.",
-        "contexte": "",
-        "problematique": "La mémoire des aînés peut être affectée par divers facteurs tels que la dégénérescence cérébrale ou l'âge.",
-        "solution_envisagee": "Le projet vise à promouvoir et à enseigner différentes techniques de maintien de la mémoire, ainsi qu'à sensibiliser le public sur les bonnes pratiques pour préserver la mémoire.",
-        "objectifs": ""
+        "description_generale": "Stimuler la mémoire des seniors Clamartois en leur proposant de nouvelles méthodes d'encodage et de récupération des informations.",
+        "contexte": "Suite aux nombreuses sollicitations des seniors Clamartois qui voulaient stimuler et entraîner leur mémoire, le CCAS de Clamart a mis en place des ateliers mémoire.",
+        "problematique": "Stimuler la mémoire des seniors Clamartois pour les aider à mieux vieillir et à maintenir leurs capacités cognitives.",
+        "solution_envisagee": "Organiser des ateliers mémoire animés par une psychologue spécialisée, proposant différentes techniques d'encodage et de récupération des informations.",
+        "objectifs": [
+            "Stimuler la mémoire",
+            "Promouvoir l'échange social entre les seniors et leurs proches",
+            "Favoriser le lien social",
+            "Encourager la participation citoyenne"
+        ]
     },
     "porteur_initiative": "CCAS de Clamart",
     "date": [
-        "2023"
+        "depuis octobre 2022"
     ],
     "thematique": [
-        "mémoire",
-        "cognitif",
-        "santé mentale"
+        "santé",
+        "lien social",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_memoire.txt",

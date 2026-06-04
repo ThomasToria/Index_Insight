@@ -1,0 +1,26 @@
+{
+  "titre": "L'observatoire de l’âge",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description_generale": "La mise en place d'un espace participatif pour observer, réfléchir et échanger sur le bien-être des habitants de la commune.",
+  "contexte": "Dijon s'est engagée dans la démarche Ville Amie des Aînés depuis 2001, avec une volonté de démocratie locale en faveur des personnes âgées.",
+  "problematique": "Renforcer les liens entre les habitants de Dijon et leur vie quotidienne, notamment dans le cadre du bien-être des seniors.",
+  "solution_envisagee": "Organiser une série d’actions participatives autour de la lutte contre l'isolement, l'offre culturelle, et la mobilité urbaine.",
+  "objectifs": [
+    "Renforcer les liens entre les habitants de Dijon et leur vie quotidienne",
+    "Promouvoir une meilleure qualité de vie des seniors dans la commune",
+    "Établir un dialogue entre les élus locaux, les experts en santé publique, les résidents âgés et les citoyens du quartier"
+  ],
+  "porteur_initiative": "CCAS de Dijon",
+  "date": ["depuis 2010"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat"
+  ],
+  "source_site": "VADA"
+}

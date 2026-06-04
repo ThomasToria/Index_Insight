@@ -1,0 +1,24 @@
+{
+  "titre": "Ma station fermière",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "action intergénérationnelle",
+  "description_generale": "Un projet de station fermière pour seniors isolés, organisé par l'Association SOLIDAIRE LES AMIS DU PETIT MARCHÉ.",
+  "contexte": "Les seniors isolés ont besoin d'une dynamique locale pour se connecter et découvrir les produits locaux.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Organiser des visites guidées sur le territoire pour découvrir les produits locaux et participer à une action intergénérationnelle.",
+  "objectifs": [
+    "Rompre l'isolement",
+    "Constituer un groupe stable dans la durée",
+    "Créer du lien social"
+  ],
+  "porteur_initiative": "Association SOLIDAIRE LES AMIS DU PETIT MARCHÉ",
+  "date": ["2019", "depuis 2019"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "intergénérationnel"
+  ],
+  "source_site": "VADA"
+}

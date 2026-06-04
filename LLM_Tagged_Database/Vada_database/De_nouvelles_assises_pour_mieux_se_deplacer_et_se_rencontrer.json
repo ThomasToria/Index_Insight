@@ -1,22 +1,30 @@
 {
     "titre": "De nouvelles assises pour mieux se déplacer et se rencontrer",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "UNE DYNAMIQUE DE CO-CONSTRUCTION L’analyse des besoins sociaux effectuée sur la ville en 2015 et l'entrée dans la démarche Ville amie des aînés ont mis en lumière le manque d'assises adaptées dans les rues les plus empruntées par les seniors. Les déplacements piétons de proximité des seniors sont un enjeu majeur pour la mobilité et le maintien de l'autonomie de cette population.",
-        "contexte": "",
-        "problematique": "Le manque d'assises adaptées dans les rues les plus empruntées par les seniors",
-        "solution_envisagee": "Faire participer activement les futurs utilisateurs en effectuant un inventaire des assises existantes sur la ville.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer la mobilité des seniors et leur participation aux activités communautaires.",
+        "contexte": "Les seniors de la commune rencontrent souvent des difficultés pour se déplacer dans les rues communes, ce qui limite leur autonomie et leur qualité de vie. Les assises existantes sont insuffisamment adaptées à leurs besoins spécifiques.",
+        "problematique": "Le manque d'assises adaptées aux seniors limitant leur mobilité et participation aux activités communautaires.",
+        "solution_envisagee": "Installer des mobiliers urbains avec accoudoirs pour faciliter la station de repos et le repositionnement, ainsi que des bancs adaptés à leurs besoins spécifiques.",
+        "objectifs": [
+            "améliorer la mobilité des seniors",
+            "promouvoir leur participation aux activités communautaires"
+        ]
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "2015",
+        "fin décembre 2015"
+    ],
     "thematique": [
-        "Mobilité",
-        "Autonomie"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.txt",

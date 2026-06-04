@@ -1,0 +1,25 @@
+{
+  "titre": "RESOLI (Réseaux solidaire)",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "ainés",
+  "nature_initiative": "outil numérique",
+  "description_generale": "Une plateforme numérique innovante développée par l'EPFL+ECAL Lab, en collaboration avec Pro Senectute Vaud et la Fondation Leenaards, visant à renforcer les liens sociaux des seniors dans leur commune.",
+  "contexte": "Le besoin de créer un environnement social inclusif pour les seniors, favoriser les interactions entre générations, et améliorer la qualité de vie et la santé des personnes âgées.",
+  "problematique": "Renforcer les liens sociaux entre les seniors et leur communauté locale, en proposant une plateforme numérique simple d'utilisation qui facilite l'organisation de activités de proximité créatrices de lien social.",
+  "solution_envisagee": "La plateforme Resoli permet aux seniors de créer des événements virtuels et réels, favorisant ainsi les interactions entre générations et renforçant la cohésion sociale.",
+  "objectifs": [
+    "Renforcer les liens sociaux",
+    "Améliorer la qualité de vie et la santé des seniors",
+    "Favoriser l'engagement des seniors dans leur communauté locale"
+  ],
+  "porteur_initiative": "Pro Senectute Vaud, Fondation Leenaards, EPFL+ECAL Lab",
+  "date": ["2015", "2016", "2017", "2018"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique"
+  ],
+  "source_site": "VADA"
+}

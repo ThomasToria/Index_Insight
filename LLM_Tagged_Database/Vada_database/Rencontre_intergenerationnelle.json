@@ -1,22 +1,30 @@
 {
     "titre": "Rencontre intergénérationnelle",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La commune de Wickerschwihr a organisé une rencontre entre les enfants de l'école et les aînés pour raconter le village d'autrefois.",
-        "contexte": "Dans le cadre de la Semaine Bleue nationale, qui vise à changer le regard sur les aînés.",
-        "problematique": "Changer le regard des enfants sur les aînés et leur histoire locale.",
-        "solution_envisagee": "Organisation d'une rencontre intergénérationnelle pour permettre aux enfants de poser des questions à leurs aînés sur l'histoire du village.",
-        "objectifs": ""
+        "description_generale": "Cette initiative a permis de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "contexte": "La commune de Wickerschwihr organisait une Semaine Bleue nationale pour changer le regard sur les aînés. Les enfants de l'école ont été invités à participer à cette action intergénérationnelle.",
+        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser une rencontre intergénérationnelle avec des aînés pour raconter le village d'autrefois aux enfants de l'école.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La commune de Wickerschwihr",
-    "date": [],
+    "porteur_initiative": "EHPAD La Résidence de l’Ille",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Histoire locale",
-        "Éducation"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Rencontre_intergenerationnelle.txt",

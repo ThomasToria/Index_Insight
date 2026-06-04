@@ -1,25 +1,31 @@
 {
     "titre": "Guide des seniors",
-    "territoire": "",
+    "territoire": "Vienne (38)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Un outil d'informations variées parmi lesquelles un guide des seniors, repensé et mis à jour pour répondre aux besoins actuels.",
-        "contexte": "Une première édition du Guide des seniors a été publiée en 2017. Le nombre d'exemplaires disponibles s'amenuisait et certaines informations nécessitaient une actualisation.",
-        "problematique": "Le nombre d'exemplaires du guide s'amenuisait et certaines informations nécessitaient une actualisation pour répondre aux besoins actuels des seniors.",
-        "solution_envisagee": "La mise en place d'une deuxième édition du Guide des seniors, repensée et mis à jour.",
-        "objectifs": "Mettre à disposition un guide des seniors mis à jour dans les différents lieux d'accueil du public à Vienne et auprès des partenaires."
+        "description_generale": "Un guide d'informations sur les seniors, leurs loisirs, leur santé et bien-être.",
+        "contexte": "La ville de Vienne a créé un guide pour aider ses résidents âgés à mieux se connecter avec la société civile et les services publics.",
+        "problematique": "Renforcer les liens entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un guide d'informations sur les seniors, leurs loisirs, leur santé et bien-être.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD",
+            "Valoriser la mémoire et la place des seniors dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Ville Membre depuis 2022",
     "date": [
-        "2017",
-        "2021"
+        "depuis 2017"
     ],
     "thematique": [
-        "seniors",
-        "informations"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_seniors.txt",

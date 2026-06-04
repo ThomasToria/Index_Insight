@@ -1,22 +1,30 @@
 {
-    "titre": "Parrainage culturel",
-    "territoire": "",
+    "titre": "Parrainage Culturel",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "régionale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "Lutter contre l’isolement en favorisant la participation à des événements culturels.",
-        "contexte": "La commune souhaite s'engager dans un dispositif favorisant la culture pour tous, le lien social et la solidarité.",
-        "problematique": "L’isolement",
-        "solution_envisagee": "Un réseau de bénévoles accompagne les personnes âgées aux événements culturels.",
-        "objectifs": ""
+        "description_generale": "L’Orpan propose un dispositif de parrainage culturel pour les personnes âgées, favorisant leur participation à des événements culturels.",
+        "contexte": "La société actuelle est marquée par la solitude et l'isolement des seniors. L'Orpan souhaite améliorer ces conditions en encourageant le lien social et la participation aux activités culturelles.",
+        "problematique": "Lutter contre la solitude et l'isolement des personnes âgées, favoriser leur participation à l’offre culturelle du quartier ou de la ville.",
+        "solution_envisagee": "Proposer un accompagnement personnalisé encadré par des bénévoles pour les seniors, en mettant en place une programmation diversifiée et adaptée aux besoins spécifiques des participants.",
+        "objectifs": [
+            "Renforcer le lien social",
+            "Valoriser la participation des seniors à l'offre culturelle du quartier ou de la ville",
+            "Favoriser la mobilité des seniors pour les sorties culturelles"
+        ]
     },
-    "porteur_initiative": "Orpan",
-    "date": [],
+    "porteur_initiative": "Orpan (Ville Amie des Aînés depuis 2017, Nantes)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "solidarité",
-        "engagement_bénévole"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parrainage_culturel.txt",

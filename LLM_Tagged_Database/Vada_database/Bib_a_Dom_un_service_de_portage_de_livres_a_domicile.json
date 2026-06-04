@@ -1,22 +1,31 @@
 {
     "titre": "Bib' à Dom', un service de portage de livres à domicile",
-    "territoire": "",
-    "echelle": [
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "quartier",
+        "intercommunale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "La Bib’ à Dom’ est une association créée en 1984 qui permet aux personnes dans l'incapacité de se déplacer d'avoir accès à la lecture et aux livres. Elle fonctionne avec des bénévoles, partenaires de la Bibliothèque municipale de Lyon.",
-        "contexte": "",
-        "problematique": "Accès limité aux livres pour les personnes dans l'incapacité de se déplacer",
-        "solution_envisagee": "Service de portage à domicile des livres de la Bibliothèque municipale",
-        "objectifs": ""
+        "description_generale": "La Bibliothèque à Domicile - Bib' à Dom' est une association Loi 1901 créée en 1984 qui a pour but de permettre aux personnes dans l’incapacité, même temporaire, de se déplacer d’avoir accès ou continuer à avoir accès à la lecture et aux livres.",
+        "contexte": "La Bib' à Dom', partenaire de la Bibliothèque municipale de Lyon, est animée uniquement par des bénévoles. La fonction principale de l’association est le portage à domicile des livres de la Bibliothèque municipale, pris dans n’importe quelle bibliothèque d’arrondissement.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La Bib' à Dom' propose également des lectures à haute voix à domicile par des bénévoles ayant suivi une formation.",
+        "objectifs": [
+            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La Bib’ à Dom’ (association)",
-    "date": [],
+    "porteur_initiative": "Association Loi 1901 créée en 1984",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "bibliothèque",
-        "accessibilité"
+        "intergénérationnel",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bib_a_Dom_un_service_de_portage_de_livres_a_domicile.txt",

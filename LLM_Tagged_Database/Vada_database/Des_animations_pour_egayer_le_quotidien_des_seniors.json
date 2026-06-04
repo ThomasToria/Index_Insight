@@ -1,22 +1,29 @@
 {
     "titre": "Des animations pour égayer le quotidien des seniors",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les Dijonnais de plus de 60 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une ville amie des aînés propose une offre variée d'activités collectives tout au long de l'année.",
-        "contexte": "Le centre communal d'action sociale (CCAS) de la ville de Dijon est responsable de ces animations.",
-        "problematique": "L'absence de problématique spécifique mentionnée dans le texte",
-        "solution_envisagee": "Proposer une offre variée et accessible d'activités collectives aux seniors",
-        "objectifs": "Égayer le quotidien des seniors, offrir un large choix d'activités et améliorer la qualité de vie des aînés"
+        "description_generale": "Une ville amie des aînés organise une série d'animations collectives destinées aux seniors de plus de 60 ans.",
+        "contexte": "Les animations proposées sont nombreuses, y compris visites sur sites, conférences-débats, théâtre, spectacles et cinéma. Elles permettent aux seniors de se détendre et d'échanger avec la société civile.",
+        "problematique": "Le besoin de maintenir la mobilité et le lien social, réduire l'isolement et participer à des animations collectives pour les aînés.",
+        "solution_envisagee": "Des visites sur sites, conférences-débats, théâtre, spectacles et cinéma sont organisées régulièrement. Les animations se font dans des salles municipales ou directement dans les lieux culturels pour permettre aux seniors de participer à ces activités.",
+        "objectifs": [
+            "Maintenir la mobilité et le lien social",
+            "Réduire l'isolement",
+            "Participer à des animations collectives"
+        ]
     },
-    "porteur_initiative": "Le centre communal d'action sociale (CCAS) de la ville de Dijon",
-    "date": [],
+    "porteur_initiative": "CCAS de Dijon",
+    "date": [
+        "depuis 2015"
+    ],
     "thematique": [
-        "santé",
-        "social"
+        "culture et loisirs",
+        "lien social et solidarité"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_animations_pour_egayer_le_quotidien_des_seniors.txt",

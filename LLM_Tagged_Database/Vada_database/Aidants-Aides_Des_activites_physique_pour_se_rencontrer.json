@@ -1,24 +1,29 @@
 {
     "titre": "Aidants-Aidés: Des activités physique pour se rencontrer",
-    "territoire": "Commune",
+    "territoire": "Dijon (21)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Objectifs : Améliorer la tonicité musculaire. Créer des liens sociaux. Rompre l’isolement.\nPratique : Recruter un professeur APA. Recruter des couples « aidant-aidé » âgés dont l’un est atteint de la maladie d'Alzheimer ou de troubles apparentés. Trouver une salle disponible. Trouver des subventions et établir des partenariats pour aider au financement de l'action.",
-        "contexte": "",
-        "problematique": "Aide aux aidants",
-        "solution_envisagee": "Activités physiques",
-        "objectifs": "Améliorer la tonicité musculaire. Créer des liens sociaux. Rompre l’isolement."
+        "description_generale": "Cette initiative vise à améliorer la tonicité musculaire, créer des liens sociaux et rompre l'isolement pour les aidants-aidés.",
+        "contexte": "Les personnes âgées atteintes de la maladie d’Alzheimer ou de troubles apparentés souffrent souvent d’isolement social. Les aidants-aidés, qui sont principalement des personnes âgées, rencontrent également des difficultés à se connecter.",
+        "problematique": "Le besoin de renforcer les liens entre les aidants-aidés et les personnes atteintes de la maladie d’Alzheimer ou de troubles apparentés pour améliorer leur qualité de vie et réduire l'isolement.",
+        "solution_envisagee": "Organiser des séances d'activités physiques adaptées à des couples 'aidant-aidé' dont l'un est atteint de la maladie d’Alzheimer ou de troubles apparentés, en partenariat avec une association spécialisée dans le soutien à domicile.",
+        "objectifs": [
+            "Améliorer la tonicité musculaire",
+            "Créer des liens sociaux",
+            "Rompre l'isolement"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "La Fédération Dijonnaise des Œuvres de Soutien à Domicile (FEDOSAD)",
     "date": [
-        "2015-06-09"
+        "depuis 2015"
     ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aidants-Aides_Des_activites_physique_pour_se_rencontrer.txt",

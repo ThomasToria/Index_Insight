@@ -1,23 +1,33 @@
 {
-    "titre": "Bougeons ensemble",
-    "territoire": "Grenoble",
-    "echelle": [
+    "titre": "BOUGEONS ENSEMBLE",
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Permettre aux personnes éloignées de la pratique sportive de pratiquer une activité physique adaptée via un accès facilité tant au niveau financier que géographique. Lutter contre la sédentarité en proposant une activité de marche active pour tous qui promeut un mode de vie favorable à la santé. Lutter contre l’isolement et renforcer le lien social via une activité de groupe. Développer le pouvoir d'agir des habitants sur les questions relatives à la santé.",
-        "contexte": "",
-        "problematique": "La sédentarité et l'isolement social",
-        "solution_envisagee": "Une heure de marche active par semaine, gratuite et accessible à tous",
-        "objectifs": "Promouvoir un mode de vie santé, réduire la sédentarité, renforcer le lien social"
+        "description_generale": "Proposer une heure de marche active par semaine, gratuite et accessible à tous au sein des quartiers prioritaires de la Ville de Grenoble.",
+        "contexte": "Comme en attestent de nombreux rapports, l'inactivité physique représente un important facteur de risque pour le développement d'obésité ou encore des maladies chroniques (diabète, maladies cardiovasculaires, rhumatismales etc.).",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer une heure de marche active par semaine, gratuite et accessible à tous au sein des quartiers prioritaires de la Ville de Grenoble.",
+        "objectifs": [
+            "Permettre aux personnes éloignées de la pratique sportive de pratiquer une activité physique adaptée via un accès facilité tant au niveau financier (gratuit) que géographique (proximité).",
+            "Lutter contre la sédentarité en proposant une activité de marche active pour tous qui promeut un mode de vie favorable à la santé.",
+            "Lutter contre l’isolement et renforcer le lien social via une activité de groupe."
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville Amie des Aînés depuis 2016",
+    "date": [
+        "depuis 2012"
+    ],
     "thematique": [
         "santé",
-        "activités physiques",
-        "liens sociaux"
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bougeons_ensemble_a_Grenoble.txt",

@@ -1,22 +1,35 @@
 {
-    "titre": "La navette sociale",
-    "territoire": "Vauclin",
+    "titre": "La Navette Sociale",
+    "territoire": "Commune du Vauclin, département 972",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "public non connu",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "Réduire les risques d'isolement des seniors en palliant l'inflation du coût de la vie et à la perte de ressources.",
-        "contexte": "Le Vauclin est particulièrement concerné par le vieillissement de sa population. L'avancée en âge, le veuvage et l'éloignement géographique des familles peuvent augmenter le risque d'isolement social.",
-        "problematique": "L'inflation du coût de la vie et la perte de ressources des seniors, ainsi que les facteurs explicatifs tels que le veuvage et l'éloignement géographique, peuvent conduire à un isolement accru.",
-        "solution_envisagee": "La mise en place d'une navette sociale pour faciliter l'accès aux services essentiels.",
-        "objectifs": ""
+        "description_generale": "La commune du Vauclin a mis en place un dispositif de transport social pour faciliter les déplacements des seniors sur le territoire communal.",
+        "contexte": "L'isolement des personnes âgées est un problème majeur dans la commune, notamment avec l'avancée en âge et la perte de ressources. Les élus municipaux souhaitent renforcer l'autonomie des seniors et préserver leur qualité de vie.",
+        "problematique": "Le risque d'isolement des personnes âgées est aggravé par le veuvage, l'éloignement géographique, et la perte de proches. La navette sociale facilite les déplacements pour les seniors prioritaires, permettant ainsi une meilleure accessibilité aux services et à la vie sociale.",
+        "solution_envisagee": "Faciliter les déplacements des administrés en perte d'autonomie via un dispositif de transport social nommé « navette sociale » qui permet de se déplacer facilement pour faire des courses, des démarches administratives ou rendre visite à un proche.",
+        "objectifs": [
+            "Faciliter les déplacements des seniors prioritaires",
+            "Améliorer l'accès aux services et à la vie sociale"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS du Vauclin",
+    "date": [
+        "2024"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_sociale.txt",

@@ -1,22 +1,34 @@
 {
     "titre": "Carte senior",
-    "territoire": "",
+    "territoire": "Saint-Priest (69)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "retraités",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une carte permettant aux retraités de bénéficier de tarifs adaptés à leurs revenus pour accéder à des espaces culturels et sociaux.",
-        "contexte": "Diagnostic sur le vieillissement de la population a mis en évidence le besoin d'accueillir les seniors dans des activités culturelles et sociables.",
-        "problematique": "L'isolement des retraités",
-        "solution_envisagee": "La mise en place d'une carte avec des tarifs adaptés aux revenus pour faciliter l'accès à la culture et aux espaces sociaux.",
-        "objectifs": "Favoriser l'accès des seniors à la culture et aux espaces de sociabilité, notamment par le biais d'un système de tarification basé sur les revenus."
+        "description_generale": "Une initiative visant à améliorer l'accès des seniors aux services culturels et sociaux.",
+        "contexte": "La Ville de Saint-Priest a identifié un besoin pour favoriser l’accès des seniors à la culture et aux services sociaux, notamment en matière d'isolement.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une carte senior dédiée aux seniors permettant d'avoir des tarifs adaptés à leurs revenus pour les activités culturelles et sociales.",
+        "objectifs": [
+            "Améliorer l'accès des seniors aux services culturels et sociaux",
+            "Favoriser l'interaction entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La Ville de Saint-Priest en partenariat avec des institutions culturelles, de loisirs et de services",
-    "date": [],
+    "porteur_initiative": "Ville de Saint-Priest",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_senior.txt",

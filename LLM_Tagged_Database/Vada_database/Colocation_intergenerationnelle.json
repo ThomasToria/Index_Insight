@@ -1,22 +1,28 @@
 {
     "titre": "Colocation intergénérationnelle",
-    "territoire": "",
+    "territoire": "Commune de Caluire-et-Cuire, Rhône-Alpes",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "L'idée du projet est de proposer un appartement vacant à la location à deux jeunes étudiants pour créer des liens avec les résidents retraités.",
-        "contexte": "Il a d'abord fallu trouver des jeunes motivés par le projet avant de rechercher un prestataire qui assure la mise en relation entre des étudiants et des seniors. Suite à une réflexion sur les aspects juridiques et financiers, il fallait trouver un prestataire qui propose cette solution.",
-        "problematique": "Il n'y a pas de problème spécifique mentionné dans le texte fourni.",
-        "solution_envisagee": "Proposer l'appartement vacant à la location à deux jeunes étudiants pour créer des liens avec les résidents retraités.",
-        "objectifs": ""
+        "description_generale": "L'idée du projet est de profiter du logement vacant du gardien de la Résidence Autonomie de Caluire-et-Cuire pour proposer l'appartement à la location à deux jeunes étudiants à un prix modéré pour créer du lien avec les résidents retraités.",
+        "contexte": "Le projet a été validé auprès du bailleur public afin d'affecter ce logement professionnel en habitat intergénérationnel. Des travaux de réaménagement ont ensuite été réalisés pour créer une deuxième chambre.",
+        "problematique": "Proposer un environnement sécurisant pour des jeunes quittant le domicile parental grâce à la colocation et à l'intégration dans un lieu collectif avec une présence physique de professionnels 24h/24h.",
+        "solution_envisagee": "Faire valider auprès du bailleur public le fait d'affecter ce logement professionnel en habitat intergénérationnel. Des travaux de réaménagement ont ensuite été réalisés pour créer une deuxième chambre.",
+        "objectifs": [
+            "Créer du lien entre les générations",
+            "Répondre aux difficultés de logement des étudiants en région lyonnaise"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville de Caluire-et-Cuire",
+    "date": [
+        "2016"
+    ],
     "thematique": [
-        "logement",
-        "liens intergénérationnels"
+        "santé",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Colocation_intergenerationnelle.txt",

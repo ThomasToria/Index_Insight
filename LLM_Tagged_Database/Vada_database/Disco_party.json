@@ -1,22 +1,31 @@
 {
-    "titre": "UNE FÊTE COMME EN DISCOTHÈQUE",
-    "territoire": "",
+    "titre": "Disco Party",
+    "territoire": "Reims (51)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "L'organisation d'un premier événement festif à Reims après la crise sanitaire, une Disco Party dans une discothèque rémoise.",
-        "contexte": "Réponse aux attentes des citoyens quant à l'endroit où ils aiment se retrouver pour s'amuser et faire des rencontres.",
-        "problematique": "La nécessité d'offrir un espace de rencontre social après une période sans événements festifs.",
-        "solution_envisagee": "L'organisation d'une Disco Party dans une discothèque rémoise, avec des espaces aménagés pour la danse et le bar.",
-        "objectifs": ""
+        "description_generale": "Une Disco Party organisée dans une discothèque rémoise réputée, permettant aux seniors de sortir de chez eux après la période de crise sanitaire.",
+        "contexte": "La demande des participants était d'organiser un événement festif pour les seniors qui souhaitaient se détendre et rencontrer d'autres personnes. La discothèque proposait une ambiance festive, ce qui correspondait à leurs attentes.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser une discothèque rémoise réputée pour des seniors qui souhaitaient sortir de chez eux après la période de crise sanitaire. L'objectif était d'améliorer les liens sociaux, favoriser le lien social et valoriser leur mémoire.",
+        "objectifs": [
+            "Améliorer les liens sociaux entre les résidents de l’EHPAD",
+            "Favoriser le lien social par des activités festives"
+        ]
     },
-    "porteur_initiative": "Les citoyens de Reims",
-    "date": [],
+    "porteur_initiative": "La discothèque rémoise réputée",
+    "date": [
+        "2025-06"
+    ],
     "thematique": [
-        "santé publique",
-        "social"
+        "santé",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Disco_party.txt",

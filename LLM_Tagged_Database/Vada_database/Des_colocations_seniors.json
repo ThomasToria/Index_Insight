@@ -1,22 +1,33 @@
 {
     "titre": "Des colocations seniors",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La méthodologie développée par l'association Loki Ora en terme de création de colocation seniors a fait ses preuves en s’adaptant à tous les parcours et permet aux seniors un accompagnement complet et adapté: de l’information jusqu’au choix et à la construction de sa colocation sur-mesure. La colocation entre seniors est une véritable alternative entre le logement classique et l'EHPAD.",
-        "contexte": "",
-        "problematique": "La problématique principale est la nécessité d'offrir des solutions alternatives aux personnes âgées pour maintenir leur autonomie tout en assurant leur sécurité et qualité de vie.",
-        "solution_envisagee": "La solution envisagée consiste à développer et promouvoir les colocations seniors, qui offrent un mode de logement alternatif entre le logement classique et l'EHPAD.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à proposer aux seniors une solution de logement sur-mesure innovante qui répond à leurs besoins.",
+        "contexte": "La Chapelle-sur-Erdre, Nantes Métropole (44)",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Colocation seniors",
+        "objectifs": [
+            "Favoriser le lien social",
+            "Valoriser la mémoire des résidents"
+        ]
     },
-    "porteur_initiative": "L'association Loki Ora",
-    "date": [],
+    "porteur_initiative": "Association Loki Ora",
+    "date": [
+        "2019",
+        "fin janvier 2025"
+    ],
     "thematique": [
-        "logement",
-        "vieillissement"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_colocations_seniors.txt",

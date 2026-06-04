@@ -1,22 +1,34 @@
 {
-    "titre": "DIEPPE, LA BELLE ENTRICOTÉE",
-    "territoire": "",
-    "echelle": [
+    "titre": "DIEPPE, La belle entricotée",
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "professionnels",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Coopérer à la mise en œuvre d’un projet artistique à l’échelle de la ville. Favoriser la participation intergénérationnelle autour d’un événement. Créer des temps de rencontres et d’échanges avec différents acteurs. Mettre en œuvre une dynamique transversale au niveau de la collectivité.",
-        "contexte": "",
-        "problematique": "La nécessité de promouvoir l’artisanat local et la créativité dans le cadre d’un événement artistique.",
-        "solution_envisagee": "Organisation d’un atelier de tricot à grande échelle, avec des lieux dédiés et une planification en amont.",
-        "objectifs": "Coopération avec les partenaires, participation intergénérationnelle, rencontres et échanges entre acteurs, dynamique transversale."
+        "description_generale": "Une initiative artistique et intergénérationnelle à l'échelle de la ville de Dieppe, organisée par la Ville de Dieppe.",
+        "contexte": "Le projet a été initié en réponse au phénomène mondial « Y arn-Bombing », qui consiste à utiliser le mobilier urbain comme support pour tricoter. L'initiative est inspirée du concept et vise à créer des liens autour d'un projet artistique.",
+        "problematique": "Renforcer les liens entre résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser un événement artistique autour du tricotage, avec des ateliers pour les participants et une exposition urbaine qui se poursuit durant les vacances d'été.",
+        "objectifs": [
+            "Coopérer à la mise en œuvre d’un projet artistique à l’échelle de la ville",
+            "Favoriser la participation intergénérationnelle autour d’un événement",
+            "Créer des temps de rencontres et d'échanges avec différents acteurs",
+            "Mettre en œuvre une dynamique transversale au niveau de la collectivité"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville de Dieppe, animatrice en gérontologie et artiste locale",
+    "date": [
+        "depuis 2015"
+    ],
     "thematique": [
-        "artisanat",
-        "créativité"
+        "intergénérationnel",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DIEPPE_La_belle_entricotee.txt",

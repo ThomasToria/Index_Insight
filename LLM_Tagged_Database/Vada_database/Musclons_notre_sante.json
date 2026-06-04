@@ -1,0 +1,35 @@
+{
+    "titre": "Musclons notre santé",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Améliorer la condition physique, développer l’endurance, rendre de la force et du tonus musculaire et maintenir l’autonomie des personnes âgées de plus de 75 ans par la pratique d’exercices de musculation douce sur du matériel et des machines adaptées.",
+        "contexte": "Les résidents de l’EHPAD souffrent d’un manque d’activité physique, ce qui entraîne une perte de tonus musculaire. Les personnes âgées ont besoin de maintenir leur autonomie et améliorer leur condition physique pour vivre une vie active.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un partenariat entre la Ville, l’association loi-sirs des seniors de la collectivité, l’Université et l’Office Municipal des Sports. Des locaux et du matériel adéquat seront trouvés pour les activités physiques.",
+        "objectifs": [
+            "Améliorer la condition physique",
+            "Développer l'endurance",
+            "Rendre de la force et du tonus musculaire",
+            "Maintenir l'autonomie des personnes âgées"
+        ]
+    },
+    "porteur_initiative": "Dijon (21)",
+    "date": [
+        "depuis 2018"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Musclons_notre_sante.txt",
+    "nom_fichier": "Musclons_notre_sante.txt"
+}

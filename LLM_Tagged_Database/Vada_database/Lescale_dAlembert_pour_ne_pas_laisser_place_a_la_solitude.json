@@ -1,24 +1,31 @@
 {
     "titre": "L'escale d'Alembert pour ne pas laisser place à la solitude",
-    "territoire": "",
+    "territoire": "Commune: Dijon, 21",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les Dijonnais de plus de 60 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "La direction des retraités et des personnes âgées (DRPA) du centre communal d’action sociale (CCAS) de Dijon propose aux personnes âgées un service de restauration et un service d'accompagnement collectif via une structure : l'Escale d'Alembert.",
-        "contexte": "",
-        "problematique": "La solitude des personnes âgées",
-        "solution_envisagee": "L'Escale d'Alembert, qui offre un service de restauration et d'accompagnement collectif pour les personnes âgées, permettant ainsi de maintenir et de créer du lien.",
-        "objectifs": ""
+        "description_generale": "La Direction des retraités et des personnes âgées (DRPA) du centre communal d'action sociale (CCAS) de Dijon propose un service de restauration collective et d'accompagnement collectif via une structure: l'Escale d'Alembert. Ce service existe depuis janvier 2009 et dispose de locaux accessibles pour les personnes à mobilité réduite.",
+        "contexte": "Le Dijonnais âgé de plus de 60 ans, en particulier ceux qui ont des difficultés de mobilité, peuvent se retrouver dans l'Escale d'Alembert. Ce service permet aux seniors de partager un déjeuner en toute convivialité.",
+        "problematique": "Le besoin de maintenir la vie sociale et de se déplacer pour ceux qui ont des difficultés de mobilité.",
+        "solution_envisagee": "L'Escale d'Alembert propose une structure aménagée à proximité des transports en commun, un menu adapté aux besoins spécifiques des personnes âgées, diverses activités et un bus pour les déplacements.",
+        "objectifs": [
+            "Favoriser le maintien de la vie sociale",
+            "Rompre l'isolement",
+            "Permettre de se déplacer à ceux qui éprouvent des difficultés"
+        ]
     },
-    "porteur_initiative": "La direction des retraités et des personnes âgées (DRPA) du centre communal d’action sociale (CCAS) de Dijon",
+    "porteur_initiative": "DRPA du CCAS de Dijon",
     "date": [
-        "janvier 2009"
+        "depuis 2009"
     ],
     "thematique": [
-        "santé mentale",
-        "social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lescale_dAlembert_pour_ne_pas_laisser_place_a_la_solitude.txt",

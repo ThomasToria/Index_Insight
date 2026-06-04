@@ -1,0 +1,33 @@
+{
+    "titre": "Meaulne: Des Espaces Extérieurs Pour Tous Les Âges",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Une initiative visant à améliorer l'accès aux espaces extérieurs pour les personnes âgées de la commune de Meaulne.",
+        "contexte": "La mairie a identifié un besoin en matière d'accessibilité et d'aménagement des espaces publics pour les personnes âgées, notamment dans le cadre du projet 'Meaulne: Des Espaces Extérieurs Pour Tous Les Âges'.",
+        "problematique": "Les personnes âgées de la commune de Meaulne ont besoin d'espaces extérieurs sécurisés et adaptés pour leur sécurité et confort.",
+        "solution_envisagee": "La mise en place d'un système de marquage solitaire permettant l'identification des zones accessibles, ainsi que le développement de toilettes publiques adaptées aux personnes à mobilité réduite.",
+        "objectifs": [
+            "Améliorer la sécurité et l'accès aux espaces extérieurs pour les personnes âgées",
+            "Favoriser la mobilité des aînés dans leur environnement quotidien",
+            "Lutter contre l'isolement social"
+        ]
+    },
+    "porteur_initiative": "La mairie de Meaulne et l'association 'Vivre Ensemble à Meaulne'",
+    "date": [
+        "2015",
+        "2016"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Meaulne_des_espaces_exterieurs_pour_tous_les_ages.txt",
+    "nom_fichier": "Meaulne_des_espaces_exterieurs_pour_tous_les_ages.txt"
+}

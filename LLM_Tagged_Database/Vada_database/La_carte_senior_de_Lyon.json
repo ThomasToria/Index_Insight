@@ -1,22 +1,34 @@
 {
     "titre": "La carte senior de Lyon",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "Encourager l'accès des seniors aux activités proposées dans la ville grâce à une meilleure information et des tarifs privilégiés.",
-        "contexte": "Fort du constat que l'ancien dispositif d'inscription aux activités était lourd, contraignant et ne facilitait pas les sorties des seniors.",
-        "problematique": "L'ancien système d'inscription aux activités était obsolète, difficile à comprendre et peu diffusé.",
-        "solution_envisagee": "Revoir la démarche pour une offre plus dynamique, allant au-delà de la culture et incluant des tarifs privilégiés.",
-        "objectifs": ""
+        "description_generale": "La Ville de Lyon a mis en place une carte senior pour encourager l'accès des seniors aux activités proposées dans la ville.",
+        "contexte": "Le dispositif d'inscription aux activités était obsolète et contraignant, manquant de lisibilité et de facilité d'inscription. Les seniors étaient isolés et ne participaient pas à la vie de la cité.",
+        "problematique": "L’isolement des seniors et leur insuffisance dans la vie de la ville.",
+        "solution_envisagee": "Une carte senior moderne, plus facile d'accès et d'inscription, qui facilite l'information sur les activités et propose des tarifs préférentiels pour les détenteurs de la carte.",
+        "objectifs": [
+            "Encourager l’accès aux activités seniors",
+            "Faciliter l’information des seniors",
+            "Promouvoir une participation active dans la vie de la cité"
+        ]
     },
-    "porteur_initiative": "La Ville de Lyon",
-    "date": [],
+    "porteur_initiative": "Ville de Lyon",
+    "date": [
+        "2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_carte_senior_de_Lyon.txt",

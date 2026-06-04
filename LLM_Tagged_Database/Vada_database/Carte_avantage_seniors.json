@@ -1,25 +1,33 @@
 {
     "titre": "Carte avantage seniors",
-    "territoire": "",
+    "territoire": "Commune de Morteau, Ville adhérente depuis 2017",
     "echelle": [
         "communale"
     ],
-    "public_vise": "résidents de Morteau de 65 ans et plus",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une carte offrant des réductions dans les commerces et associations de Morteau pour les résidents de Morteau de 65 ans et plus.",
-        "contexte": "Contexte de fermeture de boutiques en centre-ville, participation de nombreux commerçants",
-        "problematique": "Fermeture de boutiques en centre-ville",
-        "solution_envisagee": "Lancement d'une carte avantage seniors pour offrir des réductions dans les commerces et associations.",
-        "objectifs": "Offrir une offre alternative aux résidents de Morteau de 65 ans et plus, soutenir la vie économique locale"
+        "description_generale": "La Ville de Morteau a lancé une première carte d'avantage seniors, visant les résidents de la commune de 65 ans et plus.",
+        "contexte": "Dans un contexte de fermeture de boutiques en centre-ville, la Ville de Morteau souhaite renforcer l'attractivité des commerces et associations locales auprès des résidents âgés.",
+        "problematique": "Renforcement des liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La création d'une carte avantage seniors qui offre des réductions dans les commerces et associations de Morteau.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de la commune, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La Ville de Morteau avec l'implication des commerçants",
+    "porteur_initiative": "CCAS de Morteau",
     "date": [
-        "du premier septembre au 31 août"
+        "depuis 2019"
     ],
     "thematique": [
         "santé",
-        "économie locale",
-        "vieillissement de la population"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_avantage_seniors.txt",

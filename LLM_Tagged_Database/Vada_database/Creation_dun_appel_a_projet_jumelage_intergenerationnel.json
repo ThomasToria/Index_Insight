@@ -1,25 +1,40 @@
 {
-    "titre": "Création d’un appel à projet « jumelage intergénérationnel »",
-    "territoire": "",
-    "echelle": [
+    "titre": "Création d'un appel à projet « jumelage intergénérationnel »",
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "quartier",
+        "régionale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Le développement des actions intergénérationnelles a été priorisé lors de la consultation des habitants et constitue un axe fort de la démarche Villes Amies des Aînés de Caen pour les années 2023-2024. Il a été décidé de construire un appel à projet porté par la municipalité pour initier de nouvelles actions intergénérationnelles sur le territoire.",
-        "contexte": "",
-        "problematique": "L'année suivant l'écriture et la lecture intergénérationnels, il a été décidé d'intégrer un nouveau projet : l'appel à projet « jumelage intergénérationnel »",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "contexte": "Un projet d’écriture et de lecture intergénérationnels a réuni plus de 300 habitants en 2023, et l’intention générale était de faire émerger de nouvelles actions intergénérationnelles en s'appuyant sur l'expertise des associations et structures locales.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Création d'un appel à projet « jumelage intergénérationnel » pour inciter au jumelage entre collectifs de seniors et structures socio-éducatives, favoriser l'émergence de projets innovants sur le territoire, soutenir l'essor d'actions intergénérationnelles dans chaque quartier de la Ville.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD et leurs proches",
+            "Favoriser l’émergence de projets innovants sur le territoire",
+            "Soutenir l'essor d'actions intergénérationnelles dans chaque quartier de la Ville"
+        ]
     },
     "porteur_initiative": "La municipalité",
     "date": [
-        "2023",
-        "2024"
+        "août 2023",
+        "janvier 2024"
     ],
     "thematique": [
-        "santé et bien-être",
-        "social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_appel_a_projet_jumelage_intergenerationnel.txt",

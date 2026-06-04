@@ -1,22 +1,31 @@
 {
-    "titre": "Lettre infos seniors",
-    "territoire": "",
+    "titre": "Lettre d'informations seniors",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "LES SENIORS DE LA VILLE, LEURS FAMILLES, LES PROFESSIONNELS",
+    "public_vise": "public non connu",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Une lettre d'information par mail pour les seniors, leurs familles et les professionnels.",
-        "contexte": "Chaque mois, tous les habitants de la commune reçoivent dans leur boîte aux lettres le journal de la commune avec un agenda sur les activités proposées. Des seniors ont mis en avant qu'ils lisaient le journal et après, ils oubliaient certaines activités proposées.",
-        "problematique": "Des seniors ne recevaient pas toutes les informations importantes par mail, ce qui leur faisait perdre des opportunités d'activité.",
-        "solution_envisagee": "La création d'une lettre d'information spécifiquement destinée aux seniors par email.",
-        "objectifs": "Transmettre efficacement et en temps opportun les informations et actualités pertinentes pour les seniors, leurs familles et les professionnels."
+        "description_generale": "Une lettre d’information par mail pour les seniors, professionnels et familles des seniors.",
+        "contexte": "Des seniors ont mis en avant qu'ils lisaient le jour natal et après, ils oubliaient certaines activités proposées et auraient aimé avoir ces informations par mail.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une lettre d'information par mail pour les seniors, professionnels et familles des seniors.",
+        "objectifs": [
+            "Centraliser l’actualité et les activités spécifiques pour les seniors",
+            "Rappeler aux seniors de s’inscrire à certaines activités"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "La ville amie des aînés depuis 2025, en route pour le label - Grand-Couronne (76)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lettre_infos_seniors.txt",

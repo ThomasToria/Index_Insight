@@ -1,22 +1,33 @@
 {
     "titre": "Opération sérénité au volant",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Cette opération vise à promouvoir la sécurité et la sérénité au volant, en particulier pour les personnes âgées de plus de 74 ans.",
-        "contexte": "La majorité des personnes âgées possèdent un permis de conduire et une voiture, mais seulement une minorité conduit. Ces personnes utilisent leur véhicule pour maintenir leurs liens sociaux, préserver leur autonomie et simplifier leur quotidien.",
-        "problematique": "L'usure naturelle de la vie rend difficile pour certaines personnes âgées de maîtriser leur conduite, ce qui peut entraîner des risques de sécurité au volant.",
-        "solution_envisagee": "Cette action vise à aborder tous les aspects de la sécurité et de la sérénité au volant, en particulier pour les personnes âgées.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à aborder tous les aspects de la sécurité et la sérénité au volant pour maîtriser sa conduite, en particulier auprès des personnes âgées.",
+        "contexte": "Les seniors de Barentin ont exprimé le besoin d'acquérir une meilleure maîtrise du code de la route tout en conservant leur autonomie et leurs liens sociaux.",
+        "problematique": "Conserver un lien social, préserver l'autonomie et simplifier et enrichir le quotidien des personnes âgées",
+        "solution_envisagee": "Organiser une conférence sur les aspects de la sécurité et de la sérénité au volant, ainsi que des ateliers collectifs avec des intervenants spécialisés.",
+        "objectifs": [
+            "Conserver un lien social",
+            "Préserver l'autonomie",
+            "Simplifier et enrichir le quotidien"
+        ]
     },
-    "porteur_initiative": "Association Brain Up",
-    "date": [],
+    "porteur_initiative": "Commune de Barentin (76)",
+    "date": [
+        "depuis 2020"
+    ],
     "thematique": [
-        "sécurité routière",
-        "autonomie"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_serenite_au_volant.txt",

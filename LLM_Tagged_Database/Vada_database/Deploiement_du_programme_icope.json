@@ -1,22 +1,31 @@
 {
     "titre": "Déploiement du programme icope",
-    "territoire": "Colomiers",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le déploiement du programme ICOPE vise à renforcer la prévention santé et le bien-vieillir des seniors en créant un parcours de soin centré sur le maintien d'autonomie.",
-        "contexte": "Initialement avec le Gérontopôle de Toulouse, ce programme s'est progressivement élargi à une collaboration avec les professionnels de santé du territoire, la CPTS et la clinique des Pyrénées.",
-        "problematique": "Anticiper les fragilités et la perte d'autonomie chez les personnes âgées",
-        "solution_envisagee": "Création d'un parcours de soin centré sur le maintien de l'autonomie des seniors",
-        "objectifs": ""
+        "description_generale": "Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors.",
+        "contexte": "La commune a constaté le besoin d'un tel programme après l'expérience positive de la mise en œuvre d'un dépistage de la fragilité sur la commune.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un parcours de soin et d'accompagnement centré sur le maintien de l'autonomie des personnes âgées",
+        "objectifs": [
+            "Renforcer la prévention santé et le bien-vieillir des seniors",
+            "Créer un véritable parcours de soin et d'accompagnement centré sur le maintien de l'autonomie des personnes âgées",
+            "Mettre en place des stratégies pour prévenir la perte d'autonomie et la dépendance"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS, Gérontopôle de Toulouse, professionnels de santé du territoire, Communauté Professionnelle Territoriale de Santé (CPTS), clinique des Pyrénées",
+    "date": [
+        "septembre 2021",
+        "novembre 2021"
+    ],
     "thematique": [
         "santé",
-        "vieillissement"
+        "lien social",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deploiement_du_programme_icope.txt",

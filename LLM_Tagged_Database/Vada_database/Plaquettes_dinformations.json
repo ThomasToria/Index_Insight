@@ -1,25 +1,31 @@
 {
     "titre": "Plaquettes d'informations",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "La ville de Lormont a lancé une plaquette d'informations sur les activités et services proposés, visant à fédérer les seniors autour des actions de l'Espace senior.",
-        "contexte": "Un éditorial lancé en 2017 dans le souci d'amélioration de la communication externe du service du CCAS.",
-        "problematique": "La nécessité de communiquer sur les activités et services proposés par l'Espace senior afin de fédérer les seniors.",
-        "solution_envisagee": "La réalisation d'une plaquette d'informations pour présenter ces activités et services.",
-        "objectifs": ""
+        "description_generale": "Cette plaquette d'informations est destinée aux seniors de plus de 65 ans, présentant les activités et services proposés par l'Espace senior.",
+        "contexte": "Le service du CCAS a lancé une plaquette d'informations en 2017 pour informer les seniors sur les actions mises en place.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une plaquette d'informations sur les activités et services proposés aux seniors",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Le service du CCAS de la ville de Lormont",
+    "porteur_initiative": "Villes Amies des Aînés en France",
     "date": [
-        "2017"
+        "2017",
+        "2023"
     ],
     "thematique": [
-        "communication",
-        "services publics",
-        "seniors"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plaquettes_dinformations.txt",

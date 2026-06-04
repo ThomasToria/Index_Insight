@@ -1,22 +1,32 @@
 {
     "titre": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "jeunes d'âge de neuf à quatorze ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "L'association l'outil en main initie les jeunes dès l'âge de neuf ans aux métiers manuels, avec des artisans ou ouvriers qualifiés bénévoles.",
-        "contexte": "Née en 1987, l'association vise à transmettre les savoirs parmi la jeunesse",
-        "problematique": "La transmission des savoirs manuels est limitée aux adultes et moins auprès de la jeunesse",
-        "solution_envisagee": "Initier les enfants dès leur plus jeune âge aux métiers manuels, avec l'aide d'artisans qualifiés bénévoles.",
-        "objectifs": "Promouvoir une culture du patrimoine matériel parmi la jeunesse, favoriser le développement de compétences manuelles chez les enfants"
+        "description_generale": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine, organisée par l'association Outil en main à la Résidence de l’Ille.",
+        "contexte": "Les ateliers visent à renforcer les liens entre jeunes et seniors, valoriser les métiers manuels artisanaux, et contribuer au maintien du lien social grâce aux relations intergénérationnelles.",
+        "problematique": "Renforcement des liens entre jeunes et seniors, valorisation des métiers manuels artisanaux, maintien du lien social",
+        "solution_envisagee": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine par les bénévoles à la retraite avec des vrais outils au sein de vrais ateliers.",
+        "objectifs": [
+            "Renforcer les liens entre jeunes et seniors",
+            "Valoriser les métiers manuels artisanaux",
+            "Maintenir le lien social grâce aux relations intergénérationnelles"
+        ]
     },
-    "porteur_initiative": "L'association l'outil en main",
-    "date": [],
+    "porteur_initiative": "Association Outil en main à la Résidence de l’Ille",
+    "date": [
+        "depuis 1987"
+    ],
     "thematique": [
-        "patrimoine",
-        "éducation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.txt",

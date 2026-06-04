@@ -1,24 +1,30 @@
 {
     "titre": "Journée olympique handi-intergénérationnelle",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "quartier"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Il s'agit de la 4e édition d'une journée organisée par la ville tous les 2 ans, sur la thématique des Jeux olympiques. Cette année, elle a permis de soutenir le projet d'établissement du DAME La Horgne.",
-        "contexte": "Cette journée s'intégrait dans la kermesse de l'établissement.",
-        "problematique": "",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Cette journée était organisée par la ville tous les deux ans, sur la thématique des Jeux olympiques.",
+        "contexte": "La Ville de Montigny-lès-Metz a organisé une quatrième édition de cette journée en 2025. Elle s'est tenue le 8 juillet 2024 à l'occasion des Jeux Olympiques de Paris, et a permis de sensibiliser les jeunes aux besoins du handicap.",
+        "problematique": "Renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser une journée intergénérationnelle autour des Jeux Olympiques pour sensibiliser les jeunes aux besoins du handicap et promouvoir le handi-intergénérationnel.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La ville",
+    "porteur_initiative": "Ville de Montigny-lès-Metz",
     "date": [
-        "à définir"
+        "2024-07-08"
     ],
     "thematique": [
-        "Jeux olympiques",
-        "soutien établissement DAME La Horgne"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_olympique_handi-intergenerationnelle.txt",

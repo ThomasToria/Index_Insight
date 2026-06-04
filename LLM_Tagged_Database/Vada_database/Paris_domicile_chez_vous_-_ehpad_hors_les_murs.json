@@ -1,18 +1,33 @@
 {
     "titre": "Paris domicile chez vous",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "territoire": "communale",
+    "echelle": [
+        "quartier",
+        "régionale"
+    ],
+    "public_vise": "autre",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "",
-        "contexte": "",
-        "problematique": "",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "L'immense majorité des séniors souhaitent vieillir à domicile, mais n'ont parfois d'autre choix que d'aller en EHPAD pour bénéficier des services qui y sont proposés. Afin de permettre aux seniors qui souhaitent rester à domicile de le faire, la Ville de Paris a décidé d'expérimenter un projet de dispositif d'accompagnement renforcé à domicile.",
+        "contexte": "La Ville de Paris souhaite améliorer l'accès des personnes âgées aux services proposés par les EHPAD et faciliter leur retour à la vie quotidienne.",
+        "problematique": "Le besoin d'accompagner les seniors dans leurs démarches pour obtenir les prestations offertes par les EHPAD, notamment en facilitant le passage de l'état de dépendance aux soins à domicile et vice versa.",
+        "solution_envisagee": "Un dispositif renforcé d’accompagnement à domicile qui emprunte la structure d’un EHPAD hors les murs pour faciliter le retour des seniors dans leur logis et assurer une continuité de soins.",
+        "objectifs": [
+            "Améliorer l'accès aux services proposés par les EHPAD",
+            "Faciliter le retour des seniors à domicile après avoir été dépendants"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
-    "thematique": [],
+    "porteur_initiative": "La Ville de Paris, Direction des Solidarités",
+    "date": [
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Paris_domicile_chez_vous_-_ehpad_hors_les_murs.txt",
     "nom_fichier": "Paris_domicile_chez_vous_-_ehpad_hors_les_murs.txt"

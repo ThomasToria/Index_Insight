@@ -1,24 +1,30 @@
 {
     "titre": "Instant pour soi",
-    "territoire": "Grand Reims",
+    "territoire": "Commune: Reims, Métropole: Grand Reims",
     "echelle": [
-        "communale"
+        "communale",
+        "intercommunale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) déployée sur le territoire du Grand Reims, portée par le CHU de Reims. Elle a étendu son offre de répit en proposant une nouvelle alternative à destination des aidants familiaux qui est tournée vers le mieux être.",
-        "contexte": "",
-        "problematique": "La charge de travail et les contraintes émotionnelles liées au rôle d'aidant familiale peuvent avoir un impact négatif sur la santé mentale et physique des aidants.",
-        "solution_envisagee": "Instant pour soi propose une offre de répit non médicamenteuse, visant à aider l'aidant à prendre soin de lui-même en s'appuyant sur ses propres ressources.",
-        "objectifs": ""
+        "description_generale": "Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) est déployée sur le territoire du Grand Reims. Elle est portée par le CHU de Reims.",
+        "contexte": "La Plateforme a été nommée 'Instant pour soi' et propose une nouvelle alternative à destination des aidants familiaux qui sont tournés vers le mieux être (prendre soin de soi).",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) déployée sur le territoire du Grand Reims. Elle est portée par le CHU de Reims.",
+        "objectifs": [
+            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Le CHU de Reims",
+    "porteur_initiative": "CHU de Reims",
     "date": [
+        "2019",
         "2021"
     ],
     "thematique": [
-        "santé mentale",
-        "aidants familiaux"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Instant_pour_soi.txt",

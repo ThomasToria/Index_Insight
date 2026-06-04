@@ -1,22 +1,29 @@
 {
     "titre": "Ateliers numériques seniors",
-    "territoire": "",
+    "territoire": "Marchiennes (59)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le projet vise à lutter contre la fracture numérique en offrant des ateliers d'utilisation de l'outil numérique aux seniors.",
-        "contexte": "Le projet découle de nombreuses demandes des adhérents de l'association Remue Méninges et est porté par le présidente de cette association. Il s'inscrit dans une collaboration avec les jeunes du Conseil Municipal des Jeunes Marchiennois, qui ont souhaité transmettre leurs compétences aux seniors.",
-        "problematique": "Lutter contre la fracture numérique",
-        "solution_envisagee": "Organisation d'ateliers numériques pour aider les seniors à utiliser l'outil numérique.",
-        "objectifs": "Éduquer et informer les seniors sur l'utilisation des outils numériques, améliorer leur autonomie dans le domaine numérique."
+        "description_generale": "Le projet visait à sensibiliser les seniors de la commune aux outils numériques, en organisant des ateliers réguliers dans une salle informatique de l'école élémentaire G. Brassens.",
+        "contexte": "La mairie de Marchiennes a permis la mise à disposition de la salle informatique, tandis que l'association Remues Méninges a animé les ateliers.",
+        "problematique": "Le besoin de renforcer les liens sociaux et favoriser l'inclusion numérique parmi les seniors de la commune.",
+        "solution_envisagee": "Ateliers numériques réguliers organisés dans une salle informatique de l'école élémentaire G. Brassens, avec des jeunes conseillers du Conseil Municipal des Jeunes Marchiennois et l'association Remues Méninges pour sensibiliser les seniors aux outils numériques.",
+        "objectifs": [
+            "Sensibiliser le public senior à l'outil numérique",
+            "Optimiser l'apprentissage en organisant des ateliers réguliers"
+        ]
     },
-    "porteur_initiative": "Association Remue Méninges",
-    "date": [],
+    "porteur_initiative": "Association Remues Méninges et la mairie de Marchiennes",
+    "date": [
+        "depuis 2021"
+    ],
     "thematique": [
-        "technologie",
-        "santé mentale"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_numeriques_seniors.txt",

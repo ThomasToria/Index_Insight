@@ -1,24 +1,28 @@
 {
-    "titre": "Activité qi gong",
-    "territoire": "",
+    "titre": "Activité Qi Gong",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le CCAS de Lormont propose une activité de prévention de la perte d'autonomie, le Qi Gong, aux seniors depuis novembre 2022.",
-        "contexte": "En réponse à l'appel à projets de la Conférence des financeurs, ce qui permet de développer l'offre d'activités sur l'Espace senior.",
-        "problematique": "La perte d'autonomie chez les seniors",
-        "solution_envisagee": "L'activité Qi Gong comme moyen de prévention et d'amélioration de la santé mentale et physique des participants",
-        "objectifs": "Promouvoir une activité adaptée aux seniors, améliorer leur bien-être général et maintenir leurs capacités physiques."
+        "description_generale": "Cette initiative a émergé grâce au questionnaire de satisfaction régulièrement remis aux seniors connus du CCAS. Le Qi Gong est une gymnastique chinoise basée sur des mouvements lents et techniques de respiration.",
+        "contexte": "Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années, répondant à l'appel à projets de la Conférence des financeurs. Le Qi Gong est une activité douce permettant aux seniors de se lier entre eux et de valoriser leur mémoire.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L'initiative vise à créer des liens intergénérationnels et à valoriser le rôle des seniors dans la communauté.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Le CCAS de Lormont",
+    "porteur_initiative": "CCAS de Lormont",
     "date": [
-        "2022-11"
+        "depuis 2019"
     ],
     "thematique": [
-        "prévention de la perte d'autonomie",
-        "santé mentale et physique"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activite_qi_gong.txt",

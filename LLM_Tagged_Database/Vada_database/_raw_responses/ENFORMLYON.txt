@@ -1,0 +1,24 @@
+{
+  "titre": "ENFORM@LYON",
+  "territoire": "communale",
+  "echelle": ["quartier", "régionale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Une application mobile pour des parcours sportifs à pratiquer en ville, développée avec le concours de la Ligue Auvergne Rhône-Alpes d'athlétisme et des musées Gadagne.",
+  "contexte": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "problematique": "Renforcement des liens entre seniors et la société civile, valorisation de leur mémoire et positionnement dans la vie locale.",
+  "solution_envisagee": "Ateliers sportifs et ludiques encadrés par des éducateurs sportifs en coopération avec les psychomotriciennes du CCAS, proposant des ateliers mobilité/activité physique aux seniors de résidences autonomie et quartiers proches.",
+  "objectifs": [
+    "Renforcer les liens entre les seniors et la société civile",
+    "Valoriser leur mémoire et positionnement dans la vie locale",
+    "Encourager l'activité physique chez les seniors"
+  ],
+  "porteur_initiative": "Direction des Sports de la Ville de Lyon, CCAS de Lyon, gestionnaire de 15 résidences autonomie.",
+  "date": ["depuis 2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social"
+  ],
+  "source_site": "VADA"
+}

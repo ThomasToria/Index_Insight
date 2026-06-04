@@ -1,0 +1,35 @@
+{
+    "titre": "Portage de livres à domicile",
+    "territoire": "communale",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "dispositif",
+    "description": {
+        "description_generale": "La Ville de Blagnac a mis en place un dispositif de portage de livres à domicile pour les personnes âgées à mobilité très réduite.",
+        "contexte": "Le vieillissement de la population s'accentue, et certaines personnes très âgées connaissent des pertes d'autonomie dans leurs déplacements. Certaines ne peuvent plus se déplacer vers les services comme la médiathèque, ce qui réduit leur activité culturelle.",
+        "problematique": "Le besoin de favoriser la lecture et l'interaction sociale pour maintenir le lien social des personnes âgées à mobilité très réduite.",
+        "solution_envisagee": "Un dispositif de portage de livres à domicile, mis en place par la Ville de Blagnac avec les bibliothécaires ou adjoints de bibliothèque et les agents du service de maintien à domicile.",
+        "objectifs": [
+            "Favoriser l'interaction sociale",
+            "Promouvoir l'accès à la culture et à la connaissance pour tous",
+            "Prévenir l'isolement des personnes âgées"
+        ]
+    },
+    "porteur_initiative": "La Ville de Blagnac",
+    "date": [
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Portage_de_livres_a_domicile.txt",
+    "nom_fichier": "Portage_de_livres_a_domicile.txt"
+}

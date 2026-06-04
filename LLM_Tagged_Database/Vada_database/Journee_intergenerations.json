@@ -1,0 +1,36 @@
+{
+    "titre": "Journée Intergénérationnelle",
+    "territoire": "Communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "professionnels",
+    "nature_initiative": "événement",
+    "description": {
+        "description_generale": "Une rencontre intergénérations entre enfants, adolescents et personnes âgées.",
+        "contexte": "Renforcer le lien intergénérationnel et valoriser la mémoire des résidents de l'Office des Retraités et Personnes Agées du Choletais (ORPAC).",
+        "problematique": "Renforcement du lien entre différentes générations, valorisation de la mémoire des personnes âgées.",
+        "solution_envisagee": "Organiser une journée intergénérationnelle avec participation de différents acteurs et résidents.",
+        "objectifs": [
+            "Fédérer un moment de convivialité entre les générations",
+            "Renforcer le lien intergénérationnel",
+            "Valoriser la mémoire des personnes âgées"
+        ]
+    },
+    "porteur_initiative": "Office des Retraités et Personnes Agées du Choletais (ORPAC)",
+    "date": [
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_intergenerations.txt",
+    "nom_fichier": "Journee_intergenerations.txt"
+}

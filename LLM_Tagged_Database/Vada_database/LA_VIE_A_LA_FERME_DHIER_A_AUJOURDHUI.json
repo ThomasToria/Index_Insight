@@ -1,22 +1,37 @@
 {
     "titre": "LA VIE A LA FERME D'HIER A AUJOURD'HUI",
-    "territoire": "",
+    "territoire": "Commune de Briec, Régionale, Nationale",
     "echelle": [
-        "communale"
+        "communale",
+        "régionale"
     ],
-    "public_vise": "",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Créer du lien social et des échanges intergénératifs autour de la préservation de fermes locales et de leurs savoir-faire.",
-        "contexte": "La ville de Briec souhaite préserver les fermes sur son territoire et soutenir leur production en engageant une démarche de transition.",
-        "problematique": "La disparition progressive des fermes locales et la perte d'intergénératifs liés à l'agriculture.",
-        "solution_envisagee": "Faire émerger les besoins et actions nécessaires par un groupe de travail agricultraux régulièrement réuni.",
-        "objectifs": ""
+        "description_generale": "Le projet de préserver la présence de fermes sur le territoire et les multiples savoir-faire liés à cette économie locale a été lancé par une série d'agriculteurs briécois. Un groupe de travail réunit régulièrement pour émerger les besoins et actions nécessaires, soutenant les productions et engager une démarche de transition nécessaire.",
+        "contexte": "La ville de Briec souhaite préserver la présence de fermes sur son territoire et valoriser l'histoire et les savoir-faire liés à cette économie locale. Un documentaire « Femmes de la terre » a été projeté en avant-première aux aînés pour solliciter leur point de vue, donnant lieu à des témoignages riches.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un collectage de témoignages des anciens agriculteurs pour préserver le patrimoine local.",
+        "objectifs": [
+            "Constituer une identité forte de territoire",
+            "Faire émerger les besoins et actions nécessaires sur le territoire"
+        ]
     },
-    "porteur_initiative": "La ville de Briec",
-    "date": [],
+    "porteur_initiative": "Groupe d'agriculteurs briécois, Centre Culturel Arthemuse, Bretagne Culture et Diversité, CICODES, Collèges de Briec, École primaire de Briec",
+    "date": [
+        "2019",
+        "fin janvier 2025"
+    ],
     "thematique": [
-        "société",
-        "agriculture"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LA_VIE_A_LA_FERME_DHIER_A_AUJOURDHUI.txt",

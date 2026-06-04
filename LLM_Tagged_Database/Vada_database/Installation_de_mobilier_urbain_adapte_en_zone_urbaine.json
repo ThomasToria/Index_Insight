@@ -1,24 +1,33 @@
 {
     "titre": "Installation de mobilier urbain adapté en zone urbaine",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
-        "quartier",
         "communale"
     ],
-    "public_vise": "LE PUBLIC",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Améliorer le confort des espaces publics, développer du lien social et favoriser les échanges intergénérationnels.",
-        "contexte": "Dans le cadre des études et ateliers participatifs auprès des commerçants, des habitants, des ainés",
-        "problematique": "Le manque de bancs en centralité a été relevé comme une thématique récurrente.",
-        "solution_envisagee": "Cinq marches déambulatoires avec les habitants dans différents quartiers de la ville pour repérer les besoins et les endroits propices à l'installation de mobilier urbain adapté.",
-        "objectifs": ""
+        "description_generale": "Le projet consiste à proposer un mobilier adapté aux habitants permettant de faciliter la mobilité sur la zone urbaine de Briec.",
+        "contexte": "Dans le cadre des études et ateliers participatifs auprès des commerçants, des habitants, des ainés, le manque de bancs en centralité a été relevé comme une thématique récurrente. Cinq marches déambulatoires avec les habitants, dans différents quartiers de la ville, ont permis de repérer les besoins et les endroits propices à l’installation de mobilier urbain adapté.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Installation de mobilier urbain adapté aux ainés pour faciliter la mobilité sur la zone urbaine de Briec.",
+        "objectifs": [
+            "Favoriser la mobilité et la santé de manière plus globale",
+            "Repérer les besoins et les endroits propices à l’installation de mobilier urbain adapté"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "La municipalité, Les habitants, Services techniques, Service administratif, Entreprise Stabrowski, RFVAA, Ergothérapeute, Ville de Brest",
+    "date": [
+        "2019",
+        "fin janvier 2025"
+    ],
     "thematique": [
-        "Mobilité",
-        "Santé publique",
-        "Éducation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Installation_de_mobilier_urbain_adapte_en_zone_urbaine.txt",

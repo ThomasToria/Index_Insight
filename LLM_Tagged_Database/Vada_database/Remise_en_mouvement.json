@@ -1,24 +1,30 @@
 {
     "titre": "Remise en mouvement",
-    "territoire": "",
+    "territoire": "Commune: Châtillon (92)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Dans un contexte démographique où le vieillissement de la population s'accélère, la commune de Châtillon souhaite offrir aux personnes âgées des parcours complets de soins et de prévention en proposant des activités physiques.",
-        "contexte": "La volonté suit le constat d'une rupture de soins et de pratiques sportives chez les seniors, pour des raisons diverses. De nombreux seniors souhaitent avoir des séances avec des kinésithérapeutes.",
-        "problematique": "Rupture de soins et de pratiques sportives chez les seniors",
-        "solution_envisagee": "Proposer des parcours complets de soins et de prévention en activités physiques dans la Maison des seniors",
-        "objectifs": ""
+        "description_generale": "Châtillon, Ville Amie des Aînés depuis 2022, a mis en place un projet de remise en mouvement pour les seniors. Ce projet permet d'encourager la pratique régulière d'une activité physique et de maintenir l'autonomie et la mobilité des personnes âgées.",
+        "contexte": "Le vieillissement démographique accélère, avec une rupture de soins et de pratiques sportives chez les seniors. De plus, de nombreux seniors souhaitent avoir des séances avec des kinésithérapeutes, mais les créneaux sont souvent complétés.",
+        "problematique": "Renforcer l'autonomie et la mobilité des personnes âgées à travers des exercices; Apporter des conseils personnalisés pour soulager les douleurs dorso-lombaires de l'épaule; Encourager à la pratique d'une activité physique régulière.",
+        "solution_envisagee": "Châtillon, Ville Amie des Aînés depuis 2022",
+        "objectifs": [
+            "Préserver l'autonomie et la mobilité des personnes âgées",
+            "Apporter des conseils personnalisés pour soulager les douleurs dorso-lombaires de l'épaule",
+            "Encourager à la pratique d'une activité physique régulière"
+        ]
     },
-    "porteur_initiative": "Commune de Châtillon",
-    "date": [],
+    "porteur_initiative": "Châtillon (92)",
+    "date": [
+        "septembre 2023"
+    ],
     "thematique": [
-        "vieillissement",
-        "soins",
-        "prévention",
-        "activité physique"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Remise_en_mouvement.txt",

@@ -1,22 +1,32 @@
 {
     "titre": "Animation estivale: cap sur un été animé pour tous!",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "tous les âges",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le dispositif Animation estivale propose aux enfants de 5 à 16 ans un programme d'activités diverses et variées pendant cinq semaines d'été.",
-        "contexte": "",
-        "problematique": "Les activités proposées aux enfants sont en moyenne de 2h, ce qui laisse souvent les parents ou grands-parents sans occupation pendant leur absence.",
-        "solution_envisagee": "Proposer aux adultes des activités pour qu'ils puissent profiter du temps disponible avec leurs enfants.",
-        "objectifs": ""
+        "description_generale": "Le dispositif Animation estivale propose aux enfants de 5 à 16 ans un programme d'animations diverses et variées pendant cinq semaines d’été. Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
+        "contexte": "Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des animations pour les accompagnants qui déposent les enfants aux animations estivales. Cette proposition a été accueillie très positivement par le service jeunesse, éducation populaire et vie étudiante.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Villes Amies Des Aines",
-    "date": [],
+    "porteur_initiative": "Association qui œuvre dans les thématiques choisies: activité physique et bien-être",
+    "date": [
+        "2016"
+    ],
     "thematique": [
-        "jeunesse",
-        "animation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Animation_estivale_cap_sur_un_ete_anime_pour_tous.txt",

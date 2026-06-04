@@ -1,24 +1,31 @@
 {
     "titre": "La marche adaptée pour tous",
-    "territoire": "",
+    "territoire": "Saint-Sébastien-sur-Loire (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Sébastiannais.e.s avec des besoins de mobilité spécifiques",
+    "public_vise": "ainés",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Organisation d'activités physiques adaptées et conviviales pour les seniors, visant à favoriser l'échange et la sécurité dans un environnement bienveillant.",
-        "contexte": "Fort de son expérience et des études sur les déplacements des seniors",
-        "problematique": "Défis liés à la mobilité des seniors",
-        "solution_envisagee": "Activités physiques adaptées et séances d'activités conviviales",
-        "objectifs": "Favoriser l'échange entre les seniors, améliorer leur bien-être physique et psychologique, renforcer leur autonomie dans le cadre de la mobilité."
+        "description_generale": "La ville de Saint-Sébastien-sur-Loire a organisé des marches adaptées pour les seniors, favorisant l'activité physique et la participation sociale.",
+        "contexte": "Les seniors ont besoin d'une activité physique régulière pour maintenir leur santé et prévenir la perte d'autonomie. Les initiatives locales comme celle de Saint-Sébastien-sur-Loire visent à promouvoir les activités physiques adaptées aux seniors.",
+        "problematique": "Les seniors ont besoin d'une activité physique régulière pour maintenir leur santé et prévenir la perte d'autonomie. Les initiatives locales comme celle de Saint-Sébastien-sur-Loire visent à promouvoir les activités physiques adaptées aux seniors.",
+        "solution_envisagee": "Les seniors ont besoin d'une activité physique régulière pour maintenir leur santé et prévenir la perte d'autonomie. Les initiatives locales comme celle de Saint-Sébastien-sur-Loire visent à promouvoir les activités physiques adaptées aux seniors.",
+        "objectifs": [
+            "Favoriser l'activité physique chez les seniors",
+            "Préserver leur autonomie et leur santé",
+            "Réduire le sentiment d'isolement"
+        ]
     },
-    "porteur_initiative": "Service Seniors de Saint-Sébastien-sur-Loire",
+    "porteur_initiative": "Saint-Sébastien-sur-Loire (44)",
     "date": [
-        "2020"
+        "depuis 2016"
     ],
     "thematique": [
-        "Mobilité",
-        "Santé et bien-être"
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_marche_adaptee_pour_tous.txt",

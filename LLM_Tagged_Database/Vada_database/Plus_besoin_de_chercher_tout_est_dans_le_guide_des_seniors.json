@@ -1,24 +1,34 @@
 {
     "titre": "Plus besoin de chercher, tout est dans le guide des seniors!",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le Guide des Seniors existe depuis plusieurs années à Dijon. Il a été réécrit en 2011 par le Maire, qui était également un des quatre axes forts choisis pour la Ville d’Amiabilité des Aînés.",
-        "contexte": "",
-        "problematique": "La recherche et l'identification de services ou informations peuvent être difficiles pour les seniors.",
-        "solution_envisagee": "Le Guide des Seniors est conçu pour faciliter la navigation et l'accès à ces informations essentielles.",
-        "objectifs": ""
+        "description_generale": "Le Guide des seniors existe depuis plusieurs années à Dijon. Lorsque Dijon est devenue Ville Amie des Aînés en 2010, le Maire a fait de la refonte complète du Guide des seniors existant, un des quatre axes forts choisis. Son élaboration demande un effort financier raisonnable et nécessite une participation active des aînés, correspondant à la démarche Villes Amies des Aînés.",
+        "contexte": "Dijon est devenue Ville Amie des Aînés en 2010, ce qui a conduit à la refonte complète du Guide des seniors existant. L'objectif était d'informer les seniors sur les possibilités offertes dans leur ville et d'établir une démarche participative.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un Guide des seniors qui est un mélange des avis des personnes âgées et des souhaits de la municipalité: c'est un véritable travail collaboratif. Le Guide informe sur une large palette : transports, santé, loisirs, culture, aides, droits.",
+        "objectifs": [
+            "Informer facilement les aînés autour des possibilités qui leur sont offertes dans leur ville.",
+            "Renseigner sur une large palette: transports, santé, loisirs, culture, aides, droits..."
+        ]
     },
-    "porteur_initiative": "Le Maire",
+    "porteur_initiative": "Dijon (21)",
     "date": [
-        "2011"
+        "depuis 2010",
+        "fin janvier 2025"
     ],
     "thematique": [
-        "Services aux aînés",
-        "Accès aux services"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plus_besoin_de_chercher_tout_est_dans_le_guide_des_seniors.txt",

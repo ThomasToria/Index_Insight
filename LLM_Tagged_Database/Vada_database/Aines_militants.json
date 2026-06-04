@@ -1,22 +1,37 @@
 {
     "titre": "Aînés militants",
-    "territoire": "",
-    "echelle": [
-        "intercommunale"
+    "territoire": [
+        "communale"
     ],
-    "public_vise": "personnes âgées, particulièrement les plus vulnérables",
+    "echelle": [
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un plan d'action pour maintenir le contact avec les adhérents et leurs proches pendant la période de confinement due à la pandémie du Covid-19.",
-        "contexte": "",
-        "problematique": "L’isolement des personnes âgées, particulièrement celles qui sont plus vulnérables",
-        "solution_envisagee": "Maintien du contact par tous les moyens possibles (téléphone, visioconférences) et prise en compte des difficultés liées au confinement.",
-        "objectifs": "Mettre en place un plan d'action pour maintenir le lien social avec les personnes âgées pendant la période de confinement"
+        "description_generale": "La CFDT Retraités a lancé une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement, notamment auprès d'organisations locales, départementales et régionales.",
+        "contexte": "Le con/f_inement du Covid-19 a conduit à un isolement accru pour les personnes âgées, particulièrement vulnérables. Les organisations de la CFDT Retraités ont pris en charge ce besoin en organisant des actions telles que l'enquête, le forum, et la mise en place d'une plateforme téléphonique.",
+        "problematique": "Le besoin de maintenir les liens sociaux avec les personnes âgées, notamment les plus vulnérables, pendant le confinement pour éviter l'isolement et valoriser leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": [
+            "enquête",
+            "forum",
+            "mise en place d'une plateforme téléphonique"
+        ],
+        "objectifs": [
+            "Lancer une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement auprès d'organisations locales, départementales et régionales.",
+            "Organiser un forum",
+            "Se renseigner sur les besoins des adhérents grâce à des questionnaires",
+            "Mettre en œuvre actions telles que la publication d'un journal, l'envoi de messages vidéos, et mettre en place une plateforme téléphonique."
+        ]
     },
     "porteur_initiative": "CFDT Retraités",
-    "date": [],
+    "date": [
+        "depuis 2016"
+    ],
     "thematique": [
-        "santé publique",
-        "solidarité"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aines_militants.txt",

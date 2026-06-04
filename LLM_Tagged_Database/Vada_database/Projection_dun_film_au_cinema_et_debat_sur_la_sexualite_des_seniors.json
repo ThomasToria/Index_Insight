@@ -1,22 +1,25 @@
 {
     "titre": "Projection d'un film au cinéma et débat sur la sexualité des seniors",
-    "territoire": "",
+    "territoire": "Vence (06)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une projection de film suivi d'un débat avec des intervenants spécialisés.",
-        "contexte": "Organisée par le CCAS, cette action est inspirée par une idée du responsable de l'activité prévention et promotion de la santé de la Mutualité Française.",
-        "problematique": "Les seniors cherchent des réponses sur leurs questions concernant la sexualité.",
-        "solution_envisagee": "Projection d'un film suivi d'un débat avec des intervenants spécialisés.",
-        "objectifs": "Fournir une réponse aux questions de la sexualité des seniors, favoriser le dialogue et l'échange autour du sujet."
+        "description_generale": "",
+        "contexte": "Les seniors ont des questions sur la sexualité après les 60 ans.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": "Renforcer les liens entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale."
     },
-    "porteur_initiative": "Responsable de l'activité prévention et promotion de la santé de la Mutualité Française",
-    "date": [],
+    "porteur_initiative": "CCAS de Vence",
+    "date": [
+        "2023-11-15"
+    ],
     "thematique": [
-        "sexualité",
-        "seniors"
+        "intergénérationnel",
+        "santé"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.txt",

@@ -1,0 +1,23 @@
+{
+  "titre": "Quartier libre",
+  "territoire": "communale",
+  "echelle": ["quartier"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "action intergénérationnelle",
+  "description_generale": "Le projet Quartier Libre vise à créer un lien social durable entre les résidents de l'EHPAD, leurs proches et la société civile.",
+  "contexte": "Les seniors du quartier souhaitent se retrouver autour d'activités de prévention pour renforcer les liens sociaux.",
+  "problematique": "Le besoin de créer un lien social durable entre les résidents de l'EHPAD, leurs proches et la société civile.",
+  "solution_envisagee": "Organiser des activités de prévention en groupe autour d'activités sportives et culturelles pour renforcer le lien social.",
+  "objectifs": [
+    "Renforcer les liens sociaux entre les résidents de l'EHPAD, leurs proches et la société civile",
+    "Créer un environnement propice à la participation citoyenne des seniors du quartier"
+  ],
+  "porteur_initiative": "CCAS de Metz",
+  "date": ["2023"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "participation citoyenne"
+  ],
+  "source_site": "VADA"
+}

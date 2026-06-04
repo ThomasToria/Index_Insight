@@ -1,25 +1,30 @@
 {
     "titre": "Bien vieillir et horizon 2024",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "populations à risque et vulnérable, populations en situation de vulnérabilité(s)",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "L'Office des Sports de la Ville d'Arras souhaite étendre son champs d'action en faveur des populations à risque et vulnérable via le dispositif 'Bien Vieillir et Horizon 2024'. La population senior est un public avec lequel ils développe certaines actions, mais les seniors 'vulnérables' sont de nouvelles cibles.",
-        "contexte": "",
-        "problematique": "lutte contre les inégalités sociales, situations d'exclusion ou d'isolement",
-        "solution_envisagee": "développement d'actions en faveur des populations à risque et vulnérable via le dispositif 'Bien Vieillir et Horizon 2024'",
-        "objectifs": ""
+        "description_generale": "La Ville d'Arras, en collaboration avec les associations sportives et à finalité sociale, a lancé le dispositif 'Bien Vieillir et Horizon 2024'. Ce projet vise à renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "contexte": "La lutte contre les inégalités sociales, les situations d'exclusion ou d'isolement ainsi que le développement de la dépendance sont des axes de développement identifiés au sein de la dynamique locale. Les seniors vulnérables représentent une nouvelle cible pour l'action.",
+        "problematique": "La lutte contre les inégalités sociales, les situations d'exclusion ou d'isolement ainsi que le développement de la dépendance sont des axes de développement identifiés au sein de la dynamique locale. Les seniors vulnérables représentent une nouvelle cible pour l'action.",
+        "solution_envisagee": "Proposer des créneaux d’activités physiques et sportives pour un public dit 'vulnérable' dans le cadre de la prévention primaire, secondaire ou tertiaire.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Office des Sports de la Ville d'Arras",
+    "porteur_initiative": "Villes Amies des Aînés en France",
     "date": [
-        "2023"
+        "2019",
+        "depuis 2019"
     ],
     "thematique": [
-        "inégalités sociales",
-        "exclusion",
-        "isolement"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_et_horizon_2024.txt",

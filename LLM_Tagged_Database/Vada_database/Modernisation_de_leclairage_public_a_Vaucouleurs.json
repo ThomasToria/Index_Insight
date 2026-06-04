@@ -1,22 +1,32 @@
 {
     "titre": "Modernisation de l'éclairage public à Vaucouleurs",
-    "territoire": "",
+    "territoire": "Commune: Vaucouleurs, Meuse",
     "echelle": [
-        "communale"
+        "communale",
+        "départementale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La commune de Vaucouleurs envisage d'apporter des modifications au système d'éclairage public en raison du coût et, plus particulièrement, depuis ces dernières années.",
-        "contexte": "Depuis plusieurs années, la ville prévoyait l'extinction nocturne de l'éclairage public à cause du coût. Cependant, les citoyens ont exprimé leur inquiétude concernant une sensation d'insécurité lors des sorties en centre-ville.",
-        "problematique": "La sensation d'insécurité due aux sorties nocturnes et aux cambriolages dans le centre-ville de Vaucouleurs.",
-        "solution_envisagee": "Apporter des modifications au système d'éclairage public pour répondre à la demande de sécurité accrue.",
-        "objectifs": ""
+        "description_generale": "La ville de Vaucouleurs a décidé de moderniser l'éclairage public dans le quartier, en remplaçant les lumières traditionnelles par des LED.",
+        "contexte": "Les seniors et leurs proches ont exprimé une sentiment d'insécurité lors des sorties nocturnes, notamment pendant les soirées organisées par les associations. La ville a donc décidé de mettre en place un système de vidéo protection pour renforcer la sécurité.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La mise en place d'un système de vidéo protection pour renforcer la sécurité des seniors lors des sorties nocturnes.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville de Vaucouleurs",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "santé et sécurité publique",
-        "urbanisme"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Modernisation_de_leclairage_public_a_Vaucouleurs.txt",

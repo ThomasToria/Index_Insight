@@ -1,22 +1,33 @@
 {
     "titre": "Au fil de l'art",
-    "territoire": "",
+    "territoire": "Commune: Géraldines",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Les activités artistiques créent du lien dans la commune de Gravelines.",
-        "contexte": "En 2014, face à une population vieillissante, la municipalité souhaite prévenir et lutter contre l'isolement. Par le biais de la culture et des loisirs, le dispositif Au Fil de l'Art est mis en place.",
-        "problematique": "L'isolement dans la commune de Gravelines",
-        "solution_envisagee": "Le dispositif Au Fil de l'Art a été créé pour combattre l'isolement et promouvoir le lien social par l'intermédiaire des activités artistiques.",
-        "objectifs": ""
+        "description_generale": "Initiative artistique créative visant à renforcer les liens entre résidents, leurs proches et la société civile.",
+        "contexte": "La population de Géraldines est vieillissante, ce qui a conduit à une tendance d'isolement croissant. Le service protocole souhaite lutter contre cette tendance en créant un dispositif artistique pour les seniors.",
+        "problematique": "Renforcer les liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des ateliers artistiques et sorties culturelles pour créer un lien social entre les seniors et la population locale.",
+        "objectifs": [
+            "Renforcer les liens sociaux entre les résidents de Géraldines",
+            "Valoriser l'histoire et la mémoire des seniors dans la vie locale",
+            "Promouvoir le lien intergénérationnel"
+        ]
     },
-    "porteur_initiative": "Service Protocole",
-    "date": [],
+    "porteur_initiative": "Service protocole",
+    "date": [
+        "2014",
+        "2019"
+    ],
     "thematique": [
-        "culture",
-        "loisirs"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_de_lart.txt",

@@ -1,22 +1,29 @@
 {
     "titre": "Le portage de repas à domicile: soutenir les aînés à domicile",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les personnes âgées de plus de 60 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "service",
     "description": {
-        "description_generale": "Le service des repas à domicile existe depuis 30 ans à Dijon. Il est porté par le Centre Communal d’Action Sociale et est intégré à la Direction des Retraités et Personnes Âgées. Il propose aux personnes âgées de se faire livrer leurs repas complets, variés et équilibrés.",
-        "contexte": "",
-        "problematique": "Les personnes âgées ne peuvent plus faire leurs courses ou rencontrent des difficultés à cuisiner",
-        "solution_envisagee": "Le service de repas à domicile leur permet d'être pris en charge dans ces situations",
-        "objectifs": "Soutenir les personnes âgées qui ne peuvent plus faire leurs courses et qui ont des difficultés à cuisiner"
+        "description_generale": "Le service des repas à domicile existe depuis 30 ans à Dijon. Il est porté par le Centre Communal d’Action Sociale de la ville et est intégré à la Direction des Retraités et Personnes Âgées.",
+        "contexte": "Les aînés rencontrent des difficultés pour se faire livrer leurs repas, ne peuvent plus cuisiner ou n'en ont plus l'envie. Le service de portage de repas leur apporte une aide précieuse en veillant à ce qu'ils soient bien alimentés.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une journée d’échanges intergénérationnels autour des 30 ans de l’EHPAD « La Résidence de l’Ille»",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile.",
+            "Valoriser leur mémoire et leur place dans la vie locale."
+        ]
     },
-    "porteur_initiative": "Centre Communal d’Action Sociale",
-    "date": [],
+    "porteur_initiative": "Centre Communal d’Action Sociale de la ville",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_portage_de_repas_a_domicile_soutenir_les_aines_a_domicile.txt",

@@ -1,22 +1,34 @@
 {
     "titre": "La résidence Boréa: des appartements regroupés avec services partagés",
-    "territoire": "",
+    "territoire": "Romans-sur-Isère, Romans-sur-Isère (26)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une résidence de vie pour personnes âgées, regroupant plusieurs appartements et offrant des services communs.",
-        "contexte": "Analyse des besoins sociaux menée par le CCAS met en évidence la part importante des plus de 60 ans dans la population locale et son augmentation rapide. Le diagnostic territorial réalisé en 2011 souligne que la proportion des personnes âgées de plus de 60 ans est supérieure à 25 %.",
-        "problematique": "La présence d'une population âgée croissante nécessite l'adaptation du logement et des services pour répondre aux besoins spécifiques de cette catégorie de personnes.",
-        "solution_envisagee": "La création d'une résidence Boréa regroupant plusieurs appartements avec des services partagés pour répondre à ces besoins.",
-        "objectifs": ""
+        "description_generale": "Créer une résidence de 24 logements autonomes dans un lieu stratégique (à proximité de services, en cœur de ville) pour personnes âgées autonomes. Proposer un certain nombre de services gratuits ou payants à destination des locataires.",
+        "contexte": "La proportion des personnes âgées de plus de 60 ans est supérieure à 25% et croît rapidement dans la population locale, avec une augmentation significative entre 2013 et 2020. Les seniors vivent seuls et ont un fort besoin d'habitat alternatif.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer un type d'habitat alternatif entre le domicile et l'établissement à des retraités autonomes; Lutter contre l’isolement; Faire face aux besoins de maintien social et émotionnel pour les seniors.",
+        "objectifs": [
+            "Renforcer les liens sociaux",
+            "Lutter contre l'isolement",
+            "Favoriser le maintien d'un lien social"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville Amie des Aînés Romans-sur-Isère",
+    "date": [
+        "2015"
+    ],
     "thematique": [
-        "logement",
-        "services sociaux"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",

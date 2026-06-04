@@ -1,22 +1,32 @@
 {
     "titre": "Réseau Bénévoles",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées seules, seniors isolés",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Création d'un réseau de bénévoles pour lutter contre l'isolement des personnes âgées.",
-        "contexte": "Vieillissement de la population et allongement de la durée de vie, entraînant une augmentation du nombre de personnes seules",
-        "problematique": "L’isolement social des seniors contribue à leur isolement dans les services sociaux et renforce leurs situations de précarité.",
-        "solution_envisagee": "Création d'un réseau de bénévoles pour améliorer la connexion sociale et l'accès aux services",
-        "objectifs": "Réduire l'isolement social des seniors, améliorer leur accès aux services sociaux, renforcer leur autonomie mentale et physique."
+        "description_generale": "Créer des interactions régulières entre les bénévoles et les aînés pour briser l'isolement.",
+        "contexte": "Le vieillissement croissant, la solitude chez certains seniors, et le non-recours aux services rendent les situations de précarité plus graves.",
+        "problematique": "L’absence de réseau social des personnes âgées contribue à l’isolement et à la fragilité sociale.",
+        "solution_envisagee": "Un réseau de bénévoles pour établir un lien social avec les personnes âgées isolées, offrant de la compagnie, du soutien et accès aux services nécessaires.",
+        "objectifs": [
+            "Mobiliser des citoyens volontaires",
+            "Établir un lien social entre les bénévoles et les aînés",
+            "Offrir une assistance logistique pour l'accès aux services de santé, aux activités culturelles et aux loisirs"
+        ]
     },
-    "porteur_initiative": "Villes Amiens-des-Aines",
-    "date": [],
+    "porteur_initiative": "La ville de Colomiers",
+    "date": [
+        "2018"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Benevoles.txt",

@@ -1,22 +1,34 @@
 {
-    "titre": "Associations Maison des Sages",
-    "territoire": "",
+    "titre": "UN HABITAT ALTERNATIF",
+    "territoire": "Commune: Buc, Loges-en-Josas (Yvelines)",
     "echelle": [
-        "communale"
+        "communale",
+        "départementale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Les Maisons des Sages sont deux habitats Accompagnés Partagés et Insérés (API) qui accueillent chacune huit personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
-        "contexte": "",
-        "problematique": "Mettre en place un habitat alternatif entre le logement classique et l'EHPAD pour les personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
-        "solution_envisagee": "Développer un modèle de logement alternatif en Allemagne et le mettre en place en France.",
-        "objectifs": ""
+        "description_generale": "Les Maisons des Sages sont deux habitats Accompagnés Partagés et Insérés dans la cité (API) à Buc et aux Loges-en-Josas (Yvelines) qui accueillent huit personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer un logement alternatif entre le logement classique et l'EHPAD pour des personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
+        "objectifs": [
+            "Offrir un choix alternatif à l’entrée en institution pour des personnes âgées présentant un handicap cognitif",
+            "Permettre une mise en commun de la location d'une grande maison, des dépenses de la vie quotidienne et d'un accompagnement par des auxiliaires.",
+            "Lutter contre l'isolement et le sentiment de solitude."
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Conseil départemental des Yvelines (78)",
+    "date": [
+        "2019",
+        "2021"
+    ],
     "thematique": [
-        "habitat",
-        "maladie d'Alzheimer"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Associations_Maison_des_Sages.txt",

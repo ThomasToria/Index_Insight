@@ -1,24 +1,31 @@
 {
     "titre": "Association activ'sénior - lutter contre l'isolement et la solitude des seniors de plus de 50 ans",
-    "territoire": "",
+    "territoire": "Commune: Valence (26)",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "seniors de plus de 50 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "L'action vise à combattre l'isolement et la solitude des seniors en leur proposant une variété d'activités sociales.",
-        "contexte": "Le CCAS de la Ville de Valence anime une action générale de prévention et de développement social dans la commune, en lien étroit avec les institutions publiques et privées.",
-        "problematique": "L'isolement et la solitude des seniors de plus de 50 ans",
-        "solution_envisagee": "Proposer une gamme d'activités sociales pour atténuer ces problèmes.",
-        "objectifs": "Diminuer l'isolement et la solitude, améliorer le bien-être général des participants, renforcer les liens sociaux dans la commune"
+        "description_generale": "Association Activ'Sénior lance une action pour lutter contre l'isolement et la solitude des seniors de plus de 50 ans dans la commune de Valence.",
+        "contexte": "La Ville de Valence a déclaré être une ville amie des aînés depuis 2017, ce qui signifie que les initiatives visant à renforcer le lien social et l'animation locale sont mises en place pour les seniors. L'Association Activ'Sénior est engagée dans cette cause.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L'initiative visera à organiser des activités intergénérationnelles qui permettront aux seniors d'échanger avec les jeunes générations et de se sentir engagés dans la vie communale, tout en valorisant leur expérience et leur contribution.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de la commune",
+            "Valoriser l'expérience des seniors dans la vie locale",
+            "Promouvoir l'engagement citoyen des seniors"
+        ]
     },
-    "porteur_initiative": "Le CCAS de la Ville de Valence en collaboration avec 'Activ'Senior'",
+    "porteur_initiative": "Association Activ'Sénior",
     "date": [
-        "2023"
+        "2019",
+        "depuis 2019"
     ],
     "thematique": [
-        "santé mentale",
-        "social"
+        "intergénérationnel",
+        "participation citoyenne",
+        "santé"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_activsenior_-_lutter_contre_lisolement_et_la_solitude_des_seniors_de_plus_de_50_ans.txt",

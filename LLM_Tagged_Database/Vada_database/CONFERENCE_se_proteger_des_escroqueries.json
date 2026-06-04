@@ -1,25 +1,32 @@
 {
     "titre": "CONFERENCE « se protéger des escroqueries »",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La commune de Montauban a organisé une conférence sur la prévention des arnaques, en particulier numériques et téléphoniques.",
-        "contexte": "Les escroqueries sont fréquentes, avec un accent particulier sur les seniors qui sont souvent victimes.",
-        "problematique": "La vulnérabilité des seniors aux arnaques numériques et téléphoniques.",
-        "solution_envisagee": "Organisation d'une conférence pour sensibiliser et prévenir ces types de fraudes.",
-        "objectifs": "Sensibiliser les participants à la manière dont les escrocs opèrent, fournir des conseils sur la sécurité en ville et au domicile, et renforcer la vigilance des seniors."
+        "description_generale": "Conférence sur la prévention des escroqueries numériques, téléphoniques et en ville.",
+        "contexte": "Escroqueries sont fréquentes auprès des seniors, avec un impact financier significatif.",
+        "problematique": "Renforcer les liens entre résidents de l'EHPAD, leurs proches et la société civile pour valoriser leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organisation d'une conférence interactive sur la sécurité en ligne et au domicile, présentation du commissariat de police municipale et des partenaires extérieurs (police municipale et brigade canine).",
+        "objectifs": [
+            "Présenter les risques liés aux escroqueries numériques et téléphoniques.",
+            "Fournir des conseils pour la sécurité en ligne et au domicile.",
+            "Valoriser l'histoire et le rôle des résidents de l'EHPAD dans la vie locale."
+        ]
     },
-    "porteur_initiative": "Les différents services municipaux avec l'intervention d'un intervenant extérieur",
+    "porteur_initiative": "Commune de Montauban",
     "date": [
-        "2024-12",
-        "2025-04"
+        "depuis 2024",
+        "avril 2025"
     ],
     "thematique": [
-        "sécurité numérique",
-        "fraude"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\CONFERENCE_se_proteger_des_escroqueries.txt",

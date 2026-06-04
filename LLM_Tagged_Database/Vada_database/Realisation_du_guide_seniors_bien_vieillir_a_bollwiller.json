@@ -1,23 +1,35 @@
 {
-    "titre": "Réalisation du guide seniors 'bien vieillir à Bollwiller'",
-    "territoire": "Bollwiller",
+    "titre": "Réalisation du guide seniors 'Bien vieillir à Bollwiller'",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors et leur entourage, aidants",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Proposer un outil informatif et pratique aux seniors et à leurs familles pour aborder des problématiques de vie quotidienne.",
-        "contexte": "Organisation de tables rondes par la ville et enquête conjointement avec l'agence d'urbanisme",
-        "problematique": "Problématiques auxquelles les seniors peuvent être confrontés dans leur vie quotidienne",
-        "solution_envisagee": "Réalisation d'un guide de référence",
-        "objectifs": "Informer, conseiller et aider les seniors et leurs aidants à gérer efficacement leurs problèmes quotidiens."
+        "description_generale": "Le but de ce guide est de proposer aux seniors et à leur famille, mais également aux aidants un outil qui apporte des informations utiles et des réponses concrètes et pratiques concernant une série de thématiques relatives aux problématiques auxquelles les publics concernés peuvent être confrontées dans leur vie quotidienne.",
+        "contexte": "Le besoin de réaliser le guide s'est exprimé dans le cadre de tables rondes organisées par la ville et d'une enquête menée conjointement avec l'agence d'urbanisme de la région moushyoise auprès de toutes les personnes âgées de plus de 60 ans.",
+        "problematique": "Le guide a été élaboré pour répondre aux problématiques des seniors, leurs aidants et leur famille concernant une série de thématiques liées à la vie quotidienne.",
+        "solution_envisagee": "Un outil qui apporte des informations utiles et concrètes sur les sujets abordés dans le guide.",
+        "objectifs": [
+            "renforcer les liens entre les seniors, leurs aidants et la société civile",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
     "porteur_initiative": "La ville de Bollwiller",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "vieillissement",
         "santé",
-        "aidants familiaux"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.txt",

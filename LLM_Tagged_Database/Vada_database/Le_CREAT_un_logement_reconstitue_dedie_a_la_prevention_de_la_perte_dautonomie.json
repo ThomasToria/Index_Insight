@@ -1,25 +1,28 @@
 {
-    "titre": "Le CREAT: un logement reconstitué dédié à la prévention de la perte d’autonomie",
-    "territoire": "",
+    "titre": "Le CREAT: un logement reconstitué dédié à la prévention de la perte d'autonomie",
+    "territoire": "Nantes Métropole (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "grand public",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Propose de découvrir et tester les aides techniques destinées à faciliter la vie quotidienne des personnes âgées dans un logement reconstitué 'comme chez soi'. L'équipement a été coconstruit avec les citoyens.",
-        "contexte": "",
-        "problematique": "La perte d'autonomie chez les personnes âgées",
-        "solution_envisagee": "Aides techniques et conseils d'ergothérapeute dans un logement reconstitué 'comme chez soi'",
-        "objectifs": "Découvrir et tester les aides techniques, sensibiliser le grand public à la prévention de la perte d'autonomie"
+        "description_generale": "Ce site est un équipement unique en Loire-Atlantique. Les professionnels du CreAT sont à la disposition des visiteurs pour leur donner des conseils personnalisés selon la problématique.",
+        "contexte": "Le CreAT, situé 10 rue de Bruxelles à Nantes, propose une expérience d'accompagnement et de découverte des aides techniques destinées à faciliter la vie quotidienne des personnes âgées. Ce logement reconstitué a été conçu dans le cadre du Grand Débat Longévité (janvier à mai 2019) pour répondre aux attentes des citoyens et professionnels.",
+        "problematique": "La problématique est de proposer un accompagnement personnalisé et gratuit sous forme de RDV individuels ou d'ateliers, en particulier pour les aidants (familiaux ou professionnels) qui cherchent des informations nécessaires au bien-être de leurs proches et aidés.",
+        "solution_envisagee": "Un logement reconstitué: des solutions pour mieux vieillir chez soi!",
+        "objectifs": [
+            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "CreAT",
     "date": [
-        "janvier",
-        "mai"
+        "2019"
     ],
     "thematique": [
-        "santé publique",
-        "vieillissement de la population"
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.txt",

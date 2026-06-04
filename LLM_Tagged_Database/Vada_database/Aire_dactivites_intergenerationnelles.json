@@ -1,22 +1,35 @@
 {
     "titre": "Aire d'activités intergénérationnelles",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Les seniors et les utilisateurs généralement plus âgés",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Inciter les seniors à sortir de chez eux et rompre la solitude, encourager l'entretien physique en proposant différents types d'activités adaptées aux capacités physiques.",
-        "contexte": "Consultation des seniors dans le cadre de tables rondes organisées",
-        "problematique": "Solitude et insécurité chez les seniors",
-        "solution_envisagee": "Création d'une aire d'activités intergénérationnelle proposant divers types d'activités adaptées aux capacités physiques des participants",
-        "objectifs": "Promouvoir l'activité physique, renforcer la cohésion sociale et améliorer le bien-être des seniors"
+        "description_generale": "Cette aire d’activités intergénérationnelle a été conçue pour inciter les seniors à sortir de chez eux et rompre la solitude, en proposant des activités physiques adaptées aux capacités physiques de chacun.",
+        "contexte": "La ville de Bollwiller a créé une aire d’activités intergénérationnelle dans un espace dédié composé de plusieurs agrès de niveaux de difficulté différents pour encourager les seniors à se mobiliser et à renforcer leurs capacités physiques.",
+        "problematique": "Le besoin de renforcer les liens entre les générations, en particulier entre les aînés et les jeunes, et la promotion d’activités physiques adaptées aux différents âges.",
+        "solution_envisagee": "Cette aire d'activités intergénérationnelle répond à un double besoin: renforcer les liens entre les générations et promouvoir une activité physique adaptée à tous les âges. Elle a été conçue en complémentarité avec un centre sportif pour rassembler enfants, adolescents, adultes et personnes âgées dans un même espace.",
+        "objectifs": [
+            "Participer à une politique de prévention de la santé",
+            "Remobiliser les capacités physiques"
+        ]
     },
-    "porteur_initiative": "Ville",
-    "date": [],
+    "porteur_initiative": "La Ville de Bollwiller",
+    "date": [
+        "2025"
+    ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aire_dactivites_intergenerationnelles.txt",

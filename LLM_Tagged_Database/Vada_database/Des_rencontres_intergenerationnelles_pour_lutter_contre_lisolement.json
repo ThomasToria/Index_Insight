@@ -1,22 +1,37 @@
 {
     "titre": "Des rencontres intergénérationnelles pour lutter contre l'isolement",
-    "territoire": "",
-    "echelle": [
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "quartier",
+        "intercommunale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Concrètement, il s’agit de proposer à des jeunes en service civique d’intervenir, en équipe, dans les établissements ou à domicile pour faire des visites de convivialité, proposer des sorties, recueillir la mémoire des personnes âgées ou encore valoriser leurs savoirs et leur mémoire.",
-        "contexte": "",
-        "problematique": "L'isolement des personnes âgées",
-        "solution_envisagee": "Proposer à des jeunes en service civique d'intervenir auprès de personnes âgées pour lutter contre l'isolement",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées isolées en leur permettant d’entretenir les liens sociaux et culturels avec leurs proches et la société.",
+        "contexte": "Les seniors isolés sont souvent privés de visites régulières, ce qui peut entraîner un sentiment d'isolement et une perte de lien social. Les initiatives intergénérationnelles permettent de réduire l’isolement des personnes âgées.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer des visites de convivialité à des jeunes volontaires issus du Service Civique pour former les seniors isolés et favoriser le lien social.",
+        "objectifs": [
+            "Réduire l'isolement des personnes âgées",
+            "Développer les liens intergénérationnels",
+            "Favoriser le bien-être des aînés",
+            "Contribuer au maintien de l'autonomie des personnes visitées"
+        ]
     },
     "porteur_initiative": "Unis’cité",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Service Civique",
-        "Isolation"
+        "santé",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.txt",

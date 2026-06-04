@@ -1,23 +1,33 @@
 {
     "titre": "Réveil musculaire",
-    "territoire": "",
+    "territoire": "Maxéville (54)",
     "echelle": [
-        "commune"
+        "communale"
     ],
-    "public_vise": "TOUS LES MAXÉVILLOIS",
+    "public_vise": "public non connu",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Lors de la démarche de diagnostic de la démarche Vill e Amie des Aînées, les seniors ont souhaité la mise en place d'une activité physique douce, accessible à tous. La ville a donc mis en place ces séances de réveil musculaire.",
+        "description_generale": "Issu d'une demande et d'un besoin des seniors, dans le cadre de la démarche VADA, les séances de réveil musculaire sont accessibles à tous les maxévillois.",
         "contexte": "",
-        "problematique": "Prévenir les chutes, et garder son corps et sa tête en forme",
-        "solution_envisagee": "Mise en place d'activités physiques douces accessibles à tous",
-        "objectifs": ""
+        "problematique": "Prévenir les chutes, et garder son corps et sa tête en forme.",
+        "solution_envisagee": "Une activité physique douce, accessible à tous les seniors pour renforcer leur endurance et améliorer leur qualité de vie.",
+        "objectifs": [
+            "Permettre à chaque maxévillois de profiter d'une séance d'activité physique par semaine",
+            "Garder son corps et sa tête en forme"
+        ]
     },
-    "porteur_initiative": "Ville de Maxeville",
-    "date": [],
+    "porteur_initiative": "",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "LIEN SOCIAL ET SOLIDARITÉ",
-        "AUTONOMIE, SERVICE ET SOINS",
-        "LIEN SOCIAL"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reveil_musculaire.txt",

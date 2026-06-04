@@ -1,22 +1,32 @@
 {
     "titre": "Fleuribus, le minibus intra urbain",
-    "territoire": "",
+    "territoire": "Commune: Fleurance",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "PERSONNES DE PLUS DE 60 ANS DOMICILIÉES À FLEURANCE",
+    "public_vise": "public non connu",
+    "nature_initiative": "minibus intra-urbain",
     "description": {
-        "description_generale": "Le projet consiste à mettre en place un minibus intra-urbain pour faciliter la mobilité des seniors vers le centre-ville et les services de soins.",
-        "contexte": "L'analyse des besoins sociaux de 2021 a fait remonter la difficulté de mobilité des seniors par manque de transport en commun, c'est pourquoi les élus ont décidé d'introduire un minibus intra-urbain.",
-        "problematique": "Le manque de transport en commun pour faciliter la mobilité des personnes âgées vers le centre-ville et les services de soins.",
-        "solution_envisagee": "La mise en place d'un minibus intra-urbain",
-        "objectifs": ""
+        "description_generale": "Le projet consiste à mettre en place un transport intra-urbain gratuit pour les seniors, composé de trois lignes sur un parcours pré-défini avec des arrêts aménagés.",
+        "contexte": "Les seniors de la commune ont constaté une difficulté de mobilité due au manque de transports en commun. Les élus ont décidé d'organiser ce projet pour faciliter leur accessibilité aux services et commerces.",
+        "problematique": "Difficulté de mobilité des seniors, manque de transport en commun",
+        "solution_envisagee": "Minibus intra-urbain permettant d'accéder aux services de la commune et à des commerces sur les domaines publics.",
+        "objectifs": [
+            "Favoriser le maintien de l'autonomie et encourager les liens sociaux",
+            "Renforcer les relations entre les résidents, leurs proches et la société civile"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Commune de Fleurance",
+    "date": [
+        "2023"
+    ],
     "thematique": [
-        "TRANSPORTS",
-        "MOBILITÉ"
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel",
+        "isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Fleuribus_le_minibus_intra_urbain.txt",

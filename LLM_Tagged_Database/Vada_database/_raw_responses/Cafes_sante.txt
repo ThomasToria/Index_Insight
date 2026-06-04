@@ -1,0 +1,24 @@
+{
+  "titre": "Cafés Santé",
+  "territoire": ["communale"],
+  "echelle": ["quartier", "régionale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Des cafés santé ont été organisés dans les quartiers de la ville de Genève pour renforcer le lien social, valoriser l'expérience des résidents et sensibiliser à la prévention.",
+  "contexte": "Le public vulnérable ne recourt souvent pas aux soins par manque de littératie en santé ou de moyens financiers.",
+  "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile pour valoriser leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Organisation de cafés santé axés sur des thèmes définis par les équipes de terrain avec les seniors, permettant aux habitants d'échanger autour de préoccupations sanitaires en groupe.",
+  "objectifs": [
+    "Renforcer le lien social",
+    "Valoriser l'expérience des résidents et leur mémoire dans la vie locale",
+    "Promouvoir la prévention et la promotion de la santé"
+  ],
+  "porteur_initiative": "Service social de la ville de Genève",
+  "date": ["depuis 2019"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

@@ -1,23 +1,33 @@
 {
     "titre": "ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC",
-    "territoire": "",
+    "territoire": "Commune de Cognac",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un forum qui réunit tous les services de la ville pour aborder des enjeux liés au vieillissement et aux besoins sociaux.",
-        "contexte": "Analyse des besoins sociaux initiée en 2019, basée sur l'analyse du vieillissement de la population cognacaise (28,6 % ont plus de 60 ans).",
-        "problematique": "Manque d’anticipation et de communication sur les dispositifs existants.",
-        "solution_envisagee": "Organisation d'un forum pour informer les seniors, leurs aidants et les professionnels des services de la ville.",
-        "objectifs": ""
+        "description_generale": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
+        "contexte": "Population de Cognac âgée (28,6% plus de 60 ans) souffre d'un manque d'information sur les dispositifs existants pour accompagner le vieillissement.",
+        "problematique": "Manque d’informations et d’anticipation des aidants et professionnels concernant les dispositifs existants pour accompagner le vieillissement, ainsi que la préoccupation de seniors quant à l'adaptation du logement aux besoins spécifiques liés au vieillissement.",
+        "solution_envisagee": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
+        "objectifs": [
+            "Identifier les besoins spécifiques des seniors et aidants concernant le maintien à domicile",
+            "Amorcer une dynamique partenariale entre professionnels pour favoriser la collaboration et engager une réflexion locale sur les initiatives à soutenir ou développer dans une logique de complémentarité et de mutualisation.",
+            "Faire face aux enjeux liés au vieillissement via l’information, la communication et la prévention autour des questions liées à l’âge."
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS de Cognac",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "vieillissement",
-        "services publics",
-        "anticipation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",

@@ -1,0 +1,31 @@
+{
+    "titre": "Forum 'Habitat et Vieillissement'",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "professionnels",
+    "nature_initiative": "événement",
+    "description": {
+        "description_generale": "Un forum d'information sur les aides aux aînés concernant l'adaptation du logement.",
+        "contexte": "Les personnes âgées souhaitent améliorer leur qualité de vie et la sécurité dans leur habitat.",
+        "problematique": "Trouver des solutions pour vivre dans un habitat adapté au vieillissement.",
+        "solution_envisagee": "Organiser un forum d'information sur les aides aux aînés concernant l'adaptation du logement.",
+        "objectifs": [
+            "Créer un événement permettant de trouver des solutions pour vivre dans un habitat adapté et favorable au vieillissement.",
+            "Créer un forum d'informations donnant accès à des stands et des conférences."
+        ]
+    },
+    "porteur_initiative": "Groupe 'habitat' du CODEM (Comité d’Observation de la Dépendance et de la Médiation)",
+    "date": [
+        "depuis 2013"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_Habitat_et_Vieillissement.txt",
+    "nom_fichier": "Forum_Habitat_et_Vieillissement.txt"
+}

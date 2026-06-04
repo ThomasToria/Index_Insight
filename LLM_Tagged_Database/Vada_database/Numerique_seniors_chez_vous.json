@@ -1,25 +1,30 @@
 {
     "titre": "Numérique seniors chez vous!",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Lutter contre la fracture numérique en offrant des outils numériques, des livres et vidéos à domicile.",
-        "contexte": "Début de l'action en novembre 2014 dans le cadre du service « Domicilivres » au Havre.",
-        "problematique": "La fracture numérique chez les personnes âgées",
-        "solution_envisagee": "Lancement d'un service de partage et d'apport d'outils numériques à domicile pour personnes âgées.",
-        "objectifs": "Amélioration des connaissances en matière de numérisation, renforcement du réseau local, amélioration de la qualité de vie des personnes âgées"
+        "description_generale": "L'action visait à sensibiliser les personnes âgées, handicapées et à mobilité réduite aux outils numériques existants dans leur domicile.",
+        "contexte": "Les premiers tests de l'initiative ont été menés en novembre 2014 au sein d'établissements communaux partenaires. Des référentes du projet se rendent régulièrement chez les personnes âgées pour leur apporter des outils numériques.",
+        "problematique": "Les personnes âgées, handicapées et à mobilité réduite ont des difficultés à utiliser leurs matériels numériques existants ou potentiellement acquis. Leur isolation sociale et manque de temps ou de patience sont des obstacles majeurs.",
+        "solution_envisagee": "Une initiative de sensibilisation visant à apprendre et à faire redécouvrir les outils numériques aux personnes âgées, handicapées et à mobilité réduite. Le programme comprend également une formation informatique pour rendre le numérique accessible.",
+        "objectifs": [
+            "Apprendre et faire redécouvrir son matériel informatique et numérique à toute personne âgée, handicapée, à mobilité réduite qui est isolée socialement, fragilisée.",
+            "Prévention et lutte contre la fracture numérique. Rendre le numérique accessible à toute personne pour favoriser la participation et le lien social.",
+            "Échanges intergénérationnels."
+        ]
     },
     "porteur_initiative": "CCAS en partenariat avec la Direction Lectur e Publique et Accès à la Connaissance de la Ville du Havre",
     "date": [
         "2014-11"
     ],
     "thematique": [
-        "numérique",
-        "seniors",
-        "fracture numérique"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Numerique_seniors_chez_vous.txt",

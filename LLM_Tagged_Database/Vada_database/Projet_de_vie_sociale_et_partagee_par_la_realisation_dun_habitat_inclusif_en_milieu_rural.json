@@ -1,26 +1,35 @@
 {
     "titre": "Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural",
-    "territoire": "",
+    "territoire": "Meaulne-Vitray, commune de Meaune-Vitray (03)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Depuis octobre 2015, une réflexion est menée en partenariat avec les habitants de Meaulne-Vitray pour la création d'un lotissement inclusif destiné aux personnes âgées intéressées par une vie semi individuelle et semi collective.",
-        "contexte": "",
-        "problematique": "anticiper les besoins face à la perte d'autonomie et lutter contre l'isolement",
-        "solution_envisagee": "création d'un lotissement inclusif en centre bourg",
-        "objectifs": "anticiper les besoins face à la perte d'autonomie, lutter contre l'isolement"
+        "description_generale": "Concours pour la création d'un lotissement inclusif en milieu rural, visant à prévenir l'isolement et améliorer les conditions de vie des personnes âgées.",
+        "contexte": "Le village de Meaulne-Vitray compte 900 habitants et dispose d'une médecine proche de la retraite, un pharmacien et deux infirmières. Actuellement, le village a une équipe de soins primaires composée de deux médecins, d'un dentiste et d'un kinésithérapeute.",
+        "problematique": "Prévenir contre la perte d'autonomie et lutter contre l'isolement en milieu rural",
+        "solution_envisagee": "Création d'un lotissement inclusif pour les personnes âgées de Meaulne-Vitray, avec des équipements adaptés à leur situation.",
+        "objectifs": [
+            "Prévenir la perte d'autonomie et lutter contre l'isolement",
+            "Améliorer les conditions de vie des personnes âgées dans le village"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Commune de Meaune-Vitray",
     "date": [
-        "2015-10"
+        "2015",
+        "2016",
+        "2017",
+        "2018"
     ],
     "thematique": [
-        "habitat inclusif",
-        "vie sociale et partagée",
-        "perte d'autonomie",
-        "isolement"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",

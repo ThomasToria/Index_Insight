@@ -1,22 +1,28 @@
 {
     "titre": "Lien social et solidarité",
-    "territoire": "",
+    "territoire": "Commune: Meaulne, Vitray (03)",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Suite à un questionnaire transmis à l’ensemble des aînés de la commune de Meaulne, il en est ressorti un intérêt tout particulier pour la création d'activités intergénérationnelles. Les aînés souhaitaient partager et transmettre leur vécu, leurs expériences et leurs passions.",
-        "contexte": "",
-        "problematique": "Les aînés de Meaulne ressentaient le besoin de partager et d'apporter leurs connaissances aux générations plus jeunes.",
-        "solution_envisagee": "La création de rencontres intergénérationnelles sur le territoire de Meaulne, articulées autour de la mixité des âges et sociale.",
-        "objectifs": ""
+        "description_generale": "Suite à un questionnaire transmis à l’ensemble des aînés de la commune de Meaulne, il en est ressorti un intérêt tout particulier pour la création d'activités intergénérationnelles. Des réunions de quartier se sont développées pour que chacun puisse s'exprimer.",
+        "contexte": "Les aînés ressentaient le besoin de partager et transmettre leur vécu, leurs expériences et leurs passions. C'est ainsi que la création d’activités intergénérationnelles a été développée autour de la mixité des âges.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des rencontres intergénérationnelles ont été organisées pour permettre aux aînés d'échanger sur des jeux de société et de partager leurs expériences. Des cadeaux et croquis ont également été confectionnés pour les enfants nouvellement arrivés.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville Amie des Aînés de Meaulne",
+    "date": [
+        "septembre 2015"
+    ],
     "thematique": [
-        "Solidarité",
-        "Santé publique"
+        "santé",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lien_social_et_solidarite.txt",

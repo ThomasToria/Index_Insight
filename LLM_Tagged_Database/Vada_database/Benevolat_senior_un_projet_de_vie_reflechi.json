@@ -1,24 +1,29 @@
 {
     "titre": "Bénévolat senior: un projet de vie réfléchi",
-    "territoire": "Dijon (21)",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Conforter l’engagement bénévole au sein de l’OPAD (Association de loisirs pour une retraite active). Préparer le renouvellement des générations de seniors bénévoles.",
-        "contexte": "Communiquer sur l'action. Former les bénévoles. Réaliser un bilan et un suivi individuel.",
-        "problematique": "Bénévolat senior: manque d’engagement, manque de formation des bénévoles",
-        "solution_envisagee": "Formation des bénévoles : 960€; Accueil accompagnement, suivi des bénévoles : 3000€",
-        "objectifs": ""
+        "contexte": "En février 2017, la Commission Bénévolat de l’OPAD a décidé de consacrer l’année 2017 à ce thème. Le rôle des seniors bénévoles de l’association est essentiel, avec plus de 150 bénévoles et une association comptant plus de 2 600 adhérents.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’OPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Conforter l’engagement bénévole au sein de l’OPAD (Association de loisirs pour une retraite active)",
+            "Préparer le renouvellement des générations de seniors bénévoles"
+        ]
     },
-    "porteur_initiative": "OPAD (Association de loisirs pour une retraite active)",
+    "porteur_initiative": "OPAD",
     "date": [
-        "26/09/2018"
+        "2017"
     ],
     "thematique": [
-        "Participation citoyenne",
-        "Emploi"
+        "santé",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Benevolat_senior_un_projet_de_vie_reflechi.txt",

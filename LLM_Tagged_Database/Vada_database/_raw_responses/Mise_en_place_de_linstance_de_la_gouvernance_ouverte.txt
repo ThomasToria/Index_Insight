@@ -1,0 +1,24 @@
+{
+  "titre": "Mise en place de l'instance de la gouvernance ouverte",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description_generale": "La mise en place d'une instance de gouvernance ouverte dans une commune.",
+  "contexte": "Le projet vise à renforcer la participation citoyenne et l'engagement des acteurs locaux dans le processus décisionnel.",
+  "problematique": "Renforcement du lien social entre les habitants, les élus et les services publics.",
+  "solution_envisagee": "Création d'une instance de gouvernance ouverte pour suivre les engagements pris par la Métropole Nantes-Malestres.",
+  "objectifs": [
+    "Renforcer le lien social entre les habitants, les élus et les services publics",
+    "Promouvoir la participation citoyenne dans le processus décisionnel",
+    "Évaluer l'impact des actions mises en œuvre par Nantes Métropole"
+  ],
+  "porteur_initiative": "Nantes Métropole",
+  "date": ["2019", "2021"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "participation citoyenne"
+  ],
+  "source_site": "VADA"
+}

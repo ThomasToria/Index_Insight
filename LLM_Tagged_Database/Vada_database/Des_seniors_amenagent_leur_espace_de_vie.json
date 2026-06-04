@@ -1,25 +1,31 @@
 {
     "titre": "Des seniors aménagent leur espace de vie",
-    "territoire": "",
+    "territoire": "Commune : Caen",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Deux résidences autonomie seniors de Caen fêtent leurs 50 ans en 2023, en cohérence avec la démarche Villes Amie des Aînés. Les résidents ont été consultés pour co-construire cet événement.",
-        "contexte": "Plusieurs rencontres ont été organisées pour permettre aux résidents de s'exprimer sur leurs besoins et attentes autour de l'événement.",
-        "problematique": "Nécessité d'aménager les espaces extérieurs avec l'installation de mobilier adapté pour créer des espaces de convivialité.",
-        "solution_envisagee": "Installation de mobilier adapté dans les espaces extérieurs.",
-        "objectifs": ""
+        "description_generale": "Des seniors aménagent leur espace de vie communautaire à la résidence autonomie 'La Résidence de l'Ille'.",
+        "contexte": "Les résidents ont exprimé des besoins pour les espaces extérieurs, notamment pour créer une convivialité.",
+        "problematique": "Nécessité d'aménager les espaces extérieurs communautaires à la résidence autonomie 'La Résidence de l'Ille'.",
+        "solution_envisagee": "Construire et aménager des mobiliers adaptés pour créer des espaces de convivialité.",
+        "objectifs": [
+            "Améliorer le cadre de vie des résidents",
+            "Renforcer les liens entre les résidents, leurs proches et la société civile",
+            "Valoriser l'image des résidences seniors dans la vie de quartier"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Association d'éducation populaire 'Art Itinérant'",
     "date": [
-        "2023"
+        "2023",
+        "janvier 2023"
     ],
     "thematique": [
-        "aménagement",
-        "convivialité",
-        "autonomie"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_amenagent_leur_espace_de_vie.txt",

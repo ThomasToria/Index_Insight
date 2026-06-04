@@ -1,24 +1,30 @@
 {
     "titre": "Parcours prévention santé seniors de la mairie de Toulouse",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "quartier",
+        "régionale"
     ],
-    "public_vise": "seniors de 60 ans et plus",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Programme de prévention santé pour les seniors de 60 ans et plus, incluant dépistages et suivis réguliers.",
-        "contexte": "L'évaluation de la politique publique en faveur des seniors conduite en 2019 a identifié 5 axes prioritaires : lutte contre l'isolement, solitude, précarité, actions de prévention santé. En collaboration avec le CHU, la Mairie de Toulouse a mis en place un programme.",
-        "problematique": "Lutte contre l'isolement, solitude et précarité chez les seniors",
-        "solution_envisagee": "Programme de prévention santé incluant dépistages et suivis réguliers",
-        "objectifs": "Préserver le capital santé des seniors grâce à ces actions"
+        "description_generale": "Le programme prévention santé seniors de la mairie de Toulouse a été mis en place pour améliorer la qualité de vie des résidents âgés, notamment en renforçant les liens sociaux et en sensibilisant les habitants aux signes précurseurs de la dépendance.",
+        "contexte": "La ville de Toulouse a identifié plusieurs problèmes liés à l'isolement et au maintien de la santé des seniors, notamment dans le quartier concerné par le dispositif. Les objectifs du programme sont d'améliorer les conditions de vie des résidents âgés et de sensibiliser les habitants aux signes précurseurs de la dépendance.",
+        "problematique": "Le besoin de renforcer les liens sociaux entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Programme ICOPE (Inclusion Communautaire pour l'Optimisation des Possibilités d’Espace) qui offre des ateliers gratuits sur diverses thématiques de prévention santé, y compris la sophrologie, la mémoire, le suivi régulier et les activités municipales.",
+        "objectifs": [
+            "Améliorer la qualité de vie des résidents âgés",
+            "Sensibiliser les habitants aux signes précurseurs de la dépendance"
+        ]
     },
-    "porteur_initiative": "Mairie de Toulouse en collaboration avec le CHU",
-    "date": [],
+    "porteur_initiative": "Mairie de Toulouse",
+    "date": [
+        "2019",
+        "depuis 2013"
+    ],
     "thematique": [
-        "prévention santé",
-        "isolement",
-        "solitude",
-        "précarité"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_prevention_sante_seniors_de_la_mairie_de_Toulouse.txt",

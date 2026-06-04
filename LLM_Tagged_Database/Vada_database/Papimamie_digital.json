@@ -1,24 +1,35 @@
 {
-    "titre": "Papimamie digital",
-    "territoire": "",
-    "echelle": [
+    "titre": "PapiMamie Digital",
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Un programme de cours d'informatique à destination des personnes âgées, initié en début de 2016. Les cours se déroulent tous les mardis matins et les mercredis après-midi dans quatre villes : Lyon, Yzeron, Charbonnières et Thurins.",
-        "contexte": "",
-        "problematique": "Les personnes âgées manquent de connaissances en informatique.",
-        "solution_envisagee": "La mise en place d'un programme de cours d'informatique pour les personnes âgées afin qu'elles puissent mieux s'intégrer dans la société numérique.",
-        "objectifs": ""
+        "description_generale": "Programme de cours d'informatique à destination des personnes âgées, organisé par PapiMamie Digital.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Programme de cours d'informatique à destination des personnes âgées, organisé par PapiMamie Digital.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "PapiMamie Digital",
     "date": [
-        "début 2016"
+        "depuis 2016"
     ],
     "thematique": [
-        "technologie",
-        "inclusion sociale"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Papimamie_digital.txt",

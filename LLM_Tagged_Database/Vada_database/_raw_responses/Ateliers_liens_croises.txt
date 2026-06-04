@@ -1,0 +1,27 @@
+{
+  "titre": "Ateliers liens croisés",
+  "territoire": "communale",
+  "echelle": ["quartier", "communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description_generale": "Association « Rezé Seniors » organise des ateliers récréatifs hebdomadaires pour personnes âgées isolées dans leur lieu de vie.",
+  "contexte": "Le besoin d'accompagner les seniors dans la création et le maintien du lien social, en particulier face à l'isolement.",
+  "problematique": "Renforcer les liens entre résidents des EHPAD, leurs proches et la société civile pour valoriser leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Ateliers récréatifs hebdomadaires autour de jeux sociaux, activités physiques, créatives et festives.",
+  "objectifs": [
+    "Renforcer les liens entre résidents des EHPAD",
+    "Soutenir la création et le maintien du lien social chez les seniors isolés",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "Association « Rezé Seniors »",
+  "date": ["depuis octobre 2017"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

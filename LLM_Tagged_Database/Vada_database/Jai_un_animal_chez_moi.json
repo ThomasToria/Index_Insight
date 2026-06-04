@@ -1,20 +1,27 @@
 {
-    "titre": "J’ai un animal chez moi",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "titre": "J'ai un animal chez moi",
+    "territoire": "communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "public non connu",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Être attentif au bien-être animal. La présence d’un ou plusieurs animal(aux) au domicile contribue à atténuer la solitude lorsqu’il vit seul. Par ailleurs, s’occuper d’un animal génère non seulement un minimum d'activité physique, mais également un but et représente une responsabilité. Une présence animale procure un soutien émotionnel, elle est bénéfique au plan de la santé physique comme mentale et elle est, en outre un facteur de socialisation.",
-        "contexte": "",
-        "problematique": "La solitude chez les personnes vivant seules",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Le Conseil des Aînés lance un dispositif pour les propriétaires d'animaux isolés, intitulé « Merci de prendre soin de mon(es) animal(aux) ».",
+        "contexte": "La présence d'un ou plusieurs animaux chez une personne seule peut soulager son sentiment d'isolement et contribuer à sa santé physique et mentale. Cependant, la perspective d'une absence prolongée peut créer des inquiétudes potentielles.",
+        "problematique": "Le besoin de rassurer les personnes âgées qui ont un animal chez eux si elles devaient s'absenter temporairement ou définitivement du domicile.",
+        "solution_envisagee": "Un dispositif permettant aux intervenants d'être informés des animaux présents dans le logement et facilitant la prise en charge de ces animaux lorsqu'une personne seule doit quitter son domicile.",
+        "objectifs": [
+            "Rassurer les personnes âgées qui ont un animal chez eux si elles devaient s'absenter temporairement ou définitivement du domicile."
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Le Conseil des Aînés",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jai_un_animal_chez_moi.txt",

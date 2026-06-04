@@ -1,0 +1,24 @@
+{
+  "titre": "Chaque mois, « ensemble autour »... d’un moment convivial",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description_generale": "Une rencontre mensuelle organisée par une association locale autour d’activités conviviales.",
+  "contexte": "Organisation de rencontres entre personnes âgées, résidents du foyer-logement, et jeunes de la Maison de quartier pour créer des liens sociaux et intergénérationnels.",
+  "problematique": "Renforcer les liens sociaux entre personnes âgées, jeunes, et résidents du foyer-logement pour valoriser leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Organisation de rencontres mensuelles autour d’activités conviviales, avec des partenaires locaux tels que la Maison de quartier, le service de soutien à domicile, et les structures médico-sociales.",
+  "objectifs": [
+    "Renforcer les liens sociaux entre personnes âgées, jeunes, et résidents du foyer-logement",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "Association locale",
+  "date": ["janvier", "février", "mars", "avril", "mai"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "intergénérationnel",
+    "participation citoyenne"
+  ],
+  "source_site": "VADA"
+}

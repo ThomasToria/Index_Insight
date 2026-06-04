@@ -1,25 +1,28 @@
 {
     "titre": "Ateliers numériques",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "LES SENIORS MAXÉVILLOIS DE SOIXANTE ANS ET PLUS.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Depuis 2024, la ville propose gratuitement aux séniors de 60 ans et plus des ateliers numériques. Pour l'aider dans cette démarche, elle est accompagnée d'un conseiller numérique. Les ateliers sont divisés en deux groupes : débutants et avancés.",
-        "contexte": "",
-        "problematique": "Les séniors de Maxeville ont des difficultés à utiliser les outils numériques, notamment par crainte de demander aux enfants ou petits-enfants.",
-        "solution_envisagee": "La ville propose des ateliers numériques gratuits pour aider ces personnes à maîtriser l'outil numérique.",
-        "objectifs": ""
+        "description_generale": "Depuis 2024, la ville propose gratuitement aux seniors de 60 ans et plus des ateliers numériques.",
+        "contexte": "Les seniors Maxévillois ont exprimé leur difficulté à utiliser l'outil numérique. La ville a donc organisé ces ateliers pour aider les seniors dans cette démarche.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des ateliers numériques organisés par la ville pour aider les seniors à utiliser l'outil numérique.",
+        "objectifs": [
+            "réduire la fracture numérique",
+            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
+        ]
     },
-    "porteur_initiative": "La commune",
+    "porteur_initiative": "La Ville de Maxéville",
     "date": [
-        "2024"
+        "depuis 2019"
     ],
     "thematique": [
-        "technologie",
-        "santé mentale",
-        "inclusion sociale"
+        "santé",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_numeriques.txt",

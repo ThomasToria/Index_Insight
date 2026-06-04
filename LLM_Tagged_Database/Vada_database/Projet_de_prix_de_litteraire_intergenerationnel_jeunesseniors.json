@@ -1,20 +1,36 @@
 {
     "titre": "Projet de prix de littéraire intergénérationnel jeunes/séniors",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Les projets intergénérationnels ont pour finalité de renforcer les liens entre différentes générations à travers des réalisations et des activités communes. Ces projets enrichissent la vie de la commune et des habitants y participant en permettant la transmission du savoir-faire et d’un travail de mémoire, en donnant lieu à des rencontres conviviales, et, plus globalement, en contribuant au bien vivre ensemble des habitants en créant du lien et en évitant si possible l’isolement.",
-        "contexte": "",
-        "problematique": "TRANSMISSION DU SAVOIR-FAIRE ET TRAVAIL DE MÉMOIRE",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Le projet de prix littéraire intergénérationnel jeunes/séniors vise à renforcer les liens entre différentes générations en organisant des activités communes autour du thème de la lecture.",
+        "contexte": "Les bibliothécaires ont sélectionné une vingtaine de romans adaptés aux niveaux de lecture des élèves de 4ème et 3ème, avec un critère d'éclectisme dans le choix des thèmes, des auteurs, et des éditions francophones en 2022.",
+        "problematique": "Renforcer les liens entre jeunes et séniors autour du thème de la lecture, favoriser le débat et le respect de l'avis de l'autre, contribuer à l'éducation à la citoyenneté grâce au vote individuel.",
+        "solution_envisagee": "Organisation d'un atelier où les bibliothécaires présentent les romans sélectionnés aux adolescents, puis des comités de lecture sont formés pour discuter avec les jeunes des ouvrages et développer des thèmes plus généraux.",
+        "objectifs": [
+            "Renforcer les liens entre jeunes et séniors",
+            "Favoriser le débat et le respect de l'avis de l'autre",
+            "Contribuer à l'éducation à la citoyenneté grâce au vote individuel"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Conseil des seniors et bibliothécaires de la médiathèque Léonard de Vinci",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Culture",
-        "Santé et bien-être"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_prix_de_litteraire_intergenerationnel_jeunesseniors.txt",

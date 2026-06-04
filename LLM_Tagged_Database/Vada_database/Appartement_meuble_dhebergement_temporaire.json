@@ -4,19 +4,28 @@
     "echelle": [
         "communale"
     ],
-    "public_vise": "Seniors, personnes en résidence autonomie",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Permettre à des seniors de se reposer dans un hébergement sécurisé après une hospitalisation ou d'être hébergé pendant leurs travaux.",
-        "contexte": "Les structures existantes sont limitées aux EHPAD et non dans les résidences autonomie.",
-        "problematique": "La transition vers la vie en résidence autonomie peut être stressante pour certains seniors, souvent motivés par des travaux ou une hospitalisation.",
-        "solution_envisagee": "Création d'un appartement meublé d'hébergement temporaire dans les résidences autonomie.",
-        "objectifs": "Permettre aux personnes de vivre quelques semaines au sein d'une résidence pour se familiariser avec le mode de vie, réduire l'anxiété et encourager la transition vers une résidence autonomie."
+        "description_generale": "Création d'un appartement meublé d'hébergement temporaire au sein de la résidence autonomie Eugénie Cotton.",
+        "contexte": "",
+        "problematique": "Les seniors qui effectuent des travaux ont besoin d'être hébergés durant ces périodes, mais ce n'est pas possible dans les EHPAD. Les personnes âgées souhaitent intégrer une résidence autonomie mais hésitent à entrer car elles se questionnent sur le mode de vie.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Accueillir des seniors autonomes temporairement en amont d'un hébergement définitif",
+            "Promouvoir l'intégration dans une résidence autonomie pour les personnes âgées"
+        ]
     },
-    "porteur_initiative": "Villes Amiénoises des Aines",
-    "date": [],
+    "porteur_initiative": "CCAS de la Ville",
+    "date": [
+        "2019",
+        "2025"
+    ],
     "thematique": [
-        "Santé",
-        "Autonomie"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Appartement_meuble_dhebergement_temporaire.txt",

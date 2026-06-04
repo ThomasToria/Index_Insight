@@ -1,22 +1,30 @@
 {
     "titre": "Les c@fés connectés",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées de 65 ans et plus",
+    "public_vise": "ainés",
+    "nature_initiative": "accompagnement numérique et convivial",
     "description": {
-        "description_generale": "Un accompagnement numérique et convivial pour les personnes âgées face aux démarches administratives en ligne.",
-        "contexte": "Face au constat des démarches administratives qui se font désormais de plus en plus en ligne, le projet a été initié.",
-        "problematique": "Les personnes âgées se sentent perdues face aux démarches sur internet.",
-        "solution_envisagee": "L’accompagnement d’un cycle de neuf mois dans l’utilisation de la tablette numérique pour les personnes âgées de 65 ans et plus.",
-        "objectifs": ""
+        "description_generale": "Un accompagnement numérique et convivial pour les personnes âgées de 65 ans et plus sur un cycle de neuf mois dans l’utilisation de la tablette numérique.",
+        "contexte": "Les personnes âgées sont particulièrement touchées par la place grandissante du numérique et se sentent perdues face aux démarches administratives en ligne.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une action autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents, avec une problématique de sensibilisation, des ateliers d’initiation et des c@fés connectés.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "VADA",
-    "date": [],
+    "porteur_initiative": "CCAS (Centre Communautaire d'Action Sociale) de Morteau",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
-        "technologie",
-        "santé publique"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_cfes_connectes.txt",

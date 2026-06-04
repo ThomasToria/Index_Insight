@@ -1,22 +1,34 @@
 {
     "titre": "La semaine bleue",
-    "territoire": "",
+    "territoire": "Commune: Chamalières, 63",
     "echelle": [
-        "nationale"
+        "communale"
     ],
-    "public_vise": "seniors, générations",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "L'occasion d'insuffler un nouveau regard sur le vieillissement et de renforcer les liens entre les générations.",
-        "contexte": "Chaque année, la Semaine bleue est l’occasion d’insuffler un nouveau regard sur le vieillissement et de renforcer les liens entre les générations.",
-        "problematique": "La semaine bleue permet de changer de perspective sur le vieillissement et de renforcer les liens intergénérationnels.",
-        "solution_envisagee": "Le CCAS compose un programme diversifié en lien avec différents acteurs pour répondre aux besoins des seniors.",
-        "objectifs": "Changer de regard sur le vieillissement, renforcer les liens entre générations, nourrir la solidarité auprès des seniors."
+        "description_generale": "La Semaine bleue est une initiative annuelle organisée par la Ville de Chamalières pour célébrer les seniors.",
+        "contexte": "Le CCAS (Comité Communautaire d'Action Sociale) travaille avec différents acteurs pour organiser des activités diverses et adaptées aux besoins des seniors.",
+        "problematique": "Renforcer les liens entre les générations, valoriser la mémoire des seniors et nourrir la solidarité auprès de ces derniers.",
+        "solution_envisagee": "Organisation d'activités variées en faveur des seniors, notamment culturelles, cognitives, sportives et dansantes, ainsi que des activités intergénérationnelles avec les enfants du centre de loisirs.",
+        "objectifs": [
+            "Renforcer les liens entre les générations",
+            "Valoriser la mémoire des seniors",
+            "Nourrir la solidarité auprès des seniors"
+        ]
     },
-    "porteur_initiative": "Le CCAS",
-    "date": [],
+    "porteur_initiative": "CCAS de Chamalières, Ville Amie des Aînés depuis 2015",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "vieillissement",
-        "solidarité"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_semaine_bleue.txt",

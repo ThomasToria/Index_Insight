@@ -1,24 +1,36 @@
 {
     "titre": "Maison des seniors",
-    "territoire": "",
+    "territoire": "Commune: La Possession, Ville Amie des Aînés depuis 2024",
     "echelle": [
-        "commune"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "La ville de La Possession s'inscrit dans une politique innovante et expérimentale pour répondre au défi démographique du vieillissement de sa population.",
-        "contexte": "La réflexion territoriale a été réalisée en 2022, impliquant les ainés de la Ville, des institutionnels, associatifs, services et élus municipaux.",
-        "problematique": "Le défi démographique du vieillissement de la population",
-        "solution_envisagee": "La création d'une Maison des seniors",
-        "objectifs": ""
+        "description_generale": "La Maison des seniors est un projet participatif initié par la Ville de La Possession en collaboration avec les ainés, les institutions, les associations, les services municipaux et les élus pour favoriser le lien social et l'autonomie des aînés.",
+        "contexte": "Le vieillissement démographique est un défi majeur pour la ville de La Possession. Les initiatives locales visent à répondre à ce besoin en créant une Maison des seniors qui facilite les interactions entre les résidents, leurs proches et la société civile.",
+        "problematique": "Renforcer le lien social et l'autonomie des aînés dans un contexte de vieillissement démographique.",
+        "solution_envisagee": "Maison des seniors",
+        "objectifs": [
+            "Favoriser le lien social et le développement de l'autonomie des aînés à travers divers actions mis en place par une équipe dédiée",
+            "Être un lieu ressources pour les acteurs et habitants",
+            "Orienter et soutenir la construction de projets et d'initiatives personnelles ou collectives",
+            "Être au plus près des aînés à travers une stratégie de proximité favorisant le lien intergénérationnel"
+        ]
     },
-    "porteur_initiative": "Municipalité de La Possession",
+    "porteur_initiative": "La Possession (974)",
     "date": [
-        "2022"
+        "2019",
+        "juillet 2024"
     ],
     "thematique": [
-        "vieillissement",
-        "politique démographique"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_des_seniors.txt",

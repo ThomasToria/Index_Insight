@@ -1,0 +1,32 @@
+{
+    "titre": "Seniors, la route et vous",
+    "territoire": "Commune: Colomiers (31)",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés",
+    "nature_initiative": "atelier",
+    "description": {
+        "description_generale": "La ville de Colomiers a organisé un atelier intitulé 'Seniors, la route et vous' en partenariat avec l’association départementale de sécurité routière et la Conférence des financeurs de Haute Garonne. L’objectif était d’aider les personnes âgées à conduire plus sereinement et dans une plus grande sécurité.",
+        "contexte": "La mobilité est un facteur clé pour maintenir l’autonomie et le lien social chez les personnes âgées, mais la durée de vie croissante et les modifications fréquentes du milieu routier peuvent être sources d’anxiété ou d’accidents. Les seniors doivent donc apprendre à adapter leur comportement au volant.",
+        "problematique": "Les seniors ont besoin de se familiariser avec les nouvelles réglementations du code de la route pour maintenir leur mobilité et leur autonomie, tout en évitant les accidents.",
+        "solution_envisagee": "L’atelier 'Seniors, la route et vous' a permis aux participants d’apprendre à conduire plus sereinement et dans une plus grande sécurité grâce à des simulations de conduite, un réactiomètre pour tester ses réflexes, et des rencontres et échanges durant l’atelier.",
+        "objectifs": [
+            "Apprendre à conduire plus sereinement",
+            "Mieux se familiariser avec les nouvelles réglementations du code de la route",
+            "Renforcer le lien social et maintenir l’autonomie"
+        ]
+    },
+    "porteur_initiative": "Ville de Colomiers",
+    "date": [
+        "depuis 2018"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_la_route_et_vous.txt",
+    "nom_fichier": "Seniors_la_route_et_vous.txt"
+}

@@ -1,22 +1,30 @@
 {
     "titre": "Challenge lys haut layon",
-    "territoire": "",
+    "territoire": "Commune: Lys Haut Layon, Agglomération du Choletais (49)",
     "echelle": [
-        "communale"
+        "communale",
+        "intercommunale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Une manifestation de convivialité et de prévention lancée en 2018, initialement appelée Challenge Séniors, qui a vu le jour grâce à une volonté politique de proposer une journée de convivialité et de prévention via la pratique d'activités physiques dédiées aux séniors. Convaincu des ses divers bienfaits, les élus se sont alors tournés vers l'association 'Profession Sport et Loisirs' qui proposait déjà ce genre d'action clé en main.",
-        "contexte": "Freinée par le Covid en 2020 et 2021, cette manifestation a recommencé en 2023 sous l'impulsion des élus et en partenariat avec l'association 'Profession Sport et Loisirs'.",
-        "problematique": "",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Challenge lys haut layon est une journée de convivialité et de prévention organisée par l'association 'Profession Sport et Loisirs'. Cette initiative a été lancée en 2018 sous le nom de Challenge Séniors, puis renommée 'Challenge Lys Haut Layon' en 2023. Elle vise à offrir un moment de convivialité aux personnes âgées isolées.",
+        "contexte": "Le projet a été initié par les élus locaux qui ont souhaité organiser une journée d'échange et de prévention pour les résidents de l'association 'Profession Sport et Loisirs'.",
+        "problematique": "Offrir un moment de convivialité aux personnes âgées isolées du fait de leur âge.",
+        "solution_envisagee": "Organiser une journée d'échange et de prévention autour des activités physiques pour sensibiliser à la pratique d'une activité physique bénéfique sur différentes pathologies liées à l'âge.",
+        "objectifs": [
+            "Offrir un moment de convivialité aux personnes âgées isolées du fait de leur âge.",
+            "Sensibiliser à l'importance de la pratique d'une activité physique et ses effets bénéfiques sur différentes pathologies liées à l'âge."
+        ]
     },
-    "porteur_initiative": "Les élus",
-    "date": [],
+    "porteur_initiative": "Association 'Profession Sport et Loisirs'",
+    "date": [
+        "2018",
+        "2023"
+    ],
     "thematique": [
         "santé",
-        "jeux"
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Challenge_lys_haut_layon.txt",

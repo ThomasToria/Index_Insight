@@ -1,22 +1,37 @@
 {
     "titre": "La fête des seniors de Cholet",
-    "territoire": "",
+    "territoire": "Commune : Cholet, VILLE DE CHOLET",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les citoyens Choletais de 60 ans et plus",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Une manifestation pour les citoyens Choletais de 60 ans et plus, qui a lieu chaque année. La Ville propose à travers cette journée un moment convivial, favorisant les liens sociaux mais également intergénérationnels.",
-        "contexte": "",
-        "problematique": "La nécessité d'une organisation préparatoire pour la réalisation de la manifestation",
-        "solution_envisagee": "L'engagement de jeunes (Conseil Municipal des Jeunes de la Ville de Cholet, MFR du Vallon et le Lycée Jeanne Delanoue) dans l'organisation de cette journée",
-        "objectifs": ""
+        "description_generale": "La Fête des Seniors est une manifestation annuelle organisée par la Ville de Cholet pour les citoyens âgés de 60 ans et plus, favorisant les liens sociaux et intergénérationnels.",
+        "contexte": "Le but de cette initiative est d'encourager les interactions entre les seniors et les jeunes générations, renforçant ainsi le lien social et lutter contre l'isolement.",
+        "problematique": "Renforcer les liens sociaux entre les seniors et les jeunes générations, renforçant ainsi le lien social et lutter contre l'isolement.",
+        "solution_envisagee": "La Fête des Seniors est un événement annuel organisé par la Ville de Cholet qui favorise les interactions entre les seniors et les jeunes générations, renforce le lien social et lutte contre l'isolement.",
+        "objectifs": [
+            "Renforcer les liens sociaux",
+            "Favoriser les interactions entre les seniors et les jeunes générations",
+            "Renforcer le lien social",
+            "Lutter contre l'isolement"
+        ]
     },
-    "porteur_initiative": "La Ville de Cholet",
-    "date": [],
+    "porteur_initiative": "La Ville de Cholet, Conseil Municipal des Jeunes de la Ville de Cholet, MFR du Vallon, Lycée Jeanne Delanoue",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_fete_des_seniors_de_Cholet.txt",

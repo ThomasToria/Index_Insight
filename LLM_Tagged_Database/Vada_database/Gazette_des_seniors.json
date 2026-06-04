@@ -1,23 +1,28 @@
 {
     "titre": "Gazette des seniors",
-    "territoire": "",
+    "territoire": "Vence (06)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Tous les seniors bénévoles",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Une gazette participative créée par des bénévoles pour informer et partager entre eux, offerte gratuitement.",
-        "contexte": "Après le COVID-19, une volonté de recréer du lien entre les seniors dans leur commune.",
-        "problematique": "La solitude et la perte de lien social chez les seniors",
-        "solution_envisagee": "Création d'une gazette participative qui permet aux seniors de partager leurs expériences, idées et activités.",
-        "objectifs": "Renforcer le sentiment de solidarité et réduire la solitude chez les seniors bénévoles."
+        "description_generale": "Une gazette rédigée par des seniors bénévoles.",
+        "contexte": "Après la pandémie, une initiative pour renforcer le lien social entre les seniors.",
+        "problematique": "Renforcement du lien social et participation des seniors à l'évolution de leur environnement.",
+        "solution_envisagee": "Création d'une gazette participative qui permet aux seniors de partager leurs expériences, activités et souvenirs.",
+        "objectifs": [
+            "Renforcer le lien social entre les seniors",
+            "Permettre à chacun de participer selon ses expériences de vie de partager de la communiquer."
+        ]
     },
-    "porteur_initiative": "Des bénévoles des seniors",
-    "date": [],
+    "porteur_initiative": "CCAS de Vence",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Solidarité",
-        "Santé mentale",
-        "Participation citoyenne"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Gazette_des_seniors.txt",

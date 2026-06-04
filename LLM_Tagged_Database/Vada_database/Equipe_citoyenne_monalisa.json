@@ -1,22 +1,33 @@
 {
     "titre": "Equipe citoyenne monalisa",
-    "territoire": "",
+    "territoire": "Commune: Maxéville (54)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête, action intergénérationnelle",
     "description": {
-        "description_generale": "Une enquête en 2015 a révélé que 67% des seniors-locataires de Maxéville souffraient d'isolement. La commune souhaite mettre en place un dispositif de visite à domicile pour répondre à cette problématique.",
-        "contexte": "La commune de Maxéville adhère au réseau MONALISA, qui propose la création d'équipes citoyennes bénévoles dans le cadre d'une mobilisation nationale contre l'isolement des âgés.",
-        "problematique": "L'isolement et l'isolation des aînés",
-        "solution_envisagee": "La mise en place de dispositifs de visite à domicile par les équipes citoyennes bénévoles du réseau MONALISA",
-        "objectifs": ""
+        "description_generale": "Une initiative de la commune Maxéville visant à améliorer les conditions de vie des seniors isolés en leur offrant régulièrement des visites chez eux.",
+        "contexte": "Un rapport d'enquête mené par Meurthe et Moselle Habitat a révélé que 67% des locataires âgés de 60 ans et plus souffraient de solitude et d'isolement. Maxéville, bailleur communautaire, souhaite agir en complémentarité avec les services existants pour améliorer la qualité de vie des seniors.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une équipe citoyenne d'associés seniors qui rendent régulièrement des visites à domicile aux ainés, proposant des activités à domicile et aide au déplacement pour les besoins spécifiques.",
+        "objectifs": [
+            "Améliorer la qualité de vie des seniors isolés",
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Maxéville",
-    "date": [],
+    "porteur_initiative": "Maxéville (54)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Equipe_citoyenne_monalisa.txt",

@@ -1,22 +1,36 @@
 {
     "titre": "Cohabitons - habitat intergénérationnel et solidaire",
-    "territoire": "",
+    "territoire": "Commune: Valence (26)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "Le maintien à domicile de personnes âgées est souvent souhaité, mais peut être difficile. La cohabitation intergénérationnelle permet un maintien de qualité avec la présence d'un hébergé venant compléter les aides des personnes.",
-        "contexte": "",
-        "problematique": "La perte de son conjoint, lorsque les enfants sont loin, ou quand la solitude devient trop grande",
-        "solution_envisagee": "La cohabitation intergénérationnelle comme solution pour maintenir à domicile des personnes âgées.",
-        "objectifs": ""
+        "description_generale": "L'association Solidarité HABITATS développe et accompagne un dispositif de cohabitation intergénérationnelle dans le département de la Drôme.",
+        "contexte": "Le vieillissement de la population est indéniable: d'ici 2060, une personne sur trois aura plus de soixante ans. En parallèle, lorsqu'il est bien pensé, le maintien à domicile est souvent souhaité par les seniors et leurs familles.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La cohabitation intergénérationnelle permet un maintien à domicile de qualité avec la présence d'un hébergé venant compléter les aides des personnels soignants et d'aides à domicile. Cette présence permet également de rassurer le senior et sa famille ainsi que de retrouver un sentiment d'utilité sociale en aidant un jeune à se loger.",
+        "objectifs": [
+            "Améliorer les conditions d'accueil des étudiants, apprentis, travailleurs",
+            "Bâtir des passerelles entre les générations en favorisant le lien social",
+            "Lutter contre le sentiment de solitude et de non-utilité sociale ressenti par les différentes générations",
+            "Faciliter la mobilité",
+            "Permettre un maintien à domicile de qualité, sans se substituer aux aides et services à domicile en place"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Association Solidarité HABITATS",
+    "date": [
+        "2017"
+    ],
     "thematique": [
-        "solidarité",
-        "habitat"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cohabitons_-_habitat_intergenerationnel_et_solidaire.txt",

@@ -1,25 +1,35 @@
 {
     "titre": "La fin de vie, et si on en parlait!",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Cette initiative vise à sensibiliser et informer sur les droits en matière de fin de vie.",
-        "contexte": "La fin de vie est un moment difficile pour le malade et ses proches, lorsque les médicaments et traitements ne sont plus efficaces. Il s'agit d'un sujet sensible qui nécessite une réflexion précoce.",
-        "problematique": "Les personnes concernées par la fin de vie manquent souvent de connaissances sur leurs droits en matière de fin de vie, ce qui peut les rendre vulnérables et inquiétantes face à cette situation.",
-        "solution_envisagee": "Organiser une conférence-débat pour sensibiliser et informer sur ces droits.",
-        "objectifs": "Sensibiliser le public aux droits en matière de fin de vie, favoriser la discussion précoce sur ce sujet sensible."
+        "description_generale": "Organisation d'une conférence-débat sur la fin de vie et sensibilisation à des droits en matière de fin de vie.",
+        "contexte": "La fin de vie est un moment difficile pour les malades et leurs proches, mais il est également une opportunité pour une plus grande sérénité. La Loi n° 2005-370 relative aux droits des malades a été mise en place pour protéger les droits des personnes concernées.",
+        "problematique": "La fin de vie est un sujet difficile à aborder, mais il est important de connaître et d'utiliser les droits en matière de fin de vie pour assurer la dignité du malade.",
+        "solution_envisagee": "Organisation d'une conférence-débat sur la Loi relative aux droits des malades et à la fin de vie, sensibilisation à des droits en matière de fin de vie, et mise en place d'un suivi annuel pour assurer l'efficacité de l'action.",
+        "objectifs": [
+            "Informer les professionnels sur les droits en matière de fin de vie",
+            "Sensibiliser le public aux droits en matière de fin de vie",
+            "Promouvoir la dignité et la qualité de vie des personnes concernées par la fin de vie"
+        ]
     },
     "porteur_initiative": "",
     "date": [
-        "2019-09-28"
+        "2019",
+        "fin janvier 2023"
     ],
     "thematique": [
-        "fin de vie",
-        "droits des personnes malades",
-        "sensibilisation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_fin_de_vie_et_si_on_en_parlait.txt",

@@ -1,0 +1,26 @@
+{
+  "titre": "PapiMamie Digital",
+  "territoire": ["communale"],
+  "echelle": ["quartier", "communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description_generale": "Programme de cours d'informatique à destination des personnes âgées, organisé par PapiMamie Digital.",
+  "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Programme de cours d'informatique à destination des personnes âgées, organisé par PapiMamie Digital.",
+  "objectifs": [
+    "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "PapiMamie Digital",
+  "date": ["depuis 2016"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

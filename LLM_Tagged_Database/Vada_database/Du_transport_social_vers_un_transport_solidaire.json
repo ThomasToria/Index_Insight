@@ -1,22 +1,30 @@
 {
     "titre": "Du transport social vers un transport solidaire",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Développer la relation d'aide, le lien social et la solidarité de proximité en mettant en place une heure civique pour les bénévoles du CCAS.",
-        "contexte": "Transport social existant depuis plusieurs années. L'accent mis sur la mobilité locale et l'amélioration des actions liées au lien social.",
-        "problematique": "Développer la relation d'aide, le lien social et la solidarité de proximité dans un contexte de transport social existant.",
-        "solution_envisagee": "Mise en place du dispositif de l'heure civique pour les bénévoles du CCAS.",
-        "objectifs": ""
+        "description_generale": "Un projet de transition du transport social à un transport solidaire a été mené dans une commune.",
+        "contexte": "Le CCAS avait mis en place un service de transport pour les seniors, mais la volonté des bénévoles d'assurer ce service ponctuellement a conduit à son développement vers un mode plus solidaire.",
+        "problematique": "La transition du transport social à un transport solidaire est motivée par le besoin de renforcer les liens sociaux et l'aide aux seniors, tout en respectant la volonté des bénévoles d'assurer ce service ponctuellement.",
+        "solution_envisagee": "Le projet a permis de développer une relation plus solidaire entre les bénéficiaires et les acteurs impliqués dans le transport social, en mettant l’accent sur la valorisation des liens sociaux et la participation citoyenne.",
+        "objectifs": [
+            "Apporter une aide de proximité aux administrés en difficulté",
+            "Renforcer les relations sociales entre les seniors et les bénéficiaires"
+        ]
     },
-    "porteur_initiative": "Les bénévoles du CCAS",
-    "date": [],
+    "porteur_initiative": "CCAS, volontaires, bénéficiaires",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
-        "Mobilité locale",
-        "Solidarité de proximité"
+        "santé",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_transport_social_vers_un_transport_solidaire.txt",

@@ -1,22 +1,36 @@
 {
     "titre": "Mise en place des guichets intégrés MAIA",
-    "territoire": "",
+    "territoire": "Havrais",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Décentraliser l’information pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d'accompagnements. Favoriser l'équité de traitement des usagers sur le territoire. Donner la bonne réponse au bon moment aux usagers. Permettre de détecter les personnes âgées fragiles pour proposer l'aide adéquate avant que la situation ne se dégrade.",
-        "contexte": "",
-        "problematique": "Décentraliser l’information et faciliter l'accès à des dispositifs d'accompagnement pour les personnes âgées",
-        "solution_envisagee": "Mise en place de guichets intégrés MAIA (Mise en œuvre du cahier des charges)",
-        "objectifs": ""
+        "description_generale": "Décentraliser l’information pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnements.",
+        "contexte": "Le Havre (76) a mis en place un guichet intégré sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un guichet intégré MAIA a été mis en place sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
+        "objectifs": [
+            "Décentraliser l'information",
+            "Favoriser l'équité de traitement des usagers sur le territoire",
+            "Donner la bonne réponse au bon moment aux usagers",
+            "Permettre de détecter les personnes âgées fragiles pour proposer l'aide adéquate avant que la situation ne se dît dégradée"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Le Havre (76)",
+    "date": [
+        "2014",
+        "octobre 2014"
+    ],
     "thematique": [
-        "Santé et bien-être",
-        "Social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_des_guichets_integres_MAIA.txt",

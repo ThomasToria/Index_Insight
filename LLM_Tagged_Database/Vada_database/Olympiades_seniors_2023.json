@@ -1,22 +1,37 @@
 {
     "titre": "Olympiades seniors 2023",
-    "territoire": "",
+    "territoire": [
+        "communale"
+    ],
     "echelle": [
-        "quartier"
+        "quartier",
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Depuis 2015, la Ville de Belfort propose des ateliers d'activités physiques adaptées sur l'ensemble des quartiers de la ville. Ces ateliers visent à préserver l'autonomie et la mobilité des personnes âgées.",
-        "contexte": "",
-        "problematique": "Les bénéficiaires actuels des ateliers souhaitent se retrouver autour d'une action commune.",
-        "solution_envisagee": "Organiser un événement autour de l'athlétisme (Olympiades seniors).",
-        "objectifs": ""
+        "description_generale": "Une journée festive et conviviale pour les seniors, organisée par la Ville de Belfort en partenariat avec des jeunes volontaires.",
+        "contexte": "Les bénéficiaires d'ateliers physiques adaptés ont exprimé le souhait de participer à un événement communautaire autour de l’activité physique.",
+        "problematique": "Favoriser la cohésion sociale, créer du lien social et valoriser les activités physiques adaptées auprès des seniors.",
+        "solution_envisagee": "Organisation d'une journée festive et conviviale pour les seniors, avec ateliers sportifs encadrés par des jeunes volontaires en service civique.",
+        "objectifs": [
+            "Favoriser la cohésion sociale",
+            "Créer du lien social",
+            "Valoriser l’activité physique adaptée auprès des seniors"
+        ]
     },
-    "porteur_initiative": "Les bénéficiaires actuels des ateliers physiques adaptés.",
+    "porteur_initiative": "Ville de Belfort",
     "date": [
-        "2023"
+        "6 juin 2023"
     ],
-    "thematique": [],
+    "thematique": [
+        "santé",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Olympiades_seniors_2023.txt",
     "nom_fichier": "Olympiades_seniors_2023.txt"

@@ -1,25 +1,30 @@
 {
     "titre": "Les rencontres du bénévolat",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un Goûter Seniors sur le thème du bénévolat associatif a permis de recueillir les avis et besoins des seniors sur le rôle du bénévole ainsi que les critères d’un bon accueil de bénévole.",
-        "contexte": "",
-        "problematique": "L'engagement bénévole chez les seniors",
-        "solution_envisagee": "",
-        "objectifs": "Recueillir les attentes et freins identifiés par les seniors dans leurs démarches d’engagement bénévole et/ou de recherche d’activité bénévole, nourrir le débat sur l’accueil des bénévoles."
+        "description_generale": "Une journée de rencontre entre seniors, associations et acteurs locaux pour évaluer les besoins et attentes des seniors en matière de bénévolat.",
+        "contexte": "La Ville Amie des Aînés Nancy a organisé une journée d'information sur le rôle du bénévole associatif à destination des seniors et des associations locales.",
+        "problematique": "Les seniors ont besoin d'être informés sur les opportunités de bénévolat disponibles dans leur communauté, notamment en termes de communication efficace et de dynamisme des actions bénévoles.",
+        "solution_envisagee": "Organiser une journée de rencontre entre seniors, associations locales, et acteurs locaux pour évaluer les besoins et attentes des seniors concernant le rôle du bénévole associatif.",
+        "objectifs": [
+            "Former des associations aux spécificités du public senior nancéien",
+            "Mettre en relation ces associations et les aînés de Nancy désireux de trouver une activité bénévole sur leur territoire"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "VillesAmies",
     "date": [
-        "2019-03-29"
+        "2019",
+        "2018"
     ],
     "thematique": [
-        "bénévolat",
-        "retraite active",
-        "seniors"
+        "santé",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rencontres_du_benevolat.txt",

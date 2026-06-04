@@ -1,24 +1,29 @@
 {
-    "titre": "Médiations 'part'âgées' par le dessin",
-    "territoire": "",
+    "titre": "Médiations 'part'âgées par le dessin",
+    "territoire": "Commune: Chambon-Feugerolles, 42",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Aînés",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le CCAS du Chambon Feugerolles propose chaque année des activités sous forme d'ateliers à destination des Aînés. Ces activités répondent aux besoins exprimés par les seniors de bénéficier d'activités leur permettant de se sentir bien dans leur corps, leur tête, et d'avoir des relations sociales de qualité.",
-        "contexte": "",
-        "problematique": "L'accès limité aux loisirs et à la culture pour les Aînés",
-        "solution_envisagee": "Proposer des ateliers de dessin comme moyen d'engager ces seniors dans l'activité et de favoriser leur bien-être.",
-        "objectifs": "Favoriser le bien-être physique et mental, renforcer la socialisation entre les participants, offrir un espace culturel à destination des Aînés"
+        "description_generale": "Proposer des approches thérapeutiques non médicamenteuses sous forme d'ateliers à destination des aînés.",
+        "contexte": "Les seniors souhaitaient découvrir la médiation par le dessin après avoir été invités à participer à une exposition de fresques sur la peinture et le dessin organisée dans leur commune.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser une série d'ateliers de médiation par le dessin pour les aînés de la commune.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Le CCAS du Chambon Feugerolles",
+    "porteur_initiative": "CCAS du Chambon Feugerolles",
     "date": [
         "2023"
     ],
     "thematique": [
-        "Culture",
-        "Bien-être"
+        "santé",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediations_partagees_par_le_dessin.txt",

@@ -1,24 +1,37 @@
 {
     "titre": "Restaurant seniors",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "PERSONNES DE PLUS DE 65 ANS (AVEC SON CONJOINT PLUS JEUNE LE CAS ÉCHÉANT)",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Créer un restaurant pour personnes âgées de plus de 65 ans, en partenariat avec la cantine scolaire pour créer des liens intergénérationnels.",
-        "contexte": "En 2015, le travail de concertation et la demande des aînés ont permis d'identifier ce besoin.",
-        "problematique": "Rompre la solitude et la désocialisation des personnes âgées",
-        "solution_envisagee": "Créer un restaurant seniors en partenariat avec une cantine scolaire pour créer des liens intergénérationnels.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer la qualité de vie des aînés en leur permettant d'avoir un repas pris dans l'intégralité, en lutte contre la désocialisation (facilitée par les repas à domicile), et en apportant des repères.",
+        "contexte": "Le besoin a été identifié suite à une concertation avec les aînés et une conférence sur le thème de l'autonomie, des services et des soins. Les aînés ont choisi d'avoir un restaurant seniors plutôt que le service de repas à domicile.",
+        "problematique": "Lutter contre la malnutrition, faciliter la communication entre les aînés et les jeunes enfants, valoriser l'identité culturelle des aînés, créer des liens intergénérationnels.",
+        "solution_envisagee": "Un restaurant seniors accessible à tous les aînés de plus de 65 ans, situé dans une commune communale. Les repas sont proposés en thèmes variés et permettent aux jeunes enfants d'assister à des fêtes d'anniversaire.",
+        "objectifs": [
+            "Lutter contre la malnutrition",
+            "Faciliter la communication entre les aînés et les jeunes enfants",
+            "Valoriser l'identité culturelle des aînés",
+            "Créer des liens intergénérationnels"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Commune de Meaulne-Vitray",
     "date": [
-        "2015"
+        "2015",
+        "2024",
+        "2025"
     ],
     "thematique": [
-        "LIEN INTERGÉNÉRATIONNEL",
-        "SOLIDARITÉ"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Restaurant_seniors.txt",

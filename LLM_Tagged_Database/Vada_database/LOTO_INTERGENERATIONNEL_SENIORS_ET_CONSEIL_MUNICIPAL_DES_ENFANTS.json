@@ -1,22 +1,28 @@
 {
     "titre": "LOTO INTERGENERATIONNEL /SENIORS ET CONSEIL MUNICIPAL DES ENFANTS",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "LES SENIORS DES FOYERS ET LES ENFANTS DU CONSEIL MUNICIPAL DE LA MAIRIE DE MONTAUBAN",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "La commune souhaite redynamiser les foyers seniors, comme elle l'a fait courant juin sur une action portant sur les jeux de cartes. C'est pourquoi elle a mis en place cette action intergénérationnelle pendant la semaine bleue.",
-        "contexte": "",
-        "problematique": "La dynamisation des foyers seniors et la participation des enfants au sein de ces groupes",
-        "solution_envisagee": "L'organisation d'un loto intergénérationnel pendant la semaine bleue",
-        "objectifs": "Redynamiser les foyers seniors, améliorer la participation des enfants aux activités communales et renforcer le lien entre générations."
+        "description_generale": "La commune de Montauban a organisé un loto intergénérationnel pendant la semaine bleue, visant à redynamiser les foyers seniors et créer du lien entre les résidents des EHPAD et les enfants du Conseil Municipal.",
+        "contexte": "Dans le cadre de la démarche VADA, la commune de Montauban a organisé un loto intergénérationnel pendant la semaine bleue. Les seniors et les enfants y trouvent leur compte, créant ainsi du lien social et culturel.",
+        "problematique": "Redynamiser les foyers seniors, créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal.",
+        "solution_envisagee": "L’organisation d’un loto intergénérationnel pendant la semaine bleue pour redynamiser les foyers seniors et créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal.",
+        "objectifs": [
+            "Redynamiser les foyers seniors",
+            "Créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Commune de Montauban",
+    "date": [
+        "depuis 2025"
+    ],
     "thematique": [
         "LIEN SOCIAL",
-        "SOLIDARITÉ",
         "CULTURE & LOISIRS"
     ],
     "source_site": "VADA",

@@ -1,22 +1,29 @@
 {
     "titre": "Journée détente",
-    "territoire": "",
+    "territoire": "Mans",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées de 60 ans et plus, résidant au Mans, à domicile et en structures d’hébergement, présentant une fragilité sociale",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Action globale de soutien et d’accompagnement des seniors manceaux dans leur vie sociale.",
-        "contexte": "",
-        "problematique": "L'isolement relationnel des seniors empêchés, à savoir ne pouvant accéder à des activités sans accompagnement renforcé.",
-        "solution_envisagee": "Programme d’actions visant à lutter contre l’isolement relationnel et à promouvoir la participation sociale des seniors.",
-        "objectifs": ""
+        "description_generale": "Cette action vise les personnes âgées de 60 ans et plus, résidant au Mans, à domicile et en structures d'hébergement, présentant une fragilité, notamment motrice, ne leur permettant plus de participer aux activités de droit commun.",
+        "contexte": "Les usagers réguliers des activités proposées par le service animation ont cessé de y participer suite à une perte d'autonomie. Une enquête réalisée auprès de ces personnes révèle que, suite à une perte d'autonomie, elles ne sont plus en capacité de participer aux activités.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organisation d'une série de journées détente par mois, avec des activités adaptées aux personnes âgées fragiles. Des dispositifs médicaux seront mis à disposition pour les accompagnateurs.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD et leurs proches",
+            "Valoriser la mémoire et la place des résidents dans la vie locale"
+        ]
     },
-    "porteur_initiative": "CCAS, service animation-accompagnement seniors",
-    "date": [],
+    "porteur_initiative": "CCAS, service animation accompagnement seniors",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "santé mentale",
-        "social"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_detente.txt",

@@ -4,19 +4,27 @@
     "echelle": [
         "communale"
     ],
-    "public_vise": "UN PUBLIC DE SENIOR",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le projet est parti de l’envie des enfants d'offrir de leur temps à des personnes âgées qui sont seules ou malades et de partager avec eux des moments festifs et joyeux.",
-        "contexte": "L’origine de la demande émane du Conseil Municipal des Enfants. Les besoins ont été identifiés lors des cafés rencontres. Parmi les axes stratégiques retenus en 4e position sur le plan d'action: le lien social et solidaire.",
-        "problematique": "",
-        "solution_envisagee": "En partenariat avec le Pôle Seniors, les enfants du Conseil municipal prévoient des temps de rencontre autour de différents thèmes.",
-        "objectifs": ""
+        "description_generale": "Le projet est né de l'envie des enfants d’offrir du temps à des personnes âgées qui sont seules ou malades, et de partager avec eux des moments festifs et joyeux.",
+        "contexte": "",
+        "problematique": "Renforcement du lien social et solidarité entre les seniors et les jeunes générations pour lutter contre l'isolement.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Créer du lien intergénérationnel",
+            "Éviter l’isolement des personnes âgées"
+        ]
     },
-    "porteur_initiative": "Les enfants du Conseil Municipal",
-    "date": [],
+    "porteur_initiative": "Conseil Municipal des Enfants de Villenouvelle",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "LIEN SOCIAL",
-        "SOLIDARITÉ"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_intergenerationnel.txt",

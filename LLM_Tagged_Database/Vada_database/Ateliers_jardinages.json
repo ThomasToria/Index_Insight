@@ -1,0 +1,30 @@
+{
+    "titre": "Ateliers jardinages",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "La période COVID a été très compliquée pour les seniors isolés. La ville a proposé des ateliers jardinages qui réunissent plusieurs objectifs, permettant aux seniors de passer de bons moments de convivialité.",
+        "contexte": "Certains seniors ne voulaient plus sortir pendant la période COVID.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Ateliers jardinages organisés par le prestataire chargé du Lopin de Léo, le jardin-potager participatif de la ville, ou avec un prestataire extérieur. Les seniors échangent avec le prestataire et entre eux. Ils repartent avec leurs plantations et semis.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": "Ville Amie des Aînés depuis 2019",
+    "date": [
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_jardinages.txt",
+    "nom_fichier": "Ateliers_jardinages.txt"
+}

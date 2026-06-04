@@ -1,25 +1,37 @@
 {
     "titre": "Guide pratique seniors",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Connu pour son analyse des besoins sociaux, le CCAS a lancé un questionnaire à destination du public seniors.",
-        "contexte": "Pour répondre à un enjeu fort de prise en compte du vieillissement de sa population.",
-        "problematique": "Les services existants sont méconnus par les seniors.",
-        "solution_envisagee": "Concevoir et éditer un guide pratique pour informer sur ces services.",
-        "objectifs": "Informer le public seniors sur les services existants"
+        "description_generale": "Ce guide est conçu pour répondre aux attentes des seniors en matière de services existants sur la commune.",
+        "contexte": "Le CCAS a lancé un questionnaire auprès des seniors pour identifier leurs besoins sociaux, qui ont été déduits à partir de leur réponse au questionnaire. Les retours ont montré que les besoins exprimés correspondaient à des services existants, mais méconnus.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un guide pratique à l'attention des aînés comprenant le référencement d'une multitude de services, adresses, téléphones, et renseignements utiles pour faciliter la recherche d'une information, particulièrement en matière de santé.",
+        "objectifs": [
+            "Répondre aux attentes des seniors",
+            "Communicer le plus d'informations sur les services et les structures existants sur la commune sur plusieurs thématiques (santé, logement, mobilité, loisirs, vie sociale, aides financières, accès aux droits)"
+        ]
     },
-    "porteur_initiative": "CCAS",
-    "date": [],
+    "porteur_initiative": "",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
         "habitat",
-        "autonomie",
+        "prévention",
+        "intergénérationnel",
         "isolement",
-        "services",
-        "mobilité"
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_pratique_seniors.txt",

@@ -1,20 +1,36 @@
 {
     "titre": "Le bonheur d’être grands-parents",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "territoire": "Communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La structure de la famille a considérablement évolué au cours de ces dernières décennies (famille monoparentale, situation de précarité…), entraînant souvent un besoin accru de l'aide des grands-parents. Leur rôle ou rôles prennent des formes très différentes (garde d'enfants occasionnelles ou quotidiennes…).",
-        "contexte": "",
-        "problematique": "Le rôle des grands-parents est reconnu comme primordial auprès des enfants, petits-enfants et arrière-petits-enfants. Cependant, leur rôle peut être interdit.",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Un programme pour le rôle de grand-parents, organisé par la Ville de Colomiers.",
+        "contexte": "La structure de la famille a évolué au cours des dernières décennies, entraînant souvent un besoin accru d'aide des grands-parents.",
+        "problematique": "Leur rôle peut être merveilleux, indispensable, reconnu, interdit et douloureux quelquefois. Ce programme est né d'une volonté d'accompagner les seniors dans cette nouvelle étape de la vie qu'est la grand-parentalité.",
+        "solution_envisagee": "Organiser une conférence sur le rôle, la place et le quotidien des grands-parents et un cycle de trois ateliers pour mieux connaître le rôle et les aspirations d'un grand parent.",
+        "objectifs": [
+            "Permettre aux seniors de mieux se situer dans leur rôle de grand-parent",
+            "Apprendre à communiquer pour favoriser le lien intergénérationnel",
+            "Organiser une conférence sur le rôle, la place et le quotidien des grands-parents",
+            "Organiser un cycle de trois ateliers pour mieux connaître le rôle et les aspirations d'un grand parent"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville de Colomiers (31)",
+    "date": [
+        "2019",
+        "fin janvier 2025"
+    ],
     "thematique": [
-        "Famille",
-        "Grand-parents"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_bonheur_detre_grands-parents.txt",

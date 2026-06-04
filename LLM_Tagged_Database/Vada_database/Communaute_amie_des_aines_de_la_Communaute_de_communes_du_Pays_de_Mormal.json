@@ -1,23 +1,31 @@
 {
     "titre": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
-    "territoire": "",
+    "territoire": "Pays de Mormal (59)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une politique en faveur des seniors visant à faciliter leur vie chez eux, leurs déplacements, et leur vie sociale.",
-        "contexte": "La Communauté de communes du Pays de Mormal (CCPM)",
-        "problematique": "Vivre chez soi le plus longtemps possible, faciliter les déplacements, offrir une vie sociale épanouie, préserver la santé et améliorer l'information des aînés.",
-        "solution_envisagee": "Favoriser les politiques en faveur des aînés par d'autres acteurs du territoire.",
-        "objectifs": ""
+        "description_generale": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
+        "contexte": "Le territoire de la Communauté de communes du Pays de Mormal est un village situé dans le département de l'Indre-et-Loire, en région Centre.",
+        "problematique": "Permettre aux aînés du territoire de bien vieillir. Favoriser leur expression participative tout au long du projet. Evaluer de manière permanente la politique menée. Mobiliser des partenaires autour de ces objectifs.",
+        "solution_envisagee": "Une enquête a été menée auprès des aînés et des aidants afin de cerner les manques et les besoins exprimés par les personnes âgées et leur entourage. Les résultats ont été présentés à une soixantaine de professionnels, qui ont fait part de leurs observations et préconisations.",
+        "objectifs": [
+            "Permettre aux aînés du territoire de bien vieillir",
+            "Favoriser leur expression participative tout au long du projet",
+            "Evaluer de manière permanente la politique menée"
+        ]
     },
-    "porteur_initiative": "La Communauté Amie des Aînés (CADA)",
-    "date": [],
+    "porteur_initiative": "Communauté de communes du Pays de Mormal",
+    "date": [
+        "2016",
+        "2025"
+    ],
     "thematique": [
         "santé",
-        "social",
-        "mobilité"
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",

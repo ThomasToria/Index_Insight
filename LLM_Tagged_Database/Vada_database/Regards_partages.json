@@ -1,22 +1,31 @@
 {
     "titre": "Regards partagés",
-    "territoire": "",
+    "territoire": "Commune de Rennes (35)",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "installation documentaire, correspondance intergénérationnelle",
     "description": {
-        "description_generale": "L'action consiste en la création d'une installation documentaire et intergénérationnelle entre les seniors du centre socio-culturel et les élèves de CM1 de l'école des Gantelles. Le centre organise des échanges intergénérationnels sur la transformation du quartier entre des enfants et des seniors. Comme une correspondance, l'idée est de réaliser des portraits grâce à la photo, au son et à la vidéo, accompagné par une artiste documentaire. Après quatre mois de correspondance, une rencontre et une exposition ont été organisées.",
-        "contexte": "",
-        "problematique": "Transformation du quartier",
-        "solution_envisagee": "Installation documentaire intergénérationnelle",
-        "objectifs": ""
+        "description_generale": "Un projet d'intergénérationnalité entre seniors du centre socio-culturel 'Les Longs Prés' et élèves de CM1 de l'école des Gantelles. Des portraits photographiques, sonores et vidéo réalisés par une artiste documentaire ont été créés en correspondance.",
+        "contexte": "Le projet a été initié dans le cadre du BES (Bien-être EHPAD) pour maintenir le lien social entre les seniors et les jeunes générations. Les participants ont travaillé sur la création d'une installation collective, des portraits photographiques, un texte autobiographique, et une rencontre avec l'artiste documentaire.",
+        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des échanges intergénérationnels sur la transformation du quartier entre des enfants et des seniors. Créer une installation documentaire avec portraits photographiques, sonores et vidéo réalisés par une artiste documentaire.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale",
+            "Maintenir du lien social par le partage de son histoire"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Centre socio-culturel 'Les Longs Prés' (EHPAD) et l'école des Gantelles",
+    "date": [
+        "octobre 2021",
+        "avril 2022"
+    ],
     "thematique": [
-        "Culture",
-        "Éducation"
+        "intergénérationnel",
+        "participation citoyenne",
+        "renforcement du lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Regards_partages.txt",

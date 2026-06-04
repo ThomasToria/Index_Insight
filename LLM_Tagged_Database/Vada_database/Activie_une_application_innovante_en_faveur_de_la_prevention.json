@@ -1,22 +1,32 @@
 {
-    "titre": "Activie: une application innovante en faveur de la prévention",
-    "territoire": "",
+    "titre": "Une application innovante pour la prévention",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "quartier",
+        "régionale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "application numérique",
     "description": {
-        "description_generale": "L'application gratuite 'ACTIVIE' est conçue pour inciter les seniors à prendre soin de leur santé au quotidien et de manière durable.",
-        "contexte": "",
-        "problematique": "La prévention de la perte d'autonomie chez les seniors",
-        "solution_envisagee": "L’application 'ACTIVIE' propose trois recommandations majeures pour maintenir une santé optimale: l'exercice physique adapté, renforcer les interactions sociales et optimiser la nutrition.",
-        "objectifs": ""
+        "description_generale": "ACTIVIE est une application gratuite lancée par la ville de Lyon, destinée aux seniors. Son objectif est d'inciter les aînés à prendre soin de leur santé en proposant des défis personnalisés et des activités adaptées à leurs centres d'intérêts.",
+        "contexte": "La prévention de la perte d'autonomie, notamment par l’application d’une alimentation saine et une activité physique.",
+        "problematique": "Le besoin de motiver les seniors à prendre soin de leur santé et d'optimiser leurs interactions sociales pour maintenir leur autonomie.",
+        "solution_envisagee": "ACTIVIE, une application numérique qui propose des défis personnalisés et des activités adaptées aux centres d'intérêts des seniors.",
+        "objectifs": [
+            "Motiver les seniors à prendre soin de leur santé",
+            "Améliorer l'interaction sociale entre les seniors et la société civile",
+            "Promouvoir une alimentation saine pour maintenir la santé physique"
+        ]
     },
-    "porteur_initiative": "La ville de Lyon",
-    "date": [],
+    "porteur_initiative": "Lili Smart, une start-up spécialisée dans le digital en santé",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "prévention"
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activie_une_application_innovante_en_faveur_de_la_prevention.txt",

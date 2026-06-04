@@ -1,20 +1,31 @@
 {
     "titre": "Accompagnement des agents du SSIAD pour les soins palliatifs des patients",
     "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "accompagnement",
     "description": {
-        "description_generale": "ACCOMPAGNER LES PERSONNES ÂGÉES À LA FIN DE VIE La question de la fin de vie, de l'évaluation et de la prise en charge de la douleur constitue une question centrale, individuelle et collective, éthique et médicale. Les enjeux sont encore prégnants depuis la loi du 2 février 2016 relative aux droits en faveur des malades et des personnes en fin de vie. Pour faciliter la transition que représente la fin de vie de leurs patients, les équipes soignantes ont besoin d'être accompagnées et soutenues pour développer leurs compétences spécifiques.",
+        "description_generale": "La question de la fin de vie, de l'évaluation et de la prise en charge de la douleur constitue une question centrale, individuelle et collective, éthique et médicale. Les enjeux sont encore prégnants depuis la loi du 2 février 2016 relative aux droits en faveur des malades et des personnes en fin de vie.",
         "contexte": "",
-        "problematique": "Les équipes soignantes nécessitent un accompagnement et une formation supplémentaires pour gérer efficacement les soins palliatifs des patients âgés.",
-        "solution_envisagee": "Accompagnement et soutien aux agents du SSIAD (Service de Soins Intensifs à Domicile) afin d'accompagner leurs patients dans la fin de vie.",
-        "objectifs": ""
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L'action présentée ici est innovante et surtout bienveillante: elle a comme finalité d'accompagner les personnes âgées dans une période de leur vie délicate et complexe pour eux mêmes et leurs entourages. Le service de Soins Infirmiers à Domicile (S.S.I.A.D.) intervient au domicile des personnes âgées afin de favoriser le maintien à domicile.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "fin de vie",
-        "soins palliatifs"
+        "santé",
+        "lien social",
+        "numérique",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_agents_du_SSIAD_pour_les_soins_palliatifs_des_patients.txt",

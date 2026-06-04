@@ -1,25 +1,29 @@
 {
     "titre": "Bougeons ensemble à Royan: Coll'Action",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "En juin 2013, la journée 'Bougeons ensemble à ROYAN - Coll’action' a été organisée pour encourager les personnes isolées à sortir de leur domicile et faire des rencontres dans le cadre d'une animation conviviale et familiale.",
-        "contexte": "",
-        "problematique": "Les personnes isolées ne se connectent pas suffisamment avec la société locale.",
-        "solution_envisagee": "Organisation d'activités variées et attrayantes pour encourager les rencontres intergénérationnelles.",
-        "objectifs": "Promouvoir des interactions sociales, améliorer l'autonomie physique et mentale des participants, renforcer la cohésion sociale dans le quartier."
+        "description_generale": "Organisation d'une journée de rencontres intergénérationnelles dans le cadre d'activités conviviales et familiales.",
+        "contexte": "La ville de Royan souhaite renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Renforcement des liens sociaux et participation citoyenne",
+        "solution_envisagee": "Organisation d'une journée de rencontres intergénérationnelles avec diverses activités sportives et culturelles pour favoriser le vivre ensemble.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
     "porteur_initiative": "",
     "date": [
-        "2013-06"
+        "depuis 2013"
     ],
     "thematique": [
         "santé",
-        "social",
-        "culturel"
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bougeons_ensemble_a_Royan_CollAction.txt",

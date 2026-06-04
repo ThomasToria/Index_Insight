@@ -1,0 +1,27 @@
+{
+  "titre": "Aidants numériques",
+  "territoire": "communale",
+  "echelle": ["quartier", "communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Cette initiative vise à améliorer l'accès aux outils numériques pour les personnes âgées, en particulier les seniors.",
+  "contexte": "La ville de Dijon a mené une réflexion globale sur la fracture numérique et a initié un projet d'accompagnement des aidants numériques. Les objectifs sont de renforcer l'autonomie et l'inclusion numérique des personnes âgées.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Un réseau de bénévoles 'aidants numériques' qui proposent des ateliers collectifs et permanences individuelles pour aider les personnes à l'utilisation des outils numériques.",
+  "objectifs": [
+    "Renforcer l'autonomie et l'inclusion numérique",
+    "Favoriser les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "Ville de Dijon (21)",
+  "date": ["depuis 2018"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

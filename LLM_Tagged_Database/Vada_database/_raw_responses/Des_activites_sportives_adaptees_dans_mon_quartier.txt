@@ -1,0 +1,26 @@
+{
+  "titre": "Des activités sportives adaptées dans mon quartier",
+  "territoire": "Communale",
+  "echelle": ["quartier"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Cette initiative vise à améliorer l'activité physique des personnes âgées dans leur quartier, en proposant des activités adaptées.",
+  "contexte": "La population sénior Berruyère est en constante augmentation et les activités sportives pour les jeunes séniors ont été limitées ces dernières années. Les usagers souhaitent une activité physique régulière adaptée à leur avancée en âge, ainsi que des sorties à proximité de leur domicile.",
+  "problematique": "Le besoin d'activités sportives adaptées pour les jeunes séniors dans le quartier Berruyère",
+  "solution_envisagee": "Une programmation d'activités sportives et culturelles adaptées aux besoins des personnes âgées, proposant également des sorties à proximité de leur domicile.",
+  "objectifs": [
+    "Améliorer l'activité physique des personnes âgées dans le quartier Berruyère",
+    "Promouvoir la participation des jeunes séniors à des activités sportives et culturelles adaptées"
+  ],
+  "porteur_initiative": "CCAS de Bourges",
+  "date": ["depuis 2020"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

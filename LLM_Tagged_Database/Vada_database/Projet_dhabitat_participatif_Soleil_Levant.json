@@ -1,22 +1,36 @@
 {
     "titre": "Projet d'habitat participatif Soleil Levant",
-    "territoire": "",
+    "territoire": "Saint-Nazaire, Loire-Atlantique",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "concevoir un habitat collectivement",
     "description": {
-        "description_generale": "L’Association Habitat participatif Soleil Levant (HPSL) a été créée en avril 2018 pour promouvoir et accompagner des projets d'habitat participatif à Saint-Nazazaire, en Loire-Atlantique. Le premier projet est le Projet Soleil Levant (SL).",
-        "contexte": "",
-        "problematique": "La réalisation de projets d'habitat participatif nécessite une approche collective et respectueuse des valeurs sociales, environnementales et démocratiques.",
-        "solution_envisagee": "Le projet Soleil Levant (SL) est en cours de réalisation avec l'aide de l’Association Habitat participatif Soleil Levant (HPSL).",
-        "objectifs": ""
+        "description_generale": "Promouvoir et accompagner des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique.",
+        "contexte": "Initiation d'une démarche d'habitat participatif par la mairie de Saint-Nazaire en 2017. Le premier projet, Soleil Levant (SL), est en cours de réalisation depuis avril 2018.",
+        "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Promouvoir des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique, sous différentes formes juridiques adaptées pour refléter les valeurs énoncées dans sa Charte: lien social, solidarité, respect mutuel, respect de l'environnement, gouvernance démocratique.",
+        "objectifs": [
+            "Renforcer les liens entre résidents et leurs proches",
+            "Valoriser la mémoire des résidents et leur place dans la vie locale",
+            "Initier une démarche participative pour le développement durable"
+        ]
     },
-    "porteur_initiative": "L'Association Habitat participatif Soleil Levant (HPSL)",
-    "date": [],
+    "porteur_initiative": "Association Habitat Participatif Soleil Levant (HPSL)",
+    "date": [
+        "2017",
+        "2019",
+        "2020",
+        "2021"
+    ],
     "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
         "habitat",
-        "participation"
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_dhabitat_participatif_Soleil_Levant.txt",

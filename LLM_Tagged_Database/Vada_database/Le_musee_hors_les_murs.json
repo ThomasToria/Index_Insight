@@ -1,22 +1,34 @@
 {
     "titre": "Le musée hors les murs",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "quartier",
+        "régionale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Mettre la culture à la portée de tous en sortant les œuvres d'art des musées et en permettant aux habitants, même les plus isolés, de se les réapproprier. Changer les regards sur les œuvres permanentes du musée et sur la culture en général.",
-        "contexte": "",
-        "problematique": "Les œuvres d'art sont souvent accessibles uniquement dans des musées limités aux habitants locaux, ce qui peut créer une barrière pour ceux qui ne peuvent pas y accéder ou ne le font pas fréquemment.",
-        "solution_envisagee": "Implanter des œuvres appartenant au musée dans les lieux de vie avec l'action 'HLM' (Habitat et Logement), produire une exposition participative appelée 'Les murs sont à vous', créer un festival de street art 'Spray'.",
-        "objectifs": ""
+        "description_generale": "Un projet multidimensionnel, dirigé en particulier envers les habitants de résidences autonomes, les élèves des écoles, les usagers de mairies de proximité et de maisons de quartier, s’ est constitué en de nombreuses étapes.",
+        "contexte": "Le musée installé dans un château fort sur les hauteurs de la ville était peu connu ou fréquenté par les habitants.",
+        "problematique": "Peu d'habitants connaissaient ou fréquentaient le musée, ce qui limitait leur participation aux activités culturelles et à l'apprentissage des œuvres permanentes du musée.",
+        "solution_envisagee": "Implanter des oeuvres appartenant au musée dans les lieux de vie avec l'action « HLM »: le Musée Hors Les Murs. Produire, en mouvement retour, une exposition participative appelée « Les murs sont à vous ». Créer un festival de street art, « Spray », dans différents lieux de la ville.",
+        "objectifs": [
+            "Mettre la culture à la portée de tous",
+            "Changer les regards sur les œuvres permanentes du musée et sur la culture en général"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Dieppe (76)",
+    "date": [
+        "depuis 2015"
+    ],
     "thematique": [
-        "culture",
-        "art"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_musee_hors_les_murs.txt",

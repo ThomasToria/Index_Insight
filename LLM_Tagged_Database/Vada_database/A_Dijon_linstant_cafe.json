@@ -1,22 +1,34 @@
 {
-    "titre": "A Dijon, l’instant café",
-    "territoire": "",
+    "titre": "A Dijon, l'instant café",
+    "territoire": "Commune de Dijon",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Ce projet initié par le CCAS de Dijon a pour objectif de proposer un espace d'intervention collective hors institution, propice à développer des liens sociaux entre les usagers et à accompagner l'élaboration de projets.",
-        "contexte": "",
-        "problematique": "Développement des liens sociaux",
-        "solution_envisagee": "Proposition d'un espace d'intervention collective hors institution",
-        "objectifs": "Accompagner l'organisation de la semaine et développer un mode relationnel centré sur l'échange entre travailleurs sociaux et usagers."
+        "description_generale": "Ce projet initié par le CCAS de Dijon a pour objectif de proposer, dans un environnement hors institution, un espace d'intervention collective propice à développer des liens sociaux entre les usagers, à accompagner l'élaboration de projets (sorties de la semaine) et définir un mode relationnel entre travailleurs sociaux et usagers centré sur l'échange et la volonté de construire un projet ensemble.",
+        "contexte": "Le CCAS de Dijon a identifié le besoin d'initier une action communautaire qui permettrait aux résidents, à leurs proches et à la société civile de se rencontrer et de développer des liens sociaux. Le projet s'est déroulé pendant 6 mois de février à juin 2016 et a été renouvelé en novembre 2016 pour une nouvelle phase d'exploitation.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer un espace d'intervention collective hors institution pour développer des liens sociaux entre les usagers, à accompagner l'élaboration de projets (sorties de la semaine) et définir un mode relationnel entre travailleurs sociaux et usagers centré sur l'échange et la volonté de construire un projet ensemble.",
+        "objectifs": [
+            "Proposer une rencontre: public/professionnels, hors du cadre institutionnel",
+            "Favoriser l'échange et l'entraide intergénérationnels pendant, voire en dehors, de l’Instant Café",
+            "S'approprier 'sa semaine', se faire plaisir, se donner envie, retrouver un appétit social, avoir des projets et re-mobiliser l'énergie pour accomplir ses impératifs"
+        ]
     },
     "porteur_initiative": "CCAS de Dijon",
-    "date": [],
+    "date": [
+        "depuis 2016"
+    ],
     "thematique": [
-        "société",
-        "solidarité"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_linstant_cafe.txt",

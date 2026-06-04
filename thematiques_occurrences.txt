@@ -1,327 +1,146 @@
 Liste des thématiques avec occurrences
 =============================================
 
-Fichiers JSON analysés : 436
-Fichiers avec thématique : 415
-Nombre de thématiques différentes : 320
+Fichiers JSON analysés : 1011
+Fichiers avec thématique : 1002
+Nombre de thématiques différentes : 139
 
-santé : 116
-social : 81
-santé publique : 63
-mobilité : 30
-vieillissement : 28
-solidarité : 26
-autonomie : 25
-santé mentale : 24
-santé et bien-être : 20
-culture : 20
-inclusion sociale : 15
-logement : 14
-seniors : 13
-technologie : 10
-inclusion : 10
-personnes âgées : 10
-société : 10
-habitat : 9
-lien social : 9
-isolement : 7
-accessibilité : 7
-prévention : 6
-bien-être : 6
-services aux personnes âgées : 6
-éducation : 6
-sport : 5
-services publics : 5
-patrimoine : 5
-retraite : 4
+santé : 822
+lien social : 769
+mobilité : 460
+intergénérationnel : 459
+numérique : 440
+prévention : 359
+habitat : 333
+participation citoyenne : 127
+isolement : 56
+autonomie : 48
+grand âge et handicap : 23
+santé publique : 21
+services, interventions et politiques favorables à la santé : 17
+vieillissement : 15
+social : 9
+communication : 8
+solidarité : 8
+autonomie, grand âge et handicap : 8
+éducation : 7
+handicap : 7
+santé mentale : 6
+inclusion sociale : 5
+lien social et solidarité : 5
+culture : 4
 activité physique : 4
-nutrition : 4
-sociale : 4
-fin de vie : 4
-aidants familiaux : 4
-culture & loisirs : 4
-liens sociaux : 3
-retraités : 3
-économie : 3
-environnement : 3
-gériatrie : 3
-transition démographique : 3
-aide aux personnes âgées : 3
-aidants : 3
-intergénérationnel : 3
-liens intergénérationnels : 3
-maintenance à domicile : 3
-âge : 3
-gérontologie : 3
-transport : 3
-services sociaux : 3
-vieillesse : 3
-activités physiques : 3
-participation citoyenne : 3
-vieillissement actif : 2
-senior : 2
-alimentation : 2
-mémoire : 2
-prévention de la perte d'autonomie : 2
-aide aux aidants : 2
-logement social : 2
-autonomie des personnes âgées : 2
-environnement urbain : 2
-jeunes : 2
-maladies neurodégénératives : 2
-ehpad : 2
-maladie d'alzheimer : 2
-isolation : 2
-participation sociale : 2
-vie sociale : 2
-séniors : 2
-numérique : 2
-inclusion numérique : 2
-lutte contre l'isolement : 2
-précarité : 2
-aînés : 2
-aménagement urbain : 2
-citoyenneté : 2
-mobilités : 2
-information et communication : 2
-participation : 2
-famille : 2
-politique : 2
-animation : 2
-générationnelle : 2
-convivialité : 2
-loisirs : 2
-politique publique : 2
-histoire : 2
-emploi : 2
-culturel : 2
-danse : 2
-jardinage : 2
-partage intergénérationnel : 2
-aidant : 2
-diversité : 2
-vie active des seniors : 2
-jeux olympiques : 2
-lien social et solidarité : 2
-sensibilisation : 2
-innovation : 1
-professionnels de santé : 1
-adaptation sociale : 1
-développement économique : 1
-médicaments et soins : 1
-langue : 1
-pharmacie : 1
-bien vieillir : 1
-accompagnement social : 1
-économique : 1
-droits humains : 1
-droit au choix : 1
-risques et droits : 1
-relations : 1
-soins à domicile : 1
-accompagnement psychologique : 1
-bien-être des personnes âgées : 1
-santé et bien-être des personnes âgées : 1
-habitat et logement : 1
-vulnérabilités : 1
-reconstruction du lien social : 1
-gestion du stress : 1
-philanthropie : 1
-cohésion sociale : 1
-adolescents : 1
-santé mentale des personnes âgées : 1
-mobilité et isolation : 1
-logement et précarité : 1
-innovation sociale : 1
-maladies : 1
-accompagnement familial : 1
-gestion des établissements d'hébergement pour personnes âgées dépendantes (ehpad) : 1
-protection contre le covid-19 : 1
-handicap : 1
-maladies chroniques : 1
-vie quotidienne : 1
-communication : 1
-formation : 1
-technologie et société : 1
-solidarité générationnelle : 1
-accès aux soins : 1
-orientation des jeunes : 1
-activités_loisirs : 1
-services_aides : 1
-gestion des épidémies : 1
-solidarité et inclusion sociale : 1
-malnutrition : 1
-perte de liens sociaux : 1
-information : 1
-droits : 1
-communautaire : 1
-services de proximité : 1
-information personnelle : 1
-convivialité communale : 1
-société civile : 1
-municipalité : 1
-diversité culturelle : 1
-rencontres interculturelles : 1
-services aux aînés : 1
-sécurité publique : 1
-gestion des déchets : 1
-services à domicile : 1
-aîné.e.s : 1
-espace public numérique : 1
-urbanisme : 1
-grand âge : 1
-égalité professionnelle : 1
-emploi des seniors : 1
-femmes et hommes : 1
-sénioralité : 1
-contribution économique : 1
-contribution sociale : 1
-contribution environnementale : 1
-recherche : 1
-familles : 1
+développement durable : 3
+culture et loisirs : 3
+retraite : 3
+épidémiologie : 2
+autisme : 2
+pandémie de covid-19 : 2
+grand âge : 2
+inclusion : 2
+géographie : 2
+communication sociale : 2
+culture & loisirs : 2
+soins : 2
+logement : 2
+seniors : 2
+histoire locale : 2
+services publics : 2
+soins médicaux : 1
+technologie : 1
+aphasie : 1
+appel d’urgence : 1
+autismé : 1
+psychologie : 1
+psychosociologie : 1
+sciences juridiques : 1
+travail : 1
+financement : 1
+santé psychologique : 1
+soins ambulatoires : 1
 enfants : 1
-vulnérabilité : 1
-développement durable : 1
-recherche et innovation : 1
-aide sociale à l'hébergement : 1
-obligation alimentaire : 1
-récupération sur succession : 1
-assurance : 1
-mutuelles : 1
-contrats d'assurance : 1
-gestion des contrats : 1
-changements réglementaires : 1
-finances : 1
-politiques publiques : 1
-espaces publics : 1
-sécurité sociale : 1
-restructuration : 1
-égalité des chances : 1
-pandémies : 1
-population : 1
-vocabulaire : 1
-échanges intergénérationnels : 1
-soins palliatifs : 1
-cardiovasculaire : 1
-droits civiques : 1
-societe : 1
-âgisme : 1
-accueil des personnes âgées : 1
-sécurité routière : 1
-santé mentale et physique : 1
-théâtre : 1
-jeunesse : 1
-citoyenne & emploi : 1
-lien social & solidarité : 1
-accompagnement à la mobilité : 1
-vie locale : 1
-fabrique de la ville : 1
-musique : 1
-écriture : 1
-calligraphie : 1
-cognitif : 1
-bricolage : 1
-hébergement et réinsertion sociale : 1
-patrimoine historique : 1
-patrimoine artistique : 1
-bibliothèque : 1
-inégalités sociales : 1
-exclusion : 1
-jeux de société : 1
-transmission : 1
-économie locale : 1
-vieillissement de la population : 1
-fête : 1
-jeux : 1
-culturelle : 1
-pouvoir d’achat : 1
-succession : 1
-plaisirs de table : 1
-sécurité numérique : 1
-fraude : 1
-vie amoureuse : 1
-affectif : 1
-internet : 1
-services numériques : 1
-histoire locale : 1
-catégorie : 1
-commune : 1
-information des retraités : 1
-activités : 1
-services locaux : 1
-aide sociale : 1
-anti-gaspillage : 1
-estime de soi : 1
-génération : 1
-activités périscolaires et extra-scolaires : 1
-image du vieillissement : 1
-habitation : 1
-l'eau : 1
-mobilité des aînés : 1
-mobilisation citoyenne : 1
-& solidarité : 1
-& transports & mobilité : 1
-service civique : 1
-aménagement : 1
-orientation : 1
-enseignement supérieur : 1
-piétonniers : 1
-toilettes_publiques : 1
-enseignement : 1
-hébergement : 1
-solidarité intergénérationnelle : 1
-artisanat : 1
+maladie d'alzheimer : 1
+médecine sociale : 1
+emploi, parcours de soins et autonomie des jeunes adultes avec paralysie cérébrale: données européennes : 1
+politique publique : 1
+décentralisation : 1
+personnes âgées : 1
+aidant : 1
+développement économique : 1
+epidémiologie : 1
+statistiques : 1
+genre : 1
+classe sociale : 1
+participation sociale : 1
+neurologie : 1
+climatologie : 1
+démocratisation : 1
+plaintes : 1
+effets institutionnels : 1
+politiques publiques du handicap : 1
+relations entre associations, mouvements sociaux et pouvoirs publics : 1
+politique : 1
+traumatisme crânien : 1
+réhabilitation post-traumatique : 1
+fatigue post-traumatique : 1
+développement infantile : 1
+contexte culturel : 1
+favoriser le lien social : 1
+prévention des risques dépressifs : 1
+santé physique : 1
+engagement des habitants : 1
+société civile : 1
+vieillesse : 1
+contribution sociale : 1
+services & soins : 1
+liens sociaux et solidarité : 1
+favoriser les rencontres intergénérationnelles : 1
+culturel : 1
+gastro : 1
+renforcement des liens intergénérationnels : 1
+sortie : 1
+actions ou activités : 1
+accès à la culture et aux loisirs : 1
+vie sociale : 1
+prévention des chutes : 1
+social inclusion : 1
+espace extérieur : 1
+liens intergénérationnels : 1
+valorisation du patrimoine local : 1
+sociale : 1
+histoire : 1
+mémoire : 1
+prévention-santé : 1
 créativité : 1
-perte de mobilité : 1
-droits des femmes : 1
-société moderne : 1
-évolution sociale : 1
-mobilité locale : 1
-solidarité de proximité : 1
-soins aux aînés : 1
-gestion émotionnelle : 1
-anticipation : 1
-crise sanitaire : 1
-aide aux personnes isolées et vulnérables : 1
-épuisement : 1
-droits des citoyens : 1
-intergénérationnalité : 1
-cinéma : 1
-résidence autonomie : 1
-transports : 1
-soutien social : 1
-transition vers la retraite : 1
-politique volontariste : 1
-compétence habitat : 1
-gouvernance ouverte : 1
-vaa (ville amie des aînés) : 1
-dispositifs sociaux : 1
-services aux populations : 1
-informations : 1
-perte d'autonomie : 1
-adaptation du logement : 1
-services : 1
-espaces exterieurs & environnement : 1
-aide technique : 1
-jeux vidéo : 1
-valorisation des initiatives : 1
-collectivités : 1
-culturelles : 1
-sportives : 1
-soutien établissement dame la horgne : 1
+espaces extérieurs & environnement : 1
+formation : 1
+cohésion sociale : 1
+art urbain : 1
+aidants familiaux : 1
+aménagement urbain : 1
+accessibilité : 1
+loisirs : 1
+solidarité intergénérationnelle : 1
 culture locale : 1
-communication interne : 1
-autonomie, services & soins : 1
-droits des personnes malades : 1
-intégration sociale : 1
-pension de soins : 1
-participation citoyenne & emploi : 1
-information & communication : 1
-sens de l'entraide : 1
-longévité : 1
-agriculture : 1
-générationnel : 1
-malade : 1
+habitat social : 1
+services à la personne : 1
+lien intergénérationnel : 1
+autonomie, service et soins : 1
+sécurité routière : 1
+solidarité et lien social : 1
 retraites : 1
-design : 1
-droit : 1
+autonomie, services & soins : 1
+transports & mobilité : 1
+services aux personnes âgées : 1
+transport : 1
+accompagnement : 1
+aidants : 1
+activités physiques : 1
+sport : 1
+culture des résidents : 1
+marche urbaine et activités physique : 1
+qualité de vie : 1
+décisions participatives : 1
+retraites et aidants : 1
+art et culture : 1
+territoire et développement local : 1

@@ -1,22 +1,36 @@
 {
     "titre": "Pass’ sport santé seniors",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Promouvoir l'activité physique pour les seniors avec un Pass'Sport santé seniors offrant des activités physiques à moindre coût.",
-        "contexte": "Politique de santé publique et plan national Bien Vieillir, vieillissement de la population.",
-        "problematique": "Maladies physiques (chutes, fractures, contractures, claquages) et psychologiques (susceptibilité, angoisse).",
-        "solution_envisagee": "Pass'Sport santé seniors offrant des activités physiques à moindre coût.",
-        "objectifs": "Promouvoir l'activité physique pour les seniors, prévenir les maladies au niveau physique et psychologique."
+        "description_generale": "Cette initiative vise à promouvoir l'activité physique chez les personnes âgées, en proposant des activités adaptées au rythme de vie quotidien.",
+        "contexte": "Le projet est mené dans une commune et couvre un public d'âge moyen. Il s'inscrit dans le cadre du Plan National 'Bien Vieillir' et du Programme National Nutrition Santé, visant à prévenir les maladies au niveau physique et moral.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer des activités physiques adaptées aux seniors, notamment gymnastique douce, danse traditionnelle, danse de salon, haute-taille, yoga, tai chi, tennis, marche, aquagym, prévention des chutes...",
+        "objectifs": [
+            "Permettre aux personnes âgées d'adapter leur rythme de vie au quotidien.",
+            "Favoriser la pratique régulière d'une activité physique adaptée.",
+            "Contribuer à l'épanouissement physique et psychologique des seniors.",
+            "Favoriser le maintien de l'autonomie et du bien être des personnes âgées.",
+            "Rompre l'isolement en créant du lien social."
+        ]
     },
-    "porteur_initiative": "Villes Amiénois Des Aines",
-    "date": [],
+    "porteur_initiative": "Collectivité territoriale PASS’ SPORT SANTÉ SENIORS",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "santé publique",
-        "vieillissement"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pass_sport_sante_seniors.txt",

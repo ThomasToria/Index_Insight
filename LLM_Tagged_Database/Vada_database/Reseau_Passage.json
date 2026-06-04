@@ -1,0 +1,32 @@
+{
+    "titre": "Réseau Pass'âge",
+    "territoire": "Commune: Morteau (25)",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "La perte du conjoint est une étape pouvant fragiliser grandement la personne. La Ville de Morteau et son CCAS souhaitaient apporter une attention particulière à ce public.",
+        "contexte": "Les agents du CCAS ont la mission d'organiser deux visites à domicile auprès de toutes les personnes ayant perdu leur conjoint: une première visite dans le mois suivant le décès; une seconde visite dans les trois mois suivants afin de s'assurer que de nouveaux besoins ne sont pas apparus à la suite de ce changement et de cette épreuve. La mise à disposition du CCAS se fait par courrier puis relance par téléphone au besoin.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser deux visites à domicile auprès de toutes les personnes ayant perdu leur conjoint: une première visite dans le mois suivant le décès; une seconde visite dans les trois mois suivants afin de s'assurer que de nouveaux besoins ne sont pas apparus à la suite de ce changement et de cette épreuve. La mise à disposition du CCAS se fait par courrier puis relance par téléphone au besoin.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": "CCAS (Commune: Morteau)",
+    "date": [
+        "depuis 2017"
+    ],
+    "thematique": [
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "isolement"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Passage.txt",
+    "nom_fichier": "Reseau_Passage.txt"
+}

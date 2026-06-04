@@ -1,22 +1,31 @@
 {
-    "titre": "Création d'un conseil des sages",
-    "territoire": "",
+    "titre": "Création d'un Conseil des Sages",
+    "territoire": "Saint-Gilles, commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes)",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La création d'un conseil des sages pour prendre en compte l’avis des seniors dans la prise de décision communale.",
-        "contexte": "Saint-Gilles est une commune de 5 400 habitants avec un fort taux d'âgés (1 400 personnes sur 20% de la population). La commune comprend une maison Héléna et une EHPAD.",
-        "problematique": "La prise en compte des avis des seniors dans les projets communaux.",
-        "solution_envisagee": "Création d'un conseil des sages composé de 18 personnes représentatives de différents profils.",
-        "objectifs": "Mettre en place un processus de consultation et de recommandations basées sur l'avis des seniors dans la prise de décision communale."
+        "description_generale": "Saint-Gilles, commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes), a décidé de créer un Conseil des sages pour mieux prendre en compte l'avis des seniors et valoriser leur mémoire et place dans la vie locale.",
+        "contexte": "Saint-Gilles, commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes), a décidé de créer un Conseil des sages pour mieux prendre en compte l'avis des seniors et valoriser leur mémoire et place dans la vie locale.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un Conseil des sages composé dix-huit personnes de différents profils (habitant, professionnel, etc.) qui peuvent donner un avis sur les projets communaux et faire remonter des points de vigilance. Ils organisent également des actions au bénéfice des seniors.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Saint-Gilles, commune de 5 400 habitants avec un habitant sur quatre âgé de plus de 55 ans (1 400 personnes)",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_conseil_des_sages.txt",

@@ -1,25 +1,35 @@
 {
     "titre": "Passe-moi ton savoir!",
-    "territoire": "DIJON",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Créer un lieu de mixité sociale en proposant des activités liées aux animaux et à l'environnement, valorisant ainsi les seniors.",
-        "contexte": "Ville Amie des Aînés depuis 2012",
-        "problematique": "Défis d'intégration intergénérationnelle dans la commune de Dijon.",
-        "solution_envisagee": "Création d'une cabane pour activités en lien avec les animaux et l'environnement, valorisant ainsi les connaissances des seniors.",
-        "objectifs": "Favoriser le lien social intergénérationnel, valoriser les seniors à travers leurs expériences et savoirs-faire."
+        "description_generale": "Créer un lieu de mixité sociale. Proposer des activités en lien avec les animaux et l'environnement. Valoriser les seniors à travers leurs connaissances et leur expérience. Favoriser le lien social, notamment intergénérationnel.",
+        "contexte": "La Ville Amie des Aînés depuis 2012",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un lieu d'accueil adapté à tous proposant un accès au lieu de vie de nombreux animaux (poules, lapins cochons d'Inde, tourterelles...). Six mois de travaux ainsi que l'aide d'une cinquantaine de bénévoles ont été nécessaires à la réalisation de cet endroit atypique comprenant des espaces chauﬀés et climatisés accessibles à tous. De nombreuses activités intergénérationnelles, ludiques et éducatives y ont lieu.",
+        "objectifs": [
+            "Créer un lieu de mixité sociale",
+            "Proposer des activités en lien avec les animaux et l'environnement",
+            "Valoriser les seniors à travers leurs connaissances et leur expérience",
+            "Favoriser le lien social, notamment intergénérationnel"
+        ]
     },
-    "porteur_initiative": "Ville de Dijon",
+    "porteur_initiative": "Ani’nomade",
     "date": [
-        "2019-07-11"
+        "depuis 2015"
     ],
     "thematique": [
-        "mixité sociale",
-        "environnement",
-        "seniors"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Passe-moi_ton_savoir.txt",

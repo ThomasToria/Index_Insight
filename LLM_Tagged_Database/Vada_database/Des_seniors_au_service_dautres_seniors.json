@@ -1,24 +1,29 @@
 {
     "titre": "Des seniors au service d'autres seniors",
-    "territoire": "Dijon (21)",
+    "territoire": "communale",
     "echelle": [
         "quartier"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Lutter contre l'isolement des seniors en les accompagnant dans les activités et animations de la DRPA du CCAS. Être ambassadeur au sein des quartiers.",
-        "contexte": "Villes amies des aînés depuis 06-2009",
-        "problematique": "Lutter contre l'isolement des seniors",
-        "solution_envisagee": "Recruter et affecter des bénévoles pour accompagner les manifestations et remonter les besoins du public.",
-        "objectifs": "Accompagner les seniors dans leurs activités, faire remonter les besoins du public, être ambassadeur au sein des quartiers"
+        "description_generale": "Lutter contre l’isolement. Accompagner les seniors dans les activités et animations de la DRPA du CCAS.",
+        "contexte": "Le besoin d'engager des seniors pour renforcer le lien social et valoriser leur expérience.",
+        "problematique": "Renforcement des liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Accompagner les seniors dans les activités de la DRPA du CCAS pour renforcer le lien social et valoriser leur expérience.",
+        "objectifs": [
+            "Lutter contre l’isolement",
+            "Accompagner les seniors dans les animations de la DRPA du CCAS"
+        ]
     },
-    "porteur_initiative": "Le CCAS de la ville de Dijon (membre de l'Union Nationale des CCAS)",
+    "porteur_initiative": "CCAS de Dijon, membre de l'Union Nationale des CCAS",
     "date": [
-        "02/06/2015"
+        "2015"
     ],
     "thematique": [
-        "Santé et bien-être",
-        "Social"
+        "intergénérationnel",
+        "lien social",
+        "mobilité"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_au_service_dautres_seniors.txt",

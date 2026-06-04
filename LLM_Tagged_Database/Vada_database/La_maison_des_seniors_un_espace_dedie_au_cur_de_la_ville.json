@@ -1,25 +1,30 @@
 {
     "titre": "La maison des seniors, un espace dédié au cœur de la ville",
-    "territoire": "",
+    "territoire": "Commune de Dijon",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une maison des seniors ouverte à tous dans le cadre du diagnostic préparatoire à l'entrée de Dijon dans la démarche Villes Amies des Aînés.",
-        "contexte": "Un état des lieux a été réalisé pour dégager des propositions, dont la création d'une maison des seniors. Une étude a été réalisée afin de constituer le dossier de réalisation du projet. Le conseil municipal a voté la création de cette maison des seniors.",
-        "problematique": "La nécessité d'un espace dédié aux seniors dans la ville",
-        "solution_envisagee": "La création et l'implantation d'une Maison des seniors",
-        "objectifs": "Accueillir physiquement et/ou par téléphone les seniors qui ont besoin de soutien, d'information ou de services."
+        "description_generale": "Une maison des seniors ouverte à tous dans le cadre du diagnostic préparatoire à l’entrée de Dijon dans la démarche Villes Amies des Aînés.",
+        "contexte": "Le besoin d'une structure dédiée aux seniors et leur famille pour faciliter les informations sur le vieillissement et les services proposés.",
+        "problematique": "Centraliser et transmettre l’information. Accueillir, orienter et accompagner les seniors et la population autour de la maison des seniors.",
+        "solution_envisagee": "Une structure dédiée aux seniors et leur famille pour faciliter les informations sur le vieillissement et les services proposés.",
+        "objectifs": [
+            "Centraliser et transmettre l’information",
+            "Accueillir, orienter et accompagner les seniors et la population autour de la maison des seniors"
+        ]
     },
-    "porteur_initiative": "Le conseil municipal",
+    "porteur_initiative": "CCAS (Conseil Communautaire d'Action Sociale)",
     "date": [
-        "2013",
-        "vérification"
+        "2013"
     ],
     "thematique": [
-        "santé publique",
-        "services aux personnes âgées"
+        "vieillissement",
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_maison_des_seniors_un_espace_dedie_au_cur_de_la_ville.txt",

@@ -1,25 +1,33 @@
 {
     "titre": "Entraide nantaise",
-    "territoire": "",
-    "echelle": [
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "quartier",
+        "régionale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Initiatives solidaires des Nantaises et Nantais durant la crise du Covid-19, visant à aider les plus isolés et vulnérables.",
-        "contexte": "Début de la crise sanitaire liée au Covid-19 en France",
-        "problematique": "Isolation et vulnérabilité des personnes durant le confinement",
-        "solution_envisagee": "Coordination des initiatives citoyennes pour optimiser l'aide aux plus nécessiteux",
-        "objectifs": ""
+        "description_generale": "Initiatives solidaires des Nantaises et Nantais durant la crise du Covid-19. Coordonner les initiatives citoyennes pour optimiser l'aide.",
+        "contexte": "La mise en place d'un réseau d'entraide citoyenne à travers plusieurs étapes, dont l'enregistrement des demandes d'aide croissantes et la mise en place de points de distribution alimentaire et de points “Pins” pour faciliter l'accès aux dispositifs existants.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des points de distribution alimentaire, des distributions à domicile, des points “Pins” (Point Info Nantes solidaire) pour faciliter l'accès aux dispositifs existants.",
+        "objectifs": [
+            "Enregistrer des demandes d'aide au début de la crise Covid-19",
+            "Organiser une cellule ‘Entraide’ par la ville",
+            "Organiser des points de distribution alimentaire, des distributions à domicile, des points ‘Pins’, Point Info Nantes Solidaire pour optimiser l'accompagnement individuel.",
+            "Réfléchir à la pérennisation."
+        ]
     },
-    "porteur_initiative": "La Ville de Nantes",
+    "porteur_initiative": "Ville de Nantes",
     "date": [
-        "2020-03-19"
+        "depuis 2019"
     ],
     "thematique": [
-        "solidarité",
-        "crise sanitaire",
-        "aide aux personnes isolées et vulnérables"
+        "intergénérationnel",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Entraide_nantaise.txt",

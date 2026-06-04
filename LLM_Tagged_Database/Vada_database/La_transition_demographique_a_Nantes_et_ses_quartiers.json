@@ -1,23 +1,34 @@
 {
     "titre": "La transition démographique a Nantes et ses quartiers",
-    "territoire": "",
+    "territoire": "Commune: Nantes, Métropole de Nantes",
     "echelle": [
-        "quartier",
-        "communale"
+        "communale",
+        "régionale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "L'importance de la prise de conscience de la réalité de la transition démographique dans les politiques publiques a été relevée lors de l'animation transversale des phases du diagnostic et du plan d'action. La Ville de Nantes a conçu deux supports pour mobiliser l'ensemble des acteurs autour des huit axes de la démarche Villes Amies des Aînés.",
-        "contexte": "",
-        "problematique": "La prise de conscience de la réalité de la transition démographique dans les politiques publiques",
-        "solution_envisagee": "Conception de deux supports (un cahier et une vidéo) pour mobiliser l'ensemble des acteurs autour des huit axes de la démarche Villes Amies des Aînés.",
-        "objectifs": ""
+        "description_generale": "La transition démographique a un impact significatif sur les politiques publiques et les quartiers de Nantes.",
+        "contexte": "Les données statistiques sur la pauvreté et les revenus des locataires ont été fournies par Nantes Métropole Habitat.",
+        "problematique": "Le besoin de mobiliser l'ensemble des acteurs pour aborder le sujet de la transition démographique dans les quartiers de Nantes.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Présenter les grands enjeux démographiques de la longévité à Nantes entre 2014 et 2032",
+            "Développer des axes stratégiques transversaux pour une meilleure visibilité et mobilisation des acteurs locaux"
+        ]
     },
-    "porteur_initiative": "La Ville de Nantes",
-    "date": [],
+    "porteur_initiative": "",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "transition démographique",
-        "longévité"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_transition_demographique_a_Nantes_et_ses_quartiers.txt",

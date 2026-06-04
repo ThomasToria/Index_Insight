@@ -1,22 +1,28 @@
 {
     "titre": "Petits travaux et petits services",
-    "territoire": "",
+    "territoire": "Maxévillois de plus de 60 ans ou en situation de handicap",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes en perte d'autonomie âgées ou handicapées",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un service de petits travaux et de petits services à domicile pour favoriser un maintien entre la personne en perte d’autonomie et son environnement, rompre l'isolement et la solitude.",
-        "contexte": "",
-        "problematique": "L'isolement et la solitude chez des personnes âgées ou handicapées",
-        "solution_envisagee": "Un service de petits travaux et de petits services à domicile pour répondre aux petites réparations nécessaires et souvent urgentes.",
-        "objectifs": ""
+        "description_generale": "Ce projet, qui a débuté le 1er janvier 2019 et concerne les Maxévillois de plus de 60 ans ou en situation de handicap, a été rendu possible grâce à une succession d’étapes clairement déterminées.",
+        "contexte": "La problématique est liée aux relations entre générations et aux besoins sociaux des personnes âgées, notamment dans le domaine de l'aménagement spécial et des services. Les petites réparations nécessaires et souvent urgentes ne sont pas pris en charge par les professionnels spécialisés.",
+        "problematique": "Le besoin de favoriser un maintien entre la personne en perte d'autonomie et son environnement, de sorte à rompre l'isolement et la solitude qui pourraient s’installer chez des personnes âgées ou handicapées. Les petites réparations nécessaires et souvent urgentes ne sont pas pris en charge par les professionnels spécialisés.",
+        "solution_envisagee": "Un service de petits travaux et de petits services à domicile, favorisant un accès aux interventions simples comme changer une ampoule, poser un luminaire, changer un joint ou déboucher un évier. Le projet a pour finalité la possibilité d'intervenir auprès d'un public ciblé en leur favorisant un accès à ce type de services et de détecter les situations complexes.",
+        "objectifs": [
+            "favoriser un maintien entre la personne en perte d'autonomie et son environnement",
+            "rompre l'isolement et la solitude qui pourraient s’installer chez des personnes âgées ou handicapées"
+        ]
     },
-    "porteur_initiative": "VADA",
-    "date": [],
+    "porteur_initiative": "La Ville de Maxéville",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Petits_travaux_et_petits_services.txt",

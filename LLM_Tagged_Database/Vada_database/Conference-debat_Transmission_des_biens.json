@@ -1,22 +1,32 @@
 {
-    "titre": "Conférence-débat Transmission des biens",
+    "titre": "Conférence-Débat Transmission des Biens",
     "territoire": "",
     "echelle": [
         "communale"
     ],
-    "public_vise": "SENIORS DE 60 ANS ET PLUS",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le projet vise à prévenir les conflits et informer les héritiers sur la transmission du patrimoine, en tenant compte des règles juridiques évoluant.",
-        "contexte": "Dans un contexte particulièrement difficile où les règles juridiques évoluent, la question du patrimoine est un enjeu primordial. Trop souvent, les successions entraînent des tensions familiales.",
-        "problematique": "Les successions entraînent des tensions familiales.",
-        "solution_envisagee": "Organiser une Conférence-Débat pour mieux informer et préparer les seniors aux règles de transmission des biens.",
-        "objectifs": "Prévenir les conflits, informer les héritiers et anticiper la transmission du patrimoine."
+        "description_generale": "Cette initiative vise à informer les seniors sur les règles de transmission des biens, en particulier dans un contexte où la législation est complexe.",
+        "contexte": "Les règles juridiques évoluent et la question du patrimoine est primordiale. Les conflits familiaux sont fréquents lors des successions.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Informer et sensibiliser le public sur les enjeux liés à la succession",
+            "Fournir des outils pratiques et conseils pour mieux appréhender ce moment délicat de la vie"
+        ]
     },
-    "porteur_initiative": "CCAS",
-    "date": [],
+    "porteur_initiative": "CCAS (Commune)",
+    "date": [
+        "2025"
+    ],
     "thematique": [
-        "patrimoine",
-        "succession"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conference-debat_Transmission_des_biens.txt",

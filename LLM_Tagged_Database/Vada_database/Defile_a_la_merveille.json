@@ -1,22 +1,41 @@
 {
     "titre": "Défilé à la merveille",
-    "territoire": "",
-    "echelle": [
-        "communale"
+    "territoire": [
+        "communale",
+        "intercommunale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "départementale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Depuis 2016, la ville travaille avec l'association FUTUR COLLECTIVE autour des défilés de mode éco-responsable intergénérationnels.",
-        "contexte": "Partant des retours positifs du défilé 'J'irai fleurir vos rêves' en 2021, et suite à une demande importante des habitants de refaire ce type de projet intergénérationnel en tant que mannequins ou bénévoles.",
-        "problematique": "",
-        "solution_envisagee": "L'association a décidé collectivement de relancer une nouvelle aventure humaine et sociétale sur le territoire du département de la Manche, avec un accent particulier sur l'intergénérationnel.",
-        "objectifs": ""
+        "description_generale": "Un défilé intergénérationnel autour du Mont Saint-Michel.",
+        "contexte": "La ville de la Manche a travaillé avec l'association FUTUR COLLECTIVE sur des défilés de mode éco-responsable intergénérationnels depuis 2016. Le projet a été relancé en 2023 pour une nouvelle aventure humaine et sociétale.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile autour de valeurs communes, notamment dans le domaine du lien social.",
+        "solution_envisagee": "Organiser un défilé intergénérationnel sur le Mont Saint-Michel pour valoriser une participation communautaire et créer un lien social durable entre différentes générations.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'association FUTUR COLLECTIVE",
+            "Valoriser la participation des seniors dans le projet intergénérationnel",
+            "Créer du lien social entre toutes les générations autour d'un projet commun et faire en sorte que ce lien reste pérenne",
+            "Mettre en lumière un spectacle 100% responsable",
+            "Lutter contre l'âgisme",
+            "Proposer un défilé intergénérationnel dans le département"
+        ]
     },
     "porteur_initiative": "Association FUTUR COLLECTIVE",
-    "date": [],
+    "date": [
+        "depuis 2016",
+        "fin janvier 2025"
+    ],
     "thematique": [
-        "société",
-        "culture"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_a_la_merveille.txt",

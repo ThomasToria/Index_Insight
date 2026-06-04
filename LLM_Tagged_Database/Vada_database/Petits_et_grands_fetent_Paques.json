@@ -1,24 +1,29 @@
 {
     "titre": "Petits et grands fêtent Pâques",
-    "territoire": "",
+    "territoire": "Commune: La Plaine-sur-Mer (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les seniors et les enfants de la commune",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "La commune de Plaine-sur-Mer a mis en place un atelier bricolage pour célébrer Pâques, visant à réunir les seniors et les enfants.",
-        "contexte": "",
-        "problematique": "Répondre à la demande des seniors : se retrouver pendant les fêtes",
-        "solution_envisagee": "Organisation d'ateliers bricolages spécifiques aux fêtes de Pâques pour les seniors et les enfants.",
-        "objectifs": ""
+        "description_generale": "La commune de La Plaine-sur-Mer a organisé un atelier bricolage pour les seniors pendant la Pâques.",
+        "contexte": "Les seniors ont exprimé leur satisfaction du travail en équipe, dans une ambiance joyeuse, qui a permis à certains d'entre eux de se sentir valorisés et engagés.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des ateliers similaires à ceux qui avaient été mis en place pour les fêtes de Noël, afin de renouveler ce type d'ateliers lors des rencontres Pause Café.",
+        "objectifs": [
+            "Animer la commune",
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
+        ]
     },
-    "porteur_initiative": "La commune de Plaine-sur-Mer",
+    "porteur_initiative": "La Plaine-sur-Mer (44)",
     "date": [
-        ""
+        "2025"
     ],
     "thematique": [
         "LIEN SOCIAL ET SOLIDARITÉ",
-        "SOCIETE ET CULTURE"
+        "CULTURE & LOISIRS",
+        "ESPACES EXTÉRIEURS & ENVIRONNEMENT"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Petits_et_grands_fetent_Paques.txt",

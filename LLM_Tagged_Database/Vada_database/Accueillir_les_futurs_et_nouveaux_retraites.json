@@ -1,19 +1,33 @@
 {
     "titre": "Accueillir les futurs et nouveaux retraités",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "UNE ACTION QUI RÉPOND AUX BESOINS DES RETRAITÉS, ENGAGÉE PAR LES RETRAI - TÉS.",
-        "contexte": "---  ---",
-        "problematique": "DES PERSONNES CONCERNÉES PAR LA RETRAITE NE LA PRÉPARAIENT PAS SUFFISAMMENT.",
-        "solution_envisagee": "QU’IL SOIT UTILE QUE SES PAIRS À LA RETRAITE DEPUIS PLUSIEURS ANNées LES AIDENT À SE POSER LES BONNES QUESTIONS POUR VIVRE AU MEILLEUR CEST NUEVE Étape.",
-        "objectifs": ""
+        "description_generale": "Cette action répond aux besoins des retraités, engagée par les seniors.",
+        "contexte": "Suite à une conférence sur la réinvention de la vieillesse, des participants ont exprimé le besoin d'aider leurs pairs à préparer leur nouvelle étape de vie.",
+        "problematique": "Les retraités ne se préparent pas suffisamment pour vivre au mieux cette nouvelle phase de leur vie.",
+        "solution_envisagee": "Organiser des séances d'accueil et d'échanges entre les seniors, animées par un groupe de travail et une responsable de la structure. Les participants partagent leurs expériences et conseils sur divers sujets tels que le temps, la vie de couple, relations avec les enfants, petits-enfants, parents âgés, liens de vie, engagement associatif.",
+        "objectifs": [
+            "Promouvoir l'engagement des seniors dans la préparation des retraités",
+            "Transmettre aux futurs et nouveaux retraités des expériences vécues par les seniors pour leur aider à mieux se préparer à cette nouvelle étape de vie."
+        ]
     },
-    "porteur_initiative": "DES PARTICIPANTS À UNE CONFÉRENCE INTITULÉE « SI NOUS RÉINVENTIONS LA VIEILLESSE DE DEMAIN »",
-    "date": [],
+    "porteur_initiative": "Groupe de travail constitué d'anciens seniors, responsable de la structure",
+    "date": [
+        "depuis 2013"
+    ],
     "thematique": [
-        "SOCIETE"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accueillir_les_futurs_et_nouveaux_retraites.txt",

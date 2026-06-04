@@ -1,25 +1,30 @@
 {
-    "titre": "À Besançon: \"Transportez-vous\"",
-    "territoire": "",
+    "titre": "À Besançon: « Transportez-vous »",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "La ville de Besançon a créé une marche intergénérationnelle intitulée « Y’a pas d’âge pour marcher » qui s’est renouvelée chaque année depuis 2011, le 29 avril dans le cadre de la journée européenne des solidarités et des coopérations entre les générations.",
-        "contexte": "",
-        "problematique": "La participation intergénérationnelle à des activités physiques peut être un moyen d'encourager l'inclusion sociale et la compréhension mutuelle.",
-        "solution_envisagee": "Organisation de marches intergénérations pour encourager la participation et la compréhension entre différentes générations.",
-        "objectifs": ""
+        "description_generale": "Une initiative de la Ville de Besançon visant à renforcer les liens entre générations, notamment en organisant des sorties pour les personnes âgées.",
+        "contexte": "La création d'une marche intergénérationnelle intitulée « Y’a pas d’âge pour marcher » a été suivie de l'initiative « Transportez-vous! », qui vise à proposer des accompagnements individuels aux personnes âgées.",
+        "problematique": "Renforcer les liens entre générations, notamment en organisant des sorties pour les personnes âgées.",
+        "solution_envisagee": "Organisation de sorties intergénérationnelles et accompagnement personnalisé par des bénévoles utilisant différents moyens de transport selon les besoins des aînés fragiles.",
+        "objectifs": [
+            "Renforcer les liens entre générations",
+            "Proposer des accompagnements individuels aux personnes âgées",
+            "Favoriser la mobilité et la participation citoyenne des personnes âgées"
+        ]
     },
-    "porteur_initiative": "La Ville de Besançon",
+    "porteur_initiative": "La Ville de Besançon, en collaboration avec divers acteurs locaux tels que les associations, le conseillère en mobilité du Grand Besançon, La Roue de Secours, et la société de voitures en partage.",
     "date": [
-        "29 avril"
+        "depuis 2014"
     ],
     "thematique": [
-        "solidarité",
-        "inclusion sociale",
-        "activité physique"
+        "mobilité",
+        "participation citoyenne",
+        "santé"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Besancon_Transportez-vous.txt",

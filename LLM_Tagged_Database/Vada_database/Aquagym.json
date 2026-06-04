@@ -1,0 +1,36 @@
+{
+    "titre": "Aquagym",
+    "territoire": [
+        "communale"
+    ],
+    "echelle": [
+        "intercommunale",
+        "départementale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Cette initiative vise à proposer une activité aquagym aux seniors de Quetigny, en particulier ceux ayant des problèmes de mobilité.",
+        "contexte": "Les seniors de la commune souhaitent renforcer leur lien social et vivre ensemble. Ils ont également le souci de lutter contre la sédentarité.",
+        "problematique": "Le besoin de pratiquer une activité sportive douce, adaptée à diverses pathologies/difficultés de mobilité, en particulier pour les seniors ayant des problèmes de mobilité et d'autonomie.",
+        "solution_envisagee": "L’initiative Aquagym vise à proposer une activité aquagym aux seniors de Quetigny, en particulier ceux ayant des problèmes de mobilité. Cette initiative répond au besoin de renforcer le lien social et la participation citoyenne.",
+        "objectifs": [
+            "Permettre aux seniors sédentaires de reprendre une activité sportive en douceur",
+            "Favoriser les mouvements favorisés dans l'eau, réduire le poids du corps et améliorer l’effet sur la peur d’eau",
+            "Créer un lien social et vivre ensemble"
+        ]
+    },
+    "porteur_initiative": "Service Cohésion Sociale de la Ville de Quetigny (missions entre autres activités seniors)",
+    "date": [
+        "2025"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aquagym.txt",
+    "nom_fichier": "Aquagym.txt"
+}

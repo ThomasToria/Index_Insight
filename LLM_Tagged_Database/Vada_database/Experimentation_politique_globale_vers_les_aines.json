@@ -1,23 +1,35 @@
 {
     "titre": "Expérimentation politique globale vers les aînés",
-    "territoire": "",
+    "territoire": "Yvelines, France",
     "echelle": [
-        "intercommunale",
-        "départementale"
+        "communale"
     ],
-    "public_vise": "les aînés",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le département des Yvelines, en collaboration avec d'autres acteurs, s'est engagé dans une démarche expérimentale pour établir un état des lieux de l'attractivité des territoires pour les seniors.",
-        "contexte": "",
-        "problematique": "Définition de politiques locales plus adaptées aux besoins des aînés",
-        "solution_envisagee": "Établissement d'un état des lieux et définition de politiques locales plus adaptées",
-        "objectifs": "Définir des politiques locales plus adaptées aux besoins des aînés"
+        "description_generale": "Cette initiative vise à élaborer une politique globale pour les aînés dans le département des Yvelines, en collaboration avec six communes, la Caisse Nationale d'Assurance Vieillesse et le Réseau Francophone Villes Amies des Ainés.",
+        "contexte": "Le département des Yvelines souhaitait s'appuyer sur une expérimentation pour mettre en œuvre la démarche VADA (Ville Durable, Attractivité, Adaptabilité) et construire une politique globale vers les aînés à l'échelle départementale.",
+        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une politique globale pour les aînés qui mettra en œuvre des services, informations et équipements accessibles sur le territoire, ainsi que des actions intergénérationnelles pour valoriser l'attractivité du territoire.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD",
+            "Valoriser la mémoire et la place des aînés dans la vie locale",
+            "Favoriser l’accessibilité aux services et équipements sur le territoire"
+        ]
     },
-    "porteur_initiative": "Le département des Yvelines, la Caisse Nationale d'Assurance Vieillesse (CNAV) et le Réseau Francophone Villes Amies des Ainés (RFVAA)",
-    "date": [],
+    "porteur_initiative": "Direction départementale des Yvelines, Direction de l'autonomie, chargés de missions, Direction des données prospectives, Direction de la communication.",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
-        "politique publique",
-        "seniors"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Experimentation_politique_globale_vers_les_aines.txt",

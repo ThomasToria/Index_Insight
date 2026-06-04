@@ -4,19 +4,28 @@
     "echelle": [
         "communale"
     ],
-    "public_vise": "résidents de l'EHPAD et étudiants du Lycée des métiers Rosa Parks",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Chaque année depuis 2013, une animatrice socio-culturelle organise un séjour d'une semaine avec résidents et étudiants.",
-        "contexte": "L'animatrice interviendra au lycée pour présenter ses missions, son établissement, le public et la démarche qualité.",
-        "problematique": "Développer un lien intergénérationnel pérenne entre adolescents et personnes âgées",
-        "solution_envisagee": "Organiser un séjour de vacances avec résidents et étudiants pour créer une dynamique nouvelle.",
-        "objectifs": "Impulser une nouvelle dynamique, développer un lien intergénérationnel pérenne"
+        "description_generale": "Cette initiative vise à rapprocher deux générations qui vivent dans des mondes séparés, favoriser le « bien vivre ensemble » et permettre aux résidents de l'EHPAD d'acquérir une expérience de vie en société.",
+        "contexte": "",
+        "problematique": "Le besoin de rapprocher deux générations qui vivent dans des mondes séparés, favoriser le « bien vivre ensemble » et permettre aux résidents de l'EHPAD d'acquérir une expérience de vie en société.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Rapprocher deux générations qui vivent dans des mondes séparés",
+            "Favoriser le « bien vivre ensemble »",
+            "Permettre aux résidents de l'EHPAD d'acquérir une expérience de vie en société"
+        ]
     },
-    "porteur_initiative": "L'animatrice socio-culturelle de l'EHPAD de Trébrivan",
-    "date": [],
+    "porteur_initiative": "",
+    "date": [
+        "depuis 2013"
+    ],
     "thematique": [
-        "santé et bien-être",
-        "enseignement"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_vacances_pour_eux_un_sejour_pour_nous_Argol_nous_voila.txt",

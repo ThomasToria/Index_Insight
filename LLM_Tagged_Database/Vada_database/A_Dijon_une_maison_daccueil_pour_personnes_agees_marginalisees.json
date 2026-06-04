@@ -1,22 +1,30 @@
 {
-    "titre": "A Dijon, une maison d'accueil pour personnes âgées marginalisées",
-    "territoire": "",
+    "titre": "Une Maison d'Accueil pour Personnes Âgées Marginalisées à Dijon",
+    "territoire": "Commune: Dijon, Côte d’Or",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une structure de hébergement et de réinsertion sociale créée en réponse aux besoins des personnes âgées marginalisées.",
-        "contexte": "Le vieillissement des personnes accueillies dans les CHRS (Centres d'Hébergement et de Réinsertion Sociale) a été constaté, ainsi que les difficultés pour intégrer ces personnes dans les établissements classiques.",
-        "problematique": "La difficulté pour les personnes âgées marginalisées d'être intégrées dans des structures d'hébergement traditionnelles.",
-        "solution_envisagee": "La création d'une maison d'accueil spécifique pour ces personnes.",
-        "objectifs": "Accueillir et réinsertionner efficacement les personnes âgées marginalisées."
+        "description_generale": "Cette initiative vise à créer une maison d'accueil pour personnes âgées marginalisées dans la commune de Dijon, Côte d'Or.",
+        "contexte": "La SDAT (Société Dijonnaise de l’ Assistance par le Travail) a constaté un vieillissement des personnes accueillies et les difficultés rencontrées pour les intégrer dans les établissements classiques d'hébergement.",
+        "problematique": "La création d'une structure adaptée aux personnes âgées marginalisées, issues du secteur de la grande exclusion ou mal logées, qui peuvent bénéficier d'un accès à des droits et une qualité de vie dans les conditions les plus agréables possibles.",
+        "solution_envisagee": "Proposer un EHPA (Etablissement pour l’Hébergement des Personnes Âgées) avec des chambres individuelles, services personnalisés et collectifs, accompagnement médico-social adapté à l'avancée en âge, et participation aux ateliers intergénérationnels.",
+        "objectifs": [
+            "Proposer un logement pour les personnes âgées marginalisées dans les conditions les plus agréables possibles",
+            "Garantir le parcours de soins: se soigner, prendre soin de soi, manger à heures fixes, vivre avec les autres, trouver un équilibre.",
+            "Maintenir l'autonomie avec un étayage adapté à l'avancée en âge."
+        ]
     },
-    "porteur_initiative": "L'association avec l'accord du Conseil Départemental de la Côte d'Or",
-    "date": [],
+    "porteur_initiative": "Association locale",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "Santé publique",
-        "Hébergement et réinsertion sociale"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_une_maison_daccueil_pour_personnes_agees_marginalisees.txt",

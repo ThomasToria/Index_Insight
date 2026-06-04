@@ -1,0 +1,27 @@
+{
+  "titre": "Le portail seniors: des services et informations locales pour nos seniors à portée de clic",
+  "territoire": "Dunkerque",
+  "echelle": ["communale"],
+  "public_vise": "les personnes de 60 ans et plus résidant sur le territoire de Dunkerque",
+  "nature_initiative": "publication",
+  "description_generale": "Le portail seniors est une plateforme numérique accessible aux Dunkerquois de 60 ans et plus. Elle centralise les informations utiles, facilite l'inscription aux activités et animations proposées par la Mission Seniors, et permet le choix des Bonus Seniors (colis, repas dansant, passeports seniors...) en fin d’année.",
+  "contexte": "Le besoin d’un ‘portail seniors’ a été identifié dans le cadre de la démarche “Ville Amie des Aînés”, menée par la Ville de Dunkerque. Les informations et services existants pour les seniors étaient éparpillés et difficiles à trouver, avec une demande croissante d'inscriptions aux colis de noël via mail.",
+  "problematique": "Faciliter l'accès à l’information pour les seniors, leurs familles et les aidants, faciliter l’inscription et/ou le paiement des seniors aux activités proposées par la Mission Seniors, valoriser les actions de la Ville et ses partenaires dans le cadre de la démarche ‘Ville Amie des Aînés’, renforcer le lien social et encourager la participation des seniors à la vie locale.",
+  "solution_envisagee": "Centraliser l’ensemble des informations et services portés par la Mission Seniors et destinés aux seniors sur un site unique, faciliter l’accès à l'information tout en préservant des canaux physiques, téléphoniques et papier via le magazine Les Enfants de Jean Bart pour les seniors moins à l’aise avec le numérique.",
+  "objectifs": [
+    "Centraliser l’ensemble des informations et services portés par la Mission Seniors et destinés aux seniors sur un site unique",
+    "Faciliter l’accès à l'information tout en préservant des canaux physiques, téléphoniques et papier via le magazine Les Enfants de Jean Bart pour les seniors moins à l’aise avec le numérique"
+  ],
+  "porteur_initiative": "La Mission Seniors",
+  "date": ["2025"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention",
+    "intergénérationnel"
+  ],
+  "source_site": "VADA"
+}

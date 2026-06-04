@@ -1,22 +1,31 @@
 {
     "titre": "Mémoire d’un confiné",
-    "territoire": "",
+    "territoire": "Commune de Boulogne-sur-Mer, 62",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Créer et/ou recréer du lien social, valoriser les savoirs expérientiels des aînés, transmettre la mémoire et favoriser la transmission intergénérationnelle, offrir un exutoire aux personnes âgées pour libérer les émotions, libérer la parole.",
-        "contexte": "",
-        "problematique": "La période du COVID-19 a été particulièrement difficile pour les personnes âgées, nécessitant une attention particulière et des moyens de soutien.",
-        "solution_envisagee": "Une collecte de témoignages pour écrire un chapitre de l'histoire",
-        "objectifs": ""
+        "description_generale": "Le projet a été initié suite à la crise sanitaire due au coronavirus (COVID-19) en 2020.",
+        "contexte": "La collecte de témoignages des seniors a permis d’identifier les impacts psychologiques et physiques dus à l’épidémie.",
+        "problematique": "Les seniors ont été impactés psychologiquement et physiquement par la crise sanitaire, notamment en raison du confinement.",
+        "solution_envisagee": "Organiser une exposition de témoignages pour valoriser les savoirs expérimentiels des aînés et favoriser l’intergénérationnalité.",
+        "objectifs": [
+            "Coordonner et organiser une réunion en partenariat avec les Archives Municipales afin de planifier et organiser les rencontres",
+            "Communiquer autour du projet, organisant les rencontres",
+            "Exposer les photos et un diaporama retraçant les témoignages pour permettre des rencontres intergénérationnelles",
+            "Evaluer le projet avec un bilan de fin d’action et perspectives de développement du partenariat avec le service des Archives Municipales"
+        ]
     },
-    "porteur_initiative": "CCAS de Boulogne-Sur-Mer",
-    "date": [],
+    "porteur_initiative": "Service des Archives Municipales de la Ville de Boulogne-sur-Mer, Centre Communal d'Action Sociale",
+    "date": [
+        "2020"
+    ],
     "thematique": [
-        "santé publique",
-        "vieillissement"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoire_dun_confine.txt",

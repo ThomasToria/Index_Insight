@@ -1,22 +1,29 @@
 {
     "titre": "Des sorties estivales pour les aînés Lyonnais",
-    "territoire": "",
+    "territoire": "Commune de Lyon, Rhône-Alpes",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "Les retraités lyonnais",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sortie culturelle",
     "description": {
-        "description_generale": "L'organisation de deux types de sorties à la journée : intra-muros (sorties estivales) et extra-muros (voyages). Les sorties sont gratuites ou avec participation financière selon les revenus des participants.",
-        "contexte": "",
-        "problematique": "La problématique n'est pas explicitement mentionnée dans le texte fourni.",
-        "solution_envisagee": "L'organisation de sorties estivales et voyages pour les retraités lyonnais",
-        "objectifs": "Objectifs non spécifiés dans le texte fourni."
+        "description_generale": "Organisation d'activités à la journée pour les aînés lyonnais, incluant des sorties culturelles et gastronomiques.",
+        "contexte": "Le CCAS de Lyon organise régulièrement des sorties à la journée pour les retraités lyonnais, en complément d'autres actions comme les séjours d'une semaine à l'extérieur. Ces sorties sont organisées avec les mairies des arrondissements et bénéficient d'un budget alloué.",
+        "problematique": "Le besoin de maintenir le lien social entre les personnes âgées, leur famille et la société civile, tout en valorisant leur mémoire et leur contribution à la vie locale.",
+        "solution_envisagee": "Organiser des sorties culturelles et gastronomiques pour les aînés lyonnais, avec un focus sur le thème de la ville (Lyon) et l'isolement social.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Le CCAS de la Ville de Lyon, via son Service Gérontologie",
-    "date": [],
+    "porteur_initiative": "CCAS de Lyon",
+    "date": [
+        "2014"
+    ],
     "thematique": [
-        "Santé et bien-être",
-        "Social"
+        "culturel",
+        "gastro",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sorties_estivales_pour_les_aines_Lyonnais.txt",

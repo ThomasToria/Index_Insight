@@ -1,20 +1,34 @@
 {
     "titre": "Parcours d'incitation à la marche",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "territoire": "Communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "",
-        "contexte": "Le constat d'un territoire rural en baisse démographique, d'une population vieillissante dont 50% des plus de 65 ans vivent seuls, d'un habitat dispersé, de maisons non adaptées et un taux de vacance élevé a entraîné la mise en place du projet. L'action est donc née de cette volonté de répondre à ces constats grâce à un seul programme.",
-        "problematique": "",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Le projet a permis de développer une réflexion sur l’urbanisme des zones aux conditions climatiques particulières (zones inondables) et d’étudier la possibilité de construire un écoquartier communautaire, tout en réduisant le nombre de logements vacants.",
+        "contexte": "Le territoire rural a connu une baisse démographique, avec une population vieillissante dont 50% des plus de 65 ans vivent seuls. Les conditions climatiques sont particulières (zones inondables), ce qui nécessite un urbanisme durable.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Créer des lieux d'accueil pour aider les personnes âgées momentanément dépendantes et/ou les aidants en phase de répit. Soutenir l’accès à la propriété, l'amélioration des logements, l'information quant à la propriété.",
+        "objectifs": [
+            "Développer une réflexion sur l’urbanisme des zones aux conditions climatiques particulières (zones inondables)",
+            "Sensibiliser les élus à un urbanisme durable",
+            "Étudier la possibilité de construire un écoquartier communautaire",
+            "Réduire le nombre de logements vacants en soutenant la réalisation d'unités de vie temporaires et adaptées"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Municipalité de Ports-sur-Vienne",
+    "date": [
+        "2019",
+        "2025"
+    ],
     "thematique": [
-        "Mobilité",
-        "Santé"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_dincitation_a_la_marche.txt",

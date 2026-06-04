@@ -4,19 +4,27 @@
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors reconnus en situation de handicap, retraités, étudiants (CROUS)",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un établissement non médicalisé accueillant des seniors et étudiants dans des logements individuels avec possibilité d’utiliser les services de maintien à domicile.",
+        "description_generale": "La résidence autonomie Jean Jaurès est un établissement non médicalisé qui accueille des seniors reconnus en situation de handicap (dès l’âge de 57 ans), des retraités (dès l’âge de 60 ans) ainsi que des étudiants (CROUS).",
         "contexte": "",
-        "problematique": "Accompagner la retraite et le vieillissement en proposant un cadre de vie agréable, tout en respectant l'autonomie des résidents.",
-        "solution_envisagee": "La mise en place d'un cadre de vie agréable avec logements individuels, services de maintien à domicile, activités collectives pour les personnes âgées.",
-        "objectifs": "Accueillir et accompagner efficacement une diversité de publics (seniors reconnus en situation de handicap, retraités, étudiants) dans un cadre de vie agréable, respectant leur autonomie."
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'établissement",
+            "Valoriser la mémoire des seniors et leur place dans la vie locale"
+        ]
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "vieillissement",
-        "autonomie"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_autonomie_Jean_Jaures.txt",

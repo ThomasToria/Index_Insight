@@ -1,26 +1,32 @@
 {
     "titre": "Mobilités nantaises",
-    "territoire": "",
+    "territoire": "Commune: Nantes (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le projet de la ville de Nantes vise à favoriser les mobilités des seniors pour améliorer le lien social et la santé mentale.",
-        "contexte": "La marche est un facteur de bonne santé. Favoriser les mobilités des seniors peut aider à lutter contre l'isolement.",
-        "problematique": "Les mobilités des seniors peuvent être limitées par des obstacles physiques ou psychologiques.",
-        "solution_envisagee": "Le projet vise à améliorer la mobilité des seniors en proposant des aides psychologiques et en adaptant l'espace public.",
-        "objectifs": "Amélioration de la santé mentale, renforcement du lien social, réduction de l'isolement."
+        "description_generale": "Cette action a été pensée pour les seniors Nantais, dont leurs besoins ont été réquisitionnés grâce à des interviews ou encore à des balades.",
+        "contexte": "Les seniors Nantais ont exprimé leur besoin de mobilité et d'interaction sociale. Des actions ont été menées pour améliorer la qualité de vie des seniors, notamment en facilitant les contacts entre eux et les membres de la société civile.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des balades urbaines ont été organisées pour permettre aux seniors d'explorer le quartier à pieds. Des entretiens individuels avec des personnes âgées ont également permis de mieux comprendre leurs besoins spécifiques.",
+        "objectifs": [
+            "Améliorer la mobilité des seniors",
+            "Renforcer les liens sociaux entre les résidents et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La ville de Nantes",
+    "porteur_initiative": "Ville de Nantes",
     "date": [
-        "2017"
+        "2017",
+        "2025"
     ],
     "thematique": [
-        "mobilité",
-        "santé mentale",
+        "santé",
         "lien social",
-        "isolement"
+        "intergénérationnel",
+        "mobilité"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mobilites_nantaises.txt",

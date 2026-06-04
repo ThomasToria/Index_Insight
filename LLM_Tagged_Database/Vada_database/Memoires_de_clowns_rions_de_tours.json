@@ -1,25 +1,31 @@
 {
     "titre": "Mémoire(s) de clowns, rions de tours",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "La Cie les Oiseaux de Passage a joué un spectacle déambulatoire d'improvisations clownesques à l'attention des résidents d'un EHPAD.",
-        "contexte": "Organisé dans le cadre de la semaine sur l'art organisée à l'EHPAD du CCAS, en l'occurrence une institution de santé pour personnes âgées (EHPAD) qui accueille des résidents",
-        "problematique": "La perte d'estime, de confiance en soi et de joie de vivre de nombreux résidents",
-        "solution_envisagee": "Le spectacle clownesque a été conçu pour atténuer ces sentiments négatifs.",
-        "objectifs": ""
+        "description_generale": "Une initiative artistique et théâtrale visant à renforcer les liens entre résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "contexte": "La crise sanitaire a accentué le sentiment de solitude et d'isolement chez les résidents des établissements, notamment ceux âgés. Les actions artistiques ont été mises en place pour améliorer l'estime de soi et renforcer la confiance dans leur santé.",
+        "problematique": "La perte d’estime, de confiance en soi et de joie de vivre chez les résidents des établissements, notamment ceux âgés, qui a été renforcée par la crise sanitaire. Ces difficultés ont eu un impact significatif sur leur santé globale.",
+        "solution_envisagee": "Un projet artistique en forme de spectacle déambulatoire d'improvisations clownesques, axé sur une dimension thérapeutique et axé sur des rencontres régulières entre les résidents, leurs proches et la société civile. Des actions intergénérationnelles ont été mises en place pour renforcer le lien social.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale",
+            "Améliorer l'estime de soi et la confiance chez les résidents",
+            "Promouvoir le bien-être et le lien social"
+        ]
     },
-    "porteur_initiative": "La Cie les Oiseaux de Passage",
+    "porteur_initiative": "Les Oiseaux de Passage",
     "date": [
-        "2023"
+        "depuis 2019"
     ],
     "thematique": [
         "santé",
-        "art",
-        "jeux"
+        "lien social",
+        "prévention-santé"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoires_de_clowns_rions_de_tours.txt",

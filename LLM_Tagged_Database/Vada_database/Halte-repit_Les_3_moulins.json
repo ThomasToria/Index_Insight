@@ -1,22 +1,29 @@
 {
     "titre": "Halte-répit 'Les 3 moulins'",
-    "territoire": "Saint-Sébastien-sur-Loire",
+    "territoire": "Saint-Sébastien-Sur-Loire (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un lieu d'accueil pour les personnes en perte d'autonomie, basé sur une analyse des besoins sociaux réalisée en 2015.",
-        "contexte": "Une augmentation du nombre de seniors et des maladies neurodégénératives sur le territoire de la ville. Une enquête auprès de cabinets médicaux a révélé un besoin d'un lieu d'accueil pour les personnes en situation de perte d'autonomie.",
-        "problematique": "Les personnes âgées et celles qui sont aidantes ont besoin de temps pour elles-mêmes, mais cela devient de plus en plus difficile.",
-        "solution_envisagee": "La création d'un lieu d'accueil pour les personnes en perte d'autonomie.",
-        "objectifs": ""
+        "description_generale": "Le projet est parti d'un constat par l'analyse des besoins sociaux réalisée en 2015, qui a fait apparaître une augmentation du nombre de seniors ainsi que des maladies neurodégénératives sur le territoire de la ville. De plus, une enquête a été réalisée auprès de cabinets médicaux et tous ont recensé un besoin d'un lieu d'accueil pour les personnes en situation de perte d'autonomie.",
+        "contexte": "Une augmentation du nombre de seniors et des maladies neurodégénératives sur le territoire de la ville a conduit à l'ouverture d'une halte-répit. Les trois anciennes aides à domicile proposent des activités diverses pour les personnes atteintes de maladies neurodégénératives, y compris jeux de mémoire, jardinage, cuisine, chants, sorties extérieures.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La structure de la Halte-Répit accompagne une dizaine de personnes âgées de plus de 65 ans, et par conséquent, accompagne les aidants familiaux. Pendant le temps d'accueil, ceux-ci prennent du temps pour eux, se ressourcent et se sentent écoutés.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La ville de Saint-Sébastien-sur-Loire",
-    "date": [],
+    "porteur_initiative": "CCAS",
+    "date": [
+        "2015",
+        "fin janvier 2025"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Halte-repit_Les_3_moulins.txt",

@@ -1,25 +1,31 @@
 {
     "titre": "Conciergerie",
-    "territoire": "",
+    "territoire": "Commune de l'Amiénois",
     "echelle": [
-        "commune"
+        "communale"
     ],
-    "public_vise": "32 000 personnes vivant en dessous du seuil de pauvreté ou 20% au-dessus",
+    "public_vise": "public non connu",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Création d'une conciergerie sociale et solidaire par le CCAS d'Amiens pour redonner du pouvoir d’achat à la population.",
-        "contexte": "",
-        "problematique": "La pauvreté et l'accès aux services essentiels",
-        "solution_envisagee": "Création d'une conciergerie sociale et solidaire offrant des solutions gratuites ou à coûts très modiques pour 64 services dans 10 domaines d'activité.",
-        "objectifs": "Atteindre 300 bénévoles"
+        "description_generale": "La conciergerie sociale et solidaire d'Amiens a été créée dans le cadre du Plan pour le Pouvoir d’Achat des A miénois. Elle offre 64 services dans 10 domaines d’activité, y compris mobilité, accès aux droits, alimentation, lien social, vestimentaire, parentalité, habitat, numérique et santé hygiène soins.",
+        "contexte": "Le projet répond à la demande de nombreux professionnels du travail social qui se trouvaient sans solution. Le choix des services a été fait avec le public sollicité sur ses besoins.",
+        "problematique": "Redonner du pouvoir d’achat aux habitants en dessous du seuil de pauvreté et dans les zones à faible revenu, notamment pour les seniors qui ont besoin de soutien social et familial.",
+        "solution_envisagee": "La conciergerie sociale et solidaire d'Amiens propose des services gratuits ou à coût modique, y compris une outilthèque pour le bricolage et la parentothèque pour le matériel de puériculture. Elle compte actuellement plus de 600 adhérents, 2 500 services rendus et près de 100 bénévoles, dont beaucoup de seniors.",
+        "objectifs": [
+            "Atteindre 300 bénévoles",
+            "Atteindre 10 000 services rendus d'ici 3 ans"
+        ]
     },
-    "porteur_initiative": "CCAS d'Amiens",
-    "date": [],
+    "porteur_initiative": "CCAS d’Amiens",
+    "date": [
+        "depuis 2025"
+    ],
     "thematique": [
         "santé",
-        "éducation",
-        "emploi",
-        "logement",
-        "pouvoir d’achat"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conciergerie.txt",

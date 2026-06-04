@@ -1,0 +1,30 @@
+{
+    "titre": "Eureka, la mémoire en mouvement",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
+    "description": {
+        "description_generale": "Un atelier organisé par les seniors de la commune pour stimuler leur mémoire.",
+        "contexte": "Les seniors expriment souvent une perte de mémoire, ce qui peut conduire à un sentiment d'isolement. Le CCAS propose des ateliers autour de la mémoire afin de prévenir cette perte et améliorer la qualité de vie des personnes âgées.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un atelier organisé par les seniors de la commune pour stimuler leur mémoire.",
+        "objectifs": [
+            "Prévenir la perte d'autonomie",
+            "Favoriser le maintien à domicile"
+        ]
+    },
+    "porteur_initiative": "CCAS (Commune)",
+    "date": [
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Eureka_la_memoire_en_mouvement.txt",
+    "nom_fichier": "Eureka_la_memoire_en_mouvement.txt"
+}

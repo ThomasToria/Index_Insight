@@ -1,22 +1,36 @@
 {
     "titre": "Conférence citoyenne des seniors parisiens",
-    "territoire": "",
-    "echelle": [
+    "territoire": [
         "communale"
     ],
-    "public_vise": "les seniors parisiens",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Associer les seniors parisiens à la définition des politiques publiques qui les concernent et recueillir leurs avis et propositions dans le cadre de débats et rencontres.",
-        "contexte": "",
-        "problematique": "L'absence de consultation citoyenne directe des seniors pour définir les politiques publiques",
-        "solution_envisagee": "La mise en place d'une conférence citoyenne expérimentale pour associer les seniors à la définition des politiques publiques",
-        "objectifs": "Associer les seniors parisiens à la définition des politiques publiques, recueillir leurs avis et propositions dans le cadre de débats et rencontres."
+        "description_generale": "Associer les seniors parisiens à la définition des politiques publiques qui les concernent. Recueillir leurs avis et propositions dans le cadre de débats et rencontres.",
+        "contexte": "Le besoin d'engager les seniors dans les processus décisionnels pour améliorer leur qualité de vie et favoriser un vieillissement actif.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organisation d'une conférence citoyenne des seniors parisiens",
+        "objectifs": [
+            "Associer les seniors à la définition des politiques publiques qui les concernent",
+            "Recueillir leurs avis et propositions dans le cadre de débats et rencontres"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Paris (75)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "santé publique",
-        "social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conference_citoyenne_des_seniors_parisiens.txt",

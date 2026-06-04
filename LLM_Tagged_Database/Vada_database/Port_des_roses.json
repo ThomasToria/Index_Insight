@@ -1,25 +1,32 @@
 {
-    "titre": "Port des Roses",
-    "territoire": "",
+    "titre": "Port des roses",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Une marche intergénérationnelle mise en œuvre dans le cadre d'Octobre Rose, initiée par le Conseil des Sages de la commune de Port-Jérôme-sur-Seine avec le soutien de la municipalité.",
-        "contexte": "Cette manifestation a été organisée pour la première fois en 2022 et s'est tenue dans le cadre d'Octobre Rose, une démarche qui n'avait pas encore eu lieu auparavant dans la commune.",
+        "description_generale": "Une marche intergénérationnelle organisée dans le cadre d'Octobre Rose, visant à sensibiliser aux maladies du sein.",
+        "contexte": "La première édition de la Marche des Roses a eu lieu en octobre 2022 et n'avait pas eu lieu auparavant. Cette initiative vise à sensibiliser les personnes âgées et autres publics concernés aux maladies du sein, notamment le cancer du sein.",
         "problematique": "La lutte contre le cancer du sein",
-        "solution_envisagee": "Une marche intergénérationnelle pour sensibiliser et mobiliser les habitants autour de cette cause communale.",
-        "objectifs": ""
+        "solution_envisagee": "Organisation d'une marche intergénérationnelle pour sensibiliser à la prévention des maladies du sein et récolter des dons pour associations de prévention.",
+        "objectifs": [
+            "Mobiliser une population autour d'une cause commune",
+            "Faire participer les personnes âgées et autres publics concernés aux maladies du sein",
+            "Faciliter l'accès et les échanges avec les acteurs de santé, de prévention et de bien-être"
+        ]
     },
-    "porteur_initiative": "Le Conseil des Sages de la commune de Port-Jérôme-sur-Seine avec le soutien de la municipalité",
+    "porteur_initiative": "Conseil des Sages de la commune de Port-Jérôme-sur-Seine",
     "date": [
-        "2022-10-30"
+        "2023"
     ],
     "thematique": [
-        "solidarité",
         "santé",
-        "sport"
+        "prévention",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Port_des_roses.txt",

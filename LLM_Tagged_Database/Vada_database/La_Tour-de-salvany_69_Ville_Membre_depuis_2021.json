@@ -1,22 +1,25 @@
 {
-    "titre": "La Tour-de-salvany (69) Ville Membre depuis 2021",
-    "territoire": "",
+    "titre": "La Tour-de-Salvany (69) : Ville Membre depuis 2021",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "",
         "contexte": "",
-        "problematique": "",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de la Ville Membre et leurs proches, tout en valorisant leur mémoire et leur place dans la vie locale.",
         "solution_envisagee": "",
         "objectifs": ""
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "depuis 2021"
+    ],
     "thematique": [
-        "Mobilité",
-        "Sens de l'entraide"
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Tour-de-salvany_69_Ville_Membre_depuis_2021.txt",

@@ -1,23 +1,33 @@
 {
     "titre": "Café philosophique intergénérationnel",
-    "territoire": "",
+    "territoire": "Commune de Clamart, 92",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "aînés et jeunes",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Un projet de café philo visant à promouvoir le partage intergénérationnel entre aînés et jeunes.",
-        "contexte": "Étude du territoire dans le cadre de la démarche Villes Amies des Aînés, soulignant l'envie d'avoir plus de partage intergénérationnel chez les aînés.",
-        "problematique": "L'absence de lieux de rencontre intergénérationnels pour favoriser le partage et la transmission entre générations.",
-        "solution_envisagee": "Organisation d'un café philo intergénérationnel",
-        "objectifs": "Promouvoir un partage intergénérationnel, favoriser une meilleure compréhension de la société actuelle par les jeunes, transmettre aux plus jeunes l'expérience des aînés."
+        "description_generale": "Un projet d'initiative visant à créer un espace de partage intergénérationnel autour des philosophies, destiné aux aînés et aux jeunes.",
+        "contexte": "Les 'cafés philo' existent déjà dans la ville depuis plusieurs années, mais il estime que les interactions entre générations sont insuffisantes. Les aînés souhaitent une meilleure compréhension de la société actuelle par leurs enfants et petits-enfants.",
+        "problematique": "Renforcer le lien social intergénérationnel et valoriser l'expérience des seniors dans la vie locale, en particulier auprès des jeunes générations.",
+        "solution_envisagee": "Organisation d'un café philosophique intergénérationnel avec des intervenants philosophe-praticien pour échanger sur des sujets existentiels.",
+        "objectifs": [
+            "Renforcer le lien social entre les aînés et les jeunes générations",
+            "Valoriser l'expérience des seniors dans la vie locale",
+            "Créer un espace de partage intergénérationnel autour des philosophies"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS de Clamart, Ville Amie des Aînés depuis 2022",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "société",
-        "transmission",
-        "intergénérationnel"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafe_philosophique_intergenerationnel.txt",

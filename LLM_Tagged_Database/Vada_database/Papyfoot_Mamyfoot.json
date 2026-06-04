@@ -1,22 +1,30 @@
 {
-    "titre": "Papyfoot/ Mamyfoot",
-    "territoire": "",
+    "titre": "Papyfoot/Mamyfoot",
+    "territoire": "Commune de Grenoble (38)",
     "echelle": [
-        "commune"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Le projet 'Papyfoot/Mamyfoot' est basé sur l'organisation d'un tournoi de baby-foot intergénérationnel, où s'affrontent des binômes constitués d'une personne âgée de plus de 55 ans et d'un jeune âgé de 10 à 15 ans. L'objectif est de profiter de la Coupe du monde féminine de football pour organiser un projet qui favorise les rencontres intergénérationnelles, tout en portant un regard décalé sur la pratique sportive.",
-        "contexte": "",
-        "problematique": "La problématique est l'isolement et le manque d'échanges entre générations dans le cadre de pratiques sportives.",
-        "solution_envisagee": "Solution envisagée : Organiser un tournoi de baby-foot intergénérationnel pour favoriser les rencontres et échanger sur la pratique sportive.",
-        "objectifs": ""
+        "description_generale": "Le projet « Papyfoot/Mamyfoot » repose sur l’organisation d’un tournoi de baby-foot intergénérationnel, où s’affrontent plusieurs binômes constitués d’une personne âgée de plus de 55 ans et d’un jeune âgé de 10 à 15 ans. L’objectif est de profiter de la coupe du monde féminine de football pour organiser un projet qui favorise les rencontres intergénérationnelles, tout en portant un regard décalé sur la pratique sportive.",
+        "contexte": "Dans le cadre de l’accueil de la coupe du monde féminine de football, la Ville de Grenoble a souhaité proposer différents temps forts réunis autour du slogan «Vivez la coupe du monde de foot autrement!». Parmi ces différentes actions, on retrouve le projet «Papyfoot/Mamyfoot».",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser un tournoi de baby-foot intergénérationnel autour du slogan «Vivez la coupe du monde de foot autrement!»",
+        "objectifs": [
+            "Faciliter la pratique d’une activité physique autour d’un projet portant un regard ludique et décalé sur le sport.",
+            "Permettre à différentes générations de se fédérer autour d’un projet commun.",
+            "Valoriser la pratique d’une activité physique et sportive à tout âge, et plus particulièrement le sport féminin."
+        ]
     },
-    "porteur_initiative": "Ville de Grenoble",
-    "date": [],
+    "porteur_initiative": "Direction de la Communication et de l’Évènementiel, pilotes de la démarche «Ville Amie des Aînés», Direction de l’Action Territoriale, Direction de l’Environnement et du Cadre de Vie, Cabinet du Maire",
+    "date": [
+        "depuis 2016"
+    ],
     "thematique": [
-        "sport",
-        "intergénérationnel"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Papyfoot_Mamyfoot.txt",

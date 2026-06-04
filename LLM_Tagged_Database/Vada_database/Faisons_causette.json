@@ -1,20 +1,31 @@
 {
     "titre": "Faisons causette",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "territoire": "communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "L'action 'Faisons causette' s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
-        "contexte": "L'action est initialement lancée en janvier 2021. Elle s'inscrit dans le cadre du deuxième confinement (Covid).",
-        "problematique": "Il a été identifié un besoin d’interaction sociale chez les seniors, qui demandaient des rappels de semaine en semaine pour maintenir un contact.",
-        "solution_envisagee": "L'action vise à répondre à ce besoin par l'organisation d'appels téléphoniques réguliers et visites à domicile.",
-        "objectifs": ""
+        "contexte": "Durant le deuxième confinement (Covid), il a été ressenti que beaucoup de seniors n’avaient pas de besoins 'pratiques', mais ils demandaient simplement d'être rappelés de semaine en semaine, juste pour avoir un contact, un coup de fil.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Faire des visites de convivialité et/ou appels téléphoniques pour rompre ponctuellement le isolement des seniors.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "EHPAD La Résidence de l’Ille",
     "date": [
-        "janvier 2021"
+        "depuis 2019"
     ],
-    "thematique": [],
+    "thematique": [
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "isolement"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Faisons_causette.txt",
     "nom_fichier": "Faisons_causette.txt"

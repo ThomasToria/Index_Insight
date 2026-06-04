@@ -1,0 +1,33 @@
+{
+    "titre": "Mon logement prend soin de moi",
+    "territoire": "communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
+    "description": {
+        "description_generale": "Une initiative intergénérationnelle visant à sensibiliser les jeunes séniors aux bénéfices d'un habitat adapté, augmenter la capacité des personnes âgées à vivre en autonomie plus longtemps et diminuer les risques de chute, d'incendie, d'allergie et d'intoxication liés à un habitat dégradé ou inadapté.",
+        "contexte": "En France, près de 400 000 chutes de personnes âgées par an sont causées par des accidents domestiques. Ces incidents se produisent souvent chez les résidents et sont dus à une évolution des besoins du sénior et un logement qui ne répond plus aux exigences de la personne âgée.",
+        "problematique": "Les seniors ont besoin d'adaptations dans leur habitat pour maintenir leur autonomie et se sentir en sécurité. Les chutes, les incendies, les allergies et les intoxications sont des risques potentiellement mortels qui peuvent être évités avec une habitation adaptée.",
+        "solution_envisagee": "L'initiative visant à sensibiliser les jeunes séniors aux bénéfices d'un habitat adapté, augmenter la capacité des personnes âgées à vivre en autonomie plus longtemps et diminuer les risques de chute, d'incendie, d'allergie et d'intoxication liés à un habitat dégradé ou inadapté.",
+        "objectifs": [
+            "Travailler en ingénierie de projet collaboratif avec les partenaires du projet, recherche de partenaires, règlements, création d'un site internet",
+            "Lancer le concours: animation territoriale"
+        ]
+    },
+    "porteur_initiative": "Association SOLIHA Auvergne-Rhône-Alpes",
+    "date": [
+        "2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mon_logement_prend_soin_de_moi.txt",
+    "nom_fichier": "Mon_logement_prend_soin_de_moi.txt"
+}

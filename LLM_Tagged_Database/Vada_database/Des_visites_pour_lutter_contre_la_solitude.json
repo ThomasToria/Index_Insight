@@ -1,24 +1,28 @@
 {
     "titre": "Des visites pour lutter contre la solitude",
-    "territoire": "Dijon (21)",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Lutter contre la solitude et l’isolement. Favoriser le lien intergénérationnel. Contribuer à préserver l’autonomie et le maintien à domicile.",
-        "contexte": "Catégories:\nCommune:",
-        "problematique": "Des visites pour lutter contre la solitude",
-        "solution_envisagee": "Créer une association en lien avec l’Agence du Service Civique. Recruter des jeunes volontaires et les former aux spécificités du grand âge. S’entourer de partenaires. Communiquer auprès des aînés. Mettre en relation volontaires et seniors. Assurer le suivi et l’évaluation des actions.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à identifier les besoins spécifiques des personnes âgées dans leur quartier communautaire.",
+        "contexte": "La solitude et l'isolement sont de graves problèmes pour la population âgée, notamment en milieu communal. Des actions locales visant à améliorer le lien social entre les seniors et les jeunes générations sont nécessaires.",
+        "problematique": "Les personnes âgées vivent souvent dans un environnement qui leur est familier mais isolé, ce qui peut causer une forte sensation de solitude et d'isolement. Les jeunes générations ont besoin de rencontrer des seniors pour échanger sur divers sujets et partager les mêmes passions.",
+        "solution_envisagee": "Créer une initiative locale visant à organiser des visites hebdomadaires entre jeunes volontaires et personnes âgées, afin d'améliorer le lien social et préserver l'autonomie de ces seniors. Les actions seront menées en collaboration avec l'Agence du Service Civique.",
+        "objectifs": [
+            "Lutter contre la solitude et l’isolement",
+            "Favoriser le lien intergénérationnel"
+        ]
     },
-    "porteur_initiative": "BINOME 21",
+    "porteur_initiative": "Association Dijon (21)",
     "date": [
-        "29/05/2015"
+        "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "social"
+        "intergénérationnel",
+        "santé"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_visites_pour_lutter_contre_la_solitude.txt",

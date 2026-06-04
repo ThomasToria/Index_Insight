@@ -1,22 +1,31 @@
 {
-    "titre": "Bistrot mémoire",
-    "territoire": "",
+    "titre": "Bistrot Mémoire",
+    "territoire": "Rennes, Métropole de Rennes",
     "echelle": [
-        "communale"
+        "communale",
+        "intercommunale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Une société plus inclusive en faveur des personnes souffrant de troubles de la mémoire, le Bistrot Mémoire rennais souhaite développer des initiatives locales inspirées par les Dementia Friendly Communities.",
-        "contexte": "Le projet vise à diffuser une action auprès d'autres villes et collectivités pour promouvoir un environnement plus inclusif pour ces personnes.",
-        "problematique": "Développer un environnement social et culturel qui soutienne les personnes souffrant de troubles cognitifs et leurs proches.",
-        "solution_envisagee": "Développement d'initiatives locales inspirées par des Dementia Friendly Communities, comme le Bistrot Mémoire, plateforme de répit, visites de musée, etc.",
-        "objectifs": ""
+        "description_generale": "Initiative visant à développer des initiatives locales en faveur de la société inclusive pour les personnes souffrant de troubles cognitifs.",
+        "contexte": "La ville de Rennes et la métropole mettent l'accent sur une démarche d'accueil facilité pour les personnes vivant avec des troubles de la mémoire, menée par le Bistrot Mémoire.",
+        "problematique": "Difficultés cognitives, maladie Alzheimer, Parkinson, maladies associées à des troubles cognitifs",
+        "solution_envisagee": "Initiative locale en faveur de la société inclusive pour les personnes souffrant de troubles cognitifs",
+        "objectifs": [
+            "Sensibiliser les acteurs de la ville et de la métropole aux besoins spécifiques des personnes vivant avec des troubles de la mémoire.",
+            "Fédérer autour du projet d'initiative citoyenne visant à créer un environnement accueillant pour ces personnes."
+        ]
     },
-    "porteur_initiative": "Bistrot Mémoire (association soutenant les personnes touchées par des troubles cognitifs et leurs proches)",
-    "date": [],
+    "porteur_initiative": "Bistrot Mémoire",
+    "date": [
+        "2017-06-22",
+        "2017-06-23"
+    ],
     "thematique": [
-        "inclusion sociale",
-        "santé mentale"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bistrot_memoire.txt",

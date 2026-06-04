@@ -1,22 +1,31 @@
 {
-    "titre": "30 ans de l’ehpad 'la résidence de l’ille'",
-    "territoire": "",
+    "titre": "30 ans de l’EHPAD « La Résidence de l’Ille »",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "Organiser et proposer des activités et ateliers intergénérationnels sur une journée. Ouvrir la structure aux personnes extérieures (familles, partenaires, voisins, scolaires,...). Réaliser à cette occasion un livret 'souvenirs' en recueillant la parole et les souvenirs de vie.",
-        "contexte": "",
-        "problematique": "Favoriser les échanges intergénérationnels autour d'un moment convivial. Favoriser l'expression des résidents, stimuler leur mémoire, et valoriser les résidents. Découvrir l'établissement d'une manière positive.",
-        "solution_envisagee": "Organisation de journées avec activités et ateliers intergénérationnels, ouverture à la société civile, réalisation d'un livret 'souvenirs'.",
-        "objectifs": "Favoriser les échanges intergénérationnels. Favoriser l'expression des résidents. Valoriser le travail du personnel au quotidien."
+        "description_generale": "Organisation d'une journée spéciale autour des 30 ans de l'EHPAD 'La Résidence de l'Ille', visant à favoriser les échanges intergénérationnels, valoriser la mémoire et le travail du personnel.",
+        "contexte": "L'établissement a souhaité organiser une journée spéciale pour célébrer ses 30 ans en amont d'une intervention de bénévoles et des activités intergénérationnelles.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser une journée spéciale autour d'activités et d'ateliers intergénérationnels avec l'appui de bénévoles, réaliser un livret 'souvenirs' en recueillant les témoignages des résidents, et organiser des échanges entre les résidents et les enfants de l'accueil de loisirs.",
+        "objectifs": [
+            "Favoriser les échanges intergénérationnels autour d'un moment convivial",
+            "Favoriser l'expression des résidents, stimuler leur mémoire, et les valoriser",
+            "Découvrir l'établissement d'une manière conviviale et positive",
+            "Valoriser le travail du personnel au quotidien"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "VillesAMIEs (35)",
+    "date": [
+        "19/05/2017"
+    ],
     "thematique": [
-        "vieillesse",
-        "échanges intergénérationnels"
+        "intergénérationnel",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\30_ans_de_lehpad_la_residence_de_lille.txt",

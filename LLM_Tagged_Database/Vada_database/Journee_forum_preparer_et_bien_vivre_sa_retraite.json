@@ -1,22 +1,32 @@
 {
     "titre": "Journée forum préparer et bien vivre sa retraite",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "Futurs et nouveaux retraités",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une journée d'informations organisée par la Maison des Seniors, permettant aux personnes concernées de s'informer sur les aspects liés à leur passage à la retraite.",
-        "contexte": "",
-        "problematique": "La préparation et l'information sur le passage à la retraite",
-        "solution_envisagee": "Une journée d'informations organisée par la Maison des Seniors",
-        "objectifs": "Permettre aux personnes concernées de s'informer sur les aspects liés à leur passage à la retraite"
+        "description_generale": "Organisation d'une journée pour préparer et bien vivre sa retraite, comprenant des conférences, stands et animations.",
+        "contexte": "Initiatives précédentes sur la préparation de la retraite réussies ont permis de renforcer les liens entre les résidents, leurs proches et la société civile.",
+        "problematique": "Renforcement des liens entre les personnes concernées par la retraite, valorisation de leur mémoire et place dans la vie locale.",
+        "solution_envisagee": "Organisation d'une journée annuelle sur une seule journée et un seul lieu pour préparer et bien vivre sa retraite.",
+        "objectifs": [
+            "Renforcer les liens entre les personnes concernées par la retraite",
+            "Valoriser leur mémoire et place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Groupe d'accueil des futurs et nouveaux retraités 'Et si nous réinventions la vieillesse de demain' de la Maison des Seniors",
-    "date": [],
+    "porteur_initiative": "Maison des Seniors",
+    "date": [
+        "juin 2022"
+    ],
     "thematique": [
-        "Santé",
-        "Économie"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_forum_preparer_et_bien_vivre_sa_retraite.txt",

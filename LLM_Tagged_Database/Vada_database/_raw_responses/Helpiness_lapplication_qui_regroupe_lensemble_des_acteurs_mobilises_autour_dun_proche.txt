@@ -1,0 +1,28 @@
+{
+  "titre": "Helpiness",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "outil numérique",
+  "description_generale": "Une application pour simplifier la vie des personnes fragiles, regroupant les acteurs mobilisés autour d'un proche.",
+  "contexte": "Situations de stress, difficultés d'organisation des aidants, perte d'autonomie et isolement géographique des familles.",
+  "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "L'application permet le partage de documents et d'informations en toute sécurité. Elle facilite le contact avec les aidants pour relayer les messages auprès des seniors qu'ils accompagnent, ce qui accroît la visibilité des messages importants: alertes sanitaires ou autres.",
+  "objectifs": [
+    "Simplifier la vie des personnes fragiles",
+    "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "Ville de Toulouse",
+  "date": ["2015", "juillet à septembre 2015"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention",
+    "intergénérationnel"
+  ],
+  "source_site": "VADA"
+}

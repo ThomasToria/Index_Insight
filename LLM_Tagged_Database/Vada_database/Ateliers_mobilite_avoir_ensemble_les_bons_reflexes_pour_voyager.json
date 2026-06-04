@@ -1,25 +1,30 @@
 {
     "titre": "Ateliers mobilité: avoir ensemble les bons réflexes pour voyager",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "quartier"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Depuis mars 2016, la Ville d’Angers met en place plusieurs ateliers d'information, de formation et de sensibilisation à l'utilisation des transports en commun à destination des usagers, professionnels et accompagnants. Cette action répond à un besoin majeur des seniors fragilisés dans le cadre de la lutte contre l'isolement.",
-        "contexte": "",
-        "problematique": "L’isolement des seniors fragilisés",
-        "solution_envisagee": "Ateliers d'information, de formation et de sensibilisation à l'utilisation des transports en commun",
-        "objectifs": "Accompagner les usagers, professionnels et accompagnants dans l'utilisation des transports en commun pour réduire l’isolement des seniors fragilisés."
+        "description_generale": "Cette action vise à sensibiliser les seniors fragilisés aux bons réflexes de mobilité pour des voyages.",
+        "contexte": "Les seniors fragilisés ont besoin d’informations et de formations sur la mobilité pour se déplacer facilement et sécurément.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Ateliers d'information sur la mobilité pour seniors fragilisés",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Direction Santé Publique",
     "date": [
-        "mars 2016"
+        "depuis mars 2016"
     ],
     "thematique": [
-        "Mobilité",
-        "Accompagnement à la mobilité",
-        "Lutte contre l'isolement"
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_mobilite_avoir_ensemble_les_bons_reflexes_pour_voyager.txt",

@@ -1,22 +1,32 @@
 {
-    "titre": "Cepage: Coordination d’équipe interdisciplinaire pour un plan d’aide gérontologique",
-    "territoire": "",
+    "titre": "Cepage: Coordination d'équipe interdisciplinaire pour un plan d'aide gérontologique",
+    "territoire": "Commune de Dijon, Yonne (21)",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Envisager de façon plus globale les problèmes rencontrés par les personnes âgées à domicile. Proposer un plan d’aide individualisé (P AI) cohérent et adapté à l'état de santé physique et psychique de la personne. Assurer la continuité du suivi en concertation avec le secteur médico-social. Eviter les hospitalisations catastrophes.",
-        "contexte": "",
-        "problematique": "Problèmes rencontrés par les personnes âgées à domicile",
-        "solution_envisagee": "Plan d’aide individualisé (P AI) cohérent et adapté, coordination médico-sociale, éviter les hospitalisations catastrophes.",
-        "objectifs": ""
+        "description_generale": "Une équipe interdisciplinaire a été mise en place pour coordonner les actions médico-sociales autour des personnes âgées.",
+        "contexte": "La ville de Dijon, Yonne (21) a constaté la complexité des situations gérontologiques et l'importance d'une coordination globale entre différents acteurs.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une équipe interdisciplinaire a été créée pour coordonner les actions médico-sociales autour des personnes âgées, permettant une meilleure prise en charge globale et évitant les hospitalisations catastrophiques.",
+        "objectifs": [
+            "Rédaction du projet de mise en place de cette commission",
+            "Recherche de médecins motivés et convaincus de l'intérêt de l'action",
+            "Soutien de la CRAM dans les premières années d'activité",
+            "Conventionnement avec les deux hôpitaux (gériatrie et psychiatrie)",
+            "Mise en place à titre expérimental du projet"
+        ]
     },
-    "porteur_initiative": "UNE ÉQUIPE INTERPROFESSIONNELLE",
-    "date": [],
+    "porteur_initiative": "Direction des Retraités et Personnes âgées du CCAS de la ville de Dijon, en collaboration avec la CRAM, le centre hospitalier spécialisé et le centre gériatrique du CHU de Dijon",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "gériatrie",
-        "santé publique"
+        "santé",
+        "lien social",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cepage_Coordination_dequipe_interdisciplinaire_pour_un_plan_daide_gerontologique.txt",

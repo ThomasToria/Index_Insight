@@ -1,23 +1,34 @@
 {
     "titre": "Guide lillois de l’adaptation des logements à la perte d’autonomie",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "autre",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un guide pour informer sur les types de travaux d'adaptation du logement avec l'avancée en âge et potentielles pertes d'autonomie fonctionnelle.",
-        "contexte": "Le maintien à domicile s'avère parfois complexe, surtout si la personne âgée ne se projette pas ou n'effectue pas de travaux pour adapter son logement.",
-        "problematique": "Manque d'information sur les démarches concrètes à effectuer pour l'adaptation du logement.",
-        "solution_envisagee": "La création d'un guide pour informer sur les types de travaux d'adaptation du logement.",
-        "objectifs": ""
+        "description_generale": "Guide local d'information visant à informer le grand public sur les différents types possibles de travaux d'adaptation du logement à la perte d'autonomie, les démarches à entreprendre et les subventions mobilisables.",
+        "contexte": "La création du guide Lillois de l'adaptation du logement à la perte d'autonomie favorise une transition de vie liée à la perte d'autonomie, en sensibilisant et informant sur des solutions existantes. Les travaux d'adaptation du logement engagés suite à la lecture du guide permettent d'améliorer la qualité de vie et la sécurité des personnes âgées à leur domicile.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des ateliers participatifs menés en 2018 ont permis de centraliser l'information sur les solutions et dispositifs dédiés à l'aménagement des logements à la perte d'autonomie, ainsi que sur les démarches à entreprendre et les subventions mobilisables.",
+        "objectifs": [
+            "centralisation de l'information",
+            "amélioration de la qualité de vie",
+            "renforcement des liens sociaux"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Villes Amies des Aînés",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "perte d'autonomie",
-        "maintenance à domicile",
-        "adaptation du logement"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",

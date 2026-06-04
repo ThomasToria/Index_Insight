@@ -1,22 +1,29 @@
 {
     "titre": "Mon fauteuil, mon café, mon journal",
-    "territoire": "",
+    "territoire": "Brive-la-Gaillarde (19)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées de leur isolement et solitude",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Depuis fin 2013, le CCAS de la Ville de Brive a mis en place le dispositif « Mon fauteuil, Mon café, Mo n journal ». Cette action vise à sortir les personnes âgées de leur isolement et de leur solitude. Chaque semaine, la Résidence autonomie 'le Chapeau Rouge' ouvre une salle pour ses résidents, mais aussi pour les personnes extérieuses afin qu'elles puissent partager des moments de convivialité.",
-        "contexte": "",
-        "problematique": "l'isolement et la solitude des personnes âgées",
-        "solution_envisagee": "mise à disposition d'une salle de réunion pour les résidents et les personnes extérieuses, offrant un espace de convivialité.",
-        "objectifs": ""
+        "description_generale": "Depuis fin 2013, le CCAS de la Ville de Brive a mis en place le dispositif « Mon fauteuil, Mon café, Mon journal ». Cette action vise principalement à sortir les personnes âgées de leur isolement et d’isolement social. Chaque semaine, la Résidence autonomie « le Chapeau Rouge » ouvre une salle pour ses résidents, mais aussi pour les personnes extérieures, afin qu’elles puissent partager des moments de convivialité.",
+        "contexte": "Le dispositif a été mis en place pour lutter contre l'isolement des personnes âgées et créer des liens avec l'extérieur. Les actions culturelles tels que les ciné-débats ou conférences ont rencontré un vif succès, ce qui s'est révélé être une réussite.",
+        "problematique": "Lutter contre l’isolement des personnes âgées et créer des liens avec l’extérieur",
+        "solution_envisagee": "Un espace de convivialité pour les personnes âgées, ouvert chaque semaine à la Résidence autonomie « le Chapeau Rouge ».",
+        "objectifs": [
+            "Lutter contre l'isolement des personnes âgées",
+            "Retisser des liens avec l’extérieur",
+            "Créer des moments de convivialité"
+        ]
     },
-    "porteur_initiative": "le CCAS de la Ville de Brive",
-    "date": [],
+    "porteur_initiative": "CCAS de la Ville de Brive",
+    "date": [
+        "depuis fin 2013"
+    ],
     "thematique": [
-        "santé mentale",
-        "social"
+        "LIEN SOCIAL ET SOLIDARITÉ",
+        "CULTURE ET LOISIRS"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mon_fauteuil_mon_cafe_mon_journal.txt",

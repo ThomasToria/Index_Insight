@@ -1,0 +1,32 @@
+{
+    "titre": "Libérez la Mémoire",
+    "territoire": "Commune du Havre",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "L'initiative vise à poursuivre le travail de reconnaissance mémoire en mettant les victimes civiles et les habitants du Havrais dans la vie quotidienne pendant la Seconde Guerre mondiale au cœur des commémorations.",
+        "contexte": "La Ville du Havre a organisé une programmation visant à renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Lutter contre les idées reçues, contre l'âgisme et certaines représentations des seniors",
+        "solution_envisagee": "Acculturer les services en intégrant les seniors dans la programmation municipale et prendre appui sur les ressources des aînés pour enrichir les projets du territoire.",
+        "objectifs": [
+            "Créer ou maintenir les liens sociaux",
+            "Valoriser les savoirs des seniors"
+        ]
+    },
+    "porteur_initiative": "Ville du Havre",
+    "date": [
+        "2019",
+        "2025"
+    ],
+    "thematique": [
+        "histoire",
+        "mémoire",
+        "géographie"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Liberez_la_memoire.txt",
+    "nom_fichier": "Liberez_la_memoire.txt"
+}

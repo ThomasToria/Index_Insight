@@ -1,22 +1,28 @@
 {
     "titre": "Danse et bien-être en accueil de jour",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Les ateliers proposés à l'accueil de jour du CIAS s'orientaient sur les ateliers chant ou écoute de musique. Proche du Conservatoire de Musique de Cholet, les bénéficiaires ont eu de nombreuses occasions d'être à l'écoute des élèves sur des temps de répétition ou de participer par des échanges intergénérationnels à des séances musicales proposées aux enfants du Multi accueil Dorémi.",
-        "contexte": "",
-        "problematique": "Les bénéficiaires de l'accueil de jour manquent d'opportunités pour expérimenter la danse et bénéficier des bienfaits physiques et mentaux qu'elle apporte.",
-        "solution_envisagee": "Organiser des ateliers de danse dans le cadre de l'accueil de jour du CIAS, en collaboration avec les écoles de danse locales et les institutions proches.",
-        "objectifs": ""
+        "description_generale": "Les ateliers proposés à l'accueil de jour du CIAS s'orientaient sur les ateliers chant ou écoute de musique. Proche du Conservatoire de Musique de Cholet, les bénéficiaires ont eu de nombreuses occasions d'être à l’écoute des élèves sur des temps de répétition ou participer par des échanges intergénérationnels à des séances musicales proposées aux enfants du Multi accueil Dorémi.",
+        "contexte": "L'observation des bénéficiaires a permis à l'équipe de professionnels d'orienter ses projets sur un temps musical, dansé permettant à des bénéficiaires de profiter de ces instants sans limite de mouvement à travers la danse. La baisse de mobilité accrue chez les bénéficiaires, la perte d’expression verbale ne pouvait que motiver ce projet.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un atelier de danse a été mis en place pour permettre aux bénéficiaires d'exprimer physiquement, d'écouter musicalement et de développer leur créativité par la gestuelle. Les ateliers ont été proposés deux fois par mois pour assurer une régularité, observer une progression et pouvoir le proposer à des groupes différents dans la semaine.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "EHPAD La Résidence de l’Ille",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "danse",
-        "bien-être"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Danse_et_bien-etre_en_accueil_de_jour.txt",

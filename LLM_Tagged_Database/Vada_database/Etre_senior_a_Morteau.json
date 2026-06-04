@@ -1,25 +1,33 @@
 {
     "titre": "Être senior à Morteau",
-    "territoire": "",
+    "territoire": "Morteau (25)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées",
+    "public_vise": "ainés",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Une brochure pour diffuser des informations utiles pour les seniors.",
-        "contexte": "Le CCAS constate qu'il n'existait aucun document recensant les informations utiles pour les seniors. La recherche d'informations est laborieuse et les personnes âgées ne disposent pas toujours d'accès aux services existants.",
-        "problematique": "L'absence de documents informatifs sur les droits des seniors et la difficulté à accéder aux informations utiles.",
-        "solution_envisagee": "Édition d'une brochure par le CCAS pour fournir une information de qualité actualisée chaque année.",
-        "objectifs": "Fournir une source fiable d'informations aux personnes âgées, améliorer l'accès aux services existants et sensibiliser sur les droits des seniors."
+        "description_generale": "Une brochure pour informer les seniors et faciliter l'accès aux droits.",
+        "contexte": "La ville de Morteau a constaté un manque d'informations sur les seniors et des difficultés à accéder aux services existants.",
+        "problematique": "Manque d'information, difficulté à accéder aux services, besoin de renforcer les liens entre résidents, familles et société civile.",
+        "solution_envisagee": "Éditer une brochure pour recenser toutes les informations concernant les seniors, actualiser chaque année, diffuser en ligne et par courrier.",
+        "objectifs": [
+            "Informer le public",
+            "Favoriser l'accès aux droits et maintien à domicile"
+        ]
     },
-    "porteur_initiative": "Le CCAS",
+    "porteur_initiative": "CCAS de Morteau",
     "date": [
-        ""
+        "2019",
+        "juin 2022"
     ],
     "thematique": [
         "santé",
-        "services publics",
-        "droits des citoyens"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Etre_senior_a_Morteau.txt",

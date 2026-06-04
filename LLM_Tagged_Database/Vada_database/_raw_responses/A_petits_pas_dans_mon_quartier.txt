@@ -1,0 +1,24 @@
+{
+  "titre": "A Petits Pas dans Mon Quartier",
+  "territoire": "Communale",
+  "echelle": ["nombre de pas"],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description_generale": "Ce projet a pour objectif d'améliorer l'autonomie des personnes âgées en favorisant l'investissement des services de proximité et le renforcement des liens sociaux.",
+  "contexte": "Les personnes âgées vivent dans une résidence auto nomie seniors à Lyon, 8ème arrondissement. Leur autonomie est limitée parfois aux activités quotidiennes comme les courses alimentaires, la pharmacie, et l'association des quartiers.",
+  "problematique": "Les personnes âgées ont des difficultés à se déplacer et peuvent être isolées dans leur quartier.",
+  "solution_envisagee": "Un plan de quartier basé sur le nombre de pas entre leur appartement et la salle d'animation de la résidence. Ce projet vise à améliorer l'autonomie des personnes âgées en favorisant l'investissement des services de proximité et le renforcement des liens sociaux.",
+  "objectifs": [
+    "Améliorer l’autonomie des personnes âgées",
+    "Favoriser l’investissement des services de proximité",
+    "Renforcer les liens sociaux"
+  ],
+  "porteur_initiative": "Résidence auto nomie seniors Chalumeaux (CCAS) à Lyon 8ème",
+  "date": ["depuis 2016"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social"
+  ],
+  "source_site": "VADA"
+}

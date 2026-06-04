@@ -1,0 +1,27 @@
+{
+  "titre": "Jardin Partagé",
+  "territoire": "communale",
+  "echelle": ["quartier"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Ce projet de Jardin Partagé a été initié en 2013 alors que le service seniors de la Ville de Bruxelles était à la recherche de moyens créatifs dans le but de créer du lien entre les seniors et mieux utiliser les espaces verts de la ville afin de s'y sentir bienvenus.",
+  "contexte": "Le service seniors de la Ville de Bruxelles cherchait des moyens créatifs pour améliorer l'utilisation des espaces verts de la ville et renforcer le lien entre les seniors et les habitants du quartier.",
+  "problematique": "Le besoin de créer un lieu de rencontre entre différents générations et différentes classes sociales dans une zone urbaine.",
+  "solution_envisagee": "Un jardin partagé où les seniors peuvent partager des moments conviviaux, cultivent des légumes et cuisinent ensemble, contribuant ainsi à la communauté locale.",
+  "objectifs": [
+    "Renforcer le lien entre les seniors et les habitants du quartier",
+    "Utiliser efficacement les espaces verts de la ville pour améliorer l'atmosphère urbaine",
+    "Promouvoir des activités physiques et créatives auprès des seniors"
+  ],
+  "porteur_initiative": "Service Seniors de la Ville de Bruxelles, EHPAD 'La Résidence de l’Ille', Asbl Le Début des Haricots",
+  "date": ["2013", "2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

@@ -1,22 +1,32 @@
 {
     "titre": "Allo Bonjour",
-    "territoire": "Schoelcher (Martinique)",
+    "territoire": "Commune de Schoelcher, Martinique (972)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Un dispositif téléphonique quotidien pour lutter contre l’isolement des personnes en situation d’isolement.",
-        "contexte": "Mis en place depuis janvier 2015 dans la ville de Schoelcher (Martinique).",
-        "problematique": "L'isolement des personnes en situation d’isolement.",
-        "solution_envisagee": "Un accompagnement téléphonique quotidien par les professionnels du CCAS.",
-        "objectifs": ""
+        "description_generale": "Un appel quotidien pour lutter contre l’isolement",
+        "contexte": "La ville de Schoelcher a mis en place le dispositif 'Allo Bonjour' depuis janvier 2015, visant à maintenir les liens avec les personnes âgées isolées par un contact téléphonique quotidien.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un dispositif téléphonique animé par des bénévoles formés par une gérontothérapeute pour assurer le contact quotidien avec les personnes âgées isolées.",
+        "objectifs": [
+            "Maintenir le lien avec les personnes âgées isolées par un contact téléphonique quotidien",
+            "Prévenir les situations de risque d’insécurité",
+            "Réduire les situations de détresse sociale et psychologiques chez les aînés",
+            "Favoriser la re-création de liens avec l’entourage proche (voisinage, association)"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "La ville de Schoelcher",
     "date": [
-        "janvier 2015"
+        "depuis 2015"
     ],
-    "thematique": [],
+    "thematique": [
+        "santé",
+        "lien social",
+        "intergénérationnel"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Allo_Bonjour_un_appel_quotidien_pour_lutter_contre_lisolement.txt",
     "nom_fichier": "Allo_Bonjour_un_appel_quotidien_pour_lutter_contre_lisolement.txt"

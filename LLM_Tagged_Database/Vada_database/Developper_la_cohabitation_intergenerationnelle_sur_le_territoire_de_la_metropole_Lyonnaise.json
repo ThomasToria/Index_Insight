@@ -1,22 +1,37 @@
 {
-    "titre": "Développer la cohabitation intergénérationnelle sur le territoire de la métropole Lyonnaise",
-    "territoire": "",
+    "titre": "Développer la cohabitation intergénérationnelle sur le territoire de la métropole lyonnaise",
+    "territoire": "métrologe lyonnaise",
     "echelle": [
+        "communale",
         "intercommunale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "L'association ESDES Intergénérations cherche à promouvoir la solution du logement intergénérationnel qui permet à des seniors et de jeunes adultes de vivre ensemble dans un climat de solidarité.",
-        "contexte": "",
-        "problematique": "Développer la cohabitation intergénérationnelle sur le territoire de la métropole Lyonnaise",
-        "solution_envisagee": "Promouvoir la solution du logement intergénérationnel pour favoriser l'autonomie des personnes âgées et offrir aux jeunes un logement confortable, chaleureux et économique.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à étendre la pratique du logement intergénérationnel sur le territoire de la métropole lyonnaise, en favorisant l'autonomie des personnes âgées et leur maintien à domicile tout en créant un lien social entre les générations.",
+        "contexte": "L'isolement des seniors est un problème sociétal majeur. Les initiatives comme le logement intergénérationnel permettent de réduire ce phénomène, favorisent la mixité sociale et valorisent une forme de logement différente.",
+        "problematique": "Lutter contre l’isolement des seniors, créer du lien social entre les générations, favoriser le maintien à domicile et proposer des solutions fiables et solidaires pour les personnes âgées.",
+        "solution_envisagee": "Une communication auprès de professionnels impliqués dans la prise en charge des seniors (médecins, kinésithérapeutes, infirmières, aidants), ainsi que via internet et les réseaux sociaux. Des newsletters sont envoyées et des événements organisés pour promouvoir ce type de logement.",
+        "objectifs": [
+            "Étendre la pratique du logement intergénérationnel sur le territoire lyonnaise",
+            "Favoriser l'autonomie des personnes âgées et leur maintien à domicile",
+            "Créer un lien social entre les générations",
+            "Proposer une solution de logement différente"
+        ]
     },
-    "porteur_initiative": "L'association ESDES Intergénérations",
-    "date": [],
+    "porteur_initiative": "ESDES Intergénérations, association locale",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
-        "Hébergement",
-        "Solidarité intergénérationnelle"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Developper_la_cohabitation_intergenerationnelle_sur_le_territoire_de_la_metropole_Lyonnaise.txt",

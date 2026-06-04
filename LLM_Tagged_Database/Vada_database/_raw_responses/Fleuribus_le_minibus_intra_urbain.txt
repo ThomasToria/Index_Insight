@@ -1,0 +1,25 @@
+{
+  "titre": "Fleuribus, le minibus intra urbain",
+  "territoire": "Commune: Fleurance",
+  "echelle": ["quartier", "communale"],
+  "public_vise": "ainsé et autres",
+  "nature_initiative": "minibus intra-urbain",
+  "description_generale": "Le projet consiste à mettre en place un transport intra-urbain gratuit pour les seniors, composé de trois lignes sur un parcours pré-défini avec des arrêts aménagés.",
+  "contexte": "Les seniors de la commune ont constaté une difficulté de mobilité due au manque de transports en commun. Les élus ont décidé d'organiser ce projet pour faciliter leur accessibilité aux services et commerces.",
+  "problematique": "Difficulté de mobilité des seniors, manque de transport en commun",
+  "solution_envisagee": "Minibus intra-urbain permettant d'accéder aux services de la commune et à des commerces sur les domaines publics.",
+  "objectifs": [
+    "Favoriser le maintien de l'autonomie et encourager les liens sociaux",
+    "Renforcer les relations entre les résidents, leurs proches et la société civile"
+  ],
+  "porteur_initiative": "Commune de Fleurance",
+  "date": ["2023"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "intergénérationnel",
+    "isolement"
+  ],
+  "source_site": "VADA"
+}

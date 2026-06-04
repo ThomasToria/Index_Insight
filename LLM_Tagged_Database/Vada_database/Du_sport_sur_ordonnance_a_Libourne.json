@@ -1,22 +1,30 @@
 {
     "titre": "Du sport sur ordonnance à Libourne",
-    "territoire": "",
+    "territoire": "Commune: Libourne, 33",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La Direction des sports a établi un diagnostic des pratiques existantes dans la collectivité en 2017 et a conclu que les médecins hospitaliers, généraux et spécialistes étaient démunis quant aux propositions existantes en termes d'activités physiques adaptées pour les patients atteints de pathologies chroniques. La Ville de Libourne a souhaité mettre en place cette action en septembre 2019.",
-        "contexte": "",
-        "problematique": "Les médecins hospitaliers, généraux et spécialistes étaient démunis quant aux propositions existantes en termes d'activités physiques adaptées pour les patients atteints de pathologies chroniques.",
-        "solution_envisagee": "La mise en place d'une action du sport sur ordonnance dans la collectivité.",
-        "objectifs": ""
+        "description_generale": "Une action lancée en septembre 2019 dans la commune de Libourne pour mettre en place un dispositif d'activité physique adaptée aux patients atteints de pathologies chroniques.",
+        "contexte": "La Direction des sports a établi un diagnostic sur les pratiques existantes et a conclu que les médecins hospitaliers, généraistes et spécialistes étaient démunis quant aux propositions existantes en termes d'activités physiques adaptées. La ville de Libourne souhaitait mettre en place une action pour renforcer les liens entre les résidents des EHPAD, leurs proches et la société civile.",
+        "problematique": "Renforcement des liens entre les résidents des EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une journée « Tous en forme » sur la plaine des Dagueys a été mise en place pour proposer aux usagers une découverte des dispositifs existants sur la collectivité, avec la participation de diverses associations sportives et institutions de santé.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents des EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
     "porteur_initiative": "La Ville de Libourne",
     "date": [
-        "2019"
+        "2019",
+        "fin janvier 2025"
     ],
-    "thematique": [],
+    "thematique": [
+        "santé",
+        "lien social"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_sport_sur_ordonnance_a_Libourne.txt",
     "nom_fichier": "Du_sport_sur_ordonnance_a_Libourne.txt"

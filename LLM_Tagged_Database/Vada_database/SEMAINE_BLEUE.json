@@ -1,26 +1,31 @@
 {
     "titre": "Semaine bleue",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "PRINCIPALEMENT LES PERSONNES ÂGÉES.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "L'action s'est déroulée du 6 au 10 octobre 2025 sur notre territoire. Cet événement national, dédié aux aînés, avait pour objectif de promouvoir leur bien-être, renforcer le lien social et sensibiliser à diverses thématiques telles que la santé, la prévention, l'activité physique et l'inclusion.",
-        "contexte": "",
-        "problematique": "Lutter contre l’isolement et favoriser l’inclusion sociale",
-        "solution_envisagee": "Proposer une semaine de programmes variés pour promouvoir le bien-être des aînés, renforcer leur lien social et sensibiliser à diverses thématiques.",
-        "objectifs": ""
+        "description_generale": "L'action s'est déroulée du 6 au 10 octobre 2025 sur notre territoire. Cet événement national, dédié au seniors, a pour objectif de promouvoir leur bien-être, d'établir le public aux enjeux du vieillissement.",
+        "contexte": "La Semaine Bleue 2025 a été lancée par la Ville Amie des Aînés depuis 2025 - Vauclin (972).",
+        "problematique": "Valoriser la place des aînés dans la société et sensibiliser le public aux enjeux du vieillissement.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Valoriser la place des aînés dans la société",
+            "Sensibiliser le public aux enjeux du vieillissement"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Ville Amie des Aînés depuis 2025 - Vauclin (972)",
     "date": [
-        "du 6 au 10 octobre 2025"
+        "depuis 2025"
     ],
     "thematique": [
         "santé",
-        "prévention",
-        "activité physique",
-        "inclusion sociale"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\SEMAINE_BLEUE.txt",

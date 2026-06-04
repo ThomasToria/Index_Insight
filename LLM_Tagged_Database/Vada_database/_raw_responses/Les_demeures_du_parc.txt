@@ -1,0 +1,28 @@
+{
+  "titre": "Les demeures du parc",
+  "territoire": "Nantes (44)",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description_generale": "Un logement alternatif pour la maintenance de l'autonomie des personnes âgées.",
+  "contexte": "Les Petits Frères des Pauvres ont créé une petite unité de vie dans le quartier de Doulon à Nantes, répondant aux besoins locaux et proposant un habitat autonome pour les résidents.",
+  "problematique": "Le besoin de maintenir l'autonomie des personnes âgées en leur permettant d'accéder à un logement autonome tout en respectant des règles de vie commune.",
+  "solution_envisagee": "La petite unité de vie, créée par les Petits Frères des Pauvres, offre un lieu de vie sécurisé et convivial pour les résidents, permettant ainsi la maintenance de leur autonomie tout en respectant le cadre social.",
+  "objectifs": [
+    "Permettre à des personnes âgées d'accéder à un logement autonome",
+    "Assurer la mise en place médico-sociale nécessaire à travers un projet de vie individuel",
+    "Favoriser le maintien à domicile",
+    "Accompagner les personnes sans rupture de relation et dans la durée"
+  ],
+  "porteur_initiative": "Petits Frères des Pauvres",
+  "date": ["2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

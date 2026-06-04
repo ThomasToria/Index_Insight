@@ -1,22 +1,29 @@
 {
     "titre": "Distribution des chocolats",
-    "territoire": "",
+    "territoire": "Commune de Cholet",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors de 70 ans et plus",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une distribution de chocolats est mise en place pour compenser l'annulation de la Fête des Seniors.",
-        "contexte": "La traditionnelle Fête des Seniors a été annulée en 2021 et 2022 en raison de la crise sanitaire. Une distribution de chocolats a été mise en place pour remplacer cet événement.",
-        "problematique": "L'annulation de la Fête des Seniors en raison de la crise sanitaire",
-        "solution_envisagee": "La distribution de chocolats aux seniors",
-        "objectifs": "Compenser l'absence de festivités et maintenir un contact avec les aînés"
+        "description_generale": "Une distribution de chocolats a été mise en place pour compenser l'annulation de la traditionnelle Fête des Seniors.",
+        "contexte": "La Fête des Seniors a été annulée en raison de la crise sanitaire, et une distribution de chocolats a été organisée au lieu du festival.",
+        "problematique": "Renforcer le lien social entre les seniors et la Ville de Cholet",
+        "solution_envisagee": "Une distribution de chocolats offerte par la Ville aux seniors de 70 ans et plus, avec un suivi pour ceux qui ne peuvent pas être présents.",
+        "objectifs": [
+            "Renforcer le lien social entre les seniors et la Ville de Cholet",
+            "Favoriser le lien entre les seniors et la ville"
+        ]
     },
-    "porteur_initiative": "L'Élue en charge de l'Animation seniors",
-    "date": [],
+    "porteur_initiative": "La Ville de Cholet",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Distribution_des_chocolats.txt",

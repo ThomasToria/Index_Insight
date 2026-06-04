@@ -1,22 +1,32 @@
 {
     "titre": "Atelier gymnastique adaptée et équilibre",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "usagers aînés de 63 ans et plus",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Proposer aux usagers aînés une activité hebdomadaire adaptée à leurs besoins.",
-        "contexte": "Une population vieillissante dans la commune de Villeneuve d'Ascq, avec un nombre important de retraités inscrits au service municipal des aînés.",
-        "problematique": "Accessibilité et dispersion des équipements pour les usagers aînés.",
-        "solution_envisagee": "Proposer une activité hebdomadaire d'atelier gymnastique adaptée aux besoins de la population.",
-        "objectifs": ""
+        "description_generale": "Une initiative pour améliorer l’accessibilité et la pratique sportive des personnes âgées dans une commune.",
+        "contexte": "La commune de Villeneuve d'Ascq compte plus de 13 000 retraités, dont 612 sont inscrits au service municipal des aînés. La ville de demain sera nécessairement âgée, et la commune essaie de s’adapter aux besoins et attentes des aînés.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des ateliers d'activités physiques adaptées aux personnes âgées pour favoriser les interactions intergénérationnelles.",
+        "objectifs": [
+            "Renforcer le lien social entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale",
+            "Préserver l’autonomie des personnes âgées à risque moyen et faible"
+        ]
     },
-    "porteur_initiative": "Commune de Villeneuve d'Ascq",
-    "date": [],
+    "porteur_initiative": "Ville Amie des Aînés de Villeneuve d'Ascq depuis 2022",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "vieillissement",
-        "accessibilité"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_gymnastique_adaptee_et_equilibre.txt",

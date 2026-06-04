@@ -1,22 +1,31 @@
 {
-    "titre": "Activités de loisirs et de prévention de l’autonomie",
-    "territoire": "",
+    "titre": "Activités de loisirs et de prévention de l'autonomie",
+    "territoire": "Commune: Saint-Germain au Mont-d'Or, Ville Amie des Aînés depuis 2016",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le Conseil des seniors à Saint-Germain au Mont-D’or intervient dans tous les domaines qui touchent à la vie quotidienne des personnes âgées, notamment en organisant des ateliers.",
-        "contexte": "En lien avec la municipalité et notamment l'adjointe aux affaires sociales",
-        "problematique": "",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "La municipalité propose par exemple des ateliers sur la sécurité routière, des conférences informatiques animées par une intervenante spécialisée. Ces conférences se tiennent une fois par mois dans une salle municipale, elles durent 2h30.",
+        "contexte": "Les seniors de Saint-Germain au Mont-d'Or souhaitent améliorer leur autonomie et participer activement à la vie communautaire. Les initiatives proposées visent à renforcer les liens sociaux et à valoriser leur mémoire.",
+        "problematique": "Renforcement des liens sociaux entre les seniors, promotion de l’autonomie et participation active dans la vie communautaire.",
+        "solution_envisagee": "Ateliers sur la sécurité routière, conférences informatiques animées par une intervenante spécialisée, animations pour renforcer les liens sociaux.",
+        "objectifs": [
+            "Renforcer les liens sociaux entre les seniors",
+            "Promouvoir l'autonomie des seniors",
+            "Encourager la participation active dans la vie communautaire"
+        ]
     },
-    "porteur_initiative": "Le Conseil des seniors à Saint-Germain au Mont-D’or",
-    "date": [],
+    "porteur_initiative": "Conseil des Seniors, adjointe aux affaires sociales",
+    "date": [
+        "depuis 2016"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activites_de_loisirs_et_de_prevention_de_lautonomie.txt",

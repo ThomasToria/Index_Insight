@@ -1,23 +1,34 @@
 {
     "titre": "ACTION CULTURELLE INTERGENERATIONNELLE",
-    "territoire": "",
+    "territoire": "Commune de Dardilly et Champagne Au Mont d’Or",
     "echelle": [
         "communale"
     ],
-    "public_vise": "TOUTES ET TOUS LES PUBLICS DANS UN OBJECTIF DE PARTICIPATION",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Proposer une démarche participative et favoriser la participation des personnes âgées à la vie sociale par l'accès à la culture et aux loisirs. Provoquer des rencontres entre jeunes et les aînés de la Commune, et changer le regard que l'on porte sur le vieillissement.",
-        "contexte": "L'analyse des besoins sociaux a amené la commune à analyser les attentes de sa population et de proposer des actions pour y répondre. L'accès à la culture et la mise en œuvre d'actions intergénérationnelles faisaient partie des demandes fortes.",
-        "problematique": "Le regard que l'on porte sur le vieillissement",
-        "solution_envisagee": "Proposer une démarche participative et favoriser la participation des personnes âgées à la vie sociale par l'accès à la culture et aux loisirs. Provoquer des rencontres entre jeunes et les aînés de la Commune.",
-        "objectifs": ""
+        "description_generale": "Proposer une démarche participative et favoriser la participation des personnes âgées à la vie sociale par l'accès à la culture et aux loisirs.",
+        "contexte": "Depuis 2023, dans le cadre d'une collaboration culturelle intercommunale, La Tour-de-Salvagny s'est associée aux communes de Dardilly et Champagne Au Mont d'Or pour organiser chaque année un programme bâti autour d'ateliers et de spectacles à destination de tous publics.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer une démarche participative et favoriser la participation des personnes âgées à la vie sociale par l'accès à la culture et aux loisirs.",
+        "objectifs": [
+            "Avoir une déclinaison d'actions d'éducation artistique et culturelle articulées autour d'ateliers intergénérationnels associés à de spectacles tout public, pour jeunes et moins jeunes."
+        ]
     },
-    "porteur_initiative": "Commune",
-    "date": [],
+    "porteur_initiative": "La Tour-de-Salvagny",
+    "date": [
+        "depuis 2023"
+    ],
     "thematique": [
-        "LIEN SOCIAL",
-        "SOLIDARITÉ",
-        "CULTURE & LOISIRS"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ACTION_CULTURELLE_INTERGENERATIONNELLE.txt",

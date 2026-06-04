@@ -1,0 +1,36 @@
+{
+    "titre": "Ciné d'Or",
+    "territoire": "Commune: Vienne, Ville Membre depuis 2022",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Proposer une programmation cinématographique adaptée aux seniors dans un lieu central, offrant des conditions d'accueil optimales.",
+        "contexte": "Les personnes âgées traditionnellement préfèrent les loisirs pratiqués à la maison et leurs dépenses sont orientées vers le domicile. Leur budget consacré à la culture et aux loisirs est contraint, notamment avec les montants moyens des pensions de retraite.",
+        "problematique": "Le besoin de rendre acteurs les seniors dans une programmation cinématographique adaptée et accessible.",
+        "solution_envisagee": "Une programmation cinématographique élaborée lors d'une 'commission de programmation' à laquelle les seniors participent, avec visionnage de bande-annonce, votage des films souhaités, vérification par la directrice du cinéma, réalisation du programme et affiche.",
+        "objectifs": [
+            "Proposer une offre culturelle adaptée aux seniors",
+            "Réduire l'isolement des seniors",
+            "Permettre aux seniors de visionner des films de qualité dans des conditions optimales"
+        ]
+    },
+    "porteur_initiative": "EHPAD La Résidence de l’Ille",
+    "date": [
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_dOr.txt",
+    "nom_fichier": "Cine_dOr.txt"
+}

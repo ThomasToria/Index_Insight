@@ -1,22 +1,29 @@
 {
-    "titre": "Projet 'estime de soi'",
-    "territoire": "",
+    "titre": "Projet 'Estime de Soi'",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "À l'occasion de la préparation d'un projet d'ateliers conteurs/lecteurs auprès des enfants des écoles du Bouscat, les seniors ont évoqué la difficulté de se présenter devant eux. Cette question a été approfondie afin de comprendre pourquoi. Les retours ont montré un besoin d'améliorer l'estime de soi. C'est pourquoi le CCAS a mis en place différents ateliers pour permettre aux seniors de prendre confiance en eux en comprenant leur capacité à se réaliser.",
-        "contexte": "",
-        "problematique": "Les seniors ont exprimé un besoin d'améliorer l'estime de soi, notamment face à leurs pairs et dans des situations sociales.",
-        "solution_envisagee": "Le CCAS a mis en place différents ateliers pour aider les seniors à prendre confiance en eux, comprenant leur capacité à se réaliser.",
-        "objectifs": ""
+        "description_generale": "Un projet d'ateliers pour améliorer l'estime de soi des seniors.",
+        "contexte": "Les seniors ont exprimé la difficulté de se présenter devant eux, ce qui a conduit à une problématique de renforcer leur estime de soi.",
+        "problematique": "Le besoin de renforcer l'estime de soi chez les seniors pour améliorer leur confiance en face du regard des autres.",
+        "solution_envisagee": "Ateliers sur la coiffure, réflexologie, socio-esthétique et soin des mains afin de permettre aux seniors d'améliorer leur estime de soi et trouver des outils pour l'application quotidienne.",
+        "objectifs": [
+            "Améliorer l'estime de soi chez les seniors",
+            "Faire confiance en eux face au regard des autres"
+        ]
     },
-    "porteur_initiative": "CCAS",
-    "date": [],
+    "porteur_initiative": "CCAS Le Bouscat",
+    "date": [
+        "2023"
+    ],
     "thematique": [
-        "santé mentale",
-        "éducation civique"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_estime_de_soi.txt",

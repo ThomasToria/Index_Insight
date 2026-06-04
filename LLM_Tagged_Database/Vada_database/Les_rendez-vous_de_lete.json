@@ -1,22 +1,30 @@
 {
-    "titre": "Les rendez-vous de l’été",
-    "territoire": "",
+    "titre": "Les Rendez-vous de l’été",
+    "territoire": "Commune: La Rochelle (17)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Des rendez-vous pour lutter contre l'isolement social ont été mis en place par le CCAS de La Rochelle.",
-        "contexte": "Les phases successives de confinement pendant la pandémie sanitaire ont généré des conséquences telles que le stress et la perte d'autonomie, ainsi qu'un isolement social. Les seniors ont exprimé leur peur de sortir de chez eux et leur besoin de renouer des liens sociaux.",
-        "problematique": "L'isolement social causé par les restrictions sanitaires et le stress lié à la pandémie.",
-        "solution_envisagee": "La mise en place d'actions de prévention pour soutenir et accompagner les personnes âgées.",
-        "objectifs": ""
+        "description_generale": "Les Rendez-vous de l’été sont des activités destinées à soutenir les personnes âgées isolées dans la commune de La Rochelle.",
+        "contexte": "La pandémie sanitaire a conduit à une augmentation du sentiment d'isolement social chez les seniors, et le CCAS souhaite renforcer ces liens sociaux.",
+        "problematique": "Renforcement des liens sociaux entre personnes âgées isolées et la société civile",
+        "solution_envisagee": "Rendez-vous de l’été: Des activités intergénérationnelles organisées pour maintenir l'autonomie des seniors et renforcer les liens sociaux.",
+        "objectifs": [
+            "Renforcer les liens sociaux entre personnes âgées isolées",
+            "Maintenir l’autonomie des seniors"
+        ]
     },
-    "porteur_initiative": "Le CCAS de La Rochelle",
-    "date": [],
+    "porteur_initiative": "CCAS de La Rochelle",
+    "date": [
+        "2019",
+        "2022"
+    ],
     "thematique": [
-        "santé publique",
-        "social"
+        "intergénérationnel",
+        "lien social",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rendez-vous_de_lete.txt",

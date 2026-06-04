@@ -1,22 +1,33 @@
 {
     "titre": "Atelier floral",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "SENIORS DE PLUS DE 60 ANS.",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Apprendre à embellir son domicile avec les fleurs de son jardin, et découvrir les techniques de base de l'assemblage floral, le choix des fleurs, l'équilibre des formes.",
-        "contexte": "La ville de Petit-Bourg se distingue par un cadre luxuriant et fleuri. Beaucoup des aînés possèdent un jardin ou ont accès à des fleurs qu'ils peuvent utiliser pour l'embellissement de leur cadre de vie. Les ateliers Art Floral ont d'abord été la proposition spontanée d'une administrée qui fréquentait le CCAS. Ceux-ci ont été ouverts à tous les seniors de la Ville.",
-        "problematique": "Rompre l’isolement et développer le lien social.",
-        "solution_envisagee": "Ateliers Art Floral",
-        "objectifs": ""
+        "description_generale": "Apprendre à embellir son domicile avec les fleurs de son jardin, découvrir les techniques de base d'assemblage floral, le choix des fleurs, l'équilibre des formes.",
+        "contexte": "Le cadre luxuriant et fleuri de la ville de Petit-Bourg attire souvent les aînés qui possèdent un jardin ou ont accès à des fleurs qu'ils utilisent pour embellir leur cadre de vie. Les ateliers Art Floral, initiés par une administrée fréquentant le CCAS et associations retraitées, se sont développés en réponse au confinement.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L'atelier Art Floral a permis d'apprendre à embellir le domicile avec les fleurs de jardin, découvrir les techniques de base d’assemblage floral, le choix des fleurs, l’équilibre des formes. Les participants ont également pu développer le lien social et se sentir plus connectés.",
+        "objectifs": [
+            "Permettre l'expression de la créativité",
+            "Favoriser le loisir et la détente par la pratique d'un art créatif"
+        ]
     },
-    "porteur_initiative": "La ville de Petit-Bourg",
-    "date": [],
+    "porteur_initiative": "CCAS, associations retraitées de la ville de Petit-Bourg",
+    "date": [
+        "2020",
+        "2021",
+        "2022"
+    ],
     "thematique": [
-        "Culture",
-        "Santé"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_floral.txt",

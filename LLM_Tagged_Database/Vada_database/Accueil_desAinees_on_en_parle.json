@@ -1,24 +1,30 @@
 {
     "titre": "Accueil desAîné(e)s, on en parle?",
-    "territoire": "Saint-Nazaire",
+    "territoire": "Commune: Saint-Nazaire",
     "echelle": [
         "communale"
     ],
-    "public_vise": "agents du territoire et habitant.es",
+    "public_vise": "professionnels",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Faire évoluer les représentations autour de l'accueil des personnes âgées.",
-        "contexte": "La ville de Saint-Nazaire est engagée depuis décembre 2019 dans la démarche 'Ville Amie des Aîné.es'. Un axe fort de cette démarche concerne le combat contre l'âgisme et l'accompagnement du regard sur la population vieillissante.",
-        "problematique": "Les habitants expriment le besoin d'être accueillis sans être infantilisés, tandis que les agents du territoire ont un besoin de comprendre ce public.",
-        "solution_envisagee": "Faire évoluer les représentations et comprendre le public vieillissant pour améliorer l'accueil.",
-        "objectifs": "Amélioration des pratiques d'accueil, meilleure compréhension du public vieillissant par les agents du territoire."
+        "description_generale": "Atelier de sensibilisation sur l'âgisme pour les agents d'accueil de la ville de Saint-Nazaire.",
+        "contexte": "La ville de Saint-Nazaire a lancé une démarche 'Ville Amie des Aînés' depuis décembre 2019, visant à lutter contre l'âgisme et accompagner le changement de regard sur la population vieillissante.",
+        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des ateliers d'accompagnement intergénérationnel pour renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+            "Valoriser la mémoire et la place des résidents dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La ville de Saint-Naz Nazaire",
+    "porteur_initiative": "Association 100ages et Faircoop",
     "date": [
-        "2019"
+        "depuis 2019"
     ],
     "thematique": [
-        "âgisme",
-        "accueil des personnes âgées"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accueil_desAinees_on_en_parle.txt",

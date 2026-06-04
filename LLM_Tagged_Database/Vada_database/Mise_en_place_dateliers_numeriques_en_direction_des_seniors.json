@@ -1,25 +1,29 @@
 {
-    "titre": "Mise en place d'ateliers numériques en direction des seniors",
-    "territoire": "",
+    "titre": "Mise en place d'ateliers numériques pour accompagner les seniors",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "les seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La commune de Tinqueux a mis en place des ateliers numériques pour accompagner les seniors dans leur utilisation d'ordinateurs, tablettes et smartphones.",
-        "contexte": "Suite à des questionnaires mettant en avant un besoin évident d'accompagnement des ainés. Partenariat avec Emmaüs Connect.",
-        "problematique": "Accompagner les seniors dans leur utilisation de technologies numériques",
-        "solution_envisagee": "Mise en place d'ateliers numériques complèts et encadrés par des professionnels",
-        "objectifs": "Aider les seniors à utiliser efficacement ordinateurs, tablettes et smartphones"
+        "description_generale": "La commune de Tinqueux a mis en place des ateliers numériques pour accompagner les seniors.",
+        "contexte": "Suite à une enquête sur un besoin évident d'accompagnement des ainés, la ville a décidé de mettre en place ces ateliers.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des ateliers numériques pour apprendre à utiliser un ordinateur, une tablette ou d'un smartphone.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD et leurs proches",
+            "Valoriser la mémoire et la place des seniors dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La commune de Tinqueux avec Emmaüs Connect",
+    "porteur_initiative": "La Ville de Tinqueux, Emmaüs Connect, La plume aquatintienne",
     "date": [
-        "202"
+        "2022-11-17"
     ],
     "thematique": [
-        "technologie",
-        "accompagnement social",
-        "enjeux sociétaux"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_dateliers_numeriques_en_direction_des_seniors.txt",

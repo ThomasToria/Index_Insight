@@ -1,25 +1,29 @@
 {
-    "titre": "Forum habitat",
-    "territoire": "",
+    "titre": "Forum Habitat",
+    "territoire": "Saint-Nazaire (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "La ville de Saint-Nazaire s'est engagée à développer une politique volontariste favorable au vieillissement actif de son territoire. Elle a créé un conseil des aînés en juin 2019, regroupant cinquante-trois citoyens âgés de plus de soixante ans.",
-        "contexte": "",
-        "problematique": "Développer une politique volontariste favorable au vieillissement actif du territoire",
-        "solution_envisagee": "Création d'un conseil des aînés et mise en place de groupes de travail sur différents thèmes, dont l'habitat.",
-        "objectifs": ""
+        "description_generale": "La ville de Saint-Nazaire a organisé un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d'habitat.",
+        "contexte": "Saint-Nazaire s'est engagée à développer une politique volontariste favorable au vieillissement actif, créant le conseil des aînés et organisant un forum sur l’habitat.",
+        "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d’habitat.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La ville de Saint-Naz Nazaire avec la compétence 'habitat' portée par l'intercommunalité de l'agglomération de Saint-Nazaire",
+    "porteur_initiative": "Saint-Nazaire (44)",
     "date": [
-        "2019-06"
+        "depuis 2019"
     ],
     "thematique": [
-        "vieillissement actif",
-        "politique volontariste",
-        "compétence habitat"
+        "habitat",
+        "lien social",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_habitat.txt",

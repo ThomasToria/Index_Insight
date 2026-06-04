@@ -1,24 +1,31 @@
 {
-    "titre": "Seniors en contact",
-    "territoire": "",
+    "titre": "Une action inscrite dans le cadre de MONALISA",
+    "territoire": "Commune",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "personnes âgées de plus de 75 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Une action inscrite dans le cadre de Monalisa, une mobilisation nationale contre l'isolement des personnes âgées.",
-        "contexte": "Selon une estimation, 1,2 million de personnes âgées de plus de 75 ans seraient en situation d'isolement relationnel en France. Cette sollicitude peut être un facteur majeur d'accélération de la perte d'autonomie.",
-        "problematique": "L'isolement des personnes âgées",
-        "solution_envisagee": "La mise en place d'un dispositif par le CA du CCAS pour valider et autoriser la mise en œuvre de l'action inscrite dans le cadre de Monalisa.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer les relations entre les résidents de l'EHPAD, leurs proches et la société civile.",
+        "contexte": "Selon une estimation, 1,2 millions de personnes âgées de plus de 75 ans seraient en situation d'isolement relationnel en France. Cette situation peut être un facteur majeur d'accélération de la perte d'autonomie.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une équipe de bénévoles a été formée pour assurer des appels téléphoniques visant à créer un lien social entre les résidents de l'EHPAD et leurs proches.",
+        "objectifs": [
+            "Renforcer les liens sociaux entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser la mémoire et la place des résidents dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Michèle DELAUNAY, ancienne ministre déléguée aux personnes âgées",
+    "porteur_initiative": "CCAS de Dijon",
     "date": [
         "2014"
     ],
     "thematique": [
         "santé",
-        "social"
+        "lien social",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_en_contact.txt",

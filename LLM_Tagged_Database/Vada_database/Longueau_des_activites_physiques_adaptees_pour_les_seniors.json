@@ -1,26 +1,33 @@
 {
     "titre": "Longueau: des activités physiques adaptées pour les seniors",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Développement de gym douce et marche nordique dans le cadre des animations seniors proposées par le CCAS.",
-        "contexte": "Demande croissante d'activités physiques adaptées par les seniors, notamment pour ceux plus jeunes qui étaient en demande d'activités.",
-        "problematique": "Manque de possibilités d'activité physique adaptée pour les seniors",
-        "solution_envisagee": [
-            "Développement de gym douce et marche nordique"
-        ],
-        "objectifs": "Permettre au plus grand nombre de participer à ces activités, toucher des seniors plus jeunes en demande d'activités physiques adaptées."
+        "description_generale": "Les activités physiques démarrent en septembre et les seniors peuvent s'inscrire tout au long de l'année. Les séances ont lieu pendant toute l'année, de septembre à juin, sauf pendant les périodes de vacances scolaires.",
+        "contexte": "Dans le cadre des animations seniors proposées par le CCAS, beaucoup de personnes étaient en demande de gym douce. Ce type d'activités a donc été développé sur la Commune à partir de septembre 2021 afin de permettre au plus grand nombre d'y participer.",
+        "problematique": "Les seniors ont besoin de pratiquer régulièrement des activités physiques pour prévenir les risques de chutes et favoriser le lien social.",
+        "solution_envisagee": "Des séances d'activités physiques adaptées sont proposées tout au long de l'année, avec une programmation d'ateliers et un éducateur sportif qui propose des parcours de marche nordique différents chaque semaine.",
+        "objectifs": [
+            "Permettre aux seniors de bien vieillir",
+            "Les maintenir le plus longtemps possible dans les meilleurs conditions",
+            "Prévenir les risques de chutes",
+            "Diminuer la perte d'autonomie",
+            "Faire découvrir des espaces de nature à proximité de la Commune"
+        ]
     },
-    "porteur_initiative": "CCAS",
+    "porteur_initiative": "CCAS (Communauté de Communes)",
     "date": [
-        "2021-09-00"
+        "depuis 2021"
     ],
     "thematique": [
-        "Santé et bien-être",
-        "Activité physique"
+        "santé",
+        "lien social",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Longueau_des_activites_physiques_adaptees_pour_les_seniors.txt",

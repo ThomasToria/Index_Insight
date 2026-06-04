@@ -1,20 +1,33 @@
 {
-    "titre": "Film hommage l'histoire du cinéma",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "",
+    "titre": "Film hommage à l'histoire du cinéma",
+    "territoire": "Commune: Caluire-et-cuire, Ville adhérente depuis 2016",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le projet consiste en la co-réalisation d’un film hommage à un résident décédé du Covid, ancien projecteur dans un cinéma et sa diffusion dans une salle de cinéma de la Ville.",
-        "contexte": "DES SENIORS RÉALISENT UN FILM VALORISANT LEUR RÉSIDENCE",
-        "problematique": "Valoriser le modèle d'habitat des résidents en Résidence Autonomie et faire connaître ce mode de vie.",
-        "solution_envisagee": "La co-réalisation d'un film hommage à un résident décédé du Covid, ancien projecteur dans un cinéma et sa diffusion dans une salle de cinéma de la Ville.",
-        "objectifs": ""
+        "description_generale": "Le projet consiste en la co-réalisation d’un film hommage à un résident décédé du Covid-19, ancien projecteur dans un cinéma lyonnais, afin de valoriser l’histoire du cinéma et les talents artistiques des résidents de la Résidence Autonomie.",
+        "contexte": "Le projet vise à rendre les résidents acteurs d'un projet au long terme en racontant l'histoire du cinéma qu'ils ont connu. Il s'agit également de valoriser et montrer les talents artistiques des résidents auprès des habitants de la commune.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un film hommage à un ancien projecteur décédé du Covid-19, une enquête sur l'histoire du cinéma qu'ils ont connu, des ateliers de chants pour créer des musiques du film, des ateliers théâtres et une visite du musée Lumière.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents et la société civile",
+            "Valoriser l'histoire du cinéma qu'ils ont connu",
+            "Montrer les talents artistiques des résidents auprès des habitants de la commune"
+        ]
     },
-    "porteur_initiative": "DES SENIORS",
-    "date": [],
+    "porteur_initiative": "Ville de Caluire-et-cuire, Ville adhérente depuis 2016",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Cinéma",
-        "Résidence Autonomie"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Film_hommage_lhistoire_du_cinema.txt",

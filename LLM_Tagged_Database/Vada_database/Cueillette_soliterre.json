@@ -1,22 +1,32 @@
 {
-    "titre": "Cueillette soli’terre",
-    "territoire": "",
+    "titre": "Cueillette soli'terre",
+    "territoire": "Commune: Fouras-les-bains (17)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Un projet solidaire, antigaspi et facteur de liens sociaux qui vise à collecter des fruits et légumes non cueillis par les propriétaires ou locataires dans les jardins.",
-        "contexte": "Le constat d'un gaspillage important de fruits et légumes non récoltés a été fait dans les jardins à Fouras-les-bains.",
-        "problematique": "Le gaspillage de fruits et légumes non cueillis par les propriétaires ou locataires des jardins.",
-        "solution_envisagee": "La création d'une action solidaire pour collecter ces produits et les distribuer aux personnes en situation d'isolement ou de précarité.",
-        "objectifs": ""
+        "description_generale": "Une action anti-gaspillage de fruits et légumes non récoltés par les propriétaires des jardins à Fouras-les-bains.",
+        "contexte": "Le gaspillage important de fruits et légumes non cueillis par les propriétaires des jardins a été identifié, avec des raisons variées comme le vieillissement de la population, la production importante de fruits et légumes au regard de la composition du foyer, et une baisse du niveau des capacités physiques du propriétaire.",
+        "problematique": "Le gaspillage important de fruits et légumes non cueillis par les propriétaires des jardins à Fouras-les-bains a conduit à l'identification d'un projet solidaire, antigaspi et facteur de liens sociaux pour valoriser ces produits.",
+        "solution_envisagee": "La mise en place du projet Cueillette Soli’terre consiste à organiser des cueilles soli’terre, permettant aux propriétaires de jardins d'offrir leurs fruits et légumes non récoltés aux bénéficiaires de l'aide alimentaire.",
+        "objectifs": [
+            "Favoriser la création de liens sociaux et intergénérationnels entre cueilleurs soli’terre, propriétaires de jardins soli terre et préparateurs soli terre",
+            "Transmettre des savoirs faire pratiques: tant dans les techniques des cueillettes que dans le stockage et la transformation des produits cueillis"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS de Fouras-les-bains",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "solidarité",
-        "anti-gaspillage"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cueillette_soliterre.txt",

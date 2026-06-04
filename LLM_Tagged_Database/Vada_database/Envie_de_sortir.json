@@ -1,25 +1,30 @@
 {
     "titre": "Envie de sortir",
-    "territoire": "",
+    "territoire": "Commune du Chambon-Feugerolles, Ville Amie des Aînés depuis 2022",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors vivants à domicile et résidents autonomes",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Un support de communication dédié aux seniors, sous format papier ou numérique sur le site internet de la collectivité. Il a été initialement créé pour proposer des offres à la résidence autonomie de la commune.",
-        "contexte": "",
-        "problematique": "La centralisation des offres en dehors de la résidence autonomie",
-        "solution_envisagee": "Création d'un support de communication dédié aux seniors, accessible via le site internet de la collectivité",
-        "objectifs": "Proposer une offre variée et centrée sur les besoins des seniors vivant à domicile ou résidant autonomement"
+        "description_generale": "Support de communication spécialement dédié aux seniors, créé à l’origine pour proposer des activités en résidence autonomie.",
+        "contexte": "La ville du Chambon-Feugerolles propose un support de communication spécifique aux seniors, basé sur le site internet de la collectivité. Ce document a été conçu pour aider les seniors à se connecter à diverses offres et services proposés par la commune.",
+        "problematique": "Faciliter l'accès des seniors aux informations sur les offres en leur direction.",
+        "solution_envisagee": "Proposer un support papier facilement accessible pour les seniors afin de limiter les effets de la fracture numérique en matière de communication.",
+        "objectifs": [
+            "Améliorer l'accessibilité des seniors aux informations sur les offres et services proposés par la commune",
+            "Centraliser les offres en matière de prévention, accès à la culture et aux loisirs pour faciliter la prise d'information et rendre le contenu plus lisible pour les seniors"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Centre Communautaire d’Action Sociale du Chambon-Feugerolles",
     "date": [
-        "2012"
+        "2012",
+        "2014",
+        "2023"
     ],
     "thematique": [
-        "gériatrie",
-        "santé publique",
-        "social"
+        "prévention",
+        "accès à la culture et aux loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Envie_de_sortir.txt",

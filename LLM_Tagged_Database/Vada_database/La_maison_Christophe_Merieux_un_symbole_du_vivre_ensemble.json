@@ -1,22 +1,33 @@
 {
     "titre": "La maison Christophe Mérieux: un symbole du 'vivre ensemble'",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "DES PUBLICS HÉTÉROGÈNES",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La Maison Christophe Mérieux est une résidence qui accueille un public très diversifié.",
-        "contexte": "Commune",
-        "problematique": "DES PUBLICS HÉTÉROGÈNES",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "La Maison Christophe Mérieux est une structure communale qui a pour objectif de réunir des publics très diversifiés, y compris jeunes mères célibataires, religieuses et personnes âgées. Elle propose un cadre d'accueil adapté aux différents besoins et souhaits de chacun.",
+        "contexte": "La Maison Christophe Mérieux a été conçue pour répondre à des besoins spécifiques de la société locale, notamment en matière de soutien social et d'accompagnement dans le maintien à domicile. Elle est située dans un quartier étudiant proche des transports en commun et des hôpitaux.",
+        "problematique": "La Maison Christophe Mérieux a été conçue pour répondre aux besoins spécifiques de la société locale, notamment en matière de soutien social et d'accompagnement dans le maintien à domicile. Elle est située dans un quartier étudiant proche des transports en commun et des hôpitaux.",
+        "solution_envisagee": "La Maison Christophe Mérieux propose une structure adaptée aux différents besoins de ses résidents, y compris jeunes mères célibataires, religieuses et personnes âgées. Elle a été conçue pour permettre à tous les résidents de vivre de manière autonome tout en encourageant des rencontres entre eux.",
+        "objectifs": [
+            "renforcer les liens entre les résidents",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
     "porteur_initiative": "",
     "date": [],
     "thematique": [
-        "intégration sociale",
-        "diversité"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_maison_Christophe_Merieux_un_symbole_du_vivre_ensemble.txt",

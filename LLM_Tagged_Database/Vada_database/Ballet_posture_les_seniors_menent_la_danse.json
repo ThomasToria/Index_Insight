@@ -1,25 +1,36 @@
 {
-    "titre": "Ballet posture 'les seniors mènent la danse'",
-    "territoire": "",
+    "titre": "Ballet Posture 'les seniors mènent la danse'",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Cette initiative vise à améliorer les animations et activités proposées par la Mission Seniors en répondant aux attentes des seniors.",
-        "contexte": "Les seniors ont été consultés via un questionnaire et 16 ateliers FIL en 2022 pour identifier leurs besoins et préoccupations concernant les activités sportives.",
-        "problematique": "LES FREINS DE L'ACCÈS À UNE ACTIVITÉ PHYSIQUE",
-        "solution_envisagee": "L'amélioration des animations et activités proposées par la Mission Seniors en répondant aux attentes des seniors.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer l’accessibilité des seniors aux activités physiques, en proposant un cycle de danse classique adapté.",
+        "contexte": "Les seniors ont été consultés pour comprendre leurs besoins et préoccupations concernant les activités sportives. Des freins mentionnés comprenaient la crainte d’entrer dans une activité sans expérience ou adaptée à leur niveau.",
+        "problematique": "Le besoin de renforcer les liens entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un cycle de danse classique adapté aux seniors, accompagné par une professionnelle, permettant d’initier les seniors à l’activité sportive et de participer au festival 'Allure folle'.",
+        "objectifs": [
+            "Dynamiser l'image des seniors et en modifier la représentation",
+            "Valoriser les capacités de chacun par le biais d’une activité sportive",
+            "Développer l’envie de découvrir et apprendre",
+            "Innover/oser/Renforcer le lien social",
+            "Sortir les seniors de leur zone de confort en proposant une activité jamais proposée pour leur catégorie d'âge"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Ville Amie des Aînés de Dunkerque depuis 2022",
     "date": [
-        "2022"
+        "depuis 2019"
     ],
     "thematique": [
         "santé",
-        "activités physiques",
-        "seniors"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ballet_posture_les_seniors_menent_la_danse.txt",

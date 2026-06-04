@@ -1,0 +1,31 @@
+{
+    "titre": "Culture et loisirs 'part'âgés",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "En 2017, lors d'une réunion avec le conseil communal des aînés, il est mis en évidence un manque d'actions culturelles et de loisirs en journée pour les seniors en perte d'autonomie, personnes pour lesquelles l'accès en fin de journée ou en soirée est peu adapté. Il a été décidé de créer une programmation spécifique pour ce public.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Le manque d'actions culturelles et de loisirs pour les seniors en perte d'autonomie, qui ont besoin d'un accès facile à l'extérieur du domicile ou des structures d'accueil.",
+        "solution_envisagee": "Création d'une programmation spécifique pour les seniors aux fins de journée et soirées, avec une communication via le support trimestriel dédié aux seniors 'Envie de sortir'.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile.",
+            "Prévenir l'isolement social et la perte d'autonomie des seniors en perte d'autonomie."
+        ]
+    },
+    "porteur_initiative": "Commune",
+    "date": [
+        "2017"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Culture_et_loisirs_partages.txt",
+    "nom_fichier": "Culture_et_loisirs_partages.txt"
+}

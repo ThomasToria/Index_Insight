@@ -1,22 +1,29 @@
 {
     "titre": "Accompagnement au développement de l'habitat participatif",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "accompagnement",
     "description": {
-        "description_generale": "Le Pays de Mormal soutient les projets d'habitats dédiés aux seniors à l'échelle intercommunale.",
-        "contexte": "Dans le cadre de la démarche Communauté Amie Des Aînés (CADA), le Pays de Mormal promeut, anime et coordonne le développement de ces projets.",
-        "problematique": "La nécessité d'offrir des alternatives à l'habitat privé ou à l'EHPAD pour les seniors.",
-        "solution_envisagee": "Soutien aux porteurs du territoire identifiés pour favoriser l'émergence et la réalisation de ces projets alternatifs.",
-        "objectifs": ""
+        "description_generale": "Accompagner les porteurs de projets d'habitat alternatif dédié aux seniors sur le territoire communautaire.",
+        "contexte": "Les aînés du territoire ont exprimé un besoin pour des logements adaptés à leur situation, mais ils refusent l'EHPAD. La maison où ils habitent depuis longtemps n'est pas améliorée.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'habitat alternatif dédié aux seniors et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer un accompagnement technique aux communes pour faciliter le développement d'habitats alternatifs dédiés aux seniors sur le territoire communautaire.",
+        "objectifs": [
+            "Favoriser l'émergence et la réalisation de projets d'habitats dédiés aux seniors par des porteurs identifiés",
+            "Compléter l'offre liée à l'habitat dédié aux seniors du territoire communautaire avec une offre en accueil familial ou EHPAD du territoire"
+        ]
     },
-    "porteur_initiative": "Le Pays de Mormal",
-    "date": [],
+    "porteur_initiative": "Communauté de communes du Pays de Mormal (59)",
+    "date": [
+        "2016"
+    ],
     "thematique": [
         "habitat",
-        "seniors"
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_au_developpement_de_lhabitat_participatif.txt",

@@ -1,25 +1,28 @@
 {
     "titre": "Olympiades intergénérationnelles",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Des épreuves sportives intergénérationnelles ont été organisées pour profiter de la Flamme Olympique.",
-        "contexte": "En été 2024, avait lieu le passage de la Flamme Olympique. Les seniors de Château-Thierry souhaitaient participer à l'événement.",
-        "problematique": "La génération des seniors manque d'occasions pour pratiquer les activités sportives et socialiser avec d'autres générations.",
-        "solution_envisagee": "Organisation de jeux intergénérationnels sur une installation sportive existante (Château Plage).",
-        "objectifs": "Promouvoir l'inclusion sociale, favoriser la pratique du sport entre différentes générations et renforcer le lien communautaire."
+        "description_generale": "Cette olympiade a eu lieu le 25 juillet après-midi.",
+        "contexte": "Le CCAS a géré l'organisation et la coordination de l'événement, et le service des sports de la ville a accompagné la mise en place des épreuves.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des activités sportives intergénérationnelles sur 'Château Plage', une installation sportive présente chaque année sur la commune.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Le CCAS a géré l'organisation et le service des sports de la ville ont accompagné l'événement.",
+    "porteur_initiative": "CCAS",
     "date": [
-        "25 juillet"
+        "25/07/2024"
     ],
     "thematique": [
-        "Sport",
-        "Inclusion sociale",
-        "Génération"
+        "santé",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Olympiades_intergenerationnelles.txt",

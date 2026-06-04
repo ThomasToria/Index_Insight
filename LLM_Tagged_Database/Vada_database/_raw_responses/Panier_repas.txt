@@ -1,0 +1,23 @@
+{
+  "titre": "Panier repas",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "ainés",
+  "nature_initiative": "action intergénérationnelle",
+  "description_generale": "Une initiative locale visant à redistribuer les repas non consommés dans une résidence pour personnes âgées.",
+  "contexte": "La municipalité a identifié un problème de gaspillage alimentaire et précarité alimentaire chez les seniors, conduisant à l'initiative d'une action intergénérationnelle.",
+  "problematique": "Lutter contre le gaspillage alimentaire et la précarité alimentaire des aînés",
+  "solution_envisagee": "Redistribuer les repas non consommés dans une résidence pour personnes âgées sous forme de panier repas.",
+  "objectifs": [
+    "Lutter contre le gaspillage alimentaire",
+    "Faciliter le quotidien des résidents"
+  ],
+  "porteur_initiative": "M. le Maire, services restauration municipaux",
+  "date": ["2019", "depuis 2019"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "numérique"
+  ],
+  "source_site": "VADA"
+}

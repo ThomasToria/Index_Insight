@@ -1,25 +1,38 @@
 {
     "titre": "Projet artistique, inclusif et participatif: Ma montagne",
-    "territoire": "",
+    "territoire": "Commune de Libourne",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Le service Culture de la Ville de Libourne a présenté un spectacle de rue original et gratuit sur le thème des handicaps, en collaboration avec une compagnie artistique.",
-        "contexte": "Dans le cadre du festival des arts de la rue Fest’arts 2021",
-        "problematique": "La participation active des publics fragilisés dans les projets culturels et artistiques",
-        "solution_envisagee": "Un spectacle de rue inclusif et participatif, rassemblant divers publics du territoire.",
-        "objectifs": ""
+        "description_generale": "Un spectacle de rue original et gratuit sur le thème des handicaps, organisé par la Ville de Libourne dans le cadre du festival des arts de la rue.",
+        "contexte": "La compagnie « La Baleine Cargo » a conçu un spectacle chorégraphié autour de témoignages recueillis auprès de personnes âgées et en situation d'handicap, favorisant l'inclusion sociale.",
+        "problematique": "Exprimer un état du monde, des êtres, travailler sur la mémoire intime collective, privilégier l'aventure humaine, favoriser la mixité sociale et intergénérationnelle.",
+        "solution_envisagee": "Un spectacle de rue original et gratuit sur le thème des handicaps, organisé par la Ville de Libourne dans le cadre du festival des arts de la rue.",
+        "objectifs": [
+            "Exprimer un état du monde",
+            "Des êtres",
+            "Travailler sur la mémoire intime collective",
+            "Privilégier l'aventure humaine",
+            "Favoriser la mixité sociale et intergénérationnelle"
+        ]
     },
-    "porteur_initiative": "Le service Culture de la Ville de Libourne en collaboration avec La baleine Cargo",
+    "porteur_initiative": "La Ville de Libourne",
     "date": [
         "2021"
     ],
     "thematique": [
-        "Culture",
-        "Handicaps",
-        "Participation"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_artistique_inclusif_et_participatif_Ma_montagne.txt",

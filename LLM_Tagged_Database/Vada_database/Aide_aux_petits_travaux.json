@@ -1,22 +1,30 @@
 {
     "titre": "Aide aux petits travaux",
-    "territoire": "",
+    "territoire": "Commune de Morteau, 25",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes âgées de plus de 70 ans ou en situation de handicap",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
     "description": {
-        "description_generale": "Un service cadré d'aide aux petits travaux pour les personnes âgées et en situation de handicap.",
-        "contexte": "Face à des appels réguliers au CCAS, élus et agents ont mis en place un service spécifique.",
-        "problematique": "Les personnes âgées ou en situation de handicap n'ayant pas d'entourage peuvent être désemparées face aux petits travaux à faire à leur domicile.",
-        "solution_envisagee": "Un service cadré d'aide aux petits travaux pour ces groupes de personnes.",
-        "objectifs": "Répondre aux demandes régulières des personnes âgées et en situation de handicap, sans être débordés par les appels au CCAS."
+        "description_generale": "Un service très cadré d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap.",
+        "contexte": "Les personnes âgées n'ayant pas ou peu d'entourage sont parfois désemparées face à un petit travail à faire à leur domicile. Face à ces situations régulières et les appels au CCAS, ce service a été mis en place pour répondre aux besoins des aînés.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un service d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap. Ce service intervient chez les personnes isolées pour réaliser des petits services ou travaux nécessitant une intervention de moins de 30 minutes.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "Élus et agents",
-    "date": [],
+    "porteur_initiative": "CCAS (Commune d'Amis des Aînés)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aide_aux_petits_travaux.txt",

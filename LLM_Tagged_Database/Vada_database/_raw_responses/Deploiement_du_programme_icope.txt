@@ -1,0 +1,24 @@
+{
+  "titre": "Déploiement du programme icope",
+  "territoire": "Communale",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors.",
+  "contexte": "La commune a constaté le besoin d'un tel programme après l'expérience positive de la mise en œuvre d'un dépistage de la fragilité sur la commune.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "Un parcours de soin et d'accompagnement centré sur le maintien de l'autonomie des personnes âgées",
+  "objectifs": [
+    "Renforcer la prévention santé et le bien-vieillir des seniors",
+    "Créer un véritable parcours de soin et d'accompagnement centré sur le maintien de l'autonomie des personnes âgées",
+    "Mettre en place des stratégies pour prévenir la perte d'autonomie et la dépendance"
+  ],
+  "porteur_initiative": "CCAS, Gérontopôle de Toulouse, professionnels de santé du territoire, Communauté Professionnelle Territoriale de Santé (CPTS), clinique des Pyrénées",
+  "date": ["septembre 2021", "novembre 2021"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

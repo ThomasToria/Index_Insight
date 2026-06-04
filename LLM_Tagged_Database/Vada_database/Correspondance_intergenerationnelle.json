@@ -1,22 +1,35 @@
 {
-    "titre": "Correspondance intergénérationnelle",
-    "territoire": "",
+    "titre": "Correspondance Intergénérationnelle",
+    "territoire": "Commune: Caen (14)",
     "echelle": [
-        "commune"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "PARTAGER, ÉCHANGER ET METTRE EN LIEN. L'objectif est de mettre en relation des jeunes de l’association Rotaract avec les retraités de son association (cohabitation intergénérationnelle) pour qu’ils puissent entretenir une relation épistolaire.",
-        "contexte": "",
-        "problematique": "LIEN met en relation des jeunes de l'association Rotaract avec les retraités de son association (cohabitation intergénérationnelle).",
-        "solution_envisagee": "Un projet d’échanges épistolaires avec des jeunes engagés. Le but est d’installer une correspondance entre un jeune et un retraité.",
-        "objectifs": ""
+        "description_generale": "Un projet d'échanges épistolaires entre jeunes de l'association Rotaract et retraités de l'association LIEN, visant à rompre la solitude des seniors pendant le confinement.",
+        "contexte": "Le confinement a mis en lumière les problèmes de lien social pour les personnes âgées, notamment dans les communautés locales. Les jeunes membres de LIEN ont exprimé leur désir d'aider les seniors et ont initié ce projet.",
+        "problematique": "La solitude des retraités et la nécessité de maintenir des liens sociaux entre générations pendant le confinement.",
+        "solution_envisagee": "Un atelier d'échanges épistolaires entre jeunes de Rotaract et seniors de LIEN, visant à rompre la solitude des seniors et à favoriser les interactions intergénérationnelles.",
+        "objectifs": [
+            "Romper la solitude des retraités",
+            "Favoriser le sentiment d’utilité chez les jeunes en rompant la solitude des seniors",
+            "S'ouvrir au monde et élargir la façon de penser des jeunes et des retraités",
+            "S'ouvrir à une personne qui vient d'une classe sociale différente, d'un pays différent, d'une culture différente, d'un âge différent"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "LIEN (Association locale) et Rotaract (association de jeunes)",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "catégorie",
-        "commune"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Correspondance_intergenerationnelle.txt",

@@ -1,22 +1,29 @@
 {
     "titre": "Mise en oeuvre du dispositif de 'l'heure civique'",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Suite aux réunions Ville Amie des Aînés et les sollicitations de certains seniors au niveau du CCAS, la municipalité a décidé de suivre l'élan départemental et d'inscrire dans le dispositif de l'heure civique. Il s'agit de mettre en place une aide de proximité à l'attention des administrés : les administrés offrent une heure de leur temps par mois à d'autres administrés ou à la commune.",
-        "contexte": "",
-        "problematique": "L'absence de dispositif d'aide de proximité pour répondre aux besoins des administrés",
-        "solution_envisagee": "La mise en place du dispositif de l'heure civique, où les administrés offrent une heure de leur temps par mois à d'autres administrés ou à la commune.",
-        "objectifs": ""
+        "description_generale": "Une initiative municipale visant à renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile.",
+        "contexte": "La municipalité a décidé d'adopter le dispositif 'l'heure civique' suite aux recommandations du CCAS et des sollicitations de certains seniors.",
+        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile pour valoriser leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Mise en place d'une plateforme d'échanges de savoirs et/ou de services à destination des administrés, avec une attention particulière portée aux personnes âgées (ainés et autres).",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile.",
+            "Valoriser leur mémoire et leur place dans la vie locale."
+        ]
     },
-    "porteur_initiative": "Municipalité",
-    "date": [],
+    "porteur_initiative": "CCAS (Coordination Commune d'Action Sociale)",
+    "date": [
+        "depuis 2021"
+    ],
     "thematique": [
-        "solidarité",
-        "santé et bien-être"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_oeuvre_du_dispositif_de_lheure_civique.txt",

@@ -1,22 +1,28 @@
 {
     "titre": "Mijotons le lien social: les restos seniors",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le service social gérontologique a pu observer parmi les personnes suivies un nombre important de personnes en situation d'isolement avec parfois une perte d'appétence, entraînant un risque de fragilité. Le service accompagnement personnalisé accompagne individuellement des personnes âgées orientées par le service social dans des démarches administratives ou d'accès aux soins.",
-        "contexte": "",
-        "problematique": "Un nombre important de personnes en situation d'isolement avec une perte d'appétence, entraînant un risque de fragilité.",
-        "solution_envisagee": "Organiser des temps d'échange autour d'un repas (restos seniors) pour faire se rencontrer ce public isolé.",
-        "objectifs": ""
+        "description_generale": "Le service accompagnement personnalisé a quant à lui vocation à accompagner individuellement des personnes âgées, orientées par le service social, dans les démarches administratives ou d'accès aux soins.",
+        "contexte": "Depuis deux ans, et dans l'objectif de faire se rencontrer ce public isolé, il a été décidé d’organiser des temps d'échange autour d’un repas pris dans le foyer restaurant géré par le CCAS. L'accompagnement du domicile jusqu'au foyer a permis à des petits groupes de se restaurer ensemble entre seniors d'une même génération et d'échanger sur le vécu de chacun pour ensuite envisager de participer à des temps d'animation proposés sur la ville.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un temps d'échange autour d'un repas pris dans le foyer restaurant géré par le CCAS a permis de créer des liens entre les seniors d'une même génération et d'échanger sur le vécu de chacun pour ensuite envisager de participer à des temps d'animation proposés sur la ville.",
+        "objectifs": [
+            "Soutenir le maintien ou le développement de la vie sociale des personnes en perte d'autonomie.",
+            "Lutter contre l’isolement des personnes âgées."
+        ]
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "depuis 2016"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mijotons_le_lien_social_les_restos_seniors.txt",

@@ -1,0 +1,35 @@
+{
+    "titre": "Seniors en scène",
+    "territoire": "Commune: Nice, France",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
+    "description": {
+        "description_generale": "La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui les sont dédiées. À l'origine, Madame Christiane OLIVA, senior active impliquée dans la vie associative et bénévole s'est proposé d'initier, d'accompagner avec pédagogie, les seniors de la ville de Nice qui souhaitent acquérir des savoirs, savoir-faire et savoir-être fondamentaux nécessaires à une construction d'une pièce de théâtre.",
+        "contexte": "La maison des seniors PORT/REPUBLIQUE accueille et met à disposition des espaces de rencontres 'théâtrales' où les questions sociétales sont le point de départ des créations artistiques avec le concours de Madame OLIVA Christiane.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "La ville de Nice propose à l'ensemble des seniors actifs un large panel d'activités qui les sont dédiées. À l'origine, Madame Christiane OLIVA, senior active impliquée dans la vie associative et bénévole s'est proposé d'initier, d'accompagner avec pédagogie, les seniors de la ville de Nice qui souhaitent acquérir des savoirs, savoir-faire et savoir-être fondamentaux nécessaires à une construction d'une pièce de théâtre.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": "La ville de Nice",
+    "date": [
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_en_scene.txt",
+    "nom_fichier": "Seniors_en_scene.txt"
+}

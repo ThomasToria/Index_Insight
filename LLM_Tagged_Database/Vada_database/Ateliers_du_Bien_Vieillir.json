@@ -1,22 +1,37 @@
 {
     "titre": "Ateliers du Bien Vieillir",
-    "territoire": "",
+    "territoire": "Commune de la Seyne-sur-Mer, 83",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Propose un ensemble d'ateliers pour favoriser le lien social et lutter contre l'isolation des seniors, comprenant notamment des activités physiques, cognitives, culturelles.",
-        "contexte": "L'existence auparavant de nombreuses actions culturelles, sportives et ludiques sur la commune",
-        "problematique": "L'isolement des seniors",
-        "solution_envisagee": "Proposition d'ateliers variés pour stimuler le lien social et l'engagement physique/cognitif des participants.",
-        "objectifs": "Renforcer le lien social, encourager la pratique d'activités pour 'Bien vieillir', améliorer l'isolation des seniors"
+        "description_generale": "Le pôle seniors de la ville de la Seyne-sur-Mer propose désormais un ensemble d'ateliers pour les personnes de plus de 60 ans, favorisant le lien social et lutter contre l'isolement.",
+        "contexte": "Les seniors de la commune ne participaient pas aux activités culturelles et sportives existantes. Les ateliers du bien vieillir ont été créés pour les personnes âgées qui sont isolées, empêchées soit par le manque d'argent, soit physiquement ou psychologiquement.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Favoriser des actions intergénérationnelles, favoriser la solidarité au sein des structures, favoriser l'autonomie des personnes, favoriser leur implication en les faisant participer activement à diverses manifestations (téléthon, assise de la ville, adhésion au RVAA...)",
+        "objectifs": [
+            "Étudier les besoins auprès de seniors fréquentant les animations municipales et l'offre municipale et associative",
+            "Définir avec le CLIC les critères d'empêchement et les quartiers déficitaires en offres d'animation et ayant une population âgée isolée",
+            "Travailler en transversalité avec les services municipaux (sport, culture,...): partenariat inter-service pour mettre en place des ateliers adaptés au vieillissem"
+        ]
     },
-    "porteur_initiative": "Le pôle seniors de la ville de la Seyne-sur-Mer",
-    "date": [],
+    "porteur_initiative": "VillesAMIEs Réseau Francophone",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_du_Bien_Vieillir.txt",

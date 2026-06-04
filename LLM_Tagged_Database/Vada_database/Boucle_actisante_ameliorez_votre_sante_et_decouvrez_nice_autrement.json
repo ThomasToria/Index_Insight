@@ -1,0 +1,37 @@
+{
+    "titre": "Boucle acti'santé améliorez votre santé et découvrez nice autrement!",
+    "territoire": "Commune de Nice",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "La ville de Nice a mis en place une série d'initiatives pour améliorer la santé des seniors et leur permettre de découvrir le patrimoine local.",
+        "contexte": "Les seniors ont besoin de pratiquer régulièrement l’activité physique pour prévenir les problèmes de fragilité et de chutes, favoriser la maintien de l’autonomie et prévoir la dépendance avec l’avancée en âge. La pratique d’une activité physique joue un rôle majeur dans la prévention et le traitement des maladies.",
+        "problematique": "Les seniors ont besoin de pratiquer régulièrement l’activité physique pour prévenir les problèmes de fragilité et de chutes, favoriser la maintien de l’autonomie et prévoir la dépendance avec l’avancée en âge. La pratique d’une activité physique joue un rôle majeur dans la prévention et le traitement des maladies.",
+        "solution_envisagee": "La ville de Nice a mis en place une série d’initiatives pour améliorer la santé des seniors et leur permettre de découvrir le patrimoine local. Cela comprend la création d’une boucle acti’santé dans chaque quartier, qui est composée de 7 étapes actives invitant les seniors à réaliser un échauffement au début de la boucle, des exercices de renforcement musculaire et des étirements à la fin de la boucle. Elle a également 16 étapes botaniques invitant l’utilisateur à découvrir le patrimoine végétal du quartier (arbres et plantes) et 3 parcs sont traversés par la boucle.",
+        "objectifs": [
+            "Améliorer la santé des seniors",
+            "Prévenir les problèmes de fragilité et de chutes",
+            "Favoriser la maintien de l’autonomie",
+            "Prévoir la dépendance avec l'avancée en âge"
+        ]
+    },
+    "porteur_initiative": "La ville de Nice",
+    "date": [
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt",
+    "nom_fichier": "Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt"
+}

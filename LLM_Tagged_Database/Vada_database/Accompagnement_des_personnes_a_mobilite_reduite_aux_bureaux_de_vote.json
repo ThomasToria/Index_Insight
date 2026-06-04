@@ -1,22 +1,28 @@
 {
     "titre": "Accompagnement des personnes à mobilité réduite aux bureaux de vote",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "personnes âgées avec mobilité réduite",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "dispositif",
     "description": {
-        "description_generale": "Proposition d'un service de transport et d'accompagnement pour faciliter l'accès aux bureaux de vote pour les personnes âgées ayant des difficultés de mobilité.",
-        "contexte": "",
-        "problematique": "La fragilité de mobilité certaines personnes âgées peut empêcher leur participation à l'exercice du droit de vote, notamment en raison des distances et obstacles liés aux trajets domicile-bureaux de vote.",
-        "solution_envisagee": "Proposition d'un service de transport et d'accompagnement pour faciliter l'accès aux bureaux de vote",
-        "objectifs": "Permettre à plus de personnes âgées ayant des difficultés de mobilité de participer à l'exercice du droit de vote, en améliorant leur autonomie et leur confort."
+        "description_generale": "La Ville a mis en place un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant ainsi aux habitants de continuer à accomplir leur devoir civique.",
+        "contexte": "Les personnes âgées peuvent rencontrer des difficultés à se rendre aux bureaux de vote, notamment en raison de la mobilité réduite. Cela peut freiner l'exercice des droits et des obligations citoyennes.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant aux habitants de continuer à accomplir leur devoir civique.",
+        "objectifs": [
+            "Permettre aux personnes âgées qui éprouvent des difficultés à se déplacer d'accomplir leurs droits et devoirs civiques."
+        ]
     },
-    "porteur_initiative": "La ville",
-    "date": [],
+    "porteur_initiative": "Maison des seniors (MDS) et CCAS",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "droits civiques",
-        "mobilité"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",

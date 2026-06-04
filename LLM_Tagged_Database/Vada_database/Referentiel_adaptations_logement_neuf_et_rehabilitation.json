@@ -1,22 +1,26 @@
 {
-    "titre": "Référentiel adaptations logement neuf et réhabilitation",
+    "titre": "Référentiel Adaptations Logement Neuf et RÉhabilitation",
     "territoire": "",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "outil pratique",
     "description": {
-        "description_generale": "Un outil pratique pour un habitat favorable au vieillissement.",
-        "contexte": "Dans le cadre de la démarche 'Villes Amies des Aînés' conduite par la Ville de Rennes depuis 2011 et par Rennes Métropole dans son PLH (Programme Local de l'Habitat) de 2015.",
-        "problematique": "Développer une politique de l'habitat favorable au vieillissement.",
-        "solution_envisagee": "",
+        "description_generale": "Un outil pratique pour un habitat favorable au vieillissement, développé dans le cadre de la démarche 'Villes Amies des Aînés' par Rennes Métropole depuis 2017.",
+        "contexte": "",
+        "problematique": "Développer une politique d’habitat favorisant le bien vieillir chez soi, en particulier pour les personnes âgées qui souhaitent vivre à domicile.",
+        "solution_envisagee": "Un référentiel de logement adapté et accessible aux personnes âgées, incluant des aménagements pour la qualité du logement et l’extérieur.",
         "objectifs": ""
     },
-    "porteur_initiative": "La Ville de Rennes, les bailleurs HLM du territoire et l'ARMEC (Association Rennaise pour la Maitrise de l'Énergie)",
-    "date": [],
+    "porteur_initiative": "Rennes Métropole (35)",
+    "date": [
+        "2017"
+    ],
     "thematique": [
-        "habitat",
-        "vieillissement"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",

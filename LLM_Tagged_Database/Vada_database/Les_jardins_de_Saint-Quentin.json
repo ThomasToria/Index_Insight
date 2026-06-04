@@ -1,22 +1,36 @@
 {
     "titre": "Les jardins de Saint-Quentin",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
-        "communale"
+        "quartier"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le projet consiste en la mise en place dans les EHPAD et les structures d’aide à domicile de cinq jardins potagers co-animés par les animateurs des partenaires du réseau de la démarche Villes Amies des Aînés, les conseillers de quartier, et les structures de proximité au sein de la ville de Saint Quentin.",
-        "contexte": "",
-        "problematique": "CONSTRUIRE COLLECTIVEMENT UN LIEU DE TRANSMISSION",
-        "solution_envisagee": "La mise en place de cinq jardins potagers co-animés par différents partenaires pour favoriser la rencontre et l'échange.",
-        "objectifs": ""
+        "description_generale": "Le projet consiste en la mise en place dans les EHPAD et les structures d'aide à domicile de cinq jardins potagers co-animés par les animateurs des partenaires du réseau de la démarche Villes Amies des Aînés, les conseillers de quartier, et les structures de proximité au sein de la ville de Saint Quentin. Ces jardins se fondent sur des valeurs de solidarité, de convivialité, de lien et de partage entre les générations et cultures.",
+        "contexte": "Les jardins sont construits collectivement par les habitants d'un quartier. Ils répondent aux besoins et attentes des habitants d'un lieu.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un chargé de projet a été choisi pour coordonner cette action avec l'ensemble des référents de chaque structure participante au projet. Les réunions ont permis d'organiser les jardins potagers co-animés par les animateurs.",
+        "objectifs": [
+            "Organiser des réunions avec les partenaires pour la mise en place et le financement des jardins",
+            "Recenser des lieux et terrains disponibles",
+            "Préparer les terrains: désherber",
+            "Acheter le matériel nécessaire (plantes, graines)",
+            "Réaliser un flyer pour la communication"
+        ]
     },
-    "porteur_initiative": "Les animateurs des partenaires du réseau de la démarche Villes Amies des Aînés, les conseillers de quartier, et les structures de proximité au sein de la ville de Saint Quentin",
-    "date": [],
+    "porteur_initiative": "Ville de Saint-Quentin",
+    "date": [
+        "2019"
+    ],
     "thematique": [
         "santé",
-        "éducation"
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_jardins_de_Saint-Quentin.txt",

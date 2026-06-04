@@ -1,0 +1,38 @@
+{
+    "titre": "Bien vieillir dans la petite ville de demain aux avirons",
+    "territoire": "communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "La commune des Avirons, située en Ile de La Réunion, a organisé un concours pour améliorer la qualité de vie des seniors. Le but était d'identifier les problèmes spécifiques aux seniors et de proposer des solutions innovantes.",
+        "contexte": "La population âgée du territoire est en constante augmentation, avec une croissance notoire chez les personnes âgées de 60 à 79 ans. Les seniors vivent seuls à domicile, ce qui pose un problème pour leur maintien à domicile et leur sécurité.",
+        "problematique": "Les seniors ont besoin d'activités physiques et cognitives pour prévenir la maladie chronique et les risques de chutes, tout en conservant l'autonomie. Ils souhaitent également retrouver le plaisir de cuisiner et manger correctement.",
+        "solution_envisagee": "Organiser un concours d'initiative autour des seniors pour améliorer leur bien-être physique et mental, favoriser la mobilité, prévenir les maladies chroniques, consoler l'autonomie, stimuler les capacités physiques et cognitives, reprendre confiance en intégrant les exercices pratiques dans la vie quotidienne.",
+        "objectifs": [
+            "Améliorer le bien-être physique et mental des seniors",
+            "Favoriser le maintien à domicile tout en préservant l'autonomie le plus longtemps possible",
+            "Prévenir les maladies chroniques",
+            "Prévenir les risques de chutes, gagner en mobilité, se relever en toute sécurité",
+            "Consolier l'autonomie et retrouver la confiance"
+        ]
+    },
+    "porteur_initiative": "CCAS DES AVIRONS (Ile de La Réunion)",
+    "date": [
+        "2019",
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_dans_la_petite_ville_de_demain_aux_avirons.txt",
+    "nom_fichier": "Bien_vieillir_dans_la_petite_ville_de_demain_aux_avirons.txt"
+}

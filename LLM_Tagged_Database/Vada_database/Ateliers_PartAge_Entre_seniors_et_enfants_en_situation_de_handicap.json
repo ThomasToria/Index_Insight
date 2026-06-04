@@ -1,22 +1,32 @@
 {
     "titre": "Ateliers Part'Âge Entre seniors et enfants en situation de handicap",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "enfants en situation de handicap, seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Proposition d’ateliers intergénérationnels entre des seniors et des enfants en situation de handicap avec une activité artistique comme support.",
-        "contexte": "",
-        "problematique": "Rencontre et lien social entre deux générations",
-        "solution_envisagee": "Activités communes et ateliers artistiques",
-        "objectifs": "Favoriser la rencontre, le lien social et l’interaction entre les seniors et les enfants en situation de handicap."
+        "description_generale": "Cette initiative vise à favoriser la rencontre et le lien social entre seniors et enfants en situation de handicap, en organisant des ateliers artistiques.",
+        "contexte": "Les personnes âgées ont peur de commettre des maladresses face aux enfants lors d'ateliers intergénérationnels.",
+        "problematique": "Lutter contre les préjugés et favoriser le lien social entre seniors et enfants en situation de handicap.",
+        "solution_envisagee": "Organisation d'ateliers artistiques pour créer un spectacle de marionnettes, permettant ainsi des rencontres intergénérationnelles et la valorisation du rôle des seniors dans l'éducation des enfants.",
+        "objectifs": [
+            "Permettre des rencontres intergénérationnelles",
+            "Lutter contre les préjugés",
+            "Créer et favoriser le lien social",
+            "Favoriser la créativité et solliciter l'imaginaire des participants"
+        ]
     },
-    "porteur_initiative": "SESSAD de Vaulx-en-Velin (animatrice et médiatrice artistique) et service municipal des retraités",
-    "date": [],
+    "porteur_initiative": "Service municipal des retraités de la Ville de Vaulx-en-Velin",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social",
+        "numérique",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_PartAge_Entre_seniors_et_enfants_en_situation_de_handicap.txt",

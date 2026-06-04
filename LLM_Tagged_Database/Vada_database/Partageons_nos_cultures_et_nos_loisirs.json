@@ -1,22 +1,30 @@
 {
     "titre": "Partageons nos cultures et nos loisirs",
-    "territoire": "",
+    "territoire": "Commune: Meaulne-Vitray, 03",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La commune de Meaulne-Vitray organise une série de manifestations intergénérationnelles pour favoriser le vivre ensemble.",
-        "contexte": "Les logiques intergénérationnelles de conflit sont un problème majeur dans la communauté.",
-        "problematique": "Chaque génération perçoit l’autre comme différent et parfois hostile, ce qui engendre des tensions sociales.",
-        "solution_envisagee": "Organiser des événements où les générations peuvent se rencontrer et partager leurs expériences pour favoriser la compréhension mutuelle.",
-        "objectifs": "Changer les mentalités envers l’autre génération, favoriser le vivre ensemble et améliorer la compréhension intergénérationnelle."
+        "description_generale": "La commune de Meaulne-Vitray organise une série d'actions visant à changer les mentalités intergénérationnelles, notamment en organisant des manifestations culturelles et ludiques pour favoriser l'échange entre seniors et jeunes.",
+        "contexte": "Les actions ont pour but de renforcer le lien social et lutter contre l’isolement, tout en valorisant la mémoire et les traditions locales. La Ville cherche à inciter les seniors ayant des revenus faibles à participer aux loisirs culturels afin d’éviter l’isolement.",
+        "problematique": "Changer le regard intergénérationnel sur les autres, notamment en favorisant l'échange et la participation de tous au sein du village.",
+        "solution_envisagee": "Organiser des manifestations culturelles et ludiques visant à éduquer les seniors aux loisirs locaux et à valoriser leur mémoire et leur place dans la vie locale, tout en favorisant l'intergénérationnalité.",
+        "objectifs": [
+            "Renforcer le lien social",
+            "Lutter contre l’isolement",
+            "Valoriser la mémoire et les traditions locales"
+        ]
     },
-    "porteur_initiative": "La commune de Meaulne-Vitray",
-    "date": [],
+    "porteur_initiative": "Municipalité de Meaulne-Vitray",
+    "date": [
+        "depuis 2014"
+    ],
     "thematique": [
-        "santé mentale",
-        "social"
+        "santé",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partageons_nos_cultures_et_nos_loisirs.txt",

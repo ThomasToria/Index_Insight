@@ -1,22 +1,25 @@
 {
     "titre": "Connexion part'agée",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
         "description_generale": "",
         "contexte": "",
-        "problematique": "La connexion internet dans les zones rurales et périurbaines est souvent insuffisante ou inexistante, ce qui limite l'accès aux services numériques essentiels.",
-        "solution_envisagee": "L'implantation de points d'accès Wi-Fi partagés pour offrir une connexion internet plus stable et abordable à tous les résidents.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
         "objectifs": ""
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Internet",
-        "Services numériques"
+        "intergénérationnel",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Connexion_partagee.txt",

@@ -1,22 +1,30 @@
 {
     "titre": "Carte Nancy Seniors",
-    "territoire": "",
+    "territoire": "Commune: Nancy (54)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors de plus de 65 ans",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "publication",
     "description": {
-        "description_generale": "Une carte pour tous les nancéens de plus de 65 ans, créée dans le cadre d'une démarche participative et transversale.",
-        "contexte": "",
-        "problematique": "l'isolement des seniors et la visibilité de l’offre sociale et culturelle du territoire",
-        "solution_envisagee": "la création d'une carte pour faciliter l'accès à l'offre sociale et culturelle",
-        "objectifs": ""
+        "description_generale": "La Carte Nancy Seniors a été créée à Nancy dans le cadre d'une démarche participative et transversale, dont l'objectif était de favoriser l'accès et la visibilité de l’offre sociale et culturelle du territoire nancéien.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Déployer des actions pour le maintien autonome et socialement actif des seniors à domicile",
+        "solution_envisagee": "Une carte permettant aux plus de 65 ans d'accéder gratuitement à diverses animations et activités, ainsi qu'aux offres exclusives.",
+        "objectifs": [
+            "Créer une visibilité accrue pour l’offre sociale et culturelle du territoire nancéien",
+            "Favoriser les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
+        ]
     },
-    "porteur_initiative": "Nancy",
-    "date": [],
+    "porteur_initiative": "VillesAMIEs",
+    "date": [
+        "2019-08-01",
+        "2019-09"
+    ],
     "thematique": [
-        "santé",
-        "social"
+        "intergénérationnel",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_Nancy_Seniors.txt",

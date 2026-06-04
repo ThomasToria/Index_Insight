@@ -1,25 +1,30 @@
 {
-    "titre": "ÉLABORATION D’UN PLAN D’ACTION",
-    "territoire": "",
+    "titre": "Élaboration d’un plan d’action",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Encourager la participation et la concertation citoyennes des personnes âgées, favoriser le lien social et prévoir des actions concrètes après avoir identifié les besoins des seniors de la ville de Sceaux.",
-        "contexte": "De 2015 à 2020",
-        "problematique": "",
-        "solution_envisagee": "Élaboration d'un plan d'action collectivement avec des habitants et des acteurs locaux pour encourager la participation citoyenne, favoriser le lien social et identifier les besoins des seniors.",
-        "objectifs": ""
+        "description_generale": "Encourager la participation et la concertation citoyennes des personnes âgées.",
+        "contexte": "Les élus, les représentants du comité consultatif des aînés et les équipes de la ville de Sceaux ont associé des habitants et des acteurs locaux pour élaborer collectivement un plan d’action.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une initiative visant à améliorer la qualité de vie des seniors par le biais d’actions concrètes et participatives.",
+        "objectifs": [
+            "Encourager la participation citoyenne",
+            "Favoriser le lien social"
+        ]
     },
-    "porteur_initiative": "Les élus, les représentants du comité consultatif des aînés et les équipes de la ville de Sceaux",
+    "porteur_initiative": "VillesAMIEs",
     "date": [
         "2015",
-        "2020"
+        "2026"
     ],
     "thematique": [
-        "santé publique",
-        "social"
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_plan_daction.txt",

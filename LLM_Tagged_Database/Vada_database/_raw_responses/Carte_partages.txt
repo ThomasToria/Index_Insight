@@ -1,0 +1,25 @@
+{
+  "titre": "Carte Part'âges",
+  "territoire": "Saint-Max (54)",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "La carte Part'âges est une initiative visant à regrouper des activités de loisirs variées pour les seniors de la commune.",
+  "contexte": "Les seniors de Saint-Max ont besoin d’activités qui leur permettent de rester actifs et connectés avec la société civile.",
+  "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+  "solution_envisagee": "La création d'une carte regroupant des activités variées pour répondre aux besoins spécifiques de la population âgée.",
+  "objectifs": [
+    "Renforcer les liens entre les résidents, leurs proches et la société civile",
+    "Valoriser leur mémoire et leur place dans la vie locale"
+  ],
+  "porteur_initiative": "Saint-Max (54)",
+  "date": ["2019", "septembre"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat"
+  ],
+  "source_site": "VADA"
+}

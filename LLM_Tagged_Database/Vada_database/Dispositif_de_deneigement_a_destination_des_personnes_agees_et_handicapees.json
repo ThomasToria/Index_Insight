@@ -1,0 +1,33 @@
+{
+    "titre": "Dispositif de déneigement à destination des personnes âgées et handicapées",
+    "territoire": "communale",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Le dispositif de déneigement a été mis en place pour sécuriser les déplacements des personnes âgées et de leurs proches, respectant les obligations réglementaires de déneigement.",
+        "contexte": "Les personnes âgées et les personnes en situation de handicap ont besoin d'une sécurité supplémentaire lors des conditions météorologiques difficiles. Le dispositif a été conçu pour faciliter le quotidien des bénéficiaires tout en respectant les normes de déneigement.",
+        "problematique": "Le besoin de sécuriser les déplacements des personnes âgées et de leurs proches, notamment lors des conditions météorologiques difficiles, a conduit à la création du dispositif de déneigement.",
+        "solution_envisagee": "Un partenariat entre le CCAS, une association d'insertion professionnelle, et les bénéficiaires a permis de mettre en place ce dispositif. Les bénéficiaires payent un forfait adhésion pour la prestation technique, tandis que le coût total du projet s'élève à 1258 euros.",
+        "objectifs": [
+            "Sécuriser les déplacements des personnes âgées et de leurs proches",
+            "Respecter les obligations réglementaires de déneigement de trottoirs en tant que riverain de la voie publique"
+        ]
+    },
+    "porteur_initiative": "CCAS de la Ville de Belfort, Association d'Insertion Professionnelle, bénéficiaires (personnes âgées et personnes en situation de handicap)",
+    "date": [
+        "2019",
+        "fin janvier 2025"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_de_deneigement_a_destination_des_personnes_agees_et_handicapees.txt",
+    "nom_fichier": "Dispositif_de_deneigement_a_destination_des_personnes_agees_et_handicapees.txt"
+}

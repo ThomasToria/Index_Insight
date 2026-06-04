@@ -1,0 +1,41 @@
+{
+    "titre": "Salon senior à Tours",
+    "territoire": "Commune: Tours, Métropole: Touraine",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "professionnels",
+    "nature_initiative": "événement",
+    "description": {
+        "description_generale": "Le projet est parti du besoin d'un évènement à la fois à destination des seniors et des professionnels du territoire. Le CCAS de Tours s'est inscrit dans ce projet initié par 'Tours évènements'.",
+        "contexte": "La méconnaissance des services et des droits pour les seniors, ainsi que le besoin de mieux se connaitre et de mieux connaître les initiatives du territoire.",
+        "problematique": "Favoriser les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale. Lutter contre les discriminations, les représentations et stéréotypes sur le vieillissement pour favoriser l'inclusion.",
+        "solution_envisagee": "Un salon senior organisé par le CCAS de Tours, qui vise à sensibiliser les professionnels du bien vieillir aux services et droits des seniors. Le salon s'inscrit dans une démarche inclusive et a eu lieu sur trois jours, du 14 octobre au 16 octobre 2022.",
+        "objectifs": [
+            "Favoriser les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale",
+            "Lutter contre les discriminations, les représentations et stéréotypes sur le vieillissement pour favoriser l'inclusion"
+        ]
+    },
+    "porteur_initiative": "CCAS de Tours",
+    "date": [
+        "14 octobre 2022",
+        "15 octobre 2022",
+        "16 octobre 2022"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_senior_a_tours.txt",
+    "nom_fichier": "Salon_senior_a_tours.txt"
+}

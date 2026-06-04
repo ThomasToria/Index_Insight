@@ -1,0 +1,38 @@
+{
+    "titre": "Catalogue d'activités et ateliers",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Ce projet a débuté en 2007. Avant cela, la commune d'Andorre la Vieille proposait déjà diverses activités en tous genres. Cependant, elles n'étaient alors pas encadrées par un programme. En voyant le succès rencontré, la municipalité a souhaité encadrer d'avantages ces activités.",
+        "contexte": "Le catalogue d’activités de la commune se renouvelle chaque année, et les activités suivent le calendrier scolaire de septembre à juin. Lors de la conception du catalogue d'activités plusieurs aspects sont à tenir en compte. Premièrement un bilan des activités réalisées l'année antérieure est fait, prenant en compte le nombre d’inscriptions et la participation réelle dans les ateliers, ainsi que les abandons au cours de l’année. D’autre part des questionnaires de satisfaction sont réalisés auprès des usagers, mais aussi ailleurs des professionnels en charge d'activités, et des personnes âgées volontaires qui dirigent des ateliers.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Chaque personne peut trouver des activités adaptées à ses besoins individuels, physiques et sociaux. Toutes les activités se sont donc organisées au tour de 3 principes fondamentaux: le corps, l’expression et l’esprit (d’un point de vue cognitif mais aussi spirituel).",
+        "objectifs": [
+            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": "La municipalité d'Andorre la Vieille",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Catalogue_dactivites_et_ateliers.txt",
+    "nom_fichier": "Catalogue_dactivites_et_ateliers.txt"
+}

@@ -2,21 +2,24 @@
     "titre": "Les mamies guitares ou le tonnerre électrique",
     "territoire": "",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Ce projet, porté par La Vapeur (scène de musiques actuelles), la Maison-Phare (structure de quartier) et un producteur, a pour objectif de favoriser la rencontre entre seniors et artistes autour de la réalisation d'une œuvre collective sonore.",
+        "description_generale": "Ce projet, porté par La Vapeur (scène de musiques actuelles), la Maison-Phare (structure de quartier) et un producteur, a pour objectif de favoriser la rencontre entre seniors et artistes autour de la réalisation d'une œuvre collective sonore. Il s'agit d'inventer une forme d'intervention où se conjuguent création artistique et action culturelle.",
         "contexte": "",
-        "problematique": "Il s'agit d'inventer une forme d'intervention où se conjuguent création artistique et action culturelle.",
-        "solution_envisagee": "Le projet propose des ateliers de quatre jours autour de la guitare électrique et de l'écriture, avec la participation de sept seniors non musiciennes et deux artistes.",
+        "problematique": "Le besoin de renforcer les liens entre seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une performance sonore autour des 30 ans d'un EHPAD visant à créer une communauté musicale et intergénérationnelle.",
         "objectifs": ""
     },
-    "porteur_initiative": "La Vapeur (scène de musiques actuelles), la Maison-Phare (structure de quartier) et un producteur",
-    "date": [],
+    "porteur_initiative": "La Vapeur, La Maison-Phare",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "musique",
-        "art culturel"
+        "santé",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mamies_guitares_ou_le_tonnerre_electrique.txt",

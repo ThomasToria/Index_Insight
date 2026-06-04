@@ -1,25 +1,29 @@
 {
     "titre": "Action de prévention à la sécurité routière pour les seniors",
-    "territoire": "",
+    "territoire": "Commune: Veauche (42)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "De janvier à mars 2023, le CCAS de Veauche a mis en place une action sur la sécurité routière avec l’association AgirABCD42 et la police municipale.",
-        "contexte": "Le projet est le résultat d’un constat partagé: la mobilité est un enjeu fort pour les seniors, mais l’avancée en âge peut être dangereuse pour eux et pour les autres.",
-        "problematique": "La sécurité routière des seniors",
-        "solution_envisagee": "Une action de prévention, de sensibilisation et de remédiation à la sécurité routière",
-        "objectifs": "Sensibiliser les seniors aux risques de sécurité routière et proposer des solutions pour améliorer leur mobilité."
+        "description_generale": "Action de prévention à la sécurité routière pour les seniors",
+        "contexte": "Mobilité est un enjeu fort pour les seniors, mais l'avancée en âge peut être dangereuse.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une action sur la sécurité routière à destination des seniors",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "CCAS de Veauche en partenariat avec l’association AgirABCD42 et la police municipale",
+    "porteur_initiative": "CCAS de Veauche (42)",
     "date": [
-        "janvier à mars 2023"
+        "depuis 2023"
     ],
     "thematique": [
-        "vieillissement",
+        "santé",
         "mobilité",
-        "sécurité routière"
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Action_de_prevention_a_la_securite_routiere_pour_les_seniors.txt",

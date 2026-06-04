@@ -1,22 +1,37 @@
 {
-    "titre": "Journées d’échanges d’analyse territoriale par les aînés",
-    "territoire": "",
-    "echelle": [
+    "titre": "Journées d'échanges d'analyse territoriale par les aînés",
+    "territoire": [
         "communale"
     ],
-    "public_vise": "aînés de la ville",
+    "echelle": [
+        "communale",
+        "intercommunale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Proposer aux aînés d’une ville de découvrir les conduites dans d’autres villes, favoriser un retour critique et constructif sur les actions menées, encourager la naissance de nouvelles idées chez les personnes âgées.",
-        "contexte": "",
-        "problematique": "L’absence de contexte spécifique",
-        "solution_envisagee": "Organisation d’échanges territoriaux parmi les aînés",
-        "objectifs": "Proposer aux aînés d’une ville de découvrir les conduites dans d’autres villes, favoriser un retour critique et constructif sur les actions menées, encourager la naissance de nouvelles idées chez les personnes âgées."
+        "description_generale": "Proposer aux aînés d'une ville de découvrir les conduites dans d'autres villes. Favoriser un retour critique et constructif sur les actions menées dans d'autres territoires. Encourager la naissance de nouvelles idées chez les personnes âgées afin de leur permettre d'être une force de proposition auprès des décideurs de leur ville.",
+        "contexte": "Le RFVAA a décidé d'organiser pour la première fois, en 2016, des échanges d’analyse territoriale par les aînés. Concrètement, il s’agit de constituer des binômes de Villes Amies des Aînés qui accueillent chacune leur tour les délégations composées par les villes participantes.",
+        "problematique": "Encourager la participation des aînés et faire vivre le projet",
+        "solution_envisagee": "Organiser des journées d'échanges d'analyse territoriale par les aînés, permettant aux seniors de découvrir les conduites dans d'autres villes. Cette initiative vise à favoriser un retour critique et constructif sur les actions menées dans d'autres territoires.",
+        "objectifs": [
+            "Proposer aux aînés d'une ville de découvrir les conduites dans d'autres villes",
+            "Favoriser un retour critique et constructif sur les actions menées dans d'autres territoires",
+            "Encourager la naissance de nouvelles idées chez les personnes âgées afin de leur permettre d'être une force de proposition auprès des décideurs de leur ville"
+        ]
     },
-    "porteur_initiative": "RFVAA",
-    "date": [],
+    "porteur_initiative": "RFVAA (Réseau des Foyers Aînés)",
+    "date": [
+        "2016"
+    ],
     "thematique": [
-        "valorisation des initiatives",
-        "collectivités"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journees_dechanges_danalyse_territoriale_par_les_aines.txt",

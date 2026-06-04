@@ -1,23 +1,40 @@
 {
     "titre": "Cap ou pas cap",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Les séniors ont été consultés à l’automne 2021 par le biais d’un questionnaire puis lors de 16 ateliers de concertation intitulés ‘Fabrique d’Initiatives Locales’ (FIL) entre janvier et mai 2022 dans les différents quartiers de la ville. Ces ateliers avaient notamment pour objectifs d’améliorer les animations et les activités proposées par la mission séniors.",
-        "contexte": "",
-        "problematique": "La crainte de commencer une activité sportive lorsque l’on est seul, la peur que le nombre d’adhérents à un groupe diminue avec l’âge et la difficulté pour les séniors de trouver des activités adaptées.",
-        "solution_envisagee": "",
-        "objectifs": ""
+        "description_generale": "Cette initiative a été menée par les séniors de la commune pour améliorer l’image des seniors et valoriser leurs capacités.",
+        "contexte": "Les séniors ont été consultés à plusieurs époques, notamment en 2021 et 2022, lors d'ateliers de concertation sur les thèmes de la mobilité et du lien social. Des freins aux activités physiques ont été identifiés.",
+        "problematique": "Les séniors se sentent isolés et peinent à sortir de leur zone de confort en raison de craintes concernant l’activité physique.",
+        "solution_envisagee": "Six sports ont été retenus pour une action sportive, incluant pétanque sur glace, bowling, escrime, laser game, Qi gong et golf. Des activités physiques originales ont été proposées à des tarifs réduits ou gratuits.",
+        "objectifs": [
+            "Dynamiser l’image des séniors",
+            "Valoriser les capacités de chacun par le biais d’une activité sportive",
+            "Développer l’envie de découvrir et d’apprendre, d’innover et oser",
+            "Sortir les séniors de leur zone de confort",
+            "Favoriser le lien intergénérationnel",
+            "Travailler la confiance en soi",
+            "Développer le lien social et l'entraide",
+            "Rompre l’isolement des séniors seuls"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Les séniors de la commune",
     "date": [
-        "2021",
-        "2022"
+        "depuis 2019"
     ],
-    "thematique": [],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cap_ou_pas_cap.txt",
     "nom_fichier": "Cap_ou_pas_cap.txt"

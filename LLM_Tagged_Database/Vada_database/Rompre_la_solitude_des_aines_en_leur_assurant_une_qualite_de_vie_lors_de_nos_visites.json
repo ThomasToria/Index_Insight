@@ -1,22 +1,29 @@
 {
     "titre": "Rompre la solitude des aînés en leur assurant une qualité de vie lors de nos visites",
-    "territoire": "",
+    "territoire": "Commune: Avignon (84)",
     "echelle": [
-        "intercommunale"
+        "communale"
     ],
-    "public_vise": "personnes âgées",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "L’association ACLAP (Action de Coordination de Loisirs et d’Accueil aux Personnes âgées) a été créée pour aider les seniors à rester chez eux jusqu'à la fin de leur vie, quel que soit leur handicap. Elle offre également des actions sociales diverses.",
-        "contexte": "Suite à un constat de désert social des personnes âgées",
-        "problematique": "La solitude et l'isolement des aînés",
-        "solution_envisagee": "Visites, sorties, ateliers intergénérationnels, anniversaires pour maintenir un lien social",
-        "objectifs": "Maintien à domicile, amélioration de la qualité de vie, maintien du lien social"
+        "description_generale": "L'association ACLAP a créé un atelier pour aider les seniors à rester à domicile malgré leurs handicaps. Les visites, sorties, ateliers intergénérationnels et anniversaires sont organisés par l’association afin de maintenir le lien social et valoriser leur mémoire.",
+        "contexte": "La solitude des aînés est un problème majeur dans la commune d'Avignon. L'association ACLAP a mis en place diverses actions pour aider les seniors à rester à domicile malgré leurs handicaps, notamment visites, sorties, ateliers intergénérationnels et anniversaires.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "L'association ACLAP a mis en place un atelier pour aider les seniors à rester à domicile malgré leurs handicaps. Les visites, sorties, ateliers intergénérationnels et anniversaires sont organisés par l’association afin de maintenir le lien social et valoriser leur mémoire.",
+        "objectifs": [
+            "Lutter contre la solitude",
+            "Favoriser l'entraide et la solidarité entre les générations dans la commune"
+        ]
     },
-    "porteur_initiative": "ACLAP (Action de Coordination de Loisirs et d’Accueil aux Personnes âgées)",
-    "date": [],
+    "porteur_initiative": "Association ACLAP",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
         "santé",
-        "social"
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Rompre_la_solitude_des_aines_en_leur_assurant_une_qualite_de_vie_lors_de_nos_visites.txt",

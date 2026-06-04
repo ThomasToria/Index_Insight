@@ -1,23 +1,28 @@
 {
-    "titre": "Le grand débat: Longévité, ouvrons le champs des possibles:",
-    "territoire": "",
+    "titre": "Le grand débat: Longévité, ouvrons le champ des possibles",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Trois grands débats citoyens ont été organisés sur le territoire de la métropole nantaise, portant respectivement sur la Loire, la transition énergétique et la transe tion démographique et le vieillissement. Le dernier a été centré sur les enjeux sociétaux liés à l'allongement de la vie.",
-        "contexte": "",
-        "problematique": "La question du vieillissement et son impact sur les métropoles et le vivre-ensemble",
+        "description_generale": "Le Grand Débat sur la longévité a été organisé dans le cadre de trois grands débats citoyens sur le territoire de la métropole nantaise, visant à renforcer la connaissance des problématiques et prévisions liées au vieillissement.",
+        "contexte": "Le Grand Débat vise à nourrir les acteurs et citoyens du territoire pour une meilleure connaissance des problématiques et prévisions liées au vieillissement dans leurs projets et quotidien, dans une dynamique de « bien vivre ensemble ».",
+        "problematique": "La longévité comme projet de vie: quel choix pour chacun? L'allongement de la vie implique d'être plus attentif à soi. Comment profiter des meilleures conditions des années gagnées? Y a-t-il une limite éthique à la longévité? Quelle fin de vie en bonne santé?",
         "solution_envisagee": "",
-        "objectifs": "Prise en compte des grands enjeux sociétaux liés à l'allongement de la vie, notamment dans le cadre d'une perspective exploratoire."
+        "objectifs": [
+            "renforcer la connaissance des problématiques et prévisions liées au vieillissement dans les projets et quotidiens des citoyens",
+            "promouvoir une meilleure compréhension des besoins et attentes de la diversité des générations âgées"
+        ]
     },
     "porteur_initiative": "",
-    "date": [],
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "longévité",
-        "vieillissement",
-        "métropoles"
+        "santé",
+        "vieillissement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_grand_debat_Longevite_ouvrons_le_champs_des_possibles.txt",

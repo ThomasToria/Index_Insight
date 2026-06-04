@@ -1,0 +1,24 @@
+{
+  "titre": "Une application innovante pour la prévention",
+  "territoire": "communale",
+  "echelle": ["quartier", "régionale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "application numérique",
+  "description_generale": "ACTIVIE est une application gratuite lancée par la ville de Lyon, destinée aux seniors. Son objectif est d'inciter les aînés à prendre soin de leur santé en proposant des défis personnalisés et des activités adaptées à leurs centres d'intérêts.",
+  "contexte": "La prévention de la perte d'autonomie, notamment par l’application d’une alimentation saine et une activité physique.",
+  "problematique": "Le besoin de motiver les seniors à prendre soin de leur santé et d'optimiser leurs interactions sociales pour maintenir leur autonomie.",
+  "solution_envisagee": "ACTIVIE, une application numérique qui propose des défis personnalisés et des activités adaptées aux centres d'intérêts des seniors.",
+  "objectifs": [
+    "Motiver les seniors à prendre soin de leur santé",
+    "Améliorer l'interaction sociale entre les seniors et la société civile",
+    "Promouvoir une alimentation saine pour maintenir la santé physique"
+  ],
+  "porteur_initiative": "Lili Smart, une start-up spécialisée dans le digital en santé",
+  "date": ["2019", "depuis 2019"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "numérique"
+  ],
+  "source_site": "VADA"
+}

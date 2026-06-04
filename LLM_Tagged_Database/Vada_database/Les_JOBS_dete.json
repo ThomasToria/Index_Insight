@@ -1,22 +1,30 @@
 {
-    "titre": "Les JOBS d'été",
-    "territoire": "",
+    "titre": "Les JOBS d’été",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Permettre aux jeunes et aux personnes âgées de créer une communication positive, favorisant ainsi un lien entre eux.",
-        "contexte": "Dans le cadre du pôle seniors « Mieux Vivre Ensemble » animé principalement par le Centre Social, le CCAS, le CIAS et l’EHPAD Jean Gallet, il est constaté qu'il n'y a pas d'actions intergénérationnelles sur la commune.",
-        "problematique": "La communication entre les jeunes et les personnes âgées se faisait peu dans le cadre du pôle seniors.",
-        "solution_envisagee": "Mettre en place un projet « jobs d’été intergénérationnel » pour favoriser une meilleure interaction entre les deux groupes.",
-        "objectifs": ""
+        "description_generale": "Le projet de lancement des JOBS d'été intergénérationnels a été initié en 2010 par le CCAS, avec la participation du Centre Social, du CIAS et de l'EHPAD Jean Gallet. Au cours de cette période, les jeunes de 15 à 17 ans ont été recrutés sur la commune pour une action d'échange intergénérationnel.",
+        "contexte": "Le CCAS a constaté que le lien entre les jeunes et les personnes âgées n'était pas établi dans la commune, ce qui était particulièrement vrai pendant les mois de juillet et août. C'est à partir de cette observation que l'initiative des JOBS d'été est née.",
+        "problematique": "Le besoin de renforcer les liens entre les jeunes et les personnes âgées se faisait peu, ce qui était particulièrement vrai pendant les mois de juillet et août. Le CCAS a proposé une action intergénérationnelle pour améliorer ces relations.",
+        "solution_envisagee": "L'initiative des JOBS d'été vise à créer un espace de partage où les jeunes peuvent se découvrir les uns et les autres, tout en valorisant leur mémoire et leur place dans la vie locale. Cela permettrait également de renforcer le lien social entre les générations.",
+        "objectifs": [
+            "Lutter contre l'isolement des seniors",
+            "Créer un espace de partage"
+        ]
     },
-    "porteur_initiative": "Le CCAS",
-    "date": [],
+    "porteur_initiative": "CCAS, Centre Social, CIAS, EHPAD Jean Gallet",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
     "thematique": [
-        "liens sociaux",
-        "solidarité"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_JOBS_dete.txt",

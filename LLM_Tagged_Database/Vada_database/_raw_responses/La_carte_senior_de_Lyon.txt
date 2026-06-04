@@ -1,0 +1,28 @@
+{
+  "titre": "La carte senior de Lyon",
+  "territoire": "communale",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description_generale": "La Ville de Lyon a mis en place une carte senior pour encourager l'accès des seniors aux activités proposées dans la ville.",
+  "contexte": "Le dispositif d'inscription aux activités était obsolète et contraignant, manquant de lisibilité et de facilité d'inscription. Les seniors étaient isolés et ne participaient pas à la vie de la cité.",
+  "problematique": "L’isolement des seniors et leur insuffisance dans la vie de la ville.",
+  "solution_envisagee": "Une carte senior moderne, plus facile d'accès et d'inscription, qui facilite l'information sur les activités et propose des tarifs préférentiels pour les détenteurs de la carte.",
+  "objectifs": [
+    "Encourager l’accès aux activités seniors",
+    "Faciliter l’information des seniors",
+    "Promouvoir une participation active dans la vie de la cité"
+  ],
+  "porteur_initiative": "Ville de Lyon",
+  "date": ["2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention",
+    "intergénérationnel"
+  ],
+  "source_site": "VADA"
+}

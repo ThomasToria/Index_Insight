@@ -1,22 +1,30 @@
 {
     "titre": "Restaurants seniors à Toulouse: lieux de convivialité",
-    "territoire": "",
+    "territoire": "Commune de Toulouse, Haute-Garonne",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "seniors de 60 ans et plus",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La Ville de Toulouse propose depuis quelques années aux seniors l'opportunité d'accéder à des restaurants dédiés. Actuellement, dix restaurants sont gérés par les municipalités de chaque quartier.",
-        "contexte": "",
-        "problematique": "Accès limité aux restaurants pour les personnes âgées",
-        "solution_envisagee": "La mise en place de restaurants dédiés aux seniors dans chaque quartier, ouverts du lundi au vendredi de 11h30 à 13h30.",
-        "objectifs": "Offrir une alternative pratique et conviviale aux personnes âgées pour leur permettre d'aller manger en groupe"
+        "description_generale": "La Ville de Toulouse propose depuis quelques années aux seniors de 60 ans et plus l’opportunité d’aller dans des restaurants qui leur sont dédiés.",
+        "contexte": "Les seniors ont besoin de se retrouver pour partager des moments conviviaux, mais ils peuvent souvent être isolés. Les lieux de restauration proposés par la ville permettent aux seniors de pouvoir se rencontrer et échanger.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Les lieux de restauration proposés par la ville permettent aux seniors de pouvoir se rencontrer et échanger lors des repas. Ils contribuent à l’équilibre alimentaire en proposant des repas équilibrés à moindre coût.",
+        "objectifs": [
+            "Favoriser les rencontres et les échanges entre seniors lors des repas",
+            "Lutter contre l’isolement"
+        ]
     },
     "porteur_initiative": "La Ville de Toulouse",
-    "date": [],
+    "date": [
+        "depuis 2015"
+    ],
     "thematique": [
-        "Santé publique",
-        "Services à la personne"
+        "socialité",
+        "solidarité",
+        "convivialité",
+        "équilibre alimentaire"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Restaurants_seniors_a_Toulouse_lieux_de_convivialite.txt",

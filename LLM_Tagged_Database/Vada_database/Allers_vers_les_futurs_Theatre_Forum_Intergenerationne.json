@@ -1,21 +1,33 @@
 {
-    "titre": "ALLERS VERS LES FUTURS: THÉÂTRE FORUM INTERGÉNÉRATIONNEL",
-    "territoire": "",
+    "titre": "Allers vers les futurs:Théâtre Forum Intergénérationnel",
+    "territoire": "communale",
     "echelle": [
-        "quartier"
+        "communale"
     ],
-    "public_vise": "jeunes, seniors",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Créer des rencontres intergénérationnelles pour favoriser le lien social et lutter contre les stéréotypes.",
-        "contexte": "Nantes",
-        "problematique": "Stéréotypes concernant les seniors et les jeunes",
-        "solution_envisagee": "Concevoir un spectacle sur ces préjugés à travers le théâtre pour lutter contre la discrimination.",
-        "objectifs": "Créer des rencontres intergénérationnelles, favoriser le lien social, lutter contre les stéréotypes concernant les seniors et les jeunes"
+        "description_generale": "Créer des rencontres intergénérationnelles. Favoriser le lien social. Lutter contre les stéréotypes concernant les seniors mais aussi les jeunes.",
+        "contexte": "Les thèmes de la discrimination et du vieillissement sont abordés dans ce projet, avec une volonté d'engager un dialogue entre différents publics pour lutter contre les préjugés.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Utiliser le théâtre pour lutter contre la discrimination",
+        "objectifs": [
+            "Créer des rencontres intergénérationnelles",
+            "Favoriser le lien social",
+            "Lutter contre les stéréotypes concernant les seniors mais aussi les jeunes"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "EHPAD La Résidence de l’Ille",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "théâtre",
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
         "intergénérationnel"
     ],
     "source_site": "VADA",

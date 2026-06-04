@@ -1,0 +1,22 @@
+[
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\065_2022_impact_sur_le_cursus_universitaire_des_etudiants_des_situations_de_handicap_et_des_dispositifs_d_accompagnement_faisabil.txt",
+        "erreur": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=900)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\082_2024_les_parcours_d_acces_aux_droits_et_aux_services_administratifs_des_personnes_handicapees.txt",
+        "erreur": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=900)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\083_2019_les_savoirs_experientiels_au_c_ur_de_l_accompagnement_et_du_soutien_par_les_pairs.txt",
+        "erreur": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=900)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\095_2023_parcours_academique_des_etudiant_es_en_situation_de_handicap_invisible_identifier_les_barrieres_et_leviers_a_la_reussite.txt",
+        "erreur": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=900)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\096_2017_parcours_de_scolarisation_et_trajectoires_de_developpement_d_enfants_avec_tsa_suivi_longitudinal_comparatif_dans_et_apre.txt",
+        "erreur": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=900)"
+    }
+]

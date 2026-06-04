@@ -1,22 +1,31 @@
 {
     "titre": "Le badminton pour tous",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Le 'Badminton Associatif Choletais' a été choisi par le CIAS pour répondre à un manque de pratique ludique au sein des résidences autonomes. La pratique mensuelle dans quatre résidences de l'agglomération du Choletais a fait naître un projet.",
-        "contexte": "",
-        "problematique": "Le manque de pratique ludique et sportive, notamment le badminton, au sein des résidences autonomes",
-        "solution_envisagee": "L'amener dans un premier temps la pratique sportive (notamment le badminton) au sein même des résidences autonomes, pour ensuite conduire les pratiquants à venir à la salle de sport.",
-        "objectifs": ""
+        "description_generale": "Un projet de pratiques sportives ludiques dans les résidences autonomes, initié par le club sportif 'Badminton Associatif Choletais' pour améliorer la qualité de vie des résidents.",
+        "contexte": "Le besoin d'amélioration du bien-être et de l’interaction sociale chez les personnes âgées dans leurs résidences autonomes.",
+        "problematique": "Renforcer les liens sociaux, favoriser l’échange intergénérationnel et valoriser la mémoire des résidents.",
+        "solution_envisagee": "Organisation de forums ludiques autour d’ateliers sportifs (mémoire, équilibre, jeu coopératif, badminton) avec encadrement par jeunes bénévoles pour favoriser l’intergénérationnalité et les interactions sociales.",
+        "objectifs": [
+            "Améliorer la qualité de vie des résidents",
+            "Favoriser les liens sociaux entre les résidents et leurs proches"
+        ]
     },
-    "porteur_initiative": "Le 'Badminton Associatif Choletais' et ses bénévoles",
-    "date": [],
+    "porteur_initiative": "Badminton Associatif Choletais",
+    "date": [
+        "2019",
+        "2023"
+    ],
     "thematique": [
-        "sport",
-        "autonomie"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_badminton_pour_tous.txt",

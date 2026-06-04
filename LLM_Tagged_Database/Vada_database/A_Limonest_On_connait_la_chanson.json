@@ -1,22 +1,28 @@
 {
     "titre": "À Limonest, « On connaît la chanson »!",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Le Conservatoire de musique organise des concerts et interventions auprès des séniors dans une maison de retraite. Les élèves du conservatoire viennent répéter à la maison de retraite Sainte-Anne pour apporter de l'animation, provoquant chez les seniors une curiosité en leur expliquant le travail des élèves.",
-        "contexte": "",
-        "problematique": "Les séniors ne connaissent pas nécessairement bien la musique et peuvent avoir du mal à comprendre comment apprendre à jouer ensemble.",
-        "solution_envisagee": "Le Conservatoire propose des interventions auprès des séniors dans une maison de retraite pour créer un lien intergénérationnel, en expliquant le travail des élèves et en permettant aux seniors d'apprécier l'apprentissage du jeu musical.",
-        "objectifs": ""
+        "description_generale": "Créer des liens entre seniors et jeunes au travers de la musique en soulignant la réciprocité.",
+        "contexte": "Le Conservatoire, très sensibilisé à la création de liens intergénérationnels, organise depuis longtemps des concerts ou des interventions itinérantes auprès des séniors. En juin 2015, des élèves du Conservatoire viennent répéter à la maison de retraite Sainte-Anne pour apporter un peu d'animation: ce principe de classe ouverte durant laquelle, le professeur explique le travail des élèves provoque chez le public senior une curiosité. Les seniors se sont rendus compte qu'apprendre à jouer ensemble demande un long travail d'apprentissage et que c'est un parcours séculier.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Créer des liens entre seniors et jeunes au travers de la musique",
+            "Souligner la réciprocité entre les générations"
+        ]
     },
-    "porteur_initiative": "Le Conservatoire",
-    "date": [],
+    "porteur_initiative": "EHPAD La Résidence de l’Ille",
+    "date": [
+        "depuis 2015"
+    ],
     "thematique": [
-        "Culture",
-        "Santé"
+        "santé",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Limonest_On_connait_la_chanson.txt",

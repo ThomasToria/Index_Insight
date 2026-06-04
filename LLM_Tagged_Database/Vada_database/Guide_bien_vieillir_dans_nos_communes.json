@@ -1,26 +1,30 @@
 {
-    "titre": "Guide 'Bien vieillir dans nos communes'",
+    "titre": "Guide 'bien vieillir dans nos communes'",
     "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Un guide intitulé 'Bien vieillir dans nos communes' a été réalisé en 2012 par les huit communes de la métropole brestoise et le conseil départemental du Finistère.",
-        "contexte": "En 2018, les associations du champ du handicap ont souhaité re-travailler ce guide afin qu'il soit davantage adapté aux attentes des seniors.",
-        "problematique": "Le format 'annuaire' de l'ancien guide ne correspondait plus aux attentes des seniors.",
-        "solution_envisagee": "La révision du guide pour s'adapter mieux aux besoins actuels des seniors et leurs familles.",
-        "objectifs": "Informer les seniors et leurs familles sur les différents dispositifs et structures existants sur le territoire."
+        "description_generale": "Ce guide a été conçu pour informer les seniors et leurs familles sur les différents dispositifs et structures existants dans la métropole brestoise.",
+        "contexte": "Les huit communes de la métropole brestoise ont réalisé un guide intitulé 'Bien vieillir dans nos communes' en 2012, mais il a été mis à jour depuis. Les associations du champ du handicap souhaitent améliorer ce guide pour les personnes en situation de handicap.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un outil commun adapté aux seniors pour faciliter la compréhension des services existants sur le territoire.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "CCAS de Brest",
     "date": [
-        "2012",
-        "2018"
+        "2019-2020"
     ],
     "thematique": [
-        "vieillissement",
-        "services aux personnes âgées",
-        "dispositifs sociaux"
+        "santé",
+        "lien social",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_bien_vieillir_dans_nos_communes.txt",

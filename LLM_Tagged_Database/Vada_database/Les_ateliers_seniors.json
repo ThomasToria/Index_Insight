@@ -1,26 +1,39 @@
 {
     "titre": "Les ateliers seniors",
-    "territoire": "",
-    "echelle": [
+    "territoire": [
         "communale"
     ],
-    "public_vise": "",
+    "echelle": [
+        "départementale",
+        "régionale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "La Ville de Valenciennes a mis en place un Conseil des Seniors pour développer des actions concrètes visibles.",
-        "contexte": "Sur volonté politique, la mise en place du Conseil des Seniors (en 2009).",
-        "problematique": "Prevenir la dépendance et favoriser le 'bien-vieillir'.",
-        "solution_envisagee": "Développer des actions concrètes visibles, notamment par l'organisation d'ateliers.",
-        "objectifs": ""
+        "description_generale": "Ce projet a pour objectif de permettre, à travers une offre de service diversifiée de plusieurs ateliers, de lutter contre l’isolement et prévenir la dépendance.",
+        "contexte": "La Ville de Valenciennes a mis en place un Conseil des Seniors dès sa création en 2009. Ce conseil souhaite développer des actions visibles et concrètes, notamment autour d'activités physiques, culturelles et ludiques.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Les ateliers seniors visent à développer des interactions intergénérationnelles et à valoriser les compétences de l’âge.",
+        "objectifs": [
+            "Lutter contre l'isolement et développer le lien social",
+            "Prévenir la dépendance"
+        ]
     },
-    "porteur_initiative": "Conseil des Seniors de la Ville de Valenciennes",
+    "porteur_initiative": "La Ville de Valenciennes",
     "date": [
-        "2009",
-        "2010"
+        "2019",
+        "depuis 2019"
     ],
     "thematique": [
-        "LIEN SOCIAL",
-        "SOLIDARITÉ",
-        "CULTURE & LOISIRS"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_ateliers_seniors.txt",

@@ -1,25 +1,28 @@
 {
     "titre": "Résidence Rives",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "action intergénérationnelle",
     "description": {
-        "description_generale": "Livrée en juin 2018 à Lille, RIVES est une résidence d'habitat social où l'inclusion au sens large a été érigé en principe directeur.",
-        "contexte": "Fruit d’un partenariat entre la Ville de Lille, son CCAS, des associations intervenant dans le champ du handicap et des acteurs de l'économie sociale et solidaire",
-        "problematique": "",
-        "solution_envisagee": "Rives permet à des personnes âgées et à des personnes en situation de handicap de vivre en autonomie dans un environnement adapté et un voisinage bienveillant.",
-        "objectifs": ""
+        "description_generale": "Une résidence d'habitat social où l'inclusion, au sens large, a été érigée en principe directeur.",
+        "contexte": "Fruit d'un partenariat entre la Ville de Lille, son CCAS, des associations intervenant dans le champ du handicap et des acteurs de l'economie sociale et solidaire, elle permet à des personnes âgées et à des personnes en situation de handicap de vivre en autonomie dans un environnement adapté et un voisinage bienveillant.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "",
+        "objectifs": [
+            "Favoriser les échanges entre résidents",
+            "Valoriser la mémoire des personnes âgées et en situation de handicap"
+        ]
     },
-    "porteur_initiative": "Partenariat entre la Ville de Lille, son CCAS, des associations intervenant dans le champ du handicap et des acteurs de l'économie sociale et solidaire",
+    "porteur_initiative": "La Ville de Lille, CCAS, associations intervenant dans le champ du handicap, acteurs de l'economie sociale et solidaire",
     "date": [
         "2018"
     ],
     "thematique": [
-        "habitat social",
-        "inclusion",
-        "handicap"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_Rives.txt",
