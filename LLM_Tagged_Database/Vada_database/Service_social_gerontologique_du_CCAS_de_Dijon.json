@@ -1,24 +1,31 @@
 {
     "titre": "Service social gérontologique du CCAS de Dijon",
-    "territoire": "",
+    "territoire": "Commune: Dijon, 21",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes de plus de 62 ans",
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "favoriser l'accès aux droits, aux soins et accompagner les dijonnais de plus de 62 ans. Soutenir les aidants dans l'organisation du soutien à domicile. Participer à la dynamique VADA en permettant à chaque personne d'aborder son vieillissement dans les conditions qu'elle souhaite sur son territoire d'habitation. Participer à l'élaboration du diagnostic de territoire concernant la population âgée.",
-        "contexte": "",
-        "problematique": "vieillissement et accessibilité aux services pour personnes âgées",
-        "solution_envisagee": "DES SOLUTIONS ET DES PRESTATIONS ADAPTÉES À AUX PERSONNES DE PLUS DE 62 ANS",
-        "objectifs": ""
+        "description_generale": "Ce service social est spécialisé dans l'approche des seniors dijonnais de plus de 62 ans. L'intervention se réalise à domicile ou en permanence dans les différents quartiers de la Ville et concerne tous les aspects de la vie quotidienne.",
+        "contexte": "Dijon ville amie des aînés depuis juin 2009",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Participer à l'élaboration du diagnostic de territoire concernant la population âgée",
+        "objectifs": [
+            "recrutement de travailleurs sociaux motivés par la problématique de la vieillesse",
+            "ouverture de la maison des seniors et mise en place d'une articulation avec ce service (mission de niveau 1 du CLIC)"
+        ]
     },
-    "porteur_initiative": "CCAS de Dijon",
-    "date": [],
+    "porteur_initiative": "",
+    "date": [
+        "2009"
+    ],
     "thematique": [
-        "vieillissement",
-        "services aux personnes âgées"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_social_gerontologique_du_CCAS_de_Dijon.txt",
-    "nom_fichier": "Service_social_gerontologique_du_CCAS_de_Dijon.txt"
+    "nom_fichier": "Service_social_gerontologique_du_CCAS_de_Dijon.txt",
+    "statut_action": "projet réalisé"
 }

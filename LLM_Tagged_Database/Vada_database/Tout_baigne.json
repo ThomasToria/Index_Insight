@@ -1,0 +1,34 @@
+{
+    "titre": "Tout baigne!",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
+    "description": {
+        "description_generale": "Royan a développé des ateliers fondés sur quatre piliers: nutrition, activités physiques, activités cérébrales, liens/vie locale. Ces activités aquatiques et nautiques ont été mises en place et développées au fil des années.",
+        "contexte": "Les seniors de Royan bénéficient d'activités aquatiques et nautiques pour se familiariser avec l'environnement balnéaire, améliorer leur santé physique (respiration, circulation, cardio, coordination) et psychologique (confiance en soi, bien-être, ouverture à l'autre), créer du lien social et participer à la vie locale.",
+        "problematique": "Les seniors de Royan bénéficient d'activités aquatiques et nautiques pour se familiariser avec l'environnement balnéaire, améliorer leur santé physique (respiration, circulation, cardio, coordination) et psychologique (confiance en soi, bien-être, ouverture à l'autre), créer du lien social et participer à la vie locale.",
+        "solution_envisagee": "Les seniors de Royan bénéficient d'activités aquatiques et nautiques pour se familiariser avec l'environnement balnéaire, améliorer leur santé physique (respiration, circulation, cardio, coordination) et psychologique (confiance en soi, bien-être, ouverture à l'autre), créer du lien social et participer à la vie locale.",
+        "objectifs": [
+            "améliorer la santé physique",
+            "améliorer la santé psychologique",
+            "créer du lien social",
+            "participer à la vie locale"
+        ]
+    },
+    "porteur_initiative": "Royan",
+    "date": [
+        "depuis 2009"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tout_baigne.txt",
+    "nom_fichier": "Tout_baigne.txt",
+    "statut_action": "projet réalisé"
+}

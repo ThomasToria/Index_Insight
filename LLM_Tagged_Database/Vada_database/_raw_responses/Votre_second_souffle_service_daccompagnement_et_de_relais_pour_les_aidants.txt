@@ -1,0 +1,24 @@
+{
+  "titre": "Votre second souffle",
+  "territoire": "Communale",
+  "echelle": ["communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description_generale": "Service d'accompagnement et de relais pour les aidants",
+  "contexte": "Contexte actuel en France : 11 millions d’aidants, 1/3 en situation d’épuisement. Population vieillissante, nombre d’aidants exponentiel qui va doubler d’ici 20 ans.",
+  "problematique": "Le besoin de renforcer les liens entre les aidants familiaux et la société civile pour prévenir l'épuisement.",
+  "solution_envisagee": "Service de relais et d'accompagnement à domicile des proches aidants, assurant une continuité de service de 3h à 48h pour les aidants pendant leur absence ou répit en toute sécurité.",
+  "objectifs": [
+    "Conseiller sur les champs de la perte d'autonomie",
+    "Accompagner les aidants familiaux"
+  ],
+  "porteur_initiative": "Association Votre Second Souffle",
+  "date": ["depuis 2019"],
+  "thematique": [
+    "santé",
+    "lien social",
+    "intergénérationnel",
+    "prévention"
+  ],
+  "source_site": "VADA"
+}

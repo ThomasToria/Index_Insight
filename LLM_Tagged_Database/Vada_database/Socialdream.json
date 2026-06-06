@@ -1,24 +1,31 @@
 {
-    "titre": "Socialdream",
+    "titre": "SocialDream",
     "territoire": "Bourg-de-Péage (26)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Objectifs : Palier aux problématiques du vieillissement et de l’isolement grâce à la réalité virtuelle. Pratique : Tester la réalité virtuelle auprès du public âgé.",
-        "contexte": "Extraire les personnes âgées de leur quotidien en les faisant voyager et en leur procurant un bien-être. Créer à terme un outil thérapeutique non médicamenteux.",
-        "problematique": "Vieillissement et isolement",
-        "solution_envisagee": "Utilisation de la réalité virtuelle pour améliorer l’isolement des personnes âgées.",
-        "objectifs": "Tester la réalité virtuelle auprès du public âgé. S'entourer de professionnels (médecins, psychologues) pour améliorer l'outil et établir des protocoles pour la Santé. Promouvoir le projet et le développer."
+        "description_generale": "Le projet SocialDream vise à mettre la réalité virtuelle au service des personnes âgées, en particulier celles qui sont à mobilité réduite ou atteintes de démences comme la maladie d'Alzheimer.",
+        "contexte": "La problématique du vieillissement et de l'isolement est un défi majeur pour les seniors. Les personnes âgées ont tendance à se sentir isolées, ce qui peut avoir des conséquences négatives sur leur santé mentale et physique.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "SocialDream propose une réalité virtuelle qui permet aux personnes âgées d’être transportées à travers le monde, ce qui peut aider à améliorer leur bien-être et à renforcer les liens sociaux.",
+        "objectifs": [
+            "Palier aux problématiques du vieillissement et de l'isolement",
+            "Créer un outil thérapeutique non médicamenteux"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "SocialDream est mené par trois personnes: un spécialiste en modélisation 3D, un infographiste et une psychologue clinicienne.",
+    "date": [
+        "2018"
+    ],
     "thematique": [
-        "vieillissement",
-        "isolement"
+        "santé",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Socialdream.txt",
-    "nom_fichier": "Socialdream.txt"
+    "nom_fichier": "Socialdream.txt",
+    "statut_action": "projet réalisé"
 }

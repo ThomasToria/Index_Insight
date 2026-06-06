@@ -1,0 +1,33 @@
+{
+    "titre": "Une visite, un sourire",
+    "territoire": "Commune: Brive-la-Gaillarde",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés",
+    "nature_initiative": "action intergénérationnelle",
+    "description": {
+        "description_generale": "Une initiative visant à lutter contre l'isolement des personnes âgées en renforçant les liens sociaux et la participation citoyenne.",
+        "contexte": "Le CCAS de Brive-la-Gaillarde a mis en place le projet 'Une visite, un sourire' pour lutter contre l'isolement des personnes âgées. Cette action est menée par plusieurs associations partenaires et coordonnées par le CCAS.",
+        "problematique": "Le besoin de renforcer les liens sociaux entre les personnes âgées isolées et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une initiative intergénérationnelle visant à mettre en synergie les actions des différents services et associations pour accompagner au mieux les personnes âgées.",
+        "objectifs": [
+            "Lutter contre l'isolement des personnes âgées",
+            "Orienter les personnes isolées vers des associations et des activités",
+            "Renforcer les liens sociaux entre les personnes âgées et la société civile"
+        ]
+    },
+    "porteur_initiative": "CCAS de Brive-la-Gaillarde, Secours catholique, Fraternité Saint-Vincent-de-Paul, Ordre de Malte, Petits frères des pauvres, Croix-Rouge, France Alzheimer, Entraide, Association Écoute et soutien",
+    "date": [
+        "depuis novembre 2015"
+    ],
+    "thematique": [
+        "santé",
+        "lien social",
+        "participation citoyenne"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_visite_un_sourire.txt",
+    "nom_fichier": "Une_visite_un_sourire.txt",
+    "statut_action": "projet réalisé"
+}

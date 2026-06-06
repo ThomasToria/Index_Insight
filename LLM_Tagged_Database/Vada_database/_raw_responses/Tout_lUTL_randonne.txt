@@ -1,0 +1,33 @@
+{
+  "titre": "Tout l'UTL randonne",
+  "territoire": "communale, départementale, régionale, nationale, internationale",
+  "echelle": ["quartier", "communale", "intercommunale", "départementale", "régionale", "nationale", "internationale"],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description_generale": "Un projet de randonnées thématiques organisé par l'Université du Temps Libre du Pays de Rennes (UTL Rennes) pour les habitants de Rennes et alentours.",
+  "contexte": "La Ville Amie des Aînés depuis 2012",
+  "problematique": "Créer un rassemblement convivial, faciliter les rencontres entre participants, créer du lien social, découvrir des points d'intérêt culturel dans Rennes, pratiquer une activité physique (la marche), et monter l'équipe du projet.",
+  "solution_envisagee": "Organiser des randonnées thématiques en lien avec un thème spécifique développé par un conférencier ou spécialiste: histoire, eau, botanique...",
+  "objectifs": [
+    "Créer un rassemblement convivial",
+    "Faciliter les rencontres entre participants (adhérents et non-adhérents de l’UTL)",
+    "Creer du lien social",
+    "Dcouvrir des points d'intérêt culturel dans Rennes",
+    "Pratiquer une activité physique (la marche)",
+    "Monter l'équipe du projet"
+  ],
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": ["depuis 2019"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat",
+    "prévention",
+    "intergénérationnel",
+    "isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "VADA"
+}

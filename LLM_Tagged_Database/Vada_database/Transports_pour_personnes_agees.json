@@ -1,0 +1,35 @@
+{
+    "titre": "Transports pour personnes âgées",
+    "territoire": "communale",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix-Rouge genevoise. La prestation 'Transports pour personnes âgées' propose un accompagnement aux seniors sous la forme de transports réalisés par des bénévoles formés, avec leur propre véhicule.",
+        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des conductrices et conduits bénévoles accompagnent les seniors jusqu'à destination. Ils attendent pendant le rendez-vous ou l'activité prévue et reconduisent la personne à son domicile.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
+    },
+    "porteur_initiative": "Croix-Rouge genevoise",
+    "date": [
+        "2019",
+        "juillet 2023"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transports_pour_personnes_agees.txt",
+    "nom_fichier": "Transports_pour_personnes_agees.txt",
+    "statut_action": "projet réalisé"
+}

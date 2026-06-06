@@ -1,0 +1,25 @@
+{
+  "titre": "Un service d'accompagnement véhiculé",
+  "territoire": "Communale",
+  "echelle": ["quartier", "communale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Une initiative innovante d'accompagnement aux seniors par un véhicule adapté.",
+  "contexte": "Les seniors ont besoin de soutien pour leurs activités quotidiennes, notamment en matière de mobilité et d'accès à la société civile.",
+  "problematique": "Le besoin de faciliter l’accès des personnes âgées aux services sociaux et culturels dans les quartiers péri-urbains.",
+  "solution_envisagee": "Un service d'accompagnement collectif avec un véhicule adapté, financé par la Ville de Strasbourg et les caisses de retraite complémentaires Agirc et Arrco.",
+  "objectifs": [
+    "Améliorer l'accès des seniors aux services sociaux et culturels",
+    "Promouvoir le lien social entre les résidents du quartier et la société civile",
+    "Valoriser la mémoire et la place des seniors dans la vie locale"
+  ],
+  "porteur_initiative": "L'Association Ressources Aides Sociales (ARASC)",
+  "date": ["depuis 2007"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique"
+  ],
+  "source_site": "VADA"
+}

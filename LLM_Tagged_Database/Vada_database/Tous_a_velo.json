@@ -1,0 +1,33 @@
+{
+    "titre": "Tous à vélo",
+    "territoire": "communale",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Une initiative autour du vélo visant à améliorer la santé des seniors en leur permettant de se déplacer de manière active.",
+        "contexte": "La ville de La Flèche a développé une infrastructure de voies vertes et cyclables, favorisant l'accessibilité aux piétons et cyclistes. L'association Cyclopédie propose des services d'entretien et réparation de vélos.",
+        "problematique": "Les seniors ne sont pas tous revenus à la pratique du vélo après la crise sanitaire, ce qui a conduit à une demande pour des animations de découverte du vélo électrique.",
+        "solution_envisagee": "Organiser un concours de vélos et une balade intergénérationnelle avec les bénévoles de l'association Cyclopédie, en partenariat avec Néomouv (fabricant de vélos électriques basé sur la commune de La Flèche).",
+        "objectifs": [
+            "Améliorer la santé des seniors par le biais du vélo électrique.",
+            "Sensibiliser les seniors aux bienfaits du sport et de la pratique du vélo."
+        ]
+    },
+    "porteur_initiative": "La ville de La Flèche, l'association Cyclopédie, Néomouv (fabricant de vélos électriques basé sur la commune de La Flèche), et les bénévoles de l'association Cyclopédie.",
+    "date": [
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tous_a_velo.txt",
+    "nom_fichier": "Tous_a_velo.txt",
+    "statut_action": "projet réalisé"
+}

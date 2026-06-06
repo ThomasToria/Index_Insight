@@ -1,24 +1,36 @@
 {
     "titre": "Se déplacer en transports en commun",
-    "territoire": "",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "atelier",
     "description": {
-        "description_generale": "Encourager les aînés à utiliser les transports en commun pour maintenir leur autonomie dans l'établissement des EHPA (Etablissements d'Hébergement et de Pratique d'Accompagnement).",
-        "contexte": "",
-        "problematique": "Les résidents expriment souvent leurs réticences à emprunter le tramway ou le bus, en raison de problèmes de mobilité liés à l'âge.",
-        "solution_envisagee": "Proposer des ateliers et des sessions d’information sur les transports en commun pour sensibiliser et faciliter leur utilisation.",
-        "objectifs": ""
+        "description_generale": "Le maintien de l'autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028. Cette autonomie passe par l’utilisation des transports en commun.",
+        "contexte": "Les résidents ont exprimé, à de nombreuses reprises, leurs réticences à emprunter le tramway ou le bus. En vieillissant, les personnes âgées rencontrent des problèmes de mobilité, notamment avec l’utilisation d’aides techniques nécessaires au quotidien.",
+        "problematique": "Les seniors ont des difficultés à se déplacer en transports en commun, principalement concernant la mobilité et l'utilisation d’aides techniques.",
+        "solution_envisagee": "L’initiative vise à renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale. Elle propose des ateliers théoriques et pratiques sur le réseau de transports en commun.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile",
+            "Valoriser la mémoire et la place des seniors dans la vie locale",
+            "Susciter l’envie de se déplacer en transports en commun"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS de Tours",
+    "date": [
+        "depuis 2019"
+    ],
     "thematique": [
-        "Mobilité",
-        "Autonomie"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_en_transports_en_commun.txt",
-    "nom_fichier": "Se_deplacer_en_transports_en_commun.txt"
+    "nom_fichier": "Se_deplacer_en_transports_en_commun.txt",
+    "statut_action": "projet réalisé"
 }

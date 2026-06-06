@@ -1,0 +1,22 @@
+[
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_vie_grande_ouverte_lespace_Emmanuel_Mounier.txt",
+        "erreur": "Unterminated string starting at: line 11 column 17 (char 2451)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_5_saisons_de_larbre.txt",
+        "erreur": "Unterminated string starting at: line 23 column 18 (char 2488)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Programme_Prevention_Sante_Seniors_Bourgogne_PPSSB.txt",
+        "erreur": "Unterminated string starting at: line 12 column 25 (char 2210)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_dauto-stop_organise_diviapouce.txt",
+        "erreur": "Unterminated string starting at: line 12 column 3 (char 2451)"
+    },
+    {
+        "fichier": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_prendre_soin_de_toi.txt",
+        "erreur": "Unterminated string starting at: line 15 column 25 (char 2141)"
+    }
+]

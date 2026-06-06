@@ -1,0 +1,34 @@
+{
+    "titre": "Y’a pas d’âge pour marcher",
+    "territoire": "Commune: Besançon, Métropole de Besançon",
+    "echelle": [
+        "communale",
+        "régionale"
+    ],
+    "public_vise": "professionnels",
+    "nature_initiative": "événement",
+    "description": {
+        "description_generale": "Une marche intergénérationnelle organisée par les associations de marches et de randonnées.",
+        "contexte": "La ville organise une marche annuelle depuis 2010, visant à favoriser la solidarité et l’accessibilité pour tous âges et types de marcheurs.",
+        "problematique": "Favoriser les liens entre différentes générations et personnes âgées dans leur communauté.",
+        "solution_envisagee": "Une marche intergénérationnelle organisée par des associations, visant à valoriser la mémoire et les contributions de tous les participants.",
+        "objectifs": [
+            "valoriser l’expérience des résidents",
+            "promouvoir le lien social entre générations",
+            "encourager les seniors à se déplacer en ville"
+        ]
+    },
+    "porteur_initiative": "Association de marches et de randonnées",
+    "date": [
+        "depuis 2010"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ya_pas_dage_pour_marcher.txt",
+    "nom_fichier": "Ya_pas_dage_pour_marcher.txt",
+    "statut_action": "projet réalisé"
+}

@@ -1,24 +1,38 @@
 {
     "titre": "Soir de fête, oh le bel âge!",
-    "territoire": "",
+    "territoire": "Commune",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "professionnels",
+    "nature_initiative": "événement",
     "description": {
-        "description_generale": "La soirée 'Soir de fête, oh le bel âge' s'inscrit dans le congrès des JVMA qui s'adresse à tous les acteurs du vieillissement. Pour cette quatrième édition, et pour la première fois, l'équipe de l'ERVMA (Equipe Régionale Vieillissement et Maintien de l’Autonomie) a organisé un événement festif destiné aux congressistes et aux habitants de Tours.",
-        "contexte": "",
-        "problematique": "La problématique est liée au vieillissement, notamment la participation des personnes âgées dans les activités sociales et culturelles.",
-        "solution_envisagee": "Organisation d'un défilé seniors pour promouvoir l'autonomie et la fierté de soi chez les personnes âgées.",
-        "objectifs": ""
+        "description_generale": "La soirée 'Soir de fête, oh le bel âge' s'inscrit dans le congrès des JVMA qui s'adresse à tous les acteurs du vieillissement. Pour cette quatrième édition, et pour la première fois, le congrès était sur deux jours.",
+        "contexte": "Le CCAS de Tours a vu des expériences d'autres territoires et souhaitait mettre en œuvre un projet de ce type: festif, inclusif et valorisant pour lutter contre l'âgisme. L'impulsion est née lors du bilan du salon seniors.",
+        "problematique": "Lutter contre l'âgisme en changeant les idées reçues. Valoriser l'estime de soi des seniors. Créer un moment festif et intergénérationnel.",
+        "solution_envisagee": "Organisation d'un défilé seniors à l'occasion d'un congrès de l'ERVMA, avec la participation de mannequins âgés pour valoriser les seniors et leur mémoire dans la société civile.",
+        "objectifs": [
+            "Valoriser l'estime de soi des seniors",
+            "Créer un moment festif et intergénérationnel",
+            "Mettre en valeur et en lumière des personnes âgées, quelque soit leur niveau d'autonomie et de mobilité"
+        ]
     },
-    "porteur_initiative": "ERVMA (Equipe Régionale Vieillissement et Maintien de l’Autonomie)",
-    "date": [],
+    "porteur_initiative": "ERVMA (Equipe Régionale Vieillissement et Maintien de l'Autonomie)",
+    "date": [
+        "janvier",
+        "1er juin"
+    ],
     "thematique": [
-        "vieillissement",
-        "autonomie"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soir_de_fete_oh_le_bel_age.txt",
-    "nom_fichier": "Soir_de_fete_oh_le_bel_age.txt"
+    "nom_fichier": "Soir_de_fete_oh_le_bel_age.txt",
+    "statut_action": "projet réalisé"
 }

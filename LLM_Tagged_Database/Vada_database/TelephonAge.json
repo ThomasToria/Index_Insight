@@ -1,24 +1,38 @@
 {
     "titre": "Téléphon'Age",
-    "territoire": "",
+    "territoire": "Commune: Nancy (54)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Maintenir le lien avec les personnes âgées isolées par un contact téléphonique hebdomadaire. Prévenir les situations de risque d’isolement. Réduire les situations de détresse sociale et psychologiques chez les aînés. Permettre à des retraités de rester actifs en devenant bénévoles.",
-        "contexte": "",
-        "problematique": "Maintenir le lien social avec les personnes âgées isolées",
-        "solution_envisagee": "Réaliser l’Analyse des Besoins Sociaux. Coordonner le dispositif par le Pôle Senior du CCAS. Largement communiquer aux publics concernés et aux partenaires du CCAS. Créer une équipe de bénévoles formés aux rendez-vous téléphoniques de convivialité.",
-        "objectifs": ""
+        "description_generale": "Une initiative pour favoriser le partage, réduire l'isolement des plus fragiles, offrir un espace d'épanouissement aux seniors bénévoles et créer un nouveau type de lien social.",
+        "contexte": "En amont de la création du projet « TELEPHON’AGE », une Analyse des Besoins Sociaux a été menée par la Ville de Nancy en 2009, qui a débouché sur un certain nombre des constats. Parmi eux, le CCAS qui pilote le plan climatique au moyen d’un dispositif comportant une plateforme téléphonique a permis une remontée d'informations riches et utiles: les personnes contactées ainsi que leurs aidants naturels ont témoigné leur satisfaction à être consultés. Ensuite, l'examen des motifs de déclenchement d'alarme dans le dispositif de Télé Assistance, proposé aux seniors nancéiens par le CCAS, montre que 56% des appels enregistrés relèvent d'un besoin de convivialité, tout en demeurant à domicile. De plus, l'avancement en âge provoque une réduction des déplacements.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Une initiative autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents, notamment par le biais de rendez-vous téléphoniques conviviaux aux seniors nancéiens qui le souhaitent.",
+        "objectifs": [
+            "Maintenir le lien avec les personnes âgées isolées par un contact téléphonique hebdomadaire",
+            "Prévenir les situations de risque d'isolement",
+            "Réduire les situations de détresse sociale et psychologiques chez les aînés",
+            "Permettre à des retraités de rester actifs en devenant bénévoles"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "Ville de Nancy, Pôle Senior du CCAS",
+    "date": [
+        "2016"
+    ],
     "thematique": [
-        "Santé",
-        "Social"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\TelephonAge.txt",
-    "nom_fichier": "TelephonAge.txt"
+    "nom_fichier": "TelephonAge.txt",
+    "statut_action": "projet réalisé"
 }

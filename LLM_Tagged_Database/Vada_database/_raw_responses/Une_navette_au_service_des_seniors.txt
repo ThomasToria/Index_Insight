@@ -1,0 +1,24 @@
+{
+  "titre": "Une navette au service des seniors",
+  "territoire": ["communale", "intercommunale"],
+  "echelle": ["quartier", "régionale"],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description_generale": "Une navette gratuite pour les seniors de Saint-Germain au Mont d’Or permettant aux personnes âgées de se rendre dans la petite ville voisine.",
+  "contexte": "La commune a mis en place une navette interne gratuite depuis plusieurs années, et cette action a été étendue à la petite ville voisine pour faciliter les déplacements des seniors.",
+  "problematique": "Les personnes âgées ayant des difficultés en termes de mobilité se trouvent dans le village mais ne peuvent pas accéder aux services locaux, notamment ceux de La Poste et du bureau municipal. Les habitants de la petite ville ont également besoin d’être accompagnés pour les déplacements.",
+  "solution_envisagee": "Organiser une navette gratuite pour les seniors qui rencontrent des difficultés en termes de mobilité, permettant ainsi aux personnes âgées de se rendre dans la petite ville voisine et bénéficier des services locaux.",
+  "objectifs": [
+    "Accompagner les aînés rencontrant des difficultés à se déplacer afin qu’ils puissent se rendre dans la ville voisine pour bénéficier des services/commerces qui n’existent pas dans le village",
+    "Organiser l’inscription au service de transport accompagné"
+  ],
+  "porteur_initiative": "Saint-Germain au Mont d’Or",
+  "date": ["depuis 2016"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "intergénérationnel"
+  ],
+  "source_site": "VADA"
+}

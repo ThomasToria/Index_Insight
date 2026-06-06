@@ -1,0 +1,31 @@
+{
+    "titre": "Viens avec nous",
+    "territoire": "Communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Une démarche globale de repérage, de mise en confiance et de mobilisation des personnes âgées isolées par des acteurs de proximité de Strasbourg (associations, clubs séniors, etc.).",
+        "contexte": "Le besoin de renouer avec la vie de leur quartier pour les seniors.",
+        "problematique": "Renouer le lien social et gagner en dignité pour les seniors. Constituer un maillage de partenaires qui contribuera à alimenter la veille sociale de la ville.",
+        "solution_envisagee": "Organiser des interventions à domicile lorsque le collectif est impossible, proposant des temps collectifs dans le quartier.",
+        "objectifs": [
+            "Renouer le lien social et gagner en dignité pour les seniors.",
+            "Constituer un maillage de partenaires qui contribuera à alimenter la veille sociale de la ville."
+        ]
+    },
+    "porteur_initiative": "Strasbourg (67)",
+    "date": [
+        "depuis 2015"
+    ],
+    "thematique": [
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_avec_nous.txt",
+    "nom_fichier": "Viens_avec_nous.txt",
+    "statut_action": "projet réalisé"
+}

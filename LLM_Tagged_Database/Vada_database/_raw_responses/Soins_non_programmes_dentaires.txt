@@ -1,0 +1,26 @@
+{
+  "titre": "Soins non programmés dentaires",
+  "territoire": "Commune",
+  "echelle": ["communale"],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description_generale": "Concours des chirurgiens-dentistes pour la mise en place d'un dispositif de soins non programmés dentaires.",
+  "contexte": "Les habitants du territoire rencontrent des difficultés à trouver un dentiste disponible pour un soin non-programmé dans les 72 heures, et le système de prise en charge n'est pas adapté aux demandes spécifiques.",
+  "problematique": "La difficulté pour les habitants de trouver un dentiste disponible pour un soin non-programmé à effectuer dans les 72 heures, ainsi que la complexité de l'organisation des cabinets et le manque d'offre de prise en charge rapide sur le territoire.",
+  "solution_envisagee": "Proposer une solution permettant aux habitants du territoire de bénéficier d'un rendez-vous chez un chirurgien-dentiste dans les 72 heures pour un problème dentaire, tout en facilitant l'organisation des cabinets et améliorant la prise en charge.",
+  "objectifs": [
+    "Améliorer la disponibilité des soins non programmés dentaires",
+    "Faciliter l'organisation des cabinets de soins non programmés",
+    "Augmenter la satisfaction des patients concernés par les soins non programmés"
+  ],
+  "porteur_initiative": "Association locale",
+  "date": ["janvier 2023", "mai 2024"],
+  "thematique": [
+    "santé",
+    "mobilité",
+    "lien social",
+    "numérique",
+    "habitat"
+  ],
+  "source_site": "VADA"
+}

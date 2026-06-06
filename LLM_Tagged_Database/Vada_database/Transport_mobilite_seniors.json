@@ -1,0 +1,39 @@
+{
+    "titre": "Transport mobilité seniors",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "public non connu",
+    "nature_initiative": "enquête",
+    "description": {
+        "description_generale": "Un service de transport mobilité senior a été mis en place afin d'accompagner les seniors de la ville à leurs rendez-vous médicaux, rendez-vous administratifs, courses, activités culturelles et loisirs sur la commune.",
+        "contexte": "Suite à la fermeture de certains commerces, les élus étaient régulièrement interpellés par des seniors qui rencontraient des difficultés pour aller faire leurs courses. Des seniors mettaient régulièrement en avant ne pas pouvoir venir à des activités car elles étaient loin de leur domicile et ils ne disposaient pas de moyen de transport.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un service de transport mobilité senior a été mis en place pour accompagner les seniors de la ville à leurs rendez-vous médicaux, courses, activités culturelles et loisirs sur la commune.",
+        "objectifs": [
+            "Rompre l’isolement des seniors",
+            "Promouvoir l’autonomie des seniors"
+        ]
+    },
+    "porteur_initiative": "Commune",
+    "date": [
+        "2019",
+        "depuis 2019"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique",
+        "habitat",
+        "prévention",
+        "intergénérationnel",
+        "isolement",
+        "participation citoyenne"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_mobilite_seniors.txt",
+    "nom_fichier": "Transport_mobilite_seniors.txt",
+    "statut_action": "projet réalisé"
+}

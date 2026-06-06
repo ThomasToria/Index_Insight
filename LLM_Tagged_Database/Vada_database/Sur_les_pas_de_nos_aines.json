@@ -1,25 +1,35 @@
 {
     "titre": "Sur les pas de nos aînés",
-    "territoire": "",
-    "echelle": [
+    "territoire": [
         "communale"
     ],
-    "public_vise": "personnes âgées de plus de 65 ans, personnes encore en activité, bas âge",
+    "echelle": [
+        "quartier",
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Propose une marche urbaine au centre-ville de Rennes avec des commentaires historiques par les participants âgés. Offre également des exercices physiques.",
-        "contexte": "",
-        "problematique": "Défis liés à l'âge et la santé, manque d'activités adaptées aux personnes âgées",
-        "solution_envisagee": "Mise en place de marches urbaines avec des commentaires historiques et des exercices physiques proposés par un intervenant.",
-        "objectifs": "Promouvoir l'activité physique, favoriser les échanges intergénérationnels, améliorer la santé mentale et physique"
+        "description_generale": "Cette action consiste à proposer à des personnes âgées de plus de 65 ans une marche au centreville de Rennes, au travers du circuit proposé dans la ville dont elles feraient elles-mêmes les commentaires historiques. Cette action a vocation à être partagée avec des personnes encore en activité, mais aussi en bas âge, créant ainsi un mouvement intergénérationnel.",
+        "contexte": "Les personnes âgées souhaitent renforcer leurs liens sociaux et participer à une initiative qui valorise leur expérience et leur contribution au territoire.",
+        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Proposer une marche urbaine avec des exercices physiques proposés par un intervenant de Siel Bleu aux participants. Cette action sera mise en place le mercredi 16 novembre 2016 après-midi et couvrira les partenaires CLIC de Rennes, Alli’Age, Noroit, Ille et Illet, le CCAS et la Mairie de Rennes.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "",
+    "porteur_initiative": "Rennes (35)",
     "date": [
-        "2016-11-16"
+        "depuis 2019"
     ],
     "thematique": [
-        "MARCHE URBAINE ET ACTIVITÉS PHYSIQUE"
+        "santé",
+        "mobilité",
+        "lien social"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sur_les_pas_de_nos_aines.txt",
-    "nom_fichier": "Sur_les_pas_de_nos_aines.txt"
+    "nom_fichier": "Sur_les_pas_de_nos_aines.txt",
+    "statut_action": "projet réalisé"
 }

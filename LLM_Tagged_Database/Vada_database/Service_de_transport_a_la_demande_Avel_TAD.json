@@ -1,25 +1,34 @@
 {
     "titre": "Service de transport à la demande Avel TAD",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
+        "quartier",
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "public non connu",
+    "nature_initiative": "outil numérique",
     "description": {
-        "description_generale": "Assurer une veille sociale auprès des publics identifiés. Faciliter le lien social et lutter contre l'isolement des personnes âgées ou en situation de handicap.",
-        "contexte": "Depuis plusieurs décennies, une navette organisée par le CCAS en lien avec le centre social circulait le dimanche matin. À l'origine, ce service répondait à la demande des administrés désireux de se rendre au bourg pour aller dans les commerces et pratiquer leurs activités cultuelles.",
-        "problematique": "L'isolement des personnes âgées ou en situation de handicap",
-        "solution_envisagee": "Un service de transport à la demande (TAD) Avel TAD",
-        "objectifs": ""
+        "description_generale": "Le projet Avel TAD est une initiative solidaire qui a vu le jour à Plougastel depuis septembre 2024. Il s'agit d'un service de transport à la demande porté par le CCAS, composé d'une équipe de bénévoles chauffeurs et accompagnateurs.",
+        "contexte": "La commune de Plougastel a identifié un besoin pour améliorer la mobilité des habitants, notamment ceux qui rencontrent des difficultés de déplacement. Le projet vise à faciliter l'accès aux services, commerces, loisirs et rendez-vous médicaux.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Faciliter la mobilité des habitants pour lutter contre l'isolement et renforcer les liens sociaux.",
+        "objectifs": [
+            "faciliter la mobilité sur la commune",
+            "lutter contre l’isolement"
+        ]
     },
-    "porteur_initiative": "",
-    "date": [],
+    "porteur_initiative": "CCAS de Plougastel",
+    "date": [
+        "depuis septembre 2024"
+    ],
     "thematique": [
-        "LIEN SOCIAL",
-        "AUTONOMIE, SERVICES & SOINS",
-        "TRANSPORTS & MOBILITÉ"
+        "santé",
+        "mobilité",
+        "lien social",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_de_transport_a_la_demande_Avel_TAD.txt",
-    "nom_fichier": "Service_de_transport_a_la_demande_Avel_TAD.txt"
+    "nom_fichier": "Service_de_transport_a_la_demande_Avel_TAD.txt",
+    "statut_action": "projet réalisé"
 }

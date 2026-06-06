@@ -1,24 +1,30 @@
 {
-    "titre": "SE DÉPLACER À TOUT ÂGE!",
-    "territoire": "",
+    "titre": "Se déplacer à tout âge!",
+    "territoire": "Communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "plus âgés",
+    "public_vise": "ainés",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Faire découvrir aux plus âgés le réseau de transport en commun bisontin grâce à des sorties accompagnées en tramway.",
-        "contexte": "",
-        "problematique": "Les plus âgés manquent souvent d'informations sur les moyens de transport disponibles dans leur ville, ce qui peut limiter leurs déplacements et leur autonomie.",
-        "solution_envisagee": "Établir un partenariat avec le service de transport en commun urbain pour mettre en place un programme d’actions permettant aux seniors de s'approfondir sur le moyen de transport. Cibler spécifiquement le public concerné.",
-        "objectifs": "Faire découvrir le réseau de transport en commun à une population plus âgée, améliorer leur autonomie et leur confort de déplacement."
+        "description_generale": "Cette initiative vise à informer les seniors sur le réseau de transport en commun bisontin et à leur permettre d'approcher ce moyen de transport.",
+        "contexte": "Les seniors ont besoin de se déplacer mais ils rencontrent des difficultés pour s'y rendre. Le tramway est un moyen de transport accessible qui n'est pas utilisé par les seniors.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Organiser des sorties accompagnées en tramway pour les seniors afin d'approcher le moyen de transport et d'établir des liens sociaux.",
+        "objectifs": [
+            "Faire découvrir aux plus âgés le réseau de transport en commun bisontin grâce à des sorties accompagnées en tramway."
+        ]
     },
-    "porteur_initiative": "Maison des Seniors et des résidences d'autonomie",
-    "date": [],
+    "porteur_initiative": "CCAS de Besançon",
+    "date": [
+        "2019"
+    ],
     "thematique": [
-        "transport",
-        "santé"
+        "santé",
+        "mobilité"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_a_tout_age.txt",
-    "nom_fichier": "Se_deplacer_a_tout_age.txt"
+    "nom_fichier": "Se_deplacer_a_tout_age.txt",
+    "statut_action": "projet réalisé"
 }

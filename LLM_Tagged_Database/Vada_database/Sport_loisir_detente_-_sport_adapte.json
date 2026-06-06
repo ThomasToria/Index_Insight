@@ -1,26 +1,32 @@
 {
     "titre": "Sport loisir détente - sport adapté",
-    "territoire": "",
+    "territoire": "communale",
     "echelle": [
         "communale"
     ],
-    "public_vise": "",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "Suite à une réflexion sur la prévention et la préservation de la santé, la commune de Ports-sur-Vienne a mis en place depuis quelques années des séances de sport adapté pour les séniors.",
-        "contexte": "Des installations sportives rénovées en 2018, un espace socio-culturel avec une salle de 300 m², un territoire propice à la randonnée, la présence d'un médecin et d'une infirmière, ainsi qu'une professionnelle du sport adapté.",
-        "problematique": "",
-        "solution_envisagee": "Mis en place des séances de sport adapté pour les séniors.",
-        "objectifs": ""
+        "description_generale": "Suite à une réflexion sur la prévention et la préservation de la santé et en coopération avec le club de l'amitié, la commune de Ports-sur-Vienne a mis en place depuis quelques années des séances de sport adapté, principalement pour les séniors. Des installations sportives rénovées en 2018, un espace socio-culturel avec une salle de 300 m², un territoire propice à la randonnée, la présence d'un médecin et d'une infirmière, mais aussi d'une professionnelle du sport adapté, une mairie et une association des séniors. Tous les ingrédients étaient réunis pour lancer ce programme collectif.",
+        "contexte": "Suite à une réflexion sur la prévention et la préservation de la santé et en coopération avec le club de l'amitié, la commune de Ports-sur-Vienne a mis en place depuis quelques années des séances de sport adapté, principalement pour les séniors. Des installations sportives rénovées en 2018, un espace socio-culturel avec une salle de 300 m², un territoire propice à la randonnée, la présence d'un médecin et d'une infirmière, mais aussi d'une professionnelle du sport adapté, une mairie et une association des séniors. Tous les ingrédients étaient réunis pour lancer ce programme collectif.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Des activités physiques adaptées et une activité de marche organisée par le club de l'amitié chaque lundi matin sur le territoire communal et voisin.",
+        "objectifs": [
+            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+            "Valoriser leur mémoire et leur place dans la vie locale"
+        ]
     },
-    "porteur_initiative": "La commune de Ports-sur-Vienne",
+    "porteur_initiative": "La mairie de Ports-sur-Vienne",
     "date": [
         "2018"
     ],
     "thematique": [
         "santé",
-        "sport"
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_loisir_detente_-_sport_adapte.txt",
-    "nom_fichier": "Sport_loisir_detente_-_sport_adapte.txt"
+    "nom_fichier": "Sport_loisir_detente_-_sport_adapte.txt",
+    "statut_action": "projet réalisé"
 }

@@ -1,0 +1,35 @@
+{
+    "titre": "Transport à la demande",
+    "territoire": "communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "dispositif",
+    "description": {
+        "description_generale": "Faciliter l'accès aux soins, courses, loisirs et cantine senior pour les aînés dans la commune.",
+        "contexte": "Les aînés de plus de 70 ans, ayant un véhicule mais incapable d'utiliser le moyen habituel de déplacement, souhaitent une solution alternative à l'hospitalisation ou aux taxis payants.",
+        "problematique": "Le besoin de faciliter l'accès aux soins et activités pour les aînés dans la commune.",
+        "solution_envisagee": "Un véhicule d'occasion sera mis en place pour permettre aux personnes âgées d'honorer leurs rendez-vous, faire des courses, se distraire par les loisirs et accéder à la cantine senior sans avoir recours aux taxis payants ou aux amis.",
+        "objectifs": [
+            "Permettre aux bénéficiaires d'honorer leur rendez-vous pour des soins",
+            "Aller faire ses courses dans les magasins de proximité",
+            "Se distraire par les loisirs",
+            "Revenir à la cantine senior"
+        ]
+    },
+    "porteur_initiative": "Commune auto-finance le dispositif, qui est complètement gratuit pour l’utilisateur.",
+    "date": [
+        "2017"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social",
+        "intergénérationnel"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_a_la_demande.txt",
+    "nom_fichier": "Transport_a_la_demande.txt",
+    "statut_action": "projet réalisé"
+}

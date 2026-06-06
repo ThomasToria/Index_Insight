@@ -1,24 +1,32 @@
 {
-    "titre": "Tennis de table aidants/aidés",
-    "territoire": "",
+    "titre": "Tennis de Table Aideurs/Aides",
+    "territoire": "Saint-Nazaire (44)",
     "echelle": [
         "communale"
     ],
-    "public_vise": "personnes atteintes d'Alzheimer et leurs aidants",
+    "public_vise": "ainés et autres",
+    "nature_initiative": "enquête",
     "description": {
-        "description_generale": "En partenariat avec l'Association France Alzheimer, l'association Alerte de Méan a ouvert une section spécifique en direction des personnes atteintes d'Alzheimer, et s'ils le désirent à leurs aidants·es. Pour cela, le club a recruté une éducatrice en activité physique adaptée qui est en mesure de proposer du tennis de table et des activités motrices.",
-        "contexte": "",
-        "problematique": "Soulager les aidants",
-        "solution_envisagee": "Ouvrir une section spécifique au tennis de table pour personnes atteintes d'Alzheimer et leurs aidants·es, avec l'intervention d'une éducatrice en activité physique adaptée.",
-        "objectifs": ""
+        "description_generale": "Cette initiative vise à améliorer la qualité de vie des aidants en leur permettant d'effectuer une activité physique.",
+        "contexte": "Les personnes atteintes de maladies neurodégénératives, comme Alzheimer, peuvent avoir un impact significatif sur les aidants. Cela peut conduire à une diminution de la qualité de vie et à l’isolement social.",
+        "problematique": "Le besoin d’améliorer la qualité de vie des aidants en leur permettant de se détendre et de maintenir le lien social.",
+        "solution_envisagee": "Organiser un programme de tennis de table pour les aidants, qui peut être pratiqué seul ou à deux selon leurs préférences.",
+        "objectifs": [
+            "Améliorer la qualité de vie des aidants",
+            "Favoriser le lien social entre les aidants et les personnes malades"
+        ]
     },
-    "porteur_initiative": "Association Alerte de Méan",
-    "date": [],
+    "porteur_initiative": "Association France Alzheimer",
+    "date": [
+        "septembre 2022"
+    ],
     "thematique": [
-        "santé mentale",
-        "retraites et aidants"
+        "santé",
+        "lien social",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tennis_de_table_aidantsaides.txt",
-    "nom_fichier": "Tennis_de_table_aidantsaides.txt"
+    "nom_fichier": "Tennis_de_table_aidantsaides.txt",
+    "statut_action": "projet réalisé"
 }

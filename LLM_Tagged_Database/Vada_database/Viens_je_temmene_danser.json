@@ -1,0 +1,31 @@
+{
+    "titre": "Viens je t'emmène.....danser!",
+    "territoire": "Commune",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "événement",
+    "description": {
+        "description_generale": "Une action déjà pérenne organisée par le CCAS de la commune de Chamalières depuis septembre 2014. Le thé dansant réunit les aînés pour des moments festifs et de partage, favorisant la constitution d'un réseau de solidarité.",
+        "contexte": "Le projet est un moment festif et convivial organisé par le CCAS à l'occasion d'une journée communale. Il permet aux personnes âgées de se retrouver et de partager des moments de qualité avec d'autres personnes, favorisant ainsi la constitution d'un réseau de solidarité.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un événement festif organisé par le CCAS permettant aux personnes âgées de se retrouver et de partager des moments de qualité avec d'autres personnes, favorisant ainsi la constitution d'un réseau de solidarité.",
+        "objectifs": [
+            "renforcer les liens entre les résidents de l’EHPAD",
+            "faire connaître le projet à travers une fiche partage d'expérience"
+        ]
+    },
+    "porteur_initiative": "CCAS de Chamalières",
+    "date": [
+        "depuis septembre 2014"
+    ],
+    "thematique": [
+        "santé",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_danser.txt",
+    "nom_fichier": "Viens_je_temmene_danser.txt",
+    "statut_action": "projet réalisé"
+}

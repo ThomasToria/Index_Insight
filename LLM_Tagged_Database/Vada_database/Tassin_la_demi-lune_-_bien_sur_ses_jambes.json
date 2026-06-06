@@ -1,0 +1,35 @@
+{
+    "titre": "Bien sur ses jambes - Tassin la Demi-Lune",
+    "territoire": "Communale",
+    "echelle": [
+        "communale"
+    ],
+    "public_vise": "ainés et autres",
+    "nature_initiative": "sensibilisation",
+    "description": {
+        "description_generale": "Un projet de sensibilisation à la prévention des problèmes liés au vieillissement, en particulier aux risques de perte de mobilité chez les personnes âgées.",
+        "contexte": "La ville de Tassin la Demi-Lune a souhaité mettre en place une initiative pour répondre à l'augmentation du nombre de séniors et à la prévention des problèmes liés au vieillissement, notamment aux risques de perte de mobilité.",
+        "problematique": "Le besoin de renforcer les liens entre les résidents de Tassin la Demi-Lune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+        "solution_envisagee": "Un parcours d'initiative mené par l'Hôpital Lyon Sud (Hospices Civils de Lyon) pour promouvoir le vieillissement en bonne santé et développer le lien entre ville et hôpital.",
+        "objectifs": [
+            "Améliorer les capacités physiques et fonctionnelles des personnes âgées à risque de perte de mobilité",
+            "Prévenir le risque de chute chez les personnes âgées",
+            "Favoriser l'autonomie à domicile pour les personnes âgées",
+            "Améliorer la qualité de vie des personnes âgées à risque de perte de mobilité"
+        ]
+    },
+    "porteur_initiative": "Hôpital Lyon Sud (Hospices Civils de Lyon)",
+    "date": [
+        "2022",
+        "2023"
+    ],
+    "thematique": [
+        "santé",
+        "mobilité",
+        "lien social"
+    ],
+    "source_site": "VADA",
+    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tassin_la_demi-lune_-_bien_sur_ses_jambes.txt",
+    "nom_fichier": "Tassin_la_demi-lune_-_bien_sur_ses_jambes.txt",
+    "statut_action": "projet réalisé"
+}
