@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un réseau de partenaires, professionnels et bénévoles qui repère les personnes âgées fragilisées par la solitude pour mettre en place des réponses adaptées à leur situation.",
         "contexte": "Le Havre (76) a mis en place le Réseau Sentinelle dans le cadre du label « Bien vieillir, vivre ensemble » en 2013. Le projet vise à créer un réseau de partenaires et professionnels qui identifient les personnes âgées fragilisées par la solitude.",
@@ -23,11 +23,9 @@
         "2015"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_reseau_sentinelle_un_dispositif_pour_lutter_contre_lisolement.txt",

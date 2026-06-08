@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le parc du Berry à Villejean a accueilli en son sein une gamme diversifiée de mobiliers urbains, favorisant l'intégration des personnes âgées et handicapées dans le cadre d'un projet municipal visant à améliorer la qualité de vie des seniors.",
         "contexte": "Le parc du Berry est un espace public situé dans une commune riche en histoire et culture. Il a été inauguré il y a deux ans et propose diverses activités, notamment des mobiliers urbains adaptés pour faciliter l'accès à la nature et aux espaces verts.",
@@ -22,9 +22,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_mobilier_urbain_au_banc_dessai.txt",

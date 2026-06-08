@@ -3,7 +3,7 @@
     "territoire": "Communale",
     "echelle": [],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Ce projet a pour objectif d'améliorer l'autonomie des personnes âgées en favorisant l'investissement des services de proximité et le renforcement des liens sociaux.",
         "contexte": "Les personnes âgées vivent dans une résidence auto nomie seniors à Lyon, 8ème arrondissement. Leur autonomie est limitée parfois aux activités quotidiennes comme les courses alimentaires, la pharmacie, et l'association des quartiers.",
@@ -20,9 +20,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_petits_pas_dans_mon_quartier.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Ce projet est en fait deux actions distinctes mais complémentaires, qui ont toutes deux pour but d'encourager les seniors à pratiquer une activité physique, et prévenir la dépendance physique et l'isolement social. Ces deux actions, financées par la CFPPA, permettent de compléter les offres d'activités physiques adaptées déjà existantes, mais sont à destination de publics différents.",
         "contexte": "",
@@ -21,8 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_avec_lufolep_et_gym_a_domicile.txt",

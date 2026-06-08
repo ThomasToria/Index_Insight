@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le forum 'Bien bouger pour bien vieillir' a été reprogrammé pour avril 2023 après plusieurs reportings. Il vise à informer, sensibiliser et encourager les déplacements des seniors.",
         "contexte": "La convention de partenariat signée en 2017 entre la Carsat Bretagne/Ville et le CCAS visait à promouvoir le bien-vieillir des habitants de Rennes. Le forum a pour objectif d'informer, d'encourager les déplacements et de donner envie de sortir de chez soi.",
@@ -23,10 +23,9 @@
         "2023"
     ],
     "thematique": [
-        "Mobilité",
-        "lien social",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Organisation_dun_forum_bien_bouger_pour_bien_vieillir.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La mise en place d'une instance de gouvernance ouverte dans une commune.",
         "contexte": "Le projet vise à renforcer la participation citoyenne et l'engagement des acteurs locaux dans le processus décisionnel.",
@@ -23,9 +23,7 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_de_linstance_de_la_gouvernance_ouverte.txt",

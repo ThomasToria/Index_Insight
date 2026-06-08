@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
         "contexte": "Population de Cognac âgée (28,6% plus de 60 ans) souffre d'un manque d'information sur les dispositifs existants pour accompagner le vieillissement.",
@@ -22,12 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",

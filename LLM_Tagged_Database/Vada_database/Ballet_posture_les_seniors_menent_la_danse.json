@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative vise à améliorer l’accessibilité des seniors aux activités physiques, en proposant un cycle de danse classique adapté.",
         "contexte": "Les seniors ont été consultés pour comprendre leurs besoins et préoccupations concernant les activités sportives. Des freins mentionnés comprenaient la crainte d’entrer dans une activité sans expérience ou adaptée à leur niveau.",
@@ -24,13 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ballet_posture_les_seniors_menent_la_danse.txt",

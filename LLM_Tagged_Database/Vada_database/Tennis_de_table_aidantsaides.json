@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la qualité de vie des aidants en leur permettant d'effectuer une activité physique.",
         "contexte": "Les personnes atteintes de maladies neurodégénératives, comme Alzheimer, peuvent avoir un impact significatif sur les aidants. Cela peut conduire à une diminution de la qualité de vie et à l’isolement social.",
@@ -21,9 +21,9 @@
         "septembre 2022"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tennis_de_table_aidantsaides.txt",

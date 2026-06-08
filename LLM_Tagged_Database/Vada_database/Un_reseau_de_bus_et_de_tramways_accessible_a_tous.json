@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un réseau de bus et de tramways accessible à tous dans la commune de Dijon.",
         "contexte": "Dijon dispose d'un réseau de transports en commun important, notamment deux lignes de tramway et dix-huit lignes de bus. Ces infrastructures permettent une grande mobilité pour les habitants mais ne sont pas accessibles à tous, y compris aux personnes âgées.",
@@ -22,11 +22,9 @@
         "depuis 2008"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_reseau_de_bus_et_de_tramways_accessible_a_tous.txt",

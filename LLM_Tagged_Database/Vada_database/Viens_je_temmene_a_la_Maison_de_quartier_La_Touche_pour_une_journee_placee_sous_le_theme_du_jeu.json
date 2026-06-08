@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une journée d'animation organisée autour du jeu, présentée à la Maison de Quartier La Touche.",
         "contexte": "Les personnes âgées sont peu représentées dans le public fréquentant la Maison de Quartier.",
@@ -21,10 +21,9 @@
         "2015-11-27"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.txt",

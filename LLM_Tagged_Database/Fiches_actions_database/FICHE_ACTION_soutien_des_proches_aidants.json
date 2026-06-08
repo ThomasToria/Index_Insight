@@ -3,7 +3,7 @@
     "territoire": "",
     "echelle": [],
     "public_vise": "public non connu",
-    "nature_initiative": "",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "",
         "contexte": "",
@@ -14,8 +14,7 @@
     "porteur_initiative": "",
     "date": [],
     "thematique": [
-        "intergénérationnel",
-        "participation citoyenne"
+        "handicap et aidants"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.txt",

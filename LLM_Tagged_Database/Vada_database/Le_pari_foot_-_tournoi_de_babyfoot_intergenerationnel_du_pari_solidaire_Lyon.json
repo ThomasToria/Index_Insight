@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un tournoi de babyfoot intergénérationnel organisé par l'association Le \"pari foot\" du pari solidaire Lyon, visant à rapprocher les générations en organisant une sortie dans un hôtel avec babyfoot.",
         "contexte": "L'association a organisé une sortie intergénérationnelle en 2021 qui fut malheureusement interrompue par la pluie. C'est cette expérience qui a permis d'idéer le tournoi de babyfoot pour rapprocher les générations.",
@@ -21,10 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_pari_foot_-_tournoi_de_babyfoot_intergenerationnel_du_pari_solidaire_Lyon.txt",

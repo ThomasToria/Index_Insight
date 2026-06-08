@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La résidence Marc Bloch est un établissement d'hébergement pour personnes âgées fragilisées et précaires, situé dans le 7ème arrondissement de Lyon. L'initiative a été menée par les élus de la Ville de Lyon en 2012 avec l'aide des associations locales.",
         "contexte": "La résidence Marc Bloch était initialement conçue pour héberger des personnes sans domicile fixe, mais elle s'est progressivement orientée vers l'accueil d'une population vieillissante fragilisée et précaire. Cette transition a été possible grâce à la rénovation de l'établissement.",
@@ -21,8 +21,9 @@
         "2012"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Marc_Bloch_heberger_et_accompagner_une_population_vieillissante_fragilisee_et_precaire.txt",

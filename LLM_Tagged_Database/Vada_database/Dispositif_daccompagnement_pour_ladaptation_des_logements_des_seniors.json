@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Le dispositif d'accompagnement pour l’adaptation des logements des seniors a été créé dans le cadre de la politique de maintien à domicile des personnes âgées en perte d'autonomie. Il vise à fournir des conseils aux résidents qui souhaitent améliorer leurs conditions de vie.",
         "contexte": "La population de Libourne, une commune du département du Morbihan, est composée principalement de personnes âgées et a besoin de soutien pour maintenir leur autonomie dans le cadre de la politique locale. Le CCAS de Libourne souhaite améliorer les conditions de vie des résidents en adaptant leurs logements.",
@@ -21,12 +21,9 @@
         "2024-03"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.txt",

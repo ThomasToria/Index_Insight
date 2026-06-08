@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un logement alternatif pour la maintenance de l'autonomie des personnes âgées.",
         "contexte": "Les Petits Frères des Pauvres ont créé une petite unité de vie dans le quartier de Doulon à Nantes, répondant aux besoins locaux et proposant un habitat autonome pour les résidents.",
@@ -23,12 +23,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_demeures_du_parc.txt",

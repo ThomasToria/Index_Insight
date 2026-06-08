@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "lieu / espace dédié",
     "description": {
         "description_generale": "La MAPAM (Maison d’Accueil pour Personnes Âgées Marginalisées) est une structure créée en 1992 par l’équipe de l’association, avec l’accord et le soutien du Conseil Départemental de la Côte d'Or. Elle accueille des personnes âgées issues du secteur de la grande exclusion, mal logées ou sans domicile mais ayant une bonne autonomie.",
         "contexte": "La MAPAM a pour mission d’accueillir des personnes âgées de plus de soixante ans, pouvant prétendre à l’aide sociale départementale et ne pas dépendre trop (GIR 5 ET 6) mais ayant des problématiques médicales ou comportementales qui les rendent difficiles pour intégrer une maison d’hébergement classique.",
@@ -22,9 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_daccueil_pour_personnes_agees_et_marginalisees.txt",

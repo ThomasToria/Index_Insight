@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette initiative vise à identifier les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux.",
         "contexte": "La loi du 11 février 2005, qui a ouvert un droit à la compensation, a favorisé l'accès aux personnes vivant avec des troubles mentaux à des droits et prestations. L’accès à ces prestations est conditionné par une évaluation préalable.",
@@ -21,10 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "prévention",
-        "intergénérationnel",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\080_2019_les_certificats_medicaux_donnant_lieu_a_des_demandes_d_informations_complementaires_dans_le_cadre_de_l_evaluation_du_han.txt",

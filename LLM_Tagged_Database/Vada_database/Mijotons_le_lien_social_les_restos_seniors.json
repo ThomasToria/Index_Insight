@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Le service accompagnement personnalisé a quant à lui vocation à accompagner individuellement des personnes âgées, orientées par le service social, dans les démarches administratives ou d'accès aux soins.",
         "contexte": "Depuis deux ans, et dans l'objectif de faire se rencontrer ce public isolé, il a été décidé d’organiser des temps d'échange autour d’un repas pris dans le foyer restaurant géré par le CCAS. L'accompagnement du domicile jusqu'au foyer a permis à des petits groupes de se restaurer ensemble entre seniors d'une même génération et d'échanger sur le vécu de chacun pour ensuite envisager de participer à des temps d'animation proposés sur la ville.",
@@ -21,8 +21,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mijotons_le_lien_social_les_restos_seniors.txt",

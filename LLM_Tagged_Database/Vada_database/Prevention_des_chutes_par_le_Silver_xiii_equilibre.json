@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Programme de prévention des chutes par une pratique d'activité physique adaptée, destiné aux seniors à tout âge.",
         "contexte": "Population de plus de 60 ans dans la commune d'Ecully est conséquente et supérieure au reste du territoire. Le CCAS propose une programmation de prévention variée depuis longtemps et sollicite régulièrement la population pour l'évolution de son offre.",
@@ -23,9 +23,8 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prevention_des_chutes_par_le_Silver_xiii_equilibre.txt",

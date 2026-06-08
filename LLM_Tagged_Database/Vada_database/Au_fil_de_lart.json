@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Initiative artistique créative visant à renforcer les liens entre résidents, leurs proches et la société civile.",
         "contexte": "La population de Géraldines est vieillissante, ce qui a conduit à une tendance d'isolement croissant. Le service protocole souhaite lutter contre cette tendance en créant un dispositif artistique pour les seniors.",
@@ -23,11 +23,7 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_de_lart.txt",

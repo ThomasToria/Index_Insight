@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un atelier collectif sur le thème de la sécurité numérique a été animé pour les seniors de la commune de Plougastel-Daoulas, en collaboration avec la conseillère numérique.",
         "contexte": "Les seniors sont exposés à diverses menaces numériques et méconnaissent certaines précautions. La ville de Plougastel-Daoulas a décidé d'organiser un atelier pour sensibiliser les seniors aux risques de cyber-malveillance.",
@@ -21,9 +21,9 @@
         "2025"
     ],
     "thematique": [
-        "LIEN SOCIAL",
-        "SERVICES & SOINS",
-        "AUTONOMIE"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafe_Senior_Pour_un_usage_securise_du_numerique.txt",

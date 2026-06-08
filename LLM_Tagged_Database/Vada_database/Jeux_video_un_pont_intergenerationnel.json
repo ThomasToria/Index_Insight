@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Organisation d'ateliers réguliers autour de jeux vidéo pour favoriser le partage intergénérationnel.",
         "contexte": "Les seniors cherchent à se connecter avec les jeunes en mettant en place des activités ludiques et participatives.",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jeux_video_un_pont_intergenerationnel.txt",

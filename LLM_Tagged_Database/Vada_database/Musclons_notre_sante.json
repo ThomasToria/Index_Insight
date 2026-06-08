@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Améliorer la condition physique, développer l’endurance, rendre de la force et du tonus musculaire et maintenir l’autonomie des personnes âgées de plus de 75 ans par la pratique d’exercices de musculation douce sur du matériel et des machines adaptées.",
         "contexte": "Les résidents de l’EHPAD souffrent d’un manque d’activité physique, ce qui entraîne une perte de tonus musculaire. Les personnes âgées ont besoin de maintenir leur autonomie et améliorer leur condition physique pour vivre une vie active.",
@@ -23,11 +23,9 @@
         "depuis 2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Musclons_notre_sante.txt",

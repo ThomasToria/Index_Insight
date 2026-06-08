@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "L'association Solidarité HABITATS développe et accompagne un dispositif de cohabitation intergénérationnelle dans le département de la Drôme.",
         "contexte": "Le vieillissement de la population est indéniable: d'ici 2060, une personne sur trois aura plus de soixante ans. En parallèle, lorsqu'il est bien pensé, le maintien à domicile est souvent souhaité par les seniors et leurs familles.",
@@ -24,13 +24,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cohabitons_-_habitat_intergenerationnel_et_solidaire.txt",

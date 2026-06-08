@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La transition démographique a un impact significatif sur les politiques publiques et les quartiers de Nantes.",
         "contexte": "Les données statistiques sur la pauvreté et les revenus des locataires ont été fournies par Nantes Métropole Habitat.",
@@ -22,13 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_transition_demographique_a_Nantes_et_ses_quartiers.txt",

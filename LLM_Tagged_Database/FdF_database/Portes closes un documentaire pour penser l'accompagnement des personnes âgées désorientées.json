@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Portes closes est un documentaire qui explore les problèmes liés à l'accompagnement des personnes âgées désorientées.",
         "contexte": "",
@@ -21,13 +21,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "services et accompagnement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Portes closes un documentaire pour penser l'accompagnement des personnes âgées désorientées.txt",

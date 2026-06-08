@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Une initiative intergénérationnelle visant à sensibiliser les jeunes séniors aux bénéfices d'un habitat adapté, augmenter la capacité des personnes âgées à vivre en autonomie plus longtemps et diminuer les risques de chute, d'incendie, d'allergie et d'intoxication liés à un habitat dégradé ou inadapté.",
         "contexte": "En France, près de 400 000 chutes de personnes âgées par an sont causées par des accidents domestiques. Ces incidents se produisent souvent chez les résidents et sont dus à une évolution des besoins du sénior et un logement qui ne répond plus aux exigences de la personne âgée.",
@@ -21,11 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mon_logement_prend_soin_de_moi.txt",

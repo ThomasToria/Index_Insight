@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Démarche de design citoyen visant à améliorer les services de transport en commun au regard des besoins des aînés d'Ostricourt.",
         "contexte": "Les personnes âgées rencontrent des difficultés pour se déplacer grâce aux services de transport en commun, notamment avec le service « Flexi Pév’ailes » qui est inadapté et complexe. Ils ont également du mal à obtenir une carte Pass Pass sans adresse mail.",
@@ -27,10 +27,9 @@
         "2024-04-10"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction1_Ostricourt_VF.txt",

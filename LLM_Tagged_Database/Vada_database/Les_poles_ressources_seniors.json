@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées fragiles dans leur quartier, en les permettant d'interagir avec leurs ressources locales et fréquentant leurs infrastructures.",
         "contexte": "Les seniors vivent souvent isolés et se sentent déshumanisés. Ils ont besoin d’engagement social et de nouvelles expériences pour maintenir leur autonomie et participer à la vie locale.",
@@ -22,12 +22,9 @@
         "depuis octobre 2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_poles_ressources_seniors.txt",

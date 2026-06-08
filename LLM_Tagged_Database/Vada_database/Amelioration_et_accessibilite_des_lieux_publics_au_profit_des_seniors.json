@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La commune de Saint-Germain-au-Mont-d’Or a initié une démarche Ville Amie des Aînés en commençant par créer un Conseil des seniors. Un diagnostic original a été réalisé en marchant pour identifier les contraintes sur les principaux cheminements piétons et proposer de nouvelles installations.",
         "contexte": "Les lieux publics du territoire communal présentent des problèmes d’accessibilité, notamment avec des trottoirs étroits ou dégradés, bancs insuffisants, traversées de chaussée inadaptées, etc. Un diagnostic en marchant a permis d’identifier un manque de structure de repos dans les lieux publics.",
@@ -21,10 +21,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Amelioration_et_accessibilite_des_lieux_publics_au_profit_des_seniors.txt",

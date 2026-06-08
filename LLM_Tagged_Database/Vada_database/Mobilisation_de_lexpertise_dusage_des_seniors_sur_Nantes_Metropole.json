@@ -8,7 +8,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "consultation citoyenne",
     "description": {
         "description_generale": "Nantes Métropole a lancé son 3e Grand débat « Longévité: ouvrons les possibles ». Ce temps fort de participation citoyenne a permis de recueillir 23 000 contributions, de co-construire une feuille d'orientation longévité métropolitaine et de porter un regard évaluatif sur la mise en œuvre des engagements pris par Nantes Métropole. La mobilisation de l’expertise d’usage des seniors fait partie des engagements.",
         "contexte": "Nantes Métropole a lancé son 3e Grand débat « Longévité: ouvrons les possibles ». Ce temps fort de participation citoyenne a permis de recueillir 23 000 contributions, de co-construire une feuille d'orientation longévité métropolitaine et de porter un regard évaluatif sur la mise en œuvre des engagements pris par Nantes Métropole. La mobilisation de l’expertise d’usage des seniors fait partie des engagements.",
@@ -25,11 +25,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mobilisation_de_lexpertise_dusage_des_seniors_sur_Nantes_Metropole.txt",

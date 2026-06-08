@@ -8,7 +8,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "projet de recherche complet",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Cette initiative vise à étudier les normes et mesures en matière d'aide à l'autonomie des personnes âgées dans le contexte des conseils départementaux.",
         "contexte": "En France, les conseils départementaux ont la gestion de la politique d’aide et d’accompagnement à destination des personnes âgées dépendantes. Cette spécificité s'inscrit dans un cadre législatif défini au niveau national laissant une certaine liberté à chaque conseil départemental, lui permettant en théorie de mieux répondre aux besoins et préférences de ses administrés.",
@@ -25,11 +25,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "politique publique",
-        "décentralisation",
-        "autonomie",
-        "personnes âgées"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\041_2021_equite_geographique_et_politiques_decentralisees_normes_et_mesures_en_matiere_d_aide_a_l_autonomie_des_personnes_agees.txt",

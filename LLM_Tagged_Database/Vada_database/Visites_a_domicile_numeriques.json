@@ -8,7 +8,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "Un projet initié en septembre 2022 dans le cadre de la stratégie nationale de prévention et de lutte contre la pauvreté, qui comprend la lutte contre l’isolement, le repli sur soi, le renoncement aux droits, et dans une volonté d'aller vers avec toujours une nécessité de lutte contre l'illectronisme sur la commune.",
         "contexte": "La Plaine des Palmistes (974)",
@@ -24,8 +24,9 @@
         "2022"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Visites_a_domicile_numeriques.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "atelier",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Contribuer activement au bien-être des seniors en r enforçant le lien social, en stimulant la motricité et la mémoire, en éveillant la curiosité et en favorisant la découverte, tout en les encourageant à rester engagés et dynamiques.",
         "contexte": "Le contexte de vieillissement progressif de la population a conduit à l'organisation d'une première animatrice pour renforcer l'offre d'activité auprès des seniors. Avec le développement de la ville, une équipe d'animation s'est agrandie avec l'ajout de 4 autres animateurs.",
@@ -23,11 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\PROGRAMME_DES_ANIMATIONS_SENIORS.txt",

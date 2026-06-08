@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Paris en Compagnie vise à lutter contre l’isolement des aînés parisiens de plus de 65 ans en leur proposant d’être accompagnés gratuitement dans leurs sorties de proximité, par des bénévoles appelés citoyens engagés.",
         "contexte": "Le dispositif Paris en Compagnie s'adresse aux aînés parisiens de plus de 65 ans. Les seuls critères d'inclusion sont de résider à Paris et d'être dans une situation d'isolement ou ayant un ressenti d'isolement.",
@@ -22,13 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Paris_en_compagnie_aidons_les_aines_a_se_deplacer.txt",

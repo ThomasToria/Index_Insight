@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La Ville de Lons-le-Saunier a organisé une action innovante visant à mettre en lumière des sujets sociétaux et incontournables, tels que l'isolement des aînés et la participation citoyenne des bénévoles qui s'engagent pour lutter contre ce fléau.",
         "contexte": "La lutte contre l'isolement des aînés est un sujet important dans la commune de Lons-le-Saunier, où une action innovante a été menée par la Ville de Lons-le-Saunier avec le soutien du GIE IMPA et la Conférence des financeurs.",
@@ -21,11 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_fil_a_tisser.txt",

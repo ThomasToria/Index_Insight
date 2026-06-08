@@ -1,0 +1,242 @@
+[
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Note dinformation sur le livre blanc de France Ass.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note dinformation sur le livre blanc de France Ass.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Les leviers dune meilleure efficience de la répons.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Les leviers dune meilleure efficience de la répons.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Bien vivre et vieillir dans l'autonomie à domicile.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Bien vivre et vieillir dans l'autonomie à domicile.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Retours dexpériences Covid dans le champ de l'âge.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Retours dexpériences Covid dans le champ de l'âge.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\La participation et la contribution économique, so.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\La participation et la contribution économique, so.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs",
+            "activité physique et sport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Pour un redressement durable de la sécurité social.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Pour un redressement durable de la sécurité social.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "santé et prévention",
+            "politiques publiques"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes et .json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes et .txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Le rôle de la technologie dans le soutien à lauton.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le rôle de la technologie dans le soutien à lauton.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Disposer de temps et de droits pour soccuper de se.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Disposer de temps et de droits pour soccuper de se.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Le soutien à l'autonomie des personnes âgées à l'h.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le soutien à l'autonomie des personnes âgées à l'h.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Politiques de soutien à lautonomie des personnes â.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Politiques de soutien à lautonomie des personnes â.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Éléments de guidance pour un lexique renouvelé de .json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Éléments de guidance pour un lexique renouvelé de .txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Le recours des personnes âgées vulnérables aux emp.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le recours des personnes âgées vulnérables aux emp.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Contributions du Conseil de lâge au rapport du Con.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Contributions du Conseil de lâge au rapport du Con.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\La situation des familles, des enfants et des pers.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\La situation des familles, des enfants et des pers.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "intergénérationnel",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Politique de lautonomie, mobilités résidentielles .json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Politique de lautonomie, mobilités résidentielles .txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "mobilité et transport",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Vieillissement de la population, personnes âgées _.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Vieillissement de la population, personnes âgées _.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "autonomie et grand âge",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Contribution à la concertation Grand âge et autono.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Contribution à la concertation Grand âge et autono.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Note de comparaison des coûts de prise en charge d.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note de comparaison des coûts de prise en charge d.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Propositions pour un plan de lutte contre lâgisme.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Propositions pour un plan de lutte contre lâgisme.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "participation citoyenne",
+            "politiques publiques"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Hcfea_database\\Panorama des comportements conjugaux et configurat.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Panorama des comportements conjugaux et configurat.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "autonomie et grand âge",
+            "politiques publiques"
+        ],
+        "used_llm": false
+    }
+]

@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette plaquette d'informations est destinée aux seniors de plus de 65 ans, présentant les activités et services proposés par l'Espace senior.",
         "contexte": "Le service du CCAS a lancé une plaquette d'informations en 2017 pour informer les seniors sur les actions mises en place.",
@@ -23,9 +23,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plaquettes_dinformations.txt",

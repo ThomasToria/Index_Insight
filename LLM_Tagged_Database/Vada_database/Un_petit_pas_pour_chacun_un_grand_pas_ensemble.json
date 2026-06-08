@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Le projet de sortie collective pour les aînés à Valence vise à améliorer la qualité de vie des bénéficiaires en proposant des perspectives positives dans leur vie quotidienne.",
         "contexte": "L'isolement est un problème social majeur dans la ville, avec une proportion importante d'isolées et isolés. Le personnel du SSIAD constate chaque jour l'isolement de ses bénéficiaires et recueille leurs envies de sorties.",
@@ -21,10 +21,9 @@
         "depuis mars 2024"
     ],
     "thematique": [
-        "culture",
-        "convivialité",
-        "esthétique",
-        "restaurant"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_petit_pas_pour_chacun_un_grand_pas_ensemble.txt",

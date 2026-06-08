@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une exposition d'images des jeunes adolescents de la commune, réalisée avec l'aide d'une photographe professionnelle.",
         "contexte": "Les adolescents du quartier prioritaire se sont vu offrir un stage de photographie pour valoriser leur image et celle des personnes âgées. Les rencontres entre les adolescents et les aînés ont permis de créer des liens intergénérationnels.",
@@ -24,9 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Exposition_de_visages.txt",

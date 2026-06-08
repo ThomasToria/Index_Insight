@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 
 LLM_DIR = BASE_DIR / "LLM_Tagged_Database"
 CLEANED_DIR = BASE_DIR / "Cleaned_Database"
-OUTPUT_FILE = BASE_DIR / "echantillon_llm_tagged.xlsx"
+OUTPUT_FILE = BASE_DIR / "echantillon_llm_tagged2.xlsx"
 
 NB_FICHIERS = 10
 RANDOM_SEED = None
@@ -20,6 +20,7 @@ CATEGORIES = [
     "territoire",
     "echelle",
     "public_vise",
+    "nature_initiative",
     "description_generale",
     "contexte",
     "problematique",
@@ -47,14 +48,8 @@ def value_to_text(value):
     return str(value)
 
 
-def find_matching_txt(json_path):
-    stem = json_path.stem
-
-    for txt_path in CLEANED_DIR.rglob("*.txt"):
-        if txt_path.stem == stem:
-            return txt_path
-
-    return None
+def build_txt_index():
+    return {txt_path.stem: txt_path for txt_path in CLEANED_DIR.rglob("*.txt")}
 
 
 def read_text(path):
@@ -79,13 +74,9 @@ def main():
         print(f"Dossier introuvable ou vide : {LLM_DIR}")
         return
 
-    selected_files = random.sample(
-        json_files,
-        min(NB_FICHIERS, len(json_files))
-    )
+    selected_files = random.sample(json_files, min(NB_FICHIERS, len(json_files)))
 
     print("Fichiers sélectionnés :")
-
     for f in selected_files:
         print(f" - {f.name}")
 
@@ -99,6 +90,9 @@ def main():
                 print(f"Ignoré : {json_path.name}")
                 continue
 
+            if "nature_initiative" not in data:
+                print(f"Attention : nature_initiative absente dans {json_path.name}")
+
             data_by_file[json_path] = data
 
         except Exception as e:
@@ -107,6 +101,8 @@ def main():
     if len(data_by_file) == 0:
         print("Aucun JSON valide exploitable.")
         return
+
+    txt_index = build_txt_index()
 
     wb = Workbook()
     ws = wb.active
@@ -128,13 +124,12 @@ def main():
             )
 
     text_row = len(CATEGORIES) + 2
-
     ws.cell(row=text_row, column=1, value="texte_complet")
 
     print("Ajout des textes complets...")
 
     for col_idx, json_path in enumerate(data_by_file.keys(), start=2):
-        txt_path = find_matching_txt(json_path)
+        txt_path = txt_index.get(json_path.stem)
         full_text = read_text(txt_path)
 
         if txt_path is None:
@@ -142,18 +137,11 @@ def main():
         else:
             print(f"Texte trouvé pour : {json_path.name}")
 
-        ws.cell(
-            row=text_row,
-            column=col_idx,
-            value=full_text
-        )
+        ws.cell(row=text_row, column=col_idx, value=full_text)
 
     for row in ws.iter_rows():
         for cell in row:
-            cell.alignment = Alignment(
-                wrap_text=True,
-                vertical="top"
-            )
+            cell.alignment = Alignment(wrap_text=True, vertical="top")
 
     for cell in ws[1]:
         cell.font = Font(bold=True)
@@ -169,7 +157,6 @@ def main():
     ws.freeze_panes = "B2"
 
     print("Sauvegarde du fichier Excel...")
-
     wb.save(OUTPUT_FILE)
 
     print(f"Excel créé : {OUTPUT_FILE}")

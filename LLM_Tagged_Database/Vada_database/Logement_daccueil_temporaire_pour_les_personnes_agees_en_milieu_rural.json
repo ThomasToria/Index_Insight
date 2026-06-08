@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet a été initié suite à la récente baisse démographique du territoire rural, avec une population âgée de plus de 65 ans vivant seuls. L'objectif est d'améliorer les conditions de vie des personnes âgées et faciliter leur transition vers un logement durable.",
         "contexte": "La commune de Ports-sur-Vienne a constaté une baisse démographique, une population âgée de plus de 65 ans vivant seuls, et un habitat dispersé. Des maisons non adaptées existent également.",
@@ -23,11 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logement_daccueil_temporaire_pour_les_personnes_agees_en_milieu_rural.txt",

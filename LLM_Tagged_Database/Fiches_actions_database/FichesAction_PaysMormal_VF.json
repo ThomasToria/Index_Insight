@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Fiche-action sur la citoyenneté dans les EHPADs, visant à renforcer l'engagement des résidents et de leurs proches.",
         "contexte": "Les personnes âgées vivent souvent isolées et perçoivent leur établissement comme un lieu distinct. Il est important d’encourager le contact avec la société civile pour valoriser leur contribution.",
@@ -21,9 +21,9 @@
         "2024-06-21"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FichesAction_PaysMormal_VF.txt",

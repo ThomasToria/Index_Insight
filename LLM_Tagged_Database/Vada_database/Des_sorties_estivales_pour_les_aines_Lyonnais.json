@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sortie culturelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Organisation d'activités à la journée pour les aînés lyonnais, incluant des sorties culturelles et gastronomiques.",
         "contexte": "Le CCAS de Lyon organise régulièrement des sorties à la journée pour les retraités lyonnais, en complément d'autres actions comme les séjours d'une semaine à l'extérieur. Ces sorties sont organisées avec les mairies des arrondissements et bénéficient d'un budget alloué.",
@@ -21,9 +21,9 @@
         "2014"
     ],
     "thematique": [
-        "culturel",
-        "gastro",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sorties_estivales_pour_les_aines_Lyonnais.txt",

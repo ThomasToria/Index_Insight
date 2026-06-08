@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative a été menée par les séniors de la commune pour améliorer l’image des seniors et valoriser leurs capacités.",
         "contexte": "Les séniors ont été consultés à plusieurs époques, notamment en 2021 et 2022, lors d'ateliers de concertation sur les thèmes de la mobilité et du lien social. Des freins aux activités physiques ont été identifiés.",
@@ -27,13 +27,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "participation citoyenne",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cap_ou_pas_cap.txt",

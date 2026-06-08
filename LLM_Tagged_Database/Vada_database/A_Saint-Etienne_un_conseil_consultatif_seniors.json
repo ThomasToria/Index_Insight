@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "conseil consultatif",
+    "nature_initiative": "groupe de parole",
     "description": {
         "description_generale": "Un Conseil consultatif des seniors a été créé par décision du Conseil municipal pour associer la population âgée à la politique gérontologique de la Ville de Saint-Etienne.",
         "contexte": "La population stéphanoise est composée d'une majorité de personnes de plus de 60 ans, et l'allongement de l'espérance de vie prévoit une augmentation significative des seniors dans les années à venir. La Ville de Saint-Etienne a donc engagé une politique gérontologique ambitieuse pour favoriser le « bon vieillir ».",
@@ -21,11 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "vieillissement",
-        "participation citoyenne",
-        "société civile",
-        "vieillesse",
-        "contribution sociale"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Saint-Etienne_un_conseil_consultatif_seniors.txt",

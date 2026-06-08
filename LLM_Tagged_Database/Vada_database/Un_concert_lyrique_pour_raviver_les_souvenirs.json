@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Une initiative de la Ville Amie des Aînés à travers une association musicale pour aider les personnes âgées dépendantes.",
         "contexte": "La Roche-sur-Yon, Vendée, a organisé un concert lyrique en janvier 2019 dans des anciennes écuries. Le concert a été conçu et mené par le public grâce à des ateliers thérapeutiques.",
@@ -22,8 +22,9 @@
         "depuis 2017"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_concert_lyrique_pour_raviver_les_souvenirs.txt",

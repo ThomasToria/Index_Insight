@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Un atelier organisé par l'OPAD (Association pour les personnes âgées) visant à développer la solidarité intergénérationnelle entre jeunes et seniors.",
         "contexte": "L'initiative vise à sensibiliser les jeunes à l'âge adulte aux problèmes de société liés à l'âge, notamment le déclin démographique et l'isolement social.",
@@ -23,9 +23,9 @@
         "2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_challenge_oratoire_lyceen_debattra_face_a_un_jury_de_seniors.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une intervention d'ergothérapeutes à domicile visant à prévenir la perte d'autonomie dans le maintien à domicile des personnes âgées de 60 ans et plus.",
         "contexte": "La ville de Nantes Métropole a identifié un besoin en matière de prévention de la perte d'autonomie chez les personnes âgées, particulièrement concernant les personnes de 60 ans et plus. Cette problématique est renforcée par le développement du service d'intervention d'ergothérapeutes à domicile.",
@@ -21,11 +21,9 @@
         "depuis 2018"
     ],
     "thematique": [
-        "prévention",
-        "lien social",
-        "numérique",
-        "habitat",
-        "isolement"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Intervention_dergotherapeutes_a_domicile_aupres_des_personnes_de_60_ans_et_plus.txt",

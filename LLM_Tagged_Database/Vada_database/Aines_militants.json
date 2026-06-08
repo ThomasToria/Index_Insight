@@ -8,7 +8,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "plaidoyer",
     "description": {
         "description_generale": "La CFDT Retraités a lancé une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement, notamment auprès d'organisations locales, départementales et régionales.",
         "contexte": "Le con/f_inement du Covid-19 a conduit à un isolement accru pour les personnes âgées, particulièrement vulnérables. Les organisations de la CFDT Retraités ont pris en charge ce besoin en organisant des actions telles que l'enquête, le forum, et la mise en place d'une plateforme téléphonique.",
@@ -30,8 +30,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aines_militants.txt",

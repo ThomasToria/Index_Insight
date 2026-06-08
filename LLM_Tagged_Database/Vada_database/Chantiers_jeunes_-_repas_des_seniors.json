@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Un déjeuner annuel pour les ainés organisé par la ville de Maxéville.",
         "contexte": "Le service senior organise le repas, tandis que le service jeunesse propose des bouchées apéritives et des activités de loisir aux bénévoles adolescents.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Chantiers_jeunes_-_repas_des_seniors.txt",

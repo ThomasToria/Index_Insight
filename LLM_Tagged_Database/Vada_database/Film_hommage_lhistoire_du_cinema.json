@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le projet consiste en la co-réalisation d’un film hommage à un résident décédé du Covid-19, ancien projecteur dans un cinéma lyonnais, afin de valoriser l’histoire du cinéma et les talents artistiques des résidents de la Résidence Autonomie.",
         "contexte": "Le projet vise à rendre les résidents acteurs d'un projet au long terme en racontant l'histoire du cinéma qu'ils ont connu. Il s'agit également de valoriser et montrer les talents artistiques des résidents auprès des habitants de la commune.",
@@ -22,12 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Film_hommage_lhistoire_du_cinema.txt",

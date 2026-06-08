@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Ce projet a débuté en 2007. Avant cela, la commune d'Andorre la Vieille proposait déjà diverses activités en tous genres. Cependant, elles n'étaient alors pas encadrées par un programme. En voyant le succès rencontré, la municipalité a souhaité encadrer d'avantages ces activités.",
         "contexte": "Le catalogue d’activités de la commune se renouvelle chaque année, et les activités suivent le calendrier scolaire de septembre à juin. Lors de la conception du catalogue d'activités plusieurs aspects sont à tenir en compte. Premièrement un bilan des activités réalisées l'année antérieure est fait, prenant en compte le nombre d’inscriptions et la participation réelle dans les ateliers, ainsi que les abandons au cours de l’année. D’autre part des questionnaires de satisfaction sont réalisés auprès des usagers, mais aussi ailleurs des professionnels en charge d'activités, et des personnes âgées volontaires qui dirigent des ateliers.",
@@ -22,15 +22,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Catalogue_dactivites_et_ateliers.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le Silver Show est un projet culturel et humain organisé par le Pôle Senior de Granville, en collaboration avec Amour Collective.",
         "contexte": "La démarche Villes Amies de Aînés a été lancée dans la commune de Granville depuis mars 2016. Le Silver Show est une initiative qui vise à changer les regards sur le vieillissement et à favoriser les liens intergénérationnels.",
@@ -22,9 +22,9 @@
         "depuis mars 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LE_SILVER_SHOW.txt",

@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Rapport adopté le 20 avril 2020",
         "contexte": "Stabilité du taux d'institutionnalisation des seniors depuis 2008, près de 40% des allocataires résident en établissement.",
@@ -21,10 +21,9 @@
         "20/04/2020"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "services et accompagnement"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le recours des personnes âgées vulnérables aux emp.txt",

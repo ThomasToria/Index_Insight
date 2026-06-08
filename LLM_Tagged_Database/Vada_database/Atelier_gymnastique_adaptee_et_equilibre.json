@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une initiative pour améliorer l’accessibilité et la pratique sportive des personnes âgées dans une commune.",
         "contexte": "La commune de Villeneuve d'Ascq compte plus de 13 000 retraités, dont 612 sont inscrits au service municipal des aînés. La ville de demain sera nécessairement âgée, et la commune essaie de s’adapter aux besoins et attentes des aînés.",
@@ -22,11 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_gymnastique_adaptee_et_equilibre.txt",

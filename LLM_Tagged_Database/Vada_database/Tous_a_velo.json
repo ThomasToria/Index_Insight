@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Une initiative autour du vélo visant à améliorer la santé des seniors en leur permettant de se déplacer de manière active.",
         "contexte": "La ville de La Flèche a développé une infrastructure de voies vertes et cyclables, favorisant l'accessibilité aux piétons et cyclistes. L'association Cyclopédie propose des services d'entretien et réparation de vélos.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tous_a_velo.txt",

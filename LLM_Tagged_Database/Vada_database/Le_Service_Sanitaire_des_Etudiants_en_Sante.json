@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Créer une dynamique positive au sein de la communauté pour la formation des étudiants en santé, favoriser des échanges entre les étudiants en santé et le public senior, et offrir aux étudiants un stage concret.",
         "contexte": "Le besoin d'accueillir des étudiants a été identifié par le CCAS comme une opportunité unique de répondre aux besoins de santé publique locale, dynamiser l'offre de prévention existante, et favoriser l'intégration professionnelle.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "culture et loisirs",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Service_Sanitaire_des_Etudiants_en_Sante.txt",

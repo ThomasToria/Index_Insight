@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La ville de Mulhouse a lancé une dynamique de changement urbain important en vue de développer les mobilités douces. Ces concertations visent à prendre en compte les besoins spécifiques des seniors mulhousiens.",
         "contexte": "Les seniors mulhousiens vivant dans la commune souhaitaient améliorer leur cadre de vie et se sentir plus engagés dans le développement du quartier.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Concertations_pour_les_seniors.txt",

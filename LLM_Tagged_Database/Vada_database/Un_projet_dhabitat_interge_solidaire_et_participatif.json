@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "L'association Chers Voisins Les Platanes est née en 2014 et constitue le premier projet issu du partenariat entre le bureau d’ingénierie sociale Récipro-Cité et le Groupe Logement Français. Son objectif est de mettre en place des actions concrètes permettant de développer le lien social, l'entraide et la solidarité entre voisins de résidence ou d’un quartier.",
         "contexte": "Le projet de l’association Chers Voisins met en œuvre plusieurs catégories d’actions qui ont vocation à apporter des réponses concrètes aux besoins des habitants. Parmi ceux-ci, la Conciergerie Participative a pour vocation de mettre à disposition de tous les adhérents un environnement de services répondant aux trois enjeux sociétaux identifiés par Chers Voisins: préserver le pouvoir d’achat, encourager la convivialité et le lien social intergénérationnel, faciliter le maintien à domicile et le bien vivre chez soi pour tous, donner aux personnes âgées de bonnes conditions de vie à domicile.",
@@ -22,13 +22,9 @@
         "2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_dhabitat_interge_solidaire_et_participatif.txt",

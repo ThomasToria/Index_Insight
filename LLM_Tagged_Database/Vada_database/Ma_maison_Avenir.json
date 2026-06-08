@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une initiative visant à améliorer la qualité de vie des personnes âgées dans leur domicile.",
         "contexte": "Suite à l'audit urbain mené par le CCAS de La Rochelle, plusieurs personnes âgées se trouvaient en difficulté dans leurs domiciles. L'administration a décidé d'informer les rochelais sur les possibilités d'aménagement du domicile pour favoriser le maintien à domicile.",
@@ -22,10 +22,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ma_maison_Avenir.txt",

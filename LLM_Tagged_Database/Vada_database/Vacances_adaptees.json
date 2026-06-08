@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le projet est un séjour pour les seniors Maxois de plus de 75 ans, aussi appelés les grands seniors. Il a pour objectif de favoriser et de garder du lien social et culturel pour les grands seniors lors d'un voyage spécifiquement élaboré selon leur besoins et leurs attentes.",
         "contexte": "Les seniors Maxois étaient moins présent dans les événements municipaux, ce qui était due à leur motricité limitée. Le projet est né pour permettre aux grands seniors de partir en vacances.",
@@ -21,9 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_adaptees.txt",

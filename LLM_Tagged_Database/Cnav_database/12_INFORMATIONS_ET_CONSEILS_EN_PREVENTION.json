@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La Caisse nationale de l'Assurance retraite soutient la réalisation de vidéos dans le cadre d'un programme initialement construit par la Carsat de Bourgogne-Franche-Comté. Ces vidéos exposeront des informations et conseils sur différentes thématiques de prévention, illustrées par des défis pour enrichir les connaissances et des informations pratiques.",
         "contexte": "La diffusion prévue en 2024 couvrira plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux).",
@@ -18,9 +18,9 @@
         "2024"
     ],
     "thematique": [
-        "santé",
-        "prévention",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "intergénérationnel"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",

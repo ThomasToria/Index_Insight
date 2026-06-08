@@ -8,7 +8,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "7ème édition du forum des seniors atlantique (2022)",
         "contexte": "Depuis 2014, Le Parc des Expositions de la Beaujoire à Nantes co-organise chaque année avec Nantes Métropole, la Ville de Nantes, le Département de Loire Atlantique, le Forum des Seniors Atlantique et de nombreux autres acteurs, le Forum des Seniors Atlantique. L'intervention métropolitaine pour cet évènement s'inscrit de façon transversale dans les 25 engagements de la Feuille de route longévité métropolitaine.",
@@ -25,10 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "prévention"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\7eme_edition_du_forum_des_seniors_atlantique_2022.txt",

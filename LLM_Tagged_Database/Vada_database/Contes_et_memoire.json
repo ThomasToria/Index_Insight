@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet Contes et Mémoire vise à rassembler les seniors de la commune pour partager leur histoire, valoriser leur mémoire et créer un spectacle de contes intergénérationnel.",
         "contexte": "La ville de Valentigney a une richesse historique qui nécessite d'être transmise aux générations futures. Les seniors sont des experts de cette histoire et ont vu le développement de la ville au fil du temps.",
@@ -22,13 +22,9 @@
         "2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Contes_et_memoire.txt",

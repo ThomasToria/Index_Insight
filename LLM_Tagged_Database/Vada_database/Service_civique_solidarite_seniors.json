@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Dans le cadre des webinaires organisés par le Réseau des Villes Amies des Aînés, la commune a eu connaissance des Services Civiques Solidarité Seniors. En tant que commune rurale, l'isolement est un enjeu fort sur le territoire. Le CCAS tient à jour une liste de personnes vulnérables isolées et très âgées. La présence de jeunes en contact avec les personnes âgées a été identifiée comme une première solution pour soutenir.",
         "contexte": "L'isolement est un enjeu fort sur le territoire, particulièrement dans la commune rurale où il y a des seniors isolés et vulnérables. Le CCAS tient à jour une liste de personnes vulnérables isolées et très âgées.",
@@ -22,9 +22,9 @@
         "juillet 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_civique_solidarite_seniors.txt",

@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Plan de lutte contre l'isolement des personnes âgées à domicile, coordonné par le CCAS et les acteurs locaux.",
         "contexte": "Contexte sanitaire nécessitant une organisation expérimentale avec les structures présentes sur le territoire.",
@@ -24,13 +24,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plan_de_lutte_contre_isolement_des_personnes_agees_a_domicileV.txt",

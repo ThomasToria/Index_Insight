@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Cette action est le fruit d’un partenariat entre la Ville de Genève et la Croix-Rouge genevoise. La prestation 'Transports pour personnes âgées' propose un accompagnement aux seniors sous la forme de transports réalisés par des bénévoles formés, avec leur propre véhicule.",
         "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -23,10 +23,9 @@
         "juillet 2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transports_pour_personnes_agees.txt",

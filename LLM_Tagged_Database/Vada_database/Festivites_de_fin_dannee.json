@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La période des fêtes de fin d'année est appréciée de tous, particulièrement des personnes âgées qui trouvent là l'occasion de partager des temps conviviaux avec leurs entourages (familles et amis). Mais pour les seniors isolés, la période est délicate car elle renforce le sentiment de solitude ou de délaissement. Afin de permettre aux habitants âgés de partager une journée festive ou de déguster des produits qualitatifs, la Ville de Vienne déploie chaque année une action forte au moment des fêtes de fin d'année.",
         "contexte": "La période des fêtes de fin d’année est appréciée de tous, particulièrement des personnes âgées qui trouvent là l’occasion de partager des temps conviviaux avec leurs entourages (familles et amis). Mais pour les seniors isolés, la période est délicate car elle renforce le sentiment de solitude ou de délaissement.",
@@ -22,8 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Festivites_de_fin_dannee.txt",

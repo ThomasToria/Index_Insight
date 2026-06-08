@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Ce projet consiste en l'aménagement au sein d'une résidence autonomie, d'un appartement témoin. Il s'agit de répondre aux besoins des personnes en termes de sécurité, d'usage et de confort sur un plan technique.",
         "contexte": "La grande majorité des résidents a exprimé le souhait de vivre le plus longtemps possible à domicile, mais les agents des services ont constaté que ces personnes se trouvent souvent limitées dans leurs actions quotidiennes. Des aménagements techniques peuvent aider à leur autonomie.",
@@ -22,12 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Hygie.txt",

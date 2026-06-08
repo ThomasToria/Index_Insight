@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette olympiade a eu lieu le 25 juillet après-midi.",
         "contexte": "Le CCAS a géré l'organisation et la coordination de l'événement, et le service des sports de la ville a accompagné la mise en place des épreuves.",
@@ -21,8 +21,9 @@
         "25/07/2024"
     ],
     "thematique": [
-        "santé",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Olympiades_intergenerationnelles.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le pôle seniors de la ville de la Seyne-sur-Mer propose désormais un ensemble d'ateliers pour les personnes de plus de 60 ans, favorisant le lien social et lutter contre l'isolement.",
         "contexte": "Les seniors de la commune ne participaient pas aux activités culturelles et sportives existantes. Les ateliers du bien vieillir ont été créés pour les personnes âgées qui sont isolées, empêchées soit par le manque d'argent, soit physiquement ou psychologiquement.",
@@ -23,15 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_du_Bien_Vieillir.txt",

@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "rapport",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Cette recherche vise à évaluer l'impact du polyhandicap sur la qualité de vie des familles et les besoins spécifiques qu’elles rencontrent.",
         "contexte": "Le polyhandicap (PLH) est une condition complexe associant déficience mentale profonde et déficit moteur grave, nécessitant un accompagnement continu. Les familles sont confrontées à des difficultés majeures dans leur qualité de vie.",
@@ -21,8 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "Autonomie, grand âge et handicap",
-        "Services, interventions et politiques favorables à la santé"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\064_2019_impact_familial_du_polyhandicap_approche_methodologique_mixte.txt",

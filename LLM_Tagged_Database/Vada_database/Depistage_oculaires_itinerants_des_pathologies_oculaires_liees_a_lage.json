@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Dépistage oculaires itinérants des pathologies oculaires liées à l'âge pour favoriser l'accès aux soins ophtalmologiques.",
         "contexte": "Problématique de la baisse de l’acuité visuelle chez les personnes âgées, notamment en raison des neurodégénératives et du manque d’accès à un ophtalmologiste.",
@@ -22,10 +22,9 @@
         "2024"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Depistage_oculaires_itinerants_des_pathologies_oculaires_liees_a_lage.txt",

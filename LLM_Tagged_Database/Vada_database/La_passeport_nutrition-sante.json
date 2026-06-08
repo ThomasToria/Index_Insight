@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête, bilans nutritionnels à domicile, suivis personnalisés, protocole de détection et traitement de la dénutrition",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Une procédure bien établie pour lutter contre la dénutrition chez les personnes âgées dans le quartier communautaire de Puteaux.",
         "contexte": "Le besoin d'améliorer la santé globale des résidents et leur qualité de vie, en particulier concernant la prévention de la malnutrition.",
@@ -22,12 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_passeport_nutrition-sante.txt",

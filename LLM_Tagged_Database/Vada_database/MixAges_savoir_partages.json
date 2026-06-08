@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une journée organisée par la Ville d'Amiénois en Bugey pour les habitants, avec des ateliers sur différents thèmes.",
         "contexte": "La ville organise une journée intergénérationnelle autour de l’intergénération et du partage de savoirs.",
@@ -21,9 +21,9 @@
         "2016-04-19"
     ],
     "thematique": [
-        "santé",
+        "lien social et isolement",
         "intergénérationnel",
-        "participation citoyenne"
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\MixAges_savoir_partages.txt",

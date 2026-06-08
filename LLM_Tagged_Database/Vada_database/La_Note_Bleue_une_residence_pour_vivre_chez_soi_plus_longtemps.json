@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "résidence",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La Note Bleue est une résidence pour les aînés qui souhaitent continuer à vivre chez soi, en adaptant leur logement aux besoins spécifiques de la population âgée.",
         "contexte": "Les personnes âgées ont besoin d'un environnement propice à la qualité de vie et à l'autonomie. La construction de la résidence « La Note Bleue » répond à ce besoin en offrant des logements adaptés aux besoins spécifiques de la population âgée.",
@@ -22,10 +22,9 @@
         "2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Note_Bleue_une_residence_pour_vivre_chez_soi_plus_longtemps.txt",

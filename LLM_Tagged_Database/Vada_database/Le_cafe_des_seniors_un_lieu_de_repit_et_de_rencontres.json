@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La création du Café des Seniors a été initiée par l'OPAD (Organisation pour la Protection de l’Aîné) d'une commune, en réponse à un constat de besoin de répit et de rencontres pour les personnes âgées.",
         "contexte": "Les seniors de Dijon ont exprimé le besoin de trouver un espace communautaire où ils puissent se détendre, lire des journaux, rencontrer d'autres personnes et échanger avec eux. Le café a été conçu dans une rue centrale pour faciliter l'accès à la population.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cafe_des_seniors_un_lieu_de_repit_et_de_rencontres.txt",

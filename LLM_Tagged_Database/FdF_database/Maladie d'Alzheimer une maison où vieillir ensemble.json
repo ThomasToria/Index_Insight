@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La Maison des sages est une forme innovante d'habitat partagé où cohabitent des personnes âgées atteintes de la maladie d’Alzheimer ou de troubles apparentés.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Maladie d'Alzheimer une maison où vieillir ensemble.txt",

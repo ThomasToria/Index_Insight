@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un service très cadré d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap.",
         "contexte": "Les personnes âgées n'ayant pas ou peu d'entourage sont parfois désemparées face à un petit travail à faire à leur domicile. Face à ces situations régulières et les appels au CCAS, ce service a été mis en place pour répondre aux besoins des aînés.",
@@ -21,10 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aide_aux_petits_travaux.txt",

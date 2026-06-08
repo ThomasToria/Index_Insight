@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le projet consiste en un programme d'échanges intergénérationnels au sein de résidences autonomie, visant à favoriser les liens et les rencontres entre résidents seniors et jeunes. Par un contact régulier et durable entre ces derniers, des échanges et une meilleure connaissance réciproque permettent de faire tomber les représentations négatives, de créer du lien social et de favoriser la découverte d'autres cultures.",
         "contexte": "Le CCAS de Besançon gère de longue date cinq résidences autonomie. Ces structures constituent une alternative entre le logement classique et l'EHPAD. En Octobre 2005, les normes de sécurité ('type J') ont contraint l'une d'elles (les Hortensias) à ne plus pouvoir accueillir de personnes âgées sur les trois derniers étages, soit vingt-deux logements. Afin que l’équilibre financier de l'établissement puisse être maintenu, il a été décidé de louer ces vingt-deux logements à des étudiants, majoritairement étudiants étrangers inscrits au CLA (Centre de linguistique appliqué).",
@@ -21,6 +21,8 @@
         "2005"
     ],
     "thematique": [
+        "autonomie et grand âge",
+        "lien social et isolement",
         "intergénérationnel"
     ],
     "source_site": "VADA",

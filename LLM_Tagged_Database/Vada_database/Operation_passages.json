@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Opération culturelle visant à rompre l'isolement des seniors isolés, favoriser leur accès aux structures culturelles de la ville, créer du lien social relationnel, citoyenneté et pouvoir d'action.",
         "contexte": "La Ville Amie des Aînés de Lons-le-Saunier a lancé l'Opération Pass’Agés en octobre 2016 pour favoriser la médiation culturelle auprès des personnes âgées isolées. Cette initiative vise à créer un lien social relationnel, citoyenneté et pouvoir d'action.",
@@ -22,9 +22,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_passages.txt",

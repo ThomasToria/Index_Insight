@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette initiative vise à identifier les besoins spécifiques des personnes âgées dans leur quartier communautaire.",
         "contexte": "La solitude et l'isolement sont de graves problèmes pour la population âgée, notamment en milieu communal. Des actions locales visant à améliorer le lien social entre les seniors et les jeunes générations sont nécessaires.",
@@ -21,8 +21,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "intergénérationnel",
-        "santé"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_visites_pour_lutter_contre_la_solitude.txt",

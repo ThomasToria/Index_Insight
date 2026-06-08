@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "groupe de parole",
     "description": {
         "description_generale": "Le projet a été initié suite à la crise sanitaire due au coronavirus (COVID-19) en 2020.",
         "contexte": "La collecte de témoignages des seniors a permis d’identifier les impacts psychologiques et physiques dus à l’épidémie.",
@@ -23,9 +23,9 @@
         "2020"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoire_dun_confine.txt",

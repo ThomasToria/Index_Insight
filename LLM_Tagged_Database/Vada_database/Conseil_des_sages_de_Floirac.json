@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "instance participative",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Conseil des sages de Floirac est une instance participative créée en 2010 par la Ville de Floirac pour permettre aux seniors d'engager davantage dans la vie locale et faciliter les échanges avec les élus.",
         "contexte": "La problématique du Conseil des sages concerne l’engagement des seniors à la vie locale, leur participation active et leur contribution utile. Les objectifs sont de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -22,13 +22,8 @@
         "depuis novembre 2010"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conseil_des_sages_de_Floirac.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet a permis de développer une réflexion sur l’urbanisme des zones aux conditions climatiques particulières (zones inondables) et d’étudier la possibilité de construire un écoquartier communautaire, tout en réduisant le nombre de logements vacants.",
         "contexte": "Le territoire rural a connu une baisse démographique, avec une population vieillissante dont 50% des plus de 65 ans vivent seuls. Les conditions climatiques sont particulières (zones inondables), ce qui nécessite un urbanisme durable.",
@@ -24,11 +24,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_dincitation_a_la_marche.txt",

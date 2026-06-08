@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Faciliter l'accès aux soins, courses, loisirs et cantine senior pour les aînés dans la commune.",
         "contexte": "Les aînés de plus de 70 ans, ayant un véhicule mais incapable d'utiliser le moyen habituel de déplacement, souhaitent une solution alternative à l'hospitalisation ou aux taxis payants.",
@@ -23,9 +23,8 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
+        "santé et prévention",
+        "autonomie et grand âge",
         "intergénérationnel"
     ],
     "source_site": "VADA",

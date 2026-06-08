@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "service",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le service des repas à domicile existe depuis 30 ans à Dijon. Il est porté par le Centre Communal d’Action Sociale de la ville et est intégré à la Direction des Retraités et Personnes Âgées.",
         "contexte": "Les aînés rencontrent des difficultés pour se faire livrer leurs repas, ne peuvent plus cuisiner ou n'en ont plus l'envie. Le service de portage de repas leur apporte une aide précieuse en veillant à ce qu'ils soient bien alimentés.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_portage_de_repas_a_domicile_soutenir_les_aines_a_domicile.txt",

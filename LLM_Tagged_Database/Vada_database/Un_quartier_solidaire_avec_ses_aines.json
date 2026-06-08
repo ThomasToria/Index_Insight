@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une première expérimentation a eu lieu sur le quartier Croix d'Argent pour créer un réseau de vigies, puis renouvelée sur Celleneuve avec une équipe citoyenne de bénévoles.",
         "contexte": "Le quartier Croix d'Argent est l'un des plus vieillissants de Montpellier, menaçant l’isolement des aînés fragiles. Le CCAS souhaite renouveler cette expérience sur Celleneuve en mobilisant un réseau local.",
@@ -22,9 +22,9 @@
         "2024"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_quartier_solidaire_avec_ses_aines.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Une sortie organisée par une association de téléassistance pour les personnes âgées et en situation de handicap, visant à rompre l'isolement.",
         "contexte": "L'association a organisé une visite du musée des Confluences avec des personnes âgées et en situation de handicap, dans le cadre d'une action intergénérationnelle.",
@@ -22,8 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "lien social"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sortie_au_musee_des_confluences.txt",

@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "événement",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le colloque a été organisé par la Fondation de France le 16 octobre à l’Hôtel de Ville de Lyon, sur le thème « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie ».",
         "contexte": "",
@@ -21,12 +21,9 @@
         "16/10/2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté.txt",

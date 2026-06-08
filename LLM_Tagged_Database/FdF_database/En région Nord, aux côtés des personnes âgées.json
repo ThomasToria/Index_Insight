@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La Fondation de France Nord apporte un soutien aux acteurs de terrains pour maintenir le lien social et rassurer les personnes âgées dans la métropole lilloise.",
         "contexte": "Face à la crise sanitaire, les risques de dépression sont plus prégnants chez les personnes âgées, qui ont des contacts limités avec leurs familles. Les Maisons Bleues et l'EHPAD Saint-Albert d'Auchy-les-Hesdin mettent en place des solutions pour maintenir le lien social.",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\En région Nord, aux côtés des personnes âgées.txt",

@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "projet de recherche complet",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Le programme CAP-APPA s’inscrit dans le cadre d’un projet d’amorçage. Il engage une recherche interventionnelle en santé publique (RISP) dont l’objectif consiste à analyser l’intégration des activités physiques adaptées (APA)",
         "contexte": "",
@@ -21,11 +21,9 @@
         "2022"
     ],
     "thematique": [
-        "santé publique",
-        "psychologie",
-        "psychosociologie",
-        "sciences juridiques",
-        "épidémiologie"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\017_2022_cap_appa_coordinations_pour_l_activite_physique_adaptee_a_la_prevention_de_la_perte_d_autonomie_des_personnes_agees.txt",

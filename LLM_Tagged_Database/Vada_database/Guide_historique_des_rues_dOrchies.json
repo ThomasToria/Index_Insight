@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un ouvrage matériauisant patrimoine et culture. Le projet consiste en la rédaction et l'édition d'un ouvrage retraçant l’histoire des rues d’Orchies, leur dénomination, leur patrimoine, leur évolution depuis le XIXe siècle, ainsi que sur leur visage actuel.",
         "contexte": "La ville de Orchies a souhaité transmettre les petites histoires et l'histoire de ses rues à un large public. Le projet vise également à valoriser la mémoire des anciens résidents et leurs contributions à l’histoire locale, en mettant en lumière des personnalités orchésiennes.",
@@ -23,13 +23,8 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "intergénérationnel",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_historique_des_rues_dOrchies.txt",

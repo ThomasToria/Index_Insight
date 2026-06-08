@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La ville de Rennes et Rennes Métropole développent une politique envers les personnes âgées souhaitant effectuer une demande de logement social plus adapté à leur vieillissement.",
         "contexte": "Les demandeurs ont la particularité d'avoir une dérogation quant au choix du quartier, permettant de rester dans un secteur qu'ils connaissent et ne perturber leurs repères géographiques.",
@@ -23,11 +23,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.txt",

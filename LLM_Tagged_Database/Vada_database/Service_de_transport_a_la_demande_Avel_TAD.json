@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Le projet Avel TAD est une initiative solidaire qui a vu le jour à Plougastel depuis septembre 2024. Il s'agit d'un service de transport à la demande porté par le CCAS, composé d'une équipe de bénévoles chauffeurs et accompagnateurs.",
         "contexte": "La commune de Plougastel a identifié un besoin pour améliorer la mobilité des habitants, notamment ceux qui rencontrent des difficultés de déplacement. Le projet vise à faciliter l'accès aux services, commerces, loisirs et rendez-vous médicaux.",
@@ -22,10 +22,9 @@
         "depuis septembre 2024"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_de_transport_a_la_demande_Avel_TAD.txt",

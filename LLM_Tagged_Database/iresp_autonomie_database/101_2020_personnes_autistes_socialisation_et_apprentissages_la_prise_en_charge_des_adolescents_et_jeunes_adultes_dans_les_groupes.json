@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Cette initiative vise à sensibiliser les jeunes adultes et adolescents aux problèmes liés au handicap, en particulier l'autisme.",
         "contexte": "Dans le contexte actuel où la prise en charge des personnes autistes est encore marginalisée dans les milieux scolaires et familiaux, cette sensibilisation est essentielle pour éduquer davantage les jeunes à ce sujet.",
@@ -21,9 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "autonomie",
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\101_2020_personnes_autistes_socialisation_et_apprentissages_la_prise_en_charge_des_adolescents_et_jeunes_adultes_dans_les_groupes.txt",

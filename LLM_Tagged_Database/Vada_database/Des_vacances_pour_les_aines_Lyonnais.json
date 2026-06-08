@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Cette initiative vise à proposer des séjours vacanciers aux aînés lyonnais, en lien avec le programme « Seniors en vacances ».",
         "contexte": "Les personnes âgées isolées de la ville souhaitent partir en groupe pour découvrir une région et ses produits locaux. Le CCAS propose ces séjours à des résidents d'EHPAD.",
@@ -22,10 +22,9 @@
         "depuis 2014"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_vacances_pour_les_aines_Lyonnais.txt",

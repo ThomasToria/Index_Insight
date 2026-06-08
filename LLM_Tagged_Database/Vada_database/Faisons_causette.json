@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "L'action 'Faisons causette' s'inscrit dans la lutte contre l'isolement des seniors au travers de visites à domicile et appels téléphoniques grâce à une équipe de bénévoles.",
         "contexte": "Durant le deuxième confinement (Covid), il a été ressenti que beaucoup de seniors n’avaient pas de besoins 'pratiques', mais ils demandaient simplement d'être rappelés de semaine en semaine, juste pour avoir un contact, un coup de fil.",
@@ -21,10 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Faisons_causette.txt",

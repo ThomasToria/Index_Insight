@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Cette action vise à favoriser le maintiend à domicile, en offrant aux personnes âgées les moyens financiers nécessaires pour demeurer chez elles.",
         "contexte": "La SCIC Les 3 Colonnes a été créée par Sébastien Tchernia suite à l’expérience personnelle de sa grand-mère atteinte d’Alzheimer, qui a constaté la solitude et la dépendance de celle-ci. Cette situation a conduit à la création du projet pour aider les seniors à demeurer chez eux.",
@@ -25,12 +25,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creer_un_outil_de_financement_du_maintien_a_domicile_22.txt",

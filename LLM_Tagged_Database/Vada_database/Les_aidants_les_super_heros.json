@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Organisation d'une conférence de sensibilisation et un atelier collaboratif pour accompagner les aidants.",
         "contexte": "Difficultés à trouver des dispositifs d'aide sur les territoires, manque de communication entre les acteurs locaux.",
@@ -23,9 +23,9 @@
         "fin janvier"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aidants_les_super_heros.txt",

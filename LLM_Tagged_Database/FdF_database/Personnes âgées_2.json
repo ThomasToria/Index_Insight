@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "La lutte contre la maladie d'Alzheimer: un défi social",
         "contexte": "",
@@ -18,8 +18,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées_2.txt",

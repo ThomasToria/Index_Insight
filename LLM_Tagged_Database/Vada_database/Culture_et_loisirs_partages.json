@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "En 2017, lors d'une réunion avec le conseil communal des aînés, il est mis en évidence un manque d'actions culturelles et de loisirs en journée pour les seniors en perte d'autonomie, personnes pour lesquelles l'accès en fin de journée ou en soirée est peu adapté. Il a été décidé de créer une programmation spécifique pour ce public.",
         "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -21,9 +21,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Culture_et_loisirs_partages.txt",

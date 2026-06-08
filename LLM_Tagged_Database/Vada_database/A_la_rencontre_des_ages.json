@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Ce projet original est né à l’initiative de l’anima-trice d’un centre de jour dijonnais accueillant des personnes âgées atteintes de la maladie d’Alzheimer ou de troubles apparentés. Dans l’objectif d’ouvrir la structure sur le quartier, cette dernière a en effet contacté les responsables de la crèche et du relais assistants maternelles (RAM) du quartier afin de lui présenter un projet innovant.",
         "contexte": "Les rencontres sont organisées différemment en fonction des structures: les enfants qui fréquentent la crèche reçoivent une fois par mois des personnes âgées et les assistantes maternelles se rendent quant à elles avec l’animatrice du RAM au centre de jour, et ce grâce au véhicule du centre de jour lui-même. Une animation est prévue à chaque rencontre autour d’un thème (musique, danse, carnaval, noël, kermesse) ou d’une activité manuelle.",
@@ -24,8 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_la_rencontre_des_ages.txt",

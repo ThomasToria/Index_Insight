@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La mise en place d'un système de dossiers d'action pour la prévention des épidémies.",
         "contexte": "Les responsables d'établissements et les professionnels sont confrontés à des situations complexes où ils doivent prendre des décisions rapidement sans avoir accès à une information précise.",
@@ -23,11 +23,8 @@
         "2019"
     ],
     "thematique": [
-        "prévention",
-        "santé",
-        "isolement",
-        "communication",
-        "soins médicaux"
+        "santé et prévention",
+        "services et accompagnement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_3_new.txt",

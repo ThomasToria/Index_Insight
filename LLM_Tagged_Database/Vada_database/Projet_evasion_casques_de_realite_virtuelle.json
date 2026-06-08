@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le Conseil Départemental des Hauts-de-Seine propose gratuitement à l'ensemble des résidences autonomie et EHPAD du Département de tester l'utilisation de casques de réalité virtuelle. Les casques de réalité virtuelle permettent aux seniors de s'évader depuis leur structure, de visiter certains sites patrimoniaux comme le château de Fontainebleau ou le temple Wagner à Bayreuth.",
         "contexte": "Le projet vise à améliorer les interactions sociales et émotionnelles des résidents en perte d'autonomie. Les casques virtuels offrent une alternative aux visites traditionnelles, réduisant le stress et l'anxiété.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "numérique"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_evasion_casques_de_realite_virtuelle.txt",

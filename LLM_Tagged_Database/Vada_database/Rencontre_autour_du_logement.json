@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La rencontre visant à imaginer les aménagements de leur logement actuel et d'anticiper le choix et l'aménagement d'un futur logement.",
         "contexte": "",
@@ -23,11 +23,9 @@
         "2022-11"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Rencontre_autour_du_logement.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Animation sur la sécurité en mer et sur les côtes pour les seniors du village de Royan.",
         "contexte": "La ville de Royan, située dans le Poitou-Charentes, a décidé d'organiser une animation visant à sensibiliser les seniors aux risques liés à la navigation sur les côtes et à l'utilisation des services de sauvetage en mer.",
@@ -22,8 +22,9 @@
         "2015-05-28"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "politiques publiques"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_animation_Securite_en_mer_et_sur_nos_cotes_pour_les_seniors_Royannais.txt",

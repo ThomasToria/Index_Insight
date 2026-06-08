@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Contexte: En France, plus de 150 000 accidents vasculaires cérébraux (AVC) surviennent chaque année. L’AVC est un facteur de risque majeur de dépendance, représentant la première cause de handicap non traumatique acquis de l’adulte. L’AVC est un évènement qui peut entraîner une perte d’autonomie et nécessite des soins médicaux et sociaux adaptés.",
         "contexte": "",
@@ -21,9 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\047_2022_evaluation_de_l_implementation_d_un_nouveau_programme_medico_social_d_accompagnement_a_l_autonomie_des_personnes_en_post.txt",

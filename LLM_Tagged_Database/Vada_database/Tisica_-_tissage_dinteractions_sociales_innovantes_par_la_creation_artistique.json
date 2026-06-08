@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Le projet Tisica est une initiative artistique qui met en place des ateliers créatifs pour les personnes âgées, avec un focus sur la création musicale. Ces ateliers visent à renforcer les interactions sociales et intergénérationnelles.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "numérique"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.txt",

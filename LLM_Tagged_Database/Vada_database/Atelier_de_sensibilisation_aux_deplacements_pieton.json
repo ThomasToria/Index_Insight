@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une demi-journée de sensibilisation aux déplacements piétons pour les seniors.",
         "contexte": "Commune de Maxéville, habitants séniors ayant souhaité une sensibilisation à la mobilité en toute sécurité, surtout en cœur de village.",
@@ -20,9 +20,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_de_sensibilisation_aux_deplacements_pieton.txt",

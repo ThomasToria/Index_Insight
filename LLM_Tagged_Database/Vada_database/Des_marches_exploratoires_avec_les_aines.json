@@ -8,7 +8,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "consultation citoyenne",
     "description": {
         "description_generale": "La mission gérontologie de la Ville de Rennes, en lien avec les Directions de quartier et le service Mobilité urbaine, organise des marches exploratoires pour et avec des aînés dans leur quartier.",
         "contexte": "Les aînés ont besoin d'aménagements favorables à la mobilité mais aussi d'obstacles et freins. Ces marches visent à identifier ces aménagements et obstacles, en lien avec les habitants du quartier.",
@@ -26,9 +26,9 @@
         "novembre 2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_marches_exploratoires_avec_les_aines.txt",

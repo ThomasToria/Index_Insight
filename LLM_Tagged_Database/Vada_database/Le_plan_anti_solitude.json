@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Un plan pour lutter contre la solitude",
         "contexte": "Les évolutions de la société ont conduit à une augmentation des situations d'isolement relationnel et de solitude subie. Les causes majeures comprennent le vieillissement de la population, le chômage de masse et longue durée, l’augmentation de la pauvreté, la monoparentalité, les accidents du parcours de vie (ruptures, veuvage, déménagement, retraite) et d'autres facteurs.",
@@ -23,8 +23,9 @@
         "2018-09-30"
     ],
     "thematique": [
-        "intergénérationnel",
-        "santé"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_plan_anti_solitude.txt",

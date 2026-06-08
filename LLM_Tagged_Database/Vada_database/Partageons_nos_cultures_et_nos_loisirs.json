@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La commune de Meaulne-Vitray organise une série d'actions visant à changer les mentalités intergénérationnelles, notamment en organisant des manifestations culturelles et ludiques pour favoriser l'échange entre seniors et jeunes.",
         "contexte": "Les actions ont pour but de renforcer le lien social et lutter contre l’isolement, tout en valorisant la mémoire et les traditions locales. La Ville cherche à inciter les seniors ayant des revenus faibles à participer aux loisirs culturels afin d’éviter l’isolement.",
@@ -22,9 +22,9 @@
         "depuis 2014"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partageons_nos_cultures_et_nos_loisirs.txt",

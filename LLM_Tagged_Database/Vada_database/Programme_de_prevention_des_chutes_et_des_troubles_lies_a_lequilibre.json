@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "Le programme de prévention des chutes et des troubles liés à l'équilibre vise à améliorer la sécurité et la qualité de vie des seniors en leur permettant d'acquérir les compétences nécessaires pour éviter les chutes.",
         "contexte": "La ville de Saint-Laurent-de-Mure a identifié un besoin spécifique concernant la prévention des chutes chez ses résidents âgés, ce qui a conduit à l’initiative du programme 'SILVER XIII Equilibre'.",
@@ -21,12 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Programme_de_prevention_des_chutes_et_des_troubles_lies_a_lequilibre.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "programme",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un programme lancé en 2021, développé pour améliorer la santé des seniors par des modes de prévention alternatifs et innovants.",
         "contexte": "La ville de Royan a une population âgée dominante (55% de personnes âgées de 60 ans et plus) et a été touchée par la pandémie de la COVID-19, ce qui a renforcé le sentiment d'isolement.",
@@ -22,10 +22,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention",
-        "créativité"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pensattitude_Prevention_et_therapies_innovantes_pour_la_sante_des_seniors.txt",

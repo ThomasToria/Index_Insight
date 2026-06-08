@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif partenarial",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Un dispositif innovant de maintien à domicile pour les personnes en perte d'autonomie coordonnée par des ressources sociales et médico-sociales du territoire.",
         "contexte": "La personne est dans une situation de perte d'autonomie, nécessitant un accompagnement global gradué et diversifié à domicile.",
@@ -22,10 +22,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vyvdos.txt",

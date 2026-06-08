@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "publication",
     "description": {
         "description_generale": "Cette note propose une estimation du coût de prise en charge des personnes en perte d'autonomie (principalement bénéficiaires de l’APA) et de sa répartition entre dépenses publiques et reste-à-charge (RAC) pour les personnes selon leur lieu de vie, mais aussi selon la configuration de leur ménage (en couple ou non) et leur niveau de revenu, pour différents GIR et niveaux de salaire horaire des intervenants à domicile.",
         "contexte": "",
@@ -22,13 +22,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note de comparaison des coûts de prise en charge d.txt",

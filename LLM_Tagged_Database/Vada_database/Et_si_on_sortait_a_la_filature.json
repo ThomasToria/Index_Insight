@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une initiative de Mulhouse visant à renouer avec la culture pour les seniors isolés.",
         "contexte": "Les seniors isolés ont des freins à participer aux sorties culturelles, notamment en raison du manque de moyens financiers et d'organisation.",
@@ -23,12 +23,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
+        "autonomie et grand âge",
+        "lien social et isolement",
         "intergénérationnel"
     ],
     "source_site": "VADA",

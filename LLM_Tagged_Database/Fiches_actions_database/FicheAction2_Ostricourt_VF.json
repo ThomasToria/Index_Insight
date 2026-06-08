@@ -10,7 +10,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Démarche de design citoyen visant à améliorer les conditions de stationnement et circulation en zone d'habitat communale à Ostricourt, impliquant la sensibilisation des habitants et l'aménagement du territoire.",
         "contexte": "Problèmes de stationnement gênent les piétons, personnes âgées, et professionnels de santé, ainsi que commerçants et entreprises. Manque de civisme et d'initiative citoyenne contribuent à l’incivisme dans la circulation.",
@@ -27,13 +27,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction2_Ostricourt_VF.txt",

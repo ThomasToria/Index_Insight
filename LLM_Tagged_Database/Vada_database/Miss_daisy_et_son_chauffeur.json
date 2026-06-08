@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Une initiative pour améliorer la mobilité des aînés dans le village de Chasselay.",
         "contexte": "Chasselay est un village étendu de 2 800 habitants situé à 17 km de Lyon, mal desservi par les transports en commun.",
@@ -21,12 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Miss_daisy_et_son_chauffeur.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une action autour des 30 ans d'un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
         "contexte": "La ville de Tassin la Demi-Lune a organisé une série d'activités pendant la Semaine Bleue, incluant un cours de cuisine proposé par un chef étoilé.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_cuisine_avec_un_grand_chef.txt",

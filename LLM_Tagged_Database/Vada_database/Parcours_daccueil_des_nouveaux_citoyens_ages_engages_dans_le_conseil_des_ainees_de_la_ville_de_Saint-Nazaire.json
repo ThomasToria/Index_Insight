@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette initiative vise à former les nouveaux membres du conseil des aîné.es de la ville de Saint-Nazaire, permettant ainsi une meilleure compréhension et appréhension de leur rôle.",
         "contexte": "La Ville Amie des Aînés s'est engagée dans la démarche Villes Amies des Aîné.es en décembre 2019. Un conseil consultatif a été créé pour accompagner ce travail, mais le bilan du premier mandat (2019-2022) a montré la nécessité de proposer un parcours d'accueil aux nouveaux membres.",
@@ -23,13 +23,8 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "participation citoyenne",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_daccueil_des_nouveaux_citoyens_ages_engages_dans_le_conseil_des_ainees_de_la_ville_de_Saint-Nazaire.txt",

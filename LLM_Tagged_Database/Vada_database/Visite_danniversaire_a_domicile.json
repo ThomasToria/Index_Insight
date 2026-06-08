@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Visite d'anniversaire à domicile pour renforcer les liens sociaux entre personnes âgées.",
         "contexte": "Les seniors maxévillois se sont isolés avec l’âge, ce qui a conduit à une diminution des interactions sociales. Le projet visait à redonner un sentiment de communauté et d'attention aux seniors.",
@@ -21,12 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Visite_danniversaire_a_domicile.txt",

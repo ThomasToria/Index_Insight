@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une journée intergénérationnelle organisée pour les seniors de plus de 60 ans et des jeunes en situation de handicap.",
         "contexte": "Un besoin d'engager des seniors dans une activité physique ou cérébrale, avec l'intégration de personnes en situation de handicap.",
@@ -22,9 +22,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Challenge_sante_seniors.txt",

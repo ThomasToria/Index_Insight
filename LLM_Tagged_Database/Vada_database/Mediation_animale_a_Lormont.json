@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant. Les séances de médiation animale collectives accueillent huit personnes et alternent avec des séances individuelles chez les résidents de la résidence autonomie deux fois par mois.",
         "contexte": "Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années maintenant. Les séances de médiation animale collectives accueillent huit personnes et alternent avec des séances individuelles chez les résidents de la résidence autonomie deux fois par mois.",
@@ -23,8 +23,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediation_animale_a_Lormont.txt",

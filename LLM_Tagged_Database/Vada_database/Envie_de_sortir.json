@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Support de communication spécialement dédié aux seniors, créé à l’origine pour proposer des activités en résidence autonomie.",
         "contexte": "La ville du Chambon-Feugerolles propose un support de communication spécifique aux seniors, basé sur le site internet de la collectivité. Ce document a été conçu pour aider les seniors à se connecter à diverses offres et services proposés par la commune.",
@@ -23,8 +23,9 @@
         "2023"
     ],
     "thematique": [
-        "prévention",
-        "accès à la culture et aux loisirs"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Envie_de_sortir.txt",

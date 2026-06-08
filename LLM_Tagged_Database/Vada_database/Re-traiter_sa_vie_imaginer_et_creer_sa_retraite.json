@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un stage pour préparer sa retraite, initié par des retraités ayant vécu de la rupture au moment de la retraite.",
         "contexte": "Le besoin d'identifier un groupe de réflexion composé de retraités et animé par CLIC Entour'âge: le groupe 'Projet de vie'.",
@@ -21,9 +21,9 @@
         "depuis 1998"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.txt",

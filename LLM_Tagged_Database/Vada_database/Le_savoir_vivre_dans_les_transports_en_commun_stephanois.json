@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Un projet du Conseil Consultatif Seniors (CCS) visant à améliorer la mobilité des seniors dans les transports en commun de Saint-Etienne.",
         "contexte": "Les personnes âgées rencontrent des problèmes de mobilité, notamment avec le tramway et le bus, ce qui les empêche d'utiliser les transports en commun comme moyen de se déplacer.",
@@ -24,11 +24,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_savoir_vivre_dans_les_transports_en_commun_stephanois.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "publication",
     "description": {
         "description_generale": "Le CCAS et la médiathèque de Biot ont mis en place un partenariat pour offrir une sélection d'ouvrages à des seniors qui fréquentent régulièrement la médiathèque mais ne peuvent plus y accéder.",
         "contexte": "Les seniors, fréquents visiteurs de la médiathèque, ont commencé à ne plus pouvoir s'y rendre même après une demande d'accessibilité. Cela a conduit les deux institutions à envisager un service de portage pour maintenir leur participation.",
@@ -22,9 +22,9 @@
         "2024-05"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Culture_a_domicile.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le projet d'aménagement du parcours de santé adapté « physio-parc » s'inscrit dans le plan d'action du label Amie des Aînés, décerné en fin de 2023 à Belfort. Ce projet innovant vise à améliorer la qualité de vie des seniors et répond aux besoins spécifiques de cette population.",
         "contexte": "Belfort a obtenu le label Amie des Aînés, décerné en fin de 2023, qui valorise sa politique en faveur des seniors. Le projet d'aménagement du parcours de santé adapté « physio-parc » s'inscrit dans ce contexte.",
@@ -21,8 +21,9 @@
         "depuis fin 2023"
     ],
     "thematique": [
-        "santé physique",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Amenagement_du_parcours_de_sante_adapte_physio-parc_en_acces_libre_a_letang_des_Forges_de_Belfort.txt",

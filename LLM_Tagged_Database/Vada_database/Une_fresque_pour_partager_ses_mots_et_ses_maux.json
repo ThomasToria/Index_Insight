@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative a permis de créer une fresque artistique qui combine les mots des personnes âgées avec ceux des jeunes pour mieux comprendre la société multigénérationnelle.",
         "contexte": "Les adolescents issus d'un quartier populaire ont mené plusieurs projets intergénérationnels, et l'idée de diffuser ces mots à travers une fresque artistique a été lancée par un groupe d'adolescents.",
@@ -23,13 +23,9 @@
         "2014"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "lien social et isolement",
+        "intergénérationnel",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_fresque_pour_partager_ses_mots_et_ses_maux.txt",

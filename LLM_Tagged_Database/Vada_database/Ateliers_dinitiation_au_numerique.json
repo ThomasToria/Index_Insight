@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Favoriser l'accès au numérique des personnes âgées vivant à domicile. Faciliter leur accès à l'information. Combattre l’isolement et créer du lien social.",
         "contexte": "La volonté des personnes âgées de rester le plus longtemps possible à leur domicile est aujourd’hui presque unanime. Ce choix est devenu accessible au plus grand nombre grâce aux politiques favorisant le maintien des seniors à domicile et le développement des services à la personne.",
@@ -22,9 +22,9 @@
         "depuis 2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_dinitiation_au_numerique.txt",

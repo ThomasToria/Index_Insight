@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Le diagnostic santé réalisé par la Ville de Saint-Priest a démontré qu'une partie des personnes âgées sont en situation de précarité et d'isolement. Les difficultés de maintien à domicile, les coûts et délais d’attente pour l’entrée en EHPAD entraînent des situations complexes d'isolement mais également des abandons de soins.",
         "contexte": "Les difficultés de mobilité, la faible part de praticiens visitant à domicile sont en effet les premiers facteurs d’isolement mis en avant. L’offre de soins de premier recours est également complexe à Saint-Priest (diminution du nombre de médecins généralistes).",
@@ -22,12 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soins_pour_tous.txt",

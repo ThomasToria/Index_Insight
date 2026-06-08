@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Une initiative autour de la valorisation des résidents d'un Ehpad, notamment leur mémoire et leur place dans la vie locale.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées.txt",

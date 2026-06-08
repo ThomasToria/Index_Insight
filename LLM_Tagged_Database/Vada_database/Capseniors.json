@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Un service créé en 2008, Cap'Seniors est un projet d'initiative locale visant à maintenir l'autonomie des retraités par le biais d'activités physiques adaptées et favoriser le lien social.",
         "contexte": "Les Caluirards ou habitants de l’agglomération lyonnaise de plus de 55 ans cherchant à pratiquer une activité physique adaptée, en particulier les personnes âgées. Le projet a été initié pour renforcer la pratique des activités physiques et favoriser le lien social.",
@@ -23,9 +23,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "activité physique et sport",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Capseniors.txt",

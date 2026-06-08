@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Concours pour la création d'un lotissement inclusif en milieu rural, visant à prévenir l'isolement et améliorer les conditions de vie des personnes âgées.",
         "contexte": "Le village de Meaulne-Vitray compte 900 habitants et dispose d'une médecine proche de la retraite, un pharmacien et deux infirmières. Actuellement, le village a une équipe de soins primaires composée de deux médecins, d'un dentiste et d'un kinésithérapeute.",
@@ -24,12 +24,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",

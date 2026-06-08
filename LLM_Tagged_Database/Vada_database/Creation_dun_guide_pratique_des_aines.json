@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le CCAS de la ville de Saint-Laurent-de-Mure a organisé un groupe de travail pour créer un guide pratique destiné aux seniors, recensant les informations utiles et pratiques indispensables à leur quotidien.",
         "contexte": "Les aînés ont exprimé le besoin d'information sur les services et activités adaptées à leurs besoins. Le CCAS a identifié la nécessité de créer un outil pour faciliter l'accès aux informations pertinentes.",
@@ -22,12 +22,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_guide_pratique_des_aines.txt",

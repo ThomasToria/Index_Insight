@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Un projet issu de la volonté des seniors à Saint-Sébastien-sur-Loire visant à améliorer la mobilité des personnes âgées.",
         "contexte": "Les seniors ont exprimé le besoin de mobilité, mais les transports communautaires ne répondent pas toujours aux attentes. Un projet a été créé pour résoudre ce problème.",
@@ -24,10 +24,9 @@
         "actuel"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_mobilite_se_reinvente_a_Saint-Sebastien-sur-Loire.txt",

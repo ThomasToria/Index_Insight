@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Le projet « Seniors en Vacances » a été mis en place à Strasbourg en 2011 pour lutter contre l’isolement des aînés en proposant de partir en vacances à coût réduit.",
         "contexte": "Les seniors, âgés de plus de soixante ans, sont isolés et manquent d’interaction sociale. Le projet vise à améliorer leur qualité de vie et créer un lien social entre eux.",
@@ -22,11 +22,9 @@
         "depuis 2011"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_vacances_pour_les_seniors_Strabourgeois.txt",

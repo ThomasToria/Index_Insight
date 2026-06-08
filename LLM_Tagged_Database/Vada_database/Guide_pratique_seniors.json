@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce guide est conçu pour répondre aux attentes des seniors en matière de services existants sur la commune.",
         "contexte": "Le CCAS a lancé un questionnaire auprès des seniors pour identifier leurs besoins sociaux, qui ont été déduits à partir de leur réponse au questionnaire. Les retours ont montré que les besoins exprimés correspondaient à des services existants, mais méconnus.",
@@ -23,15 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_pratique_seniors.txt",

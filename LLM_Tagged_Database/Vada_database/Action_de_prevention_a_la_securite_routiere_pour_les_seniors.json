@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Action de prévention à la sécurité routière pour les seniors",
         "contexte": "Mobilité est un enjeu fort pour les seniors, mais l'avancée en âge peut être dangereuse.",
@@ -21,9 +21,9 @@
         "depuis 2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Action_de_prevention_a_la_securite_routiere_pour_les_seniors.txt",

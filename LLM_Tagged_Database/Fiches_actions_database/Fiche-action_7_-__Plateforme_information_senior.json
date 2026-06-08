@@ -9,7 +9,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Plateforme d'information senior pour les personnes âgées, centrée sur des services sociaux, de loisirs, de transports et de droits.",
         "contexte": "La nécessité d'un guichet unique pour l'information et la participation sociale des seniors dans les mairies locales.",
@@ -26,13 +26,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "numérique"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_7_-__Plateforme_information_senior.txt",

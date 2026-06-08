@@ -8,7 +8,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Une campagne de renouvellement de cartes d'identité destinée aux personnes en perte d'autonomie a été mise en place dans plusieurs structures d'accueil et résidences seniors.",
         "contexte": "Des personnes âgées isolées et ayant du mal à se déplacer ont besoin de documents d’identité pour renouveler leur carte d’identité. Les ressources disponibles sont limitées, ce qui a conduit à la création d’un dispositif mobile pour faciliter l’accès aux services.",
@@ -25,8 +25,9 @@
         "avril 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_service_etat_civil_mobile.txt",

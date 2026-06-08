@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une action pour prévenir des risques routiers et proposer des solutions alternatives aux déplacements véhiculés autonomes.",
         "contexte": "La ville d'Arles est la commune la plus étendue de France avec ses 752km², ce qui a des conséquences sur la mobilité et les déplacements des seniors. Les personnes de plus de 60 ans représentent plus d'un tiers des habitants d'Arles.",
@@ -23,12 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Arles_13_Ville_Membre_depuis_2017.txt",

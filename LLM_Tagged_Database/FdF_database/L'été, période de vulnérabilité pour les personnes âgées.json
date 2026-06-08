@@ -8,7 +8,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Cette initiative vise à identifier les défis spécifiques aux personnes âgées lors de la période estivale.",
         "contexte": "La question de la solitude des personnes âgées se pose partout en France, avec une particularité notable dans les régions du Grand Ouest.",
@@ -25,9 +25,9 @@
         "depuis 2003"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "isolement"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\L'été, période de vulnérabilité pour les personnes âgées.txt",

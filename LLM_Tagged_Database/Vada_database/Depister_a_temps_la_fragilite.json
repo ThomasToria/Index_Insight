@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La Ville de Colomiers a signé une convention partenariale avec le Gérontopôle de Toulouse pour mettre en place des diagnostics de fragilité à la suite desquels sont proposés, en fonction des résultats, des préconisations adaptées sur plusieurs niveaux: le lien social, l’alimentation, l’activité physique, etc.",
         "contexte": "La Ville de Colomiers a décidé d'organiser une convention partenariale avec le Gérontopôle pour mettre en place un dispositif de dépistage de la fragilité. Cette initiative vise à identifier les personnes âgées qui présentent des risques de fragilité afin de pouvoir les accompagner et les aider.",
@@ -24,9 +24,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Depister_a_temps_la_fragilite.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "L'action vise à accompagner les binômes Aidant-Aidés vers des solutions de répit, préserver leurs liens sociaux et valoriser leur mémoire.",
         "contexte": "Les aidants sont confrontés à un risque d'isolement et d'épuisement, engendrant une charge pour la santé de l'aidant et par ricochet de celui-ci. Les freins psychologiques comprennent le coût financier et les difficultés à se séparer du proche.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soutien_aux_aidants.txt",

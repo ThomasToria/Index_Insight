@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le projet Quartier Libre vise à créer un lien social durable entre les résidents de l'EHPAD, leurs proches et la société civile.",
         "contexte": "Les seniors du quartier souhaitent se retrouver autour d'activités de prévention pour renforcer les liens sociaux.",
@@ -21,9 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Quartier_libre.txt",

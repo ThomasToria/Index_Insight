@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une maison adaptée au maintien à domicile avec des outils domotiques innovants.",
         "contexte": "Les années Covid ont malheureusement repoussé l'aboutissement de ce projet, mais la maison a été entièrement réhabilitée par LOGEAL. La Maison 3S (services, solutions, seniors) est une maison témoin du maintien à domicile avec des outils domotiques innovants.",
@@ -22,13 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_3S.txt",

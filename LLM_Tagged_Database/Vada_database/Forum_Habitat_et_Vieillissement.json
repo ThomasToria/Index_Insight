@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un forum d'information sur les aides aux aînés concernant l'adaptation du logement.",
         "contexte": "Les personnes âgées souhaitent améliorer leur qualité de vie et la sécurité dans leur habitat.",
@@ -21,9 +21,9 @@
         "depuis 2013"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_Habitat_et_Vieillissement.txt",

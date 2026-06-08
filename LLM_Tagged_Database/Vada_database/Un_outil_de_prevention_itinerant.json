@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un outil de prévention itinérant pour les seniors et la lutte contre la précarité énergétique.",
         "contexte": "Les seniors ont des difficultés à accéder aux informations sur l'habitat adapté, notamment en raison du manque d'aides financières et de connaissance de la mobilité. Le projet vise à améliorer ces conditions pour renforcer le lien social.",
@@ -24,10 +24,9 @@
         "2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_outil_de_prevention_itinerant.txt",

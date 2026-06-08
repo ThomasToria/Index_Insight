@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce document rassemble des informations spécifiquement utiles aux seniors, leurs proches et aidants.",
         "contexte": "Suite au diagnostic réalisé en 2022 par le conseil des Seniors sur les attentes et besoins des habitants de 55 ans et plus du territoire, il a été ressenti la nécessité de créer un guide spécifique aux seniors.",
@@ -21,12 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_seniors_a_bailleul.txt",

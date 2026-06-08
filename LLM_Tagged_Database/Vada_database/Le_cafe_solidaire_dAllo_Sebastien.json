@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La ville de Saint Sébastien s'urbanise de plus en plus et les liens sociaux se distendent entre les habitants. Les personnes âgées et les personnes en situation de handicap sont de plus en plus isolées et ne sollicitent pas toujours leurs voisins. Allo Sébastien a créé un café solidaire dans le but de développer l'entraide intergénérationnelle de proximité.",
         "contexte": "La ville de Saint-Sébastien-sur-Loire s'est vu confier la Ville Amie des Aînés en France par Villes Amies des Aînés en France. Cette initiative vise à favoriser le 'bien vieillir' en soutenant le lien social et les dynamiques de vie des aînés, lutter contre l'isolement et le sentiment d'ennui et d'inutilité.",
@@ -22,12 +22,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cafe_solidaire_dAllo_Sebastien.txt",

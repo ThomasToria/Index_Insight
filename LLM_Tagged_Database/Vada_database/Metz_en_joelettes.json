@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Une dynamique de consultation autour des Joëlettes à Metz.",
         "contexte": "La ville de Metz souhaite améliorer l'accès aux loisirs pour les personnes à mobilité réduite et promouvoir la culture en leur permettant d'organiser des visites guidées par le tourisme.",
@@ -22,9 +22,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Metz_en_joelettes.txt",

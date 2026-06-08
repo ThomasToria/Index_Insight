@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Le déploiement du programme ICOPE sur la ville de Colomiers vise à renforcer la prévention santé et le bien-vieillir des seniors.",
         "contexte": "La commune a constaté le besoin d'un tel programme après l'expérience positive de la mise en œuvre d'un dépistage de la fragilité sur la commune.",
@@ -23,9 +23,9 @@
         "novembre 2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deploiement_du_programme_icope.txt",

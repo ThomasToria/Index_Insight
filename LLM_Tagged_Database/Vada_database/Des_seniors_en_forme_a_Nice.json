@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La Ville de Nice mène depuis plusieurs années une politique très active en faveur de ses 100 000 seniors âgés de plus de 55 ans. La municipalité a souhaité proposer des activités sportives de proximité, de convivialité et de prévention sur la santé et le bien-être des aînés.",
         "contexte": "Suite à l'identification des besoins dans le domaine sportif en faveur des seniors, il a été procédé au recrutement d'éducateurs sportifs spécialisés pour animer les séances sportives dans un cadre réglementaire et en toute sécurité. Les séances ont été planifiées après un repérage des lieux d'activités.",
@@ -24,12 +24,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_en_forme_a_Nice.txt",

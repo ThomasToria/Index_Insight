@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la mobilité des seniors dans la commune de Metz, en mettant l'accent sur la marche comme mode de déplacement majoritaire.",
         "contexte": "La proportion croissante du public âgé et leur habitation dans des quartiers densifiés rendent le choix d'une mobilité adaptée crucial. Les seniors sont également confrontés à une diminution de leurs capacités physiques, ce qui les oblige à renoncer à la voiture.",
@@ -22,10 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Agir_pour_la_mobilite_des_seniors_favoriser_la_marche.txt",

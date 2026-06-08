@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "service transport à la demande",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Un service de transport solidaire mis en place par la Ville de Fouras-les-bains pour répondre aux besoins des aînés.",
         "contexte": "Le besoin de transports à la demande est clairement exprimé par les habitants, notamment pour des raisons médicales et pour faire des courses.",
@@ -25,9 +25,9 @@
         "juin 2024"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_solidaire.txt",

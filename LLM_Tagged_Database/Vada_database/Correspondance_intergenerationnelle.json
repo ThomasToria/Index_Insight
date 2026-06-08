@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "atelier",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Un projet d'échanges épistolaires entre jeunes de l'association Rotaract et retraités de l'association LIEN, visant à rompre la solitude des seniors pendant le confinement.",
         "contexte": "Le confinement a mis en lumière les problèmes de lien social pour les personnes âgées, notamment dans les communautés locales. Les jeunes membres de LIEN ont exprimé leur désir d'aider les seniors et ont initié ce projet.",
@@ -23,12 +23,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
+        "santé et prévention",
+        "autonomie et grand âge",
         "intergénérationnel"
     ],
     "source_site": "VADA",

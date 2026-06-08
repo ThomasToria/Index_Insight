@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "événement",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Colloque organisé par la Fondation de France pour l'occasion des 30 ans d'un EHPAD, visant à promouvoir les échanges intergénérationnels et valoriser les résidents.",
         "contexte": "",
@@ -22,10 +22,8 @@
         "16/10/2018"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement"
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",

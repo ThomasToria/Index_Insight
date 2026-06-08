@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Proposer une démarche participative et favoriser la participation des personnes âgées à la vie sociale par l'accès à la culture et aux loisirs.",
         "contexte": "Depuis 2023, dans le cadre d'une collaboration culturelle intercommunale, La Tour-de-Salvagny s'est associée aux communes de Dardilly et Champagne Au Mont d'Or pour organiser chaque année un programme bâti autour d'ateliers et de spectacles à destination de tous publics.",
@@ -20,15 +20,9 @@
         "depuis 2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ACTION_CULTURELLE_INTERGENERATIONNELLE.txt",

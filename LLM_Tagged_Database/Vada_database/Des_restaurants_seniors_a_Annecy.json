@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "service ouvert",
+    "nature_initiative": "offre de service",
     "description": {
         "description_generale": "Le premier restaurant seniors a ouvert à Annecy en 1961. Aujourd'hui, la ville compte cinq restaurants seniors ouverts du lundi au vendredi.",
         "contexte": "Les seniors de plus de 60 ans peuvent venir partager un repas équilibré dans une ambiance conviviale.",
@@ -21,9 +21,9 @@
         "depuis 1961"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_restaurants_seniors_a_Annecy.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une journée de détente et de bien-être a été proposée aux seniors de la Ville dans le cadre de l'édition 2022 de la Semaine Bleue de Bailleul.",
         "contexte": "Le projet est né d'un souhait émis par les membres du Conseil des seniors de la ville, qui ont demandé une journée spéciale pour découvrir des techniques de relaxation et de détente. Le programme a été préparé en collaboration avec les conseillers et a été présentée lors de réunions préparatoires.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_bien-etre_dans_le_cadre_de_la_semaine_bleue.txt",

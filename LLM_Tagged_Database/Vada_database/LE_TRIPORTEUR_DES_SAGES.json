@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La commune de Valence-en-Poitou a acquis un triporteur électrique pour favoriser le lien social et lutter contre l’isolement, en proposant des balades accompagnées aux seniors et aidants.",
         "contexte": "Les habitants ont exprimé leur intérêt pour une solution de mobilité conviviale et ludique, favorisant la mobilité douce et le lien social. La commune a acquis un triporteur électrique avec des sièges positionnés à l'avant.",
@@ -23,9 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LE_TRIPORTEUR_DES_SAGES.txt",

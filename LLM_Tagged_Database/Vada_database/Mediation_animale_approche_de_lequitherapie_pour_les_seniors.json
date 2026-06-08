@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Une ferme pédagogique et des temps de soin pour les seniors, proposant des activités autour de la médiation animale.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediation_animale_approche_de_lequitherapie_pour_les_seniors.txt",

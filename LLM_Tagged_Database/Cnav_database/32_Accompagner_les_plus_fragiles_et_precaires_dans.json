@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Le rendez-vous 'Ma retraite accompagnée' est un nouveau service proposé (en 'aller-vers') à des retraités éloignés des politiques publiques et plus particulièrement des politiques de prévention. Ce rendez-vous est structuré en deux rendez-vous : Rendez-vous 1 - à domicile, environ 1 h 15 ; Rendez-vous 2, par téléphone, environ 20 minutes.",
         "contexte": "Le service vise les retraités âgés de 68 ans exonérés de la CSG et bénéficiaires d'un plan d'aide de l'Assurance Retraite. Il est proposé par la Caisse nationale de l’Assurance retraite, avec le soutien des partenaires Gérontopôle de Toulouse, I2ML (Institut Méditerranéen des Métiers de la Longévité), des SAAD, Carsat Aquitaine, Midi-Pyrénées, Languedoc-Roussillon.",
@@ -18,9 +18,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "numérique",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",

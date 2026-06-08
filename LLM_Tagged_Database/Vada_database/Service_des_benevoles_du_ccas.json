@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le service des bénévoles du CCAS est un réseau de bénévoles visant à mieux accompagner la perte d'autonomie de personnes âgées ou handicapées fragilisées.",
         "contexte": "La population vieillissante et le phénomène d'isolement croissance ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles pour mieux accompagner la perte d'autonomie des personnes âgées ou handicapées fragilisées.",
@@ -23,11 +23,9 @@
         "depuis 1985"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_des_benevoles_du_ccas.txt",

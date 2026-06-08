@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "La Ville a mis en place un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant ainsi aux habitants de continuer à accomplir leur devoir civique.",
         "contexte": "Les personnes âgées peuvent rencontrer des difficultés à se rendre aux bureaux de vote, notamment en raison de la mobilité réduite. Cela peut freiner l'exercice des droits et des obligations citoyennes.",
@@ -20,9 +20,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",

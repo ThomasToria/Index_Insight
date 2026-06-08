@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Châtillon, Ville Amie des Aînés depuis 2022, a mis en place un projet de remise en mouvement pour les seniors. Ce projet permet d'encourager la pratique régulière d'une activité physique et de maintenir l'autonomie et la mobilité des personnes âgées.",
         "contexte": "Le vieillissement démographique accélère, avec une rupture de soins et de pratiques sportives chez les seniors. De plus, de nombreux seniors souhaitent avoir des séances avec des kinésithérapeutes, mais les créneaux sont souvent complétés.",
@@ -22,9 +22,9 @@
         "septembre 2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Remise_en_mouvement.txt",

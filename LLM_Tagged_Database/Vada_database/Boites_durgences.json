@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La sécurité des résidents a toujours tenu une place primordiale dans le fonctionnement de la résidence Autonomie « Les Cordeliers ». Si le statut d’établissement non médicalisé laisse à chacun toute liberté dans la gestion de son parcours de soin, il a toutefois été régulièrement constaté que dans une situation d'urgence (malaise, chute,...), la personne n'est pas toujours en mesure de donner les premières informations pour une prise en charge rapide et efficace. Le mode de fonctionnement individuel de chaque usager rend parfois difficile la récupération d'information. Où est la carte vitale?",
         "contexte": "La Mutuelle? Les ordonnances? Autant de questions qui contribuent à générer du stress en plus de ralentir la prise en charge.",
@@ -22,8 +22,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Boites_durgences.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un magazine trimestriel d'informations pour les retraités de la commune de Saint-Priest.",
         "contexte": "Le diagnostic vieillissement réalisé en 2015 a identifié un besoin de communication ciblée aux seniors, avec notamment une absence de diffusion des informations locales par le CCAS et l'utilisation d'un magazine « Couleurs » distribué dans les boîtes aux lettres.",
@@ -21,11 +21,9 @@
         "depuis avril 2016"
     ],
     "thematique": [
-        "prévention",
-        "santé",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Couleurs_seniors.txt",

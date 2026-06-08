@@ -9,7 +9,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Des séances de prévention à destination des aînés organisées par les délégués à la cohésion police-population.",
         "contexte": "Les délégués à la cohésion police-population, chargés de prodiguer des conseils de prévention aux seniors, interviennent autour de deux thématiques: la sécurité routière et les infractions contre les personnes et les biens depuis 2010.",
@@ -26,9 +26,9 @@
         "depuis 2010"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seances_de_prevention_a_destination_des_aines.txt",

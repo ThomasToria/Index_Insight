@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
         "contexte": "Le territoire de la Communauté de communes du Pays de Mormal est un village situé dans le département de l'Indre-et-Loire, en région Centre.",
@@ -23,9 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",

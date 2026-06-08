@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Suite à l’audit participatif mené dans le cadre de la démarche Villes Amies des Aînés, la ville de Betton a fait de la mobilité un axe transversal majeur de son action pour l’année 2017. Lors de cet audit, les habitants âgés ont notamment évoqué les difficultés liées à l’utilisation des transports en commun, aux risques liés à la conduite et aux déplacements intracommunaux.",
         "contexte": "Élus, services municipaux et partenaires associatifs ont été mobilisés sur ce thème pour mettre en œuvre un plan d’action se déroulant tout au long de l’année. A ce titre, le Pôle Citoyenneté-Solidarité et le CCAS ont proposé d’inscrire ce thème au centre des animations proposées dans le cadre de la Semaine Bleue.",
@@ -22,9 +22,9 @@
         "depuis 2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_mobilite_au_cur_de_la_semaine_bleue.txt",

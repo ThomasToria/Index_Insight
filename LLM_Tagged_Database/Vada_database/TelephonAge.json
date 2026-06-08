@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Une initiative pour favoriser le partage, réduire l'isolement des plus fragiles, offrir un espace d'épanouissement aux seniors bénévoles et créer un nouveau type de lien social.",
         "contexte": "En amont de la création du projet « TELEPHON’AGE », une Analyse des Besoins Sociaux a été menée par la Ville de Nancy en 2009, qui a débouché sur un certain nombre des constats. Parmi eux, le CCAS qui pilote le plan climatique au moyen d’un dispositif comportant une plateforme téléphonique a permis une remontée d'informations riches et utiles: les personnes contactées ainsi que leurs aidants naturels ont témoigné leur satisfaction à être consultés. Ensuite, l'examen des motifs de déclenchement d'alarme dans le dispositif de Télé Assistance, proposé aux seniors nancéiens par le CCAS, montre que 56% des appels enregistrés relèvent d'un besoin de convivialité, tout en demeurant à domicile. De plus, l'avancement en âge provoque une réduction des déplacements.",
@@ -23,13 +23,9 @@
         "2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\TelephonAge.txt",

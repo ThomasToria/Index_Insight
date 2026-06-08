@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Une initiative de sensibilisation autour du cinéma pour les seniors, organisée par le CCAS avec la MJC.",
         "contexte": "La Ville de Morteau a mis en place une politique volontariste visant à favoriser l'accès à la culture des seniors depuis 2010. Des séances culturelles ont été proposées aux seniors, mais les horaires et spectacles n'étaient pas adaptés.",
@@ -23,10 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cine_seniors.txt",

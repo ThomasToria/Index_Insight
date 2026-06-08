@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le Parcours de la Chenille aux senteurs est un projet innovant qui utilise les odeurs pour sensibiliser à la botanique et promouvoir l’intergénérationnalité.",
         "contexte": "La ville de Grenoble souhaite améliorer le lien social et valoriser les connaissances des personnes âgées, en particulier auprès des jeunes générations.",
@@ -23,11 +23,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_de_la_chenille_aux_senteurs.txt",

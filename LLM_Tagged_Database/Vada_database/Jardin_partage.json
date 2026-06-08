@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce projet de Jardin Partagé a été initié en 2013 alors que le service seniors de la Ville de Bruxelles était à la recherche de moyens créatifs dans le but de créer du lien entre les seniors et mieux utiliser les espaces verts de la ville afin de s'y sentir bienvenus.",
         "contexte": "Le service seniors de la Ville de Bruxelles cherchait des moyens créatifs pour améliorer l'utilisation des espaces verts de la ville et renforcer le lien entre les seniors et les habitants du quartier.",
@@ -23,12 +23,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jardin_partage.txt",

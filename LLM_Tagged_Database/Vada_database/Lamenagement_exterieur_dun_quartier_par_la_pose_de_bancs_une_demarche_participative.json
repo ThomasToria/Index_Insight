@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Une démarche participative visant à améliorer l'aménagement extérieur d'un quartier de Dijon, en mettant en place des bancs pour les personnes âgées.",
         "contexte": "Le quartier de Valmy est un nouveau quartier de la ville de Dijon qui accueille des entreprises tertiaires, une crèche et une résidence médicaleisée pour personnes âgées. Il est desservi par le tramway et dispose d'un certain nombre de commerces divers.",
@@ -23,9 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lamenagement_exterieur_dun_quartier_par_la_pose_de_bancs_une_demarche_participative.txt",

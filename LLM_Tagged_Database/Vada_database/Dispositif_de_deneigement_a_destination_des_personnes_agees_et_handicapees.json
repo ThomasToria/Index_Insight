@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le dispositif de déneigement a été mis en place pour sécuriser les déplacements des personnes âgées et de leurs proches, respectant les obligations réglementaires de déneigement.",
         "contexte": "Les personnes âgées et les personnes en situation de handicap ont besoin d'une sécurité supplémentaire lors des conditions météorologiques difficiles. Le dispositif a été conçu pour faciliter le quotidien des bénéficiaires tout en respectant les normes de déneigement.",
@@ -23,9 +23,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_de_deneigement_a_destination_des_personnes_agees_et_handicapees.txt",

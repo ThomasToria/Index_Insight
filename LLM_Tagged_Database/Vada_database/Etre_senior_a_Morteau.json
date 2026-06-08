@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une brochure pour informer les seniors et faciliter l'accès aux droits.",
         "contexte": "La ville de Morteau a constaté un manque d'informations sur les seniors et des difficultés à accéder aux services existants.",
@@ -22,12 +22,9 @@
         "juin 2022"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
+        "autonomie et grand âge",
         "numérique",
-        "habitat",
-        "prévention"
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Etre_senior_a_Morteau.txt",

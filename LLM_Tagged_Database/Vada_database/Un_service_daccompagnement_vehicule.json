@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "Une initiative innovante d'accompagnement aux seniors par un véhicule adapté.",
         "contexte": "Les seniors ont besoin de soutien pour leurs activités quotidiennes, notamment en matière de mobilité et d'accès à la société civile.",
@@ -23,10 +23,9 @@
         "depuis 2007"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "mobilité et transport",
+        "numérique",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_service_daccompagnement_vehicule.txt",

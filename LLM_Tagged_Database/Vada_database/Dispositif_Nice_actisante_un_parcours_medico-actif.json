@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Le dispositif 'Nice Acti'Sante' a été mis en place pour répondre au besoin croissant d'accompagnement des seniors vers la pratique d'une activité physique à des fins de santé.",
         "contexte": "30% de la population niçoise est composée de seniors, avec 101 303 habitants âgés de 60 ans ou plus. Ce projet a été lancé en décembre 2019.",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_Nice_actisante_un_parcours_medico-actif.txt",

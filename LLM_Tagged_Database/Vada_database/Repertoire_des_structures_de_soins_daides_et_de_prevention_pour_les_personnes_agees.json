@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "En 2015, une instance de coordination des acteurs intervenant dans le secteur de la gérontologie a été initiée par le CCAS et la Métropole de Saint Priest. La volonté de travailler en groupe projet avec les acteurs, pour faciliter la connaissance des dispositifs existants a participé à la création d’un guide répertoriant l’ensemble des dispositifs destinés aux personnes âgées afin de faciliter la connaissance des acteurs, l’information et l’orientation.",
         "contexte": "Le projet a été lancé en mai 2016 et le recensement des dispositifs a été réalisé de septembre à décembre 2016. Le relecture en groupe de l’inventaire a pris place fin 2016. La réalisation des maquettes avec le service communication a quant à elle eu lieu en février 2017 et l’envoi des répertoires et la création d’un événement partenarial ont eu lieu en mars 2017.",
@@ -22,12 +22,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Repertoire_des_structures_de_soins_daides_et_de_prevention_pour_les_personnes_agees.txt",

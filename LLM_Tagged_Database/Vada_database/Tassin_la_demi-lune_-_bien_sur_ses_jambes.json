@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Un projet de sensibilisation à la prévention des problèmes liés au vieillissement, en particulier aux risques de perte de mobilité chez les personnes âgées.",
         "contexte": "La ville de Tassin la Demi-Lune a souhaité mettre en place une initiative pour répondre à l'augmentation du nombre de séniors et à la prévention des problèmes liés au vieillissement, notamment aux risques de perte de mobilité.",
@@ -24,9 +24,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tassin_la_demi-lune_-_bien_sur_ses_jambes.txt",

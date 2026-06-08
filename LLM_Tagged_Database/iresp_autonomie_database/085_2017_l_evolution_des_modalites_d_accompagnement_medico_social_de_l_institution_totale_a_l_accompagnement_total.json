@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "projet de recherche complet",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Contexte: Dans les années 1960 et 1970, les établissements qu’ils soient psychiatriques, judiciaires, sociaux ou médico-éducatifs, ont fait l'objet de nombreuses critiques et remises en question (Castel, 1981) mobilisant des arguments d'ordres sociologico-éthiques, psychothérapeutiques et psychanalytiques ainsi qu'économiques et financiers.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\085_2017_l_evolution_des_modalites_d_accompagnement_medico_social_de_l_institution_totale_a_l_accompagnement_total.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Sur les trente dernières années, on constate une disparition nette des lieux de convivialité (cafés, bars -tabac…) et de services de proximité (boulangerie, marchand de journaux) à Ostricourt. Par ailleurs, les informations ou conseils que l'on obtenait facilement par le bouche-à-oreille paraissent de moins en moins accessibles (qu'elles concernent des activités ou des choses plus personnelles, comme les informations sur les décès). Des services dédiés existent mais malgré tout une grande partie de l'information passe par internet.",
         "contexte": "Les personnes se sentant seules, qui apprécient rencontrer des connaissances au quotidien et qui n'utilisent pas (ou peu) les technologies de l'information et de la communication (ordinateurs, smartphones, navigation sur internet).",
@@ -22,13 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
+        "lien social et isolement",
         "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "participation citoyenne"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction3_Ostricourt_VF.txt",

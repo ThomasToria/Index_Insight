@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le projet SocialDream vise à mettre la réalité virtuelle au service des personnes âgées, en particulier celles qui sont à mobilité réduite ou atteintes de démences comme la maladie d'Alzheimer.",
         "contexte": "La problématique du vieillissement et de l'isolement est un défi majeur pour les seniors. Les personnes âgées ont tendance à se sentir isolées, ce qui peut avoir des conséquences négatives sur leur santé mentale et physique.",
@@ -21,8 +21,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Socialdream.txt",

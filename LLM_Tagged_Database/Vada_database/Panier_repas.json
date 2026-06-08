@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Une initiative locale visant à redistribuer les repas non consommés dans une résidence pour personnes âgées.",
         "contexte": "La municipalité a identifié un problème de gaspillage alimentaire et précarité alimentaire chez les seniors, conduisant à l'initiative d'une action intergénérationnelle.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Panier_repas.txt",

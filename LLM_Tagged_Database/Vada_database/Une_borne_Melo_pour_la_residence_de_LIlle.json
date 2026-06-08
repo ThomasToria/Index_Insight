@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La Borne Mélo est un appareil innovant qui permet d'exploiter les bienfaits de la musique pour faciliter l'accès à la culture et aux loisirs, favoriser des animations collectives et individuelles, et contribuer au bien-être des résidents.",
         "contexte": "L'EHPAD 'La Résidence de l’Ille' a installé une Borne Mélo en février 2019 pour améliorer la qualité de vie des résidents. Le dispositif est conçu pour être simple d'utilisation et accessible à tous, y compris les personnes âgées.",
@@ -23,10 +23,9 @@
         "février"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_borne_Melo_pour_la_residence_de_LIlle.txt",

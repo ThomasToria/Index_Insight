@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Faciliter les déplacements doux et sécurisés dans la commune en installant équipements adaptés aux seniors.",
         "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -22,11 +22,9 @@
         "2024-2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_dun_circuit_vert_avec_du_mobilier_urbain_adapte_aux_seniors.txt",

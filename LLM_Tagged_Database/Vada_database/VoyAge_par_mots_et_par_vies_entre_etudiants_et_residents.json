@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Ce projet, basé sur la rencontre des résidents et des étudiants devait permettre aux étudiants de l’Université Notre Dame South Bend- Indiana aux États-Unis de s'impliquer dans la vie locale tout en perfectionnant leur apprentissage de la langue. Du côté des personnes âgées, la volonté du CCAS et de l'animatrice était de les valoriser en soutenant des jeunes dans leur action.",
         "contexte": "Le projet «Voy’Âge par mots et par vies» a été initié avec l'arrivée d'une nouvelle animatrice au sein de l'Ehpad et accueil de jour César Geoffray d'Angers. Animée par la volonté de créer des rencontres entre les résidents de son établissement et les jeunes, Florence Lemonnier s'est tournée vers l'université catholique de l'Ouest située à proximité de l'Ehpad.",
@@ -22,9 +22,8 @@
         "depuis 2012"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\VoyAge_par_mots_et_par_vies_entre_etudiants_et_residents.txt",

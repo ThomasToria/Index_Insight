@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une ville amie des aînés organise une série d'animations collectives destinées aux seniors de plus de 60 ans.",
         "contexte": "Les animations proposées sont nombreuses, y compris visites sur sites, conférences-débats, théâtre, spectacles et cinéma. Elles permettent aux seniors de se détendre et d'échanger avec la société civile.",
@@ -22,8 +22,9 @@
         "depuis 2015"
     ],
     "thematique": [
+        "autonomie et grand âge",
         "culture et loisirs",
-        "lien social et solidarité"
+        "espaces publics et aménagement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_animations_pour_egayer_le_quotidien_des_seniors.txt",

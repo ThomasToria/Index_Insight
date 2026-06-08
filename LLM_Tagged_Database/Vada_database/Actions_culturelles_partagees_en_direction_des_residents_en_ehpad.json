@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La ville d'Charleville-Mézières a organisé une série de projets culturels en direction des résidents de l'EHPAD Pâquis, visant à renforcer les liens entre les personnes âgées et la société civile.",
         "contexte": "Les résidents du EHPAD ont apprécié la représentation théâtrale 'Le peintre et son modèle' présentée par la compagnie Les Animaux en Paradis, qui a été suivie d'échanges avec les artistes. Cela a conduit à l'idée de créer des ateliers créatifs pour associer les résidents aux élèves du lycée.",
@@ -26,12 +26,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une transformation radicale de nos modes de vie depuis 50 ans est en partie responsable de l’épidémie qui sévit dans le monde occidental: chaque année, la sédentarité est plus ou moins directement responsable de plusieurs millions de morts dans le monde. C’est dans ce contexte que l’Institut des Rencont",
         "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rencontres_de_la_forme.txt",

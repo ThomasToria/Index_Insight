@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Contribution du Conseil de l’âge au rapport du Conseil supérieur de l’égalité professionnelle entre les femmes et les hommes sur la situation des femmes seniors, définies comme ayant entre 55 et 64 ans.",
         "contexte": "",
@@ -18,9 +18,7 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Contributions du Conseil de lâge au rapport du Con.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Ce dispositif a vu le jour suite à une demande croissante du public Senior, mise en évidence lors d'une première étude de 2016. C'est aussi une déclinaison de dispositifs existants pour d'autres publics.",
         "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -22,10 +22,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-denis_de_la_reunion_dispositif_seniors_en_action.txt",

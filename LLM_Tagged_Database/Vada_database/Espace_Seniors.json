@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "Plateforme de services publics dans les quartiers pour seniors, jeunes retraités actifs autonome, personnes très âgées en perte d'autonomie.",
         "contexte": "Riche d'une équipe pluridisciplinaire médico-sociale, ouverte sur son territoire, l'espace senior, véritable guichet unique de proximité permet de faciliter le maintien à domicile, favoriser le lien social, accompagner les plus fragiles, lutter contre l'isolement et apporter un soutien aux aidants.",
@@ -25,13 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Espace_Seniors.txt",

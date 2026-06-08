@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "événement",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La Nantes Digital Week est un événement qui vise à sensibiliser les professionnels et la société civile aux outils digitaux et connectés en faveur du bien vieillir à domicile.",
         "contexte": "Suite au Grand débat 'Longévité, ouvrons les possibles' organisé par Nantes Métropole en 2019, l'équipe a identifié le besoin de sensibiliser les professionnels et la société civile aux outils digitaux et connectés pour accompagner la bien vieillir à domicile.",
@@ -23,11 +23,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Nantes_digital_Week_-_bien_vieillir_a_domicile.txt",

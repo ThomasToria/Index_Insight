@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "La démarche Habitat Favorable au vieillissement de la ville de Rennes fait bénéficier les aînés d'une ville plus accueillante pour eux et pour tous les âges.",
         "contexte": "Les personnes âgées souhaitent une ville plus adaptée à leur condition physique et sociale, en particulier dans le domaine de l'habitat. Le projet vise à associer les aînés aux discussions sur l’urbanisme et à répondre à leurs attentes.",
@@ -22,11 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Batir_une_ville_pour_tous_les_ages.txt",

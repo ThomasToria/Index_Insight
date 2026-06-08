@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l'amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social.",
         "contexte": "Les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l'extérieur du village.",
@@ -20,8 +20,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche5-Mobilite.txt",

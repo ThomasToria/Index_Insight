@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La Ville de Nantes a lancé un plan d'action visant à améliorer la qualité de vie des seniors, en particulier dans les quartiers communaux.",
         "contexte": "Les seniors sont souvent isolés et ont besoin d'une attention particulière pour maintenir leur autonomie et participer activement à la société. Le projet vise à créer un environnement plus accueillant pour eux.",
@@ -25,12 +25,9 @@
         "2020"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.txt",

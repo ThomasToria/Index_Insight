@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Une initiative visant à rompre l'isolement des seniors dijonnais le week-end grâce à des activités collectives et gratuites de toutes sortes, dans un cadre intergénérationnel.",
         "contexte": "Les seniors dijonnais sont constamment isolés du reste de la société. Les initiatives locales visant à améliorer leur qualité de vie ont été peu nombreuses et inefficaces.",
@@ -22,8 +22,9 @@
         "2025"
     ],
     "thematique": [
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_dimanches_de_la_vie.txt",

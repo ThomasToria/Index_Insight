@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Une recherche action participative quant au vieillissement des personnes accueillies dans les pensions de famille.",
         "contexte": "Les pensions de Famille sont destinées aux personnes en situation de grande précarité et d'exclusion. Leur public est principalement composé de résidents âgés, qui souhaitent rester chez eux jusqu'au bout.",
@@ -23,9 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "vieillissement",
-        "intergénérationnel",
-        "santé"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_vieux_precaires_on_en_fait_quoi.txt",

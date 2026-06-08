@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "consultation citoyenne",
     "description": {
         "description_generale": "Un concours de chant pour seniors organisé par la Ville de Brest, en collaboration avec les communes de Brest métropole et trois communautés de communes du Pays de Brest.",
         "contexte": "Les Trétaux Chantants sont une manifestation traditionnelle qui a commencé dans les années 1950 à Brest. Elle est un moment festif, culturel et valorisant pour un public peu ciblé et parfois isolé.",
@@ -21,11 +21,9 @@
         "depuis 1950"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_tretaux_chantants.txt",

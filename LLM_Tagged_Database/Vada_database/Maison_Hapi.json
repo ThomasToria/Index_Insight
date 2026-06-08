@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La Maison HAPI, logement témoin adapté, présente les aménagements possibles pour les personnes âgées à faibles ressources afin de faciliter leur vie à domicile.",
         "contexte": "Les Amiénoise ont rencontré des difficultés à vivre à domicile le plus longtemps possible en raison d'un habitat local spécifique et faibles ressources. Les seniors ne pouvaient pas financer les travaux et aménagements nécessaires dans les show-rooms de la silver économie.",
@@ -22,9 +22,9 @@
         "depuis octobre 2024"
     ],
     "thematique": [
-        "habitat",
-        "prévention",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_Hapi.txt",

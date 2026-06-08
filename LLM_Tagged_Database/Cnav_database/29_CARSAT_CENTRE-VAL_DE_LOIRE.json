@@ -6,7 +6,7 @@
         "départementale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le bus numérique itinérant rend la formation numérique accessible à tous, quel que soit le lieu géographique. Il s'agit d'allier mobilité et sensibilisation des retraités.",
         "contexte": "",
@@ -19,9 +19,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",

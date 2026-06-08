@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Un physio-parc installé dans un parc public de la ville de Chamalières a été mis en place pour permettre le maintien d'une activité physique adaptée aux seniors, inciter les seniors à sortir de chez eux et rompre l'isolement.",
         "contexte": "Le physio-parc est facilement accessible étant donné qu'il est installé dans le parc municipal, au pied de la Mairie, en cœur de ville et en proximité immédiate des jeux pour enfants. Il s'intègre parfaitement dans un lieu de vie très fréquenté par les Chamaliérois.",
@@ -21,9 +21,9 @@
         "depuis 2017"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_en_plein_air_-_Physio-parc.txt",

@@ -8,7 +8,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Co-construction de la feuille de route longévité métropolitaine",
         "contexte": "Grand débat citoyen métropolitain « Longévité, ouvrons les possibles »",
@@ -25,11 +25,9 @@
         "fin décembre 2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Co-construction_de_la_feuille_de_route_longevite_metropolitaine.txt",

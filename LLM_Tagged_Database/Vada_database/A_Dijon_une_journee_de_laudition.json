@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une journée de sensibilisation autour du sujet de la perte d'audition chez les aînés, menée par l'Observatoire de l’âge de Dijon.",
         "contexte": "La Ville de Dijon a identifié le problème de la perte d'audition comme un facteur de risque pour les seniors et a initié une enquête sur ce sujet.",
@@ -21,10 +21,8 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_une_journee_de_laudition.txt",

@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Bien-chez-soi.lassuranceretraite.fr est un site internet présentant des aides techniques et technologiques pour préserver l'autonomie des retraités. Ces aides se présentent sous forme de fiches pratiques rédigées par des ergothérapeutes.",
         "contexte": "L’Assurance retraite a développé le site bien-chez-soi.lassuranceretraite.fr dans le cadre de sa politique d'action sociale.",
@@ -18,9 +18,9 @@
         "depuis mai 2021"
     ],
     "thematique": [
-        "santé",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt",

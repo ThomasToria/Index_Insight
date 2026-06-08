@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le service Accueil - Information - Animation propose une animation aux dijonnais âgés de plus de 60 ans. L'objectif est d'agir dans le cadre de la prévention d’un vieillissement actif, en lut- tant contre l’isolement des seniors et en motivant le maintien d’une vie sociale.",
         "contexte": "Le service Accueil - Information - Animation propose une animation aux dijonnais âgés de plus de 60 ans. L'objectif est d'agir dans le cadre de la prévention d’un vieillissement actif, en lut- tant contre l’isolement des seniors et en motivant le maintien d’une vie sociale.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_un_calendrier_des_manifestations.txt",

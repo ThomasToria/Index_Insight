@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Améliorer l'information des seniors sur la thématique de la santé, en particulier contre l’isolement.",
         "contexte": "Le besoin d'amélioration de l'information concernant les seniors est constaté dans le quartier de Metz.",
@@ -23,10 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_12_-_Informations.txt",

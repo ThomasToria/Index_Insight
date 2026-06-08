@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Communauté mixte de recherche sur les services de santé et les politiques publiques visant à améliorer la qualité des soins aux personnes dépendantes.",
         "contexte": "La communauté mixte d'INNOVIDEP vise à renforcer l'action intergénérationnelle et le lien social entre les résidents, leurs proches et la société civile. Elle met en œuvre des interventions non médicamenteuses pour améliorer la qualité des soins aux personnes dépendantes.",
@@ -21,8 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "santé publique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\069_2022_innovidep_interventions_non_medicamenteuses_pour_vivre_mieux_avec_la_dependance_communaute_mixte_de_recherche_sur_les_se.txt",

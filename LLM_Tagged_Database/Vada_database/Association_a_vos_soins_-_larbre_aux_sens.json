@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Association 'a vos soins' organise un projet autour des 5 sens, visant à améliorer la santé et les liens sociaux de résidents en EHPAD.",
         "contexte": "Le grand-père du chargé de projet a perdu sa autonomie et a été hospitalisé. Une initiative d’association a permis de rétablir son état de santé grâce à des activités sensorielles.",
@@ -23,10 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_a_vos_soins_-_larbre_aux_sens.txt",

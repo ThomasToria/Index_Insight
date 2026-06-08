@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La brochure 'Être senior à Morteau' a été mise en place chaque année pour informer les retraités sur les services et aides utiles dans différents champs de la vie quotidienne. En 2022, après la crise COVID, il est paru pertinent d’organiser un salon au sein duquel les services présentés dans la brochure puissent se présenter aux aînés.",
         "contexte": "La ville de Morteau organise une 'semaine bleue' chaque année depuis 2017 pour sensibiliser les retraités à l’information sur les services et aides disponibles. En 2022, suite à la crise COVID, le salon a été créé afin d'améliorer la rencontre entre les services présentés dans la brochure et les retraités.",
@@ -21,13 +21,9 @@
         "depuis septembre 2022"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Semaine_bleue_et_salon_bien_vieillir.txt",

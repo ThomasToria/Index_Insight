@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le projet de préserver la présence de fermes sur le territoire et les multiples savoir-faire liés à cette économie locale a été lancé par une série d'agriculteurs briécois. Un groupe de travail réunit régulièrement pour émerger les besoins et actions nécessaires, soutenant les productions et engager une démarche de transition nécessaire.",
         "contexte": "La ville de Briec souhaite préserver la présence de fermes sur son territoire et valoriser l'histoire et les savoir-faire liés à cette économie locale. Un documentaire « Femmes de la terre » a été projeté en avant-première aux aînés pour solliciter leur point de vue, donnant lieu à des témoignages riches.",
@@ -23,15 +23,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LA_VIE_A_LA_FERME_DHIER_A_AUJOURDHUI.txt",

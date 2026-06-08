@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le portail seniors est une plateforme numérique accessible aux Dunkerquois de 60 ans et plus. Elle centralise les informations utiles, facilite l'inscription aux activités et animations proposées par la Mission Seniors, et permet le choix des Bonus Seniors (colis, repas dansant, passeports seniors...) en fin d’année.",
         "contexte": "Le besoin d’un ‘portail seniors’ a été identifié dans le cadre de la démarche “Ville Amie des Aînés”, menée par la Ville de Dunkerque. Les informations et services existants pour les seniors étaient éparpillés et difficiles à trouver, avec une demande croissante d'inscriptions aux colis de noël via mail.",
@@ -21,13 +21,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_portail_seniors_des_services_et_informations_locales_pour_nos_seniors_a_portee_de_clic.txt",

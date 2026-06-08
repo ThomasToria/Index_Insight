@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une application pour simplifier la vie des personnes fragiles, regroupant les acteurs mobilisés autour d'un proche.",
         "contexte": "Situations de stress, difficultés d'organisation des aidants, perte d'autonomie et isolement géographique des familles.",
@@ -23,13 +23,9 @@
         "juillet à septembre 2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Helpiness_lapplication_qui_regroupe_lensemble_des_acteurs_mobilises_autour_dun_proche.txt",

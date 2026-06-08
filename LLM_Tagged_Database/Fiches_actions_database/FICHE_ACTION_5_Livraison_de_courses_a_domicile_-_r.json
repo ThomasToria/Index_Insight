@@ -9,7 +9,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Cette initiative vise à favoriser le lien intergénérationnel en proposant des services de livraison à la demande aux personnes âgées, notamment dans les commerces locaux.",
         "contexte": "Les commerçants ont des difficultés à accéder aux trottoirs et circuler malgré leur fauteuil roulant. Le transport en commun est également limité ou inexistant. Les services de livraison à la demande des supermarchés ne fonctionnent que pour certains jours et sous une dépense minimale.",
@@ -23,8 +23,9 @@
     "porteur_initiative": "Association locale et mission locale",
     "date": [],
     "thematique": [
+        "santé et prévention",
         "intergénérationnel",
-        "lien social"
+        "mobilité et transport"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_5_Livraison_de_courses_a_domicile_-_r.txt",

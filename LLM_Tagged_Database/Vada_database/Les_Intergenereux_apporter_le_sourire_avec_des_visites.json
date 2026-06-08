@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Unis-Cité est une association de volontaires du Service Civique âgés de 16 à 25 ans qui organise des visites gratuites aux personnes âgées isolées.",
         "contexte": "",
@@ -21,13 +21,9 @@
         "depuis 1994"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "lien social et isolement",
+        "intergénérationnel",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_Intergenereux_apporter_le_sourire_avec_des_visites.txt",

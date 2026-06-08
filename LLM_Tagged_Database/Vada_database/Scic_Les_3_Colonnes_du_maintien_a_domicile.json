@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "La Coopérative SCIC les 3 Colonnes du maintien à domicile propose des moyens financiers et sociaux pour permettre le maintien au domicile des personnes âgées fragiles économiquement.",
         "contexte": "Les personnes âgées fragiles économiquement ont besoin de soutien financier pour créer leur maison de retraite à domicile. Le projet vise à aider les seniors à rester chez eux, en offrant un accompagnement adapté et financé par le Viager Solidaire.",
@@ -22,15 +22,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Scic_Les_3_Colonnes_du_maintien_a_domicile.txt",

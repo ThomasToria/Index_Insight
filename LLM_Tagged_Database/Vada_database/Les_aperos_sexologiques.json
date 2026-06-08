@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une série d'apéros sexologiques organisées par les seniors de Cité Seniors, permettant aux personnes âgées de discuter librement de la sexualité et d'avoir accès à des spécialistes.",
         "contexte": "Les seniors cherchent une occasion pour parler de leur vie personnelle, notamment sur le sujet de la sexualité.",
@@ -23,10 +23,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aperos_sexologiques.txt",

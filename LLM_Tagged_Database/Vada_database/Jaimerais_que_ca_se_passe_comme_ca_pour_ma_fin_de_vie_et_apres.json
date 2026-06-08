@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Un guide d'appui pour recueillir les souhaits des personnes concernant leur fin de vie et l'après.",
         "contexte": "Des discussions sur la mort et la fin de vie, encore taboues et difficiles à aborder, ont conduit à la création d'un guide collectif en 2019.",
@@ -22,13 +22,9 @@
         "Janvier 2021"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "culture et loisirs",
+        "activité physique et sport",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jaimerais_que_ca_se_passe_comme_ca_pour_ma_fin_de_vie_et_apres.txt",

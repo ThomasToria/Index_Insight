@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un guide d'informations dédié aux seniors, aidants et familles de Belfort.",
         "contexte": "La Ville de Belfort a réalisé un diagnostic participatif en juin 2023 pour créer ce guide. Le but est de rendre la ville plus accueillante et bienveillante à l'égard des seniors, aidants et leurs familles.",
@@ -21,10 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_seniors_a_Belfort.txt",

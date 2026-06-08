@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "La Ville de Dijon a mis en place des initiatives pour rendre la culture accessible à tous, notamment grâce à une enquête sur les attentes des seniors.",
         "contexte": "Dijon est un exemple d'une ville qui s'engage dans l'amélioration de l'accès à la culture pour tous, en particulier pour les personnes âgées. Les travaux de mise en accessibilité du Théâtre de la Fontaine d’Ouche et du Musée des Beaux Arts ont été réalisés avec un engagement fort.",
@@ -21,15 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "culture et loisirs",
+        "espaces publics et aménagement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_la_culture_accessible_a_tous.txt",

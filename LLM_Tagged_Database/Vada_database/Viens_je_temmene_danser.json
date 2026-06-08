@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Une action déjà pérenne organisée par le CCAS de la commune de Chamalières depuis septembre 2014. Le thé dansant réunit les aînés pour des moments festifs et de partage, favorisant la constitution d'un réseau de solidarité.",
         "contexte": "Le projet est un moment festif et convivial organisé par le CCAS à l'occasion d'une journée communale. Il permet aux personnes âgées de se retrouver et de partager des moments de qualité avec d'autres personnes, favorisant ainsi la constitution d'un réseau de solidarité.",
@@ -21,8 +21,9 @@
         "depuis septembre 2014"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_danser.txt",

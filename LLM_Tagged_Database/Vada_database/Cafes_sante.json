@@ -8,7 +8,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Des cafés santé ont été organisés dans les quartiers de la ville de Genève pour renforcer le lien social, valoriser l'expérience des résidents et sensibiliser à la prévention.",
         "contexte": "Le public vulnérable ne recourt souvent pas aux soins par manque de littératie en santé ou de moyens financiers.",
@@ -25,9 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafes_sante.txt",

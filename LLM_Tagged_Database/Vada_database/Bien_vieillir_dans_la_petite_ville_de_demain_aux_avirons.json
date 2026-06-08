@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La commune des Avirons, située en Ile de La Réunion, a organisé un concours pour améliorer la qualité de vie des seniors. Le but était d'identifier les problèmes spécifiques aux seniors et de proposer des solutions innovantes.",
         "contexte": "La population âgée du territoire est en constante augmentation, avec une croissance notoire chez les personnes âgées de 60 à 79 ans. Les seniors vivent seuls à domicile, ce qui pose un problème pour leur maintien à domicile et leur sécurité.",
@@ -25,12 +25,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_dans_la_petite_ville_de_demain_aux_avirons.txt",

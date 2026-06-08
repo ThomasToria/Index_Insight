@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un guide pratique pour les seniors lédoniens sur la vie quotidienne.",
         "contexte": "Le Contrat Local de Santé signé en octobre 2013 entre la ville de Lons-le-Saunier et l'Agence Régionale de Santé de Franche-Comté.",
@@ -21,13 +21,9 @@
         "2013"
     ],
     "thematique": [
-        "transport",
-        "logement",
-        "santé",
-        "seniors actifs",
-        "loisirs",
-        "vie sociale",
-        "aides financières et droits"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_pratique_pour_bien_vivre_ensemble.txt",

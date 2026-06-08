@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un conseil participatif pour penser la ville aujourd’hui en travaillant ensemble avec les habitants, les élus et les experts d’usage (personnes âgées) afin de construire des projets innovants.",
         "contexte": "La commune de Saint-Chamond a choisi de s'entourer d'individus représentatifs pour créer une dynamique transversale et participative en construisant les projets avec les experts d’usage (personnes âgées).",
@@ -21,13 +21,9 @@
         "depuis décembre 2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conseil_consultatif_des_seniors.txt",

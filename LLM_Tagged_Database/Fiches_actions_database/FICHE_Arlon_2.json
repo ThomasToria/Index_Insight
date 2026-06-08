@@ -7,7 +7,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Constat: le Taxi social LocoMobile existe dans la province du Luxembourg mais est absent dans la commune d’Arlon. Or, les services de santé sont souvent éloignés de la Commune et les services de transport médicalisé peuvent être difficiles d'accès que ce soit par le prix ou par les délais d'attente.",
         "contexte": "Les personnes ayant des problèmes de mobilité et/ou à faibles revenus ont besoin d'un service adapté pour accéder aux soins médicaux. Les services de santé sont souvent éloignés, ce qui rend difficile l'accès aux soins médicaux.",
@@ -23,11 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel",
-        "isolement"
+        "santé et prévention",
+        "mobilité et transport",
+        "activité physique et sport"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_Arlon_2.txt",

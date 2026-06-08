@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à étendre la pratique du logement intergénérationnel sur le territoire de la métropole lyonnaise, en favorisant l'autonomie des personnes âgées et leur maintien à domicile tout en créant un lien social entre les générations.",
         "contexte": "L'isolement des seniors est un problème sociétal majeur. Les initiatives comme le logement intergénérationnel permettent de réduire ce phénomène, favorisent la mixité sociale et valorisent une forme de logement différente.",
@@ -25,13 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Developper_la_cohabitation_intergenerationnelle_sur_le_territoire_de_la_metropole_Lyonnaise.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "atelier",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Médiateurs bénévoles en établissement puis à domicile et commission de suivi pour favoriser la détection et la résolution des problèmes relatifs aux droits des personnes âgées et leur qualité de vie en établissement.",
         "contexte": "",
@@ -21,13 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_8_-_Mediateurs_en_etablissement.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La Semaine bleue est une initiative annuelle organisée par la Ville de Chamalières pour célébrer les seniors.",
         "contexte": "Le CCAS (Comité Communautaire d'Action Sociale) travaille avec différents acteurs pour organiser des activités diverses et adaptées aux besoins des seniors.",
@@ -22,13 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_semaine_bleue.txt",

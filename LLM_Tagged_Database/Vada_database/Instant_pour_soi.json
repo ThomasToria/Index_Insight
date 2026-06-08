@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "Une Plateforme d'Accompagnement et de Répits aux Aidants Familiaux (PARAF) est déployée sur le territoire du Grand Reims. Elle est portée par le CHU de Reims.",
         "contexte": "La Plateforme a été nommée 'Instant pour soi' et propose une nouvelle alternative à destination des aidants familiaux qui sont tournés vers le mieux être (prendre soin de soi).",
@@ -23,8 +23,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Instant_pour_soi.txt",

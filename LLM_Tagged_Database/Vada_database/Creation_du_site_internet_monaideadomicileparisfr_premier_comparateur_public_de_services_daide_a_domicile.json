@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet concerne la création du premier comparateur public de services d'aide à domicile en France, destiné aux personnes âgées dépendantes et en situation de handicap ayant besoin d'un service d'aide à domicile.",
         "contexte": "La Ville de Paris a identifié un besoin pour une plateforme qui facilite l'accès aux services d'aide à domicile pour les personnes âgées dépendantes et en situation de handicap, mais aussi pour les professionnels du secteur (travailleurs sociaux, aidants, etc.).",
@@ -22,9 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_du_site_internet_monaideadomicileparisfr_premier_comparateur_public_de_services_daide_a_domicile.txt",

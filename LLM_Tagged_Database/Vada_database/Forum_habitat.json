@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La ville de Saint-Nazaire a organisé un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d'habitat.",
         "contexte": "Saint-Nazaire s'est engagée à développer une politique volontariste favorable au vieillissement actif, créant le conseil des aînés et organisant un forum sur l’habitat.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "habitat",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_habitat.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "concevoir un habitat collectivement",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Promouvoir et accompagner des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique.",
         "contexte": "Initiation d'une démarche d'habitat participatif par la mairie de Saint-Nazaire en 2017. Le premier projet, Soleil Levant (SL), est en cours de réalisation depuis avril 2018.",
@@ -25,12 +25,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "lien social et isolement",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_dhabitat_participatif_Soleil_Levant.txt",

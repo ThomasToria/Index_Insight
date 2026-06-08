@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "consultation citoyenne",
     "description": {
         "description_generale": "La Ville de Nantes a mis en place une initiative gouvernante ouverte (GO) pour suivre les actions du plan d'action Nantes Ville Amie des Aînés. Cette démarche est soutenue par un chargé de mission et un pres-tataire spécialisé dans l'évaluation des politiques publiques.",
         "contexte": "La Ville de Nantes a une tradition forte de participation citoyenne à ses politiques publiques, et la dimension participative est intégrée à sa démarche VAA. Le projet vise à améliorer les actions du plan d'action en continu pour les seniors bénéficiant des évolutions du plan.",
@@ -22,9 +22,9 @@
         "depuis 2017"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Gouvernance_ouverte_go_du_plan_daction_nantes_ville_amie_des_aines.txt",

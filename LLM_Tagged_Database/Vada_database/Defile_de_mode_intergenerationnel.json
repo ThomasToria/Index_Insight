@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Un défilé de mode intergénérationnel organisé à Brest, France.",
         "contexte": "L'initiative vise à mettre en lumière les seniors et à lutter contre le stéréotype associé au vieillissement.",
@@ -23,10 +23,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_intergenerationnel.txt",

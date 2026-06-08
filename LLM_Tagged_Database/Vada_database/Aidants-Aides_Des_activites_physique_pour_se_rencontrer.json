@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la tonicité musculaire, créer des liens sociaux et rompre l'isolement pour les aidants-aidés.",
         "contexte": "Les personnes âgées atteintes de la maladie d’Alzheimer ou de troubles apparentés souffrent souvent d’isolement social. Les aidants-aidés, qui sont principalement des personnes âgées, rencontrent également des difficultés à se connecter.",
@@ -22,8 +22,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aidants-Aides_Des_activites_physique_pour_se_rencontrer.txt",

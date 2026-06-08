@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet Domicilivres a démarré en janvier 2013. Il est la fusion de deux politiques, « Bien vieillir, vivre ensemble » et « Lire au Havre », une volonté du Maire.",
         "contexte": "L’objectif principal est d’améliorer l’accès aux structures culturelles pour les personnes âgées et handicapées qui ont des difficultés à se déplacer. Le dispositif vise également à renforcer le lien social et à former des jeunes sur un métier de bibliothécaire.",
@@ -23,10 +23,9 @@
         "janvier 2013"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DOMICILIVRES_Le_partage_et_le_portage_des_livres_chez_soi.txt",

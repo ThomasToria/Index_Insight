@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Une résidence d'habitat social où l'inclusion, au sens large, a été érigée en principe directeur.",
         "contexte": "Fruit d'un partenariat entre la Ville de Lille, son CCAS, des associations intervenant dans le champ du handicap et des acteurs de l'economie sociale et solidaire, elle permet à des personnes âgées et à des personnes en situation de handicap de vivre en autonomie dans un environnement adapté et un voisinage bienveillant.",
@@ -21,8 +21,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_Rives.txt",

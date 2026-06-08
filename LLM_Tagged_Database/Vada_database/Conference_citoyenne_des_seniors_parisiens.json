@@ -8,7 +8,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Associer les seniors parisiens à la définition des politiques publiques qui les concernent. Recueillir leurs avis et propositions dans le cadre de débats et rencontres.",
         "contexte": "Le besoin d'engager les seniors dans les processus décisionnels pour améliorer leur qualité de vie et favoriser un vieillissement actif.",
@@ -24,13 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conference_citoyenne_des_seniors_parisiens.txt",

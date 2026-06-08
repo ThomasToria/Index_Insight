@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La ville a organisé des animations intergénérationnelles pour les seniors maxévillois afin de renforcer les liens entre générations, les aider à surmonter l'isolement et partager des moments conviviaux.",
         "contexte": "Les seniors ont exprimé le besoin de rencontrer d'autres générations, de pouvoir partager des moments conviviaux où ils se sentent utiles et participer à la valorisation de leur mémoire et de leur place dans la vie locale.",
@@ -22,15 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Animations_intergenerationnelles.txt",

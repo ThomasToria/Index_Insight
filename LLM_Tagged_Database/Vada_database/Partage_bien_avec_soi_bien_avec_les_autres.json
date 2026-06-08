@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Cette initiative vise à renforcer le lien social entre les résidents de l'EHPAD, leurs proches et la société civile.",
         "contexte": "La crise sanitaire a conduit à une diminution des activités habituelles pour certains membres du EHPAD, notamment en raison d'isolement.",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partage_bien_avec_soi_bien_avec_les_autres.txt",

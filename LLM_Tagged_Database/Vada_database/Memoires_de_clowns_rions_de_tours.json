@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une initiative artistique et théâtrale visant à renforcer les liens entre résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
         "contexte": "La crise sanitaire a accentué le sentiment de solitude et d'isolement chez les résidents des établissements, notamment ceux âgés. Les actions artistiques ont été mises en place pour améliorer l'estime de soi et renforcer la confiance dans leur santé.",
@@ -23,9 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention-santé"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoires_de_clowns_rions_de_tours.txt",

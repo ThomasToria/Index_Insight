@@ -3,7 +3,7 @@
     "territoire": "",
     "echelle": [],
     "public_vise": "public non connu",
-    "nature_initiative": "",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "",
         "contexte": "",
@@ -13,7 +13,11 @@
     },
     "porteur_initiative": "",
     "date": [],
-    "thematique": [],
+    "thematique": [
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
+    ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_des_ages_-_realisation_dun_defile_de_mode_intergenerationnel_autour_des_annees_60.txt",
     "nom_fichier": "Au_fil_des_ages_-_realisation_dun_defile_de_mode_intergenerationnel_autour_des_annees_60.txt",

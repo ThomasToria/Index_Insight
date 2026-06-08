@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Un projet de promotion culturelle et sportive pour les aînés, visant à lutter contre l'âgisme et l'isolement.",
         "contexte": "La-Roche-sur-yon Agglomération (85) a choisi la thématique 'Culture-Loisirs' en 2021 pour améliorer les relations intergénérationnelles.",
@@ -21,8 +21,9 @@
         "depuis 2021"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_culture-loisirs.txt",

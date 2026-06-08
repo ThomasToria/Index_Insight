@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "projet de recherche complet",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Une meilleure compréhension du comportement des aidants informels de personnes dépendantes est aujourd'hui un enjeu majeur en France. Leur rôle dans le maintien des personnes dépendantes à domicile et leur lien social sont particulièrement importants.",
         "contexte": "",
@@ -22,9 +22,9 @@
         "2016"
     ],
     "thematique": [
-        "autonomie",
-        "grand âge et handicap",
-        "services, interventions et politiques favorables à la santé"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\092_2016_modelisation_de_l_aide_informelle_approches_economiques_et_applications_au_dispositif_innovant_d_accompagnement_et_de_re.txt",

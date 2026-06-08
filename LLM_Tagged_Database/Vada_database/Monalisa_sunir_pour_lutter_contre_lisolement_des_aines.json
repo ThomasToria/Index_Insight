@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "MONALISA est une initiative visant à créer des fraternités, des relations d'amitié, de voisinage autour de personnes âgées qui en manquent. Elle vise à réactiver les interactions citoyennes et renforcer l'envie de s'engager.",
         "contexte": "La lutte contre l’isolement social des aînés est un enjeu majeur, avec près de 4 millions de personnes âgées souffrant d’isolement dans 25 ans. Les événements de 2003 ont montré les conséquences de l'isolement social et la prise de conscience depuis.",
@@ -22,8 +22,9 @@
         "2012"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Monalisa_sunir_pour_lutter_contre_lisolement_des_aines.txt",

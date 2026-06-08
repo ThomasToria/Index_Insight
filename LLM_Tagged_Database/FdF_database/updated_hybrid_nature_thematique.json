@@ -1,0 +1,469 @@
+[
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Ehpad Notre Dame de la Roselière un lieu ouvert sur les autres et la nature.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Ehpad Notre Dame de la Roselière un lieu ouvert sur les autres et la nature.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Alzheimer habiter ensemble et autrement avec la Maison des cultures.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Alzheimer habiter ensemble et autrement avec la Maison des cultures.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Du répit pour les aidants pour renforcer la relation avec les aidés.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Du répit pour les aidants pour renforcer la relation avec les aidés.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Atout Age redonner confiance aux personnes âgées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Atout Age redonner confiance aux personnes âgées.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Ehpad aider les soignants à prendre soin d'eux.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Ehpad aider les soignants à prendre soin d'eux.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Colloque à Lyon - Réconcilier le besoin de sécurité et le besoin de liberté.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\50 ans d'engagement auprès des personnes âgées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\50 ans d'engagement auprès des personnes âgées.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "autonomie et grand âge",
+            "participation citoyenne",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Hacoopa des maisons partagées pour bien vivre le grand âge.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Hacoopa des maisons partagées pour bien vivre le grand âge.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Gurekin l'habitat partagé pour rompre l'isolement des seniors.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Gurekin l'habitat partagé pour rompre l'isolement des seniors.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\L'intergénérationnel ou l'art du gagnant-gagnant.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\L'intergénérationnel ou l'art du gagnant-gagnant.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\L'été, période de vulnérabilité pour les personnes âgées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\L'été, période de vulnérabilité pour les personnes âgées.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\La lutte contre la maladie d'Alzheimer un défi social.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La lutte contre la maladie d'Alzheimer un défi social.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\La Maison des aidants une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La Maison des aidants une plateforme pour prévenir l'isolement et l'épuisement des aidants familiaux.txt",
+        "nature_initiative": "outil numérique",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\La Semaine Bleue - 365 jours pour agir, 7 jours pour le dire !.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La Semaine Bleue - 365 jours pour agir, 7 jours pour le dire !.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "autonomie et grand âge",
+            "intergénérationnel",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\La Fondation de France aux côtés des plus fragiles.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\La Fondation de France aux côtés des plus fragiles.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "lien social et isolement"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Lever les freins à la mobilité pour lutter contre la solitude.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Lever les freins à la mobilité pour lutter contre la solitude.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "lien social et isolement",
+            "mobilité et transport",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\En région Nord, aux côtés des personnes âgées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\En région Nord, aux côtés des personnes âgées.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Logement et précarité les jeunes en première ligne !.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Logement et précarité les jeunes en première ligne !.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Maladie d'Alzheimer un défi global.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Maladie d'Alzheimer un défi global.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Maladie d'Alzheimer une maison où vieillir ensemble.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Maladie d'Alzheimer une maison où vieillir ensemble.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées adolescents la force des récits partagés.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées adolescents la force des récits partagés.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "intergénérationnel",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées et troubles cognitifs des initiatives inspirantes.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées et troubles cognitifs des initiatives inspirantes.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées, personnes isolées maintenir le lien social malgré le confinement.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées, personnes isolées maintenir le lien social malgré le confinement.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées_1.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées_1.txt",
+        "nature_initiative": "outil numérique",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées_2.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées_2.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Personnes âgées_3.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Personnes âgées_3.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Portes closes un documentaire pour penser l'accompagnement des personnes âgées désorientées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Portes closes un documentaire pour penser l'accompagnement des personnes âgées désorientées.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Pour favoriser le maintien des personnes âgées à domicile, Lien de vie aide les aidants.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Pour favoriser le maintien des personnes âgées à domicile, Lien de vie aide les aidants.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Les enjeux du Grand âge , vus par deux bénévoles à la Fondation de France Sud-Ouest.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Les enjeux du Grand âge , vus par deux bénévoles à la Fondation de France Sud-Ouest.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "handicap et aidants",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Un écran ne remplacera jamais une rencontre - Marie-Laure Martin, présidente du comité Personnes âgées.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Un écran ne remplacera jamais une rencontre - Marie-Laure Martin, présidente du comité Personnes âgées.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Vivre et vieillir parmi les autres.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Vivre et vieillir parmi les autres.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Vivre le grand âge cap sur l'innovation.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Vivre le grand âge cap sur l'innovation.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "autonomie et grand âge"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\► Un Toit parmi les âges des jeunes hébergés en Ehpad.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\► Un Toit parmi les âges des jeunes hébergés en Ehpad.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Lien social, le terreau de notre engagement.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Lien social, le terreau de notre engagement.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "culture et loisirs"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Protéger les personnes âgées sans les isoler, le double défi des Ehpad.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Protéger les personnes âgées sans les isoler, le double défi des Ehpad.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "culture et loisirs"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\FdF_database\\Se déplacer pour garder le lien.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\FdF_database\\Se déplacer pour garder le lien.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "mobilité et transport"
+        ],
+        "used_llm": true
+    }
+]

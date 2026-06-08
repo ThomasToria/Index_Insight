@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "minibus intra-urbain",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Le projet consiste à mettre en place un transport intra-urbain gratuit pour les seniors, composé de trois lignes sur un parcours pré-défini avec des arrêts aménagés.",
         "contexte": "Les seniors de la commune ont constaté une difficulté de mobilité due au manque de transports en commun. Les élus ont décidé d'organiser ce projet pour faciliter leur accessibilité aux services et commerces.",
@@ -22,11 +22,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel",
-        "isolement"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Fleuribus_le_minibus_intra_urbain.txt",

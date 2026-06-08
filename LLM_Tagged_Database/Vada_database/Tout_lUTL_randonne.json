@@ -11,7 +11,7 @@
         "internationale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "événement",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Un projet de randonnées thématiques organisé par l'Université du Temps Libre du Pays de Rennes (UTL Rennes) pour les habitants de Rennes et alentours.",
         "contexte": "La Ville Amie des Aînés depuis 2012",
@@ -31,15 +31,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tout_lUTL_randonne.txt",

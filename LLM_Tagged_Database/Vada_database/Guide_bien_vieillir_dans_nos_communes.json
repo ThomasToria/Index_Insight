@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce guide a été conçu pour informer les seniors et leurs familles sur les différents dispositifs et structures existants dans la métropole brestoise.",
         "contexte": "Les huit communes de la métropole brestoise ont réalisé un guide intitulé 'Bien vieillir dans nos communes' en 2012, mais il a été mis à jour depuis. Les associations du champ du handicap souhaitent améliorer ce guide pour les personnes en situation de handicap.",
@@ -21,10 +21,9 @@
         "2019-2020"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_bien_vieillir_dans_nos_communes.txt",

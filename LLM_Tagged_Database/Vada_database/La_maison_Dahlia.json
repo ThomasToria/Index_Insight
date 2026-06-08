@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Faciliter la mise en œuvre d’un projet d’adaptation de logement pour personnes âgées en perte d’autonomie.",
         "contexte": "Dans le cadre du plan d'actions « bien vieillir, vivre ensemble » validé par la municipalité en 2012 et de l'axe 4 du projet social de la Ville, un projet de réalisation d'un appartement/petit logement pédagogique a été retenu.",
@@ -20,8 +20,9 @@
         "depuis 2011"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_maison_Dahlia.txt",

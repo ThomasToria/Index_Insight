@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "concertation",
+    "nature_initiative": "groupe de parole",
     "description": {
         "description_generale": "Le jardin Allende est situé entre la rue Lucie Aubrac et le Boulevard Allende. Ce jardin est peu utilisé, sans aucun équipement hormis des bancs usagés. Les entrées et l’accessibilité sont réduites, notamment du fait des dénivelés. Aucune allée ne permet réellement de cheminer dans ce jardin. La végétation est globalement en bon état, mais sans cohérence paysagère.",
         "contexte": "Le jardin Allende se situe à proximité d'une résidence seniors et a été identifié comme un lieu de vie et de convivialité intergénérationnel pour les habitants du quartier. Les besoins des nouveaux habitants ont conduit la Ville à organiser une concertation auprès des habitants, principalement âgés.",
@@ -22,10 +22,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reamenagement_du_jardin_ALLENDE.txt",

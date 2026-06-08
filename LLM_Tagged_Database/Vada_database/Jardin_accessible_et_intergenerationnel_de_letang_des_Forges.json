@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un espace ouvert à tous, situé à la lisière de l’Étang des Forges, conçu pour les personnes âgées et en situation de handicap (moteur, sensoriel, intellectuel).",
         "contexte": "Les personnes âgées et en situation de handicap vivent majoritairement en appartement, ce qui rend la pratique du jardinage difficile. Le but est d'offrir des conditions optimales pour que cette pratique puisse être possible.",
@@ -21,9 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jardin_accessible_et_intergenerationnel_de_letang_des_Forges.txt",

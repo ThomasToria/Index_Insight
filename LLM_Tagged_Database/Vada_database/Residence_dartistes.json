@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à créer un lien entre les résidents de l'EHPAD Gaëtan Hervé, leurs proches et la société civile.",
         "contexte": "Les résidents ont apprécié le travail physique et de mémoire des danseurs lors d’ateliers organisés par l’établissement. Ils ont également rencontré les danseurs de différentes compagnies de danse et échangé avec eux sur leur métier.",
@@ -23,12 +23,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_dartistes.txt",

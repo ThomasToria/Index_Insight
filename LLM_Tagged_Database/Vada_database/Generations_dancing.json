@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un après-midi dansant modernisé en amont d'un Espace Seniors Intergénérationnel à Laval.",
         "contexte": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -21,12 +21,9 @@
         "2024-06-04"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Generations_dancing.txt",

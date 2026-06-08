@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "L’Orpan propose un dispositif de parrainage culturel pour les personnes âgées, favorisant leur participation à des événements culturels.",
         "contexte": "La société actuelle est marquée par la solitude et l'isolement des seniors. L'Orpan souhaite améliorer ces conditions en encourageant le lien social et la participation aux activités culturelles.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parrainage_culturel.txt",

@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce projet est une réponse au programme scientifique de l’IRESP: Handicap et perte d'autonomie: établissements, services et transformation de l'offre médico-sociale. Il s'inscrit à l'intersection de l'axe 2: fonctionnement et la performance des établissements et services médico-sociaux et de l’axe 4: la transformation de l’offre.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "santé"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\119_2019_soutenir_la_qualite_de_vie_au_travail_en_ehpad_par_une_dynamique_d_innovation_centree_sur_la_qualite_du_travail.txt",

@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette initiative vise à proposer aux seniors une solution de logement sur-mesure innovante qui répond à leurs besoins.",
         "contexte": "La Chapelle-sur-Erdre, Nantes Métropole (44)",
@@ -23,11 +23,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_colocations_seniors.txt",

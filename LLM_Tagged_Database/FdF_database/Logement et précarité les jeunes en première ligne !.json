@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "L'association France Horizon propose une solution gagnant-gagnant pour aider les jeunes en construction à accéder à un logement.",
         "contexte": "La flambée des prix des loyers, la difficulté de se loger pour les jeunes sortant des dispositifs d'aide sociale à l'enfance, et les logements devenus trop vaste et difficilement entretenus pour les personnes âgées seules ou en couple.",
@@ -21,10 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Logement et précarité les jeunes en première ligne !.txt",

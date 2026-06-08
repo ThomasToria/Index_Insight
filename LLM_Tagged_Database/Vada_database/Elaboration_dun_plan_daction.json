@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "publication",
     "description": {
         "description_generale": "Encourager la participation et la concertation citoyennes des personnes âgées.",
         "contexte": "Les élus, les représentants du comité consultatif des aînés et les équipes de la ville de Sceaux ont associé des habitants et des acteurs locaux pour élaborer collectivement un plan d’action.",
@@ -23,8 +23,9 @@
         "2026"
     ],
     "thematique": [
-        "intergénérationnel",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_plan_daction.txt",

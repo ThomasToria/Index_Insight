@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Un outil d'accessibilité à la culture pour les personnes âgées.",
         "contexte": "Contexte démographique marqué par le vieillissement de la population, augmentation des seniors dans la population et refus du déambulateur.",
@@ -27,10 +27,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Design_for_all.txt",

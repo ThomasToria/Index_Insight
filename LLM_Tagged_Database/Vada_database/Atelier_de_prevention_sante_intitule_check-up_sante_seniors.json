@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Un événement de type forum rassemblant différents professionnels institutionnels et spécialités médicales pour le bien-être des seniors.",
         "contexte": "La Ville de La Ciotat compte 36 000 habitants, dont 35% de seniors. Une demande importante du public en matière d'actions de prévention santé a été observée via un sondage distribué lors du Salon des Seniors.",
@@ -21,10 +21,9 @@
         "2024"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_de_prevention_sante_intitule_check-up_sante_seniors.txt",

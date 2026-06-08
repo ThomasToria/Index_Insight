@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la communication entre les ainés de Barlin et le service municipal, en mettant en place un référent unique pour faciliter l’information.",
         "contexte": "Le projet a été initié suite aux constats d'une mauvaise communication entre la mairie et l'Assemblée des ainés, qui ont conduit à une frustration chez les membres de cette dernière.",
@@ -21,7 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel"
+        "numérique",
+        "participation citoyenne",
+        "activité physique et sport"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction3_Barlin_vf.txt",

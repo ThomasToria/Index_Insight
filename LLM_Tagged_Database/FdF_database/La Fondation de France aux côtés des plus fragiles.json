@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La Fondation de France, en collaboration avec les fondations qu'elle abrite, a mis en place des initiatives pour aider les personnes fragiles et isolées dans la reconstruction du lien social face à l'impact de la crise sanitaire.",
         "contexte": "Les fractures et vulnérabilités ont été creusées par la pandémie de Covid-19, notamment chez les jeunes, femmes isolées, personnes âgées et porteurs de handicap. Les résultats du baromètre « Les solitudes en France » montrent que plus d'un Français sur deux est en situation d'isolement ou dispose d'un seul réseau de sociabilité.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé mentale",
-        "intergénérationnel",
-        "isolement"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\La Fondation de France aux côtés des plus fragiles.txt",

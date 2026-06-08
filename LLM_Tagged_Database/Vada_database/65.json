@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le dispositif 65+ a été mis en place afin d'offrir aux seniors rémois de l'information et une orientation adaptée à leurs besoins. Cela leur permet de les accompagner dans le repérage des activités et des services existants qui sont dédiés, grâce à une carte gratuite et nominative.",
         "contexte": "Le besoin d'informer et orienter les seniors rémois de 65 ans et plus sur les événements et services spécifiques auxquels ils peuvent avoir accès.",
@@ -22,11 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\65.txt",

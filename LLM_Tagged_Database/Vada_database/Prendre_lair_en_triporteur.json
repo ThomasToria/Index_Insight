@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une initiative pour les personnes isolées sur demande, proposant un nouveau mode de transport doux, le triporteur.",
         "contexte": "Les personnes âgées expriment l'envie de pouvoir faire des balades à vélo, mais refusent d'utiliser ce moyen de transport.",
@@ -23,12 +23,9 @@
         "2024-05-23"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prendre_lair_en_triporteur.txt",

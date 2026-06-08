@@ -8,7 +8,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Cette fiche-action vise à améliorer l’accessibilité et la capacité d’adaptation des logements pour les personnes âgées, en particulier celles de plus de 60 ans.",
         "contexte": "La municipalité a identifié un besoin croissant dans sa commune concernant l’accès aux logements pour les seniors. Les habitants âgés ont exprimé une préoccupation concernant la sécurité et la facilité d’accessibilité des lieux de vie.",
@@ -25,12 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche2-habitat.txt",

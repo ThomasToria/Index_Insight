@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Tuto'nomie est un ensemble composé de tutoriels vidéo gratuits, ludiques et éducatifs destinés aux aidants, ainsi que de webinaires pour des échanges en direct avec des experts.",
         "contexte": "Depuis 2018 pour les tutoriels et depuis 2021 pour les webinaires. Les ressources sont accessibles via internet.",
@@ -19,9 +19,9 @@
         "depuis 2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\33_Aide_aux_aidants_TUTONOMIE.txt",

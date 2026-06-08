@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "À l'occasion des 80 ans de la fin de la Seconde Guerre mondiale, huit aînés ont partagé leurs souvenirs de guerre et d’après-guerre. Ces témoignages ont été recueillis par les élèves de 3ème et du collège André Brouillet, qui ont ensuite produit un film documentaire et une exposition photographique.",
         "contexte": "La mémoire des anciens combattants est souvent perdue ou ignorée, ce projet vise à rendre cette mémoire accessible à tous. Les seniors aiment partager leur histoire, mais les moyens techniques nécessaires pour le faire ne sont pas disponibles.",
@@ -22,8 +22,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\MEMOIRE_DES_SAGES.txt",

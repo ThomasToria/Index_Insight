@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le CAFE R.E.L.A.I.S. est un programme mensuel d'animations destiné aux aînés, proposant des activités variées pour maintenir le lien social et améliorer la qualité de vie.",
         "contexte": "La création du Café RELAIS répond à une problématique liée au besoin de renforcer les liens entre les résidents d'un EHPAD, leurs proches et la société civile. Les aînés ont exprimé le souhait de se sentir mieux au quotidien grâce aux techniques de relaxation.",
@@ -22,11 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CAFE_RELAIS_Rencontre_Entraide_Lien_Accueil_Inclusion_numerique_et_Soutien.txt",

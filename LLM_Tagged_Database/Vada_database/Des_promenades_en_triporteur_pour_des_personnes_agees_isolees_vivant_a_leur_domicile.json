@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "",
         "contexte": "Le CCAS de Charleville-Mézières a proposé des ateliers de 'Remise en selle' aux seniors fréquentant ses clubs seniors, en partenariat avec l’association Ma Ville à Vélo (MVAV). Fort de cette expérience, le CCAS souhaite renouveler son partenariat pour offrir des promenades en triporteurs aux personnes âgées isolées vivant à domicile suivies par le service de visites de courtoisie et souffrant de solitude, manque d’activité et de sorties.",
@@ -22,13 +22,9 @@
         "2024-07"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_promenades_en_triporteur_pour_des_personnes_agees_isolees_vivant_a_leur_domicile.txt",

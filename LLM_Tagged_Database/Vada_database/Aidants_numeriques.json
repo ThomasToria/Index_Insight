@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative vise à améliorer l'accès aux outils numériques pour les personnes âgées, en particulier les seniors.",
         "contexte": "La ville de Dijon a mené une réflexion globale sur la fracture numérique et a initié un projet d'accompagnement des aidants numériques. Les objectifs sont de renforcer l'autonomie et l'inclusion numérique des personnes âgées.",
@@ -23,12 +23,9 @@
         "depuis 2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aidants_numeriques.txt",

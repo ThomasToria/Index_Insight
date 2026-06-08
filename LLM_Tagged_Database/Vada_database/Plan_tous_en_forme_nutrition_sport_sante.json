@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Plan municipal visant à sensibiliser et accompagner le grand public sur les questions de santé publique, en particulier dans la prévention des maladies liées à la nutrition et l'activité physique.",
         "contexte": "Les travaux scientifiques ont montré que la bonne nutrition et une activité physique régulière réduisent les risques de maladies et d'incapacités.",
@@ -22,8 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "prévention",
-        "santé"
+        "santé et prévention",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plan_tous_en_forme_nutrition_sport_sante.txt",

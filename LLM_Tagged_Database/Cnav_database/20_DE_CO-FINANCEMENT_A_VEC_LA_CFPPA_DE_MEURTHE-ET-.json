@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Dans le cadre du partenariat entre Carsat Nord-Est et le Conseil départemental, des actions ont été mises en place pour simplifier le dépôt de demandes de financements, notamment pour les projets de prévention de la perte d'autonomie.",
         "contexte": "Le projet vise à faciliter l'obtention de co-financement entre Carsat et CFPPA (Conférence des financeurs de la prévention de la perte d’autonomie).",
@@ -19,8 +19,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.txt",

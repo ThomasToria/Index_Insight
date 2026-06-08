@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Valorisation d'un patrimoine rural en transformation en espace muséal.",
         "contexte": "La ferme de Gandil, délabrée depuis les années 1980, a été réhabilitée et transformée en espace muséal pour valoriser son histoire et le lien intergénérationnel.",
@@ -25,13 +25,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "intergénérationnel",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Valorisation_et_partage_du_patrimoine_local_espace_museal_Gandil.txt",

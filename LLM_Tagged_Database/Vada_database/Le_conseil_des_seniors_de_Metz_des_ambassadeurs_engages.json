@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "consultation citoyenne",
     "description": {
         "description_generale": "Cette instance est destinée à permettre aux seniors de Metz d'apporter leur compétences, leur expériences et leur disponibilité pour contribuer aux côtés de la Ville des services et des autres instances participatives à l'amélioration de la qualité de la vie et au mieux vivre ensemble dans la cité.",
         "contexte": "La Ville de Metz a décidé de créer un Conseil des Seniors en 2012, confié au CCAS pour son bon fonctionnement et logistique. Ce Conseil est renouvelé chaque trois mois après le renouvellement du Conseil Municipal.",
@@ -23,12 +23,9 @@
         "2020"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_conseil_des_seniors_de_Metz_des_ambassadeurs_engages.txt",

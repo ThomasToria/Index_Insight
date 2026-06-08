@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une journée de rencontre entre seniors, associations et acteurs locaux pour évaluer les besoins et attentes des seniors en matière de bénévolat.",
         "contexte": "La Ville Amie des Aînés Nancy a organisé une journée d'information sur le rôle du bénévole associatif à destination des seniors et des associations locales.",
@@ -22,9 +22,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rencontres_du_benevolat.txt",

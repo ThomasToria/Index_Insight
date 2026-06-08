@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La municipalité de Feignies a adhéré à la démarche Villes Amies des Aînés en avril 2015. En phase de diagnostic, le service Santé Aînés a élaboré des outils pour connaître les attentes des plus de 65 ans sur la commune.",
         "contexte": "La municipalité de Feignies a adhéré à la démarche Villes Amies des Aînés en avril 2015. En phase de diagnostic, le service Santé Aînés a élaboré des outils pour connaître les attentes des plus de 65 ans sur la commune.",
@@ -22,9 +22,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Navette_seniors_et_personnes_a_mobilite_reduite.txt",

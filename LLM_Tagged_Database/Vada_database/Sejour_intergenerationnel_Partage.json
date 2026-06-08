@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une initiative visant à renforcer les liens intergénérationnels entre aînés du territoire, leurs proches et la société civile.",
         "contexte": "Les audits réalisés en début de démarche ont montré que certains aînés n'avaient pas ou peu accès aux loisirs et aux vacances. Les liens intergénérationnels sont également soulignés dans ces audits, avec une envie de les voir se renforcer.",
@@ -22,9 +22,9 @@
         "en avril 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejour_intergenerationnel_Partage.txt",

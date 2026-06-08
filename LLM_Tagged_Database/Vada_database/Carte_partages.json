@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La carte Part'âges est une initiative visant à regrouper des activités de loisirs variées pour les seniors de la commune.",
         "contexte": "Les seniors de Saint-Max ont besoin d’activités qui leur permettent de rester actifs et connectés avec la société civile.",
@@ -22,11 +22,9 @@
         "septembre"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_partages.txt",

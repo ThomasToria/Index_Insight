@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "L'initiative vise à identifier les activités seniors méconnues sur le territoire de Mérignac, afin d'améliorer la visibilité et l’engagement des seniors.",
         "contexte": "Le diagnostic local a révélé que malgré une variété d’activités disponibles pour les seniors, elles sont souvent ignorées. Les seniors ont exprimé le besoin de trouver un outil simple et attrayant qui puisse aider à la promotion de ces activités.",
@@ -24,13 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atouts_seniors.txt",

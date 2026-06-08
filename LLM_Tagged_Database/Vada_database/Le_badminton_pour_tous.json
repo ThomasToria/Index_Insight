@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un projet de pratiques sportives ludiques dans les résidences autonomes, initié par le club sportif 'Badminton Associatif Choletais' pour améliorer la qualité de vie des résidents.",
         "contexte": "Le besoin d'amélioration du bien-être et de l’interaction sociale chez les personnes âgées dans leurs résidences autonomes.",
@@ -22,10 +22,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_badminton_pour_tous.txt",

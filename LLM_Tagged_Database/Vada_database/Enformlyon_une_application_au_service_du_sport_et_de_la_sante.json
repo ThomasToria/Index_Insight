@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "Enform@Lyon est une application gratuite développée par la Direction des Sports de la Ville de Lyon, destinée aux seniors de plus de 45 ans en situation d'autonomie sur le territoire de la Ville de Lyon. Elle propose des parcours audio-guidés sur les arrondissements de la ville, combinant activités sportives et culturelles.",
         "contexte": "Les pratiques sportives sont devenues plus autonomes et hors cadres avec l'essor des applications participatives.",
@@ -23,11 +23,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Enformlyon_une_application_au_service_du_sport_et_de_la_sante.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la qualité de vie des aînés en leur permettant d'avoir un repas pris dans l'intégralité, en lutte contre la désocialisation (facilitée par les repas à domicile), et en apportant des repères.",
         "contexte": "Le besoin a été identifié suite à une concertation avec les aînés et une conférence sur le thème de l'autonomie, des services et des soins. Les aînés ont choisi d'avoir un restaurant seniors plutôt que le service de repas à domicile.",
@@ -25,13 +25,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Restaurant_seniors.txt",

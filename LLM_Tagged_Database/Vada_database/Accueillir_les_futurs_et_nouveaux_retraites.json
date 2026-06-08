@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette action répond aux besoins des retraités, engagée par les seniors.",
         "contexte": "Suite à une conférence sur la réinvention de la vieillesse, des participants ont exprimé le besoin d'aider leurs pairs à préparer leur nouvelle étape de vie.",
@@ -21,13 +21,9 @@
         "depuis 2013"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accueillir_les_futurs_et_nouveaux_retraites.txt",

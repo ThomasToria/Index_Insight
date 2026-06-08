@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Une initiative visant à favoriser l'accès à la culture pour les seniors les moins autonomes, garder le lien avec les services de la collectivité et lutter contre l'isolement.",
         "contexte": "Les seniors ont exprimé un intérêt pour la lecture, mais ils étaient peu nombreux à consulter la bibliothèque. Le portage de livres a été proposé comme une solution.",
@@ -22,11 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Portage_de_livres.txt",

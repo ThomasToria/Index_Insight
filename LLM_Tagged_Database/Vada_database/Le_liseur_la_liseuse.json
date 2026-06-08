@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "L'initiative vise à améliorer l'accès aux livres pour les personnes âgées isolées, en leur permettant de lire facilement grâce à la fonction zoom des liseuses.",
         "contexte": "Les seniors isolés ont besoin d'une aide pour se connecter à la lecture et à la culture. Les étudiants bénévoles peuvent apporter une solution pratique et ludique.",
@@ -21,10 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_liseur_la_liseuse.txt",

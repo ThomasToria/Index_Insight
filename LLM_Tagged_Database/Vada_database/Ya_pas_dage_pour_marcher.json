@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une marche intergénérationnelle organisée par les associations de marches et de randonnées.",
         "contexte": "La ville organise une marche annuelle depuis 2010, visant à favoriser la solidarité et l’accessibilité pour tous âges et types de marcheurs.",
@@ -23,9 +23,9 @@
         "depuis 2010"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ya_pas_dage_pour_marcher.txt",

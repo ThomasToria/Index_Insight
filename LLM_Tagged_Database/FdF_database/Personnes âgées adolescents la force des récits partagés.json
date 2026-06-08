@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La Fondation de France Région Nord a soutenu l'Asapad pour son projet 'Partage de savoirs intergénérationnels'.",
         "contexte": "La crise sanitaire et sociale accentue la vulnérabilité des personnes âgées, tandis que les adolescents sont confrontés à une nouvelle génération d'informatique.",
@@ -23,11 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "habitat et logement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées adolescents la force des récits partagés.txt",

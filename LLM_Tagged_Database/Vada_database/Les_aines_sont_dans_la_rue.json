@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "flash mob",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Un flash mob organisé pour les aînés, visant à renforcer le lien social et la convivialité.",
         "contexte": "Avant la pandémie de Covid-19, des danses étaient organisées mensuellement à destination des seniors dans la ville de Béziers. Le projet de flash mob est né lors d'une réflexion sur le programme de la semaine Bleue 2021.",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aines_sont_dans_la_rue.txt",

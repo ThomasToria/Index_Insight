@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Ce service social est spécialisé dans l'approche des seniors dijonnais de plus de 62 ans. L'intervention se réalise à domicile ou en permanence dans les différents quartiers de la Ville et concerne tous les aspects de la vie quotidienne.",
         "contexte": "Dijon ville amie des aînés depuis juin 2009",
@@ -21,8 +21,9 @@
         "2009"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_social_gerontologique_du_CCAS_de_Dijon.txt",

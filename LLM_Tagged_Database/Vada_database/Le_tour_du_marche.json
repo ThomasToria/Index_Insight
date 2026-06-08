@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Cette initiative vise à préserver l'autonomie des personnes en perte de mobilité, rompre l'isolement et encourager l'accès au marché jusqu'à la plus grande âge.",
         "contexte": "Cette activité existe depuis septembre 2013 et répond aux besoins du public inscrit dans le cadre du service accompagnement collectif du CCAS de Dijon. Le choix du marché, un marché de quartier (Port du canal), a été déterminé en fonction de deux critères: facilement accessible en minibus et une surface limitée pour éviter un circuit de marche trop long entre les étales.",
@@ -22,8 +22,9 @@
         "2017-09-25"
     ],
     "thematique": [
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_tour_du_marche.txt",

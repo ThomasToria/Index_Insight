@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La CCAS a obtenu un véhicule adapté PMR pour créer une navette gratuite pour les personnes âgées de plus de 60 ans, permettant aux habitants de se rendre à des commerces et services.",
         "contexte": "Les personnes âgées rencontrent souvent des difficultés pour se déplacer et réaliser leurs achats en autonomie. La CCAS a mis en place une navette PMR pour faciliter leur accessibilité.",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_navette_PMR_pour_les_plus_de_60_ans.txt",

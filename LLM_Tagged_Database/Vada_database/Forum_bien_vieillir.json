@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "événement",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La mise en place d'un Forum Bien Vieillir pour informer, déconner et redécouvrir les seniors caennais.",
         "contexte": "Les seniors caennais ont constaté une offre de services peu accessible. Le Forum Bien Vieillir est un moyen de renforcer la communication avec eux.",
@@ -22,13 +22,9 @@
         "janvier"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_bien_vieillir.txt",

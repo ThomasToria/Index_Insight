@@ -1,0 +1,651 @@
+[
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_12_-_Informations.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_12_-_Informations.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_2_Droits_Culturels_des_seniors.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_2_Droits_Culturels_des_seniors.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "mobilité et transport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_13_-_Preparation_a_la_retraite.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_13_-_Preparation_a_la_retraite.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_15_-_ecrivains_numeriques.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_15_-_ecrivains_numeriques.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FCHES_ACTIONs__-_proposition_triple_actions_enchas.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FCHES_ACTIONs__-_proposition_triple_actions_enchas.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "lien social et isolement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_18_-_Guide_annuaire_des_praticiens.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_18_-_Guide_annuaire_des_praticiens.txt",
+        "nature_initiative": "publication",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_11_-_Implication.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_11_-_Implication.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_19_-_Groupe_dintervention_et_animatio.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_19_-_Groupe_dintervention_et_animatio.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_14_-_Formation_au_numerique.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_14_-_Formation_au_numerique.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_10_-_Reseau_dinformations.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_10_-_Reseau_dinformations.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "intergénérationnel",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_17_-_Projet_intergenerationnel.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_17_-_Projet_intergenerationnel.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_2_-_Merci.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_2_-_Merci.txt",
+        "nature_initiative": "groupe de parole",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_3_new.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_3_new.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_3_Gude_Pratique_pour_seniors_sochalie.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_3_Gude_Pratique_pour_seniors_sochalie.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_4_Aines_Sochaliens_Connectes.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_4_Aines_Sochaliens_Connectes.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\fiche-action_4_new.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\fiche-action_4_new.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_5_-_Club_du_Rire.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_5_-_Club_du_Rire.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_7_-__Plateforme_information_senior.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_7_-__Plateforme_information_senior.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "mobilité et transport",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_8_-_Mediateurs_en_etablissement.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_8_-_Mediateurs_en_etablissement.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_9_-_Transports.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_9_-_Transports.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche1-habitat.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche1-habitat.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche2-habitat.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche2-habitat.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche3-LienSocial.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche3-LienSocial.txt",
+        "nature_initiative": "groupe de parole",
+        "thematique": [
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche4-LienSocial.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche4-LienSocial.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche5-Mobilite.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche5-Mobilite.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "mobilité et transport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_1_new.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_1_new.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "participation citoyenne",
+            "culture et loisirs"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche7-Tiers_lieu.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche7-Tiers_lieu.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche8-Atelierbienvieillir.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche8-Atelierbienvieillir.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction1_Barlin_vf.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction1_Barlin_vf.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "numérique",
+            "participation citoyenne",
+            "activité physique et sport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_16_-_Materiel_informatique.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_16_-_Materiel_informatique.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction2_Barlin_vf.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction2_Barlin_vf.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction2_Ostricourt_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction2_Ostricourt_VF.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction3_Barlin_vf.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction3_Barlin_vf.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "numérique",
+            "participation citoyenne",
+            "activité physique et sport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction3_Ostricourt_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction3_Ostricourt_VF.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "lien social et isolement",
+            "numérique",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction4_Barlin_vf.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction4_Barlin_vf.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "participation citoyenne",
+            "activité physique et sport",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction4_Ostricourt_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction4_Ostricourt_VF.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction5_Ostricourt_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction5_Ostricourt_VF.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction6_Ostricourt_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction6_Ostricourt_VF.txt",
+        "nature_initiative": "projet d'aménagement",
+        "thematique": [
+            "participation citoyenne",
+            "activité physique et sport",
+            "espaces publics et aménagement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FichesAction_PaysMormal_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FichesAction_PaysMormal_VF.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_1_Informations_senior_brochure.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_1_Informations_senior_brochure.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_2_Informations_senior__ligne_telephon.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_2_Informations_senior__ligne_telephon.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_3_Informations_senior_Accueil.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_3_Informations_senior_Accueil.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_4_Accompagnement_aux_courses.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_4_Accompagnement_aux_courses.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "intergénérationnel",
+            "mobilité et transport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_5_Livraison_de_courses_a_domicile_-_r.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_5_Livraison_de_courses_a_domicile_-_r.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "intergénérationnel",
+            "mobilité et transport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_6_Participation_citoyenne.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_6_Participation_citoyenne.txt",
+        "nature_initiative": "groupe de parole",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "participation citoyenne"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_7_Participation_sociale.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_7_Participation_sociale.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_Se_deplacer_librement_et_en_toute_sec.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_Se_deplacer_librement_et_en_toute_sec.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "mobilité et transport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.txt",
+        "nature_initiative": "dispositif",
+        "thematique": [
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_ACTION_souvrir_a_lautre_par_la_culture.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_ACTION_souvrir_a_lautre_par_la_culture.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "handicap et aidants",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_Arlon_1.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_1.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "intergénérationnel",
+            "mobilité et transport"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche6-Mobilite.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche6-Mobilite.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_Arlon_3.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_3.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_Arlon_4.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_4.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_Arlon_5.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_5.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "numérique"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\ToujoursCitoyen_Saynete_Fiche2B.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\ToujoursCitoyen_Saynete_Fiche2B.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "mobilité et transport",
+            "participation citoyenne",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\ToujoursCitoyen_support_Fiche1.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\ToujoursCitoyen_support_Fiche1.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\Fiche-action_6_-_Alimentation.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\Fiche-action_6_-_Alimentation.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FicheAction1_Ostricourt_VF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FicheAction1_Ostricourt_VF.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "mobilité et transport"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Fiches_actions_database\\FICHE_Arlon_2.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fiches_actions_database\\FICHE_Arlon_2.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "mobilité et transport",
+            "activité physique et sport"
+        ],
+        "used_llm": true
+    }
+]

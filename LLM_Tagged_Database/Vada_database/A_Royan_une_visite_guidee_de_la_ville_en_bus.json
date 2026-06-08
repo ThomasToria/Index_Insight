@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "La Ville de Royan, classée Ville d’Art et d’Histoire depuis 2010, a organisé une série de visites guidées adaptées à un moyen de locomotion particulier: l’autocar. Cette action s'adresse à un public divers, intéressé par l'architecture et le patrimoine historique de Royan, et souhaitant bénéficier d'un transport collectif.",
         "contexte": "La Ville de Royan a pensé une série de visites guidées adaptées à un moyen de locomotion particulier: l'autocar. Cette action s'adresse à un public divers, intéressé par l'architecture et le patrimoine historique de Royan, et souhaitant bénéficier d'un transport collectif.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "mobilité et transport",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Royan_une_visite_guidee_de_la_ville_en_bus.txt",

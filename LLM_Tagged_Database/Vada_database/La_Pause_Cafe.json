@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une pause-café hebdomadaire organisée dans la commune pour renforcer les liens sociaux et diffuser de l'information.",
         "contexte": "Commune dispose d'un lieu pour jeunes enfants, mais aucun temps fixe n'était dédié aux seniors. Le projet vise à créer un moment régulier de convivialité et d'échanges entre seniors.",
@@ -21,8 +21,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Pause_Cafe.txt",

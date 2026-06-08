@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La commune a mis en place un atelier de médiation animale pour favoriser le bien-être du public, créer du lien avec l'animal, stimuler les sens, et apporter un temps calme et de concentration.",
         "contexte": "Les contacts réguliers proposés par les services municipaux pendant la crise sanitaire ont permis de mettre en évidence un besoin de reprendre confiance en soi et de sortir. La commune a donc décidé d'organiser des ateliers de médiation animale.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_de_mediation_animale.txt",

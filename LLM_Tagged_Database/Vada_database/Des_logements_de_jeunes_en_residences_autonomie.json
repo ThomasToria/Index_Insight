@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce projet est né d’un croisement entre la loi « Adaptation de la Société au Vieillissement » et ses décrets d’application, permettant l’accueil d’étudiants et de jeunes travailleurs au sein des résidences autonomie.",
         "contexte": "Le CCAS de Port-Jérôme-sur-Seine souhaitait organiser une formation pour des jeunes en situation d’insertion professionnelle. Des logements à destination de jeunes ont été mis en place dans la limite maximale de 15% de la capacité d’accueil globale de la résidence.",
@@ -22,10 +22,9 @@
         "juillet"
     ],
     "thematique": [
+        "autonomie et grand âge",
         "intergénérationnel",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_logements_de_jeunes_en_residences_autonomie.txt",

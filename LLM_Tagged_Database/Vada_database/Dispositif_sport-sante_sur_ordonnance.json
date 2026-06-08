@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce dispositif vise à promouvoir l’activité physique modérée et adaptée aux personnes atteintes de certaines maladies chroniques, notamment les seniors fragilisés.",
         "contexte": "La loi sur la prescription de l'activité physique a été entrée en vigueur en janvier 2016, permettant désormais le médecin traitant d'en prescrire à ses patients. Strasbourg a mis en place ce dispositif dès l’ouverture du dispositif, visant les personnes atteintes de certaines maladies chroniques et les seniors fragilisés.",
@@ -21,9 +21,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_sport-sante_sur_ordonnance.txt",

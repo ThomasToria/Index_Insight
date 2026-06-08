@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le maintien de l'autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028. Cette autonomie passe par l’utilisation des transports en commun.",
         "contexte": "Les résidents ont exprimé, à de nombreuses reprises, leurs réticences à emprunter le tramway ou le bus. En vieillissant, les personnes âgées rencontrent des problèmes de mobilité, notamment avec l’utilisation d’aides techniques nécessaires au quotidien.",
@@ -22,12 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_en_transports_en_commun.txt",

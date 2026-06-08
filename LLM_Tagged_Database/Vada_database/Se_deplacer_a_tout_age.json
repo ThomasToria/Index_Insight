@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à informer les seniors sur le réseau de transport en commun bisontin et à leur permettre d'approcher ce moyen de transport.",
         "contexte": "Les seniors ont besoin de se déplacer mais ils rencontrent des difficultés pour s'y rendre. Le tramway est un moyen de transport accessible qui n'est pas utilisé par les seniors.",
@@ -20,8 +20,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_a_tout_age.txt",

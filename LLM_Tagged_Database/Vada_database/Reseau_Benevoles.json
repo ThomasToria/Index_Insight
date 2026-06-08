@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Créer des interactions régulières entre les bénévoles et les aînés pour briser l'isolement.",
         "contexte": "Le vieillissement croissant, la solitude chez certains seniors, et le non-recours aux services rendent les situations de précarité plus graves.",
@@ -22,11 +22,9 @@
         "2018"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Benevoles.txt",

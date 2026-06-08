@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Ce projet a été élaboré à partir des besoins constatés sur le territoire et un intérêt commun concernant le maintien à domicile. Des visites en appartements témoins ont été organisées, ainsi que l'impact possible sur le territoire.",
         "contexte": "Les bénéficiaires étaient sortants de service de rééducation avec avis d'orientation EHPAD, deux sortants d'hospitalisation en gérontologie et un issu de son domicile. Le projet a permis à cinq bénéficiaires de retourner et/ou une adaptation du domicile avec maintien efficace à six mois pour quatre d’entre eux.",
@@ -21,8 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Appartement_LENA_Logement_evolutif_pour_une_nouvelle_autonomie.txt",

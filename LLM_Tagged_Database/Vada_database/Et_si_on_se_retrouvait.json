@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une initiative visant à lutter contre la solitude et à favoriser le lien social par des rencontres régulières entre seniors isolés dans leur quartier.",
         "contexte": "Le Conseil Consultatif Seniors de Saint-Etienne a identifié l'isolement comme une problématique majeure concernant les seniors, notamment en raison de la perte de conjoint et du retrait. Les seniors ont souhaité dynamiser leur quartier en proposant des temps de rencontres pour faciliter la participation des seniors isolés.",
@@ -26,15 +26,9 @@
         "depuis 2014"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_se_retrouvait.txt",

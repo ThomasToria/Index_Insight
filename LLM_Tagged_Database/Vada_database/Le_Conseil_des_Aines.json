@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Installé à chaque mandat municipal, le Conseil des Aînés contribue à la vie quotidienne du village, avec une attention particulière portée aux seniors.",
         "contexte": "Les membres se réunissent tous les deux mois et son t accompagnés par deux élus pour mener à bien leur mission.",
@@ -21,9 +21,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Aines.txt",

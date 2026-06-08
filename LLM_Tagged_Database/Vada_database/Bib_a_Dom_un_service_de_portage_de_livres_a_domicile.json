@@ -8,7 +8,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La Bibliothèque à Domicile - Bib' à Dom' est une association Loi 1901 créée en 1984 qui a pour but de permettre aux personnes dans l’incapacité, même temporaire, de se déplacer d’avoir accès ou continuer à avoir accès à la lecture et aux livres.",
         "contexte": "La Bib' à Dom', partenaire de la Bibliothèque municipale de Lyon, est animée uniquement par des bénévoles. La fonction principale de l’association est le portage à domicile des livres de la Bibliothèque municipale, pris dans n’importe quelle bibliothèque d’arrondissement.",
@@ -24,8 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "lien social"
+        "habitat et logement",
+        "culture et loisirs",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bib_a_Dom_un_service_de_portage_de_livres_a_domicile.txt",

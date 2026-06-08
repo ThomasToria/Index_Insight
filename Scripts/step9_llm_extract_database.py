@@ -135,12 +135,16 @@ Règles pour "nature_initiative" :
   "sensibilisation",
   "enquête",
   "rapport",
+  "plaidoyer",
   "outil numérique",
   "événement",
-  "action intergénérationnelle",
   "accompagnement",
   "dispositif",
   "publication",
+  "offre de service",
+  "groupe de parole",
+  "lieu / espace dédié",
+  "projet d'aménagement",
   "autre".
 - Si plusieurs natures sont possibles, choisis la plus représentative.
 

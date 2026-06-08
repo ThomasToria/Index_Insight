@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Pour la 5ème édition des thé dansants, baptisés 'Un après-midi au Palais' proposés par la Ville de Grenoble aux 65 ans et plus, un casting a été organisé à la Maison des Habitants Bois d'Artas, destiné à renforcer la dimension participative de l'évènement, en associant directement les citoyens volontaires à la programmation.",
         "contexte": "Pour répondre à une demande exprimée par de nombreux habitants, en organisant un casting à la Maison des Habitants Bois d'Artas pour renforcer la dimension participative de l'évènement 'Un après-midi au Palais'.",
@@ -25,8 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Casting_pour_un_apres-midi_au_palais.txt",

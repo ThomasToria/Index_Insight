@@ -7,7 +7,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Voisin-age est un dispositif innovant créé par les petits frères des Pauvres, une association reconnue d'utilité publique. Il a été lancé à Toulon en 2013 et s'inscrit dans la politique municipale.",
         "contexte": "Le projet Voisin-age vise à réduire l’isolement des personnes âgées par le maintien de liens sociaux entre les habitants d’un même quartier, ville ou village autour de leurs aînés. Le dispositif repose sur une communication active et un système de « covoiturage » pour identifier et aider les personnes isolées.",
@@ -23,9 +23,8 @@
         "depuis 2013"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\VOISIN-AGE_retisser_du_lien_social_autour_des_plus_ages.txt",

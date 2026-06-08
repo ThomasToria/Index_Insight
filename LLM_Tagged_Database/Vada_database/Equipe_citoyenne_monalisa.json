@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête, action intergénérationnelle",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Une initiative de la commune Maxéville visant à améliorer les conditions de vie des seniors isolés en leur offrant régulièrement des visites chez eux.",
         "contexte": "Un rapport d'enquête mené par Meurthe et Moselle Habitat a révélé que 67% des locataires âgés de 60 ans et plus souffraient de solitude et d'isolement. Maxéville, bailleur communautaire, souhaite agir en complémentarité avec les services existants pour améliorer la qualité de vie des seniors.",
@@ -22,12 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Equipe_citoyenne_monalisa.txt",

@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "La Cité des Aînés est une initiative innovante qui vise à créer un lieu unique capable de prendre en charge toutes les dépendances, dans un environnement générateur de lien social et de bien-être.",
         "contexte": "Les personnes âgées ont besoin d'un cadre propice pour maintenir leur autonomie et continuer à vivre une vie active. La Cité des Aînés répond à ce besoin en offrant un espace adapté aux besoins spécifiques de la population âgée.",
@@ -25,9 +25,9 @@
         "2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_cite_des_aines.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le projet consiste à proposer un mobilier adapté aux habitants permettant de faciliter la mobilité sur la zone urbaine de Briec.",
         "contexte": "Dans le cadre des études et ateliers participatifs auprès des commerçants, des habitants, des ainés, le manque de bancs en centralité a été relevé comme une thématique récurrente. Cinq marches déambulatoires avec les habitants, dans différents quartiers de la ville, ont permis de repérer les besoins et les endroits propices à l’installation de mobilier urbain adapté.",
@@ -22,12 +22,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Installation_de_mobilier_urbain_adapte_en_zone_urbaine.txt",

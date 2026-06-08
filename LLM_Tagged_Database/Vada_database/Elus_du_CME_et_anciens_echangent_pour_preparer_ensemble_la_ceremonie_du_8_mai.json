@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Cette initiative est un projet d'enquête qui vise à valoriser les personnes âgées et leur sentiment d'appartenance à la communauté en montrant que leurs témoignages comptent et méritent d'être entendus.",
         "contexte": "Le texte indique une cérémonie du 8 mai organisée par des élus CME, qui ont invité deux messieurs de l’EHPAD et deux Plainaises à venir leur raconter leur vie pendant la guerre. Ces échanges seront racontés par les enfants à la cérémonie du 8 mai en présence de ces anciens.",
@@ -21,13 +21,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "intergénérationnel",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elus_du_CME_et_anciens_echangent_pour_preparer_ensemble_la_ceremonie_du_8_mai.txt",

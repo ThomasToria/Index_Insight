@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Créée en réponse à la canicule de 2003, l'association Tim & Colette met en relation des seniors avec des jeunes pour une cohabitation mutuellement bienveillante.",
         "contexte": "La métropole lyonnaise",
@@ -23,12 +23,9 @@
         "depuis 2004"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tous_au_theatre_pour_la_cohabitation_intergenerationnelle.txt",

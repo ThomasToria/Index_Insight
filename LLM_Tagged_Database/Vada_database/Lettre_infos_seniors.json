@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une lettre d’information par mail pour les seniors, professionnels et familles des seniors.",
         "contexte": "Des seniors ont mis en avant qu'ils lisaient le jour natal et après, ils oubliaient certaines activités proposées et auraient aimé avoir ces informations par mail.",
@@ -21,11 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lettre_infos_seniors.txt",

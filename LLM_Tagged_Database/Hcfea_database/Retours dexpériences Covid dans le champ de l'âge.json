@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "publication",
     "description": {
         "description_generale": "Séminaire de travail HCFEA-CNSA du 12 octobre 2021",
         "contexte": "",
@@ -23,12 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "HCFEA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Retours dexpériences Covid dans le champ de l'âge.txt",

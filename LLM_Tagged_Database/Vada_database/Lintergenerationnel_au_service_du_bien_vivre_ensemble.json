@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un état des lieux a mis en évidence que 20% de la population âgée du département de la Côte d’Or connaissait des problèmes de solitude et d'isolement. De ce constat est né le projet qui est constitué de visites de convivialité et de cohabitations intergénérationnelles.",
         "contexte": "La situation actuelle soulève un problème majeur concernant la qualité de vie des personnes âgées dans leur environnement familial ou social. Les seniors se sentent souvent isolés, en particulier lorsqu'ils vivent à l'écart du monde familial et professionnel.",
@@ -22,8 +22,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lintergenerationnel_au_service_du_bien_vivre_ensemble.txt",

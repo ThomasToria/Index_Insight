@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Promouvoir les parcours piétons, sensibiliser aux mobilités douces et valoriser l'isolation sociale.",
         "contexte": "La Ville de Nancy a organisé un centre-ville réservé aux piétons et à la mobilité douce le 19 et 20 septembre 2020. Le but était de découvrir la ville autrement, en faisant une pause dans les journées Européennes du Patrimoine, déballage des commerçants, village des mobilités, puces gourmandes, jardin éphémère et week-end de clôture de la manifestation de rayonnement national « Le Livre sur la Place ».",
@@ -23,9 +23,9 @@
         "2020-09-20"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "mobilité et transport",
+        "culture et loisirs",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_village_des_mobilites.txt",

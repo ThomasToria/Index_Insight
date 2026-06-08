@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Le Département accompagne les musées pour qu'ils participent à l'offre inclusive du territoire.",
         "contexte": "Les musées yvelinois ont exprimé le besoin d'être épaulés sur leur accessibilité, conscient de la difficulté pour accueillir les publics âgés et handicapés.",
@@ -23,12 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_la_culture_pour_favoriser_le_bien_etre_Yvelines_Musees_Solidaires.txt",

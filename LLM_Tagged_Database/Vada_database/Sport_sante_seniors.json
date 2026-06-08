@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le dispositif municipal propose aux seniors de participer à des activités physiques encadrées permettant d'apporter à tous la santé telle que définie l’Organisation Mondiale de la Santé: «la santé est un état de complet bien-être physique, mental et social, et ne constitue pas seulement en une absence de maladie ou d’infirmité».",
         "contexte": "La Chapelle sur Erdre",
@@ -22,8 +22,9 @@
         "2023-01"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_sante_seniors.txt",

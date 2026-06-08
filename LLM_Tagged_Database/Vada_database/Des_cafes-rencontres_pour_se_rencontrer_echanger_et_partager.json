@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une initiative organisée par une association locale autour de thèmes liés à la solidarité, l'intergénérationnalité et le lien social.",
         "contexte": "La ville de Strasbourg a organisé des cafés-rencontres pour favoriser les échanges entre différentes générations.",
@@ -22,13 +22,9 @@
         "2013"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_cafes-rencontres_pour_se_rencontrer_echanger_et_partager.txt",

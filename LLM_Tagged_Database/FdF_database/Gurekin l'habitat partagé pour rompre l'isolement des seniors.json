@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Association fondée en 2018 par la Fondation de France dans le cadre de son programme Personnes âgées, Gurekin explore des solutions innovantes pour l'habitat des seniors. Elle mène actuellement trois projets d'habitat partagé au Pays basque.",
         "contexte": "Les personnes âgées souffrent souvent de solitude et d’isolement, ce qui est un problème crucial selon Annabelle Pachon-Trouche, directrice de l’association Gurekin. Les maisons partagées proposées par Gurekin répondent à ce besoin.",
@@ -23,12 +23,9 @@
         "2024"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "Fondation de France",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Gurekin l'habitat partagé pour rompre l'isolement des seniors.txt",

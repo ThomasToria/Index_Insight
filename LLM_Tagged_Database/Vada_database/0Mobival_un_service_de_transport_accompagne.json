@@ -9,7 +9,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Le service de mobilité accompagnée MOBIVAL a été créé pour améliorer la qualité de vie des personnes âgées dans les communes voisines.",
         "contexte": "Les seniors ont besoin d'une aide supplémentaire pour se déplacer, mais le service communautaire local était limité en couverture et en durée. Le CCAS a décidé de créer un service complet pour répondre à ce besoin.",
@@ -27,10 +27,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\0Mobival_un_service_de_transport_accompagne.txt",

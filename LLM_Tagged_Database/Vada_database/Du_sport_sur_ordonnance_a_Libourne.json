@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Une action lancée en septembre 2019 dans la commune de Libourne pour mettre en place un dispositif d'activité physique adaptée aux patients atteints de pathologies chroniques.",
         "contexte": "La Direction des sports a établi un diagnostic sur les pratiques existantes et a conclu que les médecins hospitaliers, généraistes et spécialistes étaient démunis quant aux propositions existantes en termes d'activités physiques adaptées. La ville de Libourne souhaitait mettre en place une action pour renforcer les liens entre les résidents des EHPAD, leurs proches et la société civile.",
@@ -22,8 +22,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "lien social et isolement",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_sport_sur_ordonnance_a_Libourne.txt",

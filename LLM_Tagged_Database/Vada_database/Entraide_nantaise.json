@@ -8,7 +8,7 @@
         "régionale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Initiatives solidaires des Nantaises et Nantais durant la crise du Covid-19. Coordonner les initiatives citoyennes pour optimiser l'aide.",
         "contexte": "La mise en place d'un réseau d'entraide citoyenne à travers plusieurs étapes, dont l'enregistrement des demandes d'aide croissantes et la mise en place de points de distribution alimentaire et de points “Pins” pour faciliter l'accès aux dispositifs existants.",
@@ -26,8 +26,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "lien social"
+        "santé et prévention",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Entraide_nantaise.txt",

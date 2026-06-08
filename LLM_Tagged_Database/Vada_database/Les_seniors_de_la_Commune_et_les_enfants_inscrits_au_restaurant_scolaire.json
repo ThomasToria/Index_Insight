@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Les personnes âgées ont fait part de leur désir d'aller au restaurant de temps en temps, mais il peut être difficile de se rendre seul ou en couple dans ces lieux. Ils ont également exprimé un manque d'envie de s'organiser pour manger et même manger. Le corps médical a aussi alerté sur des problèmes de dénutrition de certaines personnes âgées. Les élus en charge des seniors ont donc pris en main ce sujet et ont créé « le repas des sages gourmets » lieu de rencontres intergénérationnelles au restaurant scolaire.",
         "contexte": "",
@@ -22,10 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_seniors_de_la_Commune_et_les_enfants_inscrits_au_restaurant_scolaire.txt",

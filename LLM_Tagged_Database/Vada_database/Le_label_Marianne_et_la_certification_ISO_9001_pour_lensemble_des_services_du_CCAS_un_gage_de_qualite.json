@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "certification",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Le label Marianne et la certification ISO 9001 pour l'ensemble des services du CCAS: un gage de qualité",
         "contexte": "La commune Romans-sur-Isère a souhaité obtenir le label Marianne en 2011, visant à valoriser les services rendus à la population et améliorer encore et toujours ces derniers. Le CCAS a été accompagné par le cabinet System G06 pour l'obtention du label Marianne.",
@@ -22,8 +22,9 @@
         "2014"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "culture et loisirs",
+        "activité physique et sport",
+        "services et accompagnement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_label_Marianne_et_la_certification_ISO_9001_pour_lensemble_des_services_du_CCAS_un_gage_de_qualite.txt",

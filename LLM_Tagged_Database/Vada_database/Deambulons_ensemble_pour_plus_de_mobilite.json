@@ -8,7 +8,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La commune a souhaité approfondir le diagnostic participatif en organisant un diagnostic en marchant afin d'appréhender directement les aspects de mobilité de la commune.",
         "contexte": "Le projet a été validé par le comité de pilotage de la démarche VADA puis par le bureau municipal communal.",
@@ -24,9 +24,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deambulons_ensemble_pour_plus_de_mobilite.txt",

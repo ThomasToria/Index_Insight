@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "offre de service",
     "description": {
         "description_generale": "La commune d’Orgères souhaite offrir une diversité d'habitats aux aînés en leur permettant d'accéder à un parcours résidentiel tout au long de la vie, adapté à l'autonomie et en proximité du centre et des services.",
         "contexte": "La Résidence Orgéria, habitat groupé de douze logements, constitue le point de départ de ce projet. La commune a cédé l’ensemble des parcelles au bailleur «Aiguillon Construction» qui a édifié deux bâtiments dont douze logements attribués aux aînés.",
@@ -21,8 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Offre_diversifiee_dhabitats_destines_aux_aines.txt",

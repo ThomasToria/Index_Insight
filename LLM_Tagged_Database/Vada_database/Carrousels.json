@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Les Carrousels sont des lieux dans lesquels les seniors sont accueillis dans les meilleures conditions possibles.",
         "contexte": "Lorsque les seniors vieillissent ou après une épreuve (disparition du conjoint, éloignement des enfants, retour d'hospitalisation) ils ont alors besoin de s'appuyer sur une structure qui leur offre la possibilité de déjeuner dans un lieu adapté et de bénéficier d'animations qui sont autant d'occasions de créer du lien social.",
@@ -22,8 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carrousels.txt",

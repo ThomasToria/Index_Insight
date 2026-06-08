@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "L'association mise en place dans la Ville de Blagnac s'est donnée pour mission l’accompagnement des publics fragilisés: personnes âgées seules, isolées, malades, handicapées, en perte d’autonomie, en situation précaire, en difficulté passagère ou pérenne...",
         "contexte": "En janvier 2012 le projet du RSSB est présenté aux associations locales par un comité de pilotage composé d’élus blagnacais et de la Fédération des Femmes pour l’Europe. Une phase de concertation et de réflexion est lancée avec l’implication de futurs bénévoles. De septembre à décembre 2012 est mise en place l'élaboration, la diffusion et l'analyse d'un questionnaire afin de cibler les besoins des bénéficiaires. Les résultats sont analysés et permettent de mettre en lumière les besoins de la population.",
@@ -23,8 +23,9 @@
         "décembre 2012"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Recreer_du_lien_social_et_renforcer_la_solidarite_vis-a-vis_des_personnes_agees.txt",

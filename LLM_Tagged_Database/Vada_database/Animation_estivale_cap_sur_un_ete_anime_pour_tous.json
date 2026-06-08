@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le dispositif Animation estivale propose aux enfants de 5 à 16 ans un programme d'animations diverses et variées pendant cinq semaines d’été. Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
         "contexte": "Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
@@ -21,12 +21,9 @@
         "2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Animation_estivale_cap_sur_un_ete_anime_pour_tous.txt",

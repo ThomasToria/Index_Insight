@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Action menée par la ville de Caluire et Cuire pour lutter contre l'isolement social des personnes âgées et handicapées durant l'été.",
         "contexte": "Suite à une canicule en 2003, la ville a décidé d'introduire un dispositif de prévention dès l'été 2004. Le CCAS a été désigné pour mettre en place des actions visant à renforcer le réseau de bénévoles et à accompagner les personnes isolées durant l'été.",
@@ -22,13 +22,9 @@
         "2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.txt",

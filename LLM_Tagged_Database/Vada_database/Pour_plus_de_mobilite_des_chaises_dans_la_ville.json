@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La commune de Saint-Germain-au-Mont-d’Or a lancé une initiative visant à améliorer la mobilité des seniors dans sa ville en installant des chaises pour reposer.",
         "contexte": "Les seniors du territoire ont exprimé le besoin d'une meilleure accessibilité et de lieux de repos publics. Le Conseil des Seniors a identifié un manque de structures de repos sur les routes piétons.",
@@ -22,10 +22,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pour_plus_de_mobilite_des_chaises_dans_la_ville.txt",

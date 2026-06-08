@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet Création d’un Café des aidants à Sceaux est en partenariat avec l’association Française des aidants. Les Cafés des aidants sont des espaces d'information, de rencontres et d'échanges animés par une conseillère gérontologique de la Ville et un/une psychologue ayant une expertise sur l'écoute et l'accompagnement des aidants.",
         "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -22,10 +22,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "participation citoyenne"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_cafe_des_aidants.txt",

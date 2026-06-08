@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La résidence Louise LE ROUX, gérée par le CCAS de Brest, a initié un projet d’animation solidaire pour les personnes âgées.",
         "contexte": "Suite à la vacance d’un ancien logement adjacent, l’établissement a souhaité rénover et louer l’appartement à des étudiants désireux de s’inscrire dans le projet d’animation de la résidence. Les étudiants ont proposé des animations en créneaux habituellement inoccupés pour les retraités.",
@@ -22,12 +22,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Louise_et_Compagnie_La_COLOCEtudiante_Solidaire.txt",

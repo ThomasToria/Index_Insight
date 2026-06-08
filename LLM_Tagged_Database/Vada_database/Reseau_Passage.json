@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La perte du conjoint est une étape pouvant fragiliser grandement la personne. La Ville de Morteau et son CCAS souhaitaient apporter une attention particulière à ce public.",
         "contexte": "Les agents du CCAS ont la mission d'organiser deux visites à domicile auprès de toutes les personnes ayant perdu leur conjoint: une première visite dans le mois suivant le décès; une seconde visite dans les trois mois suivants afin de s'assurer que de nouveaux besoins ne sont pas apparus à la suite de ce changement et de cette épreuve. La mise à disposition du CCAS se fait par courrier puis relance par téléphone au besoin.",
@@ -21,10 +21,9 @@
         "depuis 2017"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "isolement"
+        "santé et prévention",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Passage.txt",

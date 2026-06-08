@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La FICHE-ACTION vise à améliorer l'accès et la participation des seniors sochaliens aux activités culturelles de leur territoire.",
         "contexte": "L'art 5 de la Déclaration de Fribourg relative au Droit culturels stipule que toute personne a le droit d'accéder et de participer librement à la vie culturelle. Cependant, avec l'avancée en âge, des personnes âgées rencontrent de nombreux freins pour accéder et participer à la vie culturelle de leur territoire.",
@@ -23,12 +23,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_2_Droits_Culturels_des_seniors.txt",

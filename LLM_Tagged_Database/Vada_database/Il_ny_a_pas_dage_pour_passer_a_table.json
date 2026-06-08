@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet consiste en un déjeuner proposé chaque midi aux résidents d’Alain de Raimond pour participer à la formation des jeunes de l'IME Fraineau. Par une rencontre hebdomadaire, les seniors participent à une initiative qui contribue au lien intergénérationnel, valorise les compétences de chacun par une transmission des savoir-faire et savoir-être, et lutte contre les représentations sociales du handicap et du grand âge.",
         "contexte": "La résidence Alain de Raimond et l'IME de Fraineau sont situés à proximité géographique. C'est donc naturellement qu'un lien privilégié a pu s'établir entre ces deux structures, initialement dans la cadre d'animations intergénérationnelles (en 2018, ateliers sur la thématique environnementale: lutte contre le gaspillage, les produits nocifs) avant d’évoluer vers la restauration. En 2018-2019, l'IME Fraineau, qui accompagne des jeunes dans une démarche d'autonomie, avait déjà pu expérimenter une immersion auprès d'un EHPAD situé à Bourg-Charente.",
@@ -21,8 +21,9 @@
         "depuis 2018-2019"
     ],
     "thematique": [
-        "intergénérationnel",
-        "social inclusion"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Il_ny_a_pas_dage_pour_passer_a_table.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Un service de transport mobilité senior a été mis en place afin d'accompagner les seniors de la ville à leurs rendez-vous médicaux, rendez-vous administratifs, courses, activités culturelles et loisirs sur la commune.",
         "contexte": "Suite à la fermeture de certains commerces, les élus étaient régulièrement interpellés par des seniors qui rencontraient des difficultés pour aller faire leurs courses. Des seniors mettaient régulièrement en avant ne pas pouvoir venir à des activités car elles étaient loin de leur domicile et ils ne disposaient pas de moyen de transport.",
@@ -22,15 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_mobilite_seniors.txt",

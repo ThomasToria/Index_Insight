@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Créer une résidence de 24 logements autonomes dans un lieu stratégique (à proximité de services, en cœur de ville) pour personnes âgées autonomes. Proposer un certain nombre de services gratuits ou payants à destination des locataires.",
         "contexte": "La proportion des personnes âgées de plus de 60 ans est supérieure à 25% et croît rapidement dans la population locale, avec une augmentation significative entre 2013 et 2020. Les seniors vivent seuls et ont un fort besoin d'habitat alternatif.",
@@ -22,13 +22,9 @@
         "2015"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",

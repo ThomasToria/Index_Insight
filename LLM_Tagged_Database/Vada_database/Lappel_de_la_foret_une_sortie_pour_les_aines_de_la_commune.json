@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sortie",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une promenade en forêt pour les aînés de la commune.",
         "contexte": "Le but est d'ériger un lien social entre les personnes âgées, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
@@ -23,9 +23,8 @@
         "2015-11-19"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lappel_de_la_foret_une_sortie_pour_les_aines_de_la_commune.txt",

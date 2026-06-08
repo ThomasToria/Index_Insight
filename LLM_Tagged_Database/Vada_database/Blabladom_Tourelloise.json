@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "La Commune met tout en œuvre pour promouvoir le maintien à domicile des personnes âgées, notamment via une série de visites bénévoles.",
         "contexte": "Les personnes âgées et handicapées souhaitent rester au domicile après l'ABS ou la démarche participative. Le Service seniors de la commune organise un groupe de visiteurs bénévoles pour accompagner les seniors en perte d'autonomie dans des activités de loisirs.",
@@ -22,10 +22,9 @@
         "depuis 2021"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Blabladom_Tourelloise.txt",

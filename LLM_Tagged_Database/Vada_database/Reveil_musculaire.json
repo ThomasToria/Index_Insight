@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Issu d'une demande et d'un besoin des seniors, dans le cadre de la démarche VADA, les séances de réveil musculaire sont accessibles à tous les maxévillois.",
         "contexte": "",
@@ -21,13 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reveil_musculaire.txt",

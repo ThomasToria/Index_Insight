@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Une programmation d'activités en plein air pour les seniors, organisée par le service Affaires Sociales dans le cadre de la politique des Seniors.",
         "contexte": "Le projet 'Activin au jardin' a été lancé en 2019 et est une nouvelle initiative visant à renforcer les liens entre résidents, leurs proches et la société civile.",
@@ -23,11 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activin_au_jardin.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Un atelier d'activité physique adaptée destiné aux aînés pour la prévention des chutes.",
         "contexte": "La commune de Grand Autunois Morvan, située dans le département Saône-et-Loire, a identifié un défaut d'offre d'activités physiques adaptées pour les seniors. Le CIAS (Centre Intercommunal d'Action Sociale) a été choisi par le département pour la thématique de l'activité physique adaptée et prévention des chutes.",
@@ -21,9 +21,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention des chutes"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Grand_autunois_morvan_-_bien_dans_ses_baskets.txt",

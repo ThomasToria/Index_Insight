@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Organisation d'expositions artistiques pour seniors et résidents de l'EHPAD, favorisant le lien social et la créativité.",
         "contexte": "Les seniors expriment leur désir d'explorer des pratiques culturelles et participer activement à une démarche culturelle partagée.",
@@ -23,9 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Passe-passe_darts.txt",

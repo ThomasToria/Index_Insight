@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à renforcer la participation citoyenne et l’engagement des habitants de Grenoble, en particulier les personnes âgées, dans divers domaines municipaux.",
         "contexte": "La Ville de Grenoble a lancé une série d’actions visant à améliorer la démocratie locale et à renforcer le pouvoir d’agir des citoyens grenoblois. Ces actions incluent notamment l’organisation d’une journée d’échange entre habitants (la ruche) pour pré-sélectionner les projets à étudier, ainsi que la mise en place d’un débat pour présenter et sélectionner les projets.",
@@ -21,8 +21,9 @@
         "2017-03-13"
     ],
     "thematique": [
+        "autonomie et grand âge",
         "participation citoyenne",
-        "engagement des habitants"
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Grenoble_citoyens_et_habitants_a_tout_age.txt",

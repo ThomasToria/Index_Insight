@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Un guide des balades urbaines dans les parcs et jardins pour encourager la mobilité des seniors.",
         "contexte": "Face au constat d'un nombre grandissant de personnes âgées confrontées au risque de solitude et au repli à domicile, l'observatoire de l’âge a souhaité développer la mobilité des seniors dans un environnement propice à la promenade.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.txt",

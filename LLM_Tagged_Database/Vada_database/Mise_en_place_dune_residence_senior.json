@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "enquête",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "Ce projet est le fruit d’une réflexion menée depuis plusieurs années afin d’améliorer la prise en compte des seniors dans le village suite au constat du vieillissement constant de la population, et d’apporter une solution au besoin de logements adaptés pour des seniors éprouvant des difficultés à se maintenir dans des appartements anciens inadaptés.",
         "contexte": "Le projet est un résultat de plusieurs années de réflexion visant à améliorer la prise en compte des seniors dans le village, suite au vieillissement constant de la population. Le besoin de logements adaptés pour les seniors éprouvant des difficultés à se maintenir dans des appartements anciens inadaptés est particulièrement important.",
@@ -21,9 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_dune_residence_senior.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "La ville de Bourges a organisé une enquête auprès des seniors pour élaborer un guide du bien vieillir.",
         "contexte": "Les seniors de la commune ne connaissaient pas les services et dispositifs proposés par le CCAS, ce qui leur avait fait peur. Le maire a souhaité améliorer cette situation en impliquant les seniors dans l'élaboration du guide.",
@@ -23,9 +23,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_du_guide_du_bien_vieillir_a_bourges.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Action visant à améliorer la qualité de vie des aînés en leur permettant d'échanger sur leurs expériences dans le logement actuel, afin de faciliter l'identification des problèmes par la Ville et le CCAS.",
         "contexte": "La Ville de Grenoble souhaite renforcer les liens entre les résidents de son EHPAD, leurs proches et la société civile pour valoriser leur mémoire et leur place dans la vie locale.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_chez_soi.txt",

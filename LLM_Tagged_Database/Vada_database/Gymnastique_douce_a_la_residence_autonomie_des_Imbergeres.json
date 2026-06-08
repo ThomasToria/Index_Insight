@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative propose une gymnastique douce gratuite pour seniors en visio-conférence.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2023"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Gymnastique_douce_a_la_residence_autonomie_des_Imbergeres.txt",

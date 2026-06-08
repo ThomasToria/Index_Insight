@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "outil numérique",
     "description": {
         "description_generale": "La plateforme 'Allô écoute seniors' a été créée par la Ville de Toulouse en octobre 2016 pour favoriser le maintien du lien social des personnes âgées fragiles ou isolées.",
         "contexte": "Le besoin d'améliorer les services existants et renforcer l'accès aux ressources locales auprès des seniors estime grandement la Ville de Toulouse. Le projet a été initié en réponse à une demande de soutien aux seniors fragiles et isolés, qui ont besoin d'informations et d'aides pour maintenir leurs liens sociaux.",
@@ -22,8 +22,9 @@
         "2016-09-01"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plateforme_Allo_Ecoute_Seniors.txt",

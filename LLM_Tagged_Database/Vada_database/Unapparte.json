@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Démontrer l’articulation entre les aides techniques, numériques et humaines en faveur du soutien à domicile.",
         "contexte": "Un partenariat entre ACTIS (bailleur social), le TASDA (centre expert sur l'usage du numérique pour le soutien à domicile) et l'UNA (fédération des associations d'aide à domicile).",
@@ -23,13 +23,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "numérique"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Unapparte.txt",

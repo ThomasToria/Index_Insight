@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Une série de rencontres conviviales alliant théorie et pratique pour aider les seniors à préserver leur santé au quotidien.",
         "contexte": "Les seniors peuvent subir des déclinements naturels dans certains aspects de la santé, notamment en termes de mobilité et d'alimentation. Le projet vise à renforcer ces habitudes grâce à une série de rencontres conviviales.",
@@ -22,10 +22,9 @@
         "septembre 2023"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_gardez_la_peche.txt",

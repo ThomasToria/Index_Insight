@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Une épicerie solidaire à l'initiative des sages, créée en 2014 par le Conseil des Sages de Floirac.",
         "contexte": "Le projet a été initié pour favoriser la participation des aînés à la vie locale et lutter contre l’isolement relationnel. Les bénévoles du Conseil ont recruté des employés (service civique) pour gérer la caisse et la structure.",
@@ -23,12 +23,8 @@
         "2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_epicerie_solidaire_a_linitiative_des_sages.txt",

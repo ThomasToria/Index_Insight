@@ -5,7 +5,7 @@
         "départementale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette recherche s'inscrit dans le prolongement des travaux réalisés en France métropolitaine en 2010 sur les circonstances de la fin de vie.",
         "contexte": "Au cours des dernières décennies, plusieurs changements importants concernant la fin de vie sont intervenus. Cette étape, qui concerne de plus en plus souvent des personnes âgées, est désormais largement médicalisée et institutionnalisée; elle a fait l’objet de changements importants sur le plan législatif.",
@@ -22,13 +22,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\055_2017_fin_de_vie_dans_les_dom.txt",

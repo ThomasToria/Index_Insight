@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Un programme pour le rôle de grand-parents, organisé par la Ville de Colomiers.",
         "contexte": "La structure de la famille a évolué au cours des dernières décennies, entraînant souvent un besoin accru d'aide des grands-parents.",
@@ -24,12 +24,8 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
+        "santé et prévention",
+        "autonomie et grand âge",
         "intergénérationnel"
     ],
     "source_site": "VADA",

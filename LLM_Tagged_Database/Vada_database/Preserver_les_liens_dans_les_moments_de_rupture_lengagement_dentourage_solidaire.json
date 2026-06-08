@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "L'initiative vise à lutter contre l’isolement social et la perte d’autonomie liées aux ruptures comme le deuil, un déménagement, une hospitalisation, etc. Elle propose des actions telles que la mise en relation d'une personne âgée endeuillée avec un bénévole de son quartier et la création d'une communauté de quartier pour accueillir régulièrement les communautés.",
         "contexte": "Les personnes âgées se trouvent souvent isolées suite à des ruptures comme le deuil, un déménagement, une hospitalisation, etc. Ces moments peuvent entraîner une perte d'autonomie et un isolement social.",
@@ -21,8 +21,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Preserver_les_liens_dans_les_moments_de_rupture_lengagement_dentourage_solidaire.txt",

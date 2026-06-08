@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Le projet a été initié en 2012 pour répondre à la demande des adhérents de l'EHPAD Schoelcher, qui recherchent des activités sportives adaptées.",
         "contexte": "La ville de Schoelcher est connue pour son label 'Ville active et Sportive', ce qui a conduit les usagers âgés à se rapprocher du Centre Communal d'Action Social. Les adhérents ont exprimé la nécessité d'activités sportives, culturelles, cognitives et sensibles adaptées pour maintenir leur état de forme.",
@@ -23,10 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.txt",

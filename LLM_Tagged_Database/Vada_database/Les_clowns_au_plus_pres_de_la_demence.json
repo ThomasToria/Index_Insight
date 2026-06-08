@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Cette démarche artistique relationnelle, motivée par le souci du bien-être des résidents et établie en collaboration avec les équipes soignantes, invite à nourrir un changement de regard et à imaginer une prise en charge singulière des personnes âgées et de leurs familles.",
         "contexte": "Les clowns rendent visite aux résidents accueillis au sein des unités de vie protégée des résidences mutualistes Bellevue, Bernadette et de la Cité des Ainés à Saint-Étienne. Cette démarche artistique relationnelle est motivée par le souci du bien-être des résidents et établie en collaboration avec les équipes soignantes.",
@@ -22,10 +22,9 @@
         "depuis septembre 2022"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_clowns_au_plus_pres_de_la_demence.txt",

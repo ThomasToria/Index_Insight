@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Décentraliser l’information pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnements.",
         "contexte": "Le Havre (76) a mis en place un guichet intégré sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
@@ -24,13 +24,9 @@
         "octobre 2014"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "participation citoyenne",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_des_guichets_integres_MAIA.txt",

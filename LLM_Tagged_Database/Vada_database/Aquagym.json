@@ -8,7 +8,7 @@
         "départementale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Cette initiative vise à proposer une activité aquagym aux seniors de Quetigny, en particulier ceux ayant des problèmes de mobilité.",
         "contexte": "Les seniors de la commune souhaitent renforcer leur lien social et vivre ensemble. Ils ont également le souci de lutter contre la sédentarité.",
@@ -25,10 +25,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aquagym.txt",

@@ -1,0 +1,464 @@
+[
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\16_EXPERIMENTATION_AUPRES_DUN_PUBLIC_DE_FUTUR_RETR.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\16_EXPERIMENTATION_AUPRES_DUN_PUBLIC_DE_FUTUR_RETR.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\04_L_INTERGENERATIONNEL_BERCEAU_DU_LIEN_SOCIAL.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\02_Partenariat_VIV_A_LAB.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\02_Partenariat_VIV_A_LAB.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\06_CARSAT_RHONE-ALPES.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\06_CARSAT_RHONE-ALPES.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\10_Habitat_SILVER_HABITAT.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\10_Habitat_SILVER_HABITAT.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\09_CARSAT_HAUTS-DE-FRANCE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\09_CARSAT_HAUTS-DE-FRANCE.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\13_LE_SITE_INTERNET_ICOPE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\13_LE_SITE_INTERNET_ICOPE.txt",
+        "nature_initiative": "outil numérique",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\15_GYM_ENFORM_ET_FITNESS.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\15_GYM_ENFORM_ET_FITNESS.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
+        "nature_initiative": "rapport",
+        "thematique": [
+            "autonomie et grand âge",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\05_BIEN_CHEZ_SOI_DES_EQUIPEMENTS_POUR_SIMPLIFIER_S.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\11_LE_PROGRAMME_ACTIV_ET_VOUS.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\11_LE_PROGRAMME_ACTIV_ET_VOUS.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\03_CARSAT_HAUTS-DE-FRANCE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\03_CARSAT_HAUTS-DE-FRANCE.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\19_ATELIER_MNEMOTRICITE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\19_ATELIER_MNEMOTRICITE.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "lien social et isolement",
+            "habitat et logement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\17_PARTENARIAT_CENTRES_DE_MEDECINE_PREVENTIVE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\17_PARTENARIAT_CENTRES_DE_MEDECINE_PREVENTIVE.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\20_DE_CO-FINANCEMENT_A_VEC_LA_CFPPA_DE_MEURTHE-ET-.txt",
+        "nature_initiative": "événement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\14_CARSAT_SUD-EST.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\14_CARSAT_SUD-EST.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\21_ESCAPE_GAME_SOMMEIL.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\21_ESCAPE_GAME_SOMMEIL.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\23_CARSAT_PAYS_DE_LA_LOIRE_JE_CONTINUE_A_JARDINER.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\23_CARSAT_PAYS_DE_LA_LOIRE_JE_CONTINUE_A_JARDINER.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\26_DU_REPERAGE_DU_RISQUE_DE_CHUTE_A_UN_ATELIER_EQU.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\26_DU_REPERAGE_DU_RISQUE_DE_CHUTE_A_UN_ATELIER_EQU.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\27_CARSAT_BOURGOGNE-FRANCHE-COMTE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\27_CARSAT_BOURGOGNE-FRANCHE-COMTE.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\28_PARCOURS_PREVENTION_DES_CHUTES.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\28_PARCOURS_PREVENTION_DES_CHUTES.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\24_CARSAT_ALSACE-MOSELLE_MAMIES_GATEAUX.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",
+        "nature_initiative": "accompagnement",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\33_Aide_aux_aidants_TUTONOMIE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\33_Aide_aux_aidants_TUTONOMIE.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\34_ATELIER_BIENVENUE_A_LA_RETRAITE_ADAPTE_AU_PUBLI.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\34_ATELIER_BIENVENUE_A_LA_RETRAITE_ADAPTE_AU_PUBLI.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "autonomie et grand âge",
+            "culture et loisirs",
+            "services et accompagnement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.txt",
+        "nature_initiative": "enquête",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
+        "nature_initiative": "atelier",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\37_SEMAINE_NATIONALE_DE_LUTTE_CONTRE_LA_DENUTRITIO.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\38_EN_ACCOMPAGNANT_NOS_PARTENAIRES_DE_L_ACTION_SOC.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\38_EN_ACCOMPAGNANT_NOS_PARTENAIRES_DE_L_ACTION_SOC.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "culture et loisirs"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\40_SPECTACLE_VIVRE_SA_RETRAITE_A_VEC_HUMOUR.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\40_SPECTACLE_VIVRE_SA_RETRAITE_A_VEC_HUMOUR.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\41_SPECTACLE_PLUS_JAMAIS_SEULE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\41_SPECTACLE_PLUS_JAMAIS_SEULE.txt",
+        "nature_initiative": "formation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "culture et loisirs"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "handicap et aidants"
+        ],
+        "used_llm": false
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "habitat et logement"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\39_CINE-DEBAT_A_V_ANT_JETAIS_VIEUX.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\39_CINE-DEBAT_A_V_ANT_JETAIS_VIEUX.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "santé et prévention",
+            "autonomie et grand âge",
+            "lien social et isolement"
+        ],
+        "used_llm": true
+    },
+    {
+        "json": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\LLM_Tagged_Database\\Cnav_database\\30_Aller_vers_DIGITAL_SENIORS_28.json",
+        "txt": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\30_Aller_vers_DIGITAL_SENIORS_28.txt",
+        "nature_initiative": "sensibilisation",
+        "thematique": [
+            "autonomie et grand âge",
+            "lien social et isolement",
+            "intergénérationnel"
+        ],
+        "used_llm": true
+    }
+]

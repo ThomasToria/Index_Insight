@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Cette initiative vise à sensibiliser les professionnels de santé aux défis liés au risque de fragilité hospitalière des patients âgés, en particulier ceux de plus de 75 ans.",
         "contexte": "La population française est en effet en progression et la proportion de personnes âgées fragiles devrait croître. Cela pose un défi pour les professionnels de santé qui doivent repérer ces personnes dès leur arrivée dans l'hôpital afin de proposer des soins adaptés.",
@@ -22,9 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "intergénérationnel",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\050_2021_evaluation_du_cout_des_parcours_de_soins_selon_le_risque_de_fragilite_hospitaliere_des_patients_de_75_ans_et_plus.txt",

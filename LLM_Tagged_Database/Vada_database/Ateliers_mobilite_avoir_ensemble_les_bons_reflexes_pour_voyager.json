@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette action vise à sensibiliser les seniors fragilisés aux bons réflexes de mobilité pour des voyages.",
         "contexte": "Les seniors fragilisés ont besoin d’informations et de formations sur la mobilité pour se déplacer facilement et sécurément.",
@@ -21,10 +21,9 @@
         "depuis mars 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_mobilite_avoir_ensemble_les_bons_reflexes_pour_voyager.txt",

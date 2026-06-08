@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Une initiative visant à améliorer la qualité de vie des personnes âgées isolées en leur permettant d’engager activement dans le réseau social.",
         "contexte": "La Ville de Saint-Étienne a mis en place une politique gérontologique ambitieuse, notamment en matière de solidarité de proximité. Face à la problématique de l'isolement des personnes âgées, un projet d'équipe citoyenne a été conçu et développé.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_equipe_citoyenne_au_service_des_personnes_isolees.txt",

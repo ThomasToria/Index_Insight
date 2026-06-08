@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Guide destiné aux seniors de la commune concernant les services, informations et accès à l'information.",
         "contexte": "Difficultés d'accès à l'information pour le public senior, nécessité d'un guide centralisé et accessible en version papier et numérique.",
@@ -23,13 +23,9 @@
         "juin 2025"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_edition_et_diffusion_du_guide_senior_bien_vivre_dans_ma_ville.txt",

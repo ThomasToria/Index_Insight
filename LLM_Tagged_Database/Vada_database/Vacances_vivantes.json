@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à sensibiliser les personnes âgées isolées ou en perte de mobilité aux activités culturelles et loisirs proposées par l'association.",
         "contexte": "Les personnes âgées isolées et en perte de mobilité sont souvent exclues des activités sociales et culturelles. Ce projet vise à les rendre plus actives et connectées.",
@@ -23,9 +23,9 @@
         "2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_vivantes.txt",

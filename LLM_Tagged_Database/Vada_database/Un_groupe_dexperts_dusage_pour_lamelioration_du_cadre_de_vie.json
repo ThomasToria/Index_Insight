@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Un groupe d'experts citoyens a été créé pour évaluer l’installation de équipements urbains dans la ville de Besançon.",
         "contexte": "La Ville de Besançon a adhéré à la démarche Villes Amies des Aînés en 2012, et un groupe d'experts d'usage a été créé pour évaluer l’installation d'équipements urbains. Les membres du groupe ont inclus les aînés, les élus, les professionnels, les experts citoyens, les bénévoles de la Maison des Seniors, et les personnes volontaires recensées lors des réunions publiques.",
@@ -21,8 +21,9 @@
         "2012"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.txt",

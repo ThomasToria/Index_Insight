@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "L’IReSP a organisé un atelier pour les personnes âgées de 75 ans et plus vivant à domicile, qui rencontrent des difficultés dans la vie quotidienne.",
         "contexte": "",
@@ -18,8 +18,9 @@
         "2024"
     ],
     "thematique": [
-        "autonomie",
-        "grand âge et handicap"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\001_2024_accepter_et_resister_aux_aides_avoir_75_ans_et_plus_en_ville_et_a_la_campagne.txt",

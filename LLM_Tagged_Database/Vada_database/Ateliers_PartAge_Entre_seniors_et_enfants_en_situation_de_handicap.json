@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative vise à favoriser la rencontre et le lien social entre seniors et enfants en situation de handicap, en organisant des ateliers artistiques.",
         "contexte": "Les personnes âgées ont peur de commettre des maladresses face aux enfants lors d'ateliers intergénérationnels.",
@@ -23,10 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_PartAge_Entre_seniors_et_enfants_en_situation_de_handicap.txt",

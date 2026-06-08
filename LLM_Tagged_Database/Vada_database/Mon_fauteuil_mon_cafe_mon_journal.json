@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Depuis fin 2013, le CCAS de la Ville de Brive a mis en place le dispositif « Mon fauteuil, Mon café, Mon journal ». Cette action vise principalement à sortir les personnes âgées de leur isolement et d’isolement social. Chaque semaine, la Résidence autonomie « le Chapeau Rouge » ouvre une salle pour ses résidents, mais aussi pour les personnes extérieures, afin qu’elles puissent partager des moments de convivialité.",
         "contexte": "Le dispositif a été mis en place pour lutter contre l'isolement des personnes âgées et créer des liens avec l'extérieur. Les actions culturelles tels que les ciné-débats ou conférences ont rencontré un vif succès, ce qui s'est révélé être une réussite.",
@@ -22,8 +22,9 @@
         "depuis fin 2013"
     ],
     "thematique": [
-        "LIEN SOCIAL ET SOLIDARITÉ",
-        "CULTURE ET LOISIRS"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mon_fauteuil_mon_cafe_mon_journal.txt",

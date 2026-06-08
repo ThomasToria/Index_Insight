@@ -6,7 +6,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Une équipe mobile pour favoriser la bientraitance des personnes âgées accompagnées par le CCAS de Nice.",
         "contexte": "Le CCAS de Nice a lancé une initiative autour du débat théâtral 'Au risque des maux' en novembre 2023, qui a permis à 209 agents de se questionner sur les situations à risque et imaginer des pratiques professionnelles bientraitantes.",
@@ -23,13 +23,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_equipe_mobile_pour_favoriser_la_bientraitance.txt",

@@ -8,7 +8,7 @@
         "intercommunale"
     ],
     "public_vise": "public non connu",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Cette initiative vise à améliorer l'accès aux informations et aux services gratuits pour les personnes âgées et leurs aidants.",
         "contexte": "Les activités « grand public » classiques sont souvent trop chères, et les informations concernant les activités gratuites ne sont pas toujours facilement accessibles. Plusieurs personnes disent manquer d'informations quant aux aides disponibles pour les aînés en situation de perte d'autonomie / fragilité.",
@@ -25,12 +25,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "habitat et logement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_3_Informations_senior_Accueil.txt",

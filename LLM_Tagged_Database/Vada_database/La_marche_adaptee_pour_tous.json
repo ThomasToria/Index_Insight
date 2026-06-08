@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés",
-    "nature_initiative": "action intergénérationnelle",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "La ville de Saint-Sébastien-sur-Loire a organisé des marches adaptées pour les seniors, favorisant l'activité physique et la participation sociale.",
         "contexte": "Les seniors ont besoin d'une activité physique régulière pour maintenir leur santé et prévenir la perte d'autonomie. Les initiatives locales comme celle de Saint-Sébastien-sur-Loire visent à promouvoir les activités physiques adaptées aux seniors.",
@@ -22,10 +22,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "mobilité et transport",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_marche_adaptee_pour_tous.txt",

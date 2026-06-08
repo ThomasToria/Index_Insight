@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux. En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
         "contexte": "Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux. En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
@@ -21,7 +21,8 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
+        "autonomie et grand âge",
+        "lien social et isolement",
         "intergénérationnel"
     ],
     "source_site": "VADA",

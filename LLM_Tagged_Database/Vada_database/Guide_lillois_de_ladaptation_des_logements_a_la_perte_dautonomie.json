@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "enquête",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Guide local d'information visant à informer le grand public sur les différents types possibles de travaux d'adaptation du logement à la perte d'autonomie, les démarches à entreprendre et les subventions mobilisables.",
         "contexte": "La création du guide Lillois de l'adaptation du logement à la perte d'autonomie favorise une transition de vie liée à la perte d'autonomie, en sensibilisant et informant sur des solutions existantes. Les travaux d'adaptation du logement engagés suite à la lecture du guide permettent d'améliorer la qualité de vie et la sécurité des personnes âgées à leur domicile.",
@@ -22,13 +22,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "activité physique et sport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",

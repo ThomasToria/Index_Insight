@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "outil pratique",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Un outil pratique pour un habitat favorable au vieillissement, développé dans le cadre de la démarche 'Villes Amies des Aînés' par Rennes Métropole depuis 2017.",
         "contexte": "",
@@ -18,9 +18,9 @@
         "2017"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "habitat et logement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",

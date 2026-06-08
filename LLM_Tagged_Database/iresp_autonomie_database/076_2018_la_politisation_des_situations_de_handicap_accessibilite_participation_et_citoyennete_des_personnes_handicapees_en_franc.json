@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "projet de recherche complet",
+    "nature_initiative": "enquête",
     "description": {
         "description_generale": "Cette initiative vise à étudier la participation politique des personnes handicapées en France, en particulier dans le contexte de l'accessibilité et du citoyenneté.",
         "contexte": "La participation politique des personnes handicapées est une question qui s’impose de plus en plus fortement dans l’agenda politique, mais elle demeure un angle mort des travaux en sociologie du handicap comme en sociologie électorale (contrairement à d'autres pays, les États-Unis en particulier). L’une des dernières contributions à la question émane de la rapporteure spéciale de l’ONU sur le droit à la participation politique.",
@@ -22,13 +22,9 @@
         "2019-2022"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "IRESP",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\076_2018_la_politisation_des_situations_de_handicap_accessibilite_participation_et_citoyennete_des_personnes_handicapees_en_franc.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "projet d'aménagement",
     "description": {
         "description_generale": "Ce projet, qui a débuté le 1er janvier 2019 et concerne les Maxévillois de plus de 60 ans ou en situation de handicap, a été rendu possible grâce à une succession d’étapes clairement déterminées.",
         "contexte": "La problématique est liée aux relations entre générations et aux besoins sociaux des personnes âgées, notamment dans le domaine de l'aménagement spécial et des services. Les petites réparations nécessaires et souvent urgentes ne sont pas pris en charge par les professionnels spécialisés.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "handicap et aidants",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Petits_travaux_et_petits_services.txt",

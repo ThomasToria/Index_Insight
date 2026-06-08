@@ -5,7 +5,7 @@
         "nationale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "outil numérique",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Le service 'Trouver mon activité' permet aux retraités, à leurs aidants et aux professionnels de rechercher des activités de prévention ou de maintien du lien social à proximité de leur domicile.",
         "contexte": "La carte interactive est positionnée sur le portail interrégime pourbienvieillir.fr.",
@@ -18,8 +18,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\01_CARTE_INTERACTIVE_TROUVER_MON_ACTIVITE.txt",

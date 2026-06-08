@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "La Maison des Aînés et des Aidants a développé une initiative de bulles de répit pour les aidants, visant à soutenir les personnes âgées et leurs proches dans la gestion du stress et de l'isolement.",
         "contexte": "Face à l'épuisement et à l'isolement des aidants renforcés pendant la crise sanitaire (72% des aidants ont ressenti un épuisement physique et 75% un épuisement moral), la Maison des Aînés et des Aidants a souhaité développer un accompagnement des aidants.",
@@ -23,10 +23,9 @@
         "fin janvier 2025"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_bulles_de_repit_pour_les_aidants.txt",

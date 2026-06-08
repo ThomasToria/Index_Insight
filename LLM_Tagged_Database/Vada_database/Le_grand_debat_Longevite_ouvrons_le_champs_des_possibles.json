@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Le Grand Débat sur la longévité a été organisé dans le cadre de trois grands débats citoyens sur le territoire de la métropole nantaise, visant à renforcer la connaissance des problématiques et prévisions liées au vieillissement.",
         "contexte": "Le Grand Débat vise à nourrir les acteurs et citoyens du territoire pour une meilleure connaissance des problématiques et prévisions liées au vieillissement dans leurs projets et quotidien, dans une dynamique de « bien vivre ensemble ».",
@@ -21,8 +21,8 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "vieillissement"
+        "autonomie et grand âge",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_grand_debat_Longevite_ouvrons_le_champs_des_possibles.txt",

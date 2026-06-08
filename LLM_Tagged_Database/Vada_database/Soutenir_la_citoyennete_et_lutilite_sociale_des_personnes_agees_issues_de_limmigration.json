@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "L’association L’Olivier des Sages entend valoriser la diversité culturelle de ce quartier en prenant en compte ce public dans son projet à divers égards.",
         "contexte": "Les personnes âgées occupent une place prépondérante dans la vie d’un quartier. D’un point de vue démographique, elles en représentent une part relativement importante. L’isolement les touche plus particulièrement: beaucoup d’entre elles vivent seules.",
@@ -24,13 +24,9 @@
         "2019"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.txt",

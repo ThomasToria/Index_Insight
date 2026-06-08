@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "L'action se déroule sur une demi-journée. Un travail de construction des scènes a été fait en collaboration avec la troupe de théâtre du TOTEM, y compris 4 ou 5 scénettes permettant de sensibiliser le grand public sur les différentes formes d’isolement qui peuvent exister.",
         "contexte": "Action construite avec les partenaires institutionnels et les structures locales de proximité (Carsat Bretagne, Pour Bien Vieillir Bretagne, Malakoff Humanis, MSA, SC2S, Croix Rouge, Familles Rurales, Clic, Centre social, MFS, CCAS, CPTS, associations locales).",
@@ -20,10 +20,9 @@
         "03/10/2023"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "numérique",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "culture et loisirs"
     ],
     "source_site": "CNAV",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\41_SPECTACLE_PLUS_JAMAIS_SEULE.txt",

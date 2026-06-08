@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "consultation citoyenne",
     "description": {
         "description_generale": "Favoriser l’engagement bénévole chez les seniors. Permettre de développer le lien social entre les générations par des projets communs.",
         "contexte": "De nombreux retraités du Havre cherchent à se rendre utile bénévolement mais rencontrent des difficultés à se mettre en relation avec des structures qui ont de réels besoins.",
@@ -24,15 +24,9 @@
         "depuis 2014"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel",
-        "isolement",
-        "participation citoyenne"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mission_benevolat_senior.txt",

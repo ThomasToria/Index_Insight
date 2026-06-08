@@ -6,7 +6,7 @@
         "régionale"
     ],
     "public_vise": "professionnels",
-    "nature_initiative": "enquête",
+    "nature_initiative": "accompagnement",
     "description": {
         "description_generale": "Cette initiative vise à promouvoir la pratique d'activités physiques chez les seniors en aménageant un parc urbain avec du matériel innovant, balisant des parcours urbains rando-seniors et accompagnant l'appropriation de ces espaces par le biais de séances d'entraînement collectif.",
         "contexte": "La Ville Amie des Aînés depuis 2016 a mis en place un projet innovant visant à améliorer la santé physique et mentale des seniors, en encourageant leur participation aux activités physiques.",
@@ -22,9 +22,9 @@
         "depuis 2016"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bouger_cest_bon_pour_la_sante.txt",

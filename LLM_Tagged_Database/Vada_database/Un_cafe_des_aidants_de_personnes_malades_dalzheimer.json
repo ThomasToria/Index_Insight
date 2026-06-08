@@ -6,7 +6,7 @@
         "intercommunale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Le Réseau RESEDA est un réseau de santé qui re-groupe des professionnels impliqués dans la prise en charge des problématiques liées à la maladie d’Alzheimer et maladies apparentées. Le CCA S de Dijon est quant à lui très impliqué dans les actions de prévention et d’accueil des seniors et leur famille.",
         "contexte": "Actuellement, il existe sur Dijon différentes formules de soutien et de répit les unes sont destinées aux couples aidants/aidés, d'autres aux personnes malades uniquement, certaines aux aidants de structures (Marronniers) mais peu sont destinées aux aidants d'un proche atteint de maladie d'Alzheimer.",
@@ -23,9 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "prévention"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "handicap et aidants"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_cafe_des_aidants_de_personnes_malades_dalzheimer.txt",

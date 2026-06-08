@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La création d'un guide à l'attention des seniors pour faciliter leur information sur les sujets concernant la commune.",
         "contexte": "Les ainés de Saint-Palais-sur-Mer expriment une forte demande en matière d'information, notamment sur leurs besoins et activités.",
@@ -21,9 +21,9 @@
         "depuis 2021"
     ],
     "thematique": [
-        "santé",
-        "sortie",
-        "actions ou activités"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_guide_a_lattention_des_seniors_Le_GuidInfos_seniors.txt",

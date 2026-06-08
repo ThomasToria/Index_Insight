@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "événement",
     "description": {
         "description_generale": "Cette initiative vise à encourager la découverte ou la redécouverte des bibliothèques de la Ville de Dijon, participer à la démocratisation de la culture, rompre la solitude et l'isolement des personnes fragiles socialement en favorisant les rencontres, développer ou renforcer un sentiment d'appartenance à la vie citoyenne, soutenir la valorisation des compétences et des connaissances favorable à l'estime de soi, et permettre au public de porter un autre regard sur le service social dans le cadre d'actions collectives.",
         "contexte": "Une demande de part des habitants lors de l’audit urbain réalisé dans le cadre de la démarche Villes Amies des Aînés a conduit à proposer aux personnes intéressées, accompagnées par le Service des interventions sociales du CCAS, une action culturelle accessible et encadrée.",
@@ -25,13 +25,9 @@
         "depuis janvier 2018"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique",
-        "habitat",
-        "prévention",
-        "intergénérationnel"
+        "autonomie et grand âge",
+        "lien social et isolement",
+        "participation citoyenne"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cafe_-_Lectures_itinerant.txt",

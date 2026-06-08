@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Un projet de grande ampleur sur l’usage des nouvelles technologies par les seniors a vu le jour: le projet HOST (Smart technologies for selfservice to seniors in social housing).",
         "contexte": "Les personnes âgées, notamment les plus fragiles, sont confrontées à une « fracture numérique ».",
@@ -22,9 +22,9 @@
         "2011"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "autonomie et grand âge",
+        "numérique",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\HOST_rendre_les_nouvelles_technologies_accessibles_aux_seniors.txt",

@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "sensibilisation",
     "description": {
         "description_generale": "Cette journée était organisée par la ville tous les deux ans, sur la thématique des Jeux olympiques.",
         "contexte": "La Ville de Montigny-lès-Metz a organisé une quatrième édition de cette journée en 2025. Elle s'est tenue le 8 juillet 2024 à l'occasion des Jeux Olympiques de Paris, et a permis de sensibiliser les jeunes aux besoins du handicap.",
@@ -21,10 +21,9 @@
         "2024-07-08"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social",
-        "numérique"
+        "handicap et aidants",
+        "lien social et isolement",
+        "intergénérationnel"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_olympique_handi-intergenerationnelle.txt",

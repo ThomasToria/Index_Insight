@@ -6,7 +6,7 @@
         "départementale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "atelier",
     "description": {
         "description_generale": "Cette initiative vise à améliorer la mobilité des personnes âgées dans leur quartier communautaire, en proposant un service de transport solidaire adapté aux besoins spécifiques de déplacement.",
         "contexte": "Les seniors rencontrent des difficultés quotidiennes pour se rendre à leurs soins ou aux consultations médicales. Ils sont également confrontés à la désertification des services publics et les problématiques liées à l'isolement social.",
@@ -23,10 +23,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel",
-        "mobilité"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "Fiches actions",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.txt",

@@ -5,7 +5,7 @@
         "quartier"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Projet visant à promouvoir des appartements adaptés à prix modérés dans le cadre de la démolition et reconstruction de bâtiments vétustes, avec pour objectif de développer une politique du logement senior à l’échelle de la partie ouest du quartier Sous-Gare à Lausanne.",
         "contexte": "Le marché du logement offre peu d’alternatives pour les seniors qui souhaitent rester vivre et vieillir chez eux, notamment en termes de coût des loyers. Le parc immobilier est saturé sur l'arc lémanique avec un taux de vacance de 0.7%.",
@@ -21,8 +21,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social"
+        "autonomie et grand âge",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vieillir_chez_soi.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Un projet de transition du transport social à un transport solidaire a été mené dans une commune.",
         "contexte": "Le CCAS avait mis en place un service de transport pour les seniors, mais la volonté des bénévoles d'assurer ce service ponctuellement a conduit à son développement vers un mode plus solidaire.",
@@ -22,9 +22,9 @@
         "depuis 2019"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "participation citoyenne"
+        "santé et prévention",
+        "lien social et isolement",
+        "mobilité et transport"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_transport_social_vers_un_transport_solidaire.txt",

@@ -5,7 +5,7 @@
         "régionale"
     ],
     "public_vise": "autre",
-    "nature_initiative": "événement",
+    "nature_initiative": "dispositif",
     "description": {
         "description_generale": "Semaine Bleue, un événement organisé par la Fondation de France en faveur des personnes âgées.",
         "contexte": "",
@@ -18,6 +18,8 @@
         "2019"
     ],
     "thematique": [
+        "autonomie et grand âge",
+        "lien social et isolement",
         "intergénérationnel"
     ],
     "source_site": "Fondation de France",

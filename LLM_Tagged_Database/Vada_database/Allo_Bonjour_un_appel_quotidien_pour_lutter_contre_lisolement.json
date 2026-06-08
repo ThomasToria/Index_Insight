@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Un appel quotidien pour lutter contre l’isolement",
         "contexte": "La ville de Schoelcher a mis en place le dispositif 'Allo Bonjour' depuis janvier 2015, visant à maintenir les liens avec les personnes âgées isolées par un contact téléphonique quotidien.",
@@ -23,9 +23,9 @@
         "depuis 2015"
     ],
     "thematique": [
-        "santé",
-        "lien social",
-        "intergénérationnel"
+        "lien social et isolement",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Allo_Bonjour_un_appel_quotidien_pour_lutter_contre_lisolement.txt",

@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
+    "nature_initiative": "formation",
     "description": {
         "description_generale": "Table Ronde pour Promouvoir le Logement Intergénérationnel",
         "contexte": "C'est en partie pour cette raison qu'il est aujourd'hui nécessaire de trouver des solutions alternatives afin que ces générations puissent vivre ensemble du mieux possible.",
@@ -21,8 +21,9 @@
         "2014-10-13"
     ],
     "thematique": [
-        "habitat",
-        "intergénérationnel"
+        "intergénérationnel",
+        "habitat et logement",
+        "culture et loisirs"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Table_Ronde_pour_promouvoir_le_logement_intergenerationnel.txt",

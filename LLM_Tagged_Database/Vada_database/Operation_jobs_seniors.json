@@ -5,7 +5,7 @@
         "communale"
     ],
     "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
+    "nature_initiative": "rapport",
     "description": {
         "description_generale": "La Ville de Cholet organise un forum 'Jobs seniors' le jeudi 2 juin 2023 à la Salle des Fêtes pour mettre en relation les seniors de plus de 50 ans avec les entreprises qui recrutent.",
         "contexte": "Le but est d'aider les personnes âgées de plus de 50 ans à retrouver un emploi et de faciliter le contact entre les seniors et les entreprises.",
@@ -22,9 +22,9 @@
         "2023-06-02"
     ],
     "thematique": [
-        "santé",
-        "mobilité",
-        "lien social"
+        "santé et prévention",
+        "autonomie et grand âge",
+        "lien social et isolement"
     ],
     "source_site": "VADA",
     "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_jobs_seniors.txt",
