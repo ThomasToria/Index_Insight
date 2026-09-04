@@ -1,34 +1,46 @@
 {
-    "titre": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
-    "territoire": "Pays de Mormal (59)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
-        "contexte": "Le territoire de la Communauté de communes du Pays de Mormal est un village situé dans le département de l'Indre-et-Loire, en région Centre.",
-        "problematique": "Permettre aux aînés du territoire de bien vieillir. Favoriser leur expression participative tout au long du projet. Evaluer de manière permanente la politique menée. Mobiliser des partenaires autour de ces objectifs.",
-        "solution_envisagee": "Une enquête a été menée auprès des aînés et des aidants afin de cerner les manques et les besoins exprimés par les personnes âgées et leur entourage. Les résultats ont été présentés à une soixantaine de professionnels, qui ont fait part de leurs observations et préconisations.",
-        "objectifs": [
-            "Permettre aux aînés du territoire de bien vieillir",
-            "Favoriser leur expression participative tout au long du projet",
-            "Evaluer de manière permanente la politique menée"
-        ]
-    },
-    "porteur_initiative": "Communauté de communes du Pays de Mormal",
-    "date": [
-        "2016",
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",
-    "nom_fichier": "Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
+  "territoire": [
+    "pays de mormal (59)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
+    "contexte": "Le territoire de la Communauté de communes du Pays de Mormal est un village situé dans le département de l'Indre-et-Loire, en région Centre.",
+    "problematique": "Permettre aux aînés du territoire de bien vieillir. Favoriser leur expression participative tout au long du projet. Evaluer de manière permanente la politique menée. Mobiliser des partenaires autour de ces objectifs.",
+    "solution_envisagee": "Une enquête a été menée auprès des aînés et des aidants afin de cerner les manques et les besoins exprimés par les personnes âgées et leur entourage. Les résultats ont été présentés à une soixantaine de professionnels, qui ont fait part de leurs observations et préconisations.",
+    "objectifs": [
+      "Permettre aux aînés du territoire de bien vieillir",
+      "Favoriser leur expression participative tout au long du projet",
+      "Evaluer de manière permanente la politique menée"
+    ]
+  },
+  "porteur_initiative": "Communauté de communes du Pays de Mormal",
+  "date": [
+    "2016",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",
+  "nom_fichier": "Communaute_amie_des_aines_de_la_Communaute_de_communes_du_Pays_de_Mormal.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/536-pe-communaute-amie-des-aines-de-la-communaute-de-communes-du-pays-de-mormal-mise-en-forme-2023.pdf",
+  "original_title": "Communauté amie des aînés de la Communauté de communes du Pays de Mormal",
+  "collection_date": ""
 }

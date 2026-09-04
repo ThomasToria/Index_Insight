@@ -1,32 +1,42 @@
 {
-    "titre": "Droits devant elles",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Initier une dynamique intergénérationnelle en organisant des rencontres ludiques autour des avancées sociétales.",
-        "contexte": "La bibliothèque Jean Macé à Lyon a initié un atelier intergénérationnel autour de la vie des femmes nées entre 1925 et 1947, visant à engager une réflexion autour de l'avancée des droits des femmes et de l'évolution de la société.",
-        "problematique": "Engager une réflexion autour de l'avancée des droits des femmes et d'initier une dynamique intergénérationnelle en organisant des rencontres ludiques autour des avancées sociétales.",
-        "solution_envisagee": "Organiser un atelier intergénérationnel autour de la vie des femmes nées entre 1925 et 1947, impliquer les femmes âgées elles-mêmes pour une réflexion sur l'avancée des droits des femmes.",
-        "objectifs": [
-            "Engager une réflexion autour de l'avancée des droits des femmes",
-            "Initier une dynamique intergénérationnelle en organisant des rencontres ludiques autour des avancées sociétales"
-        ]
-    },
-    "porteur_initiative": "Bibliothèque Jean Macé à Lyon",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Droits_devant_elles.txt",
-    "nom_fichier": "Droits_devant_elles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Droits devant elles",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Initier une dynamique intergénérationnelle en organisant des rencontres ludiques autour des avancées sociétales.",
+    "contexte": "La bibliothèque Jean Macé à Lyon a initié un atelier intergénérationnel autour de la vie des femmes nées entre 1925 et 1947, visant à engager une réflexion autour de l'avancée des droits des femmes et de l'évolution de la société.",
+    "problematique": "Engager une réflexion autour de l'avancée des droits des femmes et d'initier une dynamique intergénérationnelle en organisant des rencontres ludiques autour des avancées sociétales.",
+    "solution_envisagee": "Organiser un atelier intergénérationnel autour de la vie des femmes nées entre 1925 et 1947, impliquer les femmes âgées elles-mêmes pour une réflexion sur l'avancée des droits des femmes.",
+    "objectifs": [
+      "Engager une réflexion autour de l'avancée des droits des femmes",
+      "Initier une dynamique intergénérationnelle en organisant des rencontres ludiques autour des avancées sociétales"
+    ]
+  },
+  "porteur_initiative": "Bibliothèque Jean Macé à Lyon",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Droits_devant_elles.txt",
+  "nom_fichier": "Droits_devant_elles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/344-pe-droit-devant-elles.pdf",
+  "original_title": "Droits devant elles",
+  "collection_date": ""
 }

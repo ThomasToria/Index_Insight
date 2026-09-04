@@ -1,34 +1,44 @@
 {
-    "titre": "Parcours prévention santé seniors de la mairie de Toulouse",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le programme prévention santé seniors de la mairie de Toulouse a été mis en place pour améliorer la qualité de vie des résidents âgés, notamment en renforçant les liens sociaux et en sensibilisant les habitants aux signes précurseurs de la dépendance.",
-        "contexte": "La ville de Toulouse a identifié plusieurs problèmes liés à l'isolement et au maintien de la santé des seniors, notamment dans le quartier concerné par le dispositif. Les objectifs du programme sont d'améliorer les conditions de vie des résidents âgés et de sensibiliser les habitants aux signes précurseurs de la dépendance.",
-        "problematique": "Le besoin de renforcer les liens sociaux entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Programme ICOPE (Inclusion Communautaire pour l'Optimisation des Possibilités d’Espace) qui offre des ateliers gratuits sur diverses thématiques de prévention santé, y compris la sophrologie, la mémoire, le suivi régulier et les activités municipales.",
-        "objectifs": [
-            "Améliorer la qualité de vie des résidents âgés",
-            "Sensibiliser les habitants aux signes précurseurs de la dépendance"
-        ]
-    },
-    "porteur_initiative": "Mairie de Toulouse",
-    "date": [
-        "2019",
-        "depuis 2013"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_prevention_sante_seniors_de_la_mairie_de_Toulouse.txt",
-    "nom_fichier": "Parcours_prevention_sante_seniors_de_la_mairie_de_Toulouse.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parcours prévention santé seniors de la mairie de Toulouse",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le programme prévention santé seniors de la mairie de Toulouse a été mis en place pour améliorer la qualité de vie des résidents âgés, notamment en renforçant les liens sociaux et en sensibilisant les habitants aux signes précurseurs de la dépendance.",
+    "contexte": "La ville de Toulouse a identifié plusieurs problèmes liés à l'isolement et au maintien de la santé des seniors, notamment dans le quartier concerné par le dispositif. Les objectifs du programme sont d'améliorer les conditions de vie des résidents âgés et de sensibiliser les habitants aux signes précurseurs de la dépendance.",
+    "problematique": "Le besoin de renforcer les liens sociaux entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Programme ICOPE (Inclusion Communautaire pour l'Optimisation des Possibilités d’Espace) qui offre des ateliers gratuits sur diverses thématiques de prévention santé, y compris la sophrologie, la mémoire, le suivi régulier et les activités municipales.",
+    "objectifs": [
+      "Améliorer la qualité de vie des résidents âgés",
+      "Sensibiliser les habitants aux signes précurseurs de la dépendance"
+    ]
+  },
+  "porteur_initiative": "Mairie de Toulouse",
+  "date": [
+    "2013",
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_prevention_sante_seniors_de_la_mairie_de_Toulouse.txt",
+  "nom_fichier": "Parcours_prevention_sante_seniors_de_la_mairie_de_Toulouse.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1108-concours-2024-parcours-prevention-sante-seniors-de-la-mairie-de-toulouse.pdf",
+  "original_title": "Parcours prévention santé seniors de la mairie de Toulouse",
+  "collection_date": ""
 }

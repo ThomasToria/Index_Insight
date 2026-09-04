@@ -1,32 +1,42 @@
 {
-    "titre": "Atelier intergénérationnel",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le projet est né de l'envie des enfants d’offrir du temps à des personnes âgées qui sont seules ou malades, et de partager avec eux des moments festifs et joyeux.",
-        "contexte": "",
-        "problematique": "Renforcement du lien social et solidarité entre les seniors et les jeunes générations pour lutter contre l'isolement.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Créer du lien intergénérationnel",
-            "Éviter l’isolement des personnes âgées"
-        ]
-    },
-    "porteur_initiative": "Conseil Municipal des Enfants de Villenouvelle",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_intergenerationnel.txt",
-    "nom_fichier": "Atelier_intergenerationnel.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier intergénérationnel",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le projet est né de l'envie des enfants d’offrir du temps à des personnes âgées qui sont seules ou malades, et de partager avec eux des moments festifs et joyeux.",
+    "contexte": "",
+    "problematique": "Renforcement du lien social et solidarité entre les seniors et les jeunes générations pour lutter contre l'isolement.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Créer du lien intergénérationnel",
+      "Éviter l’isolement des personnes âgées"
+    ]
+  },
+  "porteur_initiative": "Conseil Municipal des Enfants de Villenouvelle",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_intergenerationnel.txt",
+  "nom_fichier": "Atelier_intergenerationnel.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Atelier-intergenerationnel.pdf",
+  "original_title": "Atelier intergénérationnel",
+  "collection_date": ""
 }

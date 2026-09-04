@@ -1,33 +1,44 @@
 {
-    "titre": "Création d'un café associatif",
-    "territoire": "Ostricourt, 59",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Sur les trente dernières années, on constate une disparition nette des lieux de convivialité (cafés, bars -tabac…) et de services de proximité (boulangerie, marchand de journaux) à Ostricourt. Par ailleurs, les informations ou conseils que l'on obtenait facilement par le bouche-à-oreille paraissent de moins en moins accessibles (qu'elles concernent des activités ou des choses plus personnelles, comme les informations sur les décès). Des services dédiés existent mais malgré tout une grande partie de l'information passe par internet.",
-        "contexte": "Les personnes se sentant seules, qui apprécient rencontrer des connaissances au quotidien et qui n'utilisent pas (ou peu) les technologies de l'information et de la communication (ordinateurs, smartphones, navigation sur internet).",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Création d’un café associatif qui serait à la fois un lieu de convivialité et un lieu d’échanges d’informations (formelles – des affiches, des prospectus, des temps d'information – comme informelles – le bouche à oreille).",
-        "objectifs": [
-            "Renforcer l’attractivité du lieu par des services situés de façon permanente sur place ou à proximité (dépôt de pains; point presse…)",
-            "Soutenir l’autonomie des personnes dans leur vie quotidienne grâce à l'organisation d'événements solidaires ponctuels ou réguliers (du type, « repair café », permanences d’écrivains publics « numériques »)."
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "numérique",
-        "participation citoyenne"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction3_Ostricourt_VF.txt",
-    "nom_fichier": "FicheAction3_Ostricourt_VF.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Création d'un café associatif",
+  "territoire": [
+    "ostricourt, 59"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "lieu ou espace dédié",
+  "description": {
+    "description_generale": "Sur les trente dernières années, on constate une disparition nette des lieux de convivialité (cafés, bars -tabac…) et de services de proximité (boulangerie, marchand de journaux) à Ostricourt. Par ailleurs, les informations ou conseils que l'on obtenait facilement par le bouche-à-oreille paraissent de moins en moins accessibles (qu'elles concernent des activités ou des choses plus personnelles, comme les informations sur les décès). Des services dédiés existent mais malgré tout une grande partie de l'information passe par internet.",
+    "contexte": "Les personnes se sentant seules, qui apprécient rencontrer des connaissances au quotidien et qui n'utilisent pas (ou peu) les technologies de l'information et de la communication (ordinateurs, smartphones, navigation sur internet).",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Création d’un café associatif qui serait à la fois un lieu de convivialité et un lieu d’échanges d’informations (formelles – des affiches, des prospectus, des temps d'information – comme informelles – le bouche à oreille).",
+    "objectifs": [
+      "Renforcer l’attractivité du lieu par des services situés de façon permanente sur place ou à proximité (dépôt de pains; point presse…)",
+      "Soutenir l’autonomie des personnes dans leur vie quotidienne grâce à l'organisation d'événements solidaires ponctuels ou réguliers (du type, « repair café », permanences d’écrivains publics « numériques »)."
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "numérique",
+    "participation citoyenne"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction3_Ostricourt_VF.txt",
+  "nom_fichier": "FicheAction3_Ostricourt_VF.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "numérique et accès à l'information",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "lieu ou espace dédié",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FicheAction3_Ostricourt_VF.pdf",
+  "collection_date": ""
 }

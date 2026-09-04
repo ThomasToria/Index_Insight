@@ -1,32 +1,44 @@
 {
-    "titre": "Accueil desAîné(e)s, on en parle?",
-    "territoire": "Commune: Saint-Nazaire",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Atelier de sensibilisation sur l'âgisme pour les agents d'accueil de la ville de Saint-Nazaire.",
-        "contexte": "La ville de Saint-Nazaire a lancé une démarche 'Ville Amie des Aînés' depuis décembre 2019, visant à lutter contre l'âgisme et accompagner le changement de regard sur la population vieillissante.",
-        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des ateliers d'accompagnement intergénérationnel pour renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association 100ages et Faircoop",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accueil_desAinees_on_en_parle.txt",
-    "nom_fichier": "Accueil_desAinees_on_en_parle.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accueil desAîné(e)s, on en parle?",
+  "territoire": [
+    "saint-nazaire"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Atelier de sensibilisation sur l'âgisme pour les agents d'accueil de la ville de Saint-Nazaire.",
+    "contexte": "La ville de Saint-Nazaire a lancé une démarche 'Ville Amie des Aînés' depuis décembre 2019, visant à lutter contre l'âgisme et accompagner le changement de regard sur la population vieillissante.",
+    "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des ateliers d'accompagnement intergénérationnel pour renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association 100ages et Faircoop",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accueil_desAinees_on_en_parle.txt",
+  "nom_fichier": "Accueil_desAinees_on_en_parle.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Accueil-des-Ainees-on-en-parle.pdf",
+  "original_title": "Accueil desAîné(e)s, on en parle ?",
+  "collection_date": ""
 }

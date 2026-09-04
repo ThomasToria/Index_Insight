@@ -1,34 +1,46 @@
 {
-    "titre": "Mieux vivre au quotidien: mon lieu est-il adapté à ma situation?",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un questionnaire a été mis en place pour recueillir l'avis des personnes âgées sur leur situation de vie.",
-        "contexte": "Le bailleur social Meurthe et Moselle, en collaboration avec le CCAS d’Essey-les-Nancy, a lancé un questionnaire visant à mieux répondre aux besoins des locataires âgés.",
-        "problematique": "Les personnes âgées ont besoin de logements adaptés pour leur situation de vie et d'un environnement sécurisé.",
-        "solution_envisagee": "Un questionnaire a été mis en place pour recueillir l'avis des personnes âgées sur leurs besoins en matière de logement et d'environnement.",
-        "objectifs": [
-            "Identifier les besoins spécifiques des locataires âgés",
-            "Améliorer la qualité du service aux locataires âgés",
-            "Promouvoir l'engagement citoyen dans le maintien de la cohésion sociale"
-        ]
-    },
-    "porteur_initiative": "Bailleur social Meurthe et Moselle, CCAS d’Essey-les-Nancy",
-    "date": [
-        "2014",
-        "fin janvier 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mieux_vivre_au_quotidien_mon_lieu_est-il_adapte_a_ma_situation.txt",
-    "nom_fichier": "Mieux_vivre_au_quotidien_mon_lieu_est-il_adapte_a_ma_situation.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mieux vivre au quotidien: mon lieu est-il adapté à ma situation?",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un questionnaire a été mis en place pour recueillir l'avis des personnes âgées sur leur situation de vie.",
+    "contexte": "Le bailleur social Meurthe et Moselle, en collaboration avec le CCAS d’Essey-les-Nancy, a lancé un questionnaire visant à mieux répondre aux besoins des locataires âgés.",
+    "problematique": "Les personnes âgées ont besoin de logements adaptés pour leur situation de vie et d'un environnement sécurisé.",
+    "solution_envisagee": "Un questionnaire a été mis en place pour recueillir l'avis des personnes âgées sur leurs besoins en matière de logement et d'environnement.",
+    "objectifs": [
+      "Identifier les besoins spécifiques des locataires âgés",
+      "Améliorer la qualité du service aux locataires âgés",
+      "Promouvoir l'engagement citoyen dans le maintien de la cohésion sociale"
+    ]
+  },
+  "porteur_initiative": "Bailleur social Meurthe et Moselle, CCAS d’Essey-les-Nancy",
+  "date": [
+    "2014",
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mieux_vivre_au_quotidien_mon_lieu_est-il_adapte_a_ma_situation.txt",
+  "nom_fichier": "Mieux_vivre_au_quotidien_mon_lieu_est-il_adapte_a_ma_situation.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/178-178-mieux-vivre-au-quotidien-essey.pdf",
+  "original_title": "Mieux vivre au quotidien : mon lieu est-il adapté à ma situation ?",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Forum des seniors",
-    "territoire": "Commune: Bailleul, 59",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un événement à destination des seniors pour leur donner des informations ciblées sur les aides en termes de prévention, activités pour le maintien de la vie sociale, le bien-être, la retraite.",
-        "contexte": "Le CCAS de Bailleul a souhaité créer un forum pour informer les seniors et favoriser leur vieillissement actif. Cette initiative est une réponse à des demandes exprimées par les seniors lors d'une enquête participative en 2022, ainsi que dans le contexte général concernant la communication sur l'information.",
-        "problematique": "Informer les aînés pour qu'ils aient une meilleure connaissance des offres sur le territoire; Favoriser le vieillissement actif, au travers d'ateliers, stands et conférences sur les thématiques de la promotion de la santé, de la prévention, de la vie sociale et de l'aide pour préparer le départ en retraite.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Informer les aînés",
-            "Favoriser le vieillissement actif"
-        ]
-    },
-    "porteur_initiative": "CCAS de Bailleul",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_des_seniors.txt",
-    "nom_fichier": "Forum_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Forum des seniors",
+  "territoire": [
+    "bailleul, 59"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un événement à destination des seniors pour leur donner des informations ciblées sur les aides en termes de prévention, activités pour le maintien de la vie sociale, le bien-être, la retraite.",
+    "contexte": "Le CCAS de Bailleul a souhaité créer un forum pour informer les seniors et favoriser leur vieillissement actif. Cette initiative est une réponse à des demandes exprimées par les seniors lors d'une enquête participative en 2022, ainsi que dans le contexte général concernant la communication sur l'information.",
+    "problematique": "Informer les aînés pour qu'ils aient une meilleure connaissance des offres sur le territoire; Favoriser le vieillissement actif, au travers d'ateliers, stands et conférences sur les thématiques de la promotion de la santé, de la prévention, de la vie sociale et de l'aide pour préparer le départ en retraite.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Informer les aînés",
+      "Favoriser le vieillissement actif"
+    ]
+  },
+  "porteur_initiative": "CCAS de Bailleul",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_des_seniors.txt",
+  "nom_fichier": "Forum_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/Concours-2024-FORUM-DES-SENIORS.pdf",
+  "original_title": "Forum des seniors",
+  "collection_date": ""
 }

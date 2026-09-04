@@ -1,33 +1,44 @@
 {
-    "titre": "Des logements de jeunes en résidences autonomie",
-    "territoire": "Commune: Port-Jérôme-sur-Seine, 76",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce projet est né d’un croisement entre la loi « Adaptation de la Société au Vieillissement » et ses décrets d’application, permettant l’accueil d’étudiants et de jeunes travailleurs au sein des résidences autonomie.",
-        "contexte": "Le CCAS de Port-Jérôme-sur-Seine souhaitait organiser une formation pour des jeunes en situation d’insertion professionnelle. Des logements à destination de jeunes ont été mis en place dans la limite maximale de 15% de la capacité d’accueil globale de la résidence.",
-        "problematique": "Renforcer les liens intergénérationnels et proposer des solutions de logements temporaires pour des jeunes en situation d’insertion professionnelle.",
-        "solution_envisagee": "Proposer des échanges entre générations organisés ou spontanés, palier à la vacance d’utilisation des logements de type T1 en résidence autonomie.",
-        "objectifs": [
-            "Renforcer les liens intergénérationnels",
-            "Proposer des solutions de logements temporaires pour des jeunes en situation d’insertion professionnelle"
-        ]
-    },
-    "porteur_initiative": "CCAS de Port-Jérôme-sur-Seine",
-    "date": [
-        "2018",
-        "juillet"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_logements_de_jeunes_en_residences_autonomie.txt",
-    "nom_fichier": "Des_logements_de_jeunes_en_residences_autonomie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des logements de jeunes en résidences autonomie",
+  "territoire": [
+    "port-jérôme-sur-seine, 76"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce projet est né d’un croisement entre la loi « Adaptation de la Société au Vieillissement » et ses décrets d’application, permettant l’accueil d’étudiants et de jeunes travailleurs au sein des résidences autonomie.",
+    "contexte": "Le CCAS de Port-Jérôme-sur-Seine souhaitait organiser une formation pour des jeunes en situation d’insertion professionnelle. Des logements à destination de jeunes ont été mis en place dans la limite maximale de 15% de la capacité d’accueil globale de la résidence.",
+    "problematique": "Renforcer les liens intergénérationnels et proposer des solutions de logements temporaires pour des jeunes en situation d’insertion professionnelle.",
+    "solution_envisagee": "Proposer des échanges entre générations organisés ou spontanés, palier à la vacance d’utilisation des logements de type T1 en résidence autonomie.",
+    "objectifs": [
+      "Renforcer les liens intergénérationnels",
+      "Proposer des solutions de logements temporaires pour des jeunes en situation d’insertion professionnelle"
+    ]
+  },
+  "porteur_initiative": "CCAS de Port-Jérôme-sur-Seine",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_logements_de_jeunes_en_residences_autonomie.txt",
+  "nom_fichier": "Des_logements_de_jeunes_en_residences_autonomie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/658-pe-525-logements-jeunes-residences-autonomie-pj2s.pdf",
+  "original_title": "Des logements de jeunes en résidences autonomie",
+  "collection_date": ""
 }

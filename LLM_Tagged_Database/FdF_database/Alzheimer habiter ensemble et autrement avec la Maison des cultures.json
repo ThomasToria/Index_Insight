@@ -1,29 +1,39 @@
 {
-    "titre": "Habiter ensemble et autrement avec la Maison des cultures",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "La Maison des Cultures, située à Thomery en Seine-et-Marne, est une initiative innovante qui réunit sous le même toit des personnes en situation de handicap moteur ou présentant des troubles cognitifs, des personnes âgées dépendantes et d'autres autonomes. Cette maison inclusive a été soutenue par la Fondation de France depuis son ouverture en janvier 2021 et compte déjà dix habitants.",
-        "contexte": "",
-        "problematique": "Pour éviter l'isolement, la Maison des Cultures favorise les liens sociaux entre les colocataires, mais aussi pour changer le regard sur les personnes fragiles.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Alzheimer habiter ensemble et autrement avec la Maison des cultures.txt",
-    "nom_fichier": "Alzheimer habiter ensemble et autrement avec la Maison des cultures.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Habiter ensemble et autrement avec la Maison des cultures",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "La Maison des Cultures, située à Thomery en Seine-et-Marne, est une initiative innovante qui réunit sous le même toit des personnes en situation de handicap moteur ou présentant des troubles cognitifs, des personnes âgées dépendantes et d'autres autonomes. Cette maison inclusive a été soutenue par la Fondation de France depuis son ouverture en janvier 2021 et compte déjà dix habitants.",
+    "contexte": "",
+    "problematique": "Pour éviter l'isolement, la Maison des Cultures favorise les liens sociaux entre les colocataires, mais aussi pour changer le regard sur les personnes fragiles.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Alzheimer habiter ensemble et autrement avec la Maison des cultures.txt",
+  "nom_fichier": "Alzheimer habiter ensemble et autrement avec la Maison des cultures.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-le-mal-logement-un-fleau-silencieux/habiter-ensemble-et-autrement-avec-la-maison-des-cultures",
+  "original_title": "Alzheimer : habiter ensemble et autrement avec la Maison des cultures",
+  "collection_date": ""
 }

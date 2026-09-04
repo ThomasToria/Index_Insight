@@ -1,33 +1,43 @@
 {
-    "titre": "Configurations d’Aides et Situations d’Emploi pour les PRoches Aidants. Le cas des enfants atteints de maladies rares avec déficience intellectuelle",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte: Aujourd'hui, la reconnaissance institutionnelle du rôle des aidants favorise le développement et la consolidation d'une véritable politique de soutien aux proches aidants, notamment avec le déploiement du 1er plan national d'aide aux aidants en France, dont l’une des priorités est la conciliation entre vie professionnelle et vie familiale. Le cas spécifique concernant les enfants atteints de maladies rares avec déficience intellectuelle pose un problème unique dans ce contexte.",
-        "contexte": "Le cas spécifique concernant les enfants atteints de maladies rares avec déficience intellectuelle pose un problème unique dans ce contexte, où la conciliation entre vie professionnelle et vie familiale est particulièrement difficile. Les aidants face à cette situation doivent souvent jongler entre le travail et l'assistance aux enfants, ce qui peut entraîner une grande pression sur leur équilibre personnel.",
-        "problematique": "Le problème spécifique de la conciliation entre vie professionnelle et vie familiale pour les aidants face à des enfants atteints de maladies rares avec déficience intellectuelle est particulièrement complexe. Les aidants doivent jongler entre le travail, l'assistance aux enfants et la prise en charge médicale, ce qui peut entraîner une grande pression sur leur équilibre personnel.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les défis spécifiques rencontrés par les aidants face à des enfants atteints de maladies rares avec déficience intellectuelle",
-            "Évaluer la pertinence et l'efficacité d'une stratégie de conciliation entre vie professionnelle et vie familiale pour ces situations particulières",
-            "Proposer des solutions innovantes pour faciliter la conciliation entre vie professionnelle et vie familiale dans ce contexte spécifique"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\027_2020_configurations_d_aides_et_situations_d_emploi_pour_les_proches_aidants_le_cas_des_enfants_atteints_de_maladies_rares_ave.txt",
-    "nom_fichier": "027_2020_configurations_d_aides_et_situations_d_emploi_pour_les_proches_aidants_le_cas_des_enfants_atteints_de_maladies_rares_ave.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Configurations d’Aides et Situations d’Emploi pour les PRoches Aidants. Le cas des enfants atteints de maladies rares avec déficience intellectuelle",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte: Aujourd'hui, la reconnaissance institutionnelle du rôle des aidants favorise le développement et la consolidation d'une véritable politique de soutien aux proches aidants, notamment avec le déploiement du 1er plan national d'aide aux aidants en France, dont l’une des priorités est la conciliation entre vie professionnelle et vie familiale. Le cas spécifique concernant les enfants atteints de maladies rares avec déficience intellectuelle pose un problème unique dans ce contexte.",
+    "contexte": "Le cas spécifique concernant les enfants atteints de maladies rares avec déficience intellectuelle pose un problème unique dans ce contexte, où la conciliation entre vie professionnelle et vie familiale est particulièrement difficile. Les aidants face à cette situation doivent souvent jongler entre le travail et l'assistance aux enfants, ce qui peut entraîner une grande pression sur leur équilibre personnel.",
+    "problematique": "Le problème spécifique de la conciliation entre vie professionnelle et vie familiale pour les aidants face à des enfants atteints de maladies rares avec déficience intellectuelle est particulièrement complexe. Les aidants doivent jongler entre le travail, l'assistance aux enfants et la prise en charge médicale, ce qui peut entraîner une grande pression sur leur équilibre personnel.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les défis spécifiques rencontrés par les aidants face à des enfants atteints de maladies rares avec déficience intellectuelle",
+      "Évaluer la pertinence et l'efficacité d'une stratégie de conciliation entre vie professionnelle et vie familiale pour ces situations particulières",
+      "Proposer des solutions innovantes pour faciliter la conciliation entre vie professionnelle et vie familiale dans ce contexte spécifique"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\027_2020_configurations_d_aides_et_situations_d_emploi_pour_les_proches_aidants_le_cas_des_enfants_atteints_de_maladies_rares_ave.txt",
+  "nom_fichier": "027_2020_configurations_d_aides_et_situations_d_emploi_pour_les_proches_aidants_le_cas_des_enfants_atteints_de_maladies_rares_ave.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/configurations-daides-et-situations-demploi-pour-les-proches-aidants-le-cas-des-enfants-atteints-de-maladies-rares-avec-deficience-intellectuelle/",
+  "original_title": "Configurations d’Aides et Situations d’Emploi pour les PRoches Aidants. Le cas des enfants atteints de maladies rares avec déficience intellectuelle",
+  "collection_date": ""
 }

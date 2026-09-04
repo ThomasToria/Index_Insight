@@ -1,32 +1,44 @@
 {
-    "titre": "Démarche de design citoyen au Pays de Mormal (59)",
-    "territoire": "Pays de Mormal",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Support aux fiches-actions 1A et 1B – Vie sociale",
-        "contexte": "Les enjeux autour de la vie collective et des liens sociaux sur le territoire.",
-        "problematique": "On voudrait être mieux considérés par les autorités extérieures.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association locale",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\ToujoursCitoyen_support_Fiche1.txt",
-    "nom_fichier": "ToujoursCitoyen_support_Fiche1.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Démarche de design citoyen au Pays de Mormal (59)",
+  "territoire": [
+    "pays de mormal"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Support aux fiches-actions 1A et 1B – Vie sociale",
+    "contexte": "Les enjeux autour de la vie collective et des liens sociaux sur le territoire.",
+    "problematique": "On voudrait être mieux considérés par les autorités extérieures.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association locale",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\ToujoursCitoyen_support_Fiche1.txt",
+  "nom_fichier": "ToujoursCitoyen_support_Fiche1.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "ToujoursCitoyen_support_Fiche1.pdf",
+  "collection_date": ""
 }

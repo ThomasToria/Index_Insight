@@ -1,0 +1,332 @@
+% Revised blocks for the thesis (English).
+% Replace the corresponding sections in the main Overleaf file.
+
+% ===== ABSTRACT =====
+\begin{abstract}
+\addchaptertocentry{\abstractname}
+Population ageing requires territorial responses in housing, mobility, health,
+social participation, digital inclusion, and support for caregivers. Relevant
+initiatives are documented by public institutions, associations, and local
+authorities, but the resources are scattered across heterogeneous web pages,
+PDF documents, and action sheets. This thesis presents \textit{Index\_Insight},
+a reproducible pipeline that transforms this dispersed documentation into a
+structured corpus for exploratory analysis.
+
+The corpus contains 1,153 documents from six sources: CNAV, Fondation de
+France, HCFEA, IReSP Autonomie, the SIAGE action-sheet corpus, and the
+Francophone Age-Friendly Cities and Communities network (VADA). The pipeline
+combines source-specific collection, text normalisation, relevance scoring,
+structured extraction, and quality-control outputs. An initial rule-based
+pipeline was progressively complemented by local LLM-assisted extraction using
+Qwen2.5 through Ollama, with constrained JSON generation and controlled
+metadata values.
+
+The work delivers a documented corpus and analytical outputs describing themes,
+initiative types, stakeholders, territories, and temporal information. The
+evaluation distinguishes metadata completion from factual correctness: the
+former is measured automatically, whereas the latter requires human reference
+annotations. The thesis discusses the benefits and limitations of local
+LLM-assisted extraction for heterogeneous territorial data, and identifies the
+conditions required before the corpus can support a public search interface or
+decision-support use.
+\end{abstract}
+
+% Add at the end of "Objectives of the thesis".
+\paragraph{Research question.}
+This internship addresses the following research question: \emph{to what
+extent can a locally deployed language model transform heterogeneous textual
+descriptions of territorial initiatives related to population ageing into
+reliable, structured, and reusable metadata?} Three operational questions
+follow: (i) how can documents with different formats and editorial structures be
+collected and normalised in a traceable way; (ii) which metadata can be extracted
+under controlled vocabularies; and (iii) how should corpus quality be assessed
+without confusing field completion with factual correctness?
+
+% ===== REPLACE THE CORPUS/METHODOLOGY SECTIONS =====
+\section{Data collection and corpus construction}
+
+The corpus was constructed from documents describing concrete initiatives,
+programmes, research projects, or action sheets related to ageing, autonomy,
+social inclusion, housing, mobility, health, participation, or support for
+caregivers. The unit of analysis is one documentary record: one web page, PDF
+description, or action sheet stored as one text file. The collection process
+combined an internal corpus supplied by the SIAGE Chair and publicly accessible
+institutional or associative resources.
+
+For each external source, a dedicated collection script was used because page
+structures, navigation mechanisms, and available metadata differed. The scripts
+retrieve textual content and, where appropriate, downloadable PDF material.
+Only documents containing a substantial description of an initiative or project
+were retained. Navigation pages, duplicated pages, empty pages, and pages
+without a meaningful connection to territorial adaptation to ageing were
+excluded whenever they could be identified automatically or during inspection.
+
+Table~\ref{tab:final-corpus} reports the corpus actually processed in the
+project. It supersedes exploratory source lists: CNSA and Fondation Médéric
+Alzheimer were considered during source exploration but are not represented as
+separate final source directories in the delivered corpus.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lrp{7cm}}
+\toprule
+Source & Documents & Nature of the material \\
+\midrule
+CNAV & 42 & Institutional documents and prevention-related initiatives. \\
+Fondation de France & 43 & Associative or territorial initiative descriptions. \\
+Fiches actions SIAGE & 60 & Internal action sheets supplied by the host institution. \\
+HCFEA & 23 & Institutional reports and ageing-related public-action resources. \\
+IReSP Autonomie & 131 & Research-project descriptions in the field of autonomy. \\
+VADA & 854 & Descriptions of local age-friendly initiatives. \\
+\midrule
+Total & 1,153 & Heterogeneous textual corpus. \\
+\bottomrule
+\end{tabular}
+\caption{Final corpus used in the project.}
+\label{tab:final-corpus}
+\end{table}
+
+The corpus is not a statistically representative sample of all French ageing
+initiatives. VADA contributes 854 of the 1,153 records, or approximately
+74\%. This imbalance must be considered when interpreting aggregate statistics:
+frequent themes or initiative types may partly reflect the coverage of this
+source rather than the full French landscape. Raw, cleaned, intermediate, and
+structured files are retained separately to preserve provenance and enable
+inspection or reprocessing.
+
+\section{Cleaning, relevance scoring, and document preparation}
+
+The collected texts contain formatting artefacts arising from HTML extraction,
+PDF conversion, line breaks, duplicated headers, and inconsistent spacing.
+Cleaning operations normalise whitespace and line endings, remove obvious
+presentation noise, standardise file names, and preserve one document per file.
+The objective is not to erase linguistic content, but to create stable textual
+inputs for inspection and extraction.
+
+An exploratory relevance score based on weighted ageing-related keywords was
+also implemented. It gives priority to specific notions such as \textit{VADA},
+\textit{ageism}, or \textit{age-friendly city}, and lower weights to broader
+terms such as \textit{autonomy} or \textit{housing}. Scores are normalised by
+document length and help prioritise the inspection of unusual documents. This
+score is a quality-control tool, not a supervised classifier or a statistically
+validated measure of relevance.
+
+\section{Processing architecture and structured extraction}
+
+The project uses a modular Python architecture. Each major transformation has
+its own script and output directory, preserving intermediate artefacts and
+facilitating debugging. The initial pipeline cleaned documents, segmented text,
+detected sections, extracted candidate values, and assigned heuristic confidence
+scores. This approach was transparent but difficult to generalise across
+documents with very different structures. It was therefore retained as an
+experimental and quality-control baseline rather than treated as the sole final
+solution.
+
+The project then introduced constrained LLM-assisted extraction. The current
+implementation calls the local model \texttt{qwen2.5:1.5b} through the Ollama
+chat API. Local inference was selected to avoid external API dependence, retain
+control over the workflow, and keep iterative experimentation affordable. This
+model identifier should be harmonised throughout the manuscript if another model
+was ultimately used to generate the delivered database.
+
+For each document, the script supplies a structured prompt and requests only
+valid JSON. The current VADA extraction script uses temperature 0, a context
+window of 8,192 tokens, a maximum prediction length of 700 tokens, and an input
+truncation threshold of 2,500 characters. Truncation is a practical safeguard,
+but it can omit relevant information located late in a document. Raw model
+responses are retained to support later inspection.
+
+The expected JSON schema contains \texttt{titre}, \texttt{territoire},
+\texttt{echelle}, \texttt{public\_vise}, \texttt{nature\_initiative},
+\texttt{description\_generale}, \texttt{contexte}, \texttt{problematique},
+\texttt{solution\_envisagee}, \texttt{objectifs},
+\texttt{porteur\_initiative}, \texttt{date}, \texttt{thematique}, and
+\texttt{source\_site}. Empty strings or lists are required when a value cannot
+be supported by the document. Controlled vocabularies are imposed for target
+audience and territorial scale; concise, homogeneous labels are requested for
+themes and initiative types.
+
+\begin{center}
+Raw source $\rightarrow$ text extraction $\rightarrow$ cleaning and inspection
+$\rightarrow$ constrained prompt $\rightarrow$ local LLM $\rightarrow$
+validated JSON $\rightarrow$ descriptive statistics and manual review.
+\end{center}
+
+% ===== REPLACE THE IMPLEMENTATION CHAPTER =====
+\chapter{Implementation}
+
+\section{Development environment and reproducibility}
+
+The pipeline was developed in Python in an isolated virtual environment. Its
+dependencies cover HTTP collection, HTML parsing, PDF extraction, JSON and CSV
+processing, spreadsheet production, and plotting. LLM inference is provided
+locally by Ollama. Reproducibility requires recording the Python version,
+package versions, Ollama version, model identifier, execution date, prompt
+version, and inference parameters.
+
+The core workflow does not rely on an external commercial LLM API. However,
+reproducibility is not perfect across machines: a model update, changed source
+page, or modified prompt can alter outputs. Raw input text, generated JSON, and
+archived raw LLM answers are therefore essential provenance artefacts.
+
+\section{Main modules and outputs}
+
+Data-collection scripts retrieve relevant pages, extract titles and content,
+download or parse PDF material when necessary, and write one text file per
+resource. Cleaning and file-name utilities prepare the raw material. The
+rule-based pipeline contains stages for cleaning, segmentation, section
+detection, candidate extraction, scoring, JSON consolidation, and review-table
+generation. The LLM module builds a French prompt, submits it to Ollama, checks
+or repairs superficial JSON-formatting issues, and saves both structured and raw
+responses.
+
+The principal output is a collection of JSON records usable by downstream
+software. Complementary outputs include a consolidated JSON file, a CSV review
+table, Excel workbooks, and charts describing themes, initiative types,
+stakeholders, territories, temporal mentions, and comparisons between SIAGE
+action sheets and other documents. They are exploratory outputs, not estimates
+of the real-world frequency of initiatives in France.
+
+\section{Difficulties and implemented solutions}
+
+Structural heterogeneity was the main difficulty: a heading in one source can
+be a paragraph or be absent in another. The modular pipeline and separate raw
+and intermediate directories made this variability inspectable. Constrained LLM
+extraction reduced the need for a large number of source-specific rules, while
+controlled vocabularies limited output variation. Duplicated boilerplate,
+incomplete dates, ambiguous territorial references, and text-encoding artefacts
+remain issues requiring cleaning, harmonisation, and manual review.
+
+% ===== REPLACE THE EVALUATION CHAPTER =====
+\chapter{Evaluation}
+
+\section{Evaluation objectives}
+
+The evaluation has two distinct objectives. The first measures technical
+usability: records should be valid, fields should be populated, and provenance
+should be retained. The second measures factual extraction quality: a field must
+be correct and supported by the source text. These objectives must not be
+confused. A complete record can still contain an incorrect or overly inferred
+value.
+
+\section{Automatic coverage results}
+
+The rule-based consolidated database contains 1,153 records. Its review table
+measures field completion and an internal heuristic confidence score. The
+results in Table~\ref{tab:coverage-results} demonstrate high field population,
+but neither measure is a human-judged accuracy score nor a measure of LLM
+performance.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lrrr}
+\toprule
+Source & Records & Mean completion rate & Mean heuristic confidence \\
+\midrule
+CNAV & 42 & 0.99 & 0.58 \\
+Fiches actions SIAGE & 60 & 0.94 & 0.53 \\
+Fondation de France & 43 & 0.97 & 0.58 \\
+HCFEA & 23 & 0.97 & 0.54 \\
+IReSP Autonomie & 131 & 0.98 & 0.63 \\
+VADA & 854 & 1.00 & 0.60 \\
+\midrule
+Overall & 1,153 & 0.99 & 0.59 \\
+\bottomrule
+\end{tabular}
+\caption{Automatic coverage of the rule-based consolidated database.}
+\label{tab:coverage-results}
+\end{table}
+
+Completion covers title, territory, scale, target audience, stakeholder, date,
+theme, source, and five descriptive fields. The confidence figure derives from
+rule-based candidate scores. It is useful for prioritising manual review, not as
+a calibrated probability that the field is correct.
+
+\section{Human reference evaluation protocol}
+
+To evaluate LLM-assisted extraction rigorously, a manually annotated reference
+set should be created before final claims about accuracy are made. The sample
+should be stratified by source, including smaller sources, and annotators should
+receive a guideline defining each field, acceptable inference, and missing
+information. For categorical fields (\texttt{public\_vise}, \texttt{echelle},
+\texttt{nature\_initiative}, and \texttt{thematique}), report precision,
+recall, and macro F1. For free-text fields, ask human judges whether the output
+is supported by the text, useful, and free from unsupported information. Record
+JSON validity, empty-value correctness, and time per document. A second
+annotator on a subset would allow reporting agreement or Cohen's $\kappa$.
+
+\section{Results analysis and limitations}
+
+The automatic results show that the pipeline creates nearly complete structured
+records across all six sources, but the mean heuristic confidence remains
+moderate (0.53 to 0.63 by source). This confirms that coverage alone is
+insufficient: territory, stakeholder, context, problem statement, and solution
+may be populated while remaining ambiguous or weakly supported. The charts and
+spreadsheets are valuable corpus-exploration tools, but the predominance of VADA
+documents prevents interpreting them as estimates for the whole French context.
+
+The main limitation is the absence of a fully annotated gold standard. LLM
+outputs can also vary with prompt wording, model version, truncation, and source
+quality. The current results establish feasibility and coverage; human reference
+evaluation is still necessary to establish field-level accuracy.
+
+% ===== REPLACE DISCUSSION, CONCLUSION, AND APPENDIX CONTENT =====
+\chapter{Discussion}
+
+\section{Contributions of the internship}
+
+This internship delivers a documented corpus of 1,153 resources on territorial
+adaptation to ageing; a traceable architecture preserving raw, intermediate,
+and structured data; a constrained local LLM extraction workflow complementing
+a transparent rule-based baseline; and analytical outputs for exploratory
+comparison between initiatives, themes, stakeholders, and territorial scales.
+
+\section{Ethical, legal, and methodological considerations}
+
+The corpus consists of publicly accessible institutional and associative
+resources and is intended for documentary analysis. Collection must nevertheless
+respect source conditions of access, website terms, and requests not to overload
+servers. Provenance should be retained whenever a document is reused. The system
+should not make consequential decisions about individuals or territories. Human
+validation is necessary before model-extracted information is published as fact
+or used in policy analysis.
+
+\section{Limitations and future work}
+
+The corpus is unbalanced across sources and inherits their editorial choices.
+Text quality varies, and web or PDF extraction can preserve boilerplate,
+incomplete metadata, and encoding artefacts. Territorial references may describe
+a location, organisation, or project area; initiative holders may be confused
+with partners. Controlled vocabularies reduce variation but can hide meaningful
+distinctions. Future work should prioritise a human-annotated benchmark,
+taxonomy harmonisation, duplicate detection, explicit provenance fields,
+comparison of prompts or local models, and then faceted or hybrid semantic
+search with an interface designed with INSIGHT users.
+
+\chapter{Conclusion}
+
+This thesis presented \textit{Index\_Insight}, a pipeline for structuring
+heterogeneous French-language documentation on territorial responses to
+population ageing. Starting from 1,153 documents from six sources, the project
+combines collection, cleaning, exploratory relevance scoring, structured
+extraction, provenance preservation, and descriptive analysis. The transition
+from rule-based extraction to constrained local LLM extraction was motivated by
+the diversity of sources and the need for a scalable workflow under local
+control. The project demonstrates that a rich structured corpus can be created
+from dispersed documentary resources, while also showing that automatic
+completion must not be confused with factual accuracy. A human reference
+evaluation is the next essential step before the corpus supports robust research
+or public-facing retrieval tools.
+
+\appendix
+\chapter{Appendices}
+\section{Recommended appendix contents}
+\begin{itemize}
+\item Full version and date of each data-collection script.
+\item Final LLM prompt, model identifier, and inference parameters.
+\item JSON schema and controlled vocabularies.
+\item One raw source text, its generated JSON, and human review.
+\item Annotation guideline and sampling procedure for the reference set.
+\item Additional charts and source-level descriptive tables.
+\end{itemize}
+

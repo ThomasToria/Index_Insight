@@ -1,33 +1,45 @@
 {
-    "titre": "Les mardis des seniors",
-    "territoire": "Commune de Valenciennes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Proposer aux seniors de la ville de Valenciennes, d'aller partager le déjeuner avec les résidents de la Fondation Duvant située à Valenciennes (résidence service) et avec une classe de primaire.",
-        "contexte": "Les plus de 60 ans représentent sur la ville de Valenciennes plus de 22%. Le nombre de retraités bénéficiant de l’ASPA représente près de 5% des seniors. En dehors d’une fragilité financière, nombre d’entre eux souffrent d’isolement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de la Fondation Duvant, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer aux seniors une participation au déjeuner proratisée en fonction des ressources pour favoriser le lien social et développer l’intergénérationnel entre résidents de l’établissement, seniors du quartier et enfants scolaires.",
-        "objectifs": [
-            "Lutter contre l'isolement",
-            "Favoriser le lien social"
-        ]
-    },
-    "porteur_initiative": "Ville de Valenciennes",
-    "date": [
-        "2019",
-        "2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mardis_des_seniors.txt",
-    "nom_fichier": "Les_mardis_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les mardis des seniors",
+  "territoire": [
+    "valenciennes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Proposer aux seniors de la ville de Valenciennes, d'aller partager le déjeuner avec les résidents de la Fondation Duvant située à Valenciennes (résidence service) et avec une classe de primaire.",
+    "contexte": "Les plus de 60 ans représentent sur la ville de Valenciennes plus de 22%. Le nombre de retraités bénéficiant de l’ASPA représente près de 5% des seniors. En dehors d’une fragilité financière, nombre d’entre eux souffrent d’isolement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de la Fondation Duvant, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer aux seniors une participation au déjeuner proratisée en fonction des ressources pour favoriser le lien social et développer l’intergénérationnel entre résidents de l’établissement, seniors du quartier et enfants scolaires.",
+    "objectifs": [
+      "Lutter contre l'isolement",
+      "Favoriser le lien social"
+    ]
+  },
+  "porteur_initiative": "Ville de Valenciennes",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mardis_des_seniors.txt",
+  "nom_fichier": "Les_mardis_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Les-mardis-des-seniors.pdf",
+  "original_title": "Les mardis des seniors",
+  "collection_date": ""
 }

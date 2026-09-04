@@ -1,34 +1,46 @@
 {
-    "titre": "Elaboration du \"guide du bien vieillir à bourges\"",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La ville de Bourges a organisé une enquête auprès des seniors pour élaborer un guide du bien vieillir.",
-        "contexte": "Les seniors de la commune ne connaissaient pas les services et dispositifs proposés par le CCAS, ce qui leur avait fait peur. Le maire a souhaité améliorer cette situation en impliquant les seniors dans l'élaboration du guide.",
-        "problematique": "Les seniors de la commune ne connaissaient pas les services et dispositifs proposés par le CCAS, ce qui leur avait fait peur. Le maire a souhaité améliorer cette situation en impliquant les seniors dans l'élaboration du guide.",
-        "solution_envisagee": "Organiser une enquête auprès des seniors pour élaborer un guide du bien vieillir et mettre à jour les informations diffusées dans le guide senior édité en 2019. Impliquer les seniors dans la réalisation du guide, adapter le contenu au plus près de leurs attentes, et diffuser largement le guide aux seniors afin de mieux faire connaitre les services et activités.",
-        "objectifs": [
-            "Améliorer l'information des seniors sur les services et dispositifs proposés par le CCAS",
-            "Renforcer la confiance des seniors dans les services existants",
-            "Promouvoir une meilleure connaissance des services aux seniors de la commune"
-        ]
-    },
-    "porteur_initiative": "CCAS de Bourges, CLIC (Conseillère de l'Accueil Sénior)",
-    "date": [
-        "2019",
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_du_guide_du_bien_vieillir_a_bourges.txt",
-    "nom_fichier": "Elaboration_du_guide_du_bien_vieillir_a_bourges.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Elaboration du \"guide du bien vieillir à bourges\"",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La ville de Bourges a organisé une enquête auprès des seniors pour élaborer un guide du bien vieillir.",
+    "contexte": "Les seniors de la commune ne connaissaient pas les services et dispositifs proposés par le CCAS, ce qui leur avait fait peur. Le maire a souhaité améliorer cette situation en impliquant les seniors dans l'élaboration du guide.",
+    "problematique": "Les seniors de la commune ne connaissaient pas les services et dispositifs proposés par le CCAS, ce qui leur avait fait peur. Le maire a souhaité améliorer cette situation en impliquant les seniors dans l'élaboration du guide.",
+    "solution_envisagee": "Organiser une enquête auprès des seniors pour élaborer un guide du bien vieillir et mettre à jour les informations diffusées dans le guide senior édité en 2019. Impliquer les seniors dans la réalisation du guide, adapter le contenu au plus près de leurs attentes, et diffuser largement le guide aux seniors afin de mieux faire connaitre les services et activités.",
+    "objectifs": [
+      "Améliorer l'information des seniors sur les services et dispositifs proposés par le CCAS",
+      "Renforcer la confiance des seniors dans les services existants",
+      "Promouvoir une meilleure connaissance des services aux seniors de la commune"
+    ]
+  },
+  "porteur_initiative": "CCAS de Bourges, CLIC (Conseillère de l'Accueil Sénior)",
+  "date": [
+    "2019",
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_du_guide_du_bien_vieillir_a_bourges.txt",
+  "nom_fichier": "Elaboration_du_guide_du_bien_vieillir_a_bourges.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1017-concours-2023-elaboration-du-guide-du-bien-vieillir-a-bourges.pdf",
+  "original_title": "Elaboration du \"guide du bien vieillir à bourges\"",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Offre diversifiée d'habitats destinés aux aînés",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "offre de service",
-    "description": {
-        "description_generale": "La commune d’Orgères souhaite offrir une diversité d'habitats aux aînés en leur permettant d'accéder à un parcours résidentiel tout au long de la vie, adapté à l'autonomie et en proximité du centre et des services.",
-        "contexte": "La Résidence Orgéria, habitat groupé de douze logements, constitue le point de départ de ce projet. La commune a cédé l’ensemble des parcelles au bailleur «Aiguillon Construction» qui a édifié deux bâtiments dont douze logements attribués aux aînés.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de la Résidence Orgéria, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La commune a proposé d'une part de développer les actions d'animations dans la résidence et a fait le choix de proposer l’animation à ASSIA Réseau A. L’association a proposé un projet de vie pour l’animation de la résidence, jouant également un rôle de prévention (stimulation cognitive, prévention des chutes, conseils en équilibre alimentaire…).",
-        "objectifs": [
-            "renforcer les liens entre les résidents",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Commune d’Orgères",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Offre_diversifiee_dhabitats_destines_aux_aines.txt",
-    "nom_fichier": "Offre_diversifiee_dhabitats_destines_aux_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Offre diversifiée d'habitats destinés aux aînés",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "offre de service",
+  "description": {
+    "description_generale": "La commune d’Orgères souhaite offrir une diversité d'habitats aux aînés en leur permettant d'accéder à un parcours résidentiel tout au long de la vie, adapté à l'autonomie et en proximité du centre et des services.",
+    "contexte": "La Résidence Orgéria, habitat groupé de douze logements, constitue le point de départ de ce projet. La commune a cédé l’ensemble des parcelles au bailleur «Aiguillon Construction» qui a édifié deux bâtiments dont douze logements attribués aux aînés.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de la Résidence Orgéria, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La commune a proposé d'une part de développer les actions d'animations dans la résidence et a fait le choix de proposer l’animation à ASSIA Réseau A. L’association a proposé un projet de vie pour l’animation de la résidence, jouant également un rôle de prévention (stimulation cognitive, prévention des chutes, conseils en équilibre alimentaire…).",
+    "objectifs": [
+      "renforcer les liens entre les résidents",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Commune d’Orgères",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Offre_diversifiee_dhabitats_destines_aux_aines.txt",
+  "nom_fichier": "Offre_diversifiee_dhabitats_destines_aux_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "offre de service",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/704-pe-24-offre-diversifiee-d-habitats-destines-aux-aines-rennes-metropole.pdf",
+  "original_title": "Offre diversifiée d'habitats destinés aux aînés",
+  "collection_date": ""
 }

@@ -1,33 +1,45 @@
 {
-    "titre": "Carte Nancy Seniors",
-    "territoire": "Commune: Nancy (54)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La Carte Nancy Seniors a été créée à Nancy dans le cadre d'une démarche participative et transversale, dont l'objectif était de favoriser l'accès et la visibilité de l’offre sociale et culturelle du territoire nancéien.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Déployer des actions pour le maintien autonome et socialement actif des seniors à domicile",
-        "solution_envisagee": "Une carte permettant aux plus de 65 ans d'accéder gratuitement à diverses animations et activités, ainsi qu'aux offres exclusives.",
-        "objectifs": [
-            "Créer une visibilité accrue pour l’offre sociale et culturelle du territoire nancéien",
-            "Favoriser les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
-        ]
-    },
-    "porteur_initiative": "VillesAMIEs",
-    "date": [
-        "2019-08-01",
-        "2019-09"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_Nancy_Seniors.txt",
-    "nom_fichier": "Carte_Nancy_Seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Carte Nancy Seniors",
+  "territoire": [
+    "nancy (54)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La Carte Nancy Seniors a été créée à Nancy dans le cadre d'une démarche participative et transversale, dont l'objectif était de favoriser l'accès et la visibilité de l’offre sociale et culturelle du territoire nancéien.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Déployer des actions pour le maintien autonome et socialement actif des seniors à domicile",
+    "solution_envisagee": "Une carte permettant aux plus de 65 ans d'accéder gratuitement à diverses animations et activités, ainsi qu'aux offres exclusives.",
+    "objectifs": [
+      "Créer une visibilité accrue pour l’offre sociale et culturelle du territoire nancéien",
+      "Favoriser les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
+    ]
+  },
+  "porteur_initiative": "VillesAMIEs",
+  "date": [
+    "2019",
+    "2019-08-01"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Carte_Nancy_Seniors.txt",
+  "nom_fichier": "Carte_Nancy_Seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/558-558-421-carte-nancy-seniors.pdf",
+  "original_title": "Carte Nancy Seniors",
+  "collection_date": ""
 }

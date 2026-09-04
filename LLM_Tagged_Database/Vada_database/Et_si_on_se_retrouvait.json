@@ -1,37 +1,49 @@
 {
-    "titre": "Et si on se retrouvait",
-    "territoire": "Saint-Etienne, France",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Une initiative visant à lutter contre la solitude et à favoriser le lien social par des rencontres régulières entre seniors isolés dans leur quartier.",
-        "contexte": "Le Conseil Consultatif Seniors de Saint-Etienne a identifié l'isolement comme une problématique majeure concernant les seniors, notamment en raison de la perte de conjoint et du retrait. Les seniors ont souhaité dynamiser leur quartier en proposant des temps de rencontres pour faciliter la participation des seniors isolés.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des temps de rencontres réguliers pour faciliter la participation des seniors isolés au plus près de chez eux.",
-        "objectifs": [
-            "Lutter contre la solitude",
-            "Favoriser le lien social",
-            "Être au plus près de la population en étant dans les différents quartiers",
-            "Permettre aux seniors de partager des moments de convivialité, d'information et de connaître les structures existantes sur leur quartier",
-            "Intégrer différents âges de seniors dans le quartier",
-            "Proposer des activités qui mettent en avant les talents de chacun",
-            "Favoriser l'entraide et la solidarité entre la population de la commune"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille, Ville Amie des Aînés depuis 2016",
-    "date": [
-        "depuis 2014"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_se_retrouvait.txt",
-    "nom_fichier": "Et_si_on_se_retrouvait.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Et si on se retrouvait",
+  "territoire": [
+    "saint-etienne, france"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Une initiative visant à lutter contre la solitude et à favoriser le lien social par des rencontres régulières entre seniors isolés dans leur quartier.",
+    "contexte": "Le Conseil Consultatif Seniors de Saint-Etienne a identifié l'isolement comme une problématique majeure concernant les seniors, notamment en raison de la perte de conjoint et du retrait. Les seniors ont souhaité dynamiser leur quartier en proposant des temps de rencontres pour faciliter la participation des seniors isolés.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des temps de rencontres réguliers pour faciliter la participation des seniors isolés au plus près de chez eux.",
+    "objectifs": [
+      "Lutter contre la solitude",
+      "Favoriser le lien social",
+      "Être au plus près de la population en étant dans les différents quartiers",
+      "Permettre aux seniors de partager des moments de convivialité, d'information et de connaître les structures existantes sur leur quartier",
+      "Intégrer différents âges de seniors dans le quartier",
+      "Proposer des activités qui mettent en avant les talents de chacun",
+      "Favoriser l'entraide et la solidarité entre la population de la commune"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille, Ville Amie des Aînés depuis 2016",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Et_si_on_se_retrouvait.txt",
+  "nom_fichier": "Et_si_on_se_retrouvait.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-ET-SI-ON-SE-RETROUVAIT.pdf",
+  "original_title": "Et si on se retrouvait",
+  "collection_date": ""
 }

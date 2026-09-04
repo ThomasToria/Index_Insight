@@ -1,36 +1,45 @@
 {
-    "titre": "Une navette au service des seniors",
-    "territoire": [
-        "communale",
-        "intercommunale"
-    ],
-    "echelle": [
-        "quartier",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Une navette gratuite pour les seniors de Saint-Germain au Mont d’Or permettant aux personnes âgées de se rendre dans la petite ville voisine.",
-        "contexte": "La commune a mis en place une navette interne gratuite depuis plusieurs années, et cette action a été étendue à la petite ville voisine pour faciliter les déplacements des seniors.",
-        "problematique": "Les personnes âgées ayant des difficultés en termes de mobilité se trouvent dans le village mais ne peuvent pas accéder aux services locaux, notamment ceux de La Poste et du bureau municipal. Les habitants de la petite ville ont également besoin d’être accompagnés pour les déplacements.",
-        "solution_envisagee": "Organiser une navette gratuite pour les seniors qui rencontrent des difficultés en termes de mobilité, permettant ainsi aux personnes âgées de se rendre dans la petite ville voisine et bénéficier des services locaux.",
-        "objectifs": [
-            "Accompagner les aînés rencontrant des difficultés à se déplacer afin qu’ils puissent se rendre dans la ville voisine pour bénéficier des services/commerces qui n’existent pas dans le village",
-            "Organiser l’inscription au service de transport accompagné"
-        ]
-    },
-    "porteur_initiative": "Saint-Germain au Mont d’Or",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_navette_au_service_des_seniors.txt",
-    "nom_fichier": "Une_navette_au_service_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Une navette au service des seniors",
+  "territoire": [
+    "intercommunale"
+  ],
+  "echelle": [
+    "quartier",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Une navette gratuite pour les seniors de Saint-Germain au Mont d’Or permettant aux personnes âgées de se rendre dans la petite ville voisine.",
+    "contexte": "La commune a mis en place une navette interne gratuite depuis plusieurs années, et cette action a été étendue à la petite ville voisine pour faciliter les déplacements des seniors.",
+    "problematique": "Les personnes âgées ayant des difficultés en termes de mobilité se trouvent dans le village mais ne peuvent pas accéder aux services locaux, notamment ceux de La Poste et du bureau municipal. Les habitants de la petite ville ont également besoin d’être accompagnés pour les déplacements.",
+    "solution_envisagee": "Organiser une navette gratuite pour les seniors qui rencontrent des difficultés en termes de mobilité, permettant ainsi aux personnes âgées de se rendre dans la petite ville voisine et bénéficier des services locaux.",
+    "objectifs": [
+      "Accompagner les aînés rencontrant des difficultés à se déplacer afin qu’ils puissent se rendre dans la ville voisine pour bénéficier des services/commerces qui n’existent pas dans le village",
+      "Organiser l’inscription au service de transport accompagné"
+    ]
+  },
+  "porteur_initiative": "Saint-Germain au Mont d’Or",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_navette_au_service_des_seniors.txt",
+  "nom_fichier": "Une_navette_au_service_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/229-pe-une-navette-au-service-des-seniors.pdf",
+  "original_title": "Une navette au service des seniors",
+  "collection_date": ""
 }

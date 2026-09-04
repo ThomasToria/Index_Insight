@@ -1,32 +1,42 @@
 {
-    "titre": "Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Cette note propose une méthodologie nouvelle pour évaluer l'accessibilité financière des Ehpad, en combinant la quantité de places installées, le niveau de reste à charge et le niveau de ressource disponible.",
-        "contexte": "",
-        "problematique": "La politique d’Ehpad ne permet pas de déduire une inaccessibilité financière des établissements aux personnes âgées vulnérables. Les disparités territoriales et les contraintes de prix sont importantes, mais l'absence de données sur la quantité de places installées et le niveau de reste à charge limitent l'évaluation.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Évaluer l’accessibilité financière des Ehpad",
-            "Proposer une méthodologie nouvelle pour évaluer cette inaccessibilité"
-        ]
-    },
-    "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA",
-    "date": [
-        "2022-11-23"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.txt",
-    "nom_fichier": "Note sur les revenus, les dépenses contraintes, le.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Cette note propose une méthodologie nouvelle pour évaluer l'accessibilité financière des Ehpad, en combinant la quantité de places installées, le niveau de reste à charge et le niveau de ressource disponible.",
+    "contexte": "",
+    "problematique": "La politique d’Ehpad ne permet pas de déduire une inaccessibilité financière des établissements aux personnes âgées vulnérables. Les disparités territoriales et les contraintes de prix sont importantes, mais l'absence de données sur la quantité de places installées et le niveau de reste à charge limitent l'évaluation.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Évaluer l’accessibilité financière des Ehpad",
+      "Proposer une méthodologie nouvelle pour évaluer cette inaccessibilité"
+    ]
+  },
+  "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge - HCFEA",
+  "date": [
+    "2022-11-23"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes, le.txt",
+  "nom_fichier": "Note sur les revenus, les dépenses contraintes, le.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/note-sur-les-revenus-les-depenses-contraintes-le-patrimoine-des-seniors-et-laccessibilite-financiere-aux-ehpad-ra-rss",
+  "original_title": "Note sur les revenus, les dépenses contraintes, le patrimoine des seniors et l'accessibilité financière aux Ehpad, RA, RSS",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Conseil consultatif des seniors",
-    "territoire": "Commune: Saint-Chamond, Ain",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un conseil participatif pour penser la ville aujourd’hui en travaillant ensemble avec les habitants, les élus et les experts d’usage (personnes âgées) afin de construire des projets innovants.",
-        "contexte": "La commune de Saint-Chamond a choisi de s'entourer d'individus représentatifs pour créer une dynamique transversale et participative en construisant les projets avec les experts d’usage (personnes âgées).",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Mettre en place un Conseil Consultatif des Seniors à vocation consultative pour innover en travaillant ensemble avec les experts d’usage (personnes âgées) afin de construire des projets innovants et s'assurer que les actions seront au bénéfice des aînés.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Commune de Saint-Chamond",
-    "date": [
-        "depuis décembre 2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conseil_consultatif_des_seniors.txt",
-    "nom_fichier": "Conseil_consultatif_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Conseil consultatif des seniors",
+  "territoire": [
+    "saint-chamond, ain"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un conseil participatif pour penser la ville aujourd’hui en travaillant ensemble avec les habitants, les élus et les experts d’usage (personnes âgées) afin de construire des projets innovants.",
+    "contexte": "La commune de Saint-Chamond a choisi de s'entourer d'individus représentatifs pour créer une dynamique transversale et participative en construisant les projets avec les experts d’usage (personnes âgées).",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Mettre en place un Conseil Consultatif des Seniors à vocation consultative pour innover en travaillant ensemble avec les experts d’usage (personnes âgées) afin de construire des projets innovants et s'assurer que les actions seront au bénéfice des aînés.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Commune de Saint-Chamond",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conseil_consultatif_des_seniors.txt",
+  "nom_fichier": "Conseil_consultatif_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/655-pe-523-conseil-consultatif-des-seniors-saint-chamond-1.pdf",
+  "original_title": "Conseil consultatif des seniors",
+  "collection_date": ""
 }

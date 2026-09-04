@@ -1,0 +1,295 @@
+% ============================================================================
+% APPENDICES — INDEX_INSIGHT
+% ============================================================================
+% Insert this block at the end of the thesis, after the Conclusion.
+% Required packages in the preamble (if they are not already loaded):
+% \usepackage{booktabs}
+% \usepackage{longtable}
+% \usepackage{array}
+% ============================================================================
+
+\appendix
+
+\chapter{Corpus Sources and Metadata Schema}
+
+\section{Composition of the final corpus}
+
+Table~\ref{tab:appendix-corpus-sources} provides a compact description of the
+six source collections retained in the final corpus. The corpus combines
+documents supplied by the SIAGE Chair with materials collected from institutional,
+research, associative, and territorial websites. Each retained document is kept
+as an individual text record and remains linked to its source collection.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lrp{8cm}}
+\toprule
+Source & Records & Main type of material \\
+\midrule
+CNAV & 42 & Institutional documents and prevention-related initiatives. \\
+Fondation de France & 43 & Descriptions of associative and territorial initiatives. \\
+SIAGE action sheets & 60 & Internal action sheets supplied by the host institution. \\
+HCFEA & 23 & Institutional reports and public-action resources on ageing. \\
+IReSP Autonomie & 131 & Research-project descriptions in the field of autonomy. \\
+VADA & 854 & Descriptions of local age-friendly initiatives. \\
+\midrule
+Total & 1,153 & Heterogeneous French-language documentary corpus. \\
+\bottomrule
+\end{tabular}
+\caption{Final corpus used for the Index\_Insight pipeline.}
+\label{tab:appendix-corpus-sources}
+\end{table}
+
+The collection is designed for documentary exploration, not for statistical
+representation of all French initiatives related to ageing. In particular, VADA
+accounts for 854 records (approximately 74\%) and therefore influences the
+observed distributions of themes, initiative types, and actors.
+
+\section{Metadata schema}
+
+Table~\ref{tab:appendix-schema} documents the JSON schema supplied to the
+local language model. Empty strings or empty lists represent information that is
+not supported by the source text. The schema separates factual metadata from
+short textual summaries in order to preserve both filtering possibilities and
+documentary context.
+
+\begin{longtable}{p{3.3cm}p{2.5cm}p{8cm}}
+\caption{Metadata fields used in the LLM-assisted extraction.}
+\label{tab:appendix-schema}\\
+\toprule
+Field & Format & Purpose \\
+\midrule
+\endfirsthead
+\toprule
+Field & Format & Purpose \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\texttt{titre} & String & Title of the document or initiative. \\
+\texttt{territoire} & String & Place explicitly associated with the initiative. \\
+\texttt{echelle} & List & Territorial scale of the initiative. \\
+\texttt{public\_vise} & Controlled string & Main target audience. \\
+\texttt{nature\_initiative} & Short string & Main type of initiative. \\
+\texttt{description\_generale} & String & Concise description of the initiative. \\
+\texttt{contexte} & String & Contextual elements motivating the initiative. \\
+\texttt{problematique} & String & Problem, need, or issue addressed. \\
+\texttt{solution\_envisagee} & String & Proposed action or response. \\
+\texttt{objectifs} & String & Stated objectives. \\
+\texttt{porteur\_initiative} & String & Organisation responsible for, organising, or piloting the initiative. \\
+\texttt{date} & List & Explicit or clearly supported temporal expressions. \\
+\texttt{thematique} & List & Short thematic labels. \\
+\texttt{source\_site} & String & Name of the source collection, retained for provenance. \\
+\end{longtable}
+
+\section{Controlled vocabularies}
+
+The prompt constrains two fields to fixed vocabularies, thereby limiting
+spelling variation and facilitating evaluation. The target-audience labels are
+French because the source corpus and the extraction prompt are in French.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{p{3.6cm}p{10cm}}
+\toprule
+Field & Permitted values or constraints \\
+\midrule
+\texttt{public\_vise} & \textit{aînés}; \textit{aînés et autres}; \textit{professionnels}; \textit{autre}; \textit{public non connu}. \\
+\texttt{echelle} & One or more of: \textit{quartier}; \textit{communale}; \textit{intercommunale}; \textit{départementale}; \textit{régionale}; \textit{nationale}; \textit{internationale}. \\
+\texttt{date} & A list of explicit temporal expressions, preserved in their source form when possible (for example, \textit{2019}, \textit{depuis 2019}, or \textit{mars 2016}). \\
+\texttt{thematique} & A list of short, homogeneous labels. The prompt proposes examples such as \textit{santé}, \textit{mobilité}, \textit{lien social}, \textit{numérique}, \textit{habitat}, \textit{prévention}, \textit{intergénérationnel}, \textit{isolement}, and \textit{participation citoyenne}. \\
+\bottomrule
+\end{tabular}
+\caption{Controlled vocabularies and normalisation constraints.}
+\label{tab:appendix-vocabularies}
+\end{table}
+
+\chapter{LLM Extraction Configuration and Prompt Specification}
+
+\section{Inference configuration}
+
+The VADA subset was processed locally through the Ollama chat API with the
+\texttt{qwen2.5:1.5b} model. Table~\ref{tab:appendix-llm-configuration}
+records the configuration used by the extraction script. Local inference was
+chosen to maintain control over the data-processing workflow and to avoid
+sending source texts to an external commercial API.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{ll}
+\toprule
+Parameter & Value \\
+\midrule
+Model & \texttt{qwen2.5:1.5b} \\
+Inference service & Ollama local chat API \\
+Temperature & 0 \\
+Context window & 8,192 tokens \\
+Maximum generated tokens & 700 \\
+Input truncation threshold & 2,500 characters \\
+Output format & Strict JSON \\
+\bottomrule
+\end{tabular}
+\caption{Configuration of the local LLM extraction used for the VADA subset.}
+\label{tab:appendix-llm-configuration}
+\end{table}
+
+The zero temperature setting aims to make identical executions more stable.
+The 2,500-character input limit is an operational compromise and a recognised
+limitation: information occurring later in a long document may not be available
+to the model.
+
+\section{Prompt specification}
+
+The prompt was written in French to match the source language. Its central
+instructions are reproduced below. The complete executable version is preserved
+in the project script \texttt{Scripts/step9\_llm\_extract\_database.py}.
+
+\begin{quote}\small
+\textbf{Output constraint.} Return only strictly valid JSON, with no Markdown,
+commentary, or text outside the JSON object. Use exactly the following keys:
+\texttt{titre}, \texttt{territoire}, \texttt{echelle}, \texttt{public\_vise},
+\texttt{nature\_initiative}, \texttt{description\_generale},
+\texttt{contexte}, \texttt{problematique}, \texttt{solution\_envisagee},
+\texttt{objectifs}, \texttt{porteur\_initiative}, \texttt{date},
+\texttt{thematique}, and \texttt{source\_site}.
+
+\medskip
+\textbf{General rule.} Do not invent information. An inference is permitted
+only when it is strongly implicit in the source text. When a value is absent or
+cannot be inferred clearly, return an empty string or an empty list. Keep the
+source identifier unchanged.
+
+\medskip
+\textbf{Field constraints.} For \texttt{public\_vise}, return exactly one
+label from the controlled vocabulary in Table~\ref{tab:appendix-vocabularies}.
+For \texttt{echelle}, return a list containing only the permitted territorial
+scales. For \texttt{date}, identify all explicit temporal expressions and do
+not force approximate expressions into ISO format. For
+\texttt{porteur\_initiative}, identify the actor that carries, organises,
+launches, pilots, or implements the initiative; leave the field empty when no
+such actor is identifiable. For \texttt{thematique}, use short and homogeneous
+labels and avoid duplicates caused by capitalisation.
+\end{quote}
+
+The model is additionally instructed to identify the main initiative type when
+several descriptions are possible, and to formulate the field
+\texttt{problematique} as a need or issue rather than merely repeating an
+objective. Raw model answers are archived when available, which makes it
+possible to compare an unexpected record with both the prompt and the original
+response.
+
+\chapter{Reference Annotation Protocol}
+
+\section{Sampling design}
+
+The reference evaluation uses a reproducible stratified random sample of 60
+documents. Ten documents were drawn from each of the six source collections.
+This allocation was selected to expose possible source-specific weaknesses,
+including in the smaller collections; it is therefore not proportional to the
+composition of the full corpus.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lr}
+\toprule
+Source collection & Documents in reference sample \\
+\midrule
+CNAV & 10 \\
+Fondation de France & 10 \\
+SIAGE action sheets & 10 \\
+HCFEA & 10 \\
+IReSP Autonomie & 10 \\
+VADA & 10 \\
+\midrule
+Total & 60 \\
+\bottomrule
+\end{tabular}
+\caption{Stratified composition of the human reference sample.}
+\label{tab:appendix-evaluation-sample}
+\end{table}
+
+For every sampled document, the reviewer compared the LLM output with the
+cleaned source text. Seven fields were examined: \texttt{territoire},
+\texttt{echelle}, \texttt{public\_vise}, \texttt{nature\_initiative},
+\texttt{porteur\_initiative}, \texttt{date}, and \texttt{thematique}.
+
+\section{Reference values and judgement labels}
+
+For the controlled fields \texttt{public\_vise}, \texttt{echelle}, and
+\texttt{nature\_initiative}, the reviewer records a gold value even if the
+model prediction is wrong. For the other fields, the reviewer records a short
+reference value when it is possible to establish one from the source. A field
+that is absent from the source is recorded as \texttt{ABSENT}.
+
+\begin{longtable}{p{3cm}p{11cm}}
+\caption{Definitions of the human judgement labels.}
+\label{tab:appendix-judgement-labels}\\
+\toprule
+Label & Definition \\
+\midrule
+\endfirsthead
+\toprule
+Label & Definition \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\textit{correct} & The predicted value is exact and explicitly supported by the source text. \\
+\textit{partiel} & The value is broadly supported but incomplete, overly vague, or contains a debatable element. \\
+\textit{incorrect} & The value is wrong, unsupported, or invented. \\
+\textit{absence correcte} & The model returned no value and the source does not provide enough information to fill the field reliably. This is treated as an accepted prediction. \\
+\textit{non évaluable} & The source is too ambiguous, incomplete, or degraded for the reviewer to establish a reliable reference value. This case is reported separately and excluded from the accepted-rate denominator. \\
+\end{longtable}
+
+When a value is only strongly implicit, it is accepted as correct only if an
+independent reader could reasonably reach the same conclusion from the source
+text. In doubtful cases, the protocol favours the \textit{partiel} label and
+requires a short explanatory note.
+
+\section{Reported measures}
+
+The categorical fields are reported with micro precision, recall, micro F1,
+macro F1, and exact-match rate. For the four remaining fields, the evaluation
+reports the number of evaluable cases; the counts of accepted, partial,
+incorrect, and non-evaluable judgments; and the accepted rate calculated over
+evaluable documents only. Accepted predictions combine \textit{correct} and
+\textit{absence correcte} labels.
+
+\chapter{Reproducibility Materials}
+
+The project is organised so that collection, cleaning, extraction, evaluation,
+and analysis remain separable. Table~\ref{tab:appendix-materials} identifies
+the main files and directories required to reproduce or audit the work. Raw
+source documents and downloaded PDFs are not reproduced in this thesis because
+they originate from third-party websites; their provenance is retained in the
+corpus indexes and in the structured records.
+
+\begin{longtable}{p{4.5cm}p{9.5cm}}
+\caption{Main reproducibility materials in the project repository.}
+\label{tab:appendix-materials}\\
+\toprule
+Material & Role \\
+\midrule
+\endfirsthead
+\toprule
+Material & Role \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\texttt{Scripts/} & Source-specific collection scripts, preprocessing modules, relevance scoring, LLM extraction, evaluation sampling, scoring, and graph generation. \\
+\texttt{Database/} & Raw text records collected or supplied for the corpus. \\
+\texttt{Cleaned\_Database/} & Normalised text records used as input to subsequent processing. \\
+\texttt{LLM\_Tagged\_Database/} & JSON records generated by the local LLM, together with archived raw answers where available. \\
+\texttt{Evaluation/llm\_annotation\_template.xlsx} & Blank workbook used for the manual reference annotation. \\
+\texttt{Evaluation/annotation\_guide.md} & Detailed operational annotation instructions. \\
+\texttt{Scripts/create\_llm\_evaluation\_sample.py} & Reproducible stratified sampling procedure. \\
+\texttt{Scripts/score\_llm\_annotations.py} & Computation of the reported evaluation measures. \\
+\texttt{Evaluation/llm\_evaluation\_results.csv} & Machine-readable table from which the evaluation results were produced. \\
+\texttt{outputs\_graphs/} & Tables and visual outputs used for descriptive exploration. \\
+\end{longtable}
+
+The version of each script, the model identifier, the prompt specification, and
+the inference configuration should be archived with the corresponding corpus
+release. This information is necessary to distinguish changes caused by source
+updates, preprocessing changes, or model and prompt revisions.

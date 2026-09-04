@@ -1,32 +1,44 @@
 {
-    "titre": "Calendrier seniors: un nouvel outil d'information et de prévention à destination des seniors stéphanois",
-    "territoire": "Stéphane",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un calendrier affiché dans la cuisine, à côté du smartphone!",
-        "contexte": "Difficulté d'accès à l'information pour les seniors et leurs proches.",
-        "problematique": "Difficile d'accès à l'information pour les seniors et leur famille ou professionnels.",
-        "solution_envisagee": "Édition d'un calendrier de prévention et d'informations locales, affiché dans la cuisine avec un smartphone.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville de Stéphane",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Calendrier_seniors_un_nouvel_outil_dinformation_et_de_prevention_a_destination_des_seniors_stephanois.txt",
-    "nom_fichier": "Calendrier_seniors_un_nouvel_outil_dinformation_et_de_prevention_a_destination_des_seniors_stephanois.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Calendrier seniors: un nouvel outil d'information et de prévention à destination des seniors stéphanois",
+  "territoire": [
+    "stéphane"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un calendrier affiché dans la cuisine, à côté du smartphone!",
+    "contexte": "Difficulté d'accès à l'information pour les seniors et leurs proches.",
+    "problematique": "Difficile d'accès à l'information pour les seniors et leur famille ou professionnels.",
+    "solution_envisagee": "Édition d'un calendrier de prévention et d'informations locales, affiché dans la cuisine avec un smartphone.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville de Stéphane",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Calendrier_seniors_un_nouvel_outil_dinformation_et_de_prevention_a_destination_des_seniors_stephanois.txt",
+  "nom_fichier": "Calendrier_seniors_un_nouvel_outil_dinformation_et_de_prevention_a_destination_des_seniors_stephanois.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-Calendrier-senior-AOUT-2025s-1.pdf",
+  "original_title": "Calendrier seniors : un nouvel outil d'information et de prévention à destination des seniors stéphanois",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Réalisation du guide seniors 'Bien vieillir à Bollwiller'",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le but de ce guide est de proposer aux seniors et à leur famille, mais également aux aidants un outil qui apporte des informations utiles et des réponses concrètes et pratiques concernant une série de thématiques relatives aux problématiques auxquelles les publics concernés peuvent être confrontées dans leur vie quotidienne.",
-        "contexte": "Le besoin de réaliser le guide s'est exprimé dans le cadre de tables rondes organisées par la ville et d'une enquête menée conjointement avec l'agence d'urbanisme de la région moushyoise auprès de toutes les personnes âgées de plus de 60 ans.",
-        "problematique": "Le guide a été élaboré pour répondre aux problématiques des seniors, leurs aidants et leur famille concernant une série de thématiques liées à la vie quotidienne.",
-        "solution_envisagee": "Un outil qui apporte des informations utiles et concrètes sur les sujets abordés dans le guide.",
-        "objectifs": [
-            "renforcer les liens entre les seniors, leurs aidants et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La ville de Bollwiller",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.txt",
-    "nom_fichier": "Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Réalisation du guide seniors 'Bien vieillir à Bollwiller'",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le but de ce guide est de proposer aux seniors et à leur famille, mais également aux aidants un outil qui apporte des informations utiles et des réponses concrètes et pratiques concernant une série de thématiques relatives aux problématiques auxquelles les publics concernés peuvent être confrontées dans leur vie quotidienne.",
+    "contexte": "Le besoin de réaliser le guide s'est exprimé dans le cadre de tables rondes organisées par la ville et d'une enquête menée conjointement avec l'agence d'urbanisme de la région moushyoise auprès de toutes les personnes âgées de plus de 60 ans.",
+    "problematique": "Le guide a été élaboré pour répondre aux problématiques des seniors, leurs aidants et leur famille concernant une série de thématiques liées à la vie quotidienne.",
+    "solution_envisagee": "Un outil qui apporte des informations utiles et concrètes sur les sujets abordés dans le guide.",
+    "objectifs": [
+      "renforcer les liens entre les seniors, leurs aidants et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La ville de Bollwiller",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.txt",
+  "nom_fichier": "Realisation_du_guide_seniors_bien_vieillir_a_bollwiller.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1021-pe-realisation-du-guide-seniors-bien-vieillir-a-bollwiller-1.pdf",
+  "original_title": "Réalisation du guide seniors \" bien vieillir à bollwiller\"",
+  "collection_date": ""
 }

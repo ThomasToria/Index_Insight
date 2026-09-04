@@ -1,33 +1,45 @@
 {
-    "titre": "Espace intergénérationnel Albert Schweitzer",
-    "territoire": "Caudry (14 487 habitants)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Un espace pour le vivre ensemble, situé à Caudry dans le Nord.",
-        "contexte": "Les personnes âgées souhaitent rompre l'isolement, partager des moments de convivialité et redécouvrir les activités collectives.",
-        "problematique": "Trouver un espace pour accueillir les seniors et organiser des activités",
-        "solution_envisagee": "Un espace intergénérationnel avec des animateurs encadrant diverses activités sportives, de bien-être, ludiques, cognitives, etc.",
-        "objectifs": [
-            "Rompre l'isolement",
-            "Partager des moments de convivialité",
-            "Redécouvrir le plaisir des activités collectives"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Espace_intergenerationnel_Albert_Schweitzer.txt",
-    "nom_fichier": "Espace_intergenerationnel_Albert_Schweitzer.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Espace intergénérationnel Albert Schweitzer",
+  "territoire": [
+    "caudry (14 487 habitants)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Un espace pour le vivre ensemble, situé à Caudry dans le Nord.",
+    "contexte": "Les personnes âgées souhaitent rompre l'isolement, partager des moments de convivialité et redécouvrir les activités collectives.",
+    "problematique": "Trouver un espace pour accueillir les seniors et organiser des activités",
+    "solution_envisagee": "Un espace intergénérationnel avec des animateurs encadrant diverses activités sportives, de bien-être, ludiques, cognitives, etc.",
+    "objectifs": [
+      "Rompre l'isolement",
+      "Partager des moments de convivialité",
+      "Redécouvrir le plaisir des activités collectives"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Espace_intergenerationnel_Albert_Schweitzer.txt",
+  "nom_fichier": "Espace_intergenerationnel_Albert_Schweitzer.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/743-pe-espace-intergenerationnel-albert-schweitzer-caudry.pdf",
+  "original_title": "Espace intergénérationnel Albert Schweitzer",
+  "collection_date": ""
 }

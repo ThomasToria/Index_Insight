@@ -1,35 +1,47 @@
 {
-    "titre": "Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural",
-    "territoire": "Meaulne-Vitray, commune de Meaune-Vitray (03)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Concours pour la création d'un lotissement inclusif en milieu rural, visant à prévenir l'isolement et améliorer les conditions de vie des personnes âgées.",
-        "contexte": "Le village de Meaulne-Vitray compte 900 habitants et dispose d'une médecine proche de la retraite, un pharmacien et deux infirmières. Actuellement, le village a une équipe de soins primaires composée de deux médecins, d'un dentiste et d'un kinésithérapeute.",
-        "problematique": "Prévenir contre la perte d'autonomie et lutter contre l'isolement en milieu rural",
-        "solution_envisagee": "Création d'un lotissement inclusif pour les personnes âgées de Meaulne-Vitray, avec des équipements adaptés à leur situation.",
-        "objectifs": [
-            "Prévenir la perte d'autonomie et lutter contre l'isolement",
-            "Améliorer les conditions de vie des personnes âgées dans le village"
-        ]
-    },
-    "porteur_initiative": "Commune de Meaune-Vitray",
-    "date": [
-        "2015",
-        "2016",
-        "2017",
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",
-    "nom_fichier": "Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural",
+  "territoire": [
+    "meaulne-vitray, commune de meaune-vitray (03)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Concours pour la création d'un lotissement inclusif en milieu rural, visant à prévenir l'isolement et améliorer les conditions de vie des personnes âgées.",
+    "contexte": "Le village de Meaulne-Vitray compte 900 habitants et dispose d'une médecine proche de la retraite, un pharmacien et deux infirmières. Actuellement, le village a une équipe de soins primaires composée de deux médecins, d'un dentiste et d'un kinésithérapeute.",
+    "problematique": "Prévenir contre la perte d'autonomie et lutter contre l'isolement en milieu rural",
+    "solution_envisagee": "Création d'un lotissement inclusif pour les personnes âgées de Meaulne-Vitray, avec des équipements adaptés à leur situation.",
+    "objectifs": [
+      "Prévenir la perte d'autonomie et lutter contre l'isolement",
+      "Améliorer les conditions de vie des personnes âgées dans le village"
+    ]
+  },
+  "porteur_initiative": "Commune de Meaune-Vitray",
+  "date": [
+    "2015",
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",
+  "nom_fichier": "Projet_de_vie_sociale_et_partagee_par_la_realisation_dun_habitat_inclusif_en_milieu_rural.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/725-pe-593-210422projet-d-habitat-inclusif-meaulne.pdf",
+  "original_title": "Projet de vie sociale et partagée par la réalisation d'un habitat inclusif en milieu rural",
+  "collection_date": ""
 }

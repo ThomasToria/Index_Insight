@@ -1,36 +1,46 @@
 {
-    "titre": "Créer un outil de financement du maintien à domicile",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "projet d'aménagement",
-    "description": {
-        "description_generale": "Cette action vise à favoriser le maintiend à domicile, en offrant aux personnes âgées les moyens financiers nécessaires pour demeurer chez elles.",
-        "contexte": "La SCIC Les 3 Colonnes a été créée par Sébastien Tchernia suite à l’expérience personnelle de sa grand-mère atteinte d’Alzheimer, qui a constaté la solitude et la dépendance de celle-ci. Cette situation a conduit à la création du projet pour aider les seniors à demeurer chez eux.",
-        "problematique": "La SCIC Les 3 Colonnes est née en réponse à l’expérience personnelle de Sébastien Tchernia, qui a constaté la solitude et la dépendance de sa grand-mère atteinte d’Alzheimer. Cette situation a conduit à la création du projet pour aider les seniors à demeurer chez eux.",
-        "solution_envisagee": "La SCIC Les 3 Colonnes propose un outil innovant appelé « viager solidaire » qui permet aux personnes âgées de vendre leur logement en viager et rester chez elles tout en bénéficiant d’aides à domicile.",
-        "objectifs": [
-            "Favoriser le diagnostic précoce de la fragilité",
-            "Diagnostiquer l’habitat pour permettre l’aménagement et limiter les risques liés à la dépendance",
-            "Soulager les aidants aînés de faciliter le maintien à domicile",
-            "Mettre en relation les seniors avec des services d’aide à domicile",
-            "Créer ou maintenir le lien social",
-            "Rompre l’isolement et la solitude"
-        ]
-    },
-    "porteur_initiative": "SCIC Les 3 Colonnes",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creer_un_outil_de_financement_du_maintien_a_domicile_22.txt",
-    "nom_fichier": "Creer_un_outil_de_financement_du_maintien_a_domicile_22.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Créer un outil de financement du maintien à domicile",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "projet d'aménagement",
+  "description": {
+    "description_generale": "Cette action vise à favoriser le maintiend à domicile, en offrant aux personnes âgées les moyens financiers nécessaires pour demeurer chez elles.",
+    "contexte": "La SCIC Les 3 Colonnes a été créée par Sébastien Tchernia suite à l’expérience personnelle de sa grand-mère atteinte d’Alzheimer, qui a constaté la solitude et la dépendance de celle-ci. Cette situation a conduit à la création du projet pour aider les seniors à demeurer chez eux.",
+    "problematique": "La SCIC Les 3 Colonnes est née en réponse à l’expérience personnelle de Sébastien Tchernia, qui a constaté la solitude et la dépendance de sa grand-mère atteinte d’Alzheimer. Cette situation a conduit à la création du projet pour aider les seniors à demeurer chez eux.",
+    "solution_envisagee": "La SCIC Les 3 Colonnes propose un outil innovant appelé « viager solidaire » qui permet aux personnes âgées de vendre leur logement en viager et rester chez elles tout en bénéficiant d’aides à domicile.",
+    "objectifs": [
+      "Favoriser le diagnostic précoce de la fragilité",
+      "Diagnostiquer l’habitat pour permettre l’aménagement et limiter les risques liés à la dépendance",
+      "Soulager les aidants aînés de faciliter le maintien à domicile",
+      "Mettre en relation les seniors avec des services d’aide à domicile",
+      "Créer ou maintenir le lien social",
+      "Rompre l’isolement et la solitude"
+    ]
+  },
+  "porteur_initiative": "SCIC Les 3 Colonnes",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creer_un_outil_de_financement_du_maintien_a_domicile_22.txt",
+  "nom_fichier": "Creer_un_outil_de_financement_du_maintien_a_domicile_22.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "projet d'aménagement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/562-562-les-3-colonnes-lyon-v2-concours19.pdf",
+  "original_title": "Créer un outil de financement du maintien à domicile 2/2",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Communication numérique en contexte de surdité: le cas des pilotes sourds",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Le présent projet s’inscrit dans le domaine de l’aviation légère en contexte de surdité. En France, et plus largement en Europe, l’activité de pilotage par des pilotes sourds ou ayant des difficultés d’élocution (HSI – Hearing and Speaking Impaired) demeure pour l’heure complexe et le fruit de petits arrangements.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "ACSF (Aéro-Club des Sourds de France)",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\025_2018_communication_numerique_en_contexte_de_surdite_le_cas_des_pilotes_sourds.txt",
-    "nom_fichier": "025_2018_communication_numerique_en_contexte_de_surdite_le_cas_des_pilotes_sourds.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Communication numérique en contexte de surdité: le cas des pilotes sourds",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Le présent projet s’inscrit dans le domaine de l’aviation légère en contexte de surdité. En France, et plus largement en Europe, l’activité de pilotage par des pilotes sourds ou ayant des difficultés d’élocution (HSI – Hearing and Speaking Impaired) demeure pour l’heure complexe et le fruit de petits arrangements.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "ACSF (Aéro-Club des Sourds de France)",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\025_2018_communication_numerique_en_contexte_de_surdite_le_cas_des_pilotes_sourds.txt",
+  "nom_fichier": "025_2018_communication_numerique_en_contexte_de_surdite_le_cas_des_pilotes_sourds.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/communication-numerique-en-contexte-de-surdite-le-cas-des-pilotes-sourds/",
+  "original_title": "Communication numérique en contexte de surdité : le cas des pilotes sourds",
+  "collection_date": ""
 }

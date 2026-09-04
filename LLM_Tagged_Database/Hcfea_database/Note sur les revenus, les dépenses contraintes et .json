@@ -1,32 +1,41 @@
 {
-    "titre": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
-        "contexte": "",
-        "problematique": "Les seniors détiennent aujourd’hui environ 60 % du patrimoine non financier et 60 % du patrimoine financier. Toutefois, ces situations plutôt favorables cachent des disparités importantes.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Analyser les revenus, les dépenses contraintes et le patrimoine des seniors",
-            "Rappeler certains effets de générations et rappeller quelques éléments de comparaisons internationales",
-            "Intégrer les limites de l'appareil statistique concernant la population en Ehpad nuance les résultats, tout comme les perspectives d’évolution"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "20/05/2022"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes et .txt",
-    "nom_fichier": "Note sur les revenus, les dépenses contraintes et .txt",
-    "statut_action": "projet réalisé"
+  "titre": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
+    "contexte": "",
+    "problematique": "Les seniors détiennent aujourd’hui environ 60 % du patrimoine non financier et 60 % du patrimoine financier. Toutefois, ces situations plutôt favorables cachent des disparités importantes.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Analyser les revenus, les dépenses contraintes et le patrimoine des seniors",
+      "Rappeler certains effets de générations et rappeller quelques éléments de comparaisons internationales",
+      "Intégrer les limites de l'appareil statistique concernant la population en Ehpad nuance les résultats, tout comme les perspectives d’évolution"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2022-05-20"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note sur les revenus, les dépenses contraintes et .txt",
+  "nom_fichier": "Note sur les revenus, les dépenses contraintes et .txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/note-sur-les-revenus-les-depenses-contraintes-et-le-patrimoine-des-seniors-etat-des-lieux",
+  "original_title": "Note sur les revenus, les dépenses contraintes et le patrimoine des seniors – état des lieux",
+  "collection_date": ""
 }

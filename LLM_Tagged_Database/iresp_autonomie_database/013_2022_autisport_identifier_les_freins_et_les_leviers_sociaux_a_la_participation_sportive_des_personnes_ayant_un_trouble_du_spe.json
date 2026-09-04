@@ -1,33 +1,43 @@
 {
-    "titre": "AutiSport: Identifier les freins et les leviers sociaux à la participation sportive des personnes ayant un trouble du spectre de l'autisme lors du passage à l'âge adulte.",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les freins et les leviers sociaux qui limitent la participation sportive des personnes ayant un trouble du spectre de l'autisme lors du passage à l'âge adulte.",
-        "contexte": "",
-        "problematique": "Le problème est que malgré le développement d'une stratégie nationale pour l'autisme, les personnes atteintes par ce trouble ont peu ou pas de moyens pour participer aux activités sportives et culturelles.",
-        "solution_envisagee": "L'initiative propose une série d'études et de sensibilisations visant à identifier les freins sociaux qui limitent la participation des personnes atteintes par le trouble du spectre de l'autisme lors du passage à l'âge adulte, ainsi que les leviers sociaux qui pourraient faciliter leur participation.",
-        "objectifs": [
-            "Identifier les freins et les leviers sociaux qui limitent la participation sportive des personnes ayant un trouble du spectre de l'autisme lors du passage à l'âge adulte",
-            "Développer une stratégie d'intervention pour améliorer la participation des personnes atteintes par le trouble du spectre de l'autisme dans les activités sportives et culturelles.",
-            "Évaluer l’impact de cette initiative sur la participation des personnes ayant un trouble du spectre de l’autisme aux activités sportives et culturelles."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\013_2022_autisport_identifier_les_freins_et_les_leviers_sociaux_a_la_participation_sportive_des_personnes_ayant_un_trouble_du_spe.txt",
-    "nom_fichier": "013_2022_autisport_identifier_les_freins_et_les_leviers_sociaux_a_la_participation_sportive_des_personnes_ayant_un_trouble_du_spe.txt",
-    "statut_action": "projet réalisé"
+  "titre": "AutiSport: Identifier les freins et les leviers sociaux à la participation sportive des personnes ayant un trouble du spectre de l'autisme lors du passage à l'âge adulte.",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les freins et les leviers sociaux qui limitent la participation sportive des personnes ayant un trouble du spectre de l'autisme lors du passage à l'âge adulte.",
+    "contexte": "",
+    "problematique": "Le problème est que malgré le développement d'une stratégie nationale pour l'autisme, les personnes atteintes par ce trouble ont peu ou pas de moyens pour participer aux activités sportives et culturelles.",
+    "solution_envisagee": "L'initiative propose une série d'études et de sensibilisations visant à identifier les freins sociaux qui limitent la participation des personnes atteintes par le trouble du spectre de l'autisme lors du passage à l'âge adulte, ainsi que les leviers sociaux qui pourraient faciliter leur participation.",
+    "objectifs": [
+      "Identifier les freins et les leviers sociaux qui limitent la participation sportive des personnes ayant un trouble du spectre de l'autisme lors du passage à l'âge adulte",
+      "Développer une stratégie d'intervention pour améliorer la participation des personnes atteintes par le trouble du spectre de l'autisme dans les activités sportives et culturelles.",
+      "Évaluer l’impact de cette initiative sur la participation des personnes ayant un trouble du spectre de l’autisme aux activités sportives et culturelles."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\013_2022_autisport_identifier_les_freins_et_les_leviers_sociaux_a_la_participation_sportive_des_personnes_ayant_un_trouble_du_spe.txt",
+  "nom_fichier": "013_2022_autisport_identifier_les_freins_et_les_leviers_sociaux_a_la_participation_sportive_des_personnes_ayant_un_trouble_du_spe.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/autisport-identifier-les-freins-et-les-leviers-sociaux-a-la-participation-sportive-des-personnes-ayant-un-trouble-du-spectre-de-lautisme-lors-du-passage-a-lage-adulte/",
+  "original_title": "AutiSport : Identifier les freins et les leviers sociaux à la participation sportive des personnes ayant un trouble du spectre de l’autisme lors du passage à l’âge adulte.",
+  "collection_date": ""
 }

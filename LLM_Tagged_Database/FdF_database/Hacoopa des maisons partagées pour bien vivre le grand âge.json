@@ -1,32 +1,44 @@
 {
-    "titre": "Hacoopa: des maisons partagées pour bien vivre le grand âge",
-    "territoire": "Loire-Atlantique",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "La Fondation de France Grand Ouest a lancé Hacoopa, une initiative visant à améliorer la qualité de vie des personnes âgées en leur permettant d'organiser leurs propres activités et de se connecter avec les autres résidents.",
-        "contexte": "Les maisons partagées pour personnes âgées existent déjà dans plusieurs pays européens, notamment au Royaume-Uni. Cependant, Hacoopa est la première initiative en France à proposer ce concept aux seniors.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des maisons partagées pour personnes âgées qui permettent d'organiser des activités autonomes et conviviales, tout en préservant l'intimité et l'autonomie de chacun.",
-        "objectifs": [
-            "Améliorer la qualité de vie des seniors",
-            "Renforcer les liens entre les résidents et leurs proches"
-        ]
-    },
-    "porteur_initiative": "La Fondation de France Grand Ouest",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Hacoopa des maisons partagées pour bien vivre le grand âge.txt",
-    "nom_fichier": "Hacoopa des maisons partagées pour bien vivre le grand âge.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Hacoopa: des maisons partagées pour bien vivre le grand âge",
+  "territoire": [
+    "loire-atlantique"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "La Fondation de France Grand Ouest a lancé Hacoopa, une initiative visant à améliorer la qualité de vie des personnes âgées en leur permettant d'organiser leurs propres activités et de se connecter avec les autres résidents.",
+    "contexte": "Les maisons partagées pour personnes âgées existent déjà dans plusieurs pays européens, notamment au Royaume-Uni. Cependant, Hacoopa est la première initiative en France à proposer ce concept aux seniors.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des maisons partagées pour personnes âgées qui permettent d'organiser des activités autonomes et conviviales, tout en préservant l'intimité et l'autonomie de chacun.",
+    "objectifs": [
+      "Améliorer la qualité de vie des seniors",
+      "Renforcer les liens entre les résidents et leurs proches"
+    ]
+  },
+  "porteur_initiative": "La Fondation de France Grand Ouest",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Hacoopa des maisons partagées pour bien vivre le grand âge.txt",
+  "nom_fichier": "Hacoopa des maisons partagées pour bien vivre le grand âge.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-fondation-de-france-grand-ouest/hacoopa-des-maisons-partagees-pour-bien-vivre-le-grand-age",
+  "original_title": "Hacoopa : des maisons partagées pour bien vivre le grand âge",
+  "collection_date": ""
 }

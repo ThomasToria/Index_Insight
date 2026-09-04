@@ -1,33 +1,43 @@
 {
-    "titre": "Le musée hors les murs",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Un projet multidimensionnel, dirigé en particulier envers les habitants de résidences autonomes, les élèves des écoles, les usagers de mairies de proximité et de maisons de quartier, s’ est constitué en de nombreuses étapes.",
-        "contexte": "Le musée installé dans un château fort sur les hauteurs de la ville était peu connu ou fréquenté par les habitants.",
-        "problematique": "Peu d'habitants connaissaient ou fréquentaient le musée, ce qui limitait leur participation aux activités culturelles et à l'apprentissage des œuvres permanentes du musée.",
-        "solution_envisagee": "Implanter des oeuvres appartenant au musée dans les lieux de vie avec l'action « HLM »: le Musée Hors Les Murs. Produire, en mouvement retour, une exposition participative appelée « Les murs sont à vous ». Créer un festival de street art, « Spray », dans différents lieux de la ville.",
-        "objectifs": [
-            "Mettre la culture à la portée de tous",
-            "Changer les regards sur les œuvres permanentes du musée et sur la culture en général"
-        ]
-    },
-    "porteur_initiative": "Dieppe (76)",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_musee_hors_les_murs.txt",
-    "nom_fichier": "Le_musee_hors_les_murs.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le musée hors les murs",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Un projet multidimensionnel, dirigé en particulier envers les habitants de résidences autonomes, les élèves des écoles, les usagers de mairies de proximité et de maisons de quartier, s’ est constitué en de nombreuses étapes.",
+    "contexte": "Le musée installé dans un château fort sur les hauteurs de la ville était peu connu ou fréquenté par les habitants.",
+    "problematique": "Peu d'habitants connaissaient ou fréquentaient le musée, ce qui limitait leur participation aux activités culturelles et à l'apprentissage des œuvres permanentes du musée.",
+    "solution_envisagee": "Implanter des oeuvres appartenant au musée dans les lieux de vie avec l'action « HLM »: le Musée Hors Les Murs. Produire, en mouvement retour, une exposition participative appelée « Les murs sont à vous ». Créer un festival de street art, « Spray », dans différents lieux de la ville.",
+    "objectifs": [
+      "Mettre la culture à la portée de tous",
+      "Changer les regards sur les œuvres permanentes du musée et sur la culture en général"
+    ]
+  },
+  "porteur_initiative": "Dieppe (76)",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_musee_hors_les_murs.txt",
+  "nom_fichier": "Le_musee_hors_les_murs.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/442-442-pe-dieppe-musee-hors-les-murs-1-1.pdf",
+  "original_title": "Le musée hors les murs",
+  "collection_date": ""
 }

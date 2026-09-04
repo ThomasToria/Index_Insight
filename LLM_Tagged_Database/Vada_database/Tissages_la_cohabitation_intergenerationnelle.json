@@ -1,39 +1,49 @@
 {
-    "titre": "Tiss'ages, la cohabitation intergénérationnelle",
-    "territoire": [
-        "Brest",
-        "Pays de Brest",
-        "Centre Ouest Bretagne"
-    ],
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Le marché du logement est tendu pour les jeunes, notamment en raison de la restriction de l'offre, des coûts élevés des loyers et de la faiblesse de leurs revenus. Le territoire compte également de nombreux seniors seuls dans leur maison. Tiss’âges met en relation des seniors âgés de 60 ans et plus qui souhaitent rompre l'isolement ou aider les jeunes, notamment étudiants et apprentis, à trouver un logement.",
-        "contexte": "Les seniors veulent rester seuls dans leur maison mais ont besoin d'aide pour trouver un logement. Les jeunes, par contre, rencontrent des difficultés pour trouver un logement.",
-        "problematique": "Le marché du logement est tendu pour les jeunes et les seniors rencontrent des difficultés à trouver un logement.",
-        "solution_envisagee": "Mettre en relation des seniors âgés de 60 ans et plus qui souhaitent rompre l'isolement ou aider les jeunes, notamment étudiants et apprentis, à trouver un logement.",
-        "objectifs": [
-            "Rompre l'isolement des seniors",
-            "Aider au maintien de l'autonomie des seniors",
-            "Offrir des logements adaptés aux jeunes et aux seniors",
-            "Permettre la transmission et le partage d'expérience entre les générations"
-        ]
-    },
-    "porteur_initiative": "Association AILES",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tissages_la_cohabitation_intergenerationnelle.txt",
-    "nom_fichier": "Tissages_la_cohabitation_intergenerationnelle.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Tiss'ages, la cohabitation intergénérationnelle",
+  "territoire": [
+    "brest",
+    "centre ouest bretagne",
+    "pays de brest"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Le marché du logement est tendu pour les jeunes, notamment en raison de la restriction de l'offre, des coûts élevés des loyers et de la faiblesse de leurs revenus. Le territoire compte également de nombreux seniors seuls dans leur maison. Tiss’âges met en relation des seniors âgés de 60 ans et plus qui souhaitent rompre l'isolement ou aider les jeunes, notamment étudiants et apprentis, à trouver un logement.",
+    "contexte": "Les seniors veulent rester seuls dans leur maison mais ont besoin d'aide pour trouver un logement. Les jeunes, par contre, rencontrent des difficultés pour trouver un logement.",
+    "problematique": "Le marché du logement est tendu pour les jeunes et les seniors rencontrent des difficultés à trouver un logement.",
+    "solution_envisagee": "Mettre en relation des seniors âgés de 60 ans et plus qui souhaitent rompre l'isolement ou aider les jeunes, notamment étudiants et apprentis, à trouver un logement.",
+    "objectifs": [
+      "Rompre l'isolement des seniors",
+      "Aider au maintien de l'autonomie des seniors",
+      "Offrir des logements adaptés aux jeunes et aux seniors",
+      "Permettre la transmission et le partage d'expérience entre les générations"
+    ]
+  },
+  "porteur_initiative": "Association AILES",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tissages_la_cohabitation_intergenerationnelle.txt",
+  "nom_fichier": "Tissages_la_cohabitation_intergenerationnelle.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/763-pe-tiss-age.pdf",
+  "original_title": "Tiss'ages, la cohabitation intergénérationnelle",
+  "collection_date": ""
 }

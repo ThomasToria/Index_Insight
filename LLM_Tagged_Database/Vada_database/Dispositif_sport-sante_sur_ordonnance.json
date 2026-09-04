@@ -1,32 +1,44 @@
 {
-    "titre": "Dispositif «sport-santé sur ordonnance»",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce dispositif vise à promouvoir l’activité physique modérée et adaptée aux personnes atteintes de certaines maladies chroniques, notamment les seniors fragilisés.",
-        "contexte": "La loi sur la prescription de l'activité physique a été entrée en vigueur en janvier 2016, permettant désormais le médecin traitant d'en prescrire à ses patients. Strasbourg a mis en place ce dispositif dès l’ouverture du dispositif, visant les personnes atteintes de certaines maladies chroniques et les seniors fragilisés.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un dispositif qui permet aux personnes atteintes de certaines maladies chroniques identifiées ainsi qu’aux seniors fragilisés reconnus (GIR 5 ou GIR 6), d'être pris en charge et orientés sur prescription médicale de leur médecin traitant vers des activités physiques modérées et adaptées à l'état de santé.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des personnes fragilisées dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Strasbourg",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_sport-sante_sur_ordonnance.txt",
-    "nom_fichier": "Dispositif_sport-sante_sur_ordonnance.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Dispositif «sport-santé sur ordonnance»",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce dispositif vise à promouvoir l’activité physique modérée et adaptée aux personnes atteintes de certaines maladies chroniques, notamment les seniors fragilisés.",
+    "contexte": "La loi sur la prescription de l'activité physique a été entrée en vigueur en janvier 2016, permettant désormais le médecin traitant d'en prescrire à ses patients. Strasbourg a mis en place ce dispositif dès l’ouverture du dispositif, visant les personnes atteintes de certaines maladies chroniques et les seniors fragilisés.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un dispositif qui permet aux personnes atteintes de certaines maladies chroniques identifiées ainsi qu’aux seniors fragilisés reconnus (GIR 5 ou GIR 6), d'être pris en charge et orientés sur prescription médicale de leur médecin traitant vers des activités physiques modérées et adaptées à l'état de santé.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des personnes fragilisées dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Strasbourg",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_sport-sante_sur_ordonnance.txt",
+  "nom_fichier": "Dispositif_sport-sante_sur_ordonnance.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/391-391-pe-sport-sur-ordonnance-1.pdf",
+  "original_title": "Dispositif «sport-santé sur ordonnance»",
+  "collection_date": ""
 }

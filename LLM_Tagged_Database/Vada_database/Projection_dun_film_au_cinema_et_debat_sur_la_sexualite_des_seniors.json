@@ -1,28 +1,39 @@
 {
-    "titre": "Projection d'un film au cinéma et débat sur la sexualité des seniors",
-    "territoire": "Vence (06)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "",
-        "contexte": "Les seniors ont des questions sur la sexualité après les 60 ans.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": "Renforcer les liens entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale."
-    },
-    "porteur_initiative": "CCAS de Vence",
-    "date": [
-        "2023-11-15"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.txt",
-    "nom_fichier": "Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Projection d'un film au cinéma et débat sur la sexualité des seniors",
+  "territoire": [
+    "vence (06)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "",
+    "contexte": "Les seniors ont des questions sur la sexualité après les 60 ans.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": "Renforcer les liens entre les seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale."
+  },
+  "porteur_initiative": "CCAS de Vence",
+  "date": [
+    "2023-11-15"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.txt",
+  "nom_fichier": "Projection_dun_film_au_cinema_et_debat_sur_la_sexualite_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/879-pe-projection-d-un-film-au-cinema-et-debat-sur-la-sexualite-des-seniors.pdf",
+  "original_title": "Projection d'un film au cinéma et débat sur la sexualité des seniors",
+  "collection_date": ""
 }

@@ -1,33 +1,45 @@
 {
-    "titre": "ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC",
-    "territoire": "Commune de Cognac",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
-        "contexte": "Population de Cognac âgée (28,6% plus de 60 ans) souffre d'un manque d'information sur les dispositifs existants pour accompagner le vieillissement.",
-        "problematique": "Manque d’informations et d’anticipation des aidants et professionnels concernant les dispositifs existants pour accompagner le vieillissement, ainsi que la préoccupation de seniors quant à l'adaptation du logement aux besoins spécifiques liés au vieillissement.",
-        "solution_envisagee": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
-        "objectifs": [
-            "Identifier les besoins spécifiques des seniors et aidants concernant le maintien à domicile",
-            "Amorcer une dynamique partenariale entre professionnels pour favoriser la collaboration et engager une réflexion locale sur les initiatives à soutenir ou développer dans une logique de complémentarité et de mutualisation.",
-            "Faire face aux enjeux liés au vieillissement via l’information, la communication et la prévention autour des questions liées à l’âge."
-        ]
-    },
-    "porteur_initiative": "CCAS de Cognac",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",
-    "nom_fichier": "ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",
-    "statut_action": "projet réalisé"
+  "titre": "ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC",
+  "territoire": [
+    "cognac"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
+    "contexte": "Population de Cognac âgée (28,6% plus de 60 ans) souffre d'un manque d'information sur les dispositifs existants pour accompagner le vieillissement.",
+    "problematique": "Manque d’informations et d’anticipation des aidants et professionnels concernant les dispositifs existants pour accompagner le vieillissement, ainsi que la préoccupation de seniors quant à l'adaptation du logement aux besoins spécifiques liés au vieillissement.",
+    "solution_envisagee": "Forum sur les besoins spécifiques des seniors et aidants concernant le maintien à domicile, la communication autour de l'âge, et la prévention.",
+    "objectifs": [
+      "Identifier les besoins spécifiques des seniors et aidants concernant le maintien à domicile",
+      "Amorcer une dynamique partenariale entre professionnels pour favoriser la collaboration et engager une réflexion locale sur les initiatives à soutenir ou développer dans une logique de complémentarité et de mutualisation.",
+      "Faire face aux enjeux liés au vieillissement via l’information, la communication et la prévention autour des questions liées à l’âge."
+    ]
+  },
+  "porteur_initiative": "CCAS de Cognac",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",
+  "nom_fichier": "ENSEMBLE_POUR_LE_BIEN_VIEILLIR_A_COGNAC.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/795-concours-2022-17-ensemble-pour-le-bien-vieillir-a-cognac.pdf",
+  "original_title": "ENSEMBLE POUR LE BIEN VIEILLIR A COGNAC",
+  "collection_date": ""
 }

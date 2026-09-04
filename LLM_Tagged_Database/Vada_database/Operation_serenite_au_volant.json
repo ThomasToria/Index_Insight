@@ -1,32 +1,41 @@
 {
-    "titre": "Opération sérénité au volant",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à aborder tous les aspects de la sécurité et la sérénité au volant pour maîtriser sa conduite, en particulier auprès des personnes âgées.",
-        "contexte": "Les seniors de Barentin ont exprimé le besoin d'acquérir une meilleure maîtrise du code de la route tout en conservant leur autonomie et leurs liens sociaux.",
-        "problematique": "Conserver un lien social, préserver l'autonomie et simplifier et enrichir le quotidien des personnes âgées",
-        "solution_envisagee": "Organiser une conférence sur les aspects de la sécurité et de la sérénité au volant, ainsi que des ateliers collectifs avec des intervenants spécialisés.",
-        "objectifs": [
-            "Conserver un lien social",
-            "Préserver l'autonomie",
-            "Simplifier et enrichir le quotidien"
-        ]
-    },
-    "porteur_initiative": "Commune de Barentin (76)",
-    "date": [
-        "depuis 2020"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_serenite_au_volant.txt",
-    "nom_fichier": "Operation_serenite_au_volant.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Opération sérénité au volant",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à aborder tous les aspects de la sécurité et la sérénité au volant pour maîtriser sa conduite, en particulier auprès des personnes âgées.",
+    "contexte": "Les seniors de Barentin ont exprimé le besoin d'acquérir une meilleure maîtrise du code de la route tout en conservant leur autonomie et leurs liens sociaux.",
+    "problematique": "Conserver un lien social, préserver l'autonomie et simplifier et enrichir le quotidien des personnes âgées",
+    "solution_envisagee": "Organiser une conférence sur les aspects de la sécurité et de la sérénité au volant, ainsi que des ateliers collectifs avec des intervenants spécialisés.",
+    "objectifs": [
+      "Conserver un lien social",
+      "Préserver l'autonomie",
+      "Simplifier et enrichir le quotidien"
+    ]
+  },
+  "porteur_initiative": "Commune de Barentin (76)",
+  "date": [
+    "2020"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_serenite_au_volant.txt",
+  "nom_fichier": "Operation_serenite_au_volant.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/744-pe-operation-serenite-au-volant-barentin.pdf",
+  "original_title": "Opération sérénité au volant",
+  "collection_date": ""
 }

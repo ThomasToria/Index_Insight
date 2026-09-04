@@ -1,30 +1,40 @@
 {
-    "titre": "Les Actions Soutenues Par Le Programme Personnes Âgées Pendant La Crise Covid-19",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19 ont visé à renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "contexte": "",
-        "problematique": "Renforcement des liens entre les résidents de l'EHPD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposition d'un accompagnement personnalisé par téléphone aux aidants familiaux pour faciliter la gestion du stress et de la fatigue.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Association Nouveau Souffle",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.txt",
-    "nom_fichier": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les Actions Soutenues Par Le Programme Personnes Âgées Pendant La Crise Covid-19",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19 ont visé à renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "contexte": "",
+    "problematique": "Renforcement des liens entre les résidents de l'EHPD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposition d'un accompagnement personnalisé par téléphone aux aidants familiaux pour faciliter la gestion du stress et de la fatigue.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Association Nouveau Souffle",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.txt",
+  "nom_fichier": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-agees/les-actions-soutenues-par-le-programme-personnes-agees-pendant-la-crise-covid",
+  "original_title": "Les actions soutenues par le programme Personnes âgées pendant la crise Covid-19",
+  "collection_date": ""
 }

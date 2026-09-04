@@ -1,33 +1,44 @@
 {
-    "titre": "De nouvelles assises pour mieux se déplacer et se rencontrer",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la mobilité des seniors et leur participation aux activités communautaires.",
-        "contexte": "Les seniors de la commune rencontrent souvent des difficultés pour se déplacer dans les rues communes, ce qui limite leur autonomie et leur qualité de vie. Les assises existantes sont insuffisamment adaptées à leurs besoins spécifiques.",
-        "problematique": "Le manque d'assises adaptées aux seniors limitant leur mobilité et participation aux activités communautaires.",
-        "solution_envisagee": "Installer des mobiliers urbains avec accoudoirs pour faciliter la station de repos et le repositionnement, ainsi que des bancs adaptés à leurs besoins spécifiques.",
-        "objectifs": [
-            "améliorer la mobilité des seniors",
-            "promouvoir leur participation aux activités communautaires"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2015",
-        "fin décembre 2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.txt",
-    "nom_fichier": "De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.txt",
-    "statut_action": "projet réalisé"
+  "titre": "De nouvelles assises pour mieux se déplacer et se rencontrer",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la mobilité des seniors et leur participation aux activités communautaires.",
+    "contexte": "Les seniors de la commune rencontrent souvent des difficultés pour se déplacer dans les rues communes, ce qui limite leur autonomie et leur qualité de vie. Les assises existantes sont insuffisamment adaptées à leurs besoins spécifiques.",
+    "problematique": "Le manque d'assises adaptées aux seniors limitant leur mobilité et participation aux activités communautaires.",
+    "solution_envisagee": "Installer des mobiliers urbains avec accoudoirs pour faciliter la station de repos et le repositionnement, ainsi que des bancs adaptés à leurs besoins spécifiques.",
+    "objectifs": [
+      "améliorer la mobilité des seniors",
+      "promouvoir leur participation aux activités communautaires"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.txt",
+  "nom_fichier": "De_nouvelles_assises_pour_mieux_se_deplacer_et_se_rencontrer.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/392-pe-nouvelles-assises-1.pdf",
+  "original_title": "De nouvelles assises pour mieux se déplacer et se rencontrer",
+  "collection_date": ""
 }

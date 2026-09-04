@@ -1,33 +1,45 @@
 {
-    "titre": "D'une génération à l'autre",
-    "territoire": "Floirac (33)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Réaliser un moment de convivialité entre des seniors de la RPA de Floirac et des étudiants de l’Université Bordeaux Montaigne. Proposer des activités ludiques et enrichissantes.",
-        "contexte": "Les résidents de la RPA de Floirac (Floirac, 33) ont exprimé le besoin d'engager les jeunes générations dans leur vie quotidienne pour renforcer les liens intergénérationnels. Les étudiants du Master Communication de l’Université Montaigne à Bordeaux et la RPA de Floirac se sont rencontrés régulièrement depuis trois ans, organisant des moments conviviaux.",
-        "problematique": "Renforcement des liens entre les résidents de la RPA, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser plusieurs rencontres entre les deux générations de la RPA, proposer des activités lors des différentes séances, mettre en place un projet intergénérationnel pour conclure les rencontres.",
-        "objectifs": [
-            "Réaliser un moment de convivialité entre des seniors de la RPA et des étudiants de l’Université Bordeaux Montaigne",
-            "Proposer des activités ludiques et enrichissantes",
-            "Créer des liens intergénérationnels"
-        ]
-    },
-    "porteur_initiative": "VillesAMIEs, Réseau Francophone",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dune_generation_a_lautre.txt",
-    "nom_fichier": "Dune_generation_a_lautre.txt",
-    "statut_action": "projet réalisé"
+  "titre": "D'une génération à l'autre",
+  "territoire": [
+    "floirac (33)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Réaliser un moment de convivialité entre des seniors de la RPA de Floirac et des étudiants de l’Université Bordeaux Montaigne. Proposer des activités ludiques et enrichissantes.",
+    "contexte": "Les résidents de la RPA de Floirac (Floirac, 33) ont exprimé le besoin d'engager les jeunes générations dans leur vie quotidienne pour renforcer les liens intergénérationnels. Les étudiants du Master Communication de l’Université Montaigne à Bordeaux et la RPA de Floirac se sont rencontrés régulièrement depuis trois ans, organisant des moments conviviaux.",
+    "problematique": "Renforcement des liens entre les résidents de la RPA, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser plusieurs rencontres entre les deux générations de la RPA, proposer des activités lors des différentes séances, mettre en place un projet intergénérationnel pour conclure les rencontres.",
+    "objectifs": [
+      "Réaliser un moment de convivialité entre des seniors de la RPA et des étudiants de l’Université Bordeaux Montaigne",
+      "Proposer des activités ludiques et enrichissantes",
+      "Créer des liens intergénérationnels"
+    ]
+  },
+  "porteur_initiative": "VillesAMIEs, Réseau Francophone",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dune_generation_a_lautre.txt",
+  "nom_fichier": "Dune_generation_a_lautre.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/196-196-d-une-generation-a-l-autre-floirac.pdf",
+  "original_title": "D'une génération à l'autre",
+  "collection_date": ""
 }

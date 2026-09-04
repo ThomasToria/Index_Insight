@@ -1,34 +1,46 @@
 {
-    "titre": "Longe-Côte à Saint-Malo: Une Pratique Innovante et Bonne pour la Santé",
-    "territoire": "Commune de Saint-Malo, Métropole de Rennes",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer, visant à faire découvrir le longe-côte, une nouvelle activité innovante accessible à tous, dans un esprit convivial.",
-        "contexte": "L'association Sports, Mer et Santé a été créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer. Son objectif, dès le départ, est de faire découvrir le longe-côte, une nouvelle activité innovante accessible à tous, dans un esprit convivial.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une initiative créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer, visant à faire découvrir le longe-côte, une nouvelle activité innovante accessible à tous, dans un esprit convivial.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Sports, Mer et Santé",
-    "date": [
-        "2019",
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Longe-cote_a_Saint-Malo_une_pratique_innovante_et_bonne_pour_la_sante.txt",
-    "nom_fichier": "Longe-cote_a_Saint-Malo_une_pratique_innovante_et_bonne_pour_la_sante.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Longe-Côte à Saint-Malo: Une Pratique Innovante et Bonne pour la Santé",
+  "territoire": [
+    "saint-malo, métropole de rennes"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer, visant à faire découvrir le longe-côte, une nouvelle activité innovante accessible à tous, dans un esprit convivial.",
+    "contexte": "L'association Sports, Mer et Santé a été créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer. Son objectif, dès le départ, est de faire découvrir le longe-côte, une nouvelle activité innovante accessible à tous, dans un esprit convivial.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une initiative créée en 2009 par Monsieur Rousseau, maître-nageur passionné d'activités liées à la mer, visant à faire découvrir le longe-côte, une nouvelle activité innovante accessible à tous, dans un esprit convivial.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Sports, Mer et Santé",
+  "date": [
+    "2019",
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Longe-cote_a_Saint-Malo_une_pratique_innovante_et_bonne_pour_la_sante.txt",
+  "nom_fichier": "Longe-cote_a_Saint-Malo_une_pratique_innovante_et_bonne_pour_la_sante.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/887-concours-2023-longe-cote-a-saint-malo-une-pratique-innovante-et-bonne-pour-la-sante.pdf",
+  "original_title": "Longe-côte à Saint-Malo: une pratique innovante et bonne pour la santé",
+  "collection_date": ""
 }

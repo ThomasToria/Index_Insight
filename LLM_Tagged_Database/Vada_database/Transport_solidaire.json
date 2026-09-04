@@ -1,36 +1,46 @@
 {
-    "titre": "Transport solidaire",
-    "territoire": "Commune: Fouras-les-bains (17)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un service de transport solidaire mis en place par la Ville de Fouras-les-bains pour répondre aux besoins des aînés.",
-        "contexte": "Le besoin de transports à la demande est clairement exprimé par les habitants, notamment pour des raisons médicales et pour faire des courses.",
-        "problematique": "Lutter contre l’isolement et la dépendance; Créer du lien social sur le territoire; Répondre à des besoins de transports essentiels (RDV médicaux, pharmacie, courses...); Rendre service à une population fragilisée.",
-        "solution_envisagee": "Un service transport solidaire mis en place par la Ville de Fouras-les-bains pour répondre aux besoins des aînés.",
-        "objectifs": [
-            "Faciliter les déplacements pour des raisons médicales",
-            "Promouvoir le lien social entre les résidents et la société civile"
-        ]
-    },
-    "porteur_initiative": "CCAS de Fouras-les-bains",
-    "date": [
-        "2019",
-        "juin 2023",
-        "juillet 2023",
-        "septembre 2023",
-        "juin 2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_solidaire.txt",
-    "nom_fichier": "Transport_solidaire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Transport solidaire",
+  "territoire": [
+    "fouras-les-bains (17)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un service de transport solidaire mis en place par la Ville de Fouras-les-bains pour répondre aux besoins des aînés.",
+    "contexte": "Le besoin de transports à la demande est clairement exprimé par les habitants, notamment pour des raisons médicales et pour faire des courses.",
+    "problematique": "Lutter contre l’isolement et la dépendance; Créer du lien social sur le territoire; Répondre à des besoins de transports essentiels (RDV médicaux, pharmacie, courses...); Rendre service à une population fragilisée.",
+    "solution_envisagee": "Un service transport solidaire mis en place par la Ville de Fouras-les-bains pour répondre aux besoins des aînés.",
+    "objectifs": [
+      "Faciliter les déplacements pour des raisons médicales",
+      "Promouvoir le lien social entre les résidents et la société civile"
+    ]
+  },
+  "porteur_initiative": "CCAS de Fouras-les-bains",
+  "date": [
+    "2019",
+    "2023",
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Transport_solidaire.txt",
+  "nom_fichier": "Transport_solidaire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1106-concours-2024-transport-solidaire.pdf",
+  "original_title": "Transport solidaire",
+  "collection_date": ""
 }

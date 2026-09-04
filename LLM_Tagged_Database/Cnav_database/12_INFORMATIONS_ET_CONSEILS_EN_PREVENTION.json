@@ -1,29 +1,39 @@
 {
-    "titre": "INFORMATIONS ET CONSEILS EN PRÉVENTION",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La Caisse nationale de l'Assurance retraite soutient la réalisation de vidéos dans le cadre d'un programme initialement construit par la Carsat de Bourgogne-Franche-Comté. Ces vidéos exposeront des informations et conseils sur différentes thématiques de prévention, illustrées par des défis pour enrichir les connaissances et des informations pratiques.",
-        "contexte": "La diffusion prévue en 2024 couvrira plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux).",
-        "problematique": "Le besoin de renforcer la connaissance et l'engagement des retraités sur les thématiques de prévention.",
-        "solution_envisagee": "La diffusion de vidéos format courts et longs sur différents canaux pour informer, sensibiliser et inciter les retraités à agir en prévention.",
-        "objectifs": "40 vidéos réalisées en format courts et longs. Diffusion grand public sur plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux)."
-    },
-    "porteur_initiative": "Interrégime (Caisse nationale de l'Assurance retraite, CCMSA, CNRACL, Agirc-Arrco)",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "intergénérationnel"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
-    "nom_fichier": "12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
-    "statut_action": "projet réalisé"
+  "titre": "INFORMATIONS ET CONSEILS EN PRÉVENTION",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La Caisse nationale de l'Assurance retraite soutient la réalisation de vidéos dans le cadre d'un programme initialement construit par la Carsat de Bourgogne-Franche-Comté. Ces vidéos exposeront des informations et conseils sur différentes thématiques de prévention, illustrées par des défis pour enrichir les connaissances et des informations pratiques.",
+    "contexte": "La diffusion prévue en 2024 couvrira plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux).",
+    "problematique": "Le besoin de renforcer la connaissance et l'engagement des retraités sur les thématiques de prévention.",
+    "solution_envisagee": "La diffusion de vidéos format courts et longs sur différents canaux pour informer, sensibiliser et inciter les retraités à agir en prévention.",
+    "objectifs": "40 vidéos réalisées en format courts et longs. Diffusion grand public sur plusieurs canaux (TV, portail pour bien vieillir, réseaux sociaux)."
+  },
+  "porteur_initiative": "Interrégime (Caisse nationale de l'Assurance retraite, CCMSA, CNRACL, Agirc-Arrco)",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "intergénérationnel"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
+  "nom_fichier": "12_INFORMATIONS_ET_CONSEILS_EN_PREVENTION.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "INFORMATIONS ET CONSEILS EN PRÉVENTION",
+  "collection_date": ""
 }

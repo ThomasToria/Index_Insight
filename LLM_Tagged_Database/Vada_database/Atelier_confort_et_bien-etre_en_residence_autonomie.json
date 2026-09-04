@@ -1,33 +1,43 @@
 {
-    "titre": "Atelier confort et bien-être en résidence autonomie",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un atelier spécifique mis en place dans une résidence autonomie pour répondre aux besoins des seniors en matière de confort et de bien-être.",
-        "contexte": "La nouvelle population de seniors a été constatée en demande d'un soutien en matière de confort et de bien-être, particulièrement depuis la période COVID. Les résidents ne se rendent pas dans des instituts extérieurs pour ce type d'accompagnement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un atelier spécifique mis en place pour maintenir une qualité de vieillissement promouvant le respect de soi et de son image. L'activité a lieu une fois par mois, avec des tables de soins esthétiques, musique et éclairage zen.",
-        "objectifs": [
-            "Maintenir la qualité de vieillissement",
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_confort_et_bien-etre_en_residence_autonomie.txt",
-    "nom_fichier": "Atelier_confort_et_bien-etre_en_residence_autonomie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier confort et bien-être en résidence autonomie",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un atelier spécifique mis en place dans une résidence autonomie pour répondre aux besoins des seniors en matière de confort et de bien-être.",
+    "contexte": "La nouvelle population de seniors a été constatée en demande d'un soutien en matière de confort et de bien-être, particulièrement depuis la période COVID. Les résidents ne se rendent pas dans des instituts extérieurs pour ce type d'accompagnement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un atelier spécifique mis en place pour maintenir une qualité de vieillissement promouvant le respect de soi et de son image. L'activité a lieu une fois par mois, avec des tables de soins esthétiques, musique et éclairage zen.",
+    "objectifs": [
+      "Maintenir la qualité de vieillissement",
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_confort_et_bien-etre_en_residence_autonomie.txt",
+  "nom_fichier": "Atelier_confort_et_bien-etre_en_residence_autonomie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/942-concours-2023-atelier-confort-et-bien-etre-en-residence-autonomie.pdf",
+  "original_title": "Atelier confort et bien-être en résidence autonomie",
+  "collection_date": ""
 }

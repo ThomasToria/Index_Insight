@@ -1,33 +1,43 @@
 {
-    "titre": "Lever les freins à la mobilité pour lutter contre la solitude",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les freins à la mobilité et à lutter contre le phénomène de solitude dans les communautés locales.",
-        "contexte": "L'Observatoire de la philanthropie a mené une enquête sur le sujet, démontrant que près de 7 millions de personnes en France souffrent d’isolement. Les résultats ont montré un tassement des relations amicales et un ralentissement du réseau familial.",
-        "problematique": "Le phénomène de solitude est une réalité qui se propage dans les communautés locales, malgré l'augmentation des moyens de communication numériques. Les freins à la mobilité sont identifiés comme étant un facteur majeur contribuant au développement de cette situation.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les freins à la mobilité et l’isolement dans les communautés locales",
-            "Analyser les causes du phénomène de solitude",
-            "Proposer des solutions pour améliorer la qualité de vie des personnes isolées"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "mobilité et transport",
-        "numérique"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Lever les freins à la mobilité pour lutter contre la solitude.txt",
-    "nom_fichier": "Lever les freins à la mobilité pour lutter contre la solitude.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Lever les freins à la mobilité pour lutter contre la solitude",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les freins à la mobilité et à lutter contre le phénomène de solitude dans les communautés locales.",
+    "contexte": "L'Observatoire de la philanthropie a mené une enquête sur le sujet, démontrant que près de 7 millions de personnes en France souffrent d’isolement. Les résultats ont montré un tassement des relations amicales et un ralentissement du réseau familial.",
+    "problematique": "Le phénomène de solitude est une réalité qui se propage dans les communautés locales, malgré l'augmentation des moyens de communication numériques. Les freins à la mobilité sont identifiés comme étant un facteur majeur contribuant au développement de cette situation.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les freins à la mobilité et l’isolement dans les communautés locales",
+      "Analyser les causes du phénomène de solitude",
+      "Proposer des solutions pour améliorer la qualité de vie des personnes isolées"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "mobilité et transport",
+    "numérique"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Lever les freins à la mobilité pour lutter contre la solitude.txt",
+  "nom_fichier": "Lever les freins à la mobilité pour lutter contre la solitude.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/?view=article&id=436:lever-les-freins-a-la-mobilite-pour-lutter-contre-la-solitude&catid=107",
+  "original_title": "Lever les freins à la mobilité pour lutter contre la solitude",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Etat de santé, parcours de vie, et vécu des familles des personnes polyhandicapées à domicile",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte : Le polyhandicap/PIMD (Profound intellectual and multiple disabilities), situation de handicap rare, est une affection chronique conséquence d’une anomalie ou d’une lésion survenant sur un cerveau en développement, à l’origine de dépendance majeure vis-à-vis de l’entourage. La cohorte EVAL-PLH, initiée en 2015, a pour but de mieux comprendre les besoins et la situation des familles concernées par le polyhandicap/PIMD.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des résidents polyhandicapés dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\042_2024_etat_de_sante_parcours_de_vie_et_vecu_des_familles_des_personnes_polyhandicapees_a_domicile.txt",
-    "nom_fichier": "042_2024_etat_de_sante_parcours_de_vie_et_vecu_des_familles_des_personnes_polyhandicapees_a_domicile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Etat de santé, parcours de vie, et vécu des familles des personnes polyhandicapées à domicile",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte : Le polyhandicap/PIMD (Profound intellectual and multiple disabilities), situation de handicap rare, est une affection chronique conséquence d’une anomalie ou d’une lésion survenant sur un cerveau en développement, à l’origine de dépendance majeure vis-à-vis de l’entourage. La cohorte EVAL-PLH, initiée en 2015, a pour but de mieux comprendre les besoins et la situation des familles concernées par le polyhandicap/PIMD.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des résidents polyhandicapés dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\042_2024_etat_de_sante_parcours_de_vie_et_vecu_des_familles_des_personnes_polyhandicapees_a_domicile.txt",
+  "nom_fichier": "042_2024_etat_de_sante_parcours_de_vie_et_vecu_des_familles_des_personnes_polyhandicapees_a_domicile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/etat-de-sante-parcours-de-vie-et-vecu-des-familles-des-personnes-polyhandicapees-a-domicile/",
+  "original_title": "Etat de santé, parcours de vie, et vécu des familles des personnes polyhandicapées à domicile",
+  "collection_date": ""
 }

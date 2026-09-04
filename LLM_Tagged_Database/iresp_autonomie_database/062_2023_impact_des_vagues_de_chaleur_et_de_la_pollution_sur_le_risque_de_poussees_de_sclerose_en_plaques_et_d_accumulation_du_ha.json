@@ -1,33 +1,43 @@
 {
-    "titre": "Impact des vagues de chaleur et de la pollution sur le risque de poussées de sclérose en plaques et d’accumulation du handicap neurologique dans différentes zones microclimatiques",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette recherche vise à identifier les impacts des conditions météorologiques (vagues de chaleur et pollution atmosphérique) sur le risque de poussées de sclérose en plaques et d’accumulation du handicap neurologique dans différentes zones microclimatiques.",
-        "contexte": "",
-        "problematique": "Le contexte actuel souligne l'importance des facteurs environnementaux, notamment la pollution atmosphérique et les conditions météorologiques (vagues de chaleur), sur le risque de maladies neurologiques comme la sclérose en plaques.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les impacts des vagues de chaleur et de la pollution atmosphérique sur le risque de poussées de sclérose en plaques",
-            "Évaluer l’effet du climat sur la prévalence de la SEP dans différentes zones microclimatiques",
-            "Analyser les mécanismes par lesquels les conditions météorologiques influencent le risque de maladies neurologiques"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\062_2023_impact_des_vagues_de_chaleur_et_de_la_pollution_sur_le_risque_de_poussees_de_sclerose_en_plaques_et_d_accumulation_du_ha.txt",
-    "nom_fichier": "062_2023_impact_des_vagues_de_chaleur_et_de_la_pollution_sur_le_risque_de_poussees_de_sclerose_en_plaques_et_d_accumulation_du_ha.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Impact des vagues de chaleur et de la pollution sur le risque de poussées de sclérose en plaques et d’accumulation du handicap neurologique dans différentes zones microclimatiques",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette recherche vise à identifier les impacts des conditions météorologiques (vagues de chaleur et pollution atmosphérique) sur le risque de poussées de sclérose en plaques et d’accumulation du handicap neurologique dans différentes zones microclimatiques.",
+    "contexte": "",
+    "problematique": "Le contexte actuel souligne l'importance des facteurs environnementaux, notamment la pollution atmosphérique et les conditions météorologiques (vagues de chaleur), sur le risque de maladies neurologiques comme la sclérose en plaques.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les impacts des vagues de chaleur et de la pollution atmosphérique sur le risque de poussées de sclérose en plaques",
+      "Évaluer l’effet du climat sur la prévalence de la SEP dans différentes zones microclimatiques",
+      "Analyser les mécanismes par lesquels les conditions météorologiques influencent le risque de maladies neurologiques"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\062_2023_impact_des_vagues_de_chaleur_et_de_la_pollution_sur_le_risque_de_poussees_de_sclerose_en_plaques_et_d_accumulation_du_ha.txt",
+  "nom_fichier": "062_2023_impact_des_vagues_de_chaleur_et_de_la_pollution_sur_le_risque_de_poussees_de_sclerose_en_plaques_et_d_accumulation_du_ha.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/impact-des-vagues-de-chaleur-et-de-la-pollution-sur-le-risque-de-poussees-de-sclerose-en-plaques-et-daccumulation-du-handicap-neurologique-dans-differentes-zones-microclimatiques/",
+  "original_title": "Impact des vagues de chaleur et de la pollution sur le risque de poussées de sclérose en plaques et d’accumulation du handicap neurologique dans différentes zones microclimatiques",
+  "collection_date": ""
 }

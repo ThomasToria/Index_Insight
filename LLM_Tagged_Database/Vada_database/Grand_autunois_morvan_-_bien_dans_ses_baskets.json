@@ -1,32 +1,44 @@
 {
-    "titre": "Grand autunois morvan - bien dans ses baskets",
-    "territoire": "Commune: Grand Autunois Morvan, Saône-et-Loire",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un atelier d'activité physique adaptée destiné aux aînés pour la prévention des chutes.",
-        "contexte": "La commune de Grand Autunois Morvan, située dans le département Saône-et-Loire, a identifié un défaut d'offre d'activités physiques adaptées pour les seniors. Le CIAS (Centre Intercommunal d'Action Sociale) a été choisi par le département pour la thématique de l'activité physique adaptée et prévention des chutes.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un atelier d'activité physique adaptée destiné aux aînés pour la prévention des chutes.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "M Léonetti, animateur issu de l'éducation populaire",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Grand_autunois_morvan_-_bien_dans_ses_baskets.txt",
-    "nom_fichier": "Grand_autunois_morvan_-_bien_dans_ses_baskets.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Grand autunois morvan - bien dans ses baskets",
+  "territoire": [
+    "grand autunois morvan, saône-et-loire"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un atelier d'activité physique adaptée destiné aux aînés pour la prévention des chutes.",
+    "contexte": "La commune de Grand Autunois Morvan, située dans le département Saône-et-Loire, a identifié un défaut d'offre d'activités physiques adaptées pour les seniors. Le CIAS (Centre Intercommunal d'Action Sociale) a été choisi par le département pour la thématique de l'activité physique adaptée et prévention des chutes.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un atelier d'activité physique adaptée destiné aux aînés pour la prévention des chutes.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "M Léonetti, animateur issu de l'éducation populaire",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Grand_autunois_morvan_-_bien_dans_ses_baskets.txt",
+  "nom_fichier": "Grand_autunois_morvan_-_bien_dans_ses_baskets.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/892-concours-2023-grand-autunois-morvan-bien-dans-ses-baskets.pdf",
+  "original_title": "Grand autunois morvan - bien dans ses baskets",
+  "collection_date": ""
 }

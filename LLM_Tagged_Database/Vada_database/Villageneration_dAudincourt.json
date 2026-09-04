@@ -1,32 +1,42 @@
 {
-    "titre": "Villagéneration d'Audincourt",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Le concept Villagénération est une construction d'un micro quartier avec des maisons T2/T3 adaptées pour seniors, une solution de logement social autonome entre le domicile et l'EHPAD. Elle est composée d'une salle commune dans laquelle des services et animations sont proposés, d'une hôtesse présente tous les jours de la semaine pour faciliter la vie quotidienne des locataires, générer du lien social et des moments de convivialité et d'un lieu ouvert sur l'extérieur avec la proximité des commerces, des transports et la participation des habitants de la commune, des écoles aux animations.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Les bénéfices sont que les locataires peuvent ainsi rester plus longtemps autonomes et sont accompagnés dans la perte d'autonomie. L'isolement d'un senior dans une Villagénération est impossible. Les logements et l'environnement bénéficient d'adaptations pour seniors. Les locataires bénéficient d'un accompagnement à la carte, conservent et peuvent développer une vie sociale.",
-        "objectifs": [
-            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La Ville d'Audincourt",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Villageneration_dAudincourt.txt",
-    "nom_fichier": "Villageneration_dAudincourt.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Villagéneration d'Audincourt",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Le concept Villagénération est une construction d'un micro quartier avec des maisons T2/T3 adaptées pour seniors, une solution de logement social autonome entre le domicile et l'EHPAD. Elle est composée d'une salle commune dans laquelle des services et animations sont proposés, d'une hôtesse présente tous les jours de la semaine pour faciliter la vie quotidienne des locataires, générer du lien social et des moments de convivialité et d'un lieu ouvert sur l'extérieur avec la proximité des commerces, des transports et la participation des habitants de la commune, des écoles aux animations.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Les bénéfices sont que les locataires peuvent ainsi rester plus longtemps autonomes et sont accompagnés dans la perte d'autonomie. L'isolement d'un senior dans une Villagénération est impossible. Les logements et l'environnement bénéficient d'adaptations pour seniors. Les locataires bénéficient d'un accompagnement à la carte, conservent et peuvent développer une vie sociale.",
+    "objectifs": [
+      "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La Ville d'Audincourt",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Villageneration_dAudincourt.txt",
+  "nom_fichier": "Villageneration_dAudincourt.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/684-pe-25-villageneration-d-audincourt-neolia-2.pdf",
+  "original_title": "Villagéneration d'Audincourt",
+  "collection_date": ""
 }

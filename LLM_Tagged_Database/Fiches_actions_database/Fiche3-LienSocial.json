@@ -1,32 +1,40 @@
 {
-    "titre": "Création d'un Conseil des Ainés",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "groupe de parole",
-    "description": {
-        "description_generale": "La création d'un conseil des ainés pour permettre aux personnes âgées de donner leur avis, participer à la vie communautaire et valoriser leurs contributions.",
-        "contexte": "Les ainés sont souvent isolés dans leur communauté et manquent de voix. Ils souhaitent être entendus mais ne peuvent pas se faire entendre par les services publics ou les associations locales.",
-        "problematique": "Le besoin de renforcer les liens entre les ainés, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un conseil des ainés sera créé pour permettre aux personnes âgées d'exprimer leurs opinions et de participer activement à la vie communautaire. Ce conseil sera composé de membres volontaires de plus de 60 ans, qui seront élus parmi les ainés eux-mêmes.",
-        "objectifs": [
-            "Permettre aux ainés de donner leur avis et prendre la parole",
-            "Etre force de propositions sur la vie des ainées dans la commune",
-            "Participer à la vie de la cité à part entière",
-            "…"
-        ]
-    },
-    "porteur_initiative": "Commune de la ville",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "culture et loisirs"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche3-LienSocial.txt",
-    "nom_fichier": "Fiche3-LienSocial.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Création d'un Conseil des Ainés",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "consultation citoyenne",
+  "description": {
+    "description_generale": "La création d'un conseil des ainés pour permettre aux personnes âgées de donner leur avis, participer à la vie communautaire et valoriser leurs contributions.",
+    "contexte": "Les ainés sont souvent isolés dans leur communauté et manquent de voix. Ils souhaitent être entendus mais ne peuvent pas se faire entendre par les services publics ou les associations locales.",
+    "problematique": "Le besoin de renforcer les liens entre les ainés, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un conseil des ainés sera créé pour permettre aux personnes âgées d'exprimer leurs opinions et de participer activement à la vie communautaire. Ce conseil sera composé de membres volontaires de plus de 60 ans, qui seront élus parmi les ainés eux-mêmes.",
+    "objectifs": [
+      "Permettre aux ainés de donner leur avis et prendre la parole",
+      "Etre force de propositions sur la vie des ainées dans la commune",
+      "Participer à la vie de la cité à part entière",
+      "…"
+    ]
+  },
+  "porteur_initiative": "Commune de la ville",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "culture et loisirs"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche3-LienSocial.txt",
+  "nom_fichier": "Fiche3-LienSocial.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "consultation citoyenne",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche3-LienSocial.pdf",
+  "collection_date": ""
 }

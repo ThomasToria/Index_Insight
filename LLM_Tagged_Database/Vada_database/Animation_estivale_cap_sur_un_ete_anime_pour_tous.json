@@ -1,32 +1,44 @@
 {
-    "titre": "Animation estivale: cap sur un été animé pour tous!",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Le dispositif Animation estivale propose aux enfants de 5 à 16 ans un programme d'animations diverses et variées pendant cinq semaines d’été. Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
-        "contexte": "Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des animations pour les accompagnants qui déposent les enfants aux animations estivales. Cette proposition a été accueillie très positivement par le service jeunesse, éducation populaire et vie étudiante.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association qui œuvre dans les thématiques choisies: activité physique et bien-être",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Animation_estivale_cap_sur_un_ete_anime_pour_tous.txt",
-    "nom_fichier": "Animation_estivale_cap_sur_un_ete_anime_pour_tous.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Animation estivale: cap sur un été animé pour tous!",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Le dispositif Animation estivale propose aux enfants de 5 à 16 ans un programme d'animations diverses et variées pendant cinq semaines d’été. Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
+    "contexte": "Les animations proposées aux enfants sont en moyenne d’une durée de 2h, et les parents ou grands-parents qui déposent les enfants, n’ont souvent pas la possibilité de profiter de ce temps pour une occupation propre, et souvent ils patientent en attendant la fin de l’activité.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des animations pour les accompagnants qui déposent les enfants aux animations estivales. Cette proposition a été accueillie très positivement par le service jeunesse, éducation populaire et vie étudiante.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association qui œuvre dans les thématiques choisies: activité physique et bien-être",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Animation_estivale_cap_sur_un_ete_anime_pour_tous.txt",
+  "nom_fichier": "Animation_estivale_cap_sur_un_ete_anime_pour_tous.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/289-289-metz-culture-et-loisirs-pe.pdf",
+  "original_title": "Animation estivale : cap sur un été animé pour tous !",
+  "collection_date": ""
 }

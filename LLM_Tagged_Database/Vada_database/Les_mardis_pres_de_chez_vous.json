@@ -1,33 +1,43 @@
 {
-    "titre": "Les mardis près de chez vous",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Concours pour favoriser le lien social dans les territoires éloignés, organisé par la Ville de Claix.",
-        "contexte": "Certaines activités et animations du quartier de Claix ont été supprimées, notamment des midis amicaux intergénérationnels ou des rencontres hebdomadaires. La demande était forte pour renouer avec les personnes âgées et l'ensemble des habitants.",
-        "problematique": "Renforcement du lien social dans les territoires éloignés, lutte contre l'isolement en favorisant les rencontres intergénérationnelles.",
-        "solution_envisagee": "Organisation de réunions pour organiser des après-midis conviviaux et jeux de société ou jeux collectifs.",
-        "objectifs": [
-            "Redynamiser le quartier de Pont Rouge",
-            "Favoriser les rencontres entre habitants, personnes âgées, et la société civile",
-            "Valoriser l'histoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Claix (centre social, services petite enfance et gérontologie) et médiathèque",
-    "date": [
-        "depuis 2018"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mardis_pres_de_chez_vous.txt",
-    "nom_fichier": "Les_mardis_pres_de_chez_vous.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les mardis près de chez vous",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Concours pour favoriser le lien social dans les territoires éloignés, organisé par la Ville de Claix.",
+    "contexte": "Certaines activités et animations du quartier de Claix ont été supprimées, notamment des midis amicaux intergénérationnels ou des rencontres hebdomadaires. La demande était forte pour renouer avec les personnes âgées et l'ensemble des habitants.",
+    "problematique": "Renforcement du lien social dans les territoires éloignés, lutte contre l'isolement en favorisant les rencontres intergénérationnelles.",
+    "solution_envisagee": "Organisation de réunions pour organiser des après-midis conviviaux et jeux de société ou jeux collectifs.",
+    "objectifs": [
+      "Redynamiser le quartier de Pont Rouge",
+      "Favoriser les rencontres entre habitants, personnes âgées, et la société civile",
+      "Valoriser l'histoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Claix (centre social, services petite enfance et gérontologie) et médiathèque",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mardis_pres_de_chez_vous.txt",
+  "nom_fichier": "Les_mardis_pres_de_chez_vous.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/702-pe-2-les-mardis-pres-de-chez-vous-claix.pdf",
+  "original_title": "Les mardis près de chez vous",
+  "collection_date": ""
 }

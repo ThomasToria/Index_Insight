@@ -1,35 +1,47 @@
 {
-    "titre": "Forum seniors dédié au bien-vieillir",
-    "territoire": "Commune: Sassenage, Grenoble (38)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Suite à la tenue d'un salon de l'autonomie organisé par le département de l'Isère en partenariat avec la Ville de Sassenage (38) en 2019, le département a souhaité proposer un évènement de plus grande ampleur, sur le territoire de l'agglomération grenobloise. Pour la première fois, la Ville et le CCAS de Grenoble organisent en 2022, aux côtés du Conseil départemental de l'Isère, un Forum Seniors dédié au bien-vieillir.",
-        "contexte": "Suite à une initiative précédente concernant les aînés et les aidants familiaux, le département souhaite renforcer la participation des personnes âgées et leurs proches aux actions menées dans le domaine de l'autonomie. Le forum vise également à faciliter l'information et l'orientation des résidents, ainsi que d'autres acteurs du territoire.",
-        "problematique": "Renforcement des liens entre les aînés, leurs proches et la société civile pour favoriser le bien-vieillir.",
-        "solution_envisagee": "Organisation de forums seniors dédiés au bien-vieillir, promotion d'ateliers découverte, animation de table-ronde sur l'habitat, etc.",
-        "objectifs": [
-            "Favoriser l'accès à l'information et aux droits des aînés comme des aidants",
-            "Encourager les initiatives des habitants",
-            "Faciliter l'orientation et le repérage au sein des dispositifs existants",
-            "Soutenir l'articulation entre l'offre de service gérontologique municipale, départementale et associative",
-            "Soutenir la participation et l'inscription dans la vie sociale locale"
-        ]
-    },
-    "porteur_initiative": "Ville Membre depuis 2016",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_seniors_dedie_au_bien-vieillir.txt",
-    "nom_fichier": "Forum_seniors_dedie_au_bien-vieillir.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Forum seniors dédié au bien-vieillir",
+  "territoire": [
+    "sassenage, grenoble (38)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Suite à la tenue d'un salon de l'autonomie organisé par le département de l'Isère en partenariat avec la Ville de Sassenage (38) en 2019, le département a souhaité proposer un évènement de plus grande ampleur, sur le territoire de l'agglomération grenobloise. Pour la première fois, la Ville et le CCAS de Grenoble organisent en 2022, aux côtés du Conseil départemental de l'Isère, un Forum Seniors dédié au bien-vieillir.",
+    "contexte": "Suite à une initiative précédente concernant les aînés et les aidants familiaux, le département souhaite renforcer la participation des personnes âgées et leurs proches aux actions menées dans le domaine de l'autonomie. Le forum vise également à faciliter l'information et l'orientation des résidents, ainsi que d'autres acteurs du territoire.",
+    "problematique": "Renforcement des liens entre les aînés, leurs proches et la société civile pour favoriser le bien-vieillir.",
+    "solution_envisagee": "Organisation de forums seniors dédiés au bien-vieillir, promotion d'ateliers découverte, animation de table-ronde sur l'habitat, etc.",
+    "objectifs": [
+      "Favoriser l'accès à l'information et aux droits des aînés comme des aidants",
+      "Encourager les initiatives des habitants",
+      "Faciliter l'orientation et le repérage au sein des dispositifs existants",
+      "Soutenir l'articulation entre l'offre de service gérontologique municipale, départementale et associative",
+      "Soutenir la participation et l'inscription dans la vie sociale locale"
+    ]
+  },
+  "porteur_initiative": "Ville Membre depuis 2016",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_seniors_dedie_au_bien-vieillir.txt",
+  "nom_fichier": "Forum_seniors_dedie_au_bien-vieillir.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/794-concours-2022-15-forum-seniors-dedie-au-bien-vieillir.pdf",
+  "original_title": "Forum seniors dédié au bien-vieillir",
+  "collection_date": ""
 }

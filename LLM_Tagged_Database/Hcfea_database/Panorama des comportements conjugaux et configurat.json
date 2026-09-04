@@ -1,31 +1,40 @@
 {
-    "titre": "Panorama des comportements conjugaux et configurations familiales chez les seniors",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Grandes évolutions et conséquences pour les personnes et les politiques publiques",
-        "contexte": "Publication du Conseil de la famille, de l'enfance et de l'âge (HCFEA) sur le sujet des comportements conjugaux et configurations familiales chez les seniors.",
-        "problematique": "Grandes évolutions sociétales concernant les couples et familles dans notre pays touchent également les seniors. Les femmes âgées sont plus exposées aux conséquences de la vie, notamment à la séparation, tandis que le maintien en couple expose les seniors à des violences.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les mutations démographiques et sociologiques profondes qui affectent les couples et familles dans notre pays",
-            "Analyser les conséquences de ces évolutions sur les personnes âgées et les politiques publiques"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "politiques publiques"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Panorama des comportements conjugaux et configurat.txt",
-    "nom_fichier": "Panorama des comportements conjugaux et configurat.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Panorama des comportements conjugaux et configurations familiales chez les seniors",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Grandes évolutions et conséquences pour les personnes et les politiques publiques",
+    "contexte": "Publication du Conseil de la famille, de l'enfance et de l'âge (HCFEA) sur le sujet des comportements conjugaux et configurations familiales chez les seniors.",
+    "problematique": "Grandes évolutions sociétales concernant les couples et familles dans notre pays touchent également les seniors. Les femmes âgées sont plus exposées aux conséquences de la vie, notamment à la séparation, tandis que le maintien en couple expose les seniors à des violences.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les mutations démographiques et sociologiques profondes qui affectent les couples et familles dans notre pays",
+      "Analyser les conséquences de ces évolutions sur les personnes âgées et les politiques publiques"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "politiques publiques"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Panorama des comportements conjugaux et configurat.txt",
+  "nom_fichier": "Panorama des comportements conjugaux et configurat.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "politiques publiques et recherche"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/panorama-des-comportements-conjugaux-et-configurations-familiales-chez-les-seniors",
+  "original_title": "Panorama des comportements conjugaux et configurations familiales chez les seniors",
+  "collection_date": ""
 }

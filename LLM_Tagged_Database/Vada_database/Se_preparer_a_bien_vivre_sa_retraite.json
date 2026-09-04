@@ -1,34 +1,46 @@
 {
-    "titre": "Se préparer à bien vivre sa retraite",
-    "territoire": "Commune: Rennes, Métropole",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette formation est destinée aux agents de la collectivité et du CCAS de Rennes, qui sont à deux ans de la retraite.",
-        "contexte": "Le départ en retraite implique une réorganisation mentale et nécessite un accompagnement pour préparer au mieux les agents à leur transition.",
-        "problematique": "La problématique est l'accompagnement des agents à leur départ en retraite, qui implique une réorganisation mentale et nécessite un changement de comportement.",
-        "solution_envisagee": "Cette formation vise à aider les agents à préparer au mieux leur transition vers la retraite, en leur proposant d'organiser des activités de loisirs ou de bénévolat pour faciliter le passage à l'âge adulte et à identifier les changements attendus.",
-        "objectifs": [
-            "Aider les agents à préparer au mieux leur départ en retraite",
-            "Fournir une formation positive et bienveillante sur la transition vers la retraite",
-            "Encourager l'engagement des participants dans des activités de loisirs ou de bénévolat pour faciliter le passage à l'âge adulte"
-        ]
-    },
-    "porteur_initiative": "La DRH (Direction Ressources Humaines) et les élus locaux et professionnels territoriaux",
-    "date": [
-        "depuis 2018"
-    ],
-    "thematique": [
-        "culture et loisirs",
-        "services et accompagnement",
-        "politiques publiques"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_preparer_a_bien_vivre_sa_retraite.txt",
-    "nom_fichier": "Se_preparer_a_bien_vivre_sa_retraite.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Se préparer à bien vivre sa retraite",
+  "territoire": [
+    "rennes, métropole"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette formation est destinée aux agents de la collectivité et du CCAS de Rennes, qui sont à deux ans de la retraite.",
+    "contexte": "Le départ en retraite implique une réorganisation mentale et nécessite un accompagnement pour préparer au mieux les agents à leur transition.",
+    "problematique": "La problématique est l'accompagnement des agents à leur départ en retraite, qui implique une réorganisation mentale et nécessite un changement de comportement.",
+    "solution_envisagee": "Cette formation vise à aider les agents à préparer au mieux leur transition vers la retraite, en leur proposant d'organiser des activités de loisirs ou de bénévolat pour faciliter le passage à l'âge adulte et à identifier les changements attendus.",
+    "objectifs": [
+      "Aider les agents à préparer au mieux leur départ en retraite",
+      "Fournir une formation positive et bienveillante sur la transition vers la retraite",
+      "Encourager l'engagement des participants dans des activités de loisirs ou de bénévolat pour faciliter le passage à l'âge adulte"
+    ]
+  },
+  "porteur_initiative": "La DRH (Direction Ressources Humaines) et les élus locaux et professionnels territoriaux",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "culture et loisirs",
+    "services et accompagnement",
+    "politiques publiques"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_preparer_a_bien_vivre_sa_retraite.txt",
+  "nom_fichier": "Se_preparer_a_bien_vivre_sa_retraite.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "culture et loisirs",
+    "services et accompagnement",
+    "politiques publiques et recherche"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/816-concours2022-37-se-preparer-a-bien-vivre-sa-retraite.pdf",
+  "original_title": "Se préparer à bien vivre sa retraite",
+  "collection_date": ""
 }

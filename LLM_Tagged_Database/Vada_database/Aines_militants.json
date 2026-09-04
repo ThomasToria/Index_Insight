@@ -1,41 +1,49 @@
 {
-    "titre": "Aînés militants",
-    "territoire": [
-        "communale"
+  "titre": "Aînés militants",
+  "territoire": [],
+  "echelle": [
+    "départementale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "plaidoyer",
+  "description": {
+    "description_generale": "La CFDT Retraités a lancé une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement, notamment auprès d'organisations locales, départementales et régionales.",
+    "contexte": "Le con/f_inement du Covid-19 a conduit à un isolement accru pour les personnes âgées, particulièrement vulnérables. Les organisations de la CFDT Retraités ont pris en charge ce besoin en organisant des actions telles que l'enquête, le forum, et la mise en place d'une plateforme téléphonique.",
+    "problematique": "Le besoin de maintenir les liens sociaux avec les personnes âgées, notamment les plus vulnérables, pendant le confinement pour éviter l'isolement et valoriser leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": [
+      "enquête",
+      "forum",
+      "mise en place d'une plateforme téléphonique"
     ],
-    "echelle": [
-        "départementale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "plaidoyer",
-    "description": {
-        "description_generale": "La CFDT Retraités a lancé une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement, notamment auprès d'organisations locales, départementales et régionales.",
-        "contexte": "Le con/f_inement du Covid-19 a conduit à un isolement accru pour les personnes âgées, particulièrement vulnérables. Les organisations de la CFDT Retraités ont pris en charge ce besoin en organisant des actions telles que l'enquête, le forum, et la mise en place d'une plateforme téléphonique.",
-        "problematique": "Le besoin de maintenir les liens sociaux avec les personnes âgées, notamment les plus vulnérables, pendant le confinement pour éviter l'isolement et valoriser leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": [
-            "enquête",
-            "forum",
-            "mise en place d'une plateforme téléphonique"
-        ],
-        "objectifs": [
-            "Lancer une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement auprès d'organisations locales, départementales et régionales.",
-            "Organiser un forum",
-            "Se renseigner sur les besoins des adhérents grâce à des questionnaires",
-            "Mettre en œuvre actions telles que la publication d'un journal, l'envoi de messages vidéos, et mettre en place une plateforme téléphonique."
-        ]
-    },
-    "porteur_initiative": "CFDT Retraités",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aines_militants.txt",
-    "nom_fichier": "Aines_militants.txt",
-    "statut_action": "projet réalisé"
+    "objectifs": [
+      "Lancer une enquête sur la prise en charge des problèmes des personnes âgées liés au confinement auprès d'organisations locales, départementales et régionales.",
+      "Organiser un forum",
+      "Se renseigner sur les besoins des adhérents grâce à des questionnaires",
+      "Mettre en œuvre actions telles que la publication d'un journal, l'envoi de messages vidéos, et mettre en place une plateforme téléphonique."
+    ]
+  },
+  "porteur_initiative": "CFDT Retraités",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aines_militants.txt",
+  "nom_fichier": "Aines_militants.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "plaidoyer",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/619-cfdt-aines-militants.pdf",
+  "original_title": "Aînés militants",
+  "collection_date": ""
 }

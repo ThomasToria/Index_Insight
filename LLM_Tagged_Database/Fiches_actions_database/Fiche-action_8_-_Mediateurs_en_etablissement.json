@@ -1,32 +1,44 @@
 {
-    "titre": "",
-    "territoire": "Metz",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Médiateurs bénévoles en établissement puis à domicile et commission de suivi pour favoriser la détection et la résolution des problèmes relatifs aux droits des personnes âgées et leur qualité de vie en établissement.",
-        "contexte": "",
-        "problematique": "La fermeture des établissements pendant la pandémie a limité la capacité des familles et des bénévoles à avoir un regard sur la qualité de vie quotidienne des résidents, entravant ainsi leur capacité à proposer des améliorations dans le fonctionnement des structures et les réponses aux besoins des personnes âgées.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Favoriser la détection et la résolution des problèmes relatifs aux droits des personnes âgées et leur qualité de vie en établissement",
-            "Mobiliser les actions bénévoles de proximité"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_8_-_Mediateurs_en_etablissement.txt",
-    "nom_fichier": "Fiche-action_8_-_Mediateurs_en_etablissement.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Fiche-action 8 - Médiateurs en établissement",
+  "territoire": [
+    "metz"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "dispositif ou programme",
+  "description": {
+    "description_generale": "Médiateurs bénévoles en établissement puis à domicile et commission de suivi pour favoriser la détection et la résolution des problèmes relatifs aux droits des personnes âgées et leur qualité de vie en établissement.",
+    "contexte": "",
+    "problematique": "La fermeture des établissements pendant la pandémie a limité la capacité des familles et des bénévoles à avoir un regard sur la qualité de vie quotidienne des résidents, entravant ainsi leur capacité à proposer des améliorations dans le fonctionnement des structures et les réponses aux besoins des personnes âgées.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Favoriser la détection et la résolution des problèmes relatifs aux droits des personnes âgées et leur qualité de vie en établissement",
+      "Mobiliser les actions bénévoles de proximité"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_8_-_Mediateurs_en_etablissement.txt",
+  "nom_fichier": "Fiche-action_8_-_Mediateurs_en_etablissement.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 8 - Médiateurs en établissement.pdf",
+  "collection_date": ""
 }

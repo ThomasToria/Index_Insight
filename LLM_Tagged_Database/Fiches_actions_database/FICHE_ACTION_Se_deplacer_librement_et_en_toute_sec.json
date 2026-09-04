@@ -1,30 +1,40 @@
 {
-    "titre": "Se déplacer librement et en toute sécurité",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Cette fiche action vise à alimenter des réflexions en cours sur la problématique de mobilité et d'aménagement urbain pour les personnes âgées.",
-        "contexte": "La notion de 'vieillir chez soi' est une priorité des politiques publiques, mais elle doit s'étendre à l'espace public urbain pour maintenir la sécurité, les relations sociales et éviter l'isolement. La perte de mobilité due à la perte d'autonomie a été identifiée comme un facteur majeur de l’isolement.",
-        "problematique": "La perte de mobilité due à la perte d’autonomie est un facteur majeur de l'isolement, impactant les personnes âgées qui abandonnent leur conduite automobile et ont du mal à accéder aux transports publics.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_Se_deplacer_librement_et_en_toute_sec.txt",
-    "nom_fichier": "FICHE_ACTION_Se_deplacer_librement_et_en_toute_sec.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Se déplacer librement et en toute sécurité",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "projet d'aménagement",
+  "description": {
+    "description_generale": "Cette fiche action vise à alimenter des réflexions en cours sur la problématique de mobilité et d'aménagement urbain pour les personnes âgées.",
+    "contexte": "La notion de 'vieillir chez soi' est une priorité des politiques publiques, mais elle doit s'étendre à l'espace public urbain pour maintenir la sécurité, les relations sociales et éviter l'isolement. La perte de mobilité due à la perte d'autonomie a été identifiée comme un facteur majeur de l’isolement.",
+    "problematique": "La perte de mobilité due à la perte d’autonomie est un facteur majeur de l'isolement, impactant les personnes âgées qui abandonnent leur conduite automobile et ont du mal à accéder aux transports publics.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_Se_deplacer_librement_et_en_toute_sec.txt",
+  "nom_fichier": "FICHE_ACTION_Se_deplacer_librement_et_en_toute_sec.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "projet d'aménagement",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE ACTION_Se déplacer librement et en toute sécurité.pdf",
+  "collection_date": ""
 }

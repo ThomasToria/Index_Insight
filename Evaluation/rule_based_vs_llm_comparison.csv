@@ -1,0 +1,4 @@
+﻿f1_difference_llm_minus_rule;field;llm_exact_match;llm_f1;llm_precision;llm_recall;n_annotated;rule_based_exact_match;rule_based_f1;rule_based_precision;rule_based_recall
+0.717;public_vise;1.0;1.0;1.0;1.0;60;0.283;0.283;0.283;0.283
+0.607;echelle;0.983;0.993;1.0;0.987;60;0.15;0.386;0.347;0.436
+0.431;nature_initiative;1.0;1.0;1.0;1.0;60;0.55;0.569;0.589;0.55

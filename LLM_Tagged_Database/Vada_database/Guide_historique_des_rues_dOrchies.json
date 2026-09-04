@@ -1,33 +1,44 @@
 {
-    "titre": "Guide historique des rues d’Orchies",
-    "territoire": "Commune: Orchies, Métropole: Paris",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un ouvrage matériauisant patrimoine et culture. Le projet consiste en la rédaction et l'édition d'un ouvrage retraçant l’histoire des rues d’Orchies, leur dénomination, leur patrimoine, leur évolution depuis le XIXe siècle, ainsi que sur leur visage actuel.",
-        "contexte": "La ville de Orchies a souhaité transmettre les petites histoires et l'histoire de ses rues à un large public. Le projet vise également à valoriser la mémoire des anciens résidents et leurs contributions à l’histoire locale, en mettant en lumière des personnalités orchésiennes.",
-        "problematique": "La problématique du guide historique est de transmettre aux habitants et visiteurs les petites histoires et l'histoire de la ville d'Orchies, à travers une réflexion sur l'évolution et le patrimoine des rues depuis le XIXe siècle jusqu'à leur visage actuel.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "valoriser la mémoire vivante des aînés",
-            "renforcer les liens entre les résidents et leur communauté"
-        ]
-    },
-    "porteur_initiative": "Conseil des sages, municipalité",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_historique_des_rues_dOrchies.txt",
-    "nom_fichier": "Guide_historique_des_rues_dOrchies.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Guide historique des rues d’Orchies",
+  "territoire": [
+    "orchies, métropole: paris"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un ouvrage matériauisant patrimoine et culture. Le projet consiste en la rédaction et l'édition d'un ouvrage retraçant l’histoire des rues d’Orchies, leur dénomination, leur patrimoine, leur évolution depuis le XIXe siècle, ainsi que sur leur visage actuel.",
+    "contexte": "La ville de Orchies a souhaité transmettre les petites histoires et l'histoire de ses rues à un large public. Le projet vise également à valoriser la mémoire des anciens résidents et leurs contributions à l’histoire locale, en mettant en lumière des personnalités orchésiennes.",
+    "problematique": "La problématique du guide historique est de transmettre aux habitants et visiteurs les petites histoires et l'histoire de la ville d'Orchies, à travers une réflexion sur l'évolution et le patrimoine des rues depuis le XIXe siècle jusqu'à leur visage actuel.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "valoriser la mémoire vivante des aînés",
+      "renforcer les liens entre les résidents et leur communauté"
+    ]
+  },
+  "porteur_initiative": "Conseil des sages, municipalité",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_historique_des_rues_dOrchies.txt",
+  "nom_fichier": "Guide_historique_des_rues_dOrchies.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/620-orchies-guide-historique.pdf",
+  "original_title": "Guide historique des rues d’Orchies",
+  "collection_date": ""
 }

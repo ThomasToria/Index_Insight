@@ -1,29 +1,39 @@
 {
-    "titre": "Autonomie du sujet âgé: Ses différents modes d'évaluation et ses relations avec la solitude.",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte. Alors que bien vieillir est devenu une priorité sociétale, il est nécessaire d'une part de mieux connaitre et comprendre le processus d'évolution vers la perte d'autonomie du sujet âgé, en considérant à la fois les difficultés objectivement rencontrées dans la vie quotidienne mais également les perceptions de la personne concernée. D'autre part, il est également crucial d'identifier des leviers d'action sur lesquels il est possible d'agir de manière efficace.",
-        "contexte": "",
-        "problematique": "Contexte. Alors que bien vieillir est devenu une priorité sociétale, il est nécessaire d'une part de mieux connaitre et comprendre le processus d'évolution vers la perte d'autonomie du sujet âgé, en considérant à la fois les difficultés objectivement rencontrées dans la vie quotidienne mais également les perceptions de la personne concernée. D'autre part, il est également crucial d'identifier des leviers d'action sur lesquels il est possible d'agir de manière efficace.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\014_2023_autonomie_du_sujet_age_ses_differents_modes_d_evaluation_et_ses_relations_avec_la_solitude.txt",
-    "nom_fichier": "014_2023_autonomie_du_sujet_age_ses_differents_modes_d_evaluation_et_ses_relations_avec_la_solitude.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Autonomie du sujet âgé: Ses différents modes d'évaluation et ses relations avec la solitude.",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte. Alors que bien vieillir est devenu une priorité sociétale, il est nécessaire d'une part de mieux connaitre et comprendre le processus d'évolution vers la perte d'autonomie du sujet âgé, en considérant à la fois les difficultés objectivement rencontrées dans la vie quotidienne mais également les perceptions de la personne concernée. D'autre part, il est également crucial d'identifier des leviers d'action sur lesquels il est possible d'agir de manière efficace.",
+    "contexte": "",
+    "problematique": "Contexte. Alors que bien vieillir est devenu une priorité sociétale, il est nécessaire d'une part de mieux connaitre et comprendre le processus d'évolution vers la perte d'autonomie du sujet âgé, en considérant à la fois les difficultés objectivement rencontrées dans la vie quotidienne mais également les perceptions de la personne concernée. D'autre part, il est également crucial d'identifier des leviers d'action sur lesquels il est possible d'agir de manière efficace.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\014_2023_autonomie_du_sujet_age_ses_differents_modes_d_evaluation_et_ses_relations_avec_la_solitude.txt",
+  "nom_fichier": "014_2023_autonomie_du_sujet_age_ses_differents_modes_d_evaluation_et_ses_relations_avec_la_solitude.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/autonomie-du-sujet-age-ses-differents-modes-devaluation-et-ses-relations-avec-la-solitude/",
+  "original_title": "Autonomie du sujet âgé : Ses différents modes d’évaluation et ses relations avec la solitude.",
+  "collection_date": ""
 }

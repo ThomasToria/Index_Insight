@@ -1,33 +1,43 @@
 {
-    "titre": "Paris en compagnie: aidons les aînés à se déplacer!",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Paris en Compagnie vise à lutter contre l’isolement des aînés parisiens de plus de 65 ans en leur proposant d’être accompagnés gratuitement dans leurs sorties de proximité, par des bénévoles appelés citoyens engagés.",
-        "contexte": "Le dispositif Paris en Compagnie s'adresse aux aînés parisiens de plus de 65 ans. Les seuls critères d'inclusion sont de résider à Paris et d'être dans une situation d'isolement ou ayant un ressenti d'isolement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Paris en Compagnie vise à faciliter l'engagement de tous les citoyens. Elle propose d'accompagner les aînés par des bénévoles appelés citoyens engagés, ce qui permet de créer du lien dans leurs quartiers.",
-        "objectifs": [
-            "Prévenir et lutter contre les situations d’isolement des aînés parisiens",
-            "Faciliter l’engagement de tous les citoyens",
-            "Favoriser la coordination des acteurs"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Paris_en_compagnie_aidons_les_aines_a_se_deplacer.txt",
-    "nom_fichier": "Paris_en_compagnie_aidons_les_aines_a_se_deplacer.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Paris en compagnie: aidons les aînés à se déplacer!",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Paris en Compagnie vise à lutter contre l’isolement des aînés parisiens de plus de 65 ans en leur proposant d’être accompagnés gratuitement dans leurs sorties de proximité, par des bénévoles appelés citoyens engagés.",
+    "contexte": "Le dispositif Paris en Compagnie s'adresse aux aînés parisiens de plus de 65 ans. Les seuls critères d'inclusion sont de résider à Paris et d'être dans une situation d'isolement ou ayant un ressenti d'isolement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Paris en Compagnie vise à faciliter l'engagement de tous les citoyens. Elle propose d'accompagner les aînés par des bénévoles appelés citoyens engagés, ce qui permet de créer du lien dans leurs quartiers.",
+    "objectifs": [
+      "Prévenir et lutter contre les situations d’isolement des aînés parisiens",
+      "Faciliter l’engagement de tous les citoyens",
+      "Favoriser la coordination des acteurs"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Paris_en_compagnie_aidons_les_aines_a_se_deplacer.txt",
+  "nom_fichier": "Paris_en_compagnie_aidons_les_aines_a_se_deplacer.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/609-609-paris-en-compagnie.pdf",
+  "original_title": "Paris en compagnie : aidons les aînés à se déplacer !",
+  "collection_date": ""
 }

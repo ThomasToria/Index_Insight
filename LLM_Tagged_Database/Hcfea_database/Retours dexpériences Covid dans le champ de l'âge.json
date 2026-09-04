@@ -1,34 +1,44 @@
 {
-    "titre": "Retours d’expériences Covid dans le champ de l'âge",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Séminaire de travail HCFEA-CNSA du 12 octobre 2021",
-        "contexte": "",
-        "problematique": "Les retours d'expériences Covid ont montré des défis majeurs pour les Ehpad, les services à domicile et la continuité de vie des personnes âgées.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer l'échange intergénérationnel",
-            "Valoriser le rôle des résidents dans la société civile",
-            "Améliorer les conditions d'isolement et de sécurité"
-        ]
-    },
-    "porteur_initiative": "HCFEA-CNSA",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Retours dexpériences Covid dans le champ de l'âge.txt",
-    "nom_fichier": "Retours dexpériences Covid dans le champ de l'âge.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Retours d’expériences Covid dans le champ de l'âge",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Séminaire de travail HCFEA-CNSA du 12 octobre 2021",
+    "contexte": "",
+    "problematique": "Les retours d'expériences Covid ont montré des défis majeurs pour les Ehpad, les services à domicile et la continuité de vie des personnes âgées.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer l'échange intergénérationnel",
+      "Valoriser le rôle des résidents dans la société civile",
+      "Améliorer les conditions d'isolement et de sécurité"
+    ]
+  },
+  "porteur_initiative": "HCFEA-CNSA",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Retours dexpériences Covid dans le champ de l'âge.txt",
+  "nom_fichier": "Retours dexpériences Covid dans le champ de l'âge.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/retours-dexperiences-covid-dans-le-champ-de-lage",
+  "original_title": "Retours d’expériences Covid dans le champ de l'âge",
+  "collection_date": ""
 }

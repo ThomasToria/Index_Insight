@@ -1,33 +1,45 @@
 {
-    "titre": "Défilé de mode à Saint-Nazaire, les seniors sur la piste!",
-    "territoire": "Saint-Nazaire",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un défilé de mode organisé par les seniors du Pôle Prévention Seniors avec des ateliers de préparation à la création d'un défilé de mode.",
-        "contexte": "Les seniors isolés souhaitaient renforcer leur estime de soi et entretenir leurs liens sociaux, notamment avec les jeunes générations. Le projet a permis aux seniors de se familiariser avec le monde de la mode et d'appréhender des compétences nouvelles.",
-        "problematique": "Renforcement de l'estime de soi des seniors isolés pour entretenir leurs liens sociaux, notamment avec les jeunes générations.",
-        "solution_envisagee": "Organisation d'un défilé de mode avec des ateliers de préparation à la création d'un défilé de mode, animés par des intervenants spécialisés dans le domaine du seniors et de la mode.",
-        "objectifs": [
-            "Renforcer l'estime de soi des seniors isolés",
-            "Entretenir les liens sociaux entre les seniors et les jeunes générations",
-            "Favoriser une meilleure compréhension des seniors par les jeunes générations"
-        ]
-    },
-    "porteur_initiative": "Pôle Prévention Seniors, Ville Amie des Aînés de Saint-Nazaire depuis 2019",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_a_Saint-Nazaire_les_seniors_sur_la_piste.txt",
-    "nom_fichier": "Defile_de_mode_a_Saint-Nazaire_les_seniors_sur_la_piste.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Défilé de mode à Saint-Nazaire, les seniors sur la piste!",
+  "territoire": [
+    "saint-nazaire"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un défilé de mode organisé par les seniors du Pôle Prévention Seniors avec des ateliers de préparation à la création d'un défilé de mode.",
+    "contexte": "Les seniors isolés souhaitaient renforcer leur estime de soi et entretenir leurs liens sociaux, notamment avec les jeunes générations. Le projet a permis aux seniors de se familiariser avec le monde de la mode et d'appréhender des compétences nouvelles.",
+    "problematique": "Renforcement de l'estime de soi des seniors isolés pour entretenir leurs liens sociaux, notamment avec les jeunes générations.",
+    "solution_envisagee": "Organisation d'un défilé de mode avec des ateliers de préparation à la création d'un défilé de mode, animés par des intervenants spécialisés dans le domaine du seniors et de la mode.",
+    "objectifs": [
+      "Renforcer l'estime de soi des seniors isolés",
+      "Entretenir les liens sociaux entre les seniors et les jeunes générations",
+      "Favoriser une meilleure compréhension des seniors par les jeunes générations"
+    ]
+  },
+  "porteur_initiative": "Pôle Prévention Seniors, Ville Amie des Aînés de Saint-Nazaire depuis 2019",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_a_Saint-Nazaire_les_seniors_sur_la_piste.txt",
+  "nom_fichier": "Defile_de_mode_a_Saint-Nazaire_les_seniors_sur_la_piste.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/991-concours-2023-defile-de-mode-a-saint-nazaire-les-seniors-sur-la-piste.pdf",
+  "original_title": "Défilé de mode à Saint-Nazaire, les seniors sur la piste !",
+  "collection_date": ""
 }

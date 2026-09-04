@@ -1,32 +1,44 @@
 {
-    "titre": "",
-    "territoire": "Metz",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le Conseil des seniors de Metz est consulté très peu sur les questions de communication et de relai des informations ainsi que sur l’écriture d'Agenda des seniors. Il faudrait plus impliquer les membres du Conseil des seniors dans la construction des éléments de communications, notamment l'Agenda des seniors, et dans la distribution et le relai des informations.",
-        "contexte": "",
-        "problematique": "Le Conseil des seniors de Metz est peu consulté sur les questions de communication et de relai des informations ainsi que sur l’écriture d’Agenda des seniors. Il faudrait plus impliquer les membres du Conseil des seniors dans la construction des éléments de communications, notamment l'Agenda des seniors, et dans la distribution et le relai des informations.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Améliorer la participation des membres du Conseil des seniors à l’élaboration des informations concernant les seniors",
-            "Promouvoir une meilleure communication entre les seniors, leurs proches et la société civile"
-        ]
-    },
-    "porteur_initiative": "Conseil des seniors de Metz",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "services et accompagnement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_11_-_Implication.txt",
-    "nom_fichier": "Fiche-action_11_-_Implication.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Fiche-action 11 - Implication",
+  "territoire": [
+    "metz"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "consultation citoyenne",
+  "description": {
+    "description_generale": "Le Conseil des seniors de Metz est consulté très peu sur les questions de communication et de relai des informations ainsi que sur l’écriture d'Agenda des seniors. Il faudrait plus impliquer les membres du Conseil des seniors dans la construction des éléments de communications, notamment l'Agenda des seniors, et dans la distribution et le relai des informations.",
+    "contexte": "",
+    "problematique": "Le Conseil des seniors de Metz est peu consulté sur les questions de communication et de relai des informations ainsi que sur l’écriture d’Agenda des seniors. Il faudrait plus impliquer les membres du Conseil des seniors dans la construction des éléments de communications, notamment l'Agenda des seniors, et dans la distribution et le relai des informations.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Améliorer la participation des membres du Conseil des seniors à l’élaboration des informations concernant les seniors",
+      "Promouvoir une meilleure communication entre les seniors, leurs proches et la société civile"
+    ]
+  },
+  "porteur_initiative": "Conseil des seniors de Metz",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_11_-_Implication.txt",
+  "nom_fichier": "Fiche-action_11_-_Implication.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "consultation citoyenne",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 11 - Implication.pdf",
+  "collection_date": ""
 }

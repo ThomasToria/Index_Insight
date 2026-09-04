@@ -1,32 +1,44 @@
 {
-    "titre": "Les cafés des âges du conseil des sages",
-    "territoire": "Commune: Port-Jérôme-Sur-Seine, Ville Amie des Aînés depuis 05-2016",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Les cafés des âges du conseil des sages sont un dispositif organisé par le Conseil des Sages de Port-Jérôme-sur-Seine, une nouvelle commune. Le but est d'organiser régulièrement des rencontres intergénérationnelles autour de thématiques préparées en amont.",
-        "contexte": "Le projet a été lancé en 2015 par le Centre Local d’Information et de Coordination Maill’âges de la communauté d’agglomération Caux Seine Agglo. Le premier événement a eu lieu à l'EHPAD Notre-Dame-de-Gravenchon, puis les cafés ont été organisés dans diverses structures locales.",
-        "problematique": "Créer des moments conviviaux autour d'une activité, de la conférence ou d'une sortie pour favoriser les liens intergénérationnels et créer un environnement convivial.",
-        "solution_envisagee": "Organiser régulièrement des rencontres intergénérationnelles thématiques avec des moyens de transport mis à disposition par le CCAS.",
-        "objectifs": [
-            "Favoriser les liens intergénérationnels",
-            "Créer des moments conviviaux autour d'une activité, de la conférence ou d'une sortie"
-        ]
-    },
-    "porteur_initiative": "Groupe de travail composé de membres du Conseil des Sages de Port-Jérôme-sur-Seine, de professionnels d’une des structures d’accueil de loisirs de la ville (Planet’Jeunes), d’une association accueillant des jeunes (Arcade) et du Centre Social ARPEGE (CCAS).",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_cafes_des_ages_du_conseil_des_sages.txt",
-    "nom_fichier": "Les_cafes_des_ages_du_conseil_des_sages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les cafés des âges du conseil des sages",
+  "territoire": [
+    "port-jérôme-sur-seine, ville amie des aînés depuis 05-2016"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Les cafés des âges du conseil des sages sont un dispositif organisé par le Conseil des Sages de Port-Jérôme-sur-Seine, une nouvelle commune. Le but est d'organiser régulièrement des rencontres intergénérationnelles autour de thématiques préparées en amont.",
+    "contexte": "Le projet a été lancé en 2015 par le Centre Local d’Information et de Coordination Maill’âges de la communauté d’agglomération Caux Seine Agglo. Le premier événement a eu lieu à l'EHPAD Notre-Dame-de-Gravenchon, puis les cafés ont été organisés dans diverses structures locales.",
+    "problematique": "Créer des moments conviviaux autour d'une activité, de la conférence ou d'une sortie pour favoriser les liens intergénérationnels et créer un environnement convivial.",
+    "solution_envisagee": "Organiser régulièrement des rencontres intergénérationnelles thématiques avec des moyens de transport mis à disposition par le CCAS.",
+    "objectifs": [
+      "Favoriser les liens intergénérationnels",
+      "Créer des moments conviviaux autour d'une activité, de la conférence ou d'une sortie"
+    ]
+  },
+  "porteur_initiative": "Groupe de travail composé de membres du Conseil des Sages de Port-Jérôme-sur-Seine, de professionnels d’une des structures d’accueil de loisirs de la ville (Planet’Jeunes), d’une association accueillant des jeunes (Arcade) et du Centre Social ARPEGE (CCAS).",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_cafes_des_ages_du_conseil_des_sages.txt",
+  "nom_fichier": "Les_cafes_des_ages_du_conseil_des_sages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/378-pe-les-cafes-des-ages-du-conseil-des-sages-mise-a-jour-2023.pdf",
+  "original_title": "Les cafés des âges du conseil des sages",
+  "collection_date": ""
 }

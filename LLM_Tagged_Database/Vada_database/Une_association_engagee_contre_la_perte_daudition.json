@@ -1,32 +1,42 @@
 {
-    "titre": "Une association engagée contre la perte d'audition",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Association locale collectant et distribuant des appareils auditifs d'occasion à des personnes en situation de handicap.",
-        "contexte": "La perte d'audition est un problème commun dans la société, particulièrement chez les seniors. Les moyens financiers limitent l'accès aux prothèses auditives.",
-        "problematique": "Le manque de moyens financiers et le mauvais remboursement des appareils auditifs sont principaux freins à l'acquisition d'une prothèse auditive.",
-        "solution_envisagee": "Collecter des appareils auditifs d'occasion auprès du public, les remettre en état par les audioprothésistes et distribuer aux personnes en situation de handicap qui ne peuvent pas acheter des appareils neufs.",
-        "objectifs": [
-            "Promouvoir l’accessibilité à la prothèse auditive",
-            "Favoriser le lien social entre les personnes en situation de handicap et leur entourage"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "handicap et aidants",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_association_engagee_contre_la_perte_daudition.txt",
-    "nom_fichier": "Une_association_engagee_contre_la_perte_daudition.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Une association engagée contre la perte d'audition",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Association locale collectant et distribuant des appareils auditifs d'occasion à des personnes en situation de handicap.",
+    "contexte": "La perte d'audition est un problème commun dans la société, particulièrement chez les seniors. Les moyens financiers limitent l'accès aux prothèses auditives.",
+    "problematique": "Le manque de moyens financiers et le mauvais remboursement des appareils auditifs sont principaux freins à l'acquisition d'une prothèse auditive.",
+    "solution_envisagee": "Collecter des appareils auditifs d'occasion auprès du public, les remettre en état par les audioprothésistes et distribuer aux personnes en situation de handicap qui ne peuvent pas acheter des appareils neufs.",
+    "objectifs": [
+      "Promouvoir l’accessibilité à la prothèse auditive",
+      "Favoriser le lien social entre les personnes en situation de handicap et leur entourage"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "handicap et aidants",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_association_engagee_contre_la_perte_daudition.txt",
+  "nom_fichier": "Une_association_engagee_contre_la_perte_daudition.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/327-pe-asso-contre-la-perte-d-audition.pdf",
+  "original_title": "Une association engagée contre la perte d’audition",
+  "collection_date": ""
 }

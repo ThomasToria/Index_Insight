@@ -1,32 +1,42 @@
 {
-    "titre": "Le recours des personnes âgées vulnérables aux emplois et services d’aide à domicile",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Rapport adopté le 20 avril 2020",
-        "contexte": "Stabilité du taux d'institutionnalisation des seniors depuis 2008, près de 40% des allocataires résident en établissement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'Établissement pourvu d’Hébergement à Partir du domicile (EHPAD), leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "20/04/2020"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "services et accompagnement"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le recours des personnes âgées vulnérables aux emp.txt",
-    "nom_fichier": "Le recours des personnes âgées vulnérables aux emp.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le recours des personnes âgées vulnérables aux emplois et services d’aide à domicile",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Rapport adopté le 20 avril 2020",
+    "contexte": "Stabilité du taux d'institutionnalisation des seniors depuis 2008, près de 40% des allocataires résident en établissement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'Établissement pourvu d’Hébergement à Partir du domicile (EHPAD), leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2020-04-20"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "services et accompagnement"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le recours des personnes âgées vulnérables aux emp.txt",
+  "nom_fichier": "Le recours des personnes âgées vulnérables aux emp.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/le-recours-des-personnes-agees-vulnerables-aux-emplois-et-services-daide-domicile",
+  "original_title": "Le recours des personnes âgées vulnérables aux emplois et services d’aide à domicile",
+  "collection_date": ""
 }

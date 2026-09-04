@@ -1,32 +1,42 @@
 {
-    "titre": "Ateliers remise en selle",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La Ville de Morteau a organisé des ateliers pour la remise en selle du vélo, présentant les différents modèles de vélos (dont assistance électrique) et système de portage.",
-        "contexte": "Les pistes cyclables ont été créées par la Ville de Morteau en juillet 2021 et entrepris le traçage de voies cyclables avec Montlebon (2023). Le plan santé a également l'objectif de développer les mobilités douces pour tous.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un atelier gratuit de deux heures a été ouvert à toutes personnes âgées de cinquante-cinq ans et plus. Un second atelier de remise en selle a été mis en place en septembre 2022, avec des conditions similaires.",
-        "objectifs": [
-            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville Morteau",
-    "date": [
-        "depuis 2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_remise_en_selle.txt",
-    "nom_fichier": "Ateliers_remise_en_selle.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ateliers remise en selle",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La Ville de Morteau a organisé des ateliers pour la remise en selle du vélo, présentant les différents modèles de vélos (dont assistance électrique) et système de portage.",
+    "contexte": "Les pistes cyclables ont été créées par la Ville de Morteau en juillet 2021 et entrepris le traçage de voies cyclables avec Montlebon (2023). Le plan santé a également l'objectif de développer les mobilités douces pour tous.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un atelier gratuit de deux heures a été ouvert à toutes personnes âgées de cinquante-cinq ans et plus. Un second atelier de remise en selle a été mis en place en septembre 2022, avec des conditions similaires.",
+    "objectifs": [
+      "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville Morteau",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_remise_en_selle.txt",
+  "nom_fichier": "Ateliers_remise_en_selle.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/820-concours-2022-47-ateliers-remise-en-selle.pdf",
+  "original_title": "Ateliers remise en selle",
+  "collection_date": ""
 }

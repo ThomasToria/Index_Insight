@@ -1,35 +1,47 @@
 {
-    "titre": "Projet artistique, inclusif et participatif: Ma montagne",
-    "territoire": "Commune de Libourne",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un spectacle de rue original et gratuit sur le thème des handicaps, organisé par la Ville de Libourne dans le cadre du festival des arts de la rue.",
-        "contexte": "La compagnie « La Baleine Cargo » a conçu un spectacle chorégraphié autour de témoignages recueillis auprès de personnes âgées et en situation d'handicap, favorisant l'inclusion sociale.",
-        "problematique": "Exprimer un état du monde, des êtres, travailler sur la mémoire intime collective, privilégier l'aventure humaine, favoriser la mixité sociale et intergénérationnelle.",
-        "solution_envisagee": "Un spectacle de rue original et gratuit sur le thème des handicaps, organisé par la Ville de Libourne dans le cadre du festival des arts de la rue.",
-        "objectifs": [
-            "Exprimer un état du monde",
-            "Des êtres",
-            "Travailler sur la mémoire intime collective",
-            "Privilégier l'aventure humaine",
-            "Favoriser la mixité sociale et intergénérationnelle"
-        ]
-    },
-    "porteur_initiative": "La Ville de Libourne",
-    "date": [
-        "2021"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_artistique_inclusif_et_participatif_Ma_montagne.txt",
-    "nom_fichier": "Projet_artistique_inclusif_et_participatif_Ma_montagne.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Projet artistique, inclusif et participatif: Ma montagne",
+  "territoire": [
+    "libourne"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un spectacle de rue original et gratuit sur le thème des handicaps, organisé par la Ville de Libourne dans le cadre du festival des arts de la rue.",
+    "contexte": "La compagnie « La Baleine Cargo » a conçu un spectacle chorégraphié autour de témoignages recueillis auprès de personnes âgées et en situation d'handicap, favorisant l'inclusion sociale.",
+    "problematique": "Exprimer un état du monde, des êtres, travailler sur la mémoire intime collective, privilégier l'aventure humaine, favoriser la mixité sociale et intergénérationnelle.",
+    "solution_envisagee": "Un spectacle de rue original et gratuit sur le thème des handicaps, organisé par la Ville de Libourne dans le cadre du festival des arts de la rue.",
+    "objectifs": [
+      "Exprimer un état du monde",
+      "Des êtres",
+      "Travailler sur la mémoire intime collective",
+      "Privilégier l'aventure humaine",
+      "Favoriser la mixité sociale et intergénérationnelle"
+    ]
+  },
+  "porteur_initiative": "La Ville de Libourne",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_artistique_inclusif_et_participatif_Ma_montagne.txt",
+  "nom_fichier": "Projet_artistique_inclusif_et_participatif_Ma_montagne.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/757-pe624-projet-artistique-ma-montagne-ville-de-libourne.pdf",
+  "original_title": "Projet artistique, inclusif et participatif : Ma montagne",
+  "collection_date": ""
 }

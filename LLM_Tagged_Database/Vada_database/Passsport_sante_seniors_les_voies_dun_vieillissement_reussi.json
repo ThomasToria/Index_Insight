@@ -1,34 +1,46 @@
 {
-    "titre": "Pass'sport santé séniors les voies d'un vieillissement réussi",
-    "territoire": "Commune: Schoelcher (972)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le projet a été initié en 2012 pour répondre à la demande des adhérents de l'EHPAD Schoelcher, qui recherchent des activités sportives adaptées.",
-        "contexte": "La ville de Schoelcher est connue pour son label 'Ville active et Sportive', ce qui a conduit les usagers âgés à se rapprocher du Centre Communal d'Action Social. Les adhérents ont exprimé la nécessité d'activités sportives, culturelles, cognitives et sensibles adaptées pour maintenir leur état de forme.",
-        "problematique": "Le manque d’activité physique adaptée a été mis en évidence lors des périodes de confinement due à la crise du COVID-19. Les personnes âgées ont besoin de maintenir leur tonus cardiovasculaire, tonicité, équilibre et souplesse pour prévenir les chutes à domicile.",
-        "solution_envisagee": "Proposer des activités spécifiques adaptées aux personnes âgées de plus de 50 ans, permettant d'appréhender et d'adapter leurs rythmes de vie quotidienne. Favoriser la pratique régulière d'une activité physique pour prévenir les conséquences du vieillissement.",
-        "objectifs": [
-            "Maintenir le tonus cardiovasculaire",
-            "Favoriser la tonicité",
-            "Améliorer l'équilibre et la souplesse",
-            "Pratiquer régulièrement une activité physique adaptée pour prévenir les chutes à domicile"
-        ]
-    },
-    "porteur_initiative": "CCAS de Schoelcher (EHPAD Schoelcher)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.txt",
-    "nom_fichier": "Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Pass'sport santé séniors les voies d'un vieillissement réussi",
+  "territoire": [
+    "schoelcher (972)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le projet a été initié en 2012 pour répondre à la demande des adhérents de l'EHPAD Schoelcher, qui recherchent des activités sportives adaptées.",
+    "contexte": "La ville de Schoelcher est connue pour son label 'Ville active et Sportive', ce qui a conduit les usagers âgés à se rapprocher du Centre Communal d'Action Social. Les adhérents ont exprimé la nécessité d'activités sportives, culturelles, cognitives et sensibles adaptées pour maintenir leur état de forme.",
+    "problematique": "Le manque d’activité physique adaptée a été mis en évidence lors des périodes de confinement due à la crise du COVID-19. Les personnes âgées ont besoin de maintenir leur tonus cardiovasculaire, tonicité, équilibre et souplesse pour prévenir les chutes à domicile.",
+    "solution_envisagee": "Proposer des activités spécifiques adaptées aux personnes âgées de plus de 50 ans, permettant d'appréhender et d'adapter leurs rythmes de vie quotidienne. Favoriser la pratique régulière d'une activité physique pour prévenir les conséquences du vieillissement.",
+    "objectifs": [
+      "Maintenir le tonus cardiovasculaire",
+      "Favoriser la tonicité",
+      "Améliorer l'équilibre et la souplesse",
+      "Pratiquer régulièrement une activité physique adaptée pour prévenir les chutes à domicile"
+    ]
+  },
+  "porteur_initiative": "CCAS de Schoelcher (EHPAD Schoelcher)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.txt",
+  "nom_fichier": "Passsport_sante_seniors_les_voies_dun_vieillissement_reussi.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/965-concours-2023-pass-sport-sante-seniors-les-voies-d-un-vieillissement-reussi.pdf",
+  "original_title": "Pass'sport santé séniors les voies d'un vieillissement réussi",
+  "collection_date": ""
 }

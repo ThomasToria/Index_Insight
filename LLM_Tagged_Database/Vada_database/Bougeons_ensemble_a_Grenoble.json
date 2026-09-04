@@ -1,36 +1,44 @@
 {
-    "titre": "BOUGEONS ENSEMBLE",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Proposer une heure de marche active par semaine, gratuite et accessible à tous au sein des quartiers prioritaires de la Ville de Grenoble.",
-        "contexte": "Comme en attestent de nombreux rapports, l'inactivité physique représente un important facteur de risque pour le développement d'obésité ou encore des maladies chroniques (diabète, maladies cardiovasculaires, rhumatismales etc.).",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer une heure de marche active par semaine, gratuite et accessible à tous au sein des quartiers prioritaires de la Ville de Grenoble.",
-        "objectifs": [
-            "Permettre aux personnes éloignées de la pratique sportive de pratiquer une activité physique adaptée via un accès facilité tant au niveau financier (gratuit) que géographique (proximité).",
-            "Lutter contre la sédentarité en proposant une activité de marche active pour tous qui promeut un mode de vie favorable à la santé.",
-            "Lutter contre l’isolement et renforcer le lien social via une activité de groupe."
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2016",
-    "date": [
-        "depuis 2012"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bougeons_ensemble_a_Grenoble.txt",
-    "nom_fichier": "Bougeons_ensemble_a_Grenoble.txt",
-    "statut_action": "projet réalisé"
+  "titre": "BOUGEONS ENSEMBLE",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Proposer une heure de marche active par semaine, gratuite et accessible à tous au sein des quartiers prioritaires de la Ville de Grenoble.",
+    "contexte": "Comme en attestent de nombreux rapports, l'inactivité physique représente un important facteur de risque pour le développement d'obésité ou encore des maladies chroniques (diabète, maladies cardiovasculaires, rhumatismales etc.).",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer une heure de marche active par semaine, gratuite et accessible à tous au sein des quartiers prioritaires de la Ville de Grenoble.",
+    "objectifs": [
+      "Permettre aux personnes éloignées de la pratique sportive de pratiquer une activité physique adaptée via un accès facilité tant au niveau financier (gratuit) que géographique (proximité).",
+      "Lutter contre la sédentarité en proposant une activité de marche active pour tous qui promeut un mode de vie favorable à la santé.",
+      "Lutter contre l’isolement et renforcer le lien social via une activité de groupe."
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2016",
+  "date": [
+    "2012"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bougeons_ensemble_a_Grenoble.txt",
+  "nom_fichier": "Bougeons_ensemble_a_Grenoble.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/372-372-bougeons-ensemble.pdf",
+  "original_title": "« Bougeons ensemble » à Grenoble",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Un guide des balades urbaines dans les parcs et jardins",
-    "territoire": "Commune de Dijon, France",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Un guide des balades urbaines dans les parcs et jardins pour encourager la mobilité des seniors.",
-        "contexte": "Face au constat d'un nombre grandissant de personnes âgées confrontées au risque de solitude et au repli à domicile, l'observatoire de l’âge a souhaité développer la mobilité des seniors dans un environnement propice à la promenade.",
-        "problematique": "Renforcer les liens sociaux entre habitants et valoriser leur mémoire et place dans la vie locale.",
-        "solution_envisagee": "Un guide de balades urbaines pour encourager les échanges intergénérationnels et valoriser le rôle des seniors dans la société civile.",
-        "objectifs": [
-            "Renforcer les liens sociaux entre habitants",
-            "Valoriser leur mémoire et place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Observatoire de l’âge, service des espaces verts, CCAS (Centre Communautaire d'Action Sociale)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.txt",
-    "nom_fichier": "Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un guide des balades urbaines dans les parcs et jardins",
+  "territoire": [
+    "dijon, france"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Un guide des balades urbaines dans les parcs et jardins pour encourager la mobilité des seniors.",
+    "contexte": "Face au constat d'un nombre grandissant de personnes âgées confrontées au risque de solitude et au repli à domicile, l'observatoire de l’âge a souhaité développer la mobilité des seniors dans un environnement propice à la promenade.",
+    "problematique": "Renforcer les liens sociaux entre habitants et valoriser leur mémoire et place dans la vie locale.",
+    "solution_envisagee": "Un guide de balades urbaines pour encourager les échanges intergénérationnels et valoriser le rôle des seniors dans la société civile.",
+    "objectifs": [
+      "Renforcer les liens sociaux entre habitants",
+      "Valoriser leur mémoire et place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Observatoire de l’âge, service des espaces verts, CCAS (Centre Communautaire d'Action Sociale)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.txt",
+  "nom_fichier": "Un_guide_des_balades_urbaines_dans_les_parcs_et_jardins.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/440-440-pe-balades-urbaines.pdf",
+  "original_title": "Un guide des balades urbaines dans les parcs et jardins",
+  "collection_date": ""
 }

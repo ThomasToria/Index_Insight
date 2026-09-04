@@ -1,32 +1,44 @@
 {
-    "titre": "Un fil à tisser",
-    "territoire": "Commune: Lons-le-Saunier",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La Ville de Lons-le-Saunier a organisé une action innovante visant à mettre en lumière des sujets sociétaux et incontournables, tels que l'isolement des aînés et la participation citoyenne des bénévoles qui s'engagent pour lutter contre ce fléau.",
-        "contexte": "La lutte contre l'isolement des aînés est un sujet important dans la commune de Lons-le-Saunier, où une action innovante a été menée par la Ville de Lons-le-Saunier avec le soutien du GIE IMPA et la Conférence des financeurs.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un film documentaire réalisé par Thierry Vallino a été produit pour mettre en lumière des sujets sociétaux et incontournables tels que l'isolement des aînés et la participation citoyenne des bénévoles qui s'engagent pour lutter contre ce fléau.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’ÉHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La Ville de Lons-le-Saunier",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_fil_a_tisser.txt",
-    "nom_fichier": "Un_fil_a_tisser.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un fil à tisser",
+  "territoire": [
+    "lons-le-saunier"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La Ville de Lons-le-Saunier a organisé une action innovante visant à mettre en lumière des sujets sociétaux et incontournables, tels que l'isolement des aînés et la participation citoyenne des bénévoles qui s'engagent pour lutter contre ce fléau.",
+    "contexte": "La lutte contre l'isolement des aînés est un sujet important dans la commune de Lons-le-Saunier, où une action innovante a été menée par la Ville de Lons-le-Saunier avec le soutien du GIE IMPA et la Conférence des financeurs.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un film documentaire réalisé par Thierry Vallino a été produit pour mettre en lumière des sujets sociétaux et incontournables tels que l'isolement des aînés et la participation citoyenne des bénévoles qui s'engagent pour lutter contre ce fléau.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’ÉHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La Ville de Lons-le-Saunier",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_fil_a_tisser.txt",
+  "nom_fichier": "Un_fil_a_tisser.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/565-565-un-fil-a-tisser.pdf",
+  "original_title": "Un fil à tisser",
+  "collection_date": ""
 }

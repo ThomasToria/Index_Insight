@@ -1,33 +1,45 @@
 {
-    "titre": "Opération pass’agés",
-    "territoire": "Commune: Lons-le-Saunier, Ville Amie des Aînés depuis 05-2014",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Opération culturelle visant à rompre l'isolement des seniors isolés, favoriser leur accès aux structures culturelles de la ville, créer du lien social relationnel, citoyenneté et pouvoir d'action.",
-        "contexte": "La Ville Amie des Aînés de Lons-le-Saunier a lancé l'Opération Pass’Agés en octobre 2016 pour favoriser la médiation culturelle auprès des personnes âgées isolées. Cette initiative vise à créer un lien social relationnel, citoyenneté et pouvoir d'action.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une action culturelle en direction de publics dits «empêchés» avec des séances ludiques, culturelles et récréatives. S’entourer de partenaires pour élaborer un programme d'actions à destination de différents publics.",
-        "objectifs": [
-            "Rompre ou prévenir l’isolement des seniors par des actions ludiques, culturelles et récréatives.",
-            "Permettre l’accès aux structures culturelles de la ville.",
-            "Recreer du lien social relationnel, citoyenneté et pouvoir d'action pour sortir de son quoiquenidien et prendre du recul par rapport à ses soucis de santé psychologiques et/ou physiques."
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 05-2014",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_passages.txt",
-    "nom_fichier": "Operation_passages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Opération pass’agés",
+  "territoire": [
+    "lons-le-saunier, ville amie des aînés depuis 05-2014"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Opération culturelle visant à rompre l'isolement des seniors isolés, favoriser leur accès aux structures culturelles de la ville, créer du lien social relationnel, citoyenneté et pouvoir d'action.",
+    "contexte": "La Ville Amie des Aînés de Lons-le-Saunier a lancé l'Opération Pass’Agés en octobre 2016 pour favoriser la médiation culturelle auprès des personnes âgées isolées. Cette initiative vise à créer un lien social relationnel, citoyenneté et pouvoir d'action.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une action culturelle en direction de publics dits «empêchés» avec des séances ludiques, culturelles et récréatives. S’entourer de partenaires pour élaborer un programme d'actions à destination de différents publics.",
+    "objectifs": [
+      "Rompre ou prévenir l’isolement des seniors par des actions ludiques, culturelles et récréatives.",
+      "Permettre l’accès aux structures culturelles de la ville.",
+      "Recreer du lien social relationnel, citoyenneté et pouvoir d'action pour sortir de son quoiquenidien et prendre du recul par rapport à ses soucis de santé psychologiques et/ou physiques."
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 05-2014",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Operation_passages.txt",
+  "nom_fichier": "Operation_passages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/375-375-pe-operation-passages.pdf",
+  "original_title": "Opération pass’agés",
+  "collection_date": ""
 }

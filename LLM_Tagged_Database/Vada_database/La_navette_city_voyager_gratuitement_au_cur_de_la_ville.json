@@ -1,33 +1,45 @@
 {
-    "titre": "La navette City: Un service gratuit et adapté aux personnes âgées",
-    "territoire": "Commune de Dijon, Métropole de la région Bourgogne-Franche-Comté",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La navette City est un service gratuit de transport en commun mis en place à Dijon, permettant aux personnes âgées d'accéder facilement au cœur de la ville.",
-        "contexte": "Dijon et sa métropole ont investi dans des projets pour les aînés, notamment le dispositif 'La navette City'.",
-        "problematique": "Les personnes âgées rencontrent souvent des difficultés à se déplacer en ville, ce qui peut être particulièrement problématique pour ceux qui souffrent de mobilité réduite.",
-        "solution_envisagee": "La navette City est un service gratuit et adapté aux personnes âgées, permettant une simple connexion entre les résidents de l'ÉHPAD et le centre-ville de Dijon.",
-        "objectifs": [
-            "Favoriser la mobilité des âgés",
-            "Accommoder les personnes à mobilité réduite"
-        ]
-    },
-    "porteur_initiative": "Dijon Métropole, EHPAD La Résidence de l’Ille",
-    "date": [
-        "2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_city_voyager_gratuitement_au_cur_de_la_ville.txt",
-    "nom_fichier": "La_navette_city_voyager_gratuitement_au_cur_de_la_ville.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La navette City: Un service gratuit et adapté aux personnes âgées",
+  "territoire": [
+    "dijon, métropole de la région bourgogne-franche-comté"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La navette City est un service gratuit de transport en commun mis en place à Dijon, permettant aux personnes âgées d'accéder facilement au cœur de la ville.",
+    "contexte": "Dijon et sa métropole ont investi dans des projets pour les aînés, notamment le dispositif 'La navette City'.",
+    "problematique": "Les personnes âgées rencontrent souvent des difficultés à se déplacer en ville, ce qui peut être particulièrement problématique pour ceux qui souffrent de mobilité réduite.",
+    "solution_envisagee": "La navette City est un service gratuit et adapté aux personnes âgées, permettant une simple connexion entre les résidents de l'ÉHPAD et le centre-ville de Dijon.",
+    "objectifs": [
+      "Favoriser la mobilité des âgés",
+      "Accommoder les personnes à mobilité réduite"
+    ]
+  },
+  "porteur_initiative": "Dijon Métropole, EHPAD La Résidence de l’Ille",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_city_voyager_gratuitement_au_cur_de_la_ville.txt",
+  "nom_fichier": "La_navette_city_voyager_gratuitement_au_cur_de_la_ville.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/152-152-diviacity.pdf",
+  "original_title": "La navette city, voyager gratuitement au cœur de la ville",
+  "collection_date": ""
 }

@@ -1,33 +1,45 @@
 {
-    "titre": "Partageons nos cultures et nos loisirs",
-    "territoire": "Commune: Meaulne-Vitray, 03",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "La commune de Meaulne-Vitray organise une série d'actions visant à changer les mentalités intergénérationnelles, notamment en organisant des manifestations culturelles et ludiques pour favoriser l'échange entre seniors et jeunes.",
-        "contexte": "Les actions ont pour but de renforcer le lien social et lutter contre l’isolement, tout en valorisant la mémoire et les traditions locales. La Ville cherche à inciter les seniors ayant des revenus faibles à participer aux loisirs culturels afin d’éviter l’isolement.",
-        "problematique": "Changer le regard intergénérationnel sur les autres, notamment en favorisant l'échange et la participation de tous au sein du village.",
-        "solution_envisagee": "Organiser des manifestations culturelles et ludiques visant à éduquer les seniors aux loisirs locaux et à valoriser leur mémoire et leur place dans la vie locale, tout en favorisant l'intergénérationnalité.",
-        "objectifs": [
-            "Renforcer le lien social",
-            "Lutter contre l’isolement",
-            "Valoriser la mémoire et les traditions locales"
-        ]
-    },
-    "porteur_initiative": "Municipalité de Meaulne-Vitray",
-    "date": [
-        "depuis 2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partageons_nos_cultures_et_nos_loisirs.txt",
-    "nom_fichier": "Partageons_nos_cultures_et_nos_loisirs.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Partageons nos cultures et nos loisirs",
+  "territoire": [
+    "meaulne-vitray, 03"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "La commune de Meaulne-Vitray organise une série d'actions visant à changer les mentalités intergénérationnelles, notamment en organisant des manifestations culturelles et ludiques pour favoriser l'échange entre seniors et jeunes.",
+    "contexte": "Les actions ont pour but de renforcer le lien social et lutter contre l’isolement, tout en valorisant la mémoire et les traditions locales. La Ville cherche à inciter les seniors ayant des revenus faibles à participer aux loisirs culturels afin d’éviter l’isolement.",
+    "problematique": "Changer le regard intergénérationnel sur les autres, notamment en favorisant l'échange et la participation de tous au sein du village.",
+    "solution_envisagee": "Organiser des manifestations culturelles et ludiques visant à éduquer les seniors aux loisirs locaux et à valoriser leur mémoire et leur place dans la vie locale, tout en favorisant l'intergénérationnalité.",
+    "objectifs": [
+      "Renforcer le lien social",
+      "Lutter contre l’isolement",
+      "Valoriser la mémoire et les traditions locales"
+    ]
+  },
+  "porteur_initiative": "Municipalité de Meaulne-Vitray",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partageons_nos_cultures_et_nos_loisirs.txt",
+  "nom_fichier": "Partageons_nos_cultures_et_nos_loisirs.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/496-496-partageons-nos-cultures-loisirs.pdf",
+  "original_title": "Partageons nos cultures et nos loisirs",
+  "collection_date": ""
 }

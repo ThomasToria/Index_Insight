@@ -1,29 +1,39 @@
 {
-    "titre": "Résidence autonomie intergénérationnelle",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Ce projet a pour origine la volonté d’utiliser des logements inoccupés au septième étage d’une résidence autonomie de Saint-Priest, qui ne pouvaient plus être attribués à des personnes âgées pour des questions réglementaires liées à la sécurité incendie. Le CCAS a donc passé une convention avec l’association PariSolidaire Lyon (spécialisée dans la colocation intergénérationnelle) afin de chercher des étudiants volontaires pour vivre avec des personnes âgées.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un projet de convention de partenariat a été présenté au Conseil d’Administration du CCAS afin que trois logements soient affectés à ce projet. Les premiers étudiants ont été accueillis en septembre 2014, bénéficiant d’un loyer modéré et s’engagent, en contrepartie, à proposer des activités sur des temps collectifs.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Association PariSolidaire Lyon",
-    "date": [
-        "depuis 2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_autonomie_intergenerationnelle.txt",
-    "nom_fichier": "Residence_autonomie_intergenerationnelle.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Résidence autonomie intergénérationnelle",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Ce projet a pour origine la volonté d’utiliser des logements inoccupés au septième étage d’une résidence autonomie de Saint-Priest, qui ne pouvaient plus être attribués à des personnes âgées pour des questions réglementaires liées à la sécurité incendie. Le CCAS a donc passé une convention avec l’association PariSolidaire Lyon (spécialisée dans la colocation intergénérationnelle) afin de chercher des étudiants volontaires pour vivre avec des personnes âgées.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un projet de convention de partenariat a été présenté au Conseil d’Administration du CCAS afin que trois logements soient affectés à ce projet. Les premiers étudiants ont été accueillis en septembre 2014, bénéficiant d’un loyer modéré et s’engagent, en contrepartie, à proposer des activités sur des temps collectifs.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Association PariSolidaire Lyon",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Residence_autonomie_intergenerationnelle.txt",
+  "nom_fichier": "Residence_autonomie_intergenerationnelle.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/735-pe-603-residence-autonomie-intergenerationnelle-saint-priest.pdf",
+  "original_title": "Résidence autonomie intergénérationnelle",
+  "collection_date": ""
 }

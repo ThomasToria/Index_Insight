@@ -1,33 +1,43 @@
 {
-    "titre": "Fédérer et animer une communauté de grands seniors",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire des résidents de l'EHPAD",
-            "Permettre aux membres de la famille ou d’aidants d’être présents lors des rencontres"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Federer_et_animer_une_communaute_de_grands_seniors.txt",
-    "nom_fichier": "Federer_et_animer_une_communaute_de_grands_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Fédérer et animer une communauté de grands seniors",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire des résidents de l'EHPAD",
+      "Permettre aux membres de la famille ou d’aidants d’être présents lors des rencontres"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Federer_et_animer_une_communaute_de_grands_seniors.txt",
+  "nom_fichier": "Federer_et_animer_une_communaute_de_grands_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/525-525-ohana-clubs.pdf",
+  "original_title": "Fédérer et animer une communauté de grands seniors",
+  "collection_date": ""
 }

@@ -1,33 +1,43 @@
 {
-    "titre": "Bien vivre et vieillir dans l'autonomie à domicile",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Analyse à 360 degrés des conditions à réunir pour permettre aux personnes âgées de bénéficier de réponses adaptées à leurs besoins et aspirations.",
-        "contexte": "",
-        "problematique": "Insuffisance des politiques d'autonomie en place, manque de soutien adapté aux personnes vulnérables ou non, inadaptation des services aux besoins spécifiques des seniors.",
-        "solution_envisagee": "Établissement de conditions nécessaires pour une réponse adaptée à la vie quotidienne et aux aspirations des personnes âgées, incluant l'habitat, le lien social et la participation citoyenne.",
-        "objectifs": [
-            "Identifier les défis actuels liés au vieillissement",
-            "Analyser les politiques existantes en matière d'autonomie dans les zones départementales",
-            "Formuler des recommandations pour améliorer l'adaptation aux besoins spécifiques des seniors"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "20/02/2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Bien vivre et vieillir dans l'autonomie à domicile.txt",
-    "nom_fichier": "Bien vivre et vieillir dans l'autonomie à domicile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bien vivre et vieillir dans l'autonomie à domicile",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Analyse à 360 degrés des conditions à réunir pour permettre aux personnes âgées de bénéficier de réponses adaptées à leurs besoins et aspirations.",
+    "contexte": "",
+    "problematique": "Insuffisance des politiques d'autonomie en place, manque de soutien adapté aux personnes vulnérables ou non, inadaptation des services aux besoins spécifiques des seniors.",
+    "solution_envisagee": "Établissement de conditions nécessaires pour une réponse adaptée à la vie quotidienne et aux aspirations des personnes âgées, incluant l'habitat, le lien social et la participation citoyenne.",
+    "objectifs": [
+      "Identifier les défis actuels liés au vieillissement",
+      "Analyser les politiques existantes en matière d'autonomie dans les zones départementales",
+      "Formuler des recommandations pour améliorer l'adaptation aux besoins spécifiques des seniors"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2024-02-20"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Bien vivre et vieillir dans l'autonomie à domicile.txt",
+  "nom_fichier": "Bien vivre et vieillir dans l'autonomie à domicile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/bien-vivre-et-vieillir-dans-lautonomie-domicile-0",
+  "original_title": "Bien vivre et vieillir dans l'autonomie à domicile",
+  "collection_date": ""
 }

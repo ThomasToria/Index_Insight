@@ -1,32 +1,42 @@
 {
-    "titre": "Parents et enfants hier, aujourd’hui et demain. Produire l’ordinaire, un travail politique au quotidien",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Dans notre projet de recherche, nous nous intéressons à ce que nous appelons la production de l’ordinaire par les familles dont l’un des membres est polyhandicapé. Cette notion de « production de l’ordinaire » renvoie à deux dimensions de la vie des familles. La première est la manière dont ces familles, comme toute autre famille, construisent un ordre familial, lui donne un sens et un rythme, et ce faisant, s'inscrivent dans un monde commun; elles se positionnent par rapport aux normes et valeurs du monde commun pour s'y conformer ou s'en écarter. La deuxième dimension est le travail que ces familles accomplissent envers leur polyhandicapé, en y mettant l’accent, en lui donnant une place particulière dans la famille.",
-        "contexte": "",
-        "problematique": "La production de l'ordinaire par les familles dont un membre est polyhandicapé",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les facteurs qui contribuent à la construction d'un ordre familial harmonieux et structuré pour les familles polyhandicapées.",
-            "Analyser le rôle des normes et valeurs du monde commun dans la façon dont ces familles s'inscrivent ou se déviennent dans ce monde."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\099_2019_parents_et_enfants_hier_aujourd_hui_et_demain_produire_l_ordinaire_un_travail_politique_au_quotidien.txt",
-    "nom_fichier": "099_2019_parents_et_enfants_hier_aujourd_hui_et_demain_produire_l_ordinaire_un_travail_politique_au_quotidien.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parents et enfants hier, aujourd’hui et demain. Produire l’ordinaire, un travail politique au quotidien",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Dans notre projet de recherche, nous nous intéressons à ce que nous appelons la production de l’ordinaire par les familles dont l’un des membres est polyhandicapé. Cette notion de « production de l’ordinaire » renvoie à deux dimensions de la vie des familles. La première est la manière dont ces familles, comme toute autre famille, construisent un ordre familial, lui donne un sens et un rythme, et ce faisant, s'inscrivent dans un monde commun; elles se positionnent par rapport aux normes et valeurs du monde commun pour s'y conformer ou s'en écarter. La deuxième dimension est le travail que ces familles accomplissent envers leur polyhandicapé, en y mettant l’accent, en lui donnant une place particulière dans la famille.",
+    "contexte": "",
+    "problematique": "La production de l'ordinaire par les familles dont un membre est polyhandicapé",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les facteurs qui contribuent à la construction d'un ordre familial harmonieux et structuré pour les familles polyhandicapées.",
+      "Analyser le rôle des normes et valeurs du monde commun dans la façon dont ces familles s'inscrivent ou se déviennent dans ce monde."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\099_2019_parents_et_enfants_hier_aujourd_hui_et_demain_produire_l_ordinaire_un_travail_politique_au_quotidien.txt",
+  "nom_fichier": "099_2019_parents_et_enfants_hier_aujourd_hui_et_demain_produire_l_ordinaire_un_travail_politique_au_quotidien.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/parents-et-enfants-hier-aujourdhui-et-demain-produire-lordinaire-un-travail-politique-au-quotidien/",
+  "original_title": "Parents et enfants hier, aujourd’hui et demain. Produire l’ordinaire, un travail politique au quotidien",
+  "collection_date": ""
 }

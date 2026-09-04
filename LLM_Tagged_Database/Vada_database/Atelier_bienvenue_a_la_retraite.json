@@ -1,32 +1,41 @@
 {
-    "titre": "Atelier « Bienvenue à la retraite »",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le passage à la retraite marque le début d'une nouvelle étape de vie. C'est le moment d'envisager de nouveaux projets, de prendre soin de soi et de profiter pleinement de sa vie quotidienne! La Caisse Nationale d'Assurance Vieillesse organise, en collaboration avec les caisses de retraite régionales, l’atelier de prévention « Bienvenue à la Retraite! » à destination des futurs et jeunes retraités du territoire. Il s'agit d'ateliers thématiques, ludiques et conviviaux, qui sont proposés aux seniors, pour mieux préparer et vivre le passage à la retraite, en les informant sur l'accès à l’ensemble de leurs droits sociaux, et leur donnant les moyens et les clés pour vivre en bonne santé, heureux et autonomes le plus longtemps possible.",
-        "contexte": "Le contexte de cet atelier est la préparation des futurs retraités aux changements qui se produisent avec l'âge. Il vise à aider les seniors à mieux comprendre leurs droits sociaux et à trouver des moyens pour vivre une retraite agréable.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'atelier est conçu pour aider les seniors à mieux préparer et vivre le passage à la retraite. Il propose des activités ludiques et conviviales qui permettent de créer du lien social, d'informer sur les droits sociaux et de promouvoir l’ensemble des activités de prévention réalisées auprès des seniors.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La Caisse Nationale d'Assurance Vieillesse en collaboration avec les caisses de retraite régionales",
-    "date": [
-        "2023",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bienvenue_a_la_retraite.txt",
-    "nom_fichier": "Atelier_bienvenue_a_la_retraite.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier « Bienvenue à la retraite »",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le passage à la retraite marque le début d'une nouvelle étape de vie. C'est le moment d'envisager de nouveaux projets, de prendre soin de soi et de profiter pleinement de sa vie quotidienne! La Caisse Nationale d'Assurance Vieillesse organise, en collaboration avec les caisses de retraite régionales, l’atelier de prévention « Bienvenue à la Retraite! » à destination des futurs et jeunes retraités du territoire. Il s'agit d'ateliers thématiques, ludiques et conviviaux, qui sont proposés aux seniors, pour mieux préparer et vivre le passage à la retraite, en les informant sur l'accès à l’ensemble de leurs droits sociaux, et leur donnant les moyens et les clés pour vivre en bonne santé, heureux et autonomes le plus longtemps possible.",
+    "contexte": "Le contexte de cet atelier est la préparation des futurs retraités aux changements qui se produisent avec l'âge. Il vise à aider les seniors à mieux comprendre leurs droits sociaux et à trouver des moyens pour vivre une retraite agréable.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'atelier est conçu pour aider les seniors à mieux préparer et vivre le passage à la retraite. Il propose des activités ludiques et conviviales qui permettent de créer du lien social, d'informer sur les droits sociaux et de promouvoir l’ensemble des activités de prévention réalisées auprès des seniors.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La Caisse Nationale d'Assurance Vieillesse en collaboration avec les caisses de retraite régionales",
+  "date": [
+    "2019",
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bienvenue_a_la_retraite.txt",
+  "nom_fichier": "Atelier_bienvenue_a_la_retraite.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1121-pe-atelier-bienvenue-a-la-retraite-1.pdf",
+  "original_title": "Atelier « bienvenue à la retraite »",
+  "collection_date": ""
 }

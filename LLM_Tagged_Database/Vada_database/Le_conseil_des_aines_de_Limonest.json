@@ -1,32 +1,43 @@
 {
-    "titre": "Le conseil des aînés de Limonest",
-    "territoire": "Commune: Limo-nest",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "outil numérique",
-    "description": {
-        "description_generale": "Lors de la nouvelle mandature, la commune de Limo-nest a lancé un appel à candidature pour créer un nouveau conseil des aînés. Le but était d'échanger avec les seniors autour de diverses thématiques.",
-        "contexte": "Les habitants âgés sont une ressource précieuse pour la communauté, et leur participation est essentielle dans la vie locale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un nouveau conseil des aînés a été créé pour échanger avec les seniors autour de diverses thématiques. Des groupes de travail ont été formés pour améliorer le bien-être des résidents.",
-        "objectifs": [
-            "Créer une instance de consultation et de concertation sur tous les domaines de la commune",
-            "Relayer les besoins des seniors",
-            "Encourager la participation des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "numérique"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_conseil_des_aines_de_Limonest.txt",
-    "nom_fichier": "Le_conseil_des_aines_de_Limonest.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le conseil des aînés de Limonest",
+  "territoire": [
+    "limo-nest"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "outil numérique",
+  "description": {
+    "description_generale": "Lors de la nouvelle mandature, la commune de Limo-nest a lancé un appel à candidature pour créer un nouveau conseil des aînés. Le but était d'échanger avec les seniors autour de diverses thématiques.",
+    "contexte": "Les habitants âgés sont une ressource précieuse pour la communauté, et leur participation est essentielle dans la vie locale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un nouveau conseil des aînés a été créé pour échanger avec les seniors autour de diverses thématiques. Des groupes de travail ont été formés pour améliorer le bien-être des résidents.",
+    "objectifs": [
+      "Créer une instance de consultation et de concertation sur tous les domaines de la commune",
+      "Relayer les besoins des seniors",
+      "Encourager la participation des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "numérique"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_conseil_des_aines_de_Limonest.txt",
+  "nom_fichier": "Le_conseil_des_aines_de_Limonest.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "outil numérique",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/295-295-conseil-des-aines-limonest.pdf",
+  "original_title": "Le conseil des aînés de Limonest",
+  "collection_date": ""
 }

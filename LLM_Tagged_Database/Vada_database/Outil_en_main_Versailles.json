@@ -1,33 +1,44 @@
 {
-    "titre": "Outil en main Versailles",
-    "territoire": "Commune de Versailles, Yvelines",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Initiation des jeunes à des métiers manuels par des artisans ououvriers qualifiés bénévoles à la retraite, avec des vrais outils au sein de vrais ateliers.",
-        "contexte": "Les ateliers sont un lieu de rassemblement et d'échanges entre jeunes et seniors pour valoriser les métiers manuels artisanaux et contribuer au maintien du lien social.",
-        "problematique": "Renforcement des liens entre jeunes, seniors, et société civile, valorisation des mémoires et places dans la vie locale.",
-        "solution_envisagee": "Organiser des ateliers de fabrication d'objets manuels pour les jeunes et seniors afin de valoriser leurs compétences et revaloriser les métiers manuels artisanaux.",
-        "objectifs": [
-            "Renforcer les liens entre jeunes, seniors, et société civile",
-            "Valoriser les mémoires et places dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Outil en main",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Outil_en_main_Versailles.txt",
-    "nom_fichier": "Outil_en_main_Versailles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Outil en main Versailles",
+  "territoire": [
+    "versailles, yvelines"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Initiation des jeunes à des métiers manuels par des artisans ououvriers qualifiés bénévoles à la retraite, avec des vrais outils au sein de vrais ateliers.",
+    "contexte": "Les ateliers sont un lieu de rassemblement et d'échanges entre jeunes et seniors pour valoriser les métiers manuels artisanaux et contribuer au maintien du lien social.",
+    "problematique": "Renforcement des liens entre jeunes, seniors, et société civile, valorisation des mémoires et places dans la vie locale.",
+    "solution_envisagee": "Organiser des ateliers de fabrication d'objets manuels pour les jeunes et seniors afin de valoriser leurs compétences et revaloriser les métiers manuels artisanaux.",
+    "objectifs": [
+      "Renforcer les liens entre jeunes, seniors, et société civile",
+      "Valoriser les mémoires et places dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Outil en main",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Outil_en_main_Versailles.txt",
+  "nom_fichier": "Outil_en_main_Versailles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles.pdf",
+  "original_title": "Outil en main Versailles",
+  "collection_date": ""
 }

@@ -1,29 +1,39 @@
 {
-    "titre": "Politiques d’Appui à la Coordination pour l’accompagnement des personnes en SItuation complexe: dynamiques et enjeux LOcaux dans quatre secteurs d’intervention publique",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Contexte: En France, comme dans tous les pays occidentaux, le système de services et de soins est fragmenté. Ces fragmentations s'accompagnent d'un manque de cohérence entre les différents acteurs impliqués.",
-        "contexte": "",
-        "problematique": "Le manque de cohérence et de coordination entre les différents acteurs impliqués dans le système de services et de soins rend difficile l'accompagnement des personnes en situation complexe, notamment celles âgées ou handicapées.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\104_2021_politiques_d_appui_a_la_coordination_pour_l_accompagnement_des_personnes_en_situation_complexe_dynamiques_et_enjeux_loca.txt",
-    "nom_fichier": "104_2021_politiques_d_appui_a_la_coordination_pour_l_accompagnement_des_personnes_en_situation_complexe_dynamiques_et_enjeux_loca.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Politiques d’Appui à la Coordination pour l’accompagnement des personnes en SItuation complexe: dynamiques et enjeux LOcaux dans quatre secteurs d’intervention publique",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Contexte: En France, comme dans tous les pays occidentaux, le système de services et de soins est fragmenté. Ces fragmentations s'accompagnent d'un manque de cohérence entre les différents acteurs impliqués.",
+    "contexte": "",
+    "problematique": "Le manque de cohérence et de coordination entre les différents acteurs impliqués dans le système de services et de soins rend difficile l'accompagnement des personnes en situation complexe, notamment celles âgées ou handicapées.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\104_2021_politiques_d_appui_a_la_coordination_pour_l_accompagnement_des_personnes_en_situation_complexe_dynamiques_et_enjeux_loca.txt",
+  "nom_fichier": "104_2021_politiques_d_appui_a_la_coordination_pour_l_accompagnement_des_personnes_en_situation_complexe_dynamiques_et_enjeux_loca.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/politiques-dappui-a-la-coordination-pour-laccompagnement-des-personnes-en-situation-complexe-dynamiques-et-enjeux-locaux-dans-quatre-secteurs-dintervention-publique/",
+  "original_title": "Politiques d’Appui à la Coordination pour l’accompagnement des personnes en SItuation complexe : dynamiques et enjeux LOcaux dans quatre secteurs d’intervention publique",
+  "collection_date": ""
 }

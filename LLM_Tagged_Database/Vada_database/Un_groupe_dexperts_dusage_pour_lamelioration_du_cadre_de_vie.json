@@ -1,32 +1,44 @@
 {
-    "titre": "Un groupe d’experts citoyens pour l’amélioration du cadre de vie",
-    "territoire": "Commune: Besançon",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "projet d'aménagement",
-    "description": {
-        "description_generale": "Un groupe d'experts citoyens a été créé pour évaluer l’installation de équipements urbains dans la ville de Besançon.",
-        "contexte": "La Ville de Besançon a adhéré à la démarche Villes Amies des Aînés en 2012, et un groupe d'experts d'usage a été créé pour évaluer l’installation d'équipements urbains. Les membres du groupe ont inclus les aînés, les élus, les professionnels, les experts citoyens, les bénévoles de la Maison des Seniors, et les personnes volontaires recensées lors des réunions publiques.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un groupe d'experts citoyens a été créé pour évaluer l’installation de équipements urbains dans la ville de Besançon. Les membres du groupe ont inclus les aînés, les élus, les professionnels, les experts citoyens, les bénévoles de la Maison des Seniors, et les personnes volontaires recensées lors des réunions publiques.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Groupe d'experts citoyens",
-    "date": [
-        "2012"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.txt",
-    "nom_fichier": "Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un groupe d’experts citoyens pour l’amélioration du cadre de vie",
+  "territoire": [
+    "besançon"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "projet d'aménagement",
+  "description": {
+    "description_generale": "Un groupe d'experts citoyens a été créé pour évaluer l’installation de équipements urbains dans la ville de Besançon.",
+    "contexte": "La Ville de Besançon a adhéré à la démarche Villes Amies des Aînés en 2012, et un groupe d'experts d'usage a été créé pour évaluer l’installation d'équipements urbains. Les membres du groupe ont inclus les aînés, les élus, les professionnels, les experts citoyens, les bénévoles de la Maison des Seniors, et les personnes volontaires recensées lors des réunions publiques.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un groupe d'experts citoyens a été créé pour évaluer l’installation de équipements urbains dans la ville de Besançon. Les membres du groupe ont inclus les aînés, les élus, les professionnels, les experts citoyens, les bénévoles de la Maison des Seniors, et les personnes volontaires recensées lors des réunions publiques.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Groupe d'experts citoyens",
+  "date": [
+    "2012"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.txt",
+  "nom_fichier": "Un_groupe_dexperts_dusage_pour_lamelioration_du_cadre_de_vie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "projet d'aménagement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/411-411-groupes-experts-besancon.pdf",
+  "original_title": "Un groupe d’experts d’usage pour l’amélioration du cadre de vie",
+  "collection_date": ""
 }

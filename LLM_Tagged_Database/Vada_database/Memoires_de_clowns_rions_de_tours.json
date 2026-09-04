@@ -1,34 +1,44 @@
 {
-    "titre": "Mémoire(s) de clowns, rions de tours",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative artistique et théâtrale visant à renforcer les liens entre résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "contexte": "La crise sanitaire a accentué le sentiment de solitude et d'isolement chez les résidents des établissements, notamment ceux âgés. Les actions artistiques ont été mises en place pour améliorer l'estime de soi et renforcer la confiance dans leur santé.",
-        "problematique": "La perte d’estime, de confiance en soi et de joie de vivre chez les résidents des établissements, notamment ceux âgés, qui a été renforcée par la crise sanitaire. Ces difficultés ont eu un impact significatif sur leur santé globale.",
-        "solution_envisagee": "Un projet artistique en forme de spectacle déambulatoire d'improvisations clownesques, axé sur une dimension thérapeutique et axé sur des rencontres régulières entre les résidents, leurs proches et la société civile. Des actions intergénérationnelles ont été mises en place pour renforcer le lien social.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Améliorer l'estime de soi et la confiance chez les résidents",
-            "Promouvoir le bien-être et le lien social"
-        ]
-    },
-    "porteur_initiative": "Les Oiseaux de Passage",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoires_de_clowns_rions_de_tours.txt",
-    "nom_fichier": "Memoires_de_clowns_rions_de_tours.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mémoire(s) de clowns, rions de tours",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative artistique et théâtrale visant à renforcer les liens entre résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "contexte": "La crise sanitaire a accentué le sentiment de solitude et d'isolement chez les résidents des établissements, notamment ceux âgés. Les actions artistiques ont été mises en place pour améliorer l'estime de soi et renforcer la confiance dans leur santé.",
+    "problematique": "La perte d’estime, de confiance en soi et de joie de vivre chez les résidents des établissements, notamment ceux âgés, qui a été renforcée par la crise sanitaire. Ces difficultés ont eu un impact significatif sur leur santé globale.",
+    "solution_envisagee": "Un projet artistique en forme de spectacle déambulatoire d'improvisations clownesques, axé sur une dimension thérapeutique et axé sur des rencontres régulières entre les résidents, leurs proches et la société civile. Des actions intergénérationnelles ont été mises en place pour renforcer le lien social.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Améliorer l'estime de soi et la confiance chez les résidents",
+      "Promouvoir le bien-être et le lien social"
+    ]
+  },
+  "porteur_initiative": "Les Oiseaux de Passage",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoires_de_clowns_rions_de_tours.txt",
+  "nom_fichier": "Memoires_de_clowns_rions_de_tours.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/949-concours-2023-memoire-s-de-clowns-rions-de-tours-1.pdf",
+  "original_title": "Mémoire(s) de clowns, rions de tours",
+  "collection_date": ""
 }

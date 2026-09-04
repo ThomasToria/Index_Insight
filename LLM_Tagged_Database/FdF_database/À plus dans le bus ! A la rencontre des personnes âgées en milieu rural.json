@@ -1,33 +1,43 @@
 {
-    "titre": "A Vouziers: Des Actions Itinérantes pour Redresser le Temps d'Isolation des Personnes âgées",
-    "territoire": "Argonne Ardennais",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Une action itinérante pour améliorer la participation des personnes âgées aux activités locales, en particulier dans le milieu rural.",
-        "contexte": "En milieu rural, les problèmes de mobilité sont importants et peuvent accentuer l'isolement des personnes âgées. Les actions itinérantes comme celle menée par le centre social La Passerelle permettent d'éviter ce sentiment d'isolement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile pour créer du lien et rompre l’isolement en participant à des activités intergénérationnelles.",
-        "solution_envisagee": "Des actions itinérantes comme celle menée par le centre social La Passerelle permettent de rassembler les personnes âgées, petits et grands, autour d'activités telles que les ateliers cuisine, goûters, jeux de plein air ou de société.",
-        "objectifs": [
-            "Partager un moment convivial",
-            "Créer du lien entre les résidents, leurs proches et la société civile",
-            "Rompre l’isolement en participant à des activités intergénérationnelles"
-        ]
-    },
-    "porteur_initiative": "Centre Social La Passerelle",
-    "date": [
-        "juillet"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.txt",
-    "nom_fichier": "À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.txt",
-    "statut_action": "projet réalisé"
+  "titre": "A Vouziers: Des Actions Itinérantes pour Redresser le Temps d'Isolation des Personnes âgées",
+  "territoire": [
+    "argonne ardennais"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Une action itinérante pour améliorer la participation des personnes âgées aux activités locales, en particulier dans le milieu rural.",
+    "contexte": "En milieu rural, les problèmes de mobilité sont importants et peuvent accentuer l'isolement des personnes âgées. Les actions itinérantes comme celle menée par le centre social La Passerelle permettent d'éviter ce sentiment d'isolement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile pour créer du lien et rompre l’isolement en participant à des activités intergénérationnelles.",
+    "solution_envisagee": "Des actions itinérantes comme celle menée par le centre social La Passerelle permettent de rassembler les personnes âgées, petits et grands, autour d'activités telles que les ateliers cuisine, goûters, jeux de plein air ou de société.",
+    "objectifs": [
+      "Partager un moment convivial",
+      "Créer du lien entre les résidents, leurs proches et la société civile",
+      "Rompre l’isolement en participant à des activités intergénérationnelles"
+    ]
+  },
+  "porteur_initiative": "Centre Social La Passerelle",
+  "date": [],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.txt",
+  "nom_fichier": "À plus dans le bus ! A la rencontre des personnes âgées en milieu rural.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/a-plus-dans-le-bus-a-la-rencontre-des-personnes-agees-en-milieu-rural",
+  "original_title": "« À plus dans le bus » ! A la rencontre des personnes âgées en milieu rural",
+  "collection_date": ""
 }

@@ -1,33 +1,42 @@
 {
-    "titre": "Solidarité et Accès aux Services",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La Fondation de France, en collaboration avec les fondations qu'elle abrite, a mis en place des initiatives pour aider les personnes fragiles et isolées dans la reconstruction du lien social face à l'impact de la crise sanitaire.",
-        "contexte": "Les fractures et vulnérabilités ont été creusées par la pandémie de Covid-19, notamment chez les jeunes, femmes isolées, personnes âgées et porteurs de handicap. Les résultats du baromètre « Les solitudes en France » montrent que plus d'un Français sur deux est en situation d'isolement ou dispose d'un seul réseau de sociabilité.",
-        "problematique": "La crise sanitaire a eu des conséquences graves sur la santé mentale, notamment chez les jeunes isolés qui sont deux fois plus nombreux à affronter la pauvreté et le chômage. La Fondation de France se mobilise pour aider les étudiants en situation de précarité.",
-        "solution_envisagee": "Des initiatives ont été mises en place, notamment une opération #Solidarité-Étudiants qui a permis de collecter plus de 500 000 euros pour soutenir des initiatives en faveur des étudiants en situation de précarité.",
-        "objectifs": [
-            "Favoriser la reconstruction du lien social",
-            "Soutenir les jeunes isolés et en situation de précarité"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\La Fondation de France aux côtés des plus fragiles.txt",
-    "nom_fichier": "La Fondation de France aux côtés des plus fragiles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Solidarité et Accès aux Services",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La Fondation de France, en collaboration avec les fondations qu'elle abrite, a mis en place des initiatives pour aider les personnes fragiles et isolées dans la reconstruction du lien social face à l'impact de la crise sanitaire.",
+    "contexte": "Les fractures et vulnérabilités ont été creusées par la pandémie de Covid-19, notamment chez les jeunes, femmes isolées, personnes âgées et porteurs de handicap. Les résultats du baromètre « Les solitudes en France » montrent que plus d'un Français sur deux est en situation d'isolement ou dispose d'un seul réseau de sociabilité.",
+    "problematique": "La crise sanitaire a eu des conséquences graves sur la santé mentale, notamment chez les jeunes isolés qui sont deux fois plus nombreux à affronter la pauvreté et le chômage. La Fondation de France se mobilise pour aider les étudiants en situation de précarité.",
+    "solution_envisagee": "Des initiatives ont été mises en place, notamment une opération #Solidarité-Étudiants qui a permis de collecter plus de 500 000 euros pour soutenir des initiatives en faveur des étudiants en situation de précarité.",
+    "objectifs": [
+      "Favoriser la reconstruction du lien social",
+      "Soutenir les jeunes isolés et en situation de précarité"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\La Fondation de France aux côtés des plus fragiles.txt",
+  "nom_fichier": "La Fondation de France aux côtés des plus fragiles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-vulnerables/aux-cotes-des-plus-fragiles",
+  "original_title": "La Fondation de France aux côtés des plus fragiles",
+  "collection_date": ""
 }

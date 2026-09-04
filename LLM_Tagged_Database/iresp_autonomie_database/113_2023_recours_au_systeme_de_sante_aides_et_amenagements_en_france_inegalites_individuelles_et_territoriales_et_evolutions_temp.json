@@ -1,34 +1,44 @@
 {
-    "titre": "Recours au système de santé, aides et aménagements en France: inégalités individuelles et territoriales et évolutions temporelles",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte: Le vieillissement de la population mondiale questionne sur comment préparer et accompagner au mieux les évolutions démographiques à l’échelle de la société mais également à celle de l’individu. Le maintien de l’autonomie des personnes âgées est un enjeu majeur pour assurer leur qualité de vie et leur autonomie dans le cadre d’une société qui se modernise.",
-        "contexte": "",
-        "problematique": "Le problème posé par cette initiative est la nécessité de mieux comprendre les inégalités individuelles et territoriales en matière de recours au système de santé, aides et aménagements en France. Comment ces inégalités sont-elles liées à l’âge, aux conditions géographiques et aux facteurs socio-économiques ?",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les principaux facteurs qui contribuent à la prévalence des problèmes de santé en fonction du statut d’autonomie individuelle.",
-            "Analyser l’impact géographique et socio-économique sur le recours aux services de santé, aux aides sociales et aux aménagements locaux.",
-            "Évaluer les inégalités observées entre les différents groupes d’âge et leurs impacts sur la qualité de vie des personnes âgées."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\113_2023_recours_au_systeme_de_sante_aides_et_amenagements_en_france_inegalites_individuelles_et_territoriales_et_evolutions_temp.txt",
-    "nom_fichier": "113_2023_recours_au_systeme_de_sante_aides_et_amenagements_en_france_inegalites_individuelles_et_territoriales_et_evolutions_temp.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Recours au système de santé, aides et aménagements en France: inégalités individuelles et territoriales et évolutions temporelles",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte: Le vieillissement de la population mondiale questionne sur comment préparer et accompagner au mieux les évolutions démographiques à l’échelle de la société mais également à celle de l’individu. Le maintien de l’autonomie des personnes âgées est un enjeu majeur pour assurer leur qualité de vie et leur autonomie dans le cadre d’une société qui se modernise.",
+    "contexte": "",
+    "problematique": "Le problème posé par cette initiative est la nécessité de mieux comprendre les inégalités individuelles et territoriales en matière de recours au système de santé, aides et aménagements en France. Comment ces inégalités sont-elles liées à l’âge, aux conditions géographiques et aux facteurs socio-économiques ?",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les principaux facteurs qui contribuent à la prévalence des problèmes de santé en fonction du statut d’autonomie individuelle.",
+      "Analyser l’impact géographique et socio-économique sur le recours aux services de santé, aux aides sociales et aux aménagements locaux.",
+      "Évaluer les inégalités observées entre les différents groupes d’âge et leurs impacts sur la qualité de vie des personnes âgées."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019",
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\113_2023_recours_au_systeme_de_sante_aides_et_amenagements_en_france_inegalites_individuelles_et_territoriales_et_evolutions_temp.txt",
+  "nom_fichier": "113_2023_recours_au_systeme_de_sante_aides_et_amenagements_en_france_inegalites_individuelles_et_territoriales_et_evolutions_temp.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/recours-au-systeme-de-sante-aides-et-amenagements-en-france-inegalites-individuelles-et-territoriales-et-evolutions-temporelles/",
+  "original_title": "Recours au système de santé, aides et aménagements en France : inégalités individuelles et territoriales et évolutions temporelles",
+  "collection_date": ""
 }

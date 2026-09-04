@@ -1,34 +1,44 @@
 {
-    "titre": "Un EHPAD ouvert sur l’extérieur",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative visant à améliorer la qualité de vie des résidents d'un EHPAD en créant un environnement plus ouvert sur l'extérieur.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'initiative propose d'améliorer l'accès à l'environnement extérieur pour favoriser les interactions entre les résidents, leurs proches et la société civile. Des aides techniques seront également proposées pour prévenir les risques de chute et améliorer le confort des personnes âgées.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents d'un EHPAD et leur entourage",
-            "Valoriser l'histoire et la mémoire des résidents",
-            "Améliorer la qualité de vie des résidents en créant un environnement plus ouvert sur l'extérieur"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_EHPAD_ouvert_sur_lexterieur.txt",
-    "nom_fichier": "Un_EHPAD_ouvert_sur_lexterieur.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un EHPAD ouvert sur l’extérieur",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative visant à améliorer la qualité de vie des résidents d'un EHPAD en créant un environnement plus ouvert sur l'extérieur.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'initiative propose d'améliorer l'accès à l'environnement extérieur pour favoriser les interactions entre les résidents, leurs proches et la société civile. Des aides techniques seront également proposées pour prévenir les risques de chute et améliorer le confort des personnes âgées.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents d'un EHPAD et leur entourage",
+      "Valoriser l'histoire et la mémoire des résidents",
+      "Améliorer la qualité de vie des résidents en créant un environnement plus ouvert sur l'extérieur"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_EHPAD_ouvert_sur_lexterieur.txt",
+  "nom_fichier": "Un_EHPAD_ouvert_sur_lexterieur.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/742-pe-ergotherapeutes-a-domicile-aupres-des-personnes-de-60-ans-et-plus-1.pdf",
+  "original_title": "Un EHPAD ouvert sur l’extérieur",
+  "collection_date": ""
 }

@@ -1,36 +1,48 @@
 {
-    "titre": "Parcours sportif dédié aux seniors (physioparc) de la ville de Chamalières",
-    "territoire": "Commune: Chamalières, Ville Amie des Aînés depuis 02-2015",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "projet d'aménagement",
-    "description": {
-        "description_generale": "Créer un lieu de rencontres et d'échanges dédié aux seniors dans le parc public de Chamalières.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Renforcement des liens sociaux et participation à une politique de prévention santé pour les seniors.",
-        "solution_envisagee": "Installation d'un physioparc dédié aux seniors, permettant l'activité physique adaptée et le maintien d'une activité physique.",
-        "objectifs": [
-            "Créer un lieu de rencontres et d'échanges dédié aux seniors",
-            "Permettre le maintien d’une activité physique adaptée aux seniors",
-            "Inciter les seniors à sortir de chez eux",
-            "Rompre l’isolement",
-            "Participer à une politique de prévention santé"
-        ]
-    },
-    "porteur_initiative": "Chamalières (63)",
-    "date": [
-        "2017-05-17",
-        "2018-09"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_sportif_dedie_aux_seniors_physioparc_de_la_ville_de_Chamalieres.txt",
-    "nom_fichier": "Parcours_sportif_dedie_aux_seniors_physioparc_de_la_ville_de_Chamalieres.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parcours sportif dédié aux seniors (physioparc) de la ville de Chamalières",
+  "territoire": [
+    "chamalières, ville amie des aînés depuis 02-2015"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "projet d'aménagement",
+  "description": {
+    "description_generale": "Créer un lieu de rencontres et d'échanges dédié aux seniors dans le parc public de Chamalières.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Renforcement des liens sociaux et participation à une politique de prévention santé pour les seniors.",
+    "solution_envisagee": "Installation d'un physioparc dédié aux seniors, permettant l'activité physique adaptée et le maintien d'une activité physique.",
+    "objectifs": [
+      "Créer un lieu de rencontres et d'échanges dédié aux seniors",
+      "Permettre le maintien d’une activité physique adaptée aux seniors",
+      "Inciter les seniors à sortir de chez eux",
+      "Rompre l’isolement",
+      "Participer à une politique de prévention santé"
+    ]
+  },
+  "porteur_initiative": "Chamalières (63)",
+  "date": [
+    "2017-05-17",
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_sportif_dedie_aux_seniors_physioparc_de_la_ville_de_Chamalieres.txt",
+  "nom_fichier": "Parcours_sportif_dedie_aux_seniors_physioparc_de_la_ville_de_Chamalieres.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "projet d'aménagement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/361-361-pe-physioparc.pdf",
+  "original_title": "Parcours sportif dédié aux seniors (physioparc) de la ville de Chamalières",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "1 SOURIRE + 1 GÂTEAU = 1 RENCONTRE",
-    "territoire": "Commune: Mérignac (33)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Lutter contre l’isolement et créer du lien social. Repérer les personnes âgées en situation de fragilité. Identifier les besoins et les attentes des seniors vivant seuls. Faire évoluer les représentations des habitants sur les personnes âgées.",
-        "contexte": "Un diagnostic partagé entre le CCAS de la Ville de Mérignac et la MJC du centre ville a mis en évidence une absence de liens entre les habitants de la Résidence pour Personnes gées (RPA) Jean Brocas et la Maison des Jeunes et de la Culture (MJC), alors que les deux bâtiments sont en face l’un de l’autre. Un constat d’isolement social sur le quartier Yser-Pont de Madame a aussi été fait.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de la RPA, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un atelier cuisine intergénérationnel a été organisé afin de préparer des pâtisseries qui ont été distribuées en porte-à-porte aux personnes âgées vivant seules, ce qui a donné lieu à des rencontres et à des échanges in habituels pour les habitants du quartier.",
-        "objectifs": [
-            "Lutter contre l’isolement",
-            "Créer du lien social"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 07-2012",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\1_sourire_1_gateau_1_rencontre.txt",
-    "nom_fichier": "1_sourire_1_gateau_1_rencontre.txt",
-    "statut_action": "projet réalisé"
+  "titre": "1 SOURIRE + 1 GÂTEAU = 1 RENCONTRE",
+  "territoire": [
+    "mérignac (33)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Lutter contre l’isolement et créer du lien social. Repérer les personnes âgées en situation de fragilité. Identifier les besoins et les attentes des seniors vivant seuls. Faire évoluer les représentations des habitants sur les personnes âgées.",
+    "contexte": "Un diagnostic partagé entre le CCAS de la Ville de Mérignac et la MJC du centre ville a mis en évidence une absence de liens entre les habitants de la Résidence pour Personnes gées (RPA) Jean Brocas et la Maison des Jeunes et de la Culture (MJC), alors que les deux bâtiments sont en face l’un de l’autre. Un constat d’isolement social sur le quartier Yser-Pont de Madame a aussi été fait.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de la RPA, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un atelier cuisine intergénérationnel a été organisé afin de préparer des pâtisseries qui ont été distribuées en porte-à-porte aux personnes âgées vivant seules, ce qui a donné lieu à des rencontres et à des échanges in habituels pour les habitants du quartier.",
+    "objectifs": [
+      "Lutter contre l’isolement",
+      "Créer du lien social"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 07-2012",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\1_sourire_1_gateau_1_rencontre.txt",
+  "nom_fichier": "1_sourire_1_gateau_1_rencontre.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/473-473-sourire-gateau-rencontre.pdf",
+  "original_title": "1 SOURIRE + 1 GÂTEAU = 1 RENCONTRE",
+  "collection_date": ""
 }

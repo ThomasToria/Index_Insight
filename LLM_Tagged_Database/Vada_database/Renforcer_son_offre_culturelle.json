@@ -1,34 +1,46 @@
 {
-    "titre": "Renforcer son offre culturelle",
-    "territoire": "Commune de La Plaine-sur-Mer (44)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Suite à l'Analyse des Besoins Sociaux (ABS), une démarche a conduit la Ville de La Plaine-sur-Mer à vouloir renforcer son offre culturelle.",
-        "contexte": "Les besoins spécifiques dans le cadre d'accompagnement des publics concernés, notamment des seniors, ont été identifiés lors de l'Analyse des Besoins Sociaux (ABS).",
-        "problematique": "Renforcer son offre culturelle pour favoriser le lien social et dynamiser la vie culturelle.",
-        "solution_envisagee": "Une nouvelle offre d'animation locale s'articule autour de plusieurs axes, incluant des 'Pauses-Café', programmation culturelle variée, visites et petites marches organisées par les élus et le CCAS avec participation de partenaires.",
-        "objectifs": [
-            "Créer du lien",
-            "Rompre l'isolement",
-            "Développer l'activité culturelle ou sa continuité",
-            "Favoriser l'entraide et les échanges"
-        ]
-    },
-    "porteur_initiative": "Ville de La Plaine-sur-Mer",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Renforcer_son_offre_culturelle.txt",
-    "nom_fichier": "Renforcer_son_offre_culturelle.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Renforcer son offre culturelle",
+  "territoire": [
+    "la plaine-sur-mer (44)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Suite à l'Analyse des Besoins Sociaux (ABS), une démarche a conduit la Ville de La Plaine-sur-Mer à vouloir renforcer son offre culturelle.",
+    "contexte": "Les besoins spécifiques dans le cadre d'accompagnement des publics concernés, notamment des seniors, ont été identifiés lors de l'Analyse des Besoins Sociaux (ABS).",
+    "problematique": "Renforcer son offre culturelle pour favoriser le lien social et dynamiser la vie culturelle.",
+    "solution_envisagee": "Une nouvelle offre d'animation locale s'articule autour de plusieurs axes, incluant des 'Pauses-Café', programmation culturelle variée, visites et petites marches organisées par les élus et le CCAS avec participation de partenaires.",
+    "objectifs": [
+      "Créer du lien",
+      "Rompre l'isolement",
+      "Développer l'activité culturelle ou sa continuité",
+      "Favoriser l'entraide et les échanges"
+    ]
+  },
+  "porteur_initiative": "Ville de La Plaine-sur-Mer",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Renforcer_son_offre_culturelle.txt",
+  "nom_fichier": "Renforcer_son_offre_culturelle.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1112-pe-renforcer-son-offre-culturelle-1.pdf",
+  "original_title": "Renforcer son offre culturelle",
+  "collection_date": ""
 }

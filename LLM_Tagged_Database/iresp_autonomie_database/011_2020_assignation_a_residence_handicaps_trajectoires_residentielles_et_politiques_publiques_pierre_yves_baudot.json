@@ -1,34 +1,43 @@
 {
-    "titre": "Assignation à résidence. Handicaps, trajectoires résidentielles et politiques publiques – Pierre Yves Baudot",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les défis spécifiques aux personnes âgées dans le contexte de confinement et d’isolement, en particulier celles qui vivent dans des conditions de logement dégradées ou inadaptés.",
-        "contexte": "Les mesures de confinement prises en réaction à la pandémie de COVID-19 ont mis en lumière les inégalités de logement et les risques sanitaires auxquels sont exposés les personnes sans logement ou qui vivent dans des conditions de logement dégradées.",
-        "problematique": "Les défis spécifiques aux personnes âgées dans le contexte de confinement, en particulier celles qui vivent dans des conditions de logement dégradées ou inadaptés.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les défis spécifiques aux personnes âgées dans le contexte de confinement",
-            "Analyser les impacts sanitaires et sociaux des conditions de logement sur ces individus",
-            "Proposer des solutions pour améliorer la qualité du logement et réduire les risques d’isolement"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\011_2020_assignation_a_residence_handicaps_trajectoires_residentielles_et_politiques_publiques_pierre_yves_baudot.txt",
-    "nom_fichier": "011_2020_assignation_a_residence_handicaps_trajectoires_residentielles_et_politiques_publiques_pierre_yves_baudot.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Assignation à résidence. Handicaps, trajectoires résidentielles et politiques publiques – Pierre Yves Baudot",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les défis spécifiques aux personnes âgées dans le contexte de confinement et d’isolement, en particulier celles qui vivent dans des conditions de logement dégradées ou inadaptés.",
+    "contexte": "Les mesures de confinement prises en réaction à la pandémie de COVID-19 ont mis en lumière les inégalités de logement et les risques sanitaires auxquels sont exposés les personnes sans logement ou qui vivent dans des conditions de logement dégradées.",
+    "problematique": "Les défis spécifiques aux personnes âgées dans le contexte de confinement, en particulier celles qui vivent dans des conditions de logement dégradées ou inadaptés.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les défis spécifiques aux personnes âgées dans le contexte de confinement",
+      "Analyser les impacts sanitaires et sociaux des conditions de logement sur ces individus",
+      "Proposer des solutions pour améliorer la qualité du logement et réduire les risques d’isolement"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\011_2020_assignation_a_residence_handicaps_trajectoires_residentielles_et_politiques_publiques_pierre_yves_baudot.txt",
+  "nom_fichier": "011_2020_assignation_a_residence_handicaps_trajectoires_residentielles_et_politiques_publiques_pierre_yves_baudot.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/assignation-a-residence-handicaps-trajectoires-residentielles-et-politiques-publiques/",
+  "original_title": "Assignation à résidence. Handicaps, trajectoires résidentielles et politiques publiques – Pierre Yves Baudot",
+  "collection_date": ""
 }

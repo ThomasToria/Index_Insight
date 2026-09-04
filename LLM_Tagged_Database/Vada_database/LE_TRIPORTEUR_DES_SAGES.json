@@ -1,34 +1,46 @@
 {
-    "titre": "LE TRIPORTEUR DES SAGES",
-    "territoire": "Commune: Valence-en-Poitou, Métropole: Poitiers, Département: Vienne, Région: Centre-Val de Loire",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La commune de Valence-en-Poitou a acquis un triporteur électrique pour favoriser le lien social et lutter contre l’isolement, en proposant des balades accompagnées aux seniors et aidants.",
-        "contexte": "Les habitants ont exprimé leur intérêt pour une solution de mobilité conviviale et ludique, favorisant la mobilité douce et le lien social. La commune a acquis un triporteur électrique avec des sièges positionnés à l'avant.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer une solution de mobilité douce, conviviale et sécurisée adaptée aux personnes âgées, favorisant le lien social et la redécouverte du territoire et de son patrimoine.",
-        "objectifs": [
-            "Favoriser le lien social",
-            "Lutter contre l'isolement"
-        ]
-    },
-    "porteur_initiative": "Commune de Valence-en-Poitou, Métropole Poitiers, Département Vienne, Région Centre-Val de Loire",
-    "date": [
-        "2019",
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LE_TRIPORTEUR_DES_SAGES.txt",
-    "nom_fichier": "LE_TRIPORTEUR_DES_SAGES.txt",
-    "statut_action": "projet réalisé"
+  "titre": "LE TRIPORTEUR DES SAGES",
+  "territoire": [
+    "valence-en-poitou, métropole: poitiers, département: vienne, région: centre-val de loire"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La commune de Valence-en-Poitou a acquis un triporteur électrique pour favoriser le lien social et lutter contre l’isolement, en proposant des balades accompagnées aux seniors et aidants.",
+    "contexte": "Les habitants ont exprimé leur intérêt pour une solution de mobilité conviviale et ludique, favorisant la mobilité douce et le lien social. La commune a acquis un triporteur électrique avec des sièges positionnés à l'avant.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer une solution de mobilité douce, conviviale et sécurisée adaptée aux personnes âgées, favorisant le lien social et la redécouverte du territoire et de son patrimoine.",
+    "objectifs": [
+      "Favoriser le lien social",
+      "Lutter contre l'isolement"
+    ]
+  },
+  "porteur_initiative": "Commune de Valence-en-Poitou, Métropole Poitiers, Département Vienne, Région Centre-Val de Loire",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LE_TRIPORTEUR_DES_SAGES.txt",
+  "nom_fichier": "LE_TRIPORTEUR_DES_SAGES.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/04/PE-LE-TRIPORTEUR-DES-SAGES-1.pdf",
+  "original_title": "LE TRIPORTEUR DES SAGES",
+  "collection_date": ""
 }

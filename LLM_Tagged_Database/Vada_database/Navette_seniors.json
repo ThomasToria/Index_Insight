@@ -1,32 +1,44 @@
 {
-    "titre": "Navette seniors",
-    "territoire": "Saint-Saulve (59)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Une enquête auprès des seniors saint-saulviens a fait ressortir le besoin d'un service de transport plus adapté aux aînés.",
-        "contexte": "Il n'existe pas de navette intercommunale, et certaines zones ne sont pas desservies par les transports en commun existants. De plus, il y a moins de marchands ambulants qu'auparavant. Tout cela peut rendre l'accès à certains produits et services difficile, et accentue l’isolement social des ainés.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une navette en véhicule léger pour les retraités saint-saulviens sur le territoire de la commune.",
-        "objectifs": [
-            "Faire progresser l'autonomie des seniors",
-            "Rompre l'isolement social et favoriser la socialisation"
-        ]
-    },
-    "porteur_initiative": "CCAS de Saint-Saulve",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Navette_seniors.txt",
-    "nom_fichier": "Navette_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Navette seniors",
+  "territoire": [
+    "saint-saulve (59)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Une enquête auprès des seniors saint-saulviens a fait ressortir le besoin d'un service de transport plus adapté aux aînés.",
+    "contexte": "Il n'existe pas de navette intercommunale, et certaines zones ne sont pas desservies par les transports en commun existants. De plus, il y a moins de marchands ambulants qu'auparavant. Tout cela peut rendre l'accès à certains produits et services difficile, et accentue l’isolement social des ainés.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une navette en véhicule léger pour les retraités saint-saulviens sur le territoire de la commune.",
+    "objectifs": [
+      "Faire progresser l'autonomie des seniors",
+      "Rompre l'isolement social et favoriser la socialisation"
+    ]
+  },
+  "porteur_initiative": "CCAS de Saint-Saulve",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Navette_seniors.txt",
+  "nom_fichier": "Navette_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1052-pe-navette-seniors.pdf",
+  "original_title": "Navette seniors",
+  "collection_date": ""
 }

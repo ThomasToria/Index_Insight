@@ -1,34 +1,44 @@
 {
-    "titre": "Logement d'accueil temporaire pour les personnes âgées en milieu rural",
-    "territoire": "communale",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le projet a été initié suite à la récente baisse démographique du territoire rural, avec une population âgée de plus de 65 ans vivant seuls. L'objectif est d'améliorer les conditions de vie des personnes âgées et faciliter leur transition vers un logement durable.",
-        "contexte": "La commune de Ports-sur-Vienne a constaté une baisse démographique, une population âgée de plus de 65 ans vivant seuls, et un habitat dispersé. Des maisons non adaptées existent également.",
-        "problematique": "Le besoin d'améliorer les conditions de vie des personnes âgées en milieu rural, notamment pour faciliter leur transition vers un logement durable.",
-        "solution_envisagee": "Créer un site vacant en logement temporaire adapté aux conditions climatiques du territoire, soutenir l'accès à la propriété et améliorer les conditions de vie des personnes âgées.",
-        "objectifs": [
-            "Améliorer les conditions de vie des personnes âgées",
-            "Faciliter leur transition vers un logement durable",
-            "Soutenir l'accès à la propriété"
-        ]
-    },
-    "porteur_initiative": "Municipalité de Ports-sur-Vienne",
-    "date": [
-        "2019",
-        "2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logement_daccueil_temporaire_pour_les_personnes_agees_en_milieu_rural.txt",
-    "nom_fichier": "Logement_daccueil_temporaire_pour_les_personnes_agees_en_milieu_rural.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Logement d'accueil temporaire pour les personnes âgées en milieu rural",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le projet a été initié suite à la récente baisse démographique du territoire rural, avec une population âgée de plus de 65 ans vivant seuls. L'objectif est d'améliorer les conditions de vie des personnes âgées et faciliter leur transition vers un logement durable.",
+    "contexte": "La commune de Ports-sur-Vienne a constaté une baisse démographique, une population âgée de plus de 65 ans vivant seuls, et un habitat dispersé. Des maisons non adaptées existent également.",
+    "problematique": "Le besoin d'améliorer les conditions de vie des personnes âgées en milieu rural, notamment pour faciliter leur transition vers un logement durable.",
+    "solution_envisagee": "Créer un site vacant en logement temporaire adapté aux conditions climatiques du territoire, soutenir l'accès à la propriété et améliorer les conditions de vie des personnes âgées.",
+    "objectifs": [
+      "Améliorer les conditions de vie des personnes âgées",
+      "Faciliter leur transition vers un logement durable",
+      "Soutenir l'accès à la propriété"
+    ]
+  },
+  "porteur_initiative": "Municipalité de Ports-sur-Vienne",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logement_daccueil_temporaire_pour_les_personnes_agees_en_milieu_rural.txt",
+  "nom_fichier": "Logement_daccueil_temporaire_pour_les_personnes_agees_en_milieu_rural.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE_35_Logement-daccueil_Ports-sur-Vienne.pdf",
+  "original_title": "Logement d'accueil temporaire pour les personnes âgées en milieu rural",
+  "collection_date": ""
 }

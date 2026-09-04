@@ -1,35 +1,47 @@
 {
-    "titre": "Un outil de prévention itinérant",
-    "territoire": "Vaulx-en-Velin (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un outil de prévention itinérant pour les seniors et la lutte contre la précarité énergétique.",
-        "contexte": "Les seniors ont des difficultés à accéder aux informations sur l'habitat adapté, notamment en raison du manque d'aides financières et de connaissance de la mobilité. Le projet vise à améliorer ces conditions pour renforcer le lien social.",
-        "problematique": "Le besoin de communiquer les informations sur l'habitat adapté aux seniors et leur précarité énergétique, en particulier dans les territoires isolés.",
-        "solution_envisagee": "Un outil itinérant composé de Trucks adaptés à la communication des seniors sur leurs logements et aménagements pour renforcer le lien social.",
-        "objectifs": [
-            "Rechercher des partenaires et de financements",
-            "Communiquer et sensibiliser les territoires",
-            "Acquérir et transformer des Trucks",
-            "Organiser l’utilisation et les tournées",
-            "Lancer et développer le projet"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés de Vaulx-en-Velin (69)",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_outil_de_prevention_itinerant.txt",
-    "nom_fichier": "Un_outil_de_prevention_itinerant.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un outil de prévention itinérant",
+  "territoire": [
+    "vaulx-en-velin (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un outil de prévention itinérant pour les seniors et la lutte contre la précarité énergétique.",
+    "contexte": "Les seniors ont des difficultés à accéder aux informations sur l'habitat adapté, notamment en raison du manque d'aides financières et de connaissance de la mobilité. Le projet vise à améliorer ces conditions pour renforcer le lien social.",
+    "problematique": "Le besoin de communiquer les informations sur l'habitat adapté aux seniors et leur précarité énergétique, en particulier dans les territoires isolés.",
+    "solution_envisagee": "Un outil itinérant composé de Trucks adaptés à la communication des seniors sur leurs logements et aménagements pour renforcer le lien social.",
+    "objectifs": [
+      "Rechercher des partenaires et de financements",
+      "Communiquer et sensibiliser les territoires",
+      "Acquérir et transformer des Trucks",
+      "Organiser l’utilisation et les tournées",
+      "Lancer et développer le projet"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés de Vaulx-en-Velin (69)",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_outil_de_prevention_itinerant.txt",
+  "nom_fichier": "Un_outil_de_prevention_itinerant.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/657-pe-525-soliha.pdf",
+  "original_title": "Un outil de prévention itinérant",
+  "collection_date": ""
 }

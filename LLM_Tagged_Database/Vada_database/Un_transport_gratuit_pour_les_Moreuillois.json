@@ -1,33 +1,43 @@
 {
-    "titre": "Un transport gratuit pour les Moreuillois",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Une initiative unique en son genre pour une commune de taille modeste, permettant aux habitants âgés d'accéder à des services commerçants et aux écoles.",
-        "contexte": "La commune de Moreuil compte environ 4 000 habitants dont un quart sont plus âgés. Le transport communautaire est une nécessité pour faciliter les déplacements, notamment pour les personnes âgées.",
-        "problematique": "Renforcer les liens sociaux et encourager la mobilité des personnes âgées dans leur commune",
-        "solution_envisagee": "Un service de transport gratuit mis en place par la commune, accessible à tous les habitants âgés et enfants, permettant une meilleure participation aux activités communautaires.",
-        "objectifs": [
-            "Renforcer le lien social entre les résidents de l'EHPAD",
-            "Favoriser la mobilité des personnes âgées dans leur commune",
-            "Améliorer la qualité de vie des habitants"
-        ]
-    },
-    "porteur_initiative": "Commune de Moreuil (80)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_transport_gratuit_pour_les_Moreuillois.txt",
-    "nom_fichier": "Un_transport_gratuit_pour_les_Moreuillois.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un transport gratuit pour les Moreuillois",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Une initiative unique en son genre pour une commune de taille modeste, permettant aux habitants âgés d'accéder à des services commerçants et aux écoles.",
+    "contexte": "La commune de Moreuil compte environ 4 000 habitants dont un quart sont plus âgés. Le transport communautaire est une nécessité pour faciliter les déplacements, notamment pour les personnes âgées.",
+    "problematique": "Renforcer les liens sociaux et encourager la mobilité des personnes âgées dans leur commune",
+    "solution_envisagee": "Un service de transport gratuit mis en place par la commune, accessible à tous les habitants âgés et enfants, permettant une meilleure participation aux activités communautaires.",
+    "objectifs": [
+      "Renforcer le lien social entre les résidents de l'EHPAD",
+      "Favoriser la mobilité des personnes âgées dans leur commune",
+      "Améliorer la qualité de vie des habitants"
+    ]
+  },
+  "porteur_initiative": "Commune de Moreuil (80)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_transport_gratuit_pour_les_Moreuillois.txt",
+  "nom_fichier": "Un_transport_gratuit_pour_les_Moreuillois.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/846-pe-711-un-service-de-transport-gratuit-pour-les-moreuillois-moreuil.pdf",
+  "original_title": "Un transport gratuit pour les Moreuillois",
+  "collection_date": ""
 }

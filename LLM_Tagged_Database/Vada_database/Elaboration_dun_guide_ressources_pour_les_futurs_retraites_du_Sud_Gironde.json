@@ -1,33 +1,44 @@
 {
-    "titre": "Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde",
-    "territoire": "Sud Gironde",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Ce projet a pour ambition de faciliter le passage à la retraite pour les salariés en situation de handicap comme pour tous les futurs retraités dans différents domaines (accès aux droits, logement, santé, mobilité, lien social).",
-        "contexte": "Le projet trouve son origine dans les constats de ruptures de parcours faits par les travailleurs sociaux accompagnant les personnes en situation de handicap lors du départ en retraite.",
-        "problematique": "Faciliter le passage à la retraite pour les salariés en situation de handicap comme pour tous les futurs retraités dans différents domaines (accès aux droits, logement, santé, mobilité, lien social).",
-        "solution_envisagee": "Créer un guide ressources accessible à tous les habitants du territoire pouvant rencontrer des difficultés dans l'accès à l'information sur les ressources locales et sur la possibilité de mobiliser ces ressources pour préparer leur retraite.",
-        "objectifs": [
-            "Faciliter le passage à la retraite",
-            "Sécuriser le passage à la retraite des habitants du territoire, notamment ceux en situation de handicap"
-        ]
-    },
-    "porteur_initiative": "Pôle Territorial Sud Gironde et l'association Un avenir après le travail",
-    "date": [
-        "2025",
-        "mars"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_guide_ressources_pour_les_futurs_retraites_du_Sud_Gironde.txt",
-    "nom_fichier": "Elaboration_dun_guide_ressources_pour_les_futurs_retraites_du_Sud_Gironde.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde",
+  "territoire": [
+    "sud gironde"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Ce projet a pour ambition de faciliter le passage à la retraite pour les salariés en situation de handicap comme pour tous les futurs retraités dans différents domaines (accès aux droits, logement, santé, mobilité, lien social).",
+    "contexte": "Le projet trouve son origine dans les constats de ruptures de parcours faits par les travailleurs sociaux accompagnant les personnes en situation de handicap lors du départ en retraite.",
+    "problematique": "Faciliter le passage à la retraite pour les salariés en situation de handicap comme pour tous les futurs retraités dans différents domaines (accès aux droits, logement, santé, mobilité, lien social).",
+    "solution_envisagee": "Créer un guide ressources accessible à tous les habitants du territoire pouvant rencontrer des difficultés dans l'accès à l'information sur les ressources locales et sur la possibilité de mobiliser ces ressources pour préparer leur retraite.",
+    "objectifs": [
+      "Faciliter le passage à la retraite",
+      "Sécuriser le passage à la retraite des habitants du territoire, notamment ceux en situation de handicap"
+    ]
+  },
+  "porteur_initiative": "Pôle Territorial Sud Gironde et l'association Un avenir après le travail",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Elaboration_dun_guide_ressources_pour_les_futurs_retraites_du_Sud_Gironde.txt",
+  "nom_fichier": "Elaboration_dun_guide_ressources_pour_les_futurs_retraites_du_Sud_Gironde.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Elaboration-dun-guide-ressources.pdf",
+  "original_title": "Élaboration d'un guide ressources pour les futurs retraités du Sud Gironde",
+  "collection_date": ""
 }

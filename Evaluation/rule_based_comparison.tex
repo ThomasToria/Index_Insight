@@ -1,0 +1,58 @@
+\subsection{Comparison with the rule-based baseline}
+
+To assess the practical contribution of LLM-assisted extraction, the same
+human-annotated reference sample was also evaluated with a deterministic
+rule-based baseline. The comparison uses the same 60 documents and the same
+gold labels as the LLM evaluation for \texttt{public\_vise},
+\texttt{echelle}, and \texttt{nature\_initiative}. It is therefore a paired
+comparison: differences cannot be attributed to a different sample or to a
+different reference annotation.
+
+For \texttt{public\_vise} and \texttt{echelle}, the baseline reuses the
+outputs of the historical rule-based pipeline stored in
+\texttt{Final\_Tagged\_Database}. The historical schema did not include a
+\texttt{nature\_initiative} field. For this field, a documented deterministic
+extension was applied to the first 2,500 characters of each cleaned document:
+it assigns the first category whose predefined keyword rule matches the text.
+This extension does not call an LLM. Its use makes the comparison possible,
+but it should not be confused with a native output of the original rule-based
+database.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{lrrrrrr}
+\toprule
+& \multicolumn{3}{c}{Rule-based baseline} & \multicolumn{3}{c}{Local LLM} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+Field & Precision & Recall & F1 & Precision & Recall & F1 \\
+\midrule
+Target audience & 0.283 & 0.283 & 0.283 & 1.000 & 1.000 & 1.000 \\
+Territorial scale & 0.347 & 0.436 & 0.386 & 1.000 & 0.987 & 0.993 \\
+Initiative type & 0.589 & 0.550 & 0.569 & 1.000 & 1.000 & 1.000 \\
+\bottomrule
+\end{tabular}
+\caption{Paired comparison between the deterministic rule-based baseline and
+the local LLM on the 60-document human reference sample. Scores are micro
+precision, recall, and F1.}
+\label{tab:rule-based-llm-comparison}
+\end{table}
+
+The LLM achieved higher F1 scores for all three fields. The largest difference
+appeared for target audience ($+0.717$ F1) and territorial scale ($+0.607$ F1).
+The historical rule-based outputs for these fields were often free-text
+candidate excerpts or over-inclusive keyword matches, whereas the LLM prompt
+required a normalised target-audience label and a restricted list of territorial
+scales. For initiative type, the keyword baseline reached an F1 of 0.569. It
+correctly identified explicit terms such as \textit{atelier}, \textit{formation},
+or \textit{rapport}, but it selected the first matching term and therefore
+struggled when a document mentioned several possible forms of activity.
+
+This result does not make the rule-based approach obsolete. Its decisions are
+deterministic, easy to inspect, and useful for identifying explicit lexical
+signals. However, on this heterogeneous corpus, the constrained LLM is better
+able to select a field value that corresponds to the intended metadata schema.
+The comparison is diagnostic rather than a definitive benchmark: it uses one
+60-document, source-stratified sample and one human annotator. A larger blind
+reference annotation and a second annotator would be needed to quantify the
+generalisation of the observed differences.

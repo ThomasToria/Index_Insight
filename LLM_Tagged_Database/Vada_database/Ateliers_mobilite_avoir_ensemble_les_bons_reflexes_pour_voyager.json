@@ -1,32 +1,42 @@
 {
-    "titre": "Ateliers mobilité: avoir ensemble les bons réflexes pour voyager",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette action vise à sensibiliser les seniors fragilisés aux bons réflexes de mobilité pour des voyages.",
-        "contexte": "Les seniors fragilisés ont besoin d’informations et de formations sur la mobilité pour se déplacer facilement et sécurément.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Ateliers d'information sur la mobilité pour seniors fragilisés",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Direction Santé Publique",
-    "date": [
-        "depuis mars 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_mobilite_avoir_ensemble_les_bons_reflexes_pour_voyager.txt",
-    "nom_fichier": "Ateliers_mobilite_avoir_ensemble_les_bons_reflexes_pour_voyager.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ateliers mobilité: avoir ensemble les bons réflexes pour voyager",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette action vise à sensibiliser les seniors fragilisés aux bons réflexes de mobilité pour des voyages.",
+    "contexte": "Les seniors fragilisés ont besoin d’informations et de formations sur la mobilité pour se déplacer facilement et sécurément.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Ateliers d'information sur la mobilité pour seniors fragilisés",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Direction Santé Publique",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_mobilite_avoir_ensemble_les_bons_reflexes_pour_voyager.txt",
+  "nom_fichier": "Ateliers_mobilite_avoir_ensemble_les_bons_reflexes_pour_voyager.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/356-pe-ateliers-mobilite-les-bons-reflexes-pour-voyager.pdf",
+  "original_title": "Ateliers mobilité : avoir ensemble les bons réflexes pour voyager",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Projet Papot'Age – Démarche de design citoyen à Barlin",
-    "territoire": "régionale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la communication entre les ainés de Barlin et le service municipal, en mettant en place un référent unique pour faciliter l’information.",
-        "contexte": "Le projet a été initié suite aux constats d'une mauvaise communication entre la mairie et l'Assemblée des ainés, qui ont conduit à une frustration chez les membres de cette dernière.",
-        "problematique": "La communication entre les ainés et le service municipal est insuffisante, ce qui a conduit à une perte d’engagement et de motivation parmi les membres de l'Assemblée des ainés.",
-        "solution_envisagee": "Instituer un référent unique pour faciliter la communication entre les ainés et le service municipal, en mettant en place une réunion tous les trimestres avec compte-rendus.",
-        "objectifs": [
-            "Améliorer la reconnaissance de l'Assemblée des ainés par rapport aux engagements de ses membres",
-            "Améliorer la communication pour encourager la motivation de tous à s'impliquer"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "numérique",
-        "participation citoyenne",
-        "activité physique et sport"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction3_Barlin_vf.txt",
-    "nom_fichier": "FicheAction3_Barlin_vf.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Projet Papot'Age – Démarche de design citoyen à Barlin",
+  "territoire": [
+    "régionale"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif ou programme",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la communication entre les ainés de Barlin et le service municipal, en mettant en place un référent unique pour faciliter l’information.",
+    "contexte": "Le projet a été initié suite aux constats d'une mauvaise communication entre la mairie et l'Assemblée des ainés, qui ont conduit à une frustration chez les membres de cette dernière.",
+    "problematique": "La communication entre les ainés et le service municipal est insuffisante, ce qui a conduit à une perte d’engagement et de motivation parmi les membres de l'Assemblée des ainés.",
+    "solution_envisagee": "Instituer un référent unique pour faciliter la communication entre les ainés et le service municipal, en mettant en place une réunion tous les trimestres avec compte-rendus.",
+    "objectifs": [
+      "Améliorer la reconnaissance de l'Assemblée des ainés par rapport aux engagements de ses membres",
+      "Améliorer la communication pour encourager la motivation de tous à s'impliquer"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "numérique",
+    "participation citoyenne",
+    "activité physique et sport"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction3_Barlin_vf.txt",
+  "nom_fichier": "FicheAction3_Barlin_vf.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "numérique et accès à l'information",
+    "participation citoyenne et gouvernance",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FicheAction3_Barlin_vf.pdf",
+  "collection_date": ""
 }

@@ -1,29 +1,39 @@
 {
-    "titre": "Organisation et pratiques du « médico-social ». Un réseau de recherches transversal aux catégories, aux acteurs, aux disciplines, à l’Europe",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte: En France, le « secteur médico-social » désigne un ensemble de services et d’établissements destinés à les accompagner dans leur vie quotidienne.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer la compréhension des défis auxquels sont confrontés les acteurs du secteur médico-social, notamment en termes de qualité et d’efficacité des pratiques professionnelles.",
-        "solution_envisagee": "",
-        "objectifs": "Étudier les pratiques professionnelles du secteur médico-social, identifier les défis auxquels sont confrontés les acteurs et proposer des solutions pour améliorer la qualité et l’efficacité de ces pratiques."
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\094_2018_organisation_et_pratiques_du_medico_social_un_reseau_de_recherches_transversal_aux_categories_aux_acteurs_aux_discipline.txt",
-    "nom_fichier": "094_2018_organisation_et_pratiques_du_medico_social_un_reseau_de_recherches_transversal_aux_categories_aux_acteurs_aux_discipline.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Organisation et pratiques du « médico-social ». Un réseau de recherches transversal aux catégories, aux acteurs, aux disciplines, à l’Europe",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte: En France, le « secteur médico-social » désigne un ensemble de services et d’établissements destinés à les accompagner dans leur vie quotidienne.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer la compréhension des défis auxquels sont confrontés les acteurs du secteur médico-social, notamment en termes de qualité et d’efficacité des pratiques professionnelles.",
+    "solution_envisagee": "",
+    "objectifs": "Étudier les pratiques professionnelles du secteur médico-social, identifier les défis auxquels sont confrontés les acteurs et proposer des solutions pour améliorer la qualité et l’efficacité de ces pratiques."
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\094_2018_organisation_et_pratiques_du_medico_social_un_reseau_de_recherches_transversal_aux_categories_aux_acteurs_aux_discipline.txt",
+  "nom_fichier": "094_2018_organisation_et_pratiques_du_medico_social_un_reseau_de_recherches_transversal_aux_categories_aux_acteurs_aux_discipline.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/organisation-et-pratiques-du-medico-social-un-reseau-de-recherches-transversal-aux-categories-aux-acteurs-aux-disciplines-a-leurope/",
+  "original_title": "Organisation et pratiques du « médico-social ». Un réseau de recherches transversal aux catégories, aux acteurs, aux disciplines, à l’Europe",
+  "collection_date": ""
 }

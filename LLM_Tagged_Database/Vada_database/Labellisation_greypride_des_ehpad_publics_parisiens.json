@@ -1,33 +1,45 @@
 {
-    "titre": "Labellisation Greypride des Ehpad Publics Parisiens",
-    "territoire": "Paris (75)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Suite à une rencontre avec l'association ‘GreyPride’ qui a créé le label ‘GreyPride Bienvenue’, la Ville de Paris a fait le choix de labéliser progressivement tous les Ehpad du Centre d'Action Sociale de la Ville de Paris (CASVP). Des échanges ont été menés avec les services sur la faisabilité du projet et un appel au volontariat a été lancé auprès des directeurs pour les premières labellisations.",
-        "contexte": "La parole a lentement commencé à se libérer ces dernières années, mais le tabou reste encore très présent, et d'autant plus renforcé dans les Ehpad. De la même façon, l'entrée en Ehpad peut être particulièrement difficile pour les séniors LGBT, souvent contraints de cacher leurs histoires de vie par crainte de jugements ou d'actes homophobes ou transphobes.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une labellisation en trois étapes: la formation d'un référent, des actions de sensibilisation et la signature de la charte. Les témoignages des agents et résidents sont positifs, mais le changement des mentalités reste un travail de long terme.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Favoriser la bienveillance en EHPAD"
-        ]
-    },
-    "porteur_initiative": "Ville de Paris",
-    "date": [
-        "depuis 2017"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Labellisation_greypride_des_ehpad_publics_parisiens.txt",
-    "nom_fichier": "Labellisation_greypride_des_ehpad_publics_parisiens.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Labellisation Greypride des Ehpad Publics Parisiens",
+  "territoire": [
+    "paris (75)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Suite à une rencontre avec l'association ‘GreyPride’ qui a créé le label ‘GreyPride Bienvenue’, la Ville de Paris a fait le choix de labéliser progressivement tous les Ehpad du Centre d'Action Sociale de la Ville de Paris (CASVP). Des échanges ont été menés avec les services sur la faisabilité du projet et un appel au volontariat a été lancé auprès des directeurs pour les premières labellisations.",
+    "contexte": "La parole a lentement commencé à se libérer ces dernières années, mais le tabou reste encore très présent, et d'autant plus renforcé dans les Ehpad. De la même façon, l'entrée en Ehpad peut être particulièrement difficile pour les séniors LGBT, souvent contraints de cacher leurs histoires de vie par crainte de jugements ou d'actes homophobes ou transphobes.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une labellisation en trois étapes: la formation d'un référent, des actions de sensibilisation et la signature de la charte. Les témoignages des agents et résidents sont positifs, mais le changement des mentalités reste un travail de long terme.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Favoriser la bienveillance en EHPAD"
+    ]
+  },
+  "porteur_initiative": "Ville de Paris",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Labellisation_greypride_des_ehpad_publics_parisiens.txt",
+  "nom_fichier": "Labellisation_greypride_des_ehpad_publics_parisiens.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/939-pe-paris-labellisation-greypride-des-ehpad-publics-parisiens-1.pdf",
+  "original_title": "Labellisation greypride des ehpad publics parisiens",
+  "collection_date": ""
 }

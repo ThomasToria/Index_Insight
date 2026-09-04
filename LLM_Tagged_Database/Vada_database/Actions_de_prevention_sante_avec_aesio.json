@@ -1,32 +1,42 @@
 {
-    "titre": "Semaine d'ateliers sur l'alimentation et conférence sur la prévention des risques dépressifs",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Semaine d'ateliers sur l'alimentation et conférence sur la prévention des risques dépressifs.",
-        "contexte": "Les personnes de plus de 60 ans représentent 26.3% de la population en 2017, et leur souhait est de pouvoir rester vivre à domicile aussi longtemps que possible.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer des actions de prévention sur la santé pour favoriser le maintien en bonne santé et permettre de vivre à domicile aussi longtemps que possible.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Valence",
-    "date": [
-        "2023-10-13"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_de_prevention_sante_avec_aesio.txt",
-    "nom_fichier": "Actions_de_prevention_sante_avec_aesio.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Semaine d'ateliers sur l'alimentation et conférence sur la prévention des risques dépressifs",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Semaine d'ateliers sur l'alimentation et conférence sur la prévention des risques dépressifs.",
+    "contexte": "Les personnes de plus de 60 ans représentent 26.3% de la population en 2017, et leur souhait est de pouvoir rester vivre à domicile aussi longtemps que possible.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer des actions de prévention sur la santé pour favoriser le maintien en bonne santé et permettre de vivre à domicile aussi longtemps que possible.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Valence",
+  "date": [
+    "2023-10-13"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_de_prevention_sante_avec_aesio.txt",
+  "nom_fichier": "Actions_de_prevention_sante_avec_aesio.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/890-concours-2023-actions-de-prevention-sante-avec-aesio-1.pdf",
+  "original_title": "Actions de prévention santé avec aesio",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Accompagnement des patients cardiaques et initiations aux gestes qui sauvent",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Cette initiative vise à accompagner les patients cardiaques en phase de réadaptation et à initier les personnes âgées aux gestes qui sauvent.",
-        "contexte": "La Fédération Française de Cardiologie a créé des Clubs « cœur et Santé » pour encourager les patients atteints d’affection cardiovasculaire à maintenir une activité physique. Ces associations, plus de 200 en France, ont pour vocation première d’accompagner les cardiaques lors de leur phase de réadaptation.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une problématique possible est : 'La problématique est d'accompagner les patients cardiaques en phase de réadaptation et à initier les personnes âgées aux gestes qui sauvent pour renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.'",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Fédération Française de Cardiologie",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_patients_cardiaques_et_initiations_aux_gestes_qui_sauvent.txt",
-    "nom_fichier": "Accompagnement_des_patients_cardiaques_et_initiations_aux_gestes_qui_sauvent.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accompagnement des patients cardiaques et initiations aux gestes qui sauvent",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Cette initiative vise à accompagner les patients cardiaques en phase de réadaptation et à initier les personnes âgées aux gestes qui sauvent.",
+    "contexte": "La Fédération Française de Cardiologie a créé des Clubs « cœur et Santé » pour encourager les patients atteints d’affection cardiovasculaire à maintenir une activité physique. Ces associations, plus de 200 en France, ont pour vocation première d’accompagner les cardiaques lors de leur phase de réadaptation.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une problématique possible est : 'La problématique est d'accompagner les patients cardiaques en phase de réadaptation et à initier les personnes âgées aux gestes qui sauvent pour renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.'",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Fédération Française de Cardiologie",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_patients_cardiaques_et_initiations_aux_gestes_qui_sauvent.txt",
+  "nom_fichier": "Accompagnement_des_patients_cardiaques_et_initiations_aux_gestes_qui_sauvent.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/421-pe-accompagnement-de-patients-cardiaques.pdf",
+  "original_title": "Accompagnement des patients cardiaques et initiations aux gestes qui sauvent",
+  "collection_date": ""
 }

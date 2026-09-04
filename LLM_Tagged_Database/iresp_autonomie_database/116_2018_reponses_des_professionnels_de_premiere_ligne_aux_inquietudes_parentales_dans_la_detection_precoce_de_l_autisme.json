@@ -1,33 +1,43 @@
 {
-    "titre": "Réponses des professionnels de première ligne aux inquiétudes parentales dans la détection précoce de l’autisme",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "L’IReSP a mené une enquête auprès des professionnels de première ligne pour comprendre les inquiétudes parentales qui peuvent conduire à la détection précoce du trouble autistique.",
-        "contexte": "",
-        "problematique": "Les professionnels de première ligne sont souvent confrontés aux inquiétudes parentales concernant le développement mental des enfants, notamment dans le domaine de l’autisme. Ces inquiétudes peuvent conduire à une détection précoce du trouble autistique.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les inquiétudes parentales liées au développement mental des enfants",
-            "Analyser la pertinence de ces inquiétudes pour le diagnostic précoce du trouble autistique",
-            "Formuler des recommandations pour améliorer la détection précoce et l’accompagnement des troubles neurodégénératifs chez les jeunes enfants"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\116_2018_reponses_des_professionnels_de_premiere_ligne_aux_inquietudes_parentales_dans_la_detection_precoce_de_l_autisme.txt",
-    "nom_fichier": "116_2018_reponses_des_professionnels_de_premiere_ligne_aux_inquietudes_parentales_dans_la_detection_precoce_de_l_autisme.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Réponses des professionnels de première ligne aux inquiétudes parentales dans la détection précoce de l’autisme",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "L’IReSP a mené une enquête auprès des professionnels de première ligne pour comprendre les inquiétudes parentales qui peuvent conduire à la détection précoce du trouble autistique.",
+    "contexte": "",
+    "problematique": "Les professionnels de première ligne sont souvent confrontés aux inquiétudes parentales concernant le développement mental des enfants, notamment dans le domaine de l’autisme. Ces inquiétudes peuvent conduire à une détection précoce du trouble autistique.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les inquiétudes parentales liées au développement mental des enfants",
+      "Analyser la pertinence de ces inquiétudes pour le diagnostic précoce du trouble autistique",
+      "Formuler des recommandations pour améliorer la détection précoce et l’accompagnement des troubles neurodégénératifs chez les jeunes enfants"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\116_2018_reponses_des_professionnels_de_premiere_ligne_aux_inquietudes_parentales_dans_la_detection_precoce_de_l_autisme.txt",
+  "nom_fichier": "116_2018_reponses_des_professionnels_de_premiere_ligne_aux_inquietudes_parentales_dans_la_detection_precoce_de_l_autisme.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/reponses-des-professionnels-de-premiere-ligne-aux-inquietudes-parentales-dans-la-detection-precoce-de-lautisme/",
+  "original_title": "Réponses des professionnels de première ligne aux inquiétudes parentales dans la détection précoce de l’autisme",
+  "collection_date": ""
 }

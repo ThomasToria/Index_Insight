@@ -1,29 +1,39 @@
 {
-    "titre": "Le soutien à l'autonomie des personnes âgées à l'horizon 2030",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Ce rapport a été réalisé dans le cadre d’une cosaisine du HCaam et du Conseil de l'âge du HCFEA par la ministre des Solidarités et de la Santé, Agnès Buzyn.",
-        "contexte": "",
-        "problematique": "La demande de soins et le nombre de personnes ayant un besoin d'aide à l'autonomie augmenteront sous l'effet des évolutions démographiques (+19% d’individus de plus de 85 ans) et épidémiologiques; l’accompagnement des personnes atteintes de troubles cognitifs restera un défi majeur des prochaines années;",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le soutien à l'autonomie des personnes âgées à l'h.txt",
-    "nom_fichier": "Le soutien à l'autonomie des personnes âgées à l'h.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le soutien à l'autonomie des personnes âgées à l'horizon 2030",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Ce rapport a été réalisé dans le cadre d’une cosaisine du HCaam et du Conseil de l'âge du HCFEA par la ministre des Solidarités et de la Santé, Agnès Buzyn.",
+    "contexte": "",
+    "problematique": "La demande de soins et le nombre de personnes ayant un besoin d'aide à l'autonomie augmenteront sous l'effet des évolutions démographiques (+19% d’individus de plus de 85 ans) et épidémiologiques; l’accompagnement des personnes atteintes de troubles cognitifs restera un défi majeur des prochaines années;",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le soutien à l'autonomie des personnes âgées à l'h.txt",
+  "nom_fichier": "Le soutien à l'autonomie des personnes âgées à l'h.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/le-soutien-lautonomie-des-personnes-agees-lhorizon-2030",
+  "original_title": "Le soutien à l'autonomie des personnes âgées à l'horizon 2030",
+  "collection_date": ""
 }

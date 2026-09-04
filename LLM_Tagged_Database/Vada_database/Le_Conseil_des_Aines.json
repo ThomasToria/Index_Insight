@@ -1,32 +1,44 @@
 {
-    "titre": "Le Conseil des Aînés",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Installé à chaque mandat municipal, le Conseil des Aînés contribue à la vie quotidienne du village, avec une attention particulière portée aux seniors.",
-        "contexte": "Les membres se réunissent tous les deux mois et son t accompagnés par deux élus pour mener à bien leur mission.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Permettre aux membres du Conseil des Aînés de parti ciper à la vie et à l'organisation de la commune et ainsi faciliter l'échange et l'expression des besoins des seniors.",
-        "objectifs": [
-            "Être force de proposition pour développer le « mieu x-vivre ensemble » en portant la voix des Aînés au niveau des instances décisionnelles de la Municipalité."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Aines.txt",
-    "nom_fichier": "Le_Conseil_des_Aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le Conseil des Aînés",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Installé à chaque mandat municipal, le Conseil des Aînés contribue à la vie quotidienne du village, avec une attention particulière portée aux seniors.",
+    "contexte": "Les membres se réunissent tous les deux mois et son t accompagnés par deux élus pour mener à bien leur mission.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Permettre aux membres du Conseil des Aînés de parti ciper à la vie et à l'organisation de la commune et ainsi faciliter l'échange et l'expression des besoins des seniors.",
+    "objectifs": [
+      "Être force de proposition pour développer le « mieu x-vivre ensemble » en portant la voix des Aînés au niveau des instances décisionnelles de la Municipalité."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Aines.txt",
+  "nom_fichier": "Le_Conseil_des_Aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/04/PE-Le-Conseil-des-Aines-1.pdf",
+  "original_title": "Le Conseil des Aînés",
+  "collection_date": ""
 }

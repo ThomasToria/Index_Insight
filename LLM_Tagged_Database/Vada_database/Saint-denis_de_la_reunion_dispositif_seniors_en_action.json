@@ -1,33 +1,45 @@
 {
-    "titre": "Saint-denis de la réunion dispositif 'seniors en action'",
-    "territoire": "Saint-Denis de la Réunion",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Ce dispositif a vu le jour suite à une demande croissante du public Senior, mise en évidence lors d'une première étude de 2016. C'est aussi une déclinaison de dispositifs existants pour d'autres publics.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une initiative visant à créer un dispositif social qui permet aux seniors d'interagir avec le reste de la ville, renforçant ainsi les liens sociaux et culturels entre eux et leurs proches.",
-        "objectifs": [
-            "Renforcer les liens sociaux entre les résidents de l’EHPAD",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Créer un environnement d'interaction positive pour les seniors"
-        ]
-    },
-    "porteur_initiative": "Saint-Denis de la Réunion",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-denis_de_la_reunion_dispositif_seniors_en_action.txt",
-    "nom_fichier": "Saint-denis_de_la_reunion_dispositif_seniors_en_action.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Saint-denis de la réunion dispositif 'seniors en action'",
+  "territoire": [
+    "saint-denis de la réunion"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Ce dispositif a vu le jour suite à une demande croissante du public Senior, mise en évidence lors d'une première étude de 2016. C'est aussi une déclinaison de dispositifs existants pour d'autres publics.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une initiative visant à créer un dispositif social qui permet aux seniors d'interagir avec le reste de la ville, renforçant ainsi les liens sociaux et culturels entre eux et leurs proches.",
+    "objectifs": [
+      "Renforcer les liens sociaux entre les résidents de l’EHPAD",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Créer un environnement d'interaction positive pour les seniors"
+    ]
+  },
+  "porteur_initiative": "Saint-Denis de la Réunion",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Saint-denis_de_la_reunion_dispositif_seniors_en_action.txt",
+  "nom_fichier": "Saint-denis_de_la_reunion_dispositif_seniors_en_action.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/900-concours-2023-saint-denis-de-la-reunion-dispositif-seniors-en-action-1.pdf",
+  "original_title": "Saint-denis de la réunion dispositif \"seniors en action\"",
+  "collection_date": ""
 }

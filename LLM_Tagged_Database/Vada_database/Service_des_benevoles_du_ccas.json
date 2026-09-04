@@ -1,34 +1,44 @@
 {
-    "titre": "Service des bénévoles du ccas",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le service des bénévoles du CCAS est un réseau de bénévoles visant à mieux accompagner la perte d'autonomie de personnes âgées ou handicapées fragilisées.",
-        "contexte": "La population vieillissante et le phénomène d'isolement croissance ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles pour mieux accompagner la perte d'autonomie des personnes âgées ou handicapées fragilisées.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un service d'accompagnement destiné à des personnes âgées ou handicapées en difficulté dans l'organisation de leur vie quotidienne. Le CCAS est présent lors du Forum des associations pour présenter le service et trouver de nouveaux bénévoles.",
-        "objectifs": [
-            "Accompagner la perte d'autonomie",
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS",
-    "date": [
-        "depuis 1985"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_des_benevoles_du_ccas.txt",
-    "nom_fichier": "Service_des_benevoles_du_ccas.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Service des bénévoles du ccas",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le service des bénévoles du CCAS est un réseau de bénévoles visant à mieux accompagner la perte d'autonomie de personnes âgées ou handicapées fragilisées.",
+    "contexte": "La population vieillissante et le phénomène d'isolement croissance ont conduit le CCAS à développer depuis plusieurs années un réseau de bénévoles pour mieux accompagner la perte d'autonomie des personnes âgées ou handicapées fragilisées.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un service d'accompagnement destiné à des personnes âgées ou handicapées en difficulté dans l'organisation de leur vie quotidienne. Le CCAS est présent lors du Forum des associations pour présenter le service et trouver de nouveaux bénévoles.",
+    "objectifs": [
+      "Accompagner la perte d'autonomie",
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS",
+  "date": [
+    "1985"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Service_des_benevoles_du_ccas.txt",
+  "nom_fichier": "Service_des_benevoles_du_ccas.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/366-pe-service-des-benevoles-du-ccas-1.pdf",
+  "original_title": "Service des bénévoles du ccas",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "La Semaine Bleue des seniors",
-    "territoire": "Commune: Libourne (33)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un projet communautaire visant à préserver la planète, créer des échanges de savoirs entre générations, et mettre en valeur les compétences des seniors.",
-        "contexte": "La Ville de Libourne a organisé une Semaine Bleue pour sensibiliser aux questions environnementales et promouvoir l'éducation aux médias numériques.",
-        "problematique": "Le besoin d'encourager la participation des jeunes à des actions communautaires et de valoriser les compétences des seniors dans le domaine du numérique.",
-        "solution_envisagee": "Organisation de balades intergénérationnelles autour de thèmes liés aux médias numériques, avec une approche naturelle en centre-ville.",
-        "objectifs": [
-            "Encourager la participation des jeunes à des actions communautaires",
-            "Valoriser les compétences des seniors dans le domaine du numérique"
-        ]
-    },
-    "porteur_initiative": "Ville de Libourne (33)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Semaine_Bleue_des_seniors.txt",
-    "nom_fichier": "La_Semaine_Bleue_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Semaine Bleue des seniors",
+  "territoire": [
+    "libourne (33)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un projet communautaire visant à préserver la planète, créer des échanges de savoirs entre générations, et mettre en valeur les compétences des seniors.",
+    "contexte": "La Ville de Libourne a organisé une Semaine Bleue pour sensibiliser aux questions environnementales et promouvoir l'éducation aux médias numériques.",
+    "problematique": "Le besoin d'encourager la participation des jeunes à des actions communautaires et de valoriser les compétences des seniors dans le domaine du numérique.",
+    "solution_envisagee": "Organisation de balades intergénérationnelles autour de thèmes liés aux médias numériques, avec une approche naturelle en centre-ville.",
+    "objectifs": [
+      "Encourager la participation des jeunes à des actions communautaires",
+      "Valoriser les compétences des seniors dans le domaine du numérique"
+    ]
+  },
+  "porteur_initiative": "Ville de Libourne (33)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Semaine_Bleue_des_seniors.txt",
+  "nom_fichier": "La_Semaine_Bleue_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/756-pe-623-semaine-bleue-ville-de-libourne.pdf",
+  "original_title": "La Semaine Bleue des seniors",
+  "collection_date": ""
 }

@@ -1,29 +1,39 @@
 {
-    "titre": "La convivialité au cœur du métier des aides à domicile",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les besoins supplémentaires des personnes isolées dans le cadre du service séniors-maintien à domicile.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une modernisation du formulaire d'inscription a été effectuée par le service communication de la commune. Cette action est mise en avant de façon régulière sur les réseaux sociaux lors de la veille saisonnière vigilance canicule ou sur les panneaux numériques de la Ville.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_convivialite_au_cur_du_metier_des_aides_a_domicile.txt",
-    "nom_fichier": "La_convivialite_au_cur_du_metier_des_aides_a_domicile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La convivialité au cœur du métier des aides à domicile",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les besoins supplémentaires des personnes isolées dans le cadre du service séniors-maintien à domicile.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une modernisation du formulaire d'inscription a été effectuée par le service communication de la commune. Cette action est mise en avant de façon régulière sur les réseaux sociaux lors de la veille saisonnière vigilance canicule ou sur les panneaux numériques de la Ville.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_convivialite_au_cur_du_metier_des_aides_a_domicile.txt",
+  "nom_fichier": "La_convivialite_au_cur_du_metier_des_aides_a_domicile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/924-pe-la-convivialite-au-coeur-du-metier-des-aides-a-domicile.pdf",
+  "original_title": "La convivialité au cœur du métier des aides à domicile",
+  "collection_date": ""
 }

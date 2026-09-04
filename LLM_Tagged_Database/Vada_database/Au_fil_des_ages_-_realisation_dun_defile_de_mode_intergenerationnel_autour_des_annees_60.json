@@ -1,25 +1,35 @@
 {
-    "titre": "Au fil des âges",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "public non connu",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "",
-        "contexte": "",
-        "problematique": "",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_des_ages_-_realisation_dun_defile_de_mode_intergenerationnel_autour_des_annees_60.txt",
-    "nom_fichier": "Au_fil_des_ages_-_realisation_dun_defile_de_mode_intergenerationnel_autour_des_annees_60.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Au fil des âges",
+  "territoire": [],
+  "echelle": [],
+  "public_vise": "public non connu",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "",
+    "contexte": "",
+    "problematique": "",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_des_ages_-_realisation_dun_defile_de_mode_intergenerationnel_autour_des_annees_60.txt",
+  "nom_fichier": "Au_fil_des_ages_-_realisation_dun_defile_de_mode_intergenerationnel_autour_des_annees_60.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Au-fil-des-ages-realisation-dun-defile-de-mode-intergenerationnel-autour-des-annees-60.pdf",
+  "original_title": "\"Au fil des âges\" - réalisation d'un défilé de mode intergénérationnel autour des années 60",
+  "collection_date": ""
 }

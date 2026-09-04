@@ -1,35 +1,46 @@
 {
-    "titre": "Une convention CCAS - Bailleur social pour accompagner le parcours résidentiel tout au long de la vie",
-    "territoire": "Commune : Besançon, Métropole",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette convention entre la CCAS de Besançon et le bailleur social Néolia vise à accompagner les parcours résidentiels des aînés tout au long de leur vie.",
-        "contexte": "Les personnes âgées souhaitent maintenir leur autonomie et continuer à vivre chez eux, mais elles peuvent rencontrer des difficultés pour trouver un logement adapté ou pour se connecter aux services nécessaires. Le CCAS et Néolia mettent en place une convention pour aider les aînés dans cette démarche.",
-        "problematique": "Les personnes âgées rencontrent des difficultés pour trouver un logement adapté ou pour se connecter aux services nécessaires, ce qui peut conduire à des déplacements inutiles et à la perte de liens sociaux. La convention vise à faciliter ces démarches.",
-        "solution_envisagee": "La convention implique une information ciblée sur les services existants en matière de soutien à domicile et de maintien du lien social, ainsi qu'une assistance pour l'adaptation des logements aux besoins spécifiques. Elle favorise la participation active des aînés dans le choix de leur futur projet de vie.",
-        "objectifs": [
-            "Faciliter les parcours logement pour les aînés avec des relogements possibles dans des appartements adaptés au handicap ou à la perte d'autonomie",
-            "Permettre une information/correspondance ciblée sur les services existants en matière de soutien à domicile et de maintien du lien social",
-            "Assurer l'intégration des personnes fragiles dans la vie de leur quartier"
-        ]
-    },
-    "porteur_initiative": "CCAS de Besançon, Néolia",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_convention_CCAS_-_Bailleur_social_pour_accompagner_le_parcours_residentiel_tout_au_long_de_la_vie.txt",
-    "nom_fichier": "Une_convention_CCAS_-_Bailleur_social_pour_accompagner_le_parcours_residentiel_tout_au_long_de_la_vie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Une convention CCAS - Bailleur social pour accompagner le parcours résidentiel tout au long de la vie",
+  "territoire": [
+    "besançon, métropole"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette convention entre la CCAS de Besançon et le bailleur social Néolia vise à accompagner les parcours résidentiels des aînés tout au long de leur vie.",
+    "contexte": "Les personnes âgées souhaitent maintenir leur autonomie et continuer à vivre chez eux, mais elles peuvent rencontrer des difficultés pour trouver un logement adapté ou pour se connecter aux services nécessaires. Le CCAS et Néolia mettent en place une convention pour aider les aînés dans cette démarche.",
+    "problematique": "Les personnes âgées rencontrent des difficultés pour trouver un logement adapté ou pour se connecter aux services nécessaires, ce qui peut conduire à des déplacements inutiles et à la perte de liens sociaux. La convention vise à faciliter ces démarches.",
+    "solution_envisagee": "La convention implique une information ciblée sur les services existants en matière de soutien à domicile et de maintien du lien social, ainsi qu'une assistance pour l'adaptation des logements aux besoins spécifiques. Elle favorise la participation active des aînés dans le choix de leur futur projet de vie.",
+    "objectifs": [
+      "Faciliter les parcours logement pour les aînés avec des relogements possibles dans des appartements adaptés au handicap ou à la perte d'autonomie",
+      "Permettre une information/correspondance ciblée sur les services existants en matière de soutien à domicile et de maintien du lien social",
+      "Assurer l'intégration des personnes fragiles dans la vie de leur quartier"
+    ]
+  },
+  "porteur_initiative": "CCAS de Besançon, Néolia",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Une_convention_CCAS_-_Bailleur_social_pour_accompagner_le_parcours_residentiel_tout_au_long_de_la_vie.txt",
+  "nom_fichier": "Une_convention_CCAS_-_Bailleur_social_pour_accompagner_le_parcours_residentiel_tout_au_long_de_la_vie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/249-249-convention-bailleur-social-besancon.pdf",
+  "original_title": "Une convention CCAS - Bailleur social pour accompagner le parcours résidentiel tout au long de la vie",
+  "collection_date": ""
 }

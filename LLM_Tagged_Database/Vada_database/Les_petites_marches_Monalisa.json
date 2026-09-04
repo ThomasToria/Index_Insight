@@ -1,32 +1,44 @@
 {
-    "titre": "Les petites marches Monalisa",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Proposer des activités conviviales, telles que loto s, goûters, ou ateliers créatifs.",
-        "contexte": "Valider l’affiliation de l’association « Chauvé-Seniors e n » au réseau Monalisa en 2025. C'est une réunion avec l'association Chauvé-Seniors e n 2022 qu'est venue l'idée d'organiser des petites marches mensuelles pour inviter les personnes fragiles ou isolées à participer.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des petites marches mensuelles pour inviter les personnes fragiles ou isolées à participer.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Chauvé-Seniors e n",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_petites_marches_Monalisa.txt",
-    "nom_fichier": "Les_petites_marches_Monalisa.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les petites marches Monalisa",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Proposer des activités conviviales, telles que loto s, goûters, ou ateliers créatifs.",
+    "contexte": "Valider l’affiliation de l’association « Chauvé-Seniors e n » au réseau Monalisa en 2025. C'est une réunion avec l'association Chauvé-Seniors e n 2022 qu'est venue l'idée d'organiser des petites marches mensuelles pour inviter les personnes fragiles ou isolées à participer.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des petites marches mensuelles pour inviter les personnes fragiles ou isolées à participer.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Chauvé-Seniors e n",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_petites_marches_Monalisa.txt",
+  "nom_fichier": "Les_petites_marches_Monalisa.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Les-petites-marches-Monalisa.pdf",
+  "original_title": "Les petites marches Monalisa",
+  "collection_date": ""
 }

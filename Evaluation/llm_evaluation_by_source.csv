@@ -1,0 +1,43 @@
+﻿absence_correcte;accepted_rate_evaluable;accepted_rate_full_sample;correct;exact_match_rate;f1_macro;f1_micro;field;incorrect;metric_type;missing_gold_values;n_annotated;n_evaluable;non_evaluable;partiel;precision_micro;recall_micro;source
+;;;;1.0;1.0;1.0;echelle;;categorical;0;10;;;;1.0;1.0;CNAV
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;10;;;;1.0;1.0;CNAV
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;10;;;;1.0;1.0;CNAV
+0;0.5;0.4;4;;;;date;0;human_judgment;;10;8;2;4;;;CNAV
+0;1.0;1.0;10;;;;porteur_initiative;0;human_judgment;;10;10;0;0;;;CNAV
+4;0.889;0.8;4;;;;territoire;0;human_judgment;;10;9;1;1;;;CNAV
+0;1.0;1.0;10;;;;thematique;0;human_judgment;;10;10;0;0;;;CNAV
+;;;;1.0;1.0;1.0;echelle;;categorical;0;10;;;;1.0;1.0;Fiches actions SIAGE
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;10;;;;1.0;1.0;Fiches actions SIAGE
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;10;;;;1.0;1.0;Fiches actions SIAGE
+0;0.8;0.8;8;;;;date;0;human_judgment;;10;10;0;2;;;Fiches actions SIAGE
+0;0.889;0.8;8;;;;porteur_initiative;1;human_judgment;;10;9;1;0;;;Fiches actions SIAGE
+3;1.0;1.0;7;;;;territoire;0;human_judgment;;10;10;0;0;;;Fiches actions SIAGE
+0;1.0;1.0;10;;;;thematique;0;human_judgment;;10;10;0;0;;;Fiches actions SIAGE
+;;;;0.9;0.8;0.957;echelle;;categorical;0;10;;;;1.0;0.917;Fondation de France
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;10;;;;1.0;1.0;Fondation de France
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;10;;;;1.0;1.0;Fondation de France
+0;1.0;0.8;8;;;;date;0;human_judgment;;10;8;2;0;;;Fondation de France
+0;1.0;0.7;7;;;;porteur_initiative;0;human_judgment;;10;7;3;0;;;Fondation de France
+5;1.0;0.8;3;;;;territoire;0;human_judgment;;10;8;2;0;;;Fondation de France
+0;1.0;1.0;10;;;;thematique;0;human_judgment;;10;10;0;0;;;Fondation de France
+;;;;1.0;1.0;1.0;echelle;;categorical;0;10;;;;1.0;1.0;HCFEA
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;10;;;;1.0;1.0;HCFEA
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;10;;;;1.0;1.0;HCFEA
+0;0.9;0.9;9;;;;date;0;human_judgment;;10;10;0;1;;;HCFEA
+0;1.0;0.2;2;;;;porteur_initiative;0;human_judgment;;10;2;8;0;;;HCFEA
+8;1.0;0.9;1;;;;territoire;0;human_judgment;;10;9;1;0;;;HCFEA
+0;1.0;1.0;10;;;;thematique;0;human_judgment;;10;10;0;0;;;HCFEA
+;;;;1.0;1.0;1.0;echelle;;categorical;0;10;;;;1.0;1.0;IReSP Autonomie
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;10;;;;1.0;1.0;IReSP Autonomie
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;10;;;;1.0;1.0;IReSP Autonomie
+0;0.9;0.9;9;;;;date;1;human_judgment;;10;10;0;0;;;IReSP Autonomie
+0;0.0;0.0;0;;;;porteur_initiative;0;human_judgment;;10;0;10;0;;;IReSP Autonomie
+8;1.0;0.8;0;;;;territoire;0;human_judgment;;10;8;2;0;;;IReSP Autonomie
+0;1.0;1.0;10;;;;thematique;0;human_judgment;;10;10;0;0;;;IReSP Autonomie
+;;;;1.0;1.0;1.0;echelle;;categorical;0;10;;;;1.0;1.0;RFVAA
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;10;;;;1.0;1.0;RFVAA
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;10;;;;1.0;1.0;RFVAA
+0;0.6;0.6;6;;;;date;4;human_judgment;;10;10;0;0;;;RFVAA
+0;1.0;1.0;10;;;;porteur_initiative;0;human_judgment;;10;10;0;0;;;RFVAA
+2;1.0;1.0;8;;;;territoire;0;human_judgment;;10;10;0;0;;;RFVAA
+0;1.0;1.0;10;;;;thematique;0;human_judgment;;10;10;0;0;;;RFVAA

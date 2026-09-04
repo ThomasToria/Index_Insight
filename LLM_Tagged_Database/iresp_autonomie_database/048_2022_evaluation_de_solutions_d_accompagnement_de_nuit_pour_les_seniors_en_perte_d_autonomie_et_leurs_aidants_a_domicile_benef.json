@@ -1,33 +1,43 @@
 {
-    "titre": "Evaluation de solutions d'accompagnement de nuit pour les séniors en perte d'autonomie et leurs aidants à domicile: bénéfices et limites.",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette initiative vise à évaluer les solutions d'accompagnement de nuit pour les personnes âgées en perte d'autonomie et leurs aidants à domicile.",
-        "contexte": "",
-        "problematique": "La part démographique croissante des personnes âgées (>65 ans) et très âgées (>85 ans), s’accompagne d’une adaptation progressive de la société au vieillissement et l’organisation d’un nouveau tissu économique.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Évaluer les solutions d'accompagnement de nuit pour les personnes âgées en perte d'autonomie",
-            "Identifier les bénéfices potentiels des solutions envisagées",
-            "Déterminer les limites et les obstacles auxquels ces solutions sont confrontées"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\048_2022_evaluation_de_solutions_d_accompagnement_de_nuit_pour_les_seniors_en_perte_d_autonomie_et_leurs_aidants_a_domicile_benef.txt",
-    "nom_fichier": "048_2022_evaluation_de_solutions_d_accompagnement_de_nuit_pour_les_seniors_en_perte_d_autonomie_et_leurs_aidants_a_domicile_benef.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Evaluation de solutions d'accompagnement de nuit pour les séniors en perte d'autonomie et leurs aidants à domicile: bénéfices et limites.",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette initiative vise à évaluer les solutions d'accompagnement de nuit pour les personnes âgées en perte d'autonomie et leurs aidants à domicile.",
+    "contexte": "",
+    "problematique": "La part démographique croissante des personnes âgées (>65 ans) et très âgées (>85 ans), s’accompagne d’une adaptation progressive de la société au vieillissement et l’organisation d’un nouveau tissu économique.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Évaluer les solutions d'accompagnement de nuit pour les personnes âgées en perte d'autonomie",
+      "Identifier les bénéfices potentiels des solutions envisagées",
+      "Déterminer les limites et les obstacles auxquels ces solutions sont confrontées"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\048_2022_evaluation_de_solutions_d_accompagnement_de_nuit_pour_les_seniors_en_perte_d_autonomie_et_leurs_aidants_a_domicile_benef.txt",
+  "nom_fichier": "048_2022_evaluation_de_solutions_d_accompagnement_de_nuit_pour_les_seniors_en_perte_d_autonomie_et_leurs_aidants_a_domicile_benef.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/evaluation-de-solutions-daccompagnement-de-nuit-pour-les-seniors-en-perte-dautonomie-et-leurs-aidants-a-domicile-benefices-et-limites/",
+  "original_title": "Evaluation de solutions d’accompagnement de nuit pour les séniors en perte d’autonomie et leurs aidants à domicile : bénéfices et limites.",
+  "collection_date": ""
 }

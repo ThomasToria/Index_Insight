@@ -1,36 +1,48 @@
 {
-    "titre": "Guide pratique pour seniors sochaliens",
-    "territoire": "Sochaux, PMA",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "L’initiative vise à créer un guide pratique pour les seniors sochaliens, centralisant des informations sur la santé, le transport, les activités de loisirs et les services d’aides.",
-        "contexte": "Les seniors sochaliens ont besoin d’informations pratiques concernant leur bien-être, leurs moyens de transport, leurs activités de loisirs et les services d’aide. Ils rencontrent des difficultés à trouver ces informations en raison du vieillissement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un guide pratique centralisera toutes les informations utiles pour les seniors sochaliens sur la santé, le transport, les activités de loisirs et les services d’aides. Il sera adapté aux besoins spécifiques des seniors et distribué dans diverses plateformes.",
-        "objectifs": [
-            "Permettre aux seniors sochaliens de bénéficier d'informations pratiques concernant la santé, le transport, les activités et loisirs, les services d'aides...",
-            "Centraliser toutes les informations utiles pouvant les concerner",
-            "En faciliter l'accès en l’adaptant à ce public (prendre en compte les effets du vieillissement)",
-            "Créer une version papier et numérique pour diversifier son circuit de distribution (lieux et plateformes stratégiques)"
-        ]
-    },
-    "porteur_initiative": "La ville de Sochaux, le CCAS, les associations sochaliennes",
-    "date": [
-        "2019",
-        "25/01/2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_3_Gude_Pratique_pour_seniors_sochalie.txt",
-    "nom_fichier": "Fiche-action_3_Gude_Pratique_pour_seniors_sochalie.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Guide pratique pour seniors sochaliens",
+  "territoire": [
+    "sochaux, pma"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport ou publication",
+  "description": {
+    "description_generale": "L’initiative vise à créer un guide pratique pour les seniors sochaliens, centralisant des informations sur la santé, le transport, les activités de loisirs et les services d’aides.",
+    "contexte": "Les seniors sochaliens ont besoin d’informations pratiques concernant leur bien-être, leurs moyens de transport, leurs activités de loisirs et les services d’aide. Ils rencontrent des difficultés à trouver ces informations en raison du vieillissement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un guide pratique centralisera toutes les informations utiles pour les seniors sochaliens sur la santé, le transport, les activités de loisirs et les services d’aides. Il sera adapté aux besoins spécifiques des seniors et distribué dans diverses plateformes.",
+    "objectifs": [
+      "Permettre aux seniors sochaliens de bénéficier d'informations pratiques concernant la santé, le transport, les activités et loisirs, les services d'aides...",
+      "Centraliser toutes les informations utiles pouvant les concerner",
+      "En faciliter l'accès en l’adaptant à ce public (prendre en compte les effets du vieillissement)",
+      "Créer une version papier et numérique pour diversifier son circuit de distribution (lieux et plateformes stratégiques)"
+    ]
+  },
+  "porteur_initiative": "La ville de Sochaux, le CCAS, les associations sochaliennes",
+  "date": [
+    "2018-01-25",
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_3_Gude_Pratique_pour_seniors_sochalie.txt",
+  "nom_fichier": "Fiche-action_3_Gude_Pratique_pour_seniors_sochalie.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 3 Gude Pratique pour seniors sochaliens.pdf",
+  "collection_date": ""
 }

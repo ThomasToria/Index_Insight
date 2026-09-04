@@ -1,37 +1,46 @@
 {
-    "titre": "Ateliers Préparation à la Retraite",
-    "territoire": [
-        "communale",
-        "régionale"
-    ],
-    "echelle": [
-        "quartier",
-        "intercommunale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Proposer des ateliers aux futurs retraités de « préparation à la retraite »",
-        "contexte": "La ville souhaite améliorer l’isolement des personnes âgées et favoriser les interactions entre les résidents, leurs proches et la société civile.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer des ateliers à la préparation face à la rupture entre le monde du travail et la retraite",
-        "objectifs": [
-            "Prévenir la rupture entre la vie professionnelle et la retraite",
-            "Préparer à la vie à la retraite",
-            "Éviter l’isolement"
-        ]
-    },
-    "porteur_initiative": "La ville de [ville] avec le soutien des partenaires sociaux et institutionnels",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "numérique"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_13_-_Preparation_a_la_retraite.txt",
-    "nom_fichier": "Fiche-action_13_-_Preparation_a_la_retraite.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Ateliers Préparation à la Retraite",
+  "territoire": [
+    "régionale"
+  ],
+  "echelle": [
+    "quartier",
+    "intercommunale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Proposer des ateliers aux futurs retraités de « préparation à la retraite »",
+    "contexte": "La ville souhaite améliorer l’isolement des personnes âgées et favoriser les interactions entre les résidents, leurs proches et la société civile.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer des ateliers à la préparation face à la rupture entre le monde du travail et la retraite",
+    "objectifs": [
+      "Prévenir la rupture entre la vie professionnelle et la retraite",
+      "Préparer à la vie à la retraite",
+      "Éviter l’isolement"
+    ]
+  },
+  "porteur_initiative": "La ville de [ville] avec le soutien des partenaires sociaux et institutionnels",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "numérique"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_13_-_Preparation_a_la_retraite.txt",
+  "nom_fichier": "Fiche-action_13_-_Preparation_a_la_retraite.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 13 - Préparation à la retraite.pdf",
+  "collection_date": ""
 }

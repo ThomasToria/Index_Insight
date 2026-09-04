@@ -1,35 +1,45 @@
 {
-    "titre": "L'art de bien vieillir",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un projet intitulé 'L'art de bien vieillir' a été organisé par la Ville de Metz en 2019, composé d'une conférence grand public et de trois ateliers thématiques pour renforcer les connaissances et compétences des seniors en matière d'autonomie et de santé.",
-        "contexte": "Les seniors messins ont besoin de renforcer leurs compétences pour mieux vivre leur vieillesse, notamment dans le domaine de la santé. C'est pourquoi la Ville a organisé ce projet afin de répondre à cet enjeu.",
-        "problematique": "Le besoin de renforcer les liens entre les seniors messins, leurs proches et la société civile pour maintenir leur qualité de vie et leur estime de soi.",
-        "solution_envisagee": "Organiser des ateliers thématiques autour du thème de la santé, en combinant jeux de rôles, mises en situation, développement personnel (estime de soi, confiance en soi) et témoignages positifs pour aider les seniors à mieux se connaître.",
-        "objectifs": [
-            "Renforcer les compétences des seniors en matière d'autonomie et de santé",
-            "Socialiser les seniors messins",
-            "Améliorer la communication avec soi"
-        ]
-    },
-    "porteur_initiative": "Ville de Metz",
-    "date": [
-        "2019",
-        "2021",
-        "2022"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lart_de_bien_vieillir.txt",
-    "nom_fichier": "Lart_de_bien_vieillir.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'art de bien vieillir",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un projet intitulé 'L'art de bien vieillir' a été organisé par la Ville de Metz en 2019, composé d'une conférence grand public et de trois ateliers thématiques pour renforcer les connaissances et compétences des seniors en matière d'autonomie et de santé.",
+    "contexte": "Les seniors messins ont besoin de renforcer leurs compétences pour mieux vivre leur vieillesse, notamment dans le domaine de la santé. C'est pourquoi la Ville a organisé ce projet afin de répondre à cet enjeu.",
+    "problematique": "Le besoin de renforcer les liens entre les seniors messins, leurs proches et la société civile pour maintenir leur qualité de vie et leur estime de soi.",
+    "solution_envisagee": "Organiser des ateliers thématiques autour du thème de la santé, en combinant jeux de rôles, mises en situation, développement personnel (estime de soi, confiance en soi) et témoignages positifs pour aider les seniors à mieux se connaître.",
+    "objectifs": [
+      "Renforcer les compétences des seniors en matière d'autonomie et de santé",
+      "Socialiser les seniors messins",
+      "Améliorer la communication avec soi"
+    ]
+  },
+  "porteur_initiative": "Ville de Metz",
+  "date": [
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lart_de_bien_vieillir.txt",
+  "nom_fichier": "Lart_de_bien_vieillir.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/930-concours-2023-l-art-de-bien-vieillir.pdf",
+  "original_title": "L'art de bien vieillir",
+  "collection_date": ""
 }

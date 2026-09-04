@@ -1,35 +1,45 @@
 {
-    "titre": "Mutuelle Intercommunale pour les Aînés de Limonest",
-    "territoire": [
-        "Commune: Limonest"
-    ],
-    "echelle": [
-        "communale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Une mutuelle communale mise en place pour faciliter la vie des aînés dans les communes de Limonest.",
-        "contexte": "Les communes de Limonest souhaitent améliorer la protection sociale et l'accès aux soins via une mutuelle partagée. Après étude et concertation, la MTRL est choisie comme partenaire pour proposer des garanties à un tarif attractif.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une mutuelle intercommunale mise en place pour faciliter la vie des aînés dans les communes de Limonest.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Limonest",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Limonest_une_mutuelle_communale_qui_facilite_la_vie_des_aines.txt",
-    "nom_fichier": "A_Limonest_une_mutuelle_communale_qui_facilite_la_vie_des_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mutuelle Intercommunale pour les Aînés de Limonest",
+  "territoire": [
+    "limonest"
+  ],
+  "echelle": [
+    "communale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Une mutuelle communale mise en place pour faciliter la vie des aînés dans les communes de Limonest.",
+    "contexte": "Les communes de Limonest souhaitent améliorer la protection sociale et l'accès aux soins via une mutuelle partagée. Après étude et concertation, la MTRL est choisie comme partenaire pour proposer des garanties à un tarif attractif.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une mutuelle intercommunale mise en place pour faciliter la vie des aînés dans les communes de Limonest.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Limonest",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Limonest_une_mutuelle_communale_qui_facilite_la_vie_des_aines.txt",
+  "nom_fichier": "A_Limonest_une_mutuelle_communale_qui_facilite_la_vie_des_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/374-374-pe-mutuelle-communale.pdf",
+  "original_title": "A Limonest, une mutuelle communale qui facilite la vie des aînés",
+  "collection_date": ""
 }

@@ -1,33 +1,44 @@
 {
-    "titre": "Maintien à domicile",
-    "territoire": "Commune: Chamalières (63)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Ce projet de services et d'aides pour rester chez soi, dans un contexte sanitaire exceptionnellement dégradé, a consisté en la mise en place en urgence d'un plan d'action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination et finalement d'hospitalisation.",
-        "contexte": "Face aux difficultés pour répondre aux besoins de subsistance (alimentation, médicaments), l'action a été menée. Ce projet de services et d'aides pour rester chez soi, dans un contexte sanitaire exceptionnellement dégradé, a consisté en la mise en place en urgence d'un plan d'action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination et finalement d'hospitalisation.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des échanges possibles avec les commerçants de la ville.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville de Chamalières",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maintien_a_domicile.txt",
-    "nom_fichier": "Maintien_a_domicile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Maintien à domicile",
+  "territoire": [
+    "chamalières (63)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Ce projet de services et d'aides pour rester chez soi, dans un contexte sanitaire exceptionnellement dégradé, a consisté en la mise en place en urgence d'un plan d'action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination et finalement d'hospitalisation.",
+    "contexte": "Face aux difficultés pour répondre aux besoins de subsistance (alimentation, médicaments), l'action a été menée. Ce projet de services et d'aides pour rester chez soi, dans un contexte sanitaire exceptionnellement dégradé, a consisté en la mise en place en urgence d'un plan d'action pour favoriser le maintien à domicile des personnes âgées les plus vulnérables, limitant tout risque de contamination et finalement d'hospitalisation.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des échanges possibles avec les commerçants de la ville.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville de Chamalières",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maintien_a_domicile.txt",
+  "nom_fichier": "Maintien_a_domicile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/732-pe-600-maintien-a-domicile-chamalieres.pdf",
+  "original_title": "Maintien à domicile",
+  "collection_date": ""
 }

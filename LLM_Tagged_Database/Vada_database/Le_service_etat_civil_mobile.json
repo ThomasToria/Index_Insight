@@ -1,36 +1,43 @@
 {
-    "titre": "Le service état civil mobile",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Une campagne de renouvellement de cartes d'identité destinée aux personnes en perte d'autonomie a été mise en place dans plusieurs structures d'accueil et résidences seniors.",
-        "contexte": "Des personnes âgées isolées et ayant du mal à se déplacer ont besoin de documents d’identité pour renouveler leur carte d’identité. Les ressources disponibles sont limitées, ce qui a conduit à la création d’un dispositif mobile pour faciliter l’accès aux services.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de structures d'accueil et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une campagne de renouvellement de cartes d'identité destinée aux personnes en perte d'autonomie a été mise en place dans plusieurs structures d'accueil et résidences seniors. Des agents du service état-civil se rendent gratuitement au domicile des personnes qui le demandent, pour procéder à la renouvellement de leur carte d'identité.",
-        "objectifs": [
-            "Faciliter le renouvellement des documents d’identité des personnes âgées isolées et ayant du mal à se déplacer",
-            "Développer les liens entre les résidents de structures d'accueil et la société civile"
-        ]
-    },
-    "porteur_initiative": "La Ville de Dinard",
-    "date": [
-        "février 2025",
-        "avril 2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_service_etat_civil_mobile.txt",
-    "nom_fichier": "Le_service_etat_civil_mobile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le service état civil mobile",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Une campagne de renouvellement de cartes d'identité destinée aux personnes en perte d'autonomie a été mise en place dans plusieurs structures d'accueil et résidences seniors.",
+    "contexte": "Des personnes âgées isolées et ayant du mal à se déplacer ont besoin de documents d’identité pour renouveler leur carte d’identité. Les ressources disponibles sont limitées, ce qui a conduit à la création d’un dispositif mobile pour faciliter l’accès aux services.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de structures d'accueil et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une campagne de renouvellement de cartes d'identité destinée aux personnes en perte d'autonomie a été mise en place dans plusieurs structures d'accueil et résidences seniors. Des agents du service état-civil se rendent gratuitement au domicile des personnes qui le demandent, pour procéder à la renouvellement de leur carte d'identité.",
+    "objectifs": [
+      "Faciliter le renouvellement des documents d’identité des personnes âgées isolées et ayant du mal à se déplacer",
+      "Développer les liens entre les résidents de structures d'accueil et la société civile"
+    ]
+  },
+  "porteur_initiative": "La Ville de Dinard",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_service_etat_civil_mobile.txt",
+  "nom_fichier": "Le_service_etat_civil_mobile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1111-pe-le-service-etat-civil-mobile.pdf",
+  "original_title": "Le service état civil mobile",
+  "collection_date": ""
 }

@@ -1,0 +1,225 @@
+% Replace the current Evaluation chapter in the thesis with this block.
+% The values below are generated from Evaluation/llm_evaluation_results.csv.
+
+\chapter{Evaluation}
+
+\section{Evaluation objectives}
+
+The evaluation has two distinct objectives. The first concerns technical
+usability: records should be valid, fields should be populated, and provenance
+should be retained. The second concerns factual extraction quality: a populated
+field must be correct and supported by the source text. These objectives must
+not be confused, since a complete record can still contain an incorrect or an
+overly inferred value.
+
+\section{Automatic coverage results}
+
+The rule-based consolidated database contains 1,153 records. Its review table
+measures field completion and an internal heuristic confidence score. The
+results in Table~\ref{tab:coverage-results} demonstrate high field population,
+but neither measure is a human-judged accuracy score nor a measure of LLM
+performance.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lrrr}
+\toprule
+Source & Records & Mean completion rate & Mean heuristic confidence \\
+\midrule
+CNAV & 42 & 0.99 & 0.58 \\
+Fiches actions SIAGE & 60 & 0.94 & 0.53 \\
+Fondation de France & 43 & 0.97 & 0.58 \\
+HCFEA & 23 & 0.97 & 0.54 \\
+IReSP Autonomie & 131 & 0.98 & 0.63 \\
+VADA & 854 & 1.00 & 0.60 \\
+\midrule
+Overall & 1,153 & 0.99 & 0.59 \\
+\bottomrule
+\end{tabular}
+\caption{Automatic coverage of the rule-based consolidated database.}
+\label{tab:coverage-results}
+\end{table}
+
+Completion covers title, territory, scale, target audience, stakeholder, date,
+theme, source, and five descriptive fields. The confidence figure derives from
+rule-based candidate scores. It is useful for prioritising manual review, not as
+a calibrated probability that a field is correct.
+
+\section{Human reference evaluation protocol}
+
+The factual quality of LLM-assisted extraction was evaluated through a manually
+annotated reference sample. Sixty documents were selected using a reproducible
+random draw, stratified by source: ten documents were drawn from each of the
+six corpus sources. This equal allocation was chosen to ensure that small
+sources were represented in the evaluation; it does not reproduce the source
+distribution of the complete corpus.
+
+For each selected document, the LLM output was compared with its cleaned source
+text. Seven fields were examined: \texttt{territoire}, \texttt{echelle},
+\texttt{public\_vise}, \texttt{nature\_initiative},
+\texttt{porteur\_initiative}, \texttt{date}, and \texttt{thematique}.
+For the controlled categorical fields \texttt{public\_vise},
+\texttt{echelle}, and \texttt{nature\_initiative}, the annotator recorded a
+reference value and the evaluation reports micro precision, recall, micro F1,
+macro F1, and exact-match rate. For the remaining fields, each model output was
+judged as \textit{correct}, \textit{partiel}, \textit{incorrect},
+\textit{absence correcte}, or \textit{non \'{e}valuable}. A prediction was
+considered correct only when it was explicitly supported by the source text.
+
+The labels \textit{absence correcte} and \textit{non \'{e}valuable} describe
+two different situations. \textit{Absence correcte} was assigned when the model
+left a field empty and the source text did not provide enough information to fill
+it reliably; this is treated as a successful prediction. In contrast,
+\textit{non \'{e}valuable} was assigned when the reviewer could not establish a
+reliable reference value because the source text was too ambiguous, incomplete, or
+degraded. Non-evaluable cases are reported separately and excluded from the
+denominator of the accepted rate.
+
+The annotation was performed by one reviewer. Consequently, the results
+measure agreement with this documented reference annotation, but do not provide
+an inter-annotator agreement estimate. A second independent annotation of a
+subset would be a useful extension.
+
+\section{Human reference evaluation results}
+
+Table~\ref{tab:llm-categorical-results} reports the results for the three
+controlled categorical fields. All scores range from 0 to 1, with 1 indicating
+perfect agreement with the reference annotation. Precision measures whether the
+labels produced by the model were appropriate; recall measures whether the labels
+expected from the source text were retrieved; and exact match requires the full
+predicted value to match the reference value for a document.
+
+The target-audience field was evaluated against the French controlled vocabulary
+used in the extraction prompt: \textit{aînés}, \textit{aînés et autres},
+\textit{professionnels}, \textit{autre}, and \textit{public non connu}. The model
+achieved perfect scores in this sample for target audience and initiative type.
+Territorial scale produced one non-exact prediction. In this case, the reference
+label was \textit{nationale}, whereas the model returned an empty value. The model
+therefore introduced no incorrect scale label, which explains the
+precision of 1.000, but it missed one expected label, producing a recall of 0.987.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lrrrrr}
+\toprule
+Field & Precision & Recall & F1 micro & F1 macro & Exact match \\
+\midrule
+Target audience & 1.000 & 1.000 & 1.000 & 1.000 & 1.000 \\
+Initiative type & 1.000 & 1.000 & 1.000 & 1.000 & 1.000 \\
+Territorial scale & 1.000 & 0.987 & 0.993 & 0.993 & 0.983 \\
+\bottomrule
+\end{tabular}
+\caption{Human reference evaluation of controlled categorical metadata
+(n=60 documents per field).}
+\label{tab:llm-categorical-results}
+\end{table}
+
+Table~\ref{tab:llm-judgment-results} presents the human judgments for the
+remaining fields. ``Evaluable'' is the number of documents for which the reviewer
+could establish a reference value; it is therefore equal to 60 minus the number of
+non-evaluable cases. ``Accepted'' combines \textit{correct} and \textit{absence
+correcte} judgments. The accepted rate is calculated only on evaluable documents,
+so it measures the model's factual reliability where the source permits a clear
+assessment. ``Partial'' identifies a value that is broadly supported but incomplete
+or overly vague, whereas ``incorrect'' identifies an unsupported or wrong value.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{lrrrrrr}
+\toprule
+Field & Evaluable & Accepted & Partial & Incorrect & Non-evaluable & Accepted rate \\
+\midrule
+Territory & 54 & 53 & 1 & 0 & 6 & 0.981 \\
+Stakeholder & 38 & 37 & 0 & 1 & 22 & 0.974 \\
+Date & 56 & 44 & 7 & 5 & 4 & 0.786 \\
+Theme & 60 & 60 & 0 & 0 & 0 & 1.000 \\
+\bottomrule
+\end{tabular}
+\caption{Human judgments of LLM metadata extraction. ``Accepted'' includes
+correct predictions and correctly empty fields.}
+\label{tab:llm-judgment-results}
+\end{table}
+
+\subsection{Exploratory source-level analysis}
+
+Because the reference sample contains ten documents from each source, the same
+annotations can be inspected by source to identify possible sensitivity to
+documentary format. This analysis is exploratory: ten documents per source are
+not sufficient to estimate a stable source-specific performance level, and the
+results should therefore be read as diagnostic evidence rather than as a ranking
+of sources.
+
+Target audience, initiative type, and theme were fully accepted in all six
+source subsets. Territorial scale was also fully correct for five sources. The
+only exception was Fondation de France, for which one expected scale label was
+missed, resulting in an F1 score of 0.957. Table~\ref{tab:llm-source-results}
+focuses on the fields for which source-dependent variation is most informative.
+For territory, holder, and date, the notation $a/b$ gives the number of accepted
+predictions over evaluable documents; ``--'' indicates that no document was
+evaluable for that field.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{lrrrr}
+\toprule
+Source & Scale F1 & Territory & Holder & Date \\
+\midrule
+CNAV & 1.000 & 8/9 (0.889) & 10/10 (1.000) & 4/8 (0.500) \\
+Fiches actions SIAGE & 1.000 & 10/10 (1.000) & 8/9 (0.889) & 8/10 (0.800) \\
+Fondation de France & 0.957 & 8/8 (1.000) & 7/7 (1.000) & 8/8 (1.000) \\
+HCFEA & 1.000 & 9/9 (1.000) & 2/2 (1.000) & 9/10 (0.900) \\
+IReSP Autonomie & 1.000 & 8/8 (1.000) & -- & 9/10 (0.900) \\
+RFVAA & 1.000 & 10/10 (1.000) & 10/10 (1.000) & 6/10 (0.600) \\
+\bottomrule
+\end{tabular}
+\caption{Exploratory source-level results from the stratified reference sample.
+Territory, holder, and date are reported as accepted predictions over evaluable
+documents, followed by the accepted rate.}
+\label{tab:llm-source-results}
+\end{table}
+
+The results suggest that date extraction is particularly dependent on source
+format. The accepted date rate ranges from 0.500 for CNAV to 1.000 for
+Fondation de France, with RFVAA also showing a lower rate of 0.600. This is
+consistent with the different roles of temporal expressions in the sources:
+they may describe an initiative, an event, a publication, or an update to a
+document. The IReSP holder field was non-evaluable in all ten sampled records,
+which reflects the frequent absence of a clearly identifiable initiative holder
+in research-project descriptions rather than a measured model failure.
+
+\section{Results analysis and limitations}
+
+The human evaluation confirms that, for this stratified sample, the LLM can
+produce reliable structured metadata for target audience, initiative type,
+territorial scale, theme, and territory. The results should nevertheless be
+interpreted as sample-level evidence rather than as a guarantee of identical
+performance on every document in the corpus. In particular, the equal source
+allocation makes the evaluation appropriate for detecting source-specific
+weaknesses, but it is not an estimate weighted by the distribution of the
+complete corpus.
+
+Date extraction is the clearest weakness. Among the 56 evaluable documents,
+only 44 predictions were fully accepted; seven were partial and five were
+incorrect. This result is consistent with the heterogeneous role of dates in
+the sources: a year can refer to an initiative start, publication, event,
+funding period, or another temporal mention. Future versions of the schema
+should distinguish the temporal expression from its semantic role, for example
+by separating publication date, initiative start date, and event date.
+
+The stakeholder field has a high accepted rate among evaluable documents
+(0.974), but 22 of the 60 documents were non-evaluable. This does not
+necessarily indicate a model error; rather, many source texts do not clearly
+distinguish the initiative holder from a partner, funder, or organisation merely
+mentioned in the document. The interface should therefore preserve uncertainty
+and provenance instead of presenting every extracted stakeholder as an
+established fact.
+
+These findings complement, rather than replace, automatic coverage measures.
+The completed reference evaluation establishes factual evidence for the seven
+reviewed metadata fields, while the remaining free-text descriptions still
+require separate qualitative validation before being used as factual claims.
+The modest sample size and the absence of a second annotator remain limitations.
+Future work should extend the reference set, measure inter-annotator agreement,
+and evaluate whether prompt or model changes improve the date and stakeholder
+fields.

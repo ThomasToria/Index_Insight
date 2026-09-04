@@ -1,32 +1,44 @@
 {
-    "titre": "Des toilettes publiques 'nouvelles générations'",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer les conditions de toilettes publiques dans la commune, en particulier pour les personnes âgées.",
-        "contexte": "Les toilettes publiques sont souvent mal utilisées par les personnes âgées, ce qui peut conduire à des problèmes de mobilité et d’isolement social. Les initiatives comme celle-ci visent à améliorer ces conditions.",
-        "problematique": "Le manque de toilettes accessibles pour les personnes âgées dans les communes.",
-        "solution_envisagee": "Implanter des toilettes publiques 'nouvelles générations' avec des équipements spécifiques et une facilité d'accès aux personnes à mobilité réduite.",
-        "objectifs": [
-            "Encourager les déplacements piétonniers",
-            "Fournir aux habitants et aux touristes des toilettes accessibles"
-        ]
-    },
-    "porteur_initiative": "Municipalité de Dijon",
-    "date": [
-        "2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_toilettes_publiques_nouvelles_generations.txt",
-    "nom_fichier": "Des_toilettes_publiques_nouvelles_generations.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des toilettes publiques 'nouvelles générations'",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer les conditions de toilettes publiques dans la commune, en particulier pour les personnes âgées.",
+    "contexte": "Les toilettes publiques sont souvent mal utilisées par les personnes âgées, ce qui peut conduire à des problèmes de mobilité et d’isolement social. Les initiatives comme celle-ci visent à améliorer ces conditions.",
+    "problematique": "Le manque de toilettes accessibles pour les personnes âgées dans les communes.",
+    "solution_envisagee": "Implanter des toilettes publiques 'nouvelles générations' avec des équipements spécifiques et une facilité d'accès aux personnes à mobilité réduite.",
+    "objectifs": [
+      "Encourager les déplacements piétonniers",
+      "Fournir aux habitants et aux touristes des toilettes accessibles"
+    ]
+  },
+  "porteur_initiative": "Municipalité de Dijon",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_toilettes_publiques_nouvelles_generations.txt",
+  "nom_fichier": "Des_toilettes_publiques_nouvelles_generations.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/106-106-toilettes-publiques-dijon.pdf",
+  "original_title": "Des toilettes publiques \"nouvelles générations\"",
+  "collection_date": ""
 }

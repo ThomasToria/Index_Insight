@@ -1,36 +1,44 @@
 {
-    "titre": "Mettre en lien des parents, enfants et grands-parents de cœur: construire des familles de cœur",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "départementale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette action vise à mettre en lien des familles, dont les enfants ne sont pas en contact avec les grands-parents, avec des grands-parents de cœur. Elle a été lancée depuis 2013 dans le département de la Loire-Atlantique et s'est développée au niveau national.",
-        "contexte": "Le phénomène d'isolement touche toutes les générations et tend à s'accroître, ce qui est particulièrement vrai pour les personnes âgées. Suite à une communication dans la presse locale, de nombreux appels ont été reçus, venant de familles et de personnes de plus de 60 ans très intéressées.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Mettre en lien des familles, dont les enfants ne sont pas en contact avec les grands-parents, avec des grands-parents de cœur. Cette action a été lancée depuis 2013 dans le département de la Loire-Atlantique et s'est développée au niveau national.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Manou Partages",
-    "date": [
-        "2013",
-        "2020"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mettre_en_lien_des_parents_enfants_et_grands-parents_de_cur_construire_des_familles_de_cur.txt",
-    "nom_fichier": "Mettre_en_lien_des_parents_enfants_et_grands-parents_de_cur_construire_des_familles_de_cur.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mettre en lien des parents, enfants et grands-parents de cœur: construire des familles de cœur",
+  "territoire": [],
+  "echelle": [
+    "départementale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette action vise à mettre en lien des familles, dont les enfants ne sont pas en contact avec les grands-parents, avec des grands-parents de cœur. Elle a été lancée depuis 2013 dans le département de la Loire-Atlantique et s'est développée au niveau national.",
+    "contexte": "Le phénomène d'isolement touche toutes les générations et tend à s'accroître, ce qui est particulièrement vrai pour les personnes âgées. Suite à une communication dans la presse locale, de nombreux appels ont été reçus, venant de familles et de personnes de plus de 60 ans très intéressées.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Mettre en lien des familles, dont les enfants ne sont pas en contact avec les grands-parents, avec des grands-parents de cœur. Cette action a été lancée depuis 2013 dans le département de la Loire-Atlantique et s'est développée au niveau national.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Manou Partages",
+  "date": [
+    "2013",
+    "2020"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mettre_en_lien_des_parents_enfants_et_grands-parents_de_cur_construire_des_familles_de_cur.txt",
+  "nom_fichier": "Mettre_en_lien_des_parents_enfants_et_grands-parents_de_cur_construire_des_familles_de_cur.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/827-concours-2022-56-mettre-en-lien-des-parents-enfants-et-grands-parents-de-coeur-construire-des-familles-de-coeur.pdf",
+  "original_title": "Mettre en lien des parents, enfants et grands-parents de cœur : construire des familles de cœur",
+  "collection_date": ""
 }

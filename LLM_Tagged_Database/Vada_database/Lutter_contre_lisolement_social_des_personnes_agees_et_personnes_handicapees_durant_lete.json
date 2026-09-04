@@ -1,33 +1,45 @@
 {
-    "titre": "Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été",
-    "territoire": "Commune de Caluire et Cuire, 69",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Action menée par la ville de Caluire et Cuire pour lutter contre l'isolement social des personnes âgées et handicapées durant l'été.",
-        "contexte": "Suite à une canicule en 2003, la ville a décidé d'introduire un dispositif de prévention dès l'été 2004. Le CCAS a été désigné pour mettre en place des actions visant à renforcer le réseau de bénévoles et à accompagner les personnes isolées durant l'été.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des visites de courtoisie, des accompagnements et des animations par des agents sociaux (étudiants) durant la période estivale.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD",
-            "Bénéficier des personnes âgées isolées d'activités et de sorties durant l'été",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS (Comité Communautaire d’Action Sociale)",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.txt",
-    "nom_fichier": "Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été",
+  "territoire": [
+    "caluire et cuire, 69"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Action menée par la ville de Caluire et Cuire pour lutter contre l'isolement social des personnes âgées et handicapées durant l'été.",
+    "contexte": "Suite à une canicule en 2003, la ville a décidé d'introduire un dispositif de prévention dès l'été 2004. Le CCAS a été désigné pour mettre en place des actions visant à renforcer le réseau de bénévoles et à accompagner les personnes isolées durant l'été.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des visites de courtoisie, des accompagnements et des animations par des agents sociaux (étudiants) durant la période estivale.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD",
+      "Bénéficier des personnes âgées isolées d'activités et de sorties durant l'été",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS (Comité Communautaire d’Action Sociale)",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.txt",
+  "nom_fichier": "Lutter_contre_lisolement_social_des_personnes_agees_et_personnes_handicapees_durant_lete.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/292-pe-lutter-contre-l-isolement.pdf",
+  "original_title": "Lutter contre l’isolement social des personnes âgées et personnes handicapées durant l’été",
+  "collection_date": ""
 }

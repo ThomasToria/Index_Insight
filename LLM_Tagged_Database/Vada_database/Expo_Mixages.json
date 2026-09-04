@@ -1,33 +1,43 @@
 {
-    "titre": "Expo Mix'âges",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Une exposition de liens intergénérationnels.",
-        "contexte": "Contexte de confinement, rupture de lien social, sentiment d'exclusion, stigmatisation des seniors.",
-        "problematique": "Renforcer les liens entre seniors et jeunes pour briser préjugés sur l'âge et favoriser la coopération.",
-        "solution_envisagee": "Organisation d'événements artistiques de communication autour du projet pédagogique initial, permettant des rencontres intergénérationnelles.",
-        "objectifs": [
-            "Renforcer les liens entre seniors et jeunes",
-            "Briser les préjugés sur l'âge",
-            "Favoriser la coopération et le vivre ensemble"
-        ]
-    },
-    "porteur_initiative": "Institut de Formation Sociale des Yvelines du Conseil départemental (IFSY) en partenariat avec la Maison Départementale de l’Autonomie des Yvelines",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Expo_Mixages.txt",
-    "nom_fichier": "Expo_Mixages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Expo Mix'âges",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Une exposition de liens intergénérationnels.",
+    "contexte": "Contexte de confinement, rupture de lien social, sentiment d'exclusion, stigmatisation des seniors.",
+    "problematique": "Renforcer les liens entre seniors et jeunes pour briser préjugés sur l'âge et favoriser la coopération.",
+    "solution_envisagee": "Organisation d'événements artistiques de communication autour du projet pédagogique initial, permettant des rencontres intergénérationnelles.",
+    "objectifs": [
+      "Renforcer les liens entre seniors et jeunes",
+      "Briser les préjugés sur l'âge",
+      "Favoriser la coopération et le vivre ensemble"
+    ]
+  },
+  "porteur_initiative": "Institut de Formation Sociale des Yvelines du Conseil départemental (IFSY) en partenariat avec la Maison Départementale de l’Autonomie des Yvelines",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Expo_Mixages.txt",
+  "nom_fichier": "Expo_Mixages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/834-concours-2022-63-expo-mix-ages.pdf",
+  "original_title": "Expo Mix'âges",
+  "collection_date": ""
 }

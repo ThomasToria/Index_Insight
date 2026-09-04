@@ -1,38 +1,47 @@
 {
-    "titre": "Lutter contre l'isolement et la malnutrition à travers une restauration intergénérationnelle",
-    "territoire": [
-        "communale",
-        "intercommunale"
-    ],
-    "echelle": [
-        "quartier",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer le lien social, lutter contre l'isolement et la malnutrition en permettant aux personnes âgées de se restaurer dans des écoles avec les élèves.",
-        "contexte": "Les personnes âgées sont confrontées à divers problèmes tels que la précarité, la malnutrition et le manque de liens sociaux. Ces défis nécessitent une approche intergénérationnelle pour trouver des solutions efficaces.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La restauration intergénérationnelle permettra de créer des liens sociaux, d’améliorer le lien social et de lutter contre la malnutrition. Les repas seront équilibrés et accessibles aux personnes à bas revenus.",
-        "objectifs": [
-            "Favoriser le lien social",
-            "Lutter contre l'isolement",
-            "Produire des activités encourageant le lien et les solidarités intergénérationnelles",
-            "Lutter contre la précarité et la malnutrition en rendant accessible des repas équilibrés à faible coût"
-        ]
-    },
-    "porteur_initiative": "Les associations locales",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_6_-_Alimentation.txt",
-    "nom_fichier": "Fiche-action_6_-_Alimentation.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Lutter contre l'isolement et la malnutrition à travers une restauration intergénérationnelle",
+  "territoire": [
+    "intercommunale"
+  ],
+  "echelle": [
+    "quartier",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "offre de service",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer le lien social, lutter contre l'isolement et la malnutrition en permettant aux personnes âgées de se restaurer dans des écoles avec les élèves.",
+    "contexte": "Les personnes âgées sont confrontées à divers problèmes tels que la précarité, la malnutrition et le manque de liens sociaux. Ces défis nécessitent une approche intergénérationnelle pour trouver des solutions efficaces.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La restauration intergénérationnelle permettra de créer des liens sociaux, d’améliorer le lien social et de lutter contre la malnutrition. Les repas seront équilibrés et accessibles aux personnes à bas revenus.",
+    "objectifs": [
+      "Favoriser le lien social",
+      "Lutter contre l'isolement",
+      "Produire des activités encourageant le lien et les solidarités intergénérationnelles",
+      "Lutter contre la précarité et la malnutrition en rendant accessible des repas équilibrés à faible coût"
+    ]
+  },
+  "porteur_initiative": "Les associations locales",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_6_-_Alimentation.txt",
+  "nom_fichier": "Fiche-action_6_-_Alimentation.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "offre de service",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 6 - Alimentation.pdf",
+  "collection_date": ""
 }

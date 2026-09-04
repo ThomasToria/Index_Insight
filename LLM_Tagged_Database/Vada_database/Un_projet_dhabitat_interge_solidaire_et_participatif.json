@@ -1,33 +1,45 @@
 {
-    "titre": "Un projet d'habitat intergé, solidaire et participatif",
-    "territoire": "Saint-Germain au Mont d’Or (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "L'association Chers Voisins Les Platanes est née en 2014 et constitue le premier projet issu du partenariat entre le bureau d’ingénierie sociale Récipro-Cité et le Groupe Logement Français. Son objectif est de mettre en place des actions concrètes permettant de développer le lien social, l'entraide et la solidarité entre voisins de résidence ou d’un quartier.",
-        "contexte": "Le projet de l’association Chers Voisins met en œuvre plusieurs catégories d’actions qui ont vocation à apporter des réponses concrètes aux besoins des habitants. Parmi ceux-ci, la Conciergerie Participative a pour vocation de mettre à disposition de tous les adhérents un environnement de services répondant aux trois enjeux sociétaux identifiés par Chers Voisins: préserver le pouvoir d’achat, encourager la convivialité et le lien social intergénérationnel, faciliter le maintien à domicile et le bien vivre chez soi pour tous, donner aux personnes âgées de bonnes conditions de vie à domicile.",
-        "problematique": "Lutter contre le délitement du lien social par la convivialité intergénérationnelle de voisinage. Permettre aux aînés de vieillir sereinement dans leur domicile en restant entourés, et faciliter leur accès aux services de la vie quotidienne.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Promouvoir le lien social entre les habitants",
-            "Faciliter l'accès aux services de la vie quotidienne pour les aînés",
-            "Permettre à l'association Chers Voisins Les Platanes de se développer et de maintenir son activité"
-        ]
-    },
-    "porteur_initiative": "Association Chers Voisins Les Platanes",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_dhabitat_interge_solidaire_et_participatif.txt",
-    "nom_fichier": "Un_projet_dhabitat_interge_solidaire_et_participatif.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un projet d'habitat intergé, solidaire et participatif",
+  "territoire": [
+    "saint-germain au mont d'or (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "L'association Chers Voisins Les Platanes est née en 2014 et constitue le premier projet issu du partenariat entre le bureau d’ingénierie sociale Récipro-Cité et le Groupe Logement Français. Son objectif est de mettre en place des actions concrètes permettant de développer le lien social, l'entraide et la solidarité entre voisins de résidence ou d’un quartier.",
+    "contexte": "Le projet de l’association Chers Voisins met en œuvre plusieurs catégories d’actions qui ont vocation à apporter des réponses concrètes aux besoins des habitants. Parmi ceux-ci, la Conciergerie Participative a pour vocation de mettre à disposition de tous les adhérents un environnement de services répondant aux trois enjeux sociétaux identifiés par Chers Voisins: préserver le pouvoir d’achat, encourager la convivialité et le lien social intergénérationnel, faciliter le maintien à domicile et le bien vivre chez soi pour tous, donner aux personnes âgées de bonnes conditions de vie à domicile.",
+    "problematique": "Lutter contre le délitement du lien social par la convivialité intergénérationnelle de voisinage. Permettre aux aînés de vieillir sereinement dans leur domicile en restant entourés, et faciliter leur accès aux services de la vie quotidienne.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Promouvoir le lien social entre les habitants",
+      "Faciliter l'accès aux services de la vie quotidienne pour les aînés",
+      "Permettre à l'association Chers Voisins Les Platanes de se développer et de maintenir son activité"
+    ]
+  },
+  "porteur_initiative": "Association Chers Voisins Les Platanes",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_dhabitat_interge_solidaire_et_participatif.txt",
+  "nom_fichier": "Un_projet_dhabitat_interge_solidaire_et_participatif.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/437-pe-projet-d-habitat-interge-solidaire.pdf",
+  "original_title": "Un projet d’habitat intergé, solidaire et participatif",
+  "collection_date": ""
 }

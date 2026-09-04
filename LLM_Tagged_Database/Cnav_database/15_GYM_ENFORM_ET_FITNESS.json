@@ -1,29 +1,39 @@
 {
-    "titre": "GYM ENFORM' ET FITNESS",
-    "territoire": "La Guadeloupe et ses dépendances",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Prévention senior: atelier de 1h30 par séance, composé d'exercices et parcours ludiques avec conseils personnalisés dans une ambiance conviviale. Test initial et final pour évaluer les améliorations.",
-        "contexte": "Association Gym Enform' et Fitness anime des ateliers de gymnastique mémoire visant à maintenir la forme tout en stimulant le cerveau.",
-        "problematique": "Le besoin d'améliorer les processus de mémorisation chez les retraités, notamment pour prévenir l'isolement et réduire les comportements sédentaires.",
-        "solution_envisagee": "Atelier de gymnastique mémoire avec exercices ludiques et conseils personnalisés.",
-        "objectifs": "Amélioration des processus de mémorisation, augmentation de l'estime de soi, renforcement des liens sociaux, réduction de l'isolement et des comportements sédentaires."
-    },
-    "porteur_initiative": "CGSS Guadeloupe",
-    "date": [
-        "enquête lancée fin janvier"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\15_GYM_ENFORM_ET_FITNESS.txt",
-    "nom_fichier": "15_GYM_ENFORM_ET_FITNESS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "GYM ENFORM' ET FITNESS",
+  "territoire": [
+    "la guadeloupe et ses dépendances"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Prévention senior: atelier de 1h30 par séance, composé d'exercices et parcours ludiques avec conseils personnalisés dans une ambiance conviviale. Test initial et final pour évaluer les améliorations.",
+    "contexte": "Association Gym Enform' et Fitness anime des ateliers de gymnastique mémoire visant à maintenir la forme tout en stimulant le cerveau.",
+    "problematique": "Le besoin d'améliorer les processus de mémorisation chez les retraités, notamment pour prévenir l'isolement et réduire les comportements sédentaires.",
+    "solution_envisagee": "Atelier de gymnastique mémoire avec exercices ludiques et conseils personnalisés.",
+    "objectifs": "Amélioration des processus de mémorisation, augmentation de l'estime de soi, renforcement des liens sociaux, réduction de l'isolement et des comportements sédentaires."
+  },
+  "porteur_initiative": "CGSS Guadeloupe",
+  "date": [],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\15_GYM_ENFORM_ET_FITNESS.txt",
+  "nom_fichier": "15_GYM_ENFORM_ET_FITNESS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "GYM ENFORM' ET FITNESS",
+  "collection_date": ""
 }

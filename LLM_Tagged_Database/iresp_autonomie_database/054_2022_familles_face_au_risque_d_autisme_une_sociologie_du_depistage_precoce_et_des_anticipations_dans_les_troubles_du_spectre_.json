@@ -1,33 +1,43 @@
 {
-    "titre": "Familles face au risque d'autisme. Une sociologie du dépistage précoce et des anticipations dans les troubles du spectre autistique",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à explorer le contexte sociologique des troubles du spectre autistique (TSA) dans les familles, en particulier celles qui ont un membre atteint de TSA. Elle s'inscrit dans la recherche sur l'éducation et la prise en charge des enfants autistes.",
-        "contexte": "",
-        "problematique": "Le contexte sociologique des troubles du spectre autistique (TSA) est complexe, avec une diversité d’expériences familiales. Les familles de personnes atteintes de TSA peuvent être confrontées à un éventail de problèmes liés à l'autisme, y compris la discrimination, les difficultés de communication et le manque de compréhension.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les caractéristiques sociologiques des familles touchées par TSA",
-            "Évaluer les impacts sociaux et familiaux des troubles du spectre autistique sur la famille",
-            "Analyser les stratégies de prévention et d'anticipation adoptées par les familles face aux risques liés à l'autisme"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\054_2022_familles_face_au_risque_d_autisme_une_sociologie_du_depistage_precoce_et_des_anticipations_dans_les_troubles_du_spectre_.txt",
-    "nom_fichier": "054_2022_familles_face_au_risque_d_autisme_une_sociologie_du_depistage_precoce_et_des_anticipations_dans_les_troubles_du_spectre_.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Familles face au risque d'autisme. Une sociologie du dépistage précoce et des anticipations dans les troubles du spectre autistique",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à explorer le contexte sociologique des troubles du spectre autistique (TSA) dans les familles, en particulier celles qui ont un membre atteint de TSA. Elle s'inscrit dans la recherche sur l'éducation et la prise en charge des enfants autistes.",
+    "contexte": "",
+    "problematique": "Le contexte sociologique des troubles du spectre autistique (TSA) est complexe, avec une diversité d’expériences familiales. Les familles de personnes atteintes de TSA peuvent être confrontées à un éventail de problèmes liés à l'autisme, y compris la discrimination, les difficultés de communication et le manque de compréhension.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les caractéristiques sociologiques des familles touchées par TSA",
+      "Évaluer les impacts sociaux et familiaux des troubles du spectre autistique sur la famille",
+      "Analyser les stratégies de prévention et d'anticipation adoptées par les familles face aux risques liés à l'autisme"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\054_2022_familles_face_au_risque_d_autisme_une_sociologie_du_depistage_precoce_et_des_anticipations_dans_les_troubles_du_spectre_.txt",
+  "nom_fichier": "054_2022_familles_face_au_risque_d_autisme_une_sociologie_du_depistage_precoce_et_des_anticipations_dans_les_troubles_du_spectre_.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/familles-face-au-risque-dautisme-une-sociologie-du-depistage-precoce-et-des-anticipations-dans-les-troubles-du-spectre-autistique/",
+  "original_title": "Familles face au risque d’autisme. Une sociologie du dépistage précoce et des anticipations dans les troubles du spectre autistique",
+  "collection_date": ""
 }

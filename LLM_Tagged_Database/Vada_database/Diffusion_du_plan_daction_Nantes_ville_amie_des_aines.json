@@ -1,36 +1,46 @@
 {
-    "titre": "Diffusion du plan d'action Nantes ville amie des ainés",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La Ville de Nantes a lancé un plan d'action visant à améliorer la qualité de vie des seniors, en particulier dans les quartiers communaux.",
-        "contexte": "Les seniors sont souvent isolés et ont besoin d'une attention particulière pour maintenir leur autonomie et participer activement à la société. Le projet vise à créer un environnement plus accueillant pour eux.",
-        "problematique": "Le besoin de mobiliser les seniors, leurs proches et les acteurs locaux pour améliorer l'atmosphère des quartiers communaux et favoriser le maintien de la qualité de vie des habitants.",
-        "solution_envisagee": "La diffusion du plan d'action Nantes Ville Amie des Ainés visant à mobiliser les seniors, leurs proches et les acteurs locaux pour améliorer l'atmosphère des quartiers communaux et favoriser le maintien de la qualité de vie des habitants.",
-        "objectifs": [
-            "Mobiliser les seniors",
-            "Favoriser la participation des seniors à la société civile",
-            "Améliorer l'atmosphère des quartiers communaux",
-            "Promouvoir la mobilité pour maintenir l'autonomie des seniors"
-        ]
-    },
-    "porteur_initiative": "Ville de Nantes et Nantes Métropole",
-    "date": [
-        "2017",
-        "2020"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.txt",
-    "nom_fichier": "Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Diffusion du plan d'action Nantes ville amie des ainés",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La Ville de Nantes a lancé un plan d'action visant à améliorer la qualité de vie des seniors, en particulier dans les quartiers communaux.",
+    "contexte": "Les seniors sont souvent isolés et ont besoin d'une attention particulière pour maintenir leur autonomie et participer activement à la société. Le projet vise à créer un environnement plus accueillant pour eux.",
+    "problematique": "Le besoin de mobiliser les seniors, leurs proches et les acteurs locaux pour améliorer l'atmosphère des quartiers communaux et favoriser le maintien de la qualité de vie des habitants.",
+    "solution_envisagee": "La diffusion du plan d'action Nantes Ville Amie des Ainés visant à mobiliser les seniors, leurs proches et les acteurs locaux pour améliorer l'atmosphère des quartiers communaux et favoriser le maintien de la qualité de vie des habitants.",
+    "objectifs": [
+      "Mobiliser les seniors",
+      "Favoriser la participation des seniors à la société civile",
+      "Améliorer l'atmosphère des quartiers communaux",
+      "Promouvoir la mobilité pour maintenir l'autonomie des seniors"
+    ]
+  },
+  "porteur_initiative": "Ville de Nantes et Nantes Métropole",
+  "date": [
+    "2017",
+    "2020"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.txt",
+  "nom_fichier": "Diffusion_du_plan_daction_Nantes_ville_amie_des_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/862-pe-diffusion-du-plan-d-actions-nantes-1.pdf",
+  "original_title": "Diffusion du plan d'action Nantes ville amie des ainés",
+  "collection_date": ""
 }

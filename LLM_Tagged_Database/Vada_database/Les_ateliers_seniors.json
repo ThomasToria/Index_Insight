@@ -1,36 +1,43 @@
 {
-    "titre": "Les ateliers seniors",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "départementale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Ce projet a pour objectif de permettre, à travers une offre de service diversifiée de plusieurs ateliers, de lutter contre l’isolement et prévenir la dépendance.",
-        "contexte": "La Ville de Valenciennes a mis en place un Conseil des Seniors dès sa création en 2009. Ce conseil souhaite développer des actions visibles et concrètes, notamment autour d'activités physiques, culturelles et ludiques.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Les ateliers seniors visent à développer des interactions intergénérationnelles et à valoriser les compétences de l’âge.",
-        "objectifs": [
-            "Lutter contre l'isolement et développer le lien social",
-            "Prévenir la dépendance"
-        ]
-    },
-    "porteur_initiative": "La Ville de Valenciennes",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_ateliers_seniors.txt",
-    "nom_fichier": "Les_ateliers_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les ateliers seniors",
+  "territoire": [],
+  "echelle": [
+    "départementale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Ce projet a pour objectif de permettre, à travers une offre de service diversifiée de plusieurs ateliers, de lutter contre l’isolement et prévenir la dépendance.",
+    "contexte": "La Ville de Valenciennes a mis en place un Conseil des Seniors dès sa création en 2009. Ce conseil souhaite développer des actions visibles et concrètes, notamment autour d'activités physiques, culturelles et ludiques.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Les ateliers seniors visent à développer des interactions intergénérationnelles et à valoriser les compétences de l’âge.",
+    "objectifs": [
+      "Lutter contre l'isolement et développer le lien social",
+      "Prévenir la dépendance"
+    ]
+  },
+  "porteur_initiative": "La Ville de Valenciennes",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_ateliers_seniors.txt",
+  "nom_fichier": "Les_ateliers_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Les-ateliers-seniors.pdf",
+  "original_title": "Les ateliers seniors",
+  "collection_date": ""
 }

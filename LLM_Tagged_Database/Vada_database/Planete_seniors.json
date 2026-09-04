@@ -1,32 +1,44 @@
 {
-    "titre": "Planète seniors",
-    "territoire": "Commune: Vaulx-en-Velin",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le Planétarium est un service de la direction des affaires culturelles de la ville de Vaulx-en-Velin. Le but est d'offrir aux seniors une occasion pour apprendre les connaissances actuelles dans les domaines des sciences de l’Univers, comme l’astronomie et astrophysique.",
-        "contexte": "La problématique est liée à la nécessité de sensibiliser les seniors sur ces questions et d'offrir une occasion pour qu'ils participent activement à leur apprentissage. Les actions proposées visent à créer un lien social fort au sein du groupe, mais aussi intergénérationnel.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Cette action est née d'une concertation avec les professionnels du service des retraités de la ville. Elle vise à proposer une rencontre mensuelle autour d’une visite des expositions, la projection de séances d’astronomie, et des ateliers participatifs.",
-        "objectifs": [
-            "créer un lien social fort au sein du groupe",
-            "créer un lien intergénérationnel"
-        ]
-    },
-    "porteur_initiative": "Service des affaires culturelles de la ville de Vaulx-en-Velin",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Planete_seniors.txt",
-    "nom_fichier": "Planete_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Planète seniors",
+  "territoire": [
+    "vaulx-en-velin"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le Planétarium est un service de la direction des affaires culturelles de la ville de Vaulx-en-Velin. Le but est d'offrir aux seniors une occasion pour apprendre les connaissances actuelles dans les domaines des sciences de l’Univers, comme l’astronomie et astrophysique.",
+    "contexte": "La problématique est liée à la nécessité de sensibiliser les seniors sur ces questions et d'offrir une occasion pour qu'ils participent activement à leur apprentissage. Les actions proposées visent à créer un lien social fort au sein du groupe, mais aussi intergénérationnel.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Cette action est née d'une concertation avec les professionnels du service des retraités de la ville. Elle vise à proposer une rencontre mensuelle autour d’une visite des expositions, la projection de séances d’astronomie, et des ateliers participatifs.",
+    "objectifs": [
+      "créer un lien social fort au sein du groupe",
+      "créer un lien intergénérationnel"
+    ]
+  },
+  "porteur_initiative": "Service des affaires culturelles de la ville de Vaulx-en-Velin",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Planete_seniors.txt",
+  "nom_fichier": "Planete_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/353-353-pe-planete-seniors.pdf",
+  "original_title": "Planète seniors",
+  "collection_date": ""
 }

@@ -1,29 +1,39 @@
 {
-    "titre": "Prev’seniors: les ateliers prévention et rencontre destinés aux seniors",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La SA des Chalets développe depuis plusieurs années une solution Habitat, «Chalets Seniors», pour les personnes retraitées autonomes souhaitant être accompagnées dans leur vieillissement. Actuellement, cinq résidences «Chalets Seniors» comptabilisent environ 130 logements dédiés aux seniors et présentent chacune une salle commune.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Les ateliers de prévention sur les cinq résidences intergénérationnelles «Chalets Seniors» du Groupe des Chalets permettent de travailler autant sur la prévention que sur le lien social entre les personnes.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Solidarité familiale et Association d’aide à la personne",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prevseniors_les_ateliers_prevention_et_rencontre_destines_aux_seniors.txt",
-    "nom_fichier": "Prevseniors_les_ateliers_prevention_et_rencontre_destines_aux_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Prev’seniors: les ateliers prévention et rencontre destinés aux seniors",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La SA des Chalets développe depuis plusieurs années une solution Habitat, «Chalets Seniors», pour les personnes retraitées autonomes souhaitant être accompagnées dans leur vieillissement. Actuellement, cinq résidences «Chalets Seniors» comptabilisent environ 130 logements dédiés aux seniors et présentent chacune une salle commune.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Les ateliers de prévention sur les cinq résidences intergénérationnelles «Chalets Seniors» du Groupe des Chalets permettent de travailler autant sur la prévention que sur le lien social entre les personnes.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Solidarité familiale et Association d’aide à la personne",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prevseniors_les_ateliers_prevention_et_rencontre_destines_aux_seniors.txt",
+  "nom_fichier": "Prevseniors_les_ateliers_prevention_et_rencontre_destines_aux_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/402-402-pe-toulouse-chalets.pdf",
+  "original_title": "Prev’seniors : les ateliers prévention et rencontre destinés aux seniors",
+  "collection_date": ""
 }

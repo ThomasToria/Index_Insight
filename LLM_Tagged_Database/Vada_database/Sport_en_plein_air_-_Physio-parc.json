@@ -1,32 +1,44 @@
 {
-    "titre": "Sport en plein air - Physio-parc",
-    "territoire": "Commune: Chamalières (63)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un physio-parc installé dans un parc public de la ville de Chamalières a été mis en place pour permettre le maintien d'une activité physique adaptée aux seniors, inciter les seniors à sortir de chez eux et rompre l'isolement.",
-        "contexte": "Le physio-parc est facilement accessible étant donné qu'il est installé dans le parc municipal, au pied de la Mairie, en cœur de ville et en proximité immédiate des jeux pour enfants. Il s'intègre parfaitement dans un lieu de vie très fréquenté par les Chamaliérois.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un physio-parc installé dans un parc public permet de recréer du lien social, améliorer le bien-être physique, psychique et social des seniors, et identifier le physio-parc comme point de départ pour différentes activités physiques ou autres proposées aux seniors.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Euroludique, Conférence des financeurs du Puy-de-Dôme, Précocia (mutuelle), Aura (centre de dialyse) et service communication de la ville",
-    "date": [
-        "depuis 2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_en_plein_air_-_Physio-parc.txt",
-    "nom_fichier": "Sport_en_plein_air_-_Physio-parc.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Sport en plein air - Physio-parc",
+  "territoire": [
+    "chamalières (63)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un physio-parc installé dans un parc public de la ville de Chamalières a été mis en place pour permettre le maintien d'une activité physique adaptée aux seniors, inciter les seniors à sortir de chez eux et rompre l'isolement.",
+    "contexte": "Le physio-parc est facilement accessible étant donné qu'il est installé dans le parc municipal, au pied de la Mairie, en cœur de ville et en proximité immédiate des jeux pour enfants. Il s'intègre parfaitement dans un lieu de vie très fréquenté par les Chamaliérois.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un physio-parc installé dans un parc public permet de recréer du lien social, améliorer le bien-être physique, psychique et social des seniors, et identifier le physio-parc comme point de départ pour différentes activités physiques ou autres proposées aux seniors.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Euroludique, Conférence des financeurs du Puy-de-Dôme, Précocia (mutuelle), Aura (centre de dialyse) et service communication de la ville",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sport_en_plein_air_-_Physio-parc.txt",
+  "nom_fichier": "Sport_en_plein_air_-_Physio-parc.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1125-pe-sport-en-plein-air-physio-parc-1-2.pdf",
+  "original_title": "Sport en plein air - Physio-parc",
+  "collection_date": ""
 }

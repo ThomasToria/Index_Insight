@@ -1,0 +1,12 @@
+file,field,previous_value,replacement_value,applied
+LLM_Tagged_Database\FdF_database\Personnes âgées_1.json,titre,"""""","""Personnes âgées""",true
+LLM_Tagged_Database\Fiches_actions_database\Fiche-action_11_-_Implication.json,titre,"""""","""Fiche-action 11 - Implication""",true
+LLM_Tagged_Database\Fiches_actions_database\Fiche-action_15_-_ecrivains_numeriques.json,titre,"""""","""Fiche-action 15 - écrivains numériques""",true
+LLM_Tagged_Database\Fiches_actions_database\Fiche-action_8_-_Mediateurs_en_etablissement.json,titre,"""""","""Fiche-action 8 - Médiateurs en établissement""",true
+LLM_Tagged_Database\Fiches_actions_database\FICHE_ACTION_soutien_des_proches_aidants.json,titre,"""""","""FICHE ACTION_soutien des proches aidants""",true
+LLM_Tagged_Database\Fiches_actions_database\FICHE_Arlon_1.json,titre,"""""","""FICHE Arlon 1""",true
+LLM_Tagged_Database\Fiches_actions_database\FICHE_Arlon_3.json,titre,"""""","""FICHE Arlon 3""",true
+LLM_Tagged_Database\Fiches_actions_database\FICHE_Arlon_4.json,titre,"""""","""FICHE Arlon 4""",true
+LLM_Tagged_Database\Fiches_actions_database\FICHE_Arlon_5.json,titre,"""""","""FICHE Arlon 5""",true
+LLM_Tagged_Database\Hcfea_database\Le rôle de la technologie dans le soutien à lauton.json,public_vise,"""""","""public non connu""",true
+LLM_Tagged_Database\Vada_database\Saint-Nazaire_auto_solidaire.json,porteur_initiative,"[{""nom"": ""Conseil des aîné.es de Saint-Nazaire"", ""description"": ""Missionné par la ville pour accompagner le déploiement de la démarche Ville Amie des Aînés.""}, {""nom"": ""Commission seniors de la maison de quartier Immaculée"", ""description"": ""Porteur du projet Saint-Nazaire Auto Solidaire""}]","""Conseil des aîné.es de Saint-Nazaire ; Commission seniors de la maison de quartier Immaculée""",true

@@ -1,33 +1,45 @@
 {
-    "titre": "Création d'un tiers-lieu: « l’ostalet »",
-    "territoire": "Commune : Périgueux, Ville Amie des Aînés depuis 2021",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce projet résulte d'un besoin de la population senior de bénéficier d'un lieu unique pour s'informer mais également de créer et maintenir le lien social à travers des rencontres ou des activités.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Le besoin de créer un lieu unique pour s'informer mais également de maintenir le lien social à travers des rencontres ou des activités.",
-        "solution_envisagee": "Un espace d'accueil, un espace de convivialité avec une cuisine aménagée, un espace de détente et de lecture, un espace informatique et un espace pour la pratique d’activités physiques et sportives.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD",
-            "Créer des occasions de rencontres et d'échanges intergénérationnels",
-            "Valoriser la mémoire et la place des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Périgueux, Ville Amie des Aînés depuis 2021",
-    "date": [
-        "depuis 2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_tiers-lieu_lostalet.txt",
-    "nom_fichier": "Creation_dun_tiers-lieu_lostalet.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Création d'un tiers-lieu: « l’ostalet »",
+  "territoire": [
+    "périgueux, ville amie des aînés depuis 2021"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce projet résulte d'un besoin de la population senior de bénéficier d'un lieu unique pour s'informer mais également de créer et maintenir le lien social à travers des rencontres ou des activités.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Le besoin de créer un lieu unique pour s'informer mais également de maintenir le lien social à travers des rencontres ou des activités.",
+    "solution_envisagee": "Un espace d'accueil, un espace de convivialité avec une cuisine aménagée, un espace de détente et de lecture, un espace informatique et un espace pour la pratique d’activités physiques et sportives.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD",
+      "Créer des occasions de rencontres et d'échanges intergénérationnels",
+      "Valoriser la mémoire et la place des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Périgueux, Ville Amie des Aînés depuis 2021",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_tiers-lieu_lostalet.txt",
+  "nom_fichier": "Creation_dun_tiers-lieu_lostalet.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/870-pe-creation-d-un-tiers-lieu.pdf",
+  "original_title": "Création d'un tiers-lieu : « l’ostalet »",
+  "collection_date": ""
 }

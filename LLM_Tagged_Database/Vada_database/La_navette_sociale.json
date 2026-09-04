@@ -1,32 +1,44 @@
 {
-    "titre": "La Navette Sociale",
-    "territoire": "Commune du Vauclin, département 972",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La commune du Vauclin a mis en place un dispositif de transport social pour faciliter les déplacements des seniors sur le territoire communal.",
-        "contexte": "L'isolement des personnes âgées est un problème majeur dans la commune, notamment avec l'avancée en âge et la perte de ressources. Les élus municipaux souhaitent renforcer l'autonomie des seniors et préserver leur qualité de vie.",
-        "problematique": "Le risque d'isolement des personnes âgées est aggravé par le veuvage, l'éloignement géographique, et la perte de proches. La navette sociale facilite les déplacements pour les seniors prioritaires, permettant ainsi une meilleure accessibilité aux services et à la vie sociale.",
-        "solution_envisagee": "Faciliter les déplacements des administrés en perte d'autonomie via un dispositif de transport social nommé « navette sociale » qui permet de se déplacer facilement pour faire des courses, des démarches administratives ou rendre visite à un proche.",
-        "objectifs": [
-            "Faciliter les déplacements des seniors prioritaires",
-            "Améliorer l'accès aux services et à la vie sociale"
-        ]
-    },
-    "porteur_initiative": "CCAS du Vauclin",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_sociale.txt",
-    "nom_fichier": "La_navette_sociale.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Navette Sociale",
+  "territoire": [
+    "commune du vauclin, département 972"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La commune du Vauclin a mis en place un dispositif de transport social pour faciliter les déplacements des seniors sur le territoire communal.",
+    "contexte": "L'isolement des personnes âgées est un problème majeur dans la commune, notamment avec l'avancée en âge et la perte de ressources. Les élus municipaux souhaitent renforcer l'autonomie des seniors et préserver leur qualité de vie.",
+    "problematique": "Le risque d'isolement des personnes âgées est aggravé par le veuvage, l'éloignement géographique, et la perte de proches. La navette sociale facilite les déplacements pour les seniors prioritaires, permettant ainsi une meilleure accessibilité aux services et à la vie sociale.",
+    "solution_envisagee": "Faciliter les déplacements des administrés en perte d'autonomie via un dispositif de transport social nommé « navette sociale » qui permet de se déplacer facilement pour faire des courses, des démarches administratives ou rendre visite à un proche.",
+    "objectifs": [
+      "Faciliter les déplacements des seniors prioritaires",
+      "Améliorer l'accès aux services et à la vie sociale"
+    ]
+  },
+  "porteur_initiative": "CCAS du Vauclin",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_sociale.txt",
+  "nom_fichier": "La_navette_sociale.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-La-navette-sociale-1.pdf",
+  "original_title": "La navette sociale",
+  "collection_date": ""
 }

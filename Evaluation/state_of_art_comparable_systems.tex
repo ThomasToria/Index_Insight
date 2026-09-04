@@ -1,0 +1,112 @@
+% Replace the sections ``Comparable systems'' and ``Synthesis of the state of
+% the art'' in the State of the Art chapter with the following blocks.
+
+\section{Comparable systems}
+
+Several families of systems address parts of the problem considered in this
+thesis, although few combine all of its requirements: heterogeneous French
+source material, traceable collection, controlled metadata, and exploratory
+analysis of territorial initiatives.
+
+A first family consists of documentary catalogues and digital-library systems.
+They organise resources through bibliographic or descriptive metadata and
+provide faceted browsing by author, date, subject, institution, or place. Their
+main strength is the use of stable metadata schemas and controlled vocabularies,
+which improve consistency and make filtering possible. As noted in work on
+taxonomies and controlled vocabularies, this standardisation reduces ambiguity
+and supports reliable indexing \citep{hedden2016taxonomy}. However, catalogue
+systems usually assume that metadata are supplied by publishers or cataloguers.
+They do not by themselves solve the extraction of structured information from
+long, heterogeneous web pages, reports, and action sheets.
+
+A second family consists of search and information-retrieval systems. Lexical
+engines based on inverted indexes, TF--IDF, or BM25 can efficiently retrieve
+documents that contain query terms \citep{salton1988term,robertson2009probabilistic}.
+They are well suited to transparent keyword search and can be combined with
+facets based on manually supplied metadata. Dense retrieval extends this
+approach by representing queries and documents in a shared semantic vector
+space \citep{karpukhin2020dense}. Such systems are useful when users express a
+need with words that differ from those used in the source documents. Their
+limitation for the present project is that retrieval alone does not create the
+territorial, organisational, temporal, and thematic metadata required for
+comparative analysis.
+
+A third family is constituted by rule-based information-extraction pipelines.
+These pipelines use document templates, headings, regular expressions,
+lexicons, and pattern-matching rules to identify candidate values. They are
+particularly appropriate when source structures are stable because their
+decisions can be inspected and corrected. Their limitations have been widely
+documented: rules require substantial maintenance and generalise poorly when
+documents come from sources with different editorial structures
+\citep{sarawagi2008information,grishman2019information}. This limitation is
+central in the present corpus, which contains HTML pages, PDF-derived text, and
+internally produced action sheets.
+
+More recent systems use transformer-based language models to classify,
+summarise, or extract information from text. Prompt-guided LLM extraction makes
+it possible to request a predefined JSON schema directly from a document, while
+the prompt can specify controlled values and rules for unknown information.
+This approach benefits from the contextual modelling capabilities of
+transformers \citep{vaswani2017attention,devlin2019bert} and from the flexible
+task formulation enabled by large language models \citep{brown2020language}.
+It also introduces important risks: a generated field can be fluent and
+complete while remaining unsupported by the source. Prompting strategies,
+output constraints, and explicit validation are therefore necessary
+\citep{liu2023pre}.
+
+The project is not intended to replace a mature public search platform or a
+digital library. Rather, it occupies an intermediate position between a
+collection pipeline and a future exploration system. Its immediate contribution
+is to transform dispersed documentary material into traceable JSON records that
+can subsequently support catalogue-like filtering, lexical search, descriptive
+statistics, and, in later work, semantic or hybrid retrieval.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{p{3.2cm}p{3.5cm}p{3.5cm}p{3.4cm}}
+\toprule
+Approach & Main strength & Main limitation for this corpus & Position of Index\_Insight \\
+\midrule
+Documentary catalogue & Stable metadata and faceted navigation & Assumes metadata already exist or are manually curated & Reuses the principle of controlled metadata, but automates part of their production \\
+
+Lexical or dense retrieval & Efficient retrieval and exploration of large collections & Does not itself extract reliable documentary metadata & Future use of the structured corpus; not yet a deployed search engine \\
+
+Rule-based extraction & Transparent and inspectable decisions & Fragile across heterogeneous document structures & Baseline and quality-control layer of the pipeline \\
+
+LLM-assisted extraction & Context-sensitive structuring of varied documents & Risk of unsupported inference and output inconsistency & Constrained local extraction, evaluated against human reference annotations \\
+\bottomrule
+\end{tabular}
+\caption{Positioning of Index\_Insight relative to comparable system families.}
+\label{tab:comparable-systems}
+\end{table}
+
+\section{Synthesis of the state of the art}
+
+The literature shows that no single technique is sufficient for organising a
+heterogeneous documentary corpus. Classical information retrieval provides
+efficient indexing and transparent lexical search, while dense retrieval can
+later improve access to semantically related initiatives. Controlled
+vocabularies provide the consistency required for filtering and comparison.
+Rule-based extraction remains valuable for traceability and for inspecting
+intermediate candidate values, but it becomes difficult to maintain when the
+same information is expressed through different layouts and writing styles.
+LLMs can reduce this dependence on source-specific rules by interpreting
+context, provided that their outputs are constrained and independently checked.
+
+These findings motivate the hybrid design adopted in this thesis. The pipeline
+preserves raw sources and intermediate rule-based outputs, then uses a local
+LLM to create structured records under a predefined JSON schema and controlled
+metadata values. The local deployment supports reproducibility, cost control,
+and data governance, while the retained provenance makes it possible to trace a
+metadata value back to its source document. Crucially, the system does not treat
+model output as self-validating. Completion rates measure technical coverage;
+human reference annotation is required to assess factual correctness.
+
+The contribution of \textit{Index\_Insight} is therefore not a claim that an
+LLM alone can objectively describe territorial initiatives. It is the design of
+a documented workflow that makes a dispersed corpus searchable and comparable,
+while preserving the distinction between automatically generated metadata and
+validated information. This position also defines the next stage of the
+project: after corpus structuring and factual evaluation, the records can be
+used to design a faceted, lexical, semantic, or hybrid exploration interface
+with the future users of the INSIGHT project.

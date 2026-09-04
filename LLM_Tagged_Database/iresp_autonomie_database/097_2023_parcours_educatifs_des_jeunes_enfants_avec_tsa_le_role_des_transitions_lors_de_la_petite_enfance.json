@@ -1,33 +1,43 @@
 {
-    "titre": "Parcours éducatifs des jeunes enfants avec TSA: le rôle des transitions lors de la petite enfance",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce projet doctoral se place dans la continuité des travaux sur l'inclusion des jeunes enfants autistes réalisées à l'université de Rouen Normandie depuis 2013 qui a débuté par le Grand Réseau de Recherche « Petite enfance et handicap: accueil collectif et coordination institutionnelle » (Bedoin, Guirimand et Janner-Raimondi, 2015). Cette étude a mis en lumière l'influence des types d'activités pédagogiques et des modalités de guidage des adultes sur la part",
-        "contexte": "",
-        "problematique": "La petite enfance est un moment crucial pour le développement du lien social, mais les jeunes enfants autistes rencontrent souvent des difficultés dans ce domaine. Les transitions entre différents lieux ou situations peuvent être difficiles pour eux et influencent leur intégration sociale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les types d'activités pédagogiques qui favorisent la participation des jeunes enfants autistes dans le cadre de la petite enfance",
-            "Évaluer l'influence des modalités de guidage des adultes sur la part du lien social et de l'intégration sociale des jeunes enfants autistes lors de transitions",
-            "Concevoir un dispositif pédagogique qui facilite la participation des jeunes enfants autistes dans les activités pédagogiques de la petite enfance"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2013"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\097_2023_parcours_educatifs_des_jeunes_enfants_avec_tsa_le_role_des_transitions_lors_de_la_petite_enfance.txt",
-    "nom_fichier": "097_2023_parcours_educatifs_des_jeunes_enfants_avec_tsa_le_role_des_transitions_lors_de_la_petite_enfance.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parcours éducatifs des jeunes enfants avec TSA: le rôle des transitions lors de la petite enfance",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce projet doctoral se place dans la continuité des travaux sur l'inclusion des jeunes enfants autistes réalisées à l'université de Rouen Normandie depuis 2013 qui a débuté par le Grand Réseau de Recherche « Petite enfance et handicap: accueil collectif et coordination institutionnelle » (Bedoin, Guirimand et Janner-Raimondi, 2015). Cette étude a mis en lumière l'influence des types d'activités pédagogiques et des modalités de guidage des adultes sur la part",
+    "contexte": "",
+    "problematique": "La petite enfance est un moment crucial pour le développement du lien social, mais les jeunes enfants autistes rencontrent souvent des difficultés dans ce domaine. Les transitions entre différents lieux ou situations peuvent être difficiles pour eux et influencent leur intégration sociale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les types d'activités pédagogiques qui favorisent la participation des jeunes enfants autistes dans le cadre de la petite enfance",
+      "Évaluer l'influence des modalités de guidage des adultes sur la part du lien social et de l'intégration sociale des jeunes enfants autistes lors de transitions",
+      "Concevoir un dispositif pédagogique qui facilite la participation des jeunes enfants autistes dans les activités pédagogiques de la petite enfance"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2013"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\097_2023_parcours_educatifs_des_jeunes_enfants_avec_tsa_le_role_des_transitions_lors_de_la_petite_enfance.txt",
+  "nom_fichier": "097_2023_parcours_educatifs_des_jeunes_enfants_avec_tsa_le_role_des_transitions_lors_de_la_petite_enfance.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/parcours-educatifs-des-jeunes-enfants-avec-tsa-le-role-des-transitions-lors-de-la-petite-enfance/",
+  "original_title": "Parcours éducatifs des jeunes enfants avec TSA : le rôle des transitions lors de la petite enfance",
+  "collection_date": ""
 }

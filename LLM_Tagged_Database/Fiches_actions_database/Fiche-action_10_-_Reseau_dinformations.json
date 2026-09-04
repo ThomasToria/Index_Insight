@@ -1,32 +1,44 @@
 {
-    "titre": "Création d’un réseau de transmission d’informations",
-    "territoire": "messin",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Face à la difficulté de transmettre des informations claires et harmonisées, est proposé d'encourager la création de réseaux d’acteurs locaux pouvant apporter des données et conseiller des pratiques sûres.",
-        "contexte": "La communication des informations sur les bonnes pratiques dans le domaine de la santé peut être complexe et difficile à comprendre pour les personnes non spécialisées.",
-        "problematique": "Le besoin de mobiliser des personnes de confiance autour de la communication pour limiter les périodes de confusion vis-à-vis des bonnes pratiques.",
-        "solution_envisagee": "Un réseau de personnes de confiance regroupant des acteurs pertinents et pouvant servir de relais dans le domaine de la santé, notamment pharmaciens, infirmiers scolaires, médecins généralistes, associations expertes (Croix Rouge), laboratoires, mutuelles.",
-        "objectifs": [
-            "Mobiliser des personnes de confiance autour de la communication",
-            "Limiter les périodes de confusion vis-à-vis des bonnes pratiques"
-        ]
-    },
-    "porteur_initiative": "Ensemble de la population",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_10_-_Reseau_dinformations.txt",
-    "nom_fichier": "Fiche-action_10_-_Reseau_dinformations.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Création d’un réseau de transmission d’informations",
+  "territoire": [
+    "messin"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "dispositif ou programme",
+  "description": {
+    "description_generale": "Face à la difficulté de transmettre des informations claires et harmonisées, est proposé d'encourager la création de réseaux d’acteurs locaux pouvant apporter des données et conseiller des pratiques sûres.",
+    "contexte": "La communication des informations sur les bonnes pratiques dans le domaine de la santé peut être complexe et difficile à comprendre pour les personnes non spécialisées.",
+    "problematique": "Le besoin de mobiliser des personnes de confiance autour de la communication pour limiter les périodes de confusion vis-à-vis des bonnes pratiques.",
+    "solution_envisagee": "Un réseau de personnes de confiance regroupant des acteurs pertinents et pouvant servir de relais dans le domaine de la santé, notamment pharmaciens, infirmiers scolaires, médecins généralistes, associations expertes (Croix Rouge), laboratoires, mutuelles.",
+    "objectifs": [
+      "Mobiliser des personnes de confiance autour de la communication",
+      "Limiter les périodes de confusion vis-à-vis des bonnes pratiques"
+    ]
+  },
+  "porteur_initiative": "Ensemble de la population",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_10_-_Reseau_dinformations.txt",
+  "nom_fichier": "Fiche-action_10_-_Reseau_dinformations.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 10 - Réseau d'informations.pdf",
+  "collection_date": ""
 }

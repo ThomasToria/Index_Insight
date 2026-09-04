@@ -1,34 +1,44 @@
 {
-    "titre": "Le conseil des seniors de Metz: des ambassadeurs engagés!",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "consultation citoyenne",
-    "description": {
-        "description_generale": "Cette instance est destinée à permettre aux seniors de Metz d'apporter leur compétences, leur expériences et leur disponibilité pour contribuer aux côtés de la Ville des services et des autres instances participatives à l'amélioration de la qualité de la vie et au mieux vivre ensemble dans la cité.",
-        "contexte": "La Ville de Metz a décidé de créer un Conseil des Seniors en 2012, confié au CCAS pour son bon fonctionnement et logistique. Ce Conseil est renouvelé chaque trois mois après le renouvellement du Conseil Municipal.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Favoriser l'engagement des seniors dans la vie communautaire",
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS (Comité de Coordination d'Action Sociale)",
-    "date": [
-        "2015",
-        "2020"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_conseil_des_seniors_de_Metz_des_ambassadeurs_engages.txt",
-    "nom_fichier": "Le_conseil_des_seniors_de_Metz_des_ambassadeurs_engages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le conseil des seniors de Metz: des ambassadeurs engagés!",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "consultation citoyenne",
+  "description": {
+    "description_generale": "Cette instance est destinée à permettre aux seniors de Metz d'apporter leur compétences, leur expériences et leur disponibilité pour contribuer aux côtés de la Ville des services et des autres instances participatives à l'amélioration de la qualité de la vie et au mieux vivre ensemble dans la cité.",
+    "contexte": "La Ville de Metz a décidé de créer un Conseil des Seniors en 2012, confié au CCAS pour son bon fonctionnement et logistique. Ce Conseil est renouvelé chaque trois mois après le renouvellement du Conseil Municipal.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Favoriser l'engagement des seniors dans la vie communautaire",
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS (Comité de Coordination d'Action Sociale)",
+  "date": [
+    "2015",
+    "2020"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_conseil_des_seniors_de_Metz_des_ambassadeurs_engages.txt",
+  "nom_fichier": "Le_conseil_des_seniors_de_Metz_des_ambassadeurs_engages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "consultation citoyenne",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/116-116-pe-conseil-des-seniors-metz.pdf",
+  "original_title": "Le conseil des seniors de Metz : des ambassadeurs engagés !",
+  "collection_date": ""
 }

@@ -1,34 +1,48 @@
 {
-    "titre": "Dispositif Logements Bleus",
-    "territoire": "Commune: Nantes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Le label « logement bleu » identifie les logements ayant bénéficié de travaux d'aménagement favorisant le maintien à domicile et évitant ainsi un départ prématuré en maison de retraite. Des référents au sein de la direction Personnes Âgées de la Ville ont vocation à coordonner différents services d'aide à la personne (aide à domicile, portage des repas, télé-assistance, soins infirmiers, etc.) et assurent une veille sociale.",
-        "contexte": "Le dispositif a été mis en place pour améliorer l'accessibilité et l'adaptabilité des logements aux personnes âgées, notamment celles qui ont besoin de soutien pour maintenir leur autonomie. Les travaux d'aménagement visent à faciliter la mobilité et à prévenir le déclin social.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un dispositif logements bleus a été mis en place pour améliorer l'accessibilité et l'adaptabilité des logements aux personnes âgées. Des travaux d'aménagement ont été réalisés pour faciliter la mobilité, et une veille sociale a été mise en place pour prévenir le déclin social.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Nantes Métropole Habitat",
-    "date": [
-        "2008-2013",
-        "2017",
-        "2022-2026"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_Logements_Bleus.txt",
-    "nom_fichier": "Dispositif_Logements_Bleus.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Dispositif Logements Bleus",
+  "territoire": [
+    "nantes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Le label « logement bleu » identifie les logements ayant bénéficié de travaux d'aménagement favorisant le maintien à domicile et évitant ainsi un départ prématuré en maison de retraite. Des référents au sein de la direction Personnes Âgées de la Ville ont vocation à coordonner différents services d'aide à la personne (aide à domicile, portage des repas, télé-assistance, soins infirmiers, etc.) et assurent une veille sociale.",
+    "contexte": "Le dispositif a été mis en place pour améliorer l'accessibilité et l'adaptabilité des logements aux personnes âgées, notamment celles qui ont besoin de soutien pour maintenir leur autonomie. Les travaux d'aménagement visent à faciliter la mobilité et à prévenir le déclin social.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un dispositif logements bleus a été mis en place pour améliorer l'accessibilité et l'adaptabilité des logements aux personnes âgées. Des travaux d'aménagement ont été réalisés pour faciliter la mobilité, et une veille sociale a été mise en place pour prévenir le déclin social.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Nantes Métropole Habitat",
+  "date": [
+    "2008",
+    "2013",
+    "2017",
+    "2022",
+    "2026"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_Logements_Bleus.txt",
+  "nom_fichier": "Dispositif_Logements_Bleus.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/739-pe-607-dispositif-logements-bleus-nantes.pdf",
+  "original_title": "Dispositif Logements Bleus",
+  "collection_date": ""
 }

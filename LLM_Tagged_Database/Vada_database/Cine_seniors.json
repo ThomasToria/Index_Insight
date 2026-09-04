@@ -1,32 +1,44 @@
 {
-    "titre": "Ciné séniors",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un projet mis en place grâce aux seniors, organisé par le conseil des aînés.",
-        "contexte": "La ville de la commune dispose d'une partie haute et d'une partie basse. Les séances se déroulent alternativement dans les salles de Laxou Haut et Bas pour être plus proches des habitants.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des séances adaptées aux seniors à des horaires plus propices à leur rythme de vie, avec des films proposés selon les propositions du Cravlor (Centre Régional Audio-Visuel de Lorraine) et payables à un tarif préférentiel.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents",
-            "Valoriser la mémoire et la place des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Conseil des aînés de la commune",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_seniors.txt",
-    "nom_fichier": "Cine_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ciné séniors",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un projet mis en place grâce aux seniors, organisé par le conseil des aînés.",
+    "contexte": "La ville de la commune dispose d'une partie haute et d'une partie basse. Les séances se déroulent alternativement dans les salles de Laxou Haut et Bas pour être plus proches des habitants.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des séances adaptées aux seniors à des horaires plus propices à leur rythme de vie, avec des films proposés selon les propositions du Cravlor (Centre Régional Audio-Visuel de Lorraine) et payables à un tarif préférentiel.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents",
+      "Valoriser la mémoire et la place des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Conseil des aînés de la commune",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_seniors.txt",
+  "nom_fichier": "Cine_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1080-pe-cine-seniors-1.pdf",
+  "original_title": "Ciné séniors",
+  "collection_date": ""
 }

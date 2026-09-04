@@ -1,34 +1,46 @@
 {
-    "titre": "Maison a'venir (suite du projet)",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette action vise à améliorer les conditions de vie des seniors dans leur domicile en proposant des aménagements possibles.",
-        "contexte": "Les seniors de la commune rencontrent des difficultés pour rester au domicile, notamment en raison d'adaptations manquantes ou non adaptées.",
-        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer des aménagements possibles au domicile pour permettre aux seniors d'avoir le libre choix du bien vieillir au domicile.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Service d'accueil, d'information et accompagnement pour les personnes âgées (SAIA) en lien avec des partenaires, l'association 'ReSanté-Vous' (co-construction du projet et interlocuteur du public lors de la présentation) et les partenaires traditionnels du SAIA",
-    "date": [
-        "2019",
-        "2021",
-        "2022"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_avenir_suite_du_projet.txt",
-    "nom_fichier": "Maison_avenir_suite_du_projet.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Maison a'venir (suite du projet)",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette action vise à améliorer les conditions de vie des seniors dans leur domicile en proposant des aménagements possibles.",
+    "contexte": "Les seniors de la commune rencontrent des difficultés pour rester au domicile, notamment en raison d'adaptations manquantes ou non adaptées.",
+    "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer des aménagements possibles au domicile pour permettre aux seniors d'avoir le libre choix du bien vieillir au domicile.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Service d'accueil, d'information et accompagnement pour les personnes âgées (SAIA) en lien avec des partenaires, l'association 'ReSanté-Vous' (co-construction du projet et interlocuteur du public lors de la présentation) et les partenaires traditionnels du SAIA",
+  "date": [
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_avenir_suite_du_projet.txt",
+  "nom_fichier": "Maison_avenir_suite_du_projet.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/843-maison-a-venir-suite-du-projet.pdf",
+  "original_title": "Maison a'venir (suite du projet)",
+  "collection_date": ""
 }

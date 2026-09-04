@@ -1,33 +1,45 @@
 {
-    "titre": "Sensibiliser les seniors aux services de la téléconsultation médicale",
-    "territoire": "Commune: Canet-en-Roussillon, Ville Amie des Aînés depuis 2025",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La Municipalité de Canet-en-Roussillon a mis en place une borne de téléconsultation médicale pour sensibiliser les seniors aux nouvelles technologies médicales.",
-        "contexte": "Le manque de médecins généralistes dans la commune a été souligné par les seniors lors des ateliers participatifs, et le CCAS a décidé d'ouvrir une borne de téléconsultation médicale pour répondre à cette demande.",
-        "problematique": "Les seniors sont inquiets quant à l'utilisation de la technologie de la téléconsultation médicale.",
-        "solution_envisagee": "La Municipalité a mis en place un service de sensibilisation auprès des seniors, avec une borne de téléconsultation médicale et une communication collective pour informer le public sur son fonctionnement et mode d'utilisation.",
-        "objectifs": [
-            "Sensibiliser les seniors aux nouvelles technologies médicales",
-            "Réduire l'isolement social chez les seniors",
-            "Promouvoir la participation citoyenne"
-        ]
-    },
-    "porteur_initiative": "Ville de Canet-en-Roussillon, Ville Amie des Aînés depuis 2025",
-    "date": [
-        "depuis Septembre 2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sensibiliser_les_seniors_aux_services_de_la_tele_consultation_medicale.txt",
-    "nom_fichier": "Sensibiliser_les_seniors_aux_services_de_la_tele_consultation_medicale.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Sensibiliser les seniors aux services de la téléconsultation médicale",
+  "territoire": [
+    "canet-en-roussillon, ville amie des aînés depuis 2025"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La Municipalité de Canet-en-Roussillon a mis en place une borne de téléconsultation médicale pour sensibiliser les seniors aux nouvelles technologies médicales.",
+    "contexte": "Le manque de médecins généralistes dans la commune a été souligné par les seniors lors des ateliers participatifs, et le CCAS a décidé d'ouvrir une borne de téléconsultation médicale pour répondre à cette demande.",
+    "problematique": "Les seniors sont inquiets quant à l'utilisation de la technologie de la téléconsultation médicale.",
+    "solution_envisagee": "La Municipalité a mis en place un service de sensibilisation auprès des seniors, avec une borne de téléconsultation médicale et une communication collective pour informer le public sur son fonctionnement et mode d'utilisation.",
+    "objectifs": [
+      "Sensibiliser les seniors aux nouvelles technologies médicales",
+      "Réduire l'isolement social chez les seniors",
+      "Promouvoir la participation citoyenne"
+    ]
+  },
+  "porteur_initiative": "Ville de Canet-en-Roussillon, Ville Amie des Aînés depuis 2025",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sensibiliser_les_seniors_aux_services_de_la_tele_consultation_medicale.txt",
+  "nom_fichier": "Sensibiliser_les_seniors_aux_services_de_la_tele_consultation_medicale.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1117-pe-sensibiliser-les-seniors-aux-services-de-la-tele-consultation-medicale-1.pdf",
+  "original_title": "Sensibiliser les seniors aux services de la télé consultation médicale",
+  "collection_date": ""
 }

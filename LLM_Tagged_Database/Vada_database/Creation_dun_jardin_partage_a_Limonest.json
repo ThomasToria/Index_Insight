@@ -1,33 +1,45 @@
 {
-    "titre": "Création d'un jardin partagé à Limonest",
-    "territoire": "Commune de Limonest, Haute-Savoie",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Le projet consiste à proposer aux Limonois intéressés par la jardinage de se retrouver pour cultiver des légumes, des fruits, des fleurs, des herbes aromatiques dans un espace écologiquement conçu dont ils assureront collectivement la gestion.",
-        "contexte": "Le projet a été initié suite à une proposition du Conseil des Aînés de Limonest et repose sur l'inspiration d'autres communes voisines gérées par l'association 'PASSE-JARDINS'.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile autour d'un jardin partagé.",
-        "solution_envisagee": "Organiser un lieu de partage intergénérationnel autour d'un jardin partagé en s'inspirant des réalisations des communes voisines gérées par l'association 'PASSE-JARDINS'.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile.",
-            "Valoriser leur mémoire et leur place dans la vie locale."
-        ]
-    },
-    "porteur_initiative": "Commune de Limonest (69)",
-    "date": [
-        "2019",
-        "2020-21"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_jardin_partage_a_Limonest.txt",
-    "nom_fichier": "Creation_dun_jardin_partage_a_Limonest.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Création d'un jardin partagé à Limonest",
+  "territoire": [
+    "limonest, haute-savoie"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Le projet consiste à proposer aux Limonois intéressés par la jardinage de se retrouver pour cultiver des légumes, des fruits, des fleurs, des herbes aromatiques dans un espace écologiquement conçu dont ils assureront collectivement la gestion.",
+    "contexte": "Le projet a été initié suite à une proposition du Conseil des Aînés de Limonest et repose sur l'inspiration d'autres communes voisines gérées par l'association 'PASSE-JARDINS'.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile autour d'un jardin partagé.",
+    "solution_envisagee": "Organiser un lieu de partage intergénérationnel autour d'un jardin partagé en s'inspirant des réalisations des communes voisines gérées par l'association 'PASSE-JARDINS'.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile.",
+      "Valoriser leur mémoire et leur place dans la vie locale."
+    ]
+  },
+  "porteur_initiative": "Commune de Limonest (69)",
+  "date": [
+    "2019",
+    "2020"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_jardin_partage_a_Limonest.txt",
+  "nom_fichier": "Creation_dun_jardin_partage_a_Limonest.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/964-pe-creation-d-un-jardin-partage-a-limonest.pdf",
+  "original_title": "Création d'un jardin partage a Limonest",
+  "collection_date": ""
 }

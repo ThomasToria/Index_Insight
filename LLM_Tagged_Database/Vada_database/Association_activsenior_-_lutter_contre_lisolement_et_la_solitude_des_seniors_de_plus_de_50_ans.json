@@ -1,34 +1,45 @@
 {
-    "titre": "Association activ'sénior - lutter contre l'isolement et la solitude des seniors de plus de 50 ans",
-    "territoire": "Commune: Valence (26)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Association Activ'Sénior lance une action pour lutter contre l'isolement et la solitude des seniors de plus de 50 ans dans la commune de Valence.",
-        "contexte": "La Ville de Valence a déclaré être une ville amie des aînés depuis 2017, ce qui signifie que les initiatives visant à renforcer le lien social et l'animation locale sont mises en place pour les seniors. L'Association Activ'Sénior est engagée dans cette cause.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'initiative visera à organiser des activités intergénérationnelles qui permettront aux seniors d'échanger avec les jeunes générations et de se sentir engagés dans la vie communale, tout en valorisant leur expérience et leur contribution.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de la commune",
-            "Valoriser l'expérience des seniors dans la vie locale",
-            "Promouvoir l'engagement citoyen des seniors"
-        ]
-    },
-    "porteur_initiative": "Association Activ'Sénior",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_activsenior_-_lutter_contre_lisolement_et_la_solitude_des_seniors_de_plus_de_50_ans.txt",
-    "nom_fichier": "Association_activsenior_-_lutter_contre_lisolement_et_la_solitude_des_seniors_de_plus_de_50_ans.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Association activ'sénior - lutter contre l'isolement et la solitude des seniors de plus de 50 ans",
+  "territoire": [
+    "valence (26)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Association Activ'Sénior lance une action pour lutter contre l'isolement et la solitude des seniors de plus de 50 ans dans la commune de Valence.",
+    "contexte": "La Ville de Valence a déclaré être une ville amie des aînés depuis 2017, ce qui signifie que les initiatives visant à renforcer le lien social et l'animation locale sont mises en place pour les seniors. L'Association Activ'Sénior est engagée dans cette cause.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'initiative visera à organiser des activités intergénérationnelles qui permettront aux seniors d'échanger avec les jeunes générations et de se sentir engagés dans la vie communale, tout en valorisant leur expérience et leur contribution.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de la commune",
+      "Valoriser l'expérience des seniors dans la vie locale",
+      "Promouvoir l'engagement citoyen des seniors"
+    ]
+  },
+  "porteur_initiative": "Association Activ'Sénior",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_activsenior_-_lutter_contre_lisolement_et_la_solitude_des_seniors_de_plus_de_50_ans.txt",
+  "nom_fichier": "Association_activsenior_-_lutter_contre_lisolement_et_la_solitude_des_seniors_de_plus_de_50_ans.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/895-concours-2023-association-activ-senior-lutter-contre-l-isolement-et-la-solitude-des-seniors-de-plus-de-50-ans-1.pdf",
+  "original_title": "Association activ'sénior - lutter contre l'isolement et la solitude des seniors de plus de 50 ans",
+  "collection_date": ""
 }

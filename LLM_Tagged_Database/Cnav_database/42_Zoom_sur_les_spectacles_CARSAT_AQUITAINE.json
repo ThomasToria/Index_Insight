@@ -1,27 +1,37 @@
 {
-    "titre": "Zoom sur les spectacles CARSAT AQUITAINE",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "CARSAT AQUITAINE a conçu un programme de sensibilisation sur la prévention des risques au domicile pour les personnes aidées, leurs proches et les professionnels. Le programme comprend notamment l'accueil de séances de théâtre forum.",
-        "contexte": "Dans le secteur de l'aide à la personne, la prévention et la maîtrise des risques au domicile contribuent à réduire la pénibilité des interventions (soins, ménage) et à maintenir les bénéficiaires dans des conditions préservées de sécurité et de bien-être.",
-        "problematique": "Le besoin de sensibiliser les aidants, aidés et professionnels aux risques au domicile pour améliorer la qualité de vie et prévenir l'isolement.",
-        "solution_envisagee": "Programme de théâtre forum intergénérationnel qui permet d'intégrer des notions de qualité de vie au domicile et au travail, en agissant sur la mobilité et le maintien de l'autonomie du bénéficiaire.",
-        "objectifs": "Promouvoir la démarche de sensibilisation de Carsat « Aidants, Aidés, une qualité de vie à préserver » auprès des publics cibles."
-    },
-    "porteur_initiative": "Carsat Aquitaine",
-    "date": [],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
-    "nom_fichier": "42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Zoom sur les spectacles CARSAT AQUITAINE",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "CARSAT AQUITAINE a conçu un programme de sensibilisation sur la prévention des risques au domicile pour les personnes aidées, leurs proches et les professionnels. Le programme comprend notamment l'accueil de séances de théâtre forum.",
+    "contexte": "Dans le secteur de l'aide à la personne, la prévention et la maîtrise des risques au domicile contribuent à réduire la pénibilité des interventions (soins, ménage) et à maintenir les bénéficiaires dans des conditions préservées de sécurité et de bien-être.",
+    "problematique": "Le besoin de sensibiliser les aidants, aidés et professionnels aux risques au domicile pour améliorer la qualité de vie et prévenir l'isolement.",
+    "solution_envisagee": "Programme de théâtre forum intergénérationnel qui permet d'intégrer des notions de qualité de vie au domicile et au travail, en agissant sur la mobilité et le maintien de l'autonomie du bénéficiaire.",
+    "objectifs": "Promouvoir la démarche de sensibilisation de Carsat « Aidants, Aidés, une qualité de vie à préserver » auprès des publics cibles."
+  },
+  "porteur_initiative": "Carsat Aquitaine",
+  "date": [],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
+  "nom_fichier": "42_Zoom_sur_les_spectacles_CARSAT_AQUITAINE.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "Zoom sur les spectacles CARSAT AQUITAINE",
+  "collection_date": ""
 }

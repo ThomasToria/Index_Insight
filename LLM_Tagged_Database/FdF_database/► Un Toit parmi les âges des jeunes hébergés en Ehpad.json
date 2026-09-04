@@ -1,32 +1,44 @@
 {
-    "titre": "Un Toit parmi les âges: des jeunes hébergés en Ehpad",
-    "territoire": "Nord Pas-de-Calais",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un programme développé depuis 2016 dans la région Nord Pas-de-Calais, qui propose à des jeunes d’être hébergés au sein d’EHPAD ou de résidences autonomie pour seniors, à un prix modéré et en contrepartie d’un petit nombre d’heures partagées avec les résidents.",
-        "contexte": "Face à la double situation de sentiment d'isolement chez les résidents des Ehpad et difficulté d'accès au logement des étudiants, l'association Générations et Cultures a mis en place le dispositif original Un Toit parmi les âges. Ce programme permet aux jeunes d'avoir une chambre autonome dans une résidence pour personnes âgées.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents des Ehpad, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un Toit parmi les âges permet d'offrir à un jeune une chambre autonome au sein d'une résidence pour personnes âgées, ce qui offre l'occasion de partager des moments de vie avec les résidents et de garder une ouverture sur le monde extérieur.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents des Ehpad",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Générations et Cultures",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\► Un Toit parmi les âges des jeunes hébergés en Ehpad.txt",
-    "nom_fichier": "► Un Toit parmi les âges des jeunes hébergés en Ehpad.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un Toit parmi les âges: des jeunes hébergés en Ehpad",
+  "territoire": [
+    "nord pas-de-calais"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un programme développé depuis 2016 dans la région Nord Pas-de-Calais, qui propose à des jeunes d’être hébergés au sein d’EHPAD ou de résidences autonomie pour seniors, à un prix modéré et en contrepartie d’un petit nombre d’heures partagées avec les résidents.",
+    "contexte": "Face à la double situation de sentiment d'isolement chez les résidents des Ehpad et difficulté d'accès au logement des étudiants, l'association Générations et Cultures a mis en place le dispositif original Un Toit parmi les âges. Ce programme permet aux jeunes d'avoir une chambre autonome dans une résidence pour personnes âgées.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents des Ehpad, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un Toit parmi les âges permet d'offrir à un jeune une chambre autonome au sein d'une résidence pour personnes âgées, ce qui offre l'occasion de partager des moments de vie avec les résidents et de garder une ouverture sur le monde extérieur.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents des Ehpad",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Générations et Cultures",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\► Un Toit parmi les âges des jeunes hébergés en Ehpad.txt",
+  "nom_fichier": "► Un Toit parmi les âges des jeunes hébergés en Ehpad.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-agees/un-toit-parmi-les-ages-le-vivre-ensemble-reussi-des-jeunes-et-des-aines",
+  "original_title": "► Un Toit parmi les âges : des jeunes hébergés en Ehpad",
+  "collection_date": ""
 }

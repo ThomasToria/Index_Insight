@@ -1,32 +1,42 @@
 {
-    "titre": "Attractivité professionnelle en EHPAD: le rôle du visuel et de l'environnement.",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les facteurs qui contribuent au manque d’attractivité professionnelle en EHPAD et à proposer des solutions pour améliorer l’environnement de travail.",
-        "contexte": "",
-        "problematique": "Le manque d'attractivité professionnelle en EHPAD est un problème complexe qui implique plusieurs facteurs, notamment les conditions de travail difficiles et le bas niveau de rémunération. Les représentations autour de la vieillesse et du métier de soignant en EHPAD sont également des éléments à prendre en compte.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les facteurs qui contribuent au manque d'attractivité professionnelle en EHPAD",
-            "Proposer des solutions pour améliorer l'environnement de travail et la rémunération des soignants en EHPAD"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\012_2024_attractivite_professionnelle_en_ehpad_le_role_du_visuel_et_de_l_environnement.txt",
-    "nom_fichier": "012_2024_attractivite_professionnelle_en_ehpad_le_role_du_visuel_et_de_l_environnement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Attractivité professionnelle en EHPAD: le rôle du visuel et de l'environnement.",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les facteurs qui contribuent au manque d’attractivité professionnelle en EHPAD et à proposer des solutions pour améliorer l’environnement de travail.",
+    "contexte": "",
+    "problematique": "Le manque d'attractivité professionnelle en EHPAD est un problème complexe qui implique plusieurs facteurs, notamment les conditions de travail difficiles et le bas niveau de rémunération. Les représentations autour de la vieillesse et du métier de soignant en EHPAD sont également des éléments à prendre en compte.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les facteurs qui contribuent au manque d'attractivité professionnelle en EHPAD",
+      "Proposer des solutions pour améliorer l'environnement de travail et la rémunération des soignants en EHPAD"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\012_2024_attractivite_professionnelle_en_ehpad_le_role_du_visuel_et_de_l_environnement.txt",
+  "nom_fichier": "012_2024_attractivite_professionnelle_en_ehpad_le_role_du_visuel_et_de_l_environnement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/attractivite-professionnelle-en-ehpad-le-role-du-visuel-et-de-lenvironnement/",
+  "original_title": "Attractivité professionnelle en EHPAD : le rôle du visuel et de l’environnement.",
+  "collection_date": ""
 }

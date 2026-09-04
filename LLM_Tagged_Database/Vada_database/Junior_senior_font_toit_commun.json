@@ -1,32 +1,44 @@
 {
-    "titre": "Junior senior font toit commun",
-    "territoire": "Rennes, métropole d'Ile-et-Vilaine",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Une rencontre qui bénéfice aux accueillants et accueillis.",
-        "contexte": "La population des retraités est croissante en Bretagne, et certains aînés vivent un sentiment de solitude et d'isolement. Les jeunes, quant à eux, souhaitent rester à leur domicile mais rencontrent des difficultés financières pour poursuivre leurs études.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une formule de logement innovante basée sur la cohabitation intergénérationnelle entre retraités et jeunes pour accompagner les personnes âgées dans leurs démarches d’insertion sociale.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La Maison en Ville",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Junior_senior_font_toit_commun.txt",
-    "nom_fichier": "Junior_senior_font_toit_commun.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Junior senior font toit commun",
+  "territoire": [
+    "rennes, métropole d'ile-et-vilaine"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Une rencontre qui bénéfice aux accueillants et accueillis.",
+    "contexte": "La population des retraités est croissante en Bretagne, et certains aînés vivent un sentiment de solitude et d'isolement. Les jeunes, quant à eux, souhaitent rester à leur domicile mais rencontrent des difficultés financières pour poursuivre leurs études.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une formule de logement innovante basée sur la cohabitation intergénérationnelle entre retraités et jeunes pour accompagner les personnes âgées dans leurs démarches d’insertion sociale.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La Maison en Ville",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Junior_senior_font_toit_commun.txt",
+  "nom_fichier": "Junior_senior_font_toit_commun.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/699-pe-8-la-maison-en-ville-rennes.pdf",
+  "original_title": "Junior senior font toit commun",
+  "collection_date": ""
 }

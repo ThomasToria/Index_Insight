@@ -1,32 +1,44 @@
 {
-    "titre": "À Saint-Étienne, un conseil consultatif seniors",
-    "territoire": "Saint-Etienne",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "groupe de parole",
-    "description": {
-        "description_generale": "Un Conseil consultatif des seniors a été créé par décision du Conseil municipal pour associer la population âgée à la politique gérontologique de la Ville de Saint-Etienne.",
-        "contexte": "La population stéphanoise est composée d'une majorité de personnes de plus de 60 ans, et l'allongement de l'espérance de vie prévoit une augmentation significative des seniors dans les années à venir. La Ville de Saint-Etienne a donc engagé une politique gérontologique ambitieuse pour favoriser le « bon vieillir ».",
-        "problematique": "Promouvoir le « vivre ensemble » et la contribution citoyenne des seniors en leur permettant d'être des citoyens actifs et en veillant à ce qu'ils aient accès aux processus politiques et civiques; renforcer leur participation à la société.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Promouvoir le « vivre ensemble » et la contribution citoyenne des seniors",
-            "Renforcer leur participation à la société"
-        ]
-    },
-    "porteur_initiative": "La Ville de Saint-Etienne",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Saint-Etienne_un_conseil_consultatif_seniors.txt",
-    "nom_fichier": "A_Saint-Etienne_un_conseil_consultatif_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "À Saint-Étienne, un conseil consultatif seniors",
+  "territoire": [
+    "saint-etienne"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "groupe de parole",
+  "description": {
+    "description_generale": "Un Conseil consultatif des seniors a été créé par décision du Conseil municipal pour associer la population âgée à la politique gérontologique de la Ville de Saint-Etienne.",
+    "contexte": "La population stéphanoise est composée d'une majorité de personnes de plus de 60 ans, et l'allongement de l'espérance de vie prévoit une augmentation significative des seniors dans les années à venir. La Ville de Saint-Etienne a donc engagé une politique gérontologique ambitieuse pour favoriser le « bon vieillir ».",
+    "problematique": "Promouvoir le « vivre ensemble » et la contribution citoyenne des seniors en leur permettant d'être des citoyens actifs et en veillant à ce qu'ils aient accès aux processus politiques et civiques; renforcer leur participation à la société.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Promouvoir le « vivre ensemble » et la contribution citoyenne des seniors",
+      "Renforcer leur participation à la société"
+    ]
+  },
+  "porteur_initiative": "La Ville de Saint-Etienne",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Saint-Etienne_un_conseil_consultatif_seniors.txt",
+  "nom_fichier": "A_Saint-Etienne_un_conseil_consultatif_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "groupe de parole",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/FICHE-CORRIGEE-CCS-AOUT-2025-2-2.pdf",
+  "original_title": "À Saint-Étienne, un conseil consultatif seniors",
+  "collection_date": ""
 }

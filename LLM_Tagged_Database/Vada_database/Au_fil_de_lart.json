@@ -1,32 +1,42 @@
 {
-    "titre": "Au fil de l'art",
-    "territoire": "Commune: Géraldines",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Initiative artistique créative visant à renforcer les liens entre résidents, leurs proches et la société civile.",
-        "contexte": "La population de Géraldines est vieillissante, ce qui a conduit à une tendance d'isolement croissant. Le service protocole souhaite lutter contre cette tendance en créant un dispositif artistique pour les seniors.",
-        "problematique": "Renforcer les liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des ateliers artistiques et sorties culturelles pour créer un lien social entre les seniors et la population locale.",
-        "objectifs": [
-            "Renforcer les liens sociaux entre les résidents de Géraldines",
-            "Valoriser l'histoire et la mémoire des seniors dans la vie locale",
-            "Promouvoir le lien intergénérationnel"
-        ]
-    },
-    "porteur_initiative": "Service protocole",
-    "date": [
-        "2014",
-        "2019"
-    ],
-    "thematique": [
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_de_lart.txt",
-    "nom_fichier": "Au_fil_de_lart.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Au fil de l'art",
+  "territoire": [
+    "géraldines"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Initiative artistique créative visant à renforcer les liens entre résidents, leurs proches et la société civile.",
+    "contexte": "La population de Géraldines est vieillissante, ce qui a conduit à une tendance d'isolement croissant. Le service protocole souhaite lutter contre cette tendance en créant un dispositif artistique pour les seniors.",
+    "problematique": "Renforcer les liens entre les résidents de la commune, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des ateliers artistiques et sorties culturelles pour créer un lien social entre les seniors et la population locale.",
+    "objectifs": [
+      "Renforcer les liens sociaux entre les résidents de Géraldines",
+      "Valoriser l'histoire et la mémoire des seniors dans la vie locale",
+      "Promouvoir le lien intergénérationnel"
+    ]
+  },
+  "porteur_initiative": "Service protocole",
+  "date": [
+    "2014",
+    "2019"
+  ],
+  "thematique": [
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Au_fil_de_lart.txt",
+  "nom_fichier": "Au_fil_de_lart.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/535-pe-au-fil-de-l-art-maj-2025.pdf",
+  "original_title": "Au fil de l'art",
+  "collection_date": ""
 }

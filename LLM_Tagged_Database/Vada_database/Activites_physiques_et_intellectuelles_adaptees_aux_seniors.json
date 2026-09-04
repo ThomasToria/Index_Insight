@@ -1,34 +1,46 @@
 {
-    "titre": "Activités physiques et intellectuelles adaptées aux séniors",
-    "territoire": "Commune: Limonest, métropole de Lyon",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une demande des seniors a conduit à l'organisation d'une nouvelle activité sportive adaptée aux personnes de 50 ans et plus.",
-        "contexte": "Les résidents de l'EHPAD Limonest souhaitaient des activités physiques et intellectuelles pour renforcer les liens sociaux et valoriser leur mémoire.",
-        "problematique": "Renforcement du lien social entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer des activités sportives adaptées aux seniors, favoriser le lien social et la convivialité, et offrir une pratique sportive à moindre coût avec des encadrants qualifiés.",
-        "objectifs": [
-            "Renforcer les liens sociaux entre les résidents de l'EHPAD Limonest",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Favoriser le maintien de la santé physique et mentale des seniors"
-        ]
-    },
-    "porteur_initiative": "Club de retraités des Amitiés limonoises",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activites_physiques_et_intellectuelles_adaptees_aux_seniors.txt",
-    "nom_fichier": "Activites_physiques_et_intellectuelles_adaptees_aux_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Activités physiques et intellectuelles adaptées aux séniors",
+  "territoire": [
+    "limonest, métropole de lyon"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une demande des seniors a conduit à l'organisation d'une nouvelle activité sportive adaptée aux personnes de 50 ans et plus.",
+    "contexte": "Les résidents de l'EHPAD Limonest souhaitaient des activités physiques et intellectuelles pour renforcer les liens sociaux et valoriser leur mémoire.",
+    "problematique": "Renforcement du lien social entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer des activités sportives adaptées aux seniors, favoriser le lien social et la convivialité, et offrir une pratique sportive à moindre coût avec des encadrants qualifiés.",
+    "objectifs": [
+      "Renforcer les liens sociaux entre les résidents de l'EHPAD Limonest",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Favoriser le maintien de la santé physique et mentale des seniors"
+    ]
+  },
+  "porteur_initiative": "Club de retraités des Amitiés limonoises",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activites_physiques_et_intellectuelles_adaptees_aux_seniors.txt",
+  "nom_fichier": "Activites_physiques_et_intellectuelles_adaptees_aux_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1006-concours-2023-activite-physique-et-intellectuelle-adaptees-aux-seniors.pdf",
+  "original_title": "Activités physiques et intellectuelles adaptées aux séniors",
+  "collection_date": ""
 }

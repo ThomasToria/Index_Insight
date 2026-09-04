@@ -1,34 +1,46 @@
 {
-    "titre": "Bistrot Mémoire",
-    "territoire": "Rennes, Métropole de Rennes",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Initiative visant à développer des initiatives locales en faveur de la société inclusive pour les personnes souffrant de troubles cognitifs.",
-        "contexte": "La ville de Rennes et la métropole mettent l'accent sur une démarche d'accueil facilité pour les personnes vivant avec des troubles de la mémoire, menée par le Bistrot Mémoire.",
-        "problematique": "Difficultés cognitives, maladie Alzheimer, Parkinson, maladies associées à des troubles cognitifs",
-        "solution_envisagee": "Initiative locale en faveur de la société inclusive pour les personnes souffrant de troubles cognitifs",
-        "objectifs": [
-            "Sensibiliser les acteurs de la ville et de la métropole aux besoins spécifiques des personnes vivant avec des troubles de la mémoire.",
-            "Fédérer autour du projet d'initiative citoyenne visant à créer un environnement accueillant pour ces personnes."
-        ]
-    },
-    "porteur_initiative": "Bistrot Mémoire",
-    "date": [
-        "2017-06-22",
-        "2017-06-23"
-    ],
-    "thematique": [
-        "numérique",
-        "participation citoyenne",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bistrot_memoire.txt",
-    "nom_fichier": "Bistrot_memoire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bistrot Mémoire",
+  "territoire": [
+    "rennes, métropole de rennes"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Initiative visant à développer des initiatives locales en faveur de la société inclusive pour les personnes souffrant de troubles cognitifs.",
+    "contexte": "La ville de Rennes et la métropole mettent l'accent sur une démarche d'accueil facilité pour les personnes vivant avec des troubles de la mémoire, menée par le Bistrot Mémoire.",
+    "problematique": "Difficultés cognitives, maladie Alzheimer, Parkinson, maladies associées à des troubles cognitifs",
+    "solution_envisagee": "Initiative locale en faveur de la société inclusive pour les personnes souffrant de troubles cognitifs",
+    "objectifs": [
+      "Sensibiliser les acteurs de la ville et de la métropole aux besoins spécifiques des personnes vivant avec des troubles de la mémoire.",
+      "Fédérer autour du projet d'initiative citoyenne visant à créer un environnement accueillant pour ces personnes."
+    ]
+  },
+  "porteur_initiative": "Bistrot Mémoire",
+  "date": [
+    "2017-06-22",
+    "2017-06-23"
+  ],
+  "thematique": [
+    "numérique",
+    "participation citoyenne",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bistrot_memoire.txt",
+  "nom_fichier": "Bistrot_memoire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "numérique et accès à l'information",
+    "participation citoyenne et gouvernance",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/395-pe-bistrot-memoire-mise-en-forme-2023.pdf",
+  "original_title": "Bistrot mémoire",
+  "collection_date": ""
 }

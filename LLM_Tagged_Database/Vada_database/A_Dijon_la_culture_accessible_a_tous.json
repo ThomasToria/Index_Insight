@@ -1,32 +1,44 @@
 {
-    "titre": "A Dijon, la culture accessible à tous!",
-    "territoire": "Commune de Dijon",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "projet d'aménagement",
-    "description": {
-        "description_generale": "La Ville de Dijon a mis en place des initiatives pour rendre la culture accessible à tous, notamment grâce à une enquête sur les attentes des seniors.",
-        "contexte": "Dijon est un exemple d'une ville qui s'engage dans l'amélioration de l'accès à la culture pour tous, en particulier pour les personnes âgées. Les travaux de mise en accessibilité du Théâtre de la Fontaine d’Ouche et du Musée des Beaux Arts ont été réalisés avec un engagement fort.",
-        "problematique": "Favoriser l'accès aux seniors à la culture, répondre aux besoins spécifiques des plus âgés en termes de sorties et d'activités culturelles.",
-        "solution_envisagee": "Améliorer l'accès aux lieux culturels, proposer des horaires adaptés pour les personnes âgées, mettre en place des spectacles d'opérette spécifiques à la demande des seniors, et offrir un dispositif tarifaire innovant pour encourager les sorties intergénérationnelles.",
-        "objectifs": [
-            "Favoriser l'accès des seniors à la culture",
-            "Répondre aux besoins spécifiques des plus âgés en termes de sorties et d'activités culturelles"
-        ]
-    },
-    "porteur_initiative": "La Ville de Dijon",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "espaces publics et aménagement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_la_culture_accessible_a_tous.txt",
-    "nom_fichier": "A_Dijon_la_culture_accessible_a_tous.txt",
-    "statut_action": "projet réalisé"
+  "titre": "A Dijon, la culture accessible à tous!",
+  "territoire": [
+    "dijon"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "projet d'aménagement",
+  "description": {
+    "description_generale": "La Ville de Dijon a mis en place des initiatives pour rendre la culture accessible à tous, notamment grâce à une enquête sur les attentes des seniors.",
+    "contexte": "Dijon est un exemple d'une ville qui s'engage dans l'amélioration de l'accès à la culture pour tous, en particulier pour les personnes âgées. Les travaux de mise en accessibilité du Théâtre de la Fontaine d’Ouche et du Musée des Beaux Arts ont été réalisés avec un engagement fort.",
+    "problematique": "Favoriser l'accès aux seniors à la culture, répondre aux besoins spécifiques des plus âgés en termes de sorties et d'activités culturelles.",
+    "solution_envisagee": "Améliorer l'accès aux lieux culturels, proposer des horaires adaptés pour les personnes âgées, mettre en place des spectacles d'opérette spécifiques à la demande des seniors, et offrir un dispositif tarifaire innovant pour encourager les sorties intergénérationnelles.",
+    "objectifs": [
+      "Favoriser l'accès des seniors à la culture",
+      "Répondre aux besoins spécifiques des plus âgés en termes de sorties et d'activités culturelles"
+    ]
+  },
+  "porteur_initiative": "La Ville de Dijon",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "espaces publics et aménagement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Dijon_la_culture_accessible_a_tous.txt",
+  "nom_fichier": "A_Dijon_la_culture_accessible_a_tous.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "espaces publics et aménagement"
+  ],
+  "nature_initiative_normalisee": "projet d'aménagement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/101-101-la-culture-accessible-a-tous.pdf",
+  "original_title": "A Dijon, la culture accessible à tous !",
+  "collection_date": ""
 }

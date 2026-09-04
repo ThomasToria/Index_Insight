@@ -1,32 +1,42 @@
 {
-    "titre": "Partir en voyage sans crainte grâce à des étudiants bénévoles",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un dispositif intergénérationnel organisé par l'OPAD (association de loisirs pour les seniors dijonnais) et l'ESC de Dijon, visant à renforcer les liens entre personnes âgées et jeunes adultes.",
-        "contexte": "",
-        "problematique": "Renforcement des liens intergénérationnels et lutte contre le sentiment d’isolement",
-        "solution_envisagee": "Organisation de séjours pour seniors non adhérents à l'OPAD, avec accompagnement par des étudiants bénévoles.",
-        "objectifs": [
-            "Renforcer les liens entre personnes âgées et jeunes adultes",
-            "Lutter contre le sentiment d’isolement"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partir_en_voyage_sans_crainte_grace_a_des_etudiants_benevoles.txt",
-    "nom_fichier": "Partir_en_voyage_sans_crainte_grace_a_des_etudiants_benevoles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Partir en voyage sans crainte grâce à des étudiants bénévoles",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un dispositif intergénérationnel organisé par l'OPAD (association de loisirs pour les seniors dijonnais) et l'ESC de Dijon, visant à renforcer les liens entre personnes âgées et jeunes adultes.",
+    "contexte": "",
+    "problematique": "Renforcement des liens intergénérationnels et lutte contre le sentiment d’isolement",
+    "solution_envisagee": "Organisation de séjours pour seniors non adhérents à l'OPAD, avec accompagnement par des étudiants bénévoles.",
+    "objectifs": [
+      "Renforcer les liens entre personnes âgées et jeunes adultes",
+      "Lutter contre le sentiment d’isolement"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Partir_en_voyage_sans_crainte_grace_a_des_etudiants_benevoles.txt",
+  "nom_fichier": "Partir_en_voyage_sans_crainte_grace_a_des_etudiants_benevoles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/162-162-seniors-en-vacances.pdf",
+  "original_title": "Partir en voyage sans crainte grâce à des étudiants bénévoles",
+  "collection_date": ""
 }

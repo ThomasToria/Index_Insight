@@ -1,33 +1,43 @@
 {
-    "titre": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine, organisée par l'association Outil en main à la Résidence de l’Ille.",
-        "contexte": "Les ateliers visent à renforcer les liens entre jeunes et seniors, valoriser les métiers manuels artisanaux, et contribuer au maintien du lien social grâce aux relations intergénérationnelles.",
-        "problematique": "Renforcement des liens entre jeunes et seniors, valorisation des métiers manuels artisanaux, maintien du lien social",
-        "solution_envisagee": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine par les bénévoles à la retraite avec des vrais outils au sein de vrais ateliers.",
-        "objectifs": [
-            "Renforcer les liens entre jeunes et seniors",
-            "Valoriser les métiers manuels artisanaux",
-            "Maintenir le lien social grâce aux relations intergénérationnelles"
-        ]
-    },
-    "porteur_initiative": "Association Outil en main à la Résidence de l’Ille",
-    "date": [
-        "depuis 1987"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.txt",
-    "nom_fichier": "Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine, organisée par l'association Outil en main à la Résidence de l’Ille.",
+    "contexte": "Les ateliers visent à renforcer les liens entre jeunes et seniors, valoriser les métiers manuels artisanaux, et contribuer au maintien du lien social grâce aux relations intergénérationnelles.",
+    "problematique": "Renforcement des liens entre jeunes et seniors, valorisation des métiers manuels artisanaux, maintien du lien social",
+    "solution_envisagee": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine par les bénévoles à la retraite avec des vrais outils au sein de vrais ateliers.",
+    "objectifs": [
+      "Renforcer les liens entre jeunes et seniors",
+      "Valoriser les métiers manuels artisanaux",
+      "Maintenir le lien social grâce aux relations intergénérationnelles"
+    ]
+  },
+  "porteur_initiative": "Association Outil en main à la Résidence de l’Ille",
+  "date": [
+    "1987"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.txt",
+  "nom_fichier": "Initiation_des_enfants_de_9_et_14_ans_aux_metiers_manuels_du_patrimoine.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles-1.pdf",
+  "original_title": "Initiation des enfants de 9 et 14 ans aux métiers manuels du patrimoine",
+  "collection_date": ""
 }

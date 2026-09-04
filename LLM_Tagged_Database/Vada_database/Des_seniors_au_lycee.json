@@ -1,33 +1,45 @@
 {
-    "titre": "Des seniors au lycée",
-    "territoire": "Dijon (21)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un projet intergénérationnel organisé par le lycée Saint-Bénigne de Dijon et l'OPAD (association de loisirs pour seniors dijonnais) visant à renforcer les liens entre élèves de seconde, retraités et la société civile.",
-        "contexte": "Le projet a été lancé en 2015 et est le troisième année d'existence. Il vise principalement des jeunes de lycée et seniors dijonnais.",
-        "problematique": "Renforcer les liens entre élèves, retraités et la société civile pour renforcer l’orientation et valoriser les savoirs des seniors.",
-        "solution_envisagee": "Organisation de rencontres entre jeunes et seniors dans le cadre d'une aide à l'orientation.",
-        "objectifs": [
-            "Transmettre son vécu aux jeunes",
-            "Échanger réciproquement entre jeunes et retraités",
-            "Être utile aux jeunes dans le choix de leur orientation"
-        ]
-    },
-    "porteur_initiative": "Directeur du lycée Saint-Bénigne de Dijon et président de l'OPAD (association dijonnaise d'activités pour seniors)",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_au_lycee.txt",
-    "nom_fichier": "Des_seniors_au_lycee.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des seniors au lycée",
+  "territoire": [
+    "dijon (21)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un projet intergénérationnel organisé par le lycée Saint-Bénigne de Dijon et l'OPAD (association de loisirs pour seniors dijonnais) visant à renforcer les liens entre élèves de seconde, retraités et la société civile.",
+    "contexte": "Le projet a été lancé en 2015 et est le troisième année d'existence. Il vise principalement des jeunes de lycée et seniors dijonnais.",
+    "problematique": "Renforcer les liens entre élèves, retraités et la société civile pour renforcer l’orientation et valoriser les savoirs des seniors.",
+    "solution_envisagee": "Organisation de rencontres entre jeunes et seniors dans le cadre d'une aide à l'orientation.",
+    "objectifs": [
+      "Transmettre son vécu aux jeunes",
+      "Échanger réciproquement entre jeunes et retraités",
+      "Être utile aux jeunes dans le choix de leur orientation"
+    ]
+  },
+  "porteur_initiative": "Directeur du lycée Saint-Bénigne de Dijon et président de l'OPAD (association dijonnaise d'activités pour seniors)",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_au_lycee.txt",
+  "nom_fichier": "Des_seniors_au_lycee.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/160-160-seniors-au-lycee.pdf",
+  "original_title": "Des seniors au lycée",
+  "collection_date": ""
 }

@@ -1,31 +1,43 @@
 {
-    "titre": "Eurequa Mobiseniors",
-    "territoire": "Commune: Lyon, Rhône-Alpes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Forte baisse de la fréquentation des lieux de convivialité, créateurs de lien social, associée à une absence d’échanges entre structures, entre résidents et adhérents de ces structures et habitants du quartier ainsi qu'à une diminution des contacts intergénérationnels. Des services d'accès à la mobilité sont proposés pour les personnes en situation de mobilité réduite par le GIHP, ULYSSE et OPTIBUS mais non accessibles pour les personnes souffrant de pathologies liées au vieillissement.",
-        "contexte": "Les personnes âgées en situation de perte d'autonomie rencontrent des difficultés à accéder aux transports en commun et aux services d'accès à la mobilité, ce qui limite leur participation aux activités sociales et culturelles. Des enquêtes ont montré que les personnes âgées sont isolées et perçoivent une rupture du lien social.",
-        "problematique": "Les personnes âgées en situation de perte d'autonomie rencontrent des difficultés à accéder aux transports en commun, ce qui limite leur participation aux activités sociales et culturelles. Des enquêtes ont montré que les personnes âgées sont isolées et perçoivent une rupture du lien social.",
-        "solution_envisagee": "EUREQUA MOBISENIORS",
-        "objectifs": [
-            "Faciliter les sorties des personnes âgées en situation de perte d'autonomie."
-        ]
-    },
-    "porteur_initiative": "Association EURAQUA, Ville Amie des Aînés depuis 2012",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Eurequa_Mobiseniors.txt",
-    "nom_fichier": "Eurequa_Mobiseniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Eurequa Mobiseniors",
+  "territoire": [
+    "lyon, rhône-alpes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Forte baisse de la fréquentation des lieux de convivialité, créateurs de lien social, associée à une absence d’échanges entre structures, entre résidents et adhérents de ces structures et habitants du quartier ainsi qu'à une diminution des contacts intergénérationnels. Des services d'accès à la mobilité sont proposés pour les personnes en situation de mobilité réduite par le GIHP, ULYSSE et OPTIBUS mais non accessibles pour les personnes souffrant de pathologies liées au vieillissement.",
+    "contexte": "Les personnes âgées en situation de perte d'autonomie rencontrent des difficultés à accéder aux transports en commun et aux services d'accès à la mobilité, ce qui limite leur participation aux activités sociales et culturelles. Des enquêtes ont montré que les personnes âgées sont isolées et perçoivent une rupture du lien social.",
+    "problematique": "Les personnes âgées en situation de perte d'autonomie rencontrent des difficultés à accéder aux transports en commun, ce qui limite leur participation aux activités sociales et culturelles. Des enquêtes ont montré que les personnes âgées sont isolées et perçoivent une rupture du lien social.",
+    "solution_envisagee": "EUREQUA MOBISENIORS",
+    "objectifs": [
+      "Faciliter les sorties des personnes âgées en situation de perte d'autonomie."
+    ]
+  },
+  "porteur_initiative": "Association EURAQUA, Ville Amie des Aînés depuis 2012",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Eurequa_Mobiseniors.txt",
+  "nom_fichier": "Eurequa_Mobiseniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/581-pe-eurequa-mobiseniors-lyon-mise-en-forme-2023.pdf",
+  "original_title": "Eurequa Mobiseniors",
+  "collection_date": ""
 }

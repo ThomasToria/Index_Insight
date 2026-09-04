@@ -1,33 +1,43 @@
 {
-    "titre": "Pourquoi quitter les Etablissements d'Hébergement pour Personnes Agées Dépendantes (EHPAD): analyse des départs et des réorientations professionnelles des soignantes",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Analyse des départs et des réorientations professionnelles des soignantes qui ont quitté les Etablissements d'Hébergement pour Personnes Agées Dépendantes (EHPAD).",
-        "contexte": "",
-        "problematique": "Étude de la transition professionnelle des personnes âgées dépendantes ayant quitté les EHPAD et leurs perspectives professionnelles.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les causes principales de la transition professionnelle",
-            "Analyser les impacts socio-professionnels de cette transition sur les individus et les structures d'accueil",
-            "Proposer des mesures pour améliorer l'adaptabilité aux besoins du public dans le contexte actuel."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\107_2024_pourquoi_quitter_les_etablissements_d_hebergement_pour_personnes_agees_dependantes_ehpad_analyse_des_departs_et_des_reor.txt",
-    "nom_fichier": "107_2024_pourquoi_quitter_les_etablissements_d_hebergement_pour_personnes_agees_dependantes_ehpad_analyse_des_departs_et_des_reor.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Pourquoi quitter les Etablissements d'Hébergement pour Personnes Agées Dépendantes (EHPAD): analyse des départs et des réorientations professionnelles des soignantes",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Analyse des départs et des réorientations professionnelles des soignantes qui ont quitté les Etablissements d'Hébergement pour Personnes Agées Dépendantes (EHPAD).",
+    "contexte": "",
+    "problematique": "Étude de la transition professionnelle des personnes âgées dépendantes ayant quitté les EHPAD et leurs perspectives professionnelles.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les causes principales de la transition professionnelle",
+      "Analyser les impacts socio-professionnels de cette transition sur les individus et les structures d'accueil",
+      "Proposer des mesures pour améliorer l'adaptabilité aux besoins du public dans le contexte actuel."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\107_2024_pourquoi_quitter_les_etablissements_d_hebergement_pour_personnes_agees_dependantes_ehpad_analyse_des_departs_et_des_reor.txt",
+  "nom_fichier": "107_2024_pourquoi_quitter_les_etablissements_d_hebergement_pour_personnes_agees_dependantes_ehpad_analyse_des_departs_et_des_reor.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/pourquoi-quitter-les-etablissements-dhebergement-pour-personnes-agees-dependantes-ehpad-analyse-des-departs-et-des-reorientations-professionnelles-des-soignantes/",
+  "original_title": "Pourquoi quitter les Etablissements d’Hébergement pour Personnes Agées Dépendantes (EHPAD) : analyse des départs et des réorientations professionnelles des soignantes",
+  "collection_date": ""
 }

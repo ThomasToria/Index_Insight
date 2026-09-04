@@ -1,34 +1,44 @@
 {
-    "titre": "Ateliers Part'Âge Entre seniors et enfants en situation de handicap",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative vise à favoriser la rencontre et le lien social entre seniors et enfants en situation de handicap, en organisant des ateliers artistiques.",
-        "contexte": "Les personnes âgées ont peur de commettre des maladresses face aux enfants lors d'ateliers intergénérationnels.",
-        "problematique": "Lutter contre les préjugés et favoriser le lien social entre seniors et enfants en situation de handicap.",
-        "solution_envisagee": "Organisation d'ateliers artistiques pour créer un spectacle de marionnettes, permettant ainsi des rencontres intergénérationnelles et la valorisation du rôle des seniors dans l'éducation des enfants.",
-        "objectifs": [
-            "Permettre des rencontres intergénérationnelles",
-            "Lutter contre les préjugés",
-            "Créer et favoriser le lien social",
-            "Favoriser la créativité et solliciter l'imaginaire des participants"
-        ]
-    },
-    "porteur_initiative": "Service municipal des retraités de la Ville de Vaulx-en-Velin",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_PartAge_Entre_seniors_et_enfants_en_situation_de_handicap.txt",
-    "nom_fichier": "Ateliers_PartAge_Entre_seniors_et_enfants_en_situation_de_handicap.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ateliers Part'Âge Entre seniors et enfants en situation de handicap",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette initiative vise à favoriser la rencontre et le lien social entre seniors et enfants en situation de handicap, en organisant des ateliers artistiques.",
+    "contexte": "Les personnes âgées ont peur de commettre des maladresses face aux enfants lors d'ateliers intergénérationnels.",
+    "problematique": "Lutter contre les préjugés et favoriser le lien social entre seniors et enfants en situation de handicap.",
+    "solution_envisagee": "Organisation d'ateliers artistiques pour créer un spectacle de marionnettes, permettant ainsi des rencontres intergénérationnelles et la valorisation du rôle des seniors dans l'éducation des enfants.",
+    "objectifs": [
+      "Permettre des rencontres intergénérationnelles",
+      "Lutter contre les préjugés",
+      "Créer et favoriser le lien social",
+      "Favoriser la créativité et solliciter l'imaginaire des participants"
+    ]
+  },
+  "porteur_initiative": "Service municipal des retraités de la Ville de Vaulx-en-Velin",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_PartAge_Entre_seniors_et_enfants_en_situation_de_handicap.txt",
+  "nom_fichier": "Ateliers_PartAge_Entre_seniors_et_enfants_en_situation_de_handicap.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/559-559-part-ages.pdf",
+  "original_title": "Ateliers Part’Âge Entre seniors et enfants en situation de handicap",
+  "collection_date": ""
 }

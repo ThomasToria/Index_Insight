@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Prototype de l'annuaire des initiatives de la Chaire SIAGE." />
+    <title>Annuaire des initiatives — Chaire SIAGE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Chaire internationale SIAGE, accueil">
+        <img src="assets/logo-siage.png" alt="Chaire internationale SIAGE" />
+      </a>
+      <nav aria-label="Navigation principale">
+        <a class="active" href="#initiatives">Initiatives</a>
+        <a href="territoires.html">Territoires</a>
+        <a href="themes.html">Thèmes</a>
+        <a href="a-propos.html">À propos</a>
+        <a href="ressources.html">Ressources</a>
+      </nav>
+      <button class="bookmark" type="button" aria-label="Voir mes initiatives enregistrées" title="Mes favoris">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 4.5a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v15l-5.5-3.4-5.5 3.4v-15Z"/></svg>
+      </button>
+    </header>
+
+    <main id="top">
+      <section class="intro" id="initiatives" aria-labelledby="page-title">
+        <div class="intro-hero">
+          <div>
+            <p class="eyebrow">Ressource SIAGE</p>
+            <h1 id="page-title">Initiatives</h1>
+            <p class="intro-copy">Découvrez et explorez les initiatives qui répondent aux défis sociaux, environnementaux et territoriaux.</p>
+          </div>
+          <aside class="territory-map" aria-labelledby="map-title">
+            <div class="map-heading">
+              <div>
+                <p class="map-kicker">Explorer par territoire</p>
+                <h2 id="map-title">Initiatives localisées</h2>
+              </div>
+              <span class="map-total" id="map-total"></span>
+            </div>
+            <div class="map-canvas">
+              <svg id="france-map" viewBox="0 0 360 300" role="img" aria-label="Carte interactive de la France métropolitaine avec les initiatives localisées"></svg>
+              <div class="map-tooltip" id="map-tooltip" role="status" aria-live="polite" hidden></div>
+            </div>
+            <p class="map-note">Cliquez pour l’agrandir · défilez pour zoomer.</p>
+          </aside>
+        </div>
+
+        <div class="search-row">
+          <label class="search-field" for="initiative-search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.2"/><path d="m16 16 4.2 4.2"/></svg>
+            <input id="initiative-search" type="search" placeholder="Rechercher une initiative" autocomplete="off" />
+          </label>
+          <button class="filter-toggle" id="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg>
+            Filtres
+          </button>
+        </div>
+
+        <div class="filter-panel" id="filter-panel" hidden>
+          <fieldset>
+            <legend>Thématique</legend>
+            <div class="theme-options" id="theme-options"></div>
+          </fieldset>
+          <label>Territoire
+            <select id="territory-filter">
+              <option value="">Tous les territoires</option>
+            </select>
+          </label>
+          <label>Source
+            <select id="status-filter">
+              <option value="">Toutes les sources</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="quick-filters" aria-label="Filtres rapides">
+          <button type="button" class="quick-filter" data-action="open-filter">Thème <span>⌄</span></button>
+          <button type="button" class="quick-filter" data-action="open-filter">Territoire <span>⌄</span></button>
+          <button type="button" class="quick-filter" data-action="open-filter">Source <span>⌄</span></button>
+          <button type="button" class="reset" id="reset-filters">Réinitialiser les filtres</button>
+        </div>
+      </section>
+
+      <section class="directory" aria-label="Résultats de l'annuaire">
+        <div class="results-toolbar">
+          <p id="result-count" aria-live="polite"></p>
+          <label class="sort-control">Trier par :
+            <select id="sort-select">
+              <option value="relevance">Pertinence</option>
+              <option value="recent">Plus récent</option>
+              <option value="alpha">A–Z</option>
+            </select>
+          </label>
+        </div>
+        <div class="initiative-grid" id="initiative-grid"></div>
+        <p class="empty-state" id="empty-state" hidden>Aucune initiative ne correspond à ces filtres.</p>
+        <button class="load-more" id="load-more" type="button">Charger plus d’initiatives <span>⌄</span></button>
+      </section>
+    </main>
+
+    <template id="initiative-card-template">
+      <article class="initiative-card">
+        <div class="card-illustration" aria-hidden="true"></div>
+        <div class="card-content">
+          <h2></h2>
+          <p class="summary"></p>
+          <div class="tags"></div>
+          <div class="card-footer"><span class="place"></span><span class="status"><i></i><span></span></span></div>
+        </div>
+      </article>
+    </template>
+    <dialog class="map-dialog" id="map-dialog" aria-labelledby="map-dialog-title">
+      <div class="dialog-header">
+        <div>
+          <p class="map-kicker">Explorer par territoire</p>
+          <h2 id="map-dialog-title">Carte des initiatives</h2>
+        </div>
+        <div class="map-actions" aria-label="Contrôles de la carte">
+          <button id="zoom-in" type="button" aria-label="Agrandir la carte">+</button>
+          <button id="zoom-out" type="button" aria-label="Réduire la carte">−</button>
+          <button id="zoom-reset" type="button">Réinitialiser</button>
+          <button id="map-close" class="map-close" type="button">Fermer</button>
+        </div>
+      </div>
+      <div class="dialog-map-canvas">
+        <svg id="france-map-expanded" viewBox="0 0 760 520" role="img" aria-label="Carte agrandie de la France métropolitaine avec les initiatives localisées"></svg>
+        <div class="map-tooltip" id="expanded-map-tooltip" role="status" aria-live="polite" hidden></div>
+      </div>
+      <p class="map-note">Défilez pour zoomer, glissez pour vous déplacer, puis sélectionnez un point pour filtrer les initiatives.</p>
+    </dialog>
+    <script src="assets/d3.min.js"></script>
+    <script src="assets/france-regions.js"></script>
+    <script src="assets/initiatives.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

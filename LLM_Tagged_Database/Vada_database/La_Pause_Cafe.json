@@ -1,32 +1,44 @@
 {
-    "titre": "La Pause Café",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Une pause-café hebdomadaire organisée dans la commune pour renforcer les liens sociaux et diffuser de l'information.",
-        "contexte": "Commune dispose d'un lieu pour jeunes enfants, mais aucun temps fixe n'était dédié aux seniors. Le projet vise à créer un moment régulier de convivialité et d'échanges entre seniors.",
-        "problematique": "Renforcer le lien social et la convivialité",
-        "solution_envisagee": "Une pause-café hebdomadaire organisée dans la commune pour offrir un temps régulier de convivialité et d’échanges entre seniors, permettant également de diffuser de l’information.",
-        "objectifs": [
-            "Renforcer le lien social et la convivialité",
-            "Diffuser de l'information"
-        ]
-    },
-    "porteur_initiative": "Association Chauvé-Seniors",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Pause_Cafe.txt",
-    "nom_fichier": "La_Pause_Cafe.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Pause Café",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Une pause-café hebdomadaire organisée dans la commune pour renforcer les liens sociaux et diffuser de l'information.",
+    "contexte": "Commune dispose d'un lieu pour jeunes enfants, mais aucun temps fixe n'était dédié aux seniors. Le projet vise à créer un moment régulier de convivialité et d'échanges entre seniors.",
+    "problematique": "Renforcer le lien social et la convivialité",
+    "solution_envisagee": "Une pause-café hebdomadaire organisée dans la commune pour offrir un temps régulier de convivialité et d’échanges entre seniors, permettant également de diffuser de l’information.",
+    "objectifs": [
+      "Renforcer le lien social et la convivialité",
+      "Diffuser de l'information"
+    ]
+  },
+  "porteur_initiative": "Association Chauvé-Seniors",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Pause_Cafe.txt",
+  "nom_fichier": "La_Pause_Cafe.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-La-Pause-Cafe.pdf",
+  "original_title": "La Pause Café",
+  "collection_date": ""
 }

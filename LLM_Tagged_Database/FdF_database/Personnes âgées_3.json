@@ -1,33 +1,43 @@
 {
-    "titre": "Initiative Personnes âgées",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Cette initiative vise à sensibiliser les personnes âgées et aux troubles cognitifs à l'accompagnement des autres.",
-        "contexte": "Les personnes âgées et aux troubles cognitifs peuvent être isolés et désorientés, ce qui peut causer de graves problèmes sociaux et familiaux. Ces initiatives visent à améliorer leur qualité de vie et à les aider à mieux communiquer avec les autres.",
-        "problematique": "Le besoin d'améliorer la communication entre les personnes âgées et aux troubles cognitifs, leurs proches et la société civile pour renforcer les liens sociaux et valoriser leur mémoire et place dans la vie locale.",
-        "solution_envisagee": "Cette initiative propose des ateliers intergénérationnels qui visent à sensibiliser les personnes âgées aux troubles cognitifs, à leurs besoins spécifiques et à l'importance de communiquer efficacement. Les participants apprendront également comment aider les autres dans la résolution de problèmes.",
-        "objectifs": [
-            "Améliorer la communication entre les personnes âgées et aux troubles cognitifs",
-            "Renforcer les liens sociaux entre les personnes âgées, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "services et accompagnement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées_3.txt",
-    "nom_fichier": "Personnes âgées_3.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Initiative Personnes âgées",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Cette initiative vise à sensibiliser les personnes âgées et aux troubles cognitifs à l'accompagnement des autres.",
+    "contexte": "Les personnes âgées et aux troubles cognitifs peuvent être isolés et désorientés, ce qui peut causer de graves problèmes sociaux et familiaux. Ces initiatives visent à améliorer leur qualité de vie et à les aider à mieux communiquer avec les autres.",
+    "problematique": "Le besoin d'améliorer la communication entre les personnes âgées et aux troubles cognitifs, leurs proches et la société civile pour renforcer les liens sociaux et valoriser leur mémoire et place dans la vie locale.",
+    "solution_envisagee": "Cette initiative propose des ateliers intergénérationnels qui visent à sensibiliser les personnes âgées aux troubles cognitifs, à leurs besoins spécifiques et à l'importance de communiquer efficacement. Les participants apprendront également comment aider les autres dans la résolution de problèmes.",
+    "objectifs": [
+      "Améliorer la communication entre les personnes âgées et aux troubles cognitifs",
+      "Renforcer les liens sociaux entre les personnes âgées, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées_3.txt",
+  "nom_fichier": "Personnes âgées_3.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/tag-pa?start=40",
+  "original_title": "Personnes âgées",
+  "collection_date": ""
 }

@@ -1,31 +1,40 @@
 {
-    "titre": "Mes pantoufles attendront",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "L’initiative visait à valoriser les seniors en véhiculant une image positive du vieillissement.",
-        "contexte": "La Semaine Bleue 2017 a permis de mettre en lumière des seniors dans leur vie quotidienne, illustrant ainsi un aspect positif du vieillissement.",
-        "problematique": "Lutter contre les idées reçues et les stéréotypes concernant les personnes âgées",
-        "solution_envisagee": "Organiser une exposition de photos encadrées en format A3, présentée dans différents lieux municipaux pour valoriser les seniors.",
-        "objectifs": [
-            "Lutter contre les idées reçues et les stéréotypes concernant les personnes âgées",
-            "Valoriser les seniors en véhiculant une image positive du vieillissement"
-        ]
-    },
-    "porteur_initiative": "Vaulx-en-Velin (69)",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mes_pantoufles_attendront.txt",
-    "nom_fichier": "Mes_pantoufles_attendront.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mes pantoufles attendront",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "L’initiative visait à valoriser les seniors en véhiculant une image positive du vieillissement.",
+    "contexte": "La Semaine Bleue 2017 a permis de mettre en lumière des seniors dans leur vie quotidienne, illustrant ainsi un aspect positif du vieillissement.",
+    "problematique": "Lutter contre les idées reçues et les stéréotypes concernant les personnes âgées",
+    "solution_envisagee": "Organiser une exposition de photos encadrées en format A3, présentée dans différents lieux municipaux pour valoriser les seniors.",
+    "objectifs": [
+      "Lutter contre les idées reçues et les stéréotypes concernant les personnes âgées",
+      "Valoriser les seniors en véhiculant une image positive du vieillissement"
+    ]
+  },
+  "porteur_initiative": "Vaulx-en-Velin (69)",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mes_pantoufles_attendront.txt",
+  "nom_fichier": "Mes_pantoufles_attendront.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/475-475-mes-pantoufles-attendront.pdf",
+  "original_title": "Mes pantoufles attendront",
+  "collection_date": ""
 }

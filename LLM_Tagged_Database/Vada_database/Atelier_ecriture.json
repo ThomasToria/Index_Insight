@@ -1,32 +1,41 @@
 {
-    "titre": "Atelier écriture",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un atelier régulier hebdomadaire a été mis en place au CCAS de Biot, commune de la région Auvergne-Rhône-Alpes, depuis 2008 pour favoriser le lien social et l'entraide entre seniors.",
-        "contexte": "",
-        "problematique": "Renforcement des liens sociaux et d'intégration sociale",
-        "solution_envisagee": "Atelier hebdomadaire de création de textes, valorisation publique et participation citoyenne",
-        "objectifs": [
-            "Favoriser le lien social",
-            "Promouvoir l'entraide entre seniors",
-            "Stimuler la production de textes"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2008"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_ecriture.txt",
-    "nom_fichier": "Atelier_ecriture.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier écriture",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un atelier régulier hebdomadaire a été mis en place au CCAS de Biot, commune de la région Auvergne-Rhône-Alpes, depuis 2008 pour favoriser le lien social et l'entraide entre seniors.",
+    "contexte": "",
+    "problematique": "Renforcement des liens sociaux et d'intégration sociale",
+    "solution_envisagee": "Atelier hebdomadaire de création de textes, valorisation publique et participation citoyenne",
+    "objectifs": [
+      "Favoriser le lien social",
+      "Promouvoir l'entraide entre seniors",
+      "Stimuler la production de textes"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2008"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_ecriture.txt",
+  "nom_fichier": "Atelier_ecriture.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Atelier-ecriture.pdf",
+  "original_title": "Atelier écriture",
+  "collection_date": ""
 }

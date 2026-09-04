@@ -1,0 +1,4 @@
+﻿exact_match_rate;f1_macro;f1_micro;field;method;n_annotated;precision_micro;recall_micro
+0.283;0.179;0.283;public_vise;rule_based;60;0.283;0.283
+0.15;0.263;0.386;echelle;rule_based;60;0.347;0.436
+0.55;0.567;0.569;nature_initiative;rule_based;60;0.589;0.55

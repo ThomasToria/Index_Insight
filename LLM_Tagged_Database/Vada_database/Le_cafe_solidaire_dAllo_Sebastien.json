@@ -1,33 +1,45 @@
 {
-    "titre": "Le café solidaire d'Allo Sébastien",
-    "territoire": "Saint-Sébastien-sur-Loire, 44",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La ville de Saint Sébastien s'urbanise de plus en plus et les liens sociaux se distendent entre les habitants. Les personnes âgées et les personnes en situation de handicap sont de plus en plus isolées et ne sollicitent pas toujours leurs voisins. Allo Sébastien a créé un café solidaire dans le but de développer l'entraide intergénérationnelle de proximité.",
-        "contexte": "La ville de Saint-Sébastien-sur-Loire s'est vu confier la Ville Amie des Aînés en France par Villes Amies des Aînés en France. Cette initiative vise à favoriser le 'bien vieillir' en soutenant le lien social et les dynamiques de vie des aînés, lutter contre l'isolement et le sentiment d'ennui et d'inutilité.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un café solidaire organisé tous les vendredi matins sur le marché communal à Saint-Sébastien-sur-Loire. Ce lieu de rencontre permet aux habitants de venir prendre un café pendant ou après leurs courses, ainsi qu'à des repas partagés.",
-        "objectifs": [
-            "Favoriser l'entraide intergénérationnelle",
-            "Renforcer les liens sociaux entre les résidents de l’EHPAD et leur entourage",
-            "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Allo Sébastien, une association de quartier",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cafe_solidaire_dAllo_Sebastien.txt",
-    "nom_fichier": "Le_cafe_solidaire_dAllo_Sebastien.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le café solidaire d'Allo Sébastien",
+  "territoire": [
+    "saint-sébastien-sur-loire, 44"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La ville de Saint Sébastien s'urbanise de plus en plus et les liens sociaux se distendent entre les habitants. Les personnes âgées et les personnes en situation de handicap sont de plus en plus isolées et ne sollicitent pas toujours leurs voisins. Allo Sébastien a créé un café solidaire dans le but de développer l'entraide intergénérationnelle de proximité.",
+    "contexte": "La ville de Saint-Sébastien-sur-Loire s'est vu confier la Ville Amie des Aînés en France par Villes Amies des Aînés en France. Cette initiative vise à favoriser le 'bien vieillir' en soutenant le lien social et les dynamiques de vie des aînés, lutter contre l'isolement et le sentiment d'ennui et d'inutilité.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un café solidaire organisé tous les vendredi matins sur le marché communal à Saint-Sébastien-sur-Loire. Ce lieu de rencontre permet aux habitants de venir prendre un café pendant ou après leurs courses, ainsi qu'à des repas partagés.",
+    "objectifs": [
+      "Favoriser l'entraide intergénérationnelle",
+      "Renforcer les liens sociaux entre les résidents de l’EHPAD et leur entourage",
+      "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Allo Sébastien, une association de quartier",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cafe_solidaire_dAllo_Sebastien.txt",
+  "nom_fichier": "Le_cafe_solidaire_dAllo_Sebastien.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/800-concours2022-22-allo-sebastien.pdf",
+  "original_title": "Le café solidaire d'Allo Sébastien",
+  "collection_date": ""
 }

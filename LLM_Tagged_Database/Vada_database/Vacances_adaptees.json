@@ -1,32 +1,44 @@
 {
-    "titre": "Vacances adaptées",
-    "territoire": "Saint-Max (54)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Le projet est un séjour pour les seniors Maxois de plus de 75 ans, aussi appelés les grands seniors. Il a pour objectif de favoriser et de garder du lien social et culturel pour les grands seniors lors d'un voyage spécifiquement élaboré selon leur besoins et leurs attentes.",
-        "contexte": "Les seniors Maxois étaient moins présent dans les événements municipaux, ce qui était due à leur motricité limitée. Le projet est né pour permettre aux grands seniors de partir en vacances.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un séjour vacances adapté pour favoriser le lien social et culturel des seniors Maxois.",
-        "objectifs": [
-            "Favoriser les liens sociaux et culturels entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "OMSI (Office Municipal Solidarité Intergénérationnelle) et Mme HINSINGER, adjointe aux seniors",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_adaptees.txt",
-    "nom_fichier": "Vacances_adaptees.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Vacances adaptées",
+  "territoire": [
+    "saint-max (54)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Le projet est un séjour pour les seniors Maxois de plus de 75 ans, aussi appelés les grands seniors. Il a pour objectif de favoriser et de garder du lien social et culturel pour les grands seniors lors d'un voyage spécifiquement élaboré selon leur besoins et leurs attentes.",
+    "contexte": "Les seniors Maxois étaient moins présent dans les événements municipaux, ce qui était due à leur motricité limitée. Le projet est né pour permettre aux grands seniors de partir en vacances.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un séjour vacances adapté pour favoriser le lien social et culturel des seniors Maxois.",
+    "objectifs": [
+      "Favoriser les liens sociaux et culturels entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "OMSI (Office Municipal Solidarité Intergénérationnelle) et Mme HINSINGER, adjointe aux seniors",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_adaptees.txt",
+  "nom_fichier": "Vacances_adaptees.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/995-concours-2023-vacances-adaptees.pdf",
+  "original_title": "Vacances adaptées",
+  "collection_date": ""
 }

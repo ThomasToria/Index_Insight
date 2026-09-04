@@ -1,34 +1,42 @@
 {
-    "titre": "Recréer du lien social et renforcer la solidarité vis-à-vis des personnes âgées",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "L'association mise en place dans la Ville de Blagnac s'est donnée pour mission l’accompagnement des publics fragilisés: personnes âgées seules, isolées, malades, handicapées, en perte d’autonomie, en situation précaire, en difficulté passagère ou pérenne...",
-        "contexte": "En janvier 2012 le projet du RSSB est présenté aux associations locales par un comité de pilotage composé d’élus blagnacais et de la Fédération des Femmes pour l’Europe. Une phase de concertation et de réflexion est lancée avec l’implication de futurs bénévoles. De septembre à décembre 2012 est mise en place l'élaboration, la diffusion et l'analyse d'un questionnaire afin de cibler les besoins des bénéficiaires. Les résultats sont analysés et permettent de mettre en lumière les besoins de la population.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "En aidant les personnes sur une durée plus ou moins longue, sous forme d’une aide ponctuelle ou régulière ou en les aidant à se réinscrire dans des cercles dédiés aux activités de leur choix, les bénévoles du Réseau Social Solidaire de Blagnac proposent de répondre à un besoin qui n’était jusque là pas couvert sur le territoire.",
-        "objectifs": [
-            "renforcer la solidarité vis-à-vis des personnes âgées",
-            "créer un lien social et renforcer la solidarité vis-à-vis des personnes âgées"
-        ]
-    },
-    "porteur_initiative": "L’association mise en place dans la Ville de Blagnac",
-    "date": [
-        "2012",
-        "janvier 2012",
-        "décembre 2012"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Recreer_du_lien_social_et_renforcer_la_solidarite_vis-a-vis_des_personnes_agees.txt",
-    "nom_fichier": "Recreer_du_lien_social_et_renforcer_la_solidarite_vis-a-vis_des_personnes_agees.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Recréer du lien social et renforcer la solidarité vis-à-vis des personnes âgées",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "L'association mise en place dans la Ville de Blagnac s'est donnée pour mission l’accompagnement des publics fragilisés: personnes âgées seules, isolées, malades, handicapées, en perte d’autonomie, en situation précaire, en difficulté passagère ou pérenne...",
+    "contexte": "En janvier 2012 le projet du RSSB est présenté aux associations locales par un comité de pilotage composé d’élus blagnacais et de la Fédération des Femmes pour l’Europe. Une phase de concertation et de réflexion est lancée avec l’implication de futurs bénévoles. De septembre à décembre 2012 est mise en place l'élaboration, la diffusion et l'analyse d'un questionnaire afin de cibler les besoins des bénéficiaires. Les résultats sont analysés et permettent de mettre en lumière les besoins de la population.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "En aidant les personnes sur une durée plus ou moins longue, sous forme d’une aide ponctuelle ou régulière ou en les aidant à se réinscrire dans des cercles dédiés aux activités de leur choix, les bénévoles du Réseau Social Solidaire de Blagnac proposent de répondre à un besoin qui n’était jusque là pas couvert sur le territoire.",
+    "objectifs": [
+      "renforcer la solidarité vis-à-vis des personnes âgées",
+      "créer un lien social et renforcer la solidarité vis-à-vis des personnes âgées"
+    ]
+  },
+  "porteur_initiative": "L’association mise en place dans la Ville de Blagnac",
+  "date": [
+    "2012"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Recreer_du_lien_social_et_renforcer_la_solidarite_vis-a-vis_des_personnes_agees.txt",
+  "nom_fichier": "Recreer_du_lien_social_et_renforcer_la_solidarite_vis-a-vis_des_personnes_agees.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/253-pe-blagnac-rss-mise-en-forme-2023.pdf",
+  "original_title": "Recréer du lien social et renforcer la solidarité vis-à-vis des personnes âgées",
+  "collection_date": ""
 }

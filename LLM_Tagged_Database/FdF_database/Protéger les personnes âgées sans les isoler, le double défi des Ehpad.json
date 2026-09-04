@@ -1,29 +1,39 @@
 {
-    "titre": "Protéger les personnes âgées sans les isoler: un double défi des Ehpad",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les défis spécifiques aux personnes âgées lors du confinement, en particulier dans les Ehpad.",
-        "contexte": "",
-        "problematique": "Le besoin de trouver un équilibre entre la protection des résidents contre le virus et leur maintien social durant le confinement.",
-        "solution_envisagee": "Une enquête menée auprès des responsables d’Ehpad pour comprendre les difficultés rencontrées par les résidents dans le cadre du confinement.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Vincent Rousselet, directeur de l'Ehpad Pierre et Marie Curie en Ille-et-Vilaine",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Protéger les personnes âgées sans les isoler, le double défi des Ehpad.txt",
-    "nom_fichier": "Protéger les personnes âgées sans les isoler, le double défi des Ehpad.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Protéger les personnes âgées sans les isoler: un double défi des Ehpad",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les défis spécifiques aux personnes âgées lors du confinement, en particulier dans les Ehpad.",
+    "contexte": "",
+    "problematique": "Le besoin de trouver un équilibre entre la protection des résidents contre le virus et leur maintien social durant le confinement.",
+    "solution_envisagee": "Une enquête menée auprès des responsables d’Ehpad pour comprendre les difficultés rencontrées par les résidents dans le cadre du confinement.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Vincent Rousselet, directeur de l'Ehpad Pierre et Marie Curie en Ille-et-Vilaine",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Protéger les personnes âgées sans les isoler, le double défi des Ehpad.txt",
+  "nom_fichier": "Protéger les personnes âgées sans les isoler, le double défi des Ehpad.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-agees/proteger-les-personnes-agees-sans-les-isoler-le-double-defi-des-ehpad",
+  "original_title": "Protéger les personnes âgées sans les isoler, le double défi des Ehpad",
+  "collection_date": ""
 }

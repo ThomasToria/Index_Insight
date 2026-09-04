@@ -1,33 +1,45 @@
 {
-    "titre": "Debout les Aînés: une enquête pour améliorer la qualité de vie des séniors",
-    "territoire": "régionale",
-    "echelle": [
-        "communale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Une enquête inédite lancée par l'association Debout les Aînés pour améliorer la qualité de vie des seniors.",
-        "contexte": "Les séniors représentent 25% de la population française, mais leur voix ne se fait pas entendre dans le débat public. Ils sont en croissance et devraient représenter une part plus importante de la population à court terme.",
-        "problematique": "Le besoin de mieux comprendre les besoins et attentes des seniors pour améliorer leur qualité de vie.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Recueillir la parole de 600 à 1000 aînés de la région",
-            "Présenter ces résultats aux élus avec l'ambition d'inclure davantage les seniors dans les instances de décision locales et favoriser des politiques adaptées à leur réalité."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.txt",
-    "nom_fichier": "Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Debout les Aînés: une enquête pour améliorer la qualité de vie des séniors",
+  "territoire": [
+    "régionale"
+  ],
+  "echelle": [
+    "communale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Une enquête inédite lancée par l'association Debout les Aînés pour améliorer la qualité de vie des seniors.",
+    "contexte": "Les séniors représentent 25% de la population française, mais leur voix ne se fait pas entendre dans le débat public. Ils sont en croissance et devraient représenter une part plus importante de la population à court terme.",
+    "problematique": "Le besoin de mieux comprendre les besoins et attentes des seniors pour améliorer leur qualité de vie.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Recueillir la parole de 600 à 1000 aînés de la région",
+      "Présenter ces résultats aux élus avec l'ambition d'inclure davantage les seniors dans les instances de décision locales et favoriser des politiques adaptées à leur réalité."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.txt",
+  "nom_fichier": "Debout les Aînés une enquête pour améliorer la qualité de vie des séniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/debout-les-aines-une-enquete-pour-ameliorer-la-qualite-de-vie-des-seniors",
+  "original_title": "Debout les Aînés : une enquête pour améliorer la qualité de vie des séniors",
+  "collection_date": ""
 }

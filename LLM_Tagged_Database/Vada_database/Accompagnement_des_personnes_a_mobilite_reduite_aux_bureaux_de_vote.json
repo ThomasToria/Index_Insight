@@ -1,31 +1,43 @@
 {
-    "titre": "Accompagnement des personnes à mobilité réduite aux bureaux de vote",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "La Ville a mis en place un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant ainsi aux habitants de continuer à accomplir leur devoir civique.",
-        "contexte": "Les personnes âgées peuvent rencontrer des difficultés à se rendre aux bureaux de vote, notamment en raison de la mobilité réduite. Cela peut freiner l'exercice des droits et des obligations citoyennes.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant aux habitants de continuer à accomplir leur devoir civique.",
-        "objectifs": [
-            "Permettre aux personnes âgées qui éprouvent des difficultés à se déplacer d'accomplir leurs droits et devoirs civiques."
-        ]
-    },
-    "porteur_initiative": "Maison des seniors (MDS) et CCAS",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",
-    "nom_fichier": "Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accompagnement des personnes à mobilité réduite aux bureaux de vote",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "La Ville a mis en place un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant ainsi aux habitants de continuer à accomplir leur devoir civique.",
+    "contexte": "Les personnes âgées peuvent rencontrer des difficultés à se rendre aux bureaux de vote, notamment en raison de la mobilité réduite. Cela peut freiner l'exercice des droits et des obligations citoyennes.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un service de transport et d'accompagnement pour les personnes âgées isolées dans l’incapacité de se déplacer par leurs propres moyens, permettant aux habitants de continuer à accomplir leur devoir civique.",
+    "objectifs": [
+      "Permettre aux personnes âgées qui éprouvent des difficultés à se déplacer d'accomplir leurs droits et devoirs civiques."
+    ]
+  },
+  "porteur_initiative": "Maison des seniors (MDS) et CCAS",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",
+  "nom_fichier": "Accompagnement_des_personnes_a_mobilite_reduite_aux_bureaux_de_vote.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/410-410-accompagnement-vote.pdf",
+  "original_title": "Accompagnement des personnes à mobilité réduite aux bureaux de vote",
+  "collection_date": ""
 }

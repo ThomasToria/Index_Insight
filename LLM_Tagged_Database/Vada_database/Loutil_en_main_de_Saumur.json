@@ -1,33 +1,45 @@
 {
-    "titre": "L'outil en main de Saumur",
-    "territoire": "Commune: Saumur",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Initiation des jeunes dès l'âge de neuf ans aux métiers manuels, par des gens de métier, artisans ou ouvriers qualifiés, bénévoles à la retraite.",
-        "contexte": "Les ateliers sont un lieu de rassemblement et d'échanges entre jeunes et seniors pour valoriser les métiers manuels artisanaux et lier les générations.",
-        "problematique": "Renforcer le lien social, valoriser les métiers manuels, et favoriser la transmission des savoirs aux jeunes générations.",
-        "solution_envisagee": "Organisation d'ateliers de fabrication avec des outils réels, permettant à l'enfant de fabriquer des objets qu'il aura le plaisir de rapporter à sa maison.",
-        "objectifs": [
-            "Renforcer les liens entre jeunes et seniors",
-            "Valoriser les métiers manuels artisanaux",
-            "Favoriser la transmission des savoirs aux jeunes générations"
-        ]
-    },
-    "porteur_initiative": "Association l'outil en main",
-    "date": [
-        "depuis 1987"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Loutil_en_main_de_Saumur.txt",
-    "nom_fichier": "Loutil_en_main_de_Saumur.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'outil en main de Saumur",
+  "territoire": [
+    "saumur"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Initiation des jeunes dès l'âge de neuf ans aux métiers manuels, par des gens de métier, artisans ou ouvriers qualifiés, bénévoles à la retraite.",
+    "contexte": "Les ateliers sont un lieu de rassemblement et d'échanges entre jeunes et seniors pour valoriser les métiers manuels artisanaux et lier les générations.",
+    "problematique": "Renforcer le lien social, valoriser les métiers manuels, et favoriser la transmission des savoirs aux jeunes générations.",
+    "solution_envisagee": "Organisation d'ateliers de fabrication avec des outils réels, permettant à l'enfant de fabriquer des objets qu'il aura le plaisir de rapporter à sa maison.",
+    "objectifs": [
+      "Renforcer les liens entre jeunes et seniors",
+      "Valoriser les métiers manuels artisanaux",
+      "Favoriser la transmission des savoirs aux jeunes générations"
+    ]
+  },
+  "porteur_initiative": "Association l'outil en main",
+  "date": [
+    "1987"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Loutil_en_main_de_Saumur.txt",
+  "nom_fichier": "Loutil_en_main_de_Saumur.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/773-concours-2022-38-outil-en-main-versailles-2.pdf",
+  "original_title": "L'outil en main de Saumur",
+  "collection_date": ""
 }

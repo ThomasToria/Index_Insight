@@ -1,35 +1,47 @@
 {
-    "titre": "Bal de la Saint Nic'",
-    "territoire": "Commune: Nancy (54)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un karaoké intergénérationnel organisé à l'occasion du Bal de la Saint-Nicolas dans une ambiance festive et musicale.",
-        "contexte": "La Ville de Nancy a poursuivi le projet en rendant l'action intergénérationnelle et participative avec du karaoké, professionnalisant ainsi avec la participation d'étudiants stagiaires de la Music Academy International.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un karaoké intergénérationnel organisé à l'occasion du Bal de la Saint-Nicolas avec des élèves de la Music Academy International.",
-        "objectifs": [
-            "Réunir les jeunes artistes",
-            "Créer du lien social",
-            "Encourager l'échange intergénérationnel",
-            "Participer à des animations collectives"
-        ]
-    },
-    "porteur_initiative": "VillesAM",
-    "date": [
-        "2017",
-        "2018"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bal_de_la_Saint_Nic.txt",
-    "nom_fichier": "Bal_de_la_Saint_Nic.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bal de la Saint Nic'",
+  "territoire": [
+    "nancy (54)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un karaoké intergénérationnel organisé à l'occasion du Bal de la Saint-Nicolas dans une ambiance festive et musicale.",
+    "contexte": "La Ville de Nancy a poursuivi le projet en rendant l'action intergénérationnelle et participative avec du karaoké, professionnalisant ainsi avec la participation d'étudiants stagiaires de la Music Academy International.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un karaoké intergénérationnel organisé à l'occasion du Bal de la Saint-Nicolas avec des élèves de la Music Academy International.",
+    "objectifs": [
+      "Réunir les jeunes artistes",
+      "Créer du lien social",
+      "Encourager l'échange intergénérationnel",
+      "Participer à des animations collectives"
+    ]
+  },
+  "porteur_initiative": "VillesAM",
+  "date": [
+    "2017",
+    "2018"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bal_de_la_Saint_Nic.txt",
+  "nom_fichier": "Bal_de_la_Saint_Nic.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/660-pe-528-bal-de-la-saint-nic-nancy.pdf",
+  "original_title": "Bal de la Saint Nic’",
+  "collection_date": ""
 }

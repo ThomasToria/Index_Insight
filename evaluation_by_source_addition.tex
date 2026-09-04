@@ -1,0 +1,50 @@
+% Insert this subsection immediately after Table~\ref{tab:llm-judgment-results}
+% and before \section{Results analysis and limitations}.
+
+\subsection{Exploratory source-level analysis}
+
+Because the reference sample contains ten documents from each source, the same
+annotations can be inspected by source to identify possible sensitivity to
+documentary format. This analysis is exploratory: ten documents per source are
+not sufficient to estimate a stable source-specific performance level, and the
+results should therefore be read as diagnostic evidence rather than as a ranking
+of sources.
+
+Target audience, initiative type, and theme were fully accepted in all six
+source subsets. Territorial scale was also fully correct for five sources. The
+only exception was Fondation de France, for which one expected scale label was
+missed, resulting in an F1 score of 0.957. Table~\ref{tab:llm-source-results}
+focuses on the fields for which source-dependent variation is most informative.
+For territory, holder, and date, the notation $a/b$ gives the number of accepted
+predictions over evaluable documents; ``--'' indicates that no document was
+evaluable for that field.
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{lrrrr}
+\toprule
+Source & Scale F1 & Territory & Holder & Date \\
+\midrule
+CNAV & 1.000 & 8/9 (0.889) & 10/10 (1.000) & 4/8 (0.500) \\
+Fiches actions SIAGE & 1.000 & 10/10 (1.000) & 8/9 (0.889) & 8/10 (0.800) \\
+Fondation de France & 0.957 & 8/8 (1.000) & 7/7 (1.000) & 8/8 (1.000) \\
+HCFEA & 1.000 & 9/9 (1.000) & 2/2 (1.000) & 9/10 (0.900) \\
+IReSP Autonomie & 1.000 & 8/8 (1.000) & -- & 9/10 (0.900) \\
+RFVAA & 1.000 & 10/10 (1.000) & 10/10 (1.000) & 6/10 (0.600) \\
+\bottomrule
+\end{tabular}
+\caption{Exploratory source-level results from the stratified reference sample.
+Territory, holder, and date are reported as accepted predictions over evaluable
+documents, followed by the accepted rate.}
+\label{tab:llm-source-results}
+\end{table}
+
+The results suggest that date extraction is particularly dependent on source
+format. The accepted date rate ranges from 0.500 for CNAV to 1.000 for
+Fondation de France, with RFVAA also showing a lower rate of 0.600. This is
+consistent with the different roles of temporal expressions in the sources:
+they may describe an initiative, an event, a publication, or an update to a
+document. The IReSP holder field was non-evaluable in all ten sampled records,
+which reflects the frequent absence of a clearly identifiable initiative holder
+in research-project descriptions rather than a measured model failure.

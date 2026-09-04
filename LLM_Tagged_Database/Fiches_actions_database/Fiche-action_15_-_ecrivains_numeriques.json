@@ -1,30 +1,42 @@
 {
-    "titre": "",
-    "territoire": "Moselle",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Accompagner à travers des « Écrivains publics numériques »",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Élargir l’offre d’« écrivains publics numériques » – personnes qui ont passé une formation spécifique, voire créer des écrivains publics numériques spécialisés pour les seniors et faire connaître ces professionnels auprès du public.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_15_-_ecrivains_numeriques.txt",
-    "nom_fichier": "Fiche-action_15_-_ecrivains_numeriques.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Fiche-action 15 - écrivains numériques",
+  "territoire": [
+    "moselle"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Accompagner à travers des « Écrivains publics numériques »",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Élargir l’offre d’« écrivains publics numériques » – personnes qui ont passé une formation spécifique, voire créer des écrivains publics numériques spécialisés pour les seniors et faire connaître ces professionnels auprès du public.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_15_-_ecrivains_numeriques.txt",
+  "nom_fichier": "Fiche-action_15_-_ecrivains_numeriques.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 15 - écrivains numériques.pdf",
+  "collection_date": ""
 }

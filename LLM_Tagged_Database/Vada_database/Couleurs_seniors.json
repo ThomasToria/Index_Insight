@@ -1,32 +1,44 @@
 {
-    "titre": "Couleurs seniors",
-    "territoire": "Saint-Priest (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un magazine trimestriel d'informations pour les retraités de la commune de Saint-Priest.",
-        "contexte": "Le diagnostic vieillissement réalisé en 2015 a identifié un besoin de communication ciblée aux seniors, avec notamment une absence de diffusion des informations locales par le CCAS et l'utilisation d'un magazine « Couleurs » distribué dans les boîtes aux lettres.",
-        "problematique": "Le manque d'informations locales sur les droits, la prévention et les thématiques liées au bien vieillir pour les seniors.",
-        "solution_envisagee": "Un magazine trimestriel « Couleurs seniors » destiné aux retraités de Saint-Priest, initié depuis le diagnostic de 2015 et développé depuis avril 2016.",
-        "objectifs": [
-            "Identifier le besoin de communication quant aux informations concernant les seniors",
-            "Réfléchir en amont avec le service communication de la ville sur le contenu et le mode de diffusion d'un magazine à destination des seniors"
-        ]
-    },
-    "porteur_initiative": "Ville de Saint-Priest (69)",
-    "date": [
-        "depuis avril 2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Couleurs_seniors.txt",
-    "nom_fichier": "Couleurs_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Couleurs seniors",
+  "territoire": [
+    "saint-priest (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un magazine trimestriel d'informations pour les retraités de la commune de Saint-Priest.",
+    "contexte": "Le diagnostic vieillissement réalisé en 2015 a identifié un besoin de communication ciblée aux seniors, avec notamment une absence de diffusion des informations locales par le CCAS et l'utilisation d'un magazine « Couleurs » distribué dans les boîtes aux lettres.",
+    "problematique": "Le manque d'informations locales sur les droits, la prévention et les thématiques liées au bien vieillir pour les seniors.",
+    "solution_envisagee": "Un magazine trimestriel « Couleurs seniors » destiné aux retraités de Saint-Priest, initié depuis le diagnostic de 2015 et développé depuis avril 2016.",
+    "objectifs": [
+      "Identifier le besoin de communication quant aux informations concernant les seniors",
+      "Réfléchir en amont avec le service communication de la ville sur le contenu et le mode de diffusion d'un magazine à destination des seniors"
+    ]
+  },
+  "porteur_initiative": "Ville de Saint-Priest (69)",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Couleurs_seniors.txt",
+  "nom_fichier": "Couleurs_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/661-couleurs-seniors-saint-priest-1.pdf",
+  "original_title": "Couleurs seniors",
+  "collection_date": ""
 }

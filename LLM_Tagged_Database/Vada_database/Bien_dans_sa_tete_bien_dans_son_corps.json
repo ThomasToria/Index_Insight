@@ -1,32 +1,42 @@
 {
-    "titre": "Bien dans sa tête, bien dans son corps",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Semaine de rencontre et d'échange intergénérationnel autour du bien-être et de l'estime de soi.",
-        "contexte": "Résidence autonomie, Centre de Formation des Apprentis en Filière Esthétique (CFA), jeunes du CFA",
-        "problematique": "Renforcement des liens entre les résidents de la Résidence, leurs proches et la société civile, valorisation de leur mémoire et place dans la vie locale.",
-        "solution_envisagee": "Ateliers axés sur le bien-être et l'estime de soi, notamment coiffure, manucures, yoga du rire, sophrologie, conseils diététique",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de la Résidence, leurs proches et la société civile.",
-            "Valoriser leur mémoire et place dans la vie locale."
-        ]
-    },
-    "porteur_initiative": "Résidence autonomie, Centre de Formation des Apprentis en Filière Esthétique (CFA), jeunes du CFA",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_dans_sa_tete_bien_dans_son_corps.txt",
-    "nom_fichier": "Bien_dans_sa_tete_bien_dans_son_corps.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bien dans sa tête, bien dans son corps",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Semaine de rencontre et d'échange intergénérationnel autour du bien-être et de l'estime de soi.",
+    "contexte": "Résidence autonomie, Centre de Formation des Apprentis en Filière Esthétique (CFA), jeunes du CFA",
+    "problematique": "Renforcement des liens entre les résidents de la Résidence, leurs proches et la société civile, valorisation de leur mémoire et place dans la vie locale.",
+    "solution_envisagee": "Ateliers axés sur le bien-être et l'estime de soi, notamment coiffure, manucures, yoga du rire, sophrologie, conseils diététique",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de la Résidence, leurs proches et la société civile.",
+      "Valoriser leur mémoire et place dans la vie locale."
+    ]
+  },
+  "porteur_initiative": "Résidence autonomie, Centre de Formation des Apprentis en Filière Esthétique (CFA), jeunes du CFA",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_dans_sa_tete_bien_dans_son_corps.txt",
+  "nom_fichier": "Bien_dans_sa_tete_bien_dans_son_corps.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/940-concours-2023-bien-dans-sa-tete-bien-dans-son-corps.pdf",
+  "original_title": "Bien dans sa tête, bien dans son corps",
+  "collection_date": ""
 }

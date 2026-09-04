@@ -1,32 +1,44 @@
 {
-    "titre": "Aménagement du parcours de santé adapté « physio-parc » en accès libre à l'étang des Forges de Belfort",
-    "territoire": "Belfort, Ain",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le projet d'aménagement du parcours de santé adapté « physio-parc » s'inscrit dans le plan d'action du label Amie des Aînés, décerné en fin de 2023 à Belfort. Ce projet innovant vise à améliorer la qualité de vie des seniors et répond aux besoins spécifiques de cette population.",
-        "contexte": "Belfort a obtenu le label Amie des Aînés, décerné en fin de 2023, qui valorise sa politique en faveur des seniors. Le projet d'aménagement du parcours de santé adapté « physio-parc » s'inscrit dans ce contexte.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des ateliers de gymnastique adaptée, d’équilibre, de marche et de nutrition chaque semaine dans différents lieux et quartiers de la Ville. Ces activités sont animées par des professionnels du Pôle Prévention Santé du CCAS et du service des sports.",
-        "objectifs": [
-            "Permettre le maintien d'une activité physique adaptée aux seniors",
-            "Participer à une politique de prévention santé"
-        ]
-    },
-    "porteur_initiative": "Belfort, Ville Amie des Aînés depuis 2018, niveau bronze",
-    "date": [
-        "depuis fin 2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Amenagement_du_parcours_de_sante_adapte_physio-parc_en_acces_libre_a_letang_des_Forges_de_Belfort.txt",
-    "nom_fichier": "Amenagement_du_parcours_de_sante_adapte_physio-parc_en_acces_libre_a_letang_des_Forges_de_Belfort.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Aménagement du parcours de santé adapté « physio-parc » en accès libre à l'étang des Forges de Belfort",
+  "territoire": [
+    "belfort, ain"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le projet d'aménagement du parcours de santé adapté « physio-parc » s'inscrit dans le plan d'action du label Amie des Aînés, décerné en fin de 2023 à Belfort. Ce projet innovant vise à améliorer la qualité de vie des seniors et répond aux besoins spécifiques de cette population.",
+    "contexte": "Belfort a obtenu le label Amie des Aînés, décerné en fin de 2023, qui valorise sa politique en faveur des seniors. Le projet d'aménagement du parcours de santé adapté « physio-parc » s'inscrit dans ce contexte.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des ateliers de gymnastique adaptée, d’équilibre, de marche et de nutrition chaque semaine dans différents lieux et quartiers de la Ville. Ces activités sont animées par des professionnels du Pôle Prévention Santé du CCAS et du service des sports.",
+    "objectifs": [
+      "Permettre le maintien d'une activité physique adaptée aux seniors",
+      "Participer à une politique de prévention santé"
+    ]
+  },
+  "porteur_initiative": "Belfort, Ville Amie des Aînés depuis 2018, niveau bronze",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Amenagement_du_parcours_de_sante_adapte_physio-parc_en_acces_libre_a_letang_des_Forges_de_Belfort.txt",
+  "nom_fichier": "Amenagement_du_parcours_de_sante_adapte_physio-parc_en_acces_libre_a_letang_des_Forges_de_Belfort.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Amenagement-du-parcours-de-sante-adapte-physio-parc-en-acces-libre-a-letang-des-Forges-de-Belfort-90000-1.pdf",
+  "original_title": "Aménagement du parcours de santé adapté « physio-parc » en accès libre à l’étang des Forges de Belfort",
+  "collection_date": ""
 }

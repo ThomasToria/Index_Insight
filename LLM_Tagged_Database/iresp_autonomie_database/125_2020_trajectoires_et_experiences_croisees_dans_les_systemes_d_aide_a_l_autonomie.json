@@ -1,31 +1,41 @@
 {
-    "titre": "Trajectoires et expériences croisées dans les systèmes d'aide à l'autonomie",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Le projet de recherche participative TRAJEX analyse l’élaboration et la mise en œuvre des systèmes locaux d’aide à l’autonomie des personnes âgées et des personnes avec handicap vivant à domicile, dans le contexte d’une offre déficitaire en services et en établissements dans de nombreux territoires et de conditions de travail et d’emploi souvent précaires pour les professionnels de l’aide et l’accompagnement au domicile.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Trajectoires et expériences croisées dans les systèmes d’aide à l’autonomie",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\125_2020_trajectoires_et_experiences_croisees_dans_les_systemes_d_aide_a_l_autonomie.txt",
-    "nom_fichier": "125_2020_trajectoires_et_experiences_croisees_dans_les_systemes_d_aide_a_l_autonomie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Trajectoires et expériences croisées dans les systèmes d'aide à l'autonomie",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Le projet de recherche participative TRAJEX analyse l’élaboration et la mise en œuvre des systèmes locaux d’aide à l’autonomie des personnes âgées et des personnes avec handicap vivant à domicile, dans le contexte d’une offre déficitaire en services et en établissements dans de nombreux territoires et de conditions de travail et d’emploi souvent précaires pour les professionnels de l’aide et l’accompagnement au domicile.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Trajectoires et expériences croisées dans les systèmes d’aide à l’autonomie",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\125_2020_trajectoires_et_experiences_croisees_dans_les_systemes_d_aide_a_l_autonomie.txt",
+  "nom_fichier": "125_2020_trajectoires_et_experiences_croisees_dans_les_systemes_d_aide_a_l_autonomie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/trajectoires-et-experiences-croisees-dans-les-systemes-daide-a-lautonomie/",
+  "original_title": "Trajectoires et expériences croisées dans les systèmes d’aide à l’autonomie",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Covoiturage culturel",
-    "territoire": "Saint-Quentin (02)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un projet de covoiturage culturel mis en place par la Ville Amie des Aînés Saint-Quentin, visant à faciliter l'accès aux spectacles culturels pour les seniors et à créer du lien social.",
-        "contexte": "Les seniors rencontrent des difficultés à se rendre aux spectacles culturels et à rentrer chez eux. Une réflexion a été menée sur la problématique de l'isolement et du besoin d'un dispositif solidaire pour faciliter les transports.",
-        "problematique": "Le besoin de créer un dispositif solidaire permettant aux seniors de se rendre à des spectacles culturels et de rentrer chez eux, en évitant le déplacement difficile.",
-        "solution_envisagee": "Un covoiturage culturel mis en place par la Ville Amie des Aînés Saint-Quentin, qui a permis d'organiser une réunion avec les abonnés de la saison culturelle pour recruter des volontaires et élaborer une charte de fonctionnement.",
-        "objectifs": [
-            "Favoriser l'accès à la culture pour les seniors",
-            "Lutter contre l’isolement et créer du lien social"
-        ]
-    },
-    "porteur_initiative": "Saint-Quentin (02)",
-    "date": [
-        "depuis 2017"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Covoiturage_culturel.txt",
-    "nom_fichier": "Covoiturage_culturel.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Covoiturage culturel",
+  "territoire": [
+    "saint-quentin (02)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un projet de covoiturage culturel mis en place par la Ville Amie des Aînés Saint-Quentin, visant à faciliter l'accès aux spectacles culturels pour les seniors et à créer du lien social.",
+    "contexte": "Les seniors rencontrent des difficultés à se rendre aux spectacles culturels et à rentrer chez eux. Une réflexion a été menée sur la problématique de l'isolement et du besoin d'un dispositif solidaire pour faciliter les transports.",
+    "problematique": "Le besoin de créer un dispositif solidaire permettant aux seniors de se rendre à des spectacles culturels et de rentrer chez eux, en évitant le déplacement difficile.",
+    "solution_envisagee": "Un covoiturage culturel mis en place par la Ville Amie des Aînés Saint-Quentin, qui a permis d'organiser une réunion avec les abonnés de la saison culturelle pour recruter des volontaires et élaborer une charte de fonctionnement.",
+    "objectifs": [
+      "Favoriser l'accès à la culture pour les seniors",
+      "Lutter contre l’isolement et créer du lien social"
+    ]
+  },
+  "porteur_initiative": "Saint-Quentin (02)",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Covoiturage_culturel.txt",
+  "nom_fichier": "Covoiturage_culturel.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/456-456-pe-covoiturage-culturel-1.pdf",
+  "original_title": "Covoiturage culturel",
+  "collection_date": ""
 }

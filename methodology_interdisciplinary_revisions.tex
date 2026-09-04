@@ -1,0 +1,230 @@
+% Targeted replacements and additions for Chapter 4 (Methodology).
+% These blocks implement comments on interdisciplinarity, traceability,
+% manual review, and the special role of the VADA corpus.
+
+% =============================================================================
+% 1. Replace Section 4.1, ``Overview of the approach''.
+% =============================================================================
+
+\section{Overview of the approach}
+
+The methodology follows a document-processing pipeline designed to transform
+heterogeneous textual resources into a structured corpus that can support search,
+filtering, comparison, and thematic analysis. Its objective is to make dispersed
+descriptions of territorial initiatives related to population ageing more accessible
+for research, participatory action, and future operational use.
+
+The methodology was developed through an interdisciplinary dialogue between the
+technical development of the Index and the social-science researchers of the SIAGE
+Chair. This dialogue informed the selection of sources, the definition of the
+metadata schema, the vocabulary used for relevance scoring, and the interpretation
+of the resulting data. The pipeline should therefore not be understood as a purely
+technical procedure applied to a pre-existing corpus. It is a means of
+capitalising, comparing, and circulating knowledge produced both through Senior
+Citizen Design Workshops and through initiatives documented by other territorial
+and gerontological actors.
+
+The methodological process evolved during the internship. The initial approach
+relied on a multi-step rule-based pipeline: documents were cleaned, segmented,
+analysed for document sections, and processed to extract candidate metadata
+values. Candidate values are potential values for a given metadata field, such as
+a place name that may describe a territory or an organisation that may be an
+initiative holder. These candidates were scored according to explicit rules. This
+approach was transparent and useful for inspecting intermediate results, but the
+diversity of source formats and writing styles made it difficult to generalise the
+extraction rules to every document type.
+
+The final approach therefore complements the rule-based pipeline with LLM-assisted
+information extraction. A local language model receives a constrained prompt and
+transforms each textual document into a structured JSON record. The methodology
+is organised around six components: collection, corpus construction, cleaning and
+quality control, progressive rule-based structuring, constrained LLM extraction,
+and human evaluation.
+
+% =============================================================================
+% 2. Add this paragraph at the END of ``Data collection''.
+% =============================================================================
+
+Source-specific collection was necessary not only because formats differed, but
+also because relevant information was distributed unevenly within and between
+websites. In some sources, an initiative was described on a single page; in others,
+its title, objectives, territorial scope, and actors were spread across several pages
+or embedded in a PDF. The collection scripts were therefore designed to navigate
+the editorial structure of each source and to retain the text needed to understand
+an initiative in context. This work was carried out with attention to the
+documentary practices of the selected actors, rather than assuming that all sources
+could be treated through a single generic scraping procedure.
+
+% =============================================================================
+% 3. Replace the FIRST TWO paragraphs of ``Corpus construction'' with this text.
+% Keep the existing table and the following paragraphs after it.
+% =============================================================================
+
+The corpus was built from two complementary forms of documentary material. First,
+the SIAGE Chair provided action sheets produced by older adults themselves within
+Senior Citizen Design Workshops. These documents record locally identified issues,
+proposed responses, target publics, and implementation conditions. Second,
+external institutional, associative, and territorial sources were selected because
+they document initiatives, programmes, research projects, or public-action
+resources relevant to the adaptation of territories to population ageing.
+
+The selection of external sources was conducted in dialogue with the
+social-science researchers of the SIAGE Chair. The objective was to include actors
+whose material was both relevant to the gerontological field and sufficiently
+substantial to support documentary structuring. Only documents containing a
+meaningful description of an initiative, programme, action, or research project
+were retained. Navigation pages, empty pages, duplicated pages, and pages without
+a clear connection to territorial adaptation to ageing were excluded automatically
+when possible and otherwise reviewed manually.
+
+% =============================================================================
+% 4. Add this paragraph AFTER Table 4.1 (final corpus).
+% =============================================================================
+
+The sources differ in institutional role and documentary purpose. CNAV documents
+prevention-related initiatives and institutional resources; the Fondation de France
+publishes accounts of associative and territorial initiatives; HCFEA provides
+public-policy and institutional resources; IReSP Autonomie documents research
+projects related to autonomy; and VADA records local age-friendly initiatives.
+These sources were not selected as statistically equivalent samples. They were
+selected because, together with the SIAGE action sheets, they make visible several
+forms of knowledge and action related to territorial adaptation to ageing.
+
+% =============================================================================
+% 5. Replace the paragraph beginning ``The corpus is not a statistically
+% representative sample...'' with this text.
+% =============================================================================
+
+The corpus is not a statistically representative sample of all French initiatives
+related to ageing. VADA contributes 854 of the 1,153 records, or approximately
+74\% of the corpus, and this predominance must be considered when interpreting
+descriptive statistics. At the same time, VADA is not merely an overrepresented
+source: the Francophone Age-Friendly Cities and Communities network plays a
+structuring role in identifying, documenting, and disseminating local initiatives
+developed by participating territories. Its prominence therefore reflects both a
+source imbalance and its role as a national resource for the capitalisation of local
+ageing-policy experience. Results are consequently interpreted as descriptions of
+the collected documentation, not as estimates of the complete French landscape.
+
+% =============================================================================
+% 6. Add this paragraph BEFORE Table 4.2 (keyword weighting).
+% =============================================================================
+
+The keywords and their weights were not defined arbitrarily. They were developed
+through discussion with the SIAGE team in order to reflect the scientific scope of
+the Index. Concepts that are central to population ageing and territorial adaptation
+were given higher weights, while broader terms associated with relevant publics or
+contexts were retained with lower weights. The resulting vocabulary is therefore a
+practical quality-control instrument informed by gerontological expertise, rather
+than a claim to provide an exhaustive taxonomy of the field.
+
+% =============================================================================
+% 7. Replace the two paragraphs beginning ``For each document...'' and ``This
+% relevance score is therefore...'' with this text.
+% =============================================================================
+
+For each document, the script counts the occurrences of these keywords in the
+normalised text and applies a small bonus when a keyword appears in the document
+title or file name. The resulting score is normalised by the number of words in the
+document to make documents of different lengths more comparable. During the
+project, ranked lists of high- and low-scoring documents were reviewed with the
+SIAGE team. This review made it possible to examine extreme cases in the light of
+gerontological expertise and to decide whether a document should be retained,
+excluded, or inspected further.
+
+The relevance score is therefore a quality-control and manual-review
+prioritisation mechanism. It is not a supervised classifier, a validated measure of
+relevance, or an evaluation of the factual quality of subsequent metadata
+extraction.
+
+% =============================================================================
+% 8. Replace Section 4.5, ``Progressive structuring of the document database''.
+% =============================================================================
+
+\section{Progressive structuring of the document database}
+
+The rule-based architecture uses separate directories for each major
+transformation. These intermediate databases are not independent corpora: they are
+successive, inspectable representations of the same documents. Their purpose is to
+make it possible to identify at which stage an extraction error or an inappropriate
+candidate value was introduced, and to rerun a stage after modifying a rule without
+overwriting the original material.
+
+\begin{verbatim}
+Index_Insight/
+|-- Database/
+|-- Cleaned_Database/
+|-- Segmented_Database/
+|-- Sectioned_Database/
+|-- Entities_Database/
+|-- Candidates_Database/
+|-- Scored_Database/
+|-- Final_Tagged_Database/
+|-- LLM_Tagged_Database/
+|-- Evaluation/
+|-- outputs_graphs/
+|-- Scripts/
+\end{verbatim}
+
+The \texttt{Database} directory contains the raw collected text files and
+\texttt{Cleaned\_Database} contains their normalised versions. The
+\texttt{Segmented\_Database} stores paragraph-, line-, and sentence-level
+representations. The \texttt{Sectioned\_Database} records detected headings or
+document sections, such as objectives, target publics, context, stakeholders, or
+territorial information, when they are explicitly present.
+
+The \texttt{Entities\_Database} stores intermediate entity-extraction results.
+The \texttt{Candidates\_Database} then gathers potential values for each metadata
+field, while \texttt{Scored\_Database} associates them with heuristic scores and
+confidence indicators. Finally, \texttt{Final\_Tagged\_Database} consolidates the
+selected values into a rule-based JSON record and produces a global JSON file for
+review and analysis.
+
+This organisation supported iterative development. For example, when manual
+inspection revealed recurrent ambiguities in territorial scales or territorial names,
+the associated rules and controlled values could be revised and the relevant stages
+rerun. A final consolidation stage then brought the successive outputs together in a
+cleaned, machine-readable dataset. This traceability is an advantage of the
+rule-based baseline, even though manually designed rules do not generalise easily
+across the full diversity of documents.
+
+% Add after the sentence introducing the expected JSON schema, before its list.
+The schema was co-constructed with the SIAGE team. Its fields are not intended
+only to structure information technically; they were selected because they support
+the methodological needs of the Senior Citizen Design approach. For example,
+\texttt{problematique}, \texttt{objectifs}, and \texttt{solution\_envisagee}
+support the description of local issues and responses; \texttt{territoire} and
+\texttt{echelle} support territorial comparison; and \texttt{porteur\_initiative},
+\texttt{public\_vise}, \texttt{thematique}, and \texttt{nature\_initiative}
+support the comparison of actors, publics, themes, and intervention formats. The
+schema thereby supports diagnosis, co-design, dialogue with decision-makers, and
+the capitalisation of experience, while improving the homogeneity and comparability
+of records between territories.
+
+% Add after the paragraph on controlled vocabularies in the LLM section.
+For interpretability, the thematic labels include examples such as health and
+prevention, mobility, housing, social connection, digital inclusion,
+intergenerational relations, and citizen participation. Initiative types include, for
+example, workshops, training, awareness-raising activities, services, support
+schemes, digital tools, events, publications, dedicated places, and planning
+projects. These labels are analytical categories: they make it possible to organise
+the corpus while retaining the source text and provenance needed to interpret a
+record in context.
+
+% Add before the paragraph beginning ``The current configuration uses...''.
+VADA required particular attention because it is the largest source in the corpus
+and because its initiative descriptions are internally varied in length, style, and
+level of detail. The dedicated VADA extraction script was therefore used to test
+prompt constraints and input handling on a large, heterogeneous set of local
+initiative descriptions. Its configuration should not be interpreted as a separate
+research question, but as a source-specific implementation of the common metadata
+schema.
+
+% Add after the paragraph beginning ``Raw model responses are archived...''.
+Validation was conducted at two complementary levels. During iterative
+development, an initial random sample of ten records was reviewed manually with
+the SIAGE team in order to identify recurring errors, inconsistencies, and
+unsatisfactory field values. The resulting observations informed corrections to
+rules, controlled vocabularies, and prompt instructions. This exploratory review is
+distinct from the formal human reference evaluation reported in Chapter 6, which
+uses a stratified sample of 60 documents and field-level assessment criteria.

@@ -1,32 +1,44 @@
 {
-    "titre": "L'équilibre dans tous ses états",
-    "territoire": "Commune: Pévèle Carembault (59)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La communauté de communes de Pévèle Carembault souhaite accompagner les seniors en leur donnant les clés pour préserver leur capital autonomie et favoriser le maintien à domicile.",
-        "contexte": "Les échanges avec les partenaires de l'EPCI (aidants, acteurs du domicile, médecins, CLIC, etc.) ont renforcé la volonté de préparer le maintien à domicile plutôt que de préparer le déplacement. Les seniors concernés sont généralement plus âgés et confrontés à des difficultés ou freins dans leur quotidien au domicile.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'accompagnement en activant deux leviers: assurance dans les déplacements et prévention des chutes (travail sur la fonction d'équilibration) et prévention de la denutrition et des carences alimentaires (équilibre alimentaire).",
-        "objectifs": [
-            "Favoriser le maintien et la qualité de vie à domicile.",
-            "Renforcer la capacité de la personne âgée à agir grâce notamment à l'activité physique et l'alimentation équilibrée."
-        ]
-    },
-    "porteur_initiative": "Communauté de communes Pévèle Carembault (59)",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lequilibre_dans_tous_ses_etats.txt",
-    "nom_fichier": "Lequilibre_dans_tous_ses_etats.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'équilibre dans tous ses états",
+  "territoire": [
+    "pévèle carembault (59)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La communauté de communes de Pévèle Carembault souhaite accompagner les seniors en leur donnant les clés pour préserver leur capital autonomie et favoriser le maintien à domicile.",
+    "contexte": "Les échanges avec les partenaires de l'EPCI (aidants, acteurs du domicile, médecins, CLIC, etc.) ont renforcé la volonté de préparer le maintien à domicile plutôt que de préparer le déplacement. Les seniors concernés sont généralement plus âgés et confrontés à des difficultés ou freins dans leur quotidien au domicile.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'accompagnement en activant deux leviers: assurance dans les déplacements et prévention des chutes (travail sur la fonction d'équilibration) et prévention de la denutrition et des carences alimentaires (équilibre alimentaire).",
+    "objectifs": [
+      "Favoriser le maintien et la qualité de vie à domicile.",
+      "Renforcer la capacité de la personne âgée à agir grâce notamment à l'activité physique et l'alimentation équilibrée."
+    ]
+  },
+  "porteur_initiative": "Communauté de communes Pévèle Carembault (59)",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lequilibre_dans_tous_ses_etats.txt",
+  "nom_fichier": "Lequilibre_dans_tous_ses_etats.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/989-concours-2023-l-equilibre-dans-tous-ses-etats.pdf",
+  "original_title": "L'équilibre dans tous ses états",
+  "collection_date": ""
 }

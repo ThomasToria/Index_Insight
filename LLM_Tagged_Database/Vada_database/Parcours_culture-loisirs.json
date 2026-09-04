@@ -1,32 +1,44 @@
 {
-    "titre": "Parcours culture-loisirs",
-    "territoire": "Commune: La-Roche-sur-yon Agglomération (85)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Un projet de promotion culturelle et sportive pour les aînés, visant à lutter contre l'âgisme et l'isolement.",
-        "contexte": "La-Roche-sur-yon Agglomération (85) a choisi la thématique 'Culture-Loisirs' en 2021 pour améliorer les relations intergénérationnelles.",
-        "problematique": "Lutter contre l'âgisme et l'isolement, promouvoir des activités culturelles et sportives pour les aînés.",
-        "solution_envisagee": "Un parcours culture-loisirs composé de dix défis variés, avec une récompense finale en forme de carte d'avantages 'Parcours +'.",
-        "objectifs": [
-            "Améliorer la santé des aînés par l'engagement dans des activités culturelles et sportives.",
-            "Lutter contre le phénomène de l'isolement social chez les personnes âgées."
-        ]
-    },
-    "porteur_initiative": "Espace Entour'âge",
-    "date": [
-        "depuis 2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_culture-loisirs.txt",
-    "nom_fichier": "Parcours_culture-loisirs.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parcours culture-loisirs",
+  "territoire": [
+    "la-roche-sur-yon agglomération (85)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Un projet de promotion culturelle et sportive pour les aînés, visant à lutter contre l'âgisme et l'isolement.",
+    "contexte": "La-Roche-sur-yon Agglomération (85) a choisi la thématique 'Culture-Loisirs' en 2021 pour améliorer les relations intergénérationnelles.",
+    "problematique": "Lutter contre l'âgisme et l'isolement, promouvoir des activités culturelles et sportives pour les aînés.",
+    "solution_envisagee": "Un parcours culture-loisirs composé de dix défis variés, avec une récompense finale en forme de carte d'avantages 'Parcours +'.",
+    "objectifs": [
+      "Améliorer la santé des aînés par l'engagement dans des activités culturelles et sportives.",
+      "Lutter contre le phénomène de l'isolement social chez les personnes âgées."
+    ]
+  },
+  "porteur_initiative": "Espace Entour'âge",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_culture-loisirs.txt",
+  "nom_fichier": "Parcours_culture-loisirs.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/842-pe-parcours-culture-loisirs.pdf",
+  "original_title": "Parcours culture-loisirs",
+  "collection_date": ""
 }

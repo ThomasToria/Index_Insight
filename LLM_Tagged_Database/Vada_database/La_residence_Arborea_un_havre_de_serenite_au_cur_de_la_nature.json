@@ -1,33 +1,45 @@
 {
-    "titre": "La résidence Arboréa, un havre de sérénité au cœur de la nature",
-    "territoire": "Commune: Claix",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "projet d'aménagement",
-    "description": {
-        "description_generale": "La municipalité a lancé un projet immobilier à Claix, en collaboration avec le promoteur SAFILAF et le bailleur SDH.",
-        "contexte": "Claix est une commune étalée avec plusieurs hameaux en altitude. Les personnes âgées souhaitent déménager vers un habitat plus récent et accessible.",
-        "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La résidence Arboréa est conçue pour répondre à ces enjeux du territoire Claixois, proposant une offre de parcours résidentiel diversifiée sur la commune de Claix.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Proposer un habitat plus récent et accessible aux personnes à mobilité réduite"
-        ]
-    },
-    "porteur_initiative": "La municipalité de Claix, en collaboration avec le promoteur SAFILAF et le bailleur SDH.",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Arborea_un_havre_de_serenite_au_cur_de_la_nature.txt",
-    "nom_fichier": "La_residence_Arborea_un_havre_de_serenite_au_cur_de_la_nature.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La résidence Arboréa, un havre de sérénité au cœur de la nature",
+  "territoire": [
+    "claix"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "projet d'aménagement",
+  "description": {
+    "description_generale": "La municipalité a lancé un projet immobilier à Claix, en collaboration avec le promoteur SAFILAF et le bailleur SDH.",
+    "contexte": "Claix est une commune étalée avec plusieurs hameaux en altitude. Les personnes âgées souhaitent déménager vers un habitat plus récent et accessible.",
+    "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La résidence Arboréa est conçue pour répondre à ces enjeux du territoire Claixois, proposant une offre de parcours résidentiel diversifiée sur la commune de Claix.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Proposer un habitat plus récent et accessible aux personnes à mobilité réduite"
+    ]
+  },
+  "porteur_initiative": "La municipalité de Claix, en collaboration avec le promoteur SAFILAF et le bailleur SDH.",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Arborea_un_havre_de_serenite_au_cur_de_la_nature.txt",
+  "nom_fichier": "La_residence_Arborea_un_havre_de_serenite_au_cur_de_la_nature.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "projet d'aménagement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/688-pe-39-la-residence-arborea-claix-2.pdf",
+  "original_title": "La résidence Arborea, un havre de sérénité au cœur de la nature",
+  "collection_date": ""
 }

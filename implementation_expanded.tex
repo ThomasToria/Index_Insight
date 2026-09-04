@@ -1,0 +1,155 @@
+\chapter{Implementation}
+
+\section{Development environment and reproducibility}
+
+The pipeline was developed in Python in an isolated virtual environment. Its
+dependencies cover HTTP collection, HTML parsing, PDF extraction, JSON and CSV
+processing, spreadsheet production, and plotting. LLM inference is provided
+locally by Ollama. The project is organised as a collection of independent
+scripts rather than as a single monolithic application, so that collection,
+cleaning, extraction, evaluation, and analysis can be executed and inspected
+separately.
+
+Reproducibility requires recording the Python version, package versions, Ollama
+version, model identifier, execution date, prompt version, and inference
+parameters. The core workflow does not rely on an external commercial LLM API.
+However, reproducibility is not perfect across machines: a model update, changed
+source page, or modified prompt can alter outputs. Raw input text, generated
+JSON, archived raw LLM answers, and collection indexes are therefore retained as
+provenance artefacts.
+
+The project directory separates raw data, cleaned data, intermediate
+representations, structured outputs, evaluation material, and analysis outputs.
+This organisation prevents a processing step from silently overwriting its
+input. It also makes it possible to rerun one stage after a correction without
+having to repeat the whole workflow. For example, changes to the taxonomy
+normalisation can be applied to existing JSON records without downloading the
+corpus again or running new LLM inferences.
+
+\section{Project architecture and data flow}
+
+The implementation follows a file-based architecture. Each source document is
+represented by one text file and, after extraction, by one JSON record with the
+same logical identity. Dedicated directories store the successive
+representations: \texttt{Database} for collected text, \texttt{Cleaned\_Database}
+for normalised text, several intermediate directories for the experimental
+rule-based pipeline, and \texttt{LLM\_Tagged\_Database} for LLM-generated
+records. This one-document-per-file principle simplifies error localisation:
+when a value appears incorrect, the corresponding JSON output can be compared
+directly with the cleaned text and, where available, the raw model response.
+
+Collection scripts are source-specific because the corpus includes HTML pages,
+PDF files, internal action sheets, and research-project records with different
+structures. They retrieve the source content, extract or convert it to text,
+and maintain an index containing information such as the title, local filename,
+and source URL when available. The cleaning scripts then reduce formatting noise
+caused by HTML extraction and PDF conversion, including duplicated headers,
+fragmented lines, inconsistent whitespace, and filename variations.
+
+The initial rule-based pipeline was implemented as a sequence of modules for
+segmentation, section detection, entity extraction, candidate extraction,
+heuristic scoring, JSON consolidation, and review-table generation. Each module
+writes an intermediate output rather than passing data only in memory to the
+next stage. This design was useful for debugging and for understanding the
+effect of individual rules, even though the final extraction workflow relies
+primarily on constrained LLM extraction.
+
+\section{LLM extraction and output validation}
+
+The LLM module constructs a French prompt for each document and submits it to
+the local Ollama chat API. The prompt specifies the required JSON keys, the
+expected data types, controlled vocabularies for selected fields, and the
+instruction not to invent unsupported information. The model is asked to return
+an empty string or an empty list when the document does not provide a reliable
+value. The configuration uses the local \texttt{qwen2.5:1.5b} model, a
+temperature of 0, a context window of 8,192 tokens, a maximum generation length
+of 700 tokens, and an input limit of 2,500 characters for the RFVAA extraction
+script.
+
+Structured generation does not guarantee that every response is immediately
+usable. The implementation therefore includes defensive processing before a
+record is saved. It removes text outside the JSON object when present, repairs
+superficial formatting issues such as typographic quotation marks or trailing
+commas, and attempts to parse the result. Records that remain invalid can be
+flagged for reprocessing or manual inspection rather than being silently merged
+into the final dataset. Where available, the unmodified model response is saved
+alongside the structured record, which permits later inspection of a parsing
+problem or an unexpected extraction.
+
+The resulting JSON records preserve both extracted metadata and contextual
+descriptions. They include title, territory, territorial scale, target
+audience, initiative type, initiative holder, dates, themes, and source
+identification, together with short descriptive fields. The schema is designed
+for documentary exploration rather than to claim that every field is known for
+every source. Empty values are therefore meaningful: they represent missing or
+insufficiently supported information, not a processing failure by default.
+
+\section{Provenance and taxonomy normalisation}
+
+Two deterministic post-processing components complement the LLM extraction.
+First, the provenance script adds \texttt{source\_site}, \texttt{source\_url},
+\texttt{original\_title}, and \texttt{collection\_date} to every available JSON
+record using collection indexes and archived source files. These values are not
+generated by the LLM. The script reports coverage by source and leaves a field
+empty when a reliable value is unavailable. In particular, the SIAGE action
+sheets are marked as internal material and do not receive an artificial public
+URL. Historical collection dates are also left empty because they were not
+consistently recorded in the original indexes.
+
+Second, a taxonomy-normalisation script adds
+\texttt{thematique\_normalisee} and
+\texttt{nature\_initiative\_normalisee}, while preserving the original LLM
+fields. The implementation maps lexical variants to a documented French
+controlled taxonomy so that related labels can be aggregated consistently in
+filters and charts. It does not invoke the LLM again. Ambiguous values are
+assigned to \textit{autre / à revoir} and written to a review report instead of
+being forced into an unsuitable category. The records also store a taxonomy
+version, allowing later revisions to be identified and reapplied.
+
+\section{Main modules and outputs}
+
+The main modules can be grouped into five functional families:
+
+\begin{itemize}
+    \item source-specific collection scripts for CNAV, Fondation de France,
+    HCFEA, IReSP, RFVAA, and the SIAGE action sheets;
+    \item cleaning, file-name standardisation, segmentation, and
+    keyword-based relevance-scoring scripts;
+    \item rule-based extraction modules that generate intermediate candidates,
+    scores, consolidated records, and review tables;
+    \item local LLM extraction, JSON repair, taxonomy normalisation, and
+    provenance-enrichment scripts;
+    \item evaluation and analysis scripts that create reference samples,
+    calculate scores, and produce spreadsheets and charts.
+\end{itemize}
+
+The principal output is a collection of JSON records usable by downstream
+software. Complementary outputs include a consolidated JSON file, CSV review
+tables, Excel workbooks, and charts describing themes, initiative types,
+stakeholders, territories, temporal mentions, and comparisons between SIAGE
+action sheets and other documents. The current analytical scripts prioritise
+the normalised theme and initiative-type fields when available, while retaining
+the original values for audit and correction. These outputs are exploratory;
+they do not estimate the real-world frequency or effectiveness of initiatives
+in France.
+
+\section{Difficulties and implemented solutions}
+
+Structural heterogeneity was the main implementation difficulty: a heading in
+one source can be expressed as a paragraph, table, caption, or be absent in
+another. The modular pipeline and the separation between raw, cleaned, and
+intermediate directories made this variability inspectable. The transition from
+rule-based extraction to constrained LLM extraction reduced the need for a
+large number of source-specific rules, while controlled vocabularies and
+post-extraction normalisation limited avoidable output variation.
+
+Several difficulties remain. PDF conversion can introduce encoding artefacts or
+reading-order errors, and websites may change their structure after collection.
+Dates can refer to publication, funding, event, or initiative-start dates;
+territorial references can refer to a place, an organisation, or a project
+area; and an organisation mentioned in a document is not necessarily the
+initiative holder. The system therefore retains source links, original titles,
+raw texts, and intermediate outputs so that these cases can be reviewed. The
+human reference evaluation described in the next chapter provides a separate
+assessment of factual extraction quality; the implementation itself does not
+treat field completion as evidence of correctness.

@@ -1,34 +1,45 @@
 {
-    "titre": "Helpiness",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Une application pour simplifier la vie des personnes fragiles, regroupant les acteurs mobilisés autour d'un proche.",
-        "contexte": "Situations de stress, difficultés d'organisation des aidants, perte d'autonomie et isolement géographique des familles.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'application permet le partage de documents et d'informations en toute sécurité. Elle facilite le contact avec les aidants pour relayer les messages auprès des seniors qu'ils accompagnent, ce qui accroît la visibilité des messages importants: alertes sanitaires ou autres.",
-        "objectifs": [
-            "Simplifier la vie des personnes fragiles",
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville de Toulouse",
-    "date": [
-        "2015",
-        "juillet à septembre 2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Helpiness_lapplication_qui_regroupe_lensemble_des_acteurs_mobilises_autour_dun_proche.txt",
-    "nom_fichier": "Helpiness_lapplication_qui_regroupe_lensemble_des_acteurs_mobilises_autour_dun_proche.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Helpiness",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Une application pour simplifier la vie des personnes fragiles, regroupant les acteurs mobilisés autour d'un proche.",
+    "contexte": "Situations de stress, difficultés d'organisation des aidants, perte d'autonomie et isolement géographique des familles.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'application permet le partage de documents et d'informations en toute sécurité. Elle facilite le contact avec les aidants pour relayer les messages auprès des seniors qu'ils accompagnent, ce qui accroît la visibilité des messages importants: alertes sanitaires ou autres.",
+    "objectifs": [
+      "Simplifier la vie des personnes fragiles",
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville de Toulouse",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Helpiness_lapplication_qui_regroupe_lensemble_des_acteurs_mobilises_autour_dun_proche.txt",
+  "nom_fichier": "Helpiness_lapplication_qui_regroupe_lensemble_des_acteurs_mobilises_autour_dun_proche.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/222-222-helpiness.pdf",
+  "original_title": "\"Helpiness\", l'application qui regroupe l'ensemble des acteurs mobilisés autour d'un proche",
+  "collection_date": ""
 }

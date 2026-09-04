@@ -1,32 +1,44 @@
 {
-    "titre": "La Résidence Alpine",
-    "territoire": "Nice (06)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un programme mixte réalisé en collaboration avec la Ville de Nice pour l’édification d’une crèche et de ses annexes, s’est intégré à une opération réalisée par Côte d'Azur Habitat consistant en la construction de logements sociaux et d’un foyer pour seniors.",
-        "contexte": "Le quartier Saint-Jean d’Angely a été modifié avec l’aménagement du quartier Saint-Jean d’Angely, un programme mixte réalisé en collaboration avec la Ville de Nice pour l’édification d’une crèche et de ses annexes, s’est intégré à une opération réalisée par Côte d'Azur Habitat consistant en la construction de logements sociaux et d’un foyer pour seniors.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une crèche située au rez-de-chaussée du bâtiment, accessible depuis la crèche et le foyer logement et possédant un accès direct depuis l'extérieur. Cette réalisation fait partie d’un ensemble immobilier situé sur un terrain de 2 220 m² vendu par la Ville de Nice au bailleur Côte d’Azur Habitat.",
-        "objectifs": [
-            "Favoriser les liens intergénérationnels",
-            "Favoriser le lien social pour les résidents en ouvrant les résidences"
-        ]
-    },
-    "porteur_initiative": "La Ville de Nice",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_alpine.txt",
-    "nom_fichier": "La_residence_alpine.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Résidence Alpine",
+  "territoire": [
+    "nice (06)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un programme mixte réalisé en collaboration avec la Ville de Nice pour l’édification d’une crèche et de ses annexes, s’est intégré à une opération réalisée par Côte d'Azur Habitat consistant en la construction de logements sociaux et d’un foyer pour seniors.",
+    "contexte": "Le quartier Saint-Jean d’Angely a été modifié avec l’aménagement du quartier Saint-Jean d’Angely, un programme mixte réalisé en collaboration avec la Ville de Nice pour l’édification d’une crèche et de ses annexes, s’est intégré à une opération réalisée par Côte d'Azur Habitat consistant en la construction de logements sociaux et d’un foyer pour seniors.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une crèche située au rez-de-chaussée du bâtiment, accessible depuis la crèche et le foyer logement et possédant un accès direct depuis l'extérieur. Cette réalisation fait partie d’un ensemble immobilier situé sur un terrain de 2 220 m² vendu par la Ville de Nice au bailleur Côte d’Azur Habitat.",
+    "objectifs": [
+      "Favoriser les liens intergénérationnels",
+      "Favoriser le lien social pour les résidents en ouvrant les résidences"
+    ]
+  },
+  "porteur_initiative": "La Ville de Nice",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_alpine.txt",
+  "nom_fichier": "La_residence_alpine.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/736-pe-604-290422residence-alpine-nice.pdf",
+  "original_title": "La résidence alpine",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Les Rendez-Vous de l'Âge: Une Rencontre Citoyenne Dédicace à Les Aînés",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une journée de conférences et d'échanges autour d'une thématique donnée.",
-        "contexte": "Organisée par la Ville de Besançon, elle a été lancée en 2001 suite à une proposition faite par le Conseil des Sages de la ville. Elle est ouverte à tous les habitants de plus de 63 ans domiciliés à Besançon.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser une journée de rencontres et d'échanges autour d'une thématique donnée pour renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville de Besançon",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rendez-vous_de_lage_une_rencontre_citoyenne_dediee_aux_aines.txt",
-    "nom_fichier": "Les_rendez-vous_de_lage_une_rencontre_citoyenne_dediee_aux_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les Rendez-Vous de l'Âge: Une Rencontre Citoyenne Dédicace à Les Aînés",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une journée de conférences et d'échanges autour d'une thématique donnée.",
+    "contexte": "Organisée par la Ville de Besançon, elle a été lancée en 2001 suite à une proposition faite par le Conseil des Sages de la ville. Elle est ouverte à tous les habitants de plus de 63 ans domiciliés à Besançon.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser une journée de rencontres et d'échanges autour d'une thématique donnée pour renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville de Besançon",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_rendez-vous_de_lage_une_rencontre_citoyenne_dediee_aux_aines.txt",
+  "nom_fichier": "Les_rendez-vous_de_lage_une_rencontre_citoyenne_dediee_aux_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/113-pe-les-rendez-vous-de-l-age-une-rencontre-citoyenne-dediee-aux-aines-mise-a-jour-2023.pdf",
+  "original_title": "Les rendez-vous de l'âge : une rencontre citoyenne dédiée aux aînés",
+  "collection_date": ""
 }

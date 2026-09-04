@@ -1,33 +1,45 @@
 {
-    "titre": "La résidence Boréa: des appartements regroupés avec services partagés",
-    "territoire": "Romans-sur-Isère, Romans-sur-Isère (26)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Créer une résidence de 24 logements autonomes dans un lieu stratégique (à proximité de services, en cœur de ville) pour personnes âgées autonomes. Proposer un certain nombre de services gratuits ou payants à destination des locataires.",
-        "contexte": "La proportion des personnes âgées de plus de 60 ans est supérieure à 25% et croît rapidement dans la population locale, avec une augmentation significative entre 2013 et 2020. Les seniors vivent seuls et ont un fort besoin d'habitat alternatif.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer un type d'habitat alternatif entre le domicile et l'établissement à des retraités autonomes; Lutter contre l’isolement; Faire face aux besoins de maintien social et émotionnel pour les seniors.",
-        "objectifs": [
-            "Renforcer les liens sociaux",
-            "Lutter contre l'isolement",
-            "Favoriser le maintien d'un lien social"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés Romans-sur-Isère",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",
-    "nom_fichier": "La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La résidence Boréa: des appartements regroupés avec services partagés",
+  "territoire": [
+    "romans-sur-isère, romans-sur-isère (26)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Créer une résidence de 24 logements autonomes dans un lieu stratégique (à proximité de services, en cœur de ville) pour personnes âgées autonomes. Proposer un certain nombre de services gratuits ou payants à destination des locataires.",
+    "contexte": "La proportion des personnes âgées de plus de 60 ans est supérieure à 25% et croît rapidement dans la population locale, avec une augmentation significative entre 2013 et 2020. Les seniors vivent seuls et ont un fort besoin d'habitat alternatif.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer un type d'habitat alternatif entre le domicile et l'établissement à des retraités autonomes; Lutter contre l’isolement; Faire face aux besoins de maintien social et émotionnel pour les seniors.",
+    "objectifs": [
+      "Renforcer les liens sociaux",
+      "Lutter contre l'isolement",
+      "Favoriser le maintien d'un lien social"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés Romans-sur-Isère",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",
+  "nom_fichier": "La_residence_Borea_des_appartements_regroupes_avec_services_partages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/713-pe120422-581-residence-borea-romanssurisere.pdf",
+  "original_title": "La résidence Boréa : des appartements regroupés avec services partagés",
+  "collection_date": ""
 }

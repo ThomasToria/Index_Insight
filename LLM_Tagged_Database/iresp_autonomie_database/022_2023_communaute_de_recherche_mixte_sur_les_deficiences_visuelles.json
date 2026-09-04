@@ -1,33 +1,43 @@
 {
-    "titre": "Communauté de recherche mixte sur les déficiences visuelles",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La Communauté de Recherche Mixte sur les Déficits Visuels vise à identifier et comprendre les défis rencontrés par les personnes ayant une déficience visuelle dans leur vie quotidienne, ainsi que les obstacles auxquels elles sont confrontées. Le projet entend également évaluer les mesures existantes pour améliorer l’adaptation des environnements aux besoins spécifiques de ces individus.",
-        "contexte": "La présence d’une déficience visuelle peut avoir des répercussions négatives sur la vie quotidienne des personnes qui sont touchées, et de celle de leurs proches. En effet, lorsque l’environnement physique et social n’est pas suffisamment adapté, elle peut donner lieu à des situations de handicap sévère.",
-        "problematique": "Les mesures existantes pour améliorer l’adaptation des environnements aux besoins spécifiques de personnes ayant une déficience visuelle sont insuffisantes. Les réponses aux besoins des personnes ayant un handicap visuel sont insuffisantes, car les mesures s’articulent principalement autour de la déficience, alors qu’elles pourraient favoriser l’intégration et le bien-être.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les défis rencontrés par les personnes ayant une déficience visuelle dans leur vie quotidienne",
-            "Comprendre les obstacles auxquels elles sont confrontées",
-            "Évaluer les mesures existantes pour améliorer l’adaptation des environnements aux besoins spécifiques de ces individus"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\022_2023_communaute_de_recherche_mixte_sur_les_deficiences_visuelles.txt",
-    "nom_fichier": "022_2023_communaute_de_recherche_mixte_sur_les_deficiences_visuelles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Communauté de recherche mixte sur les déficiences visuelles",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La Communauté de Recherche Mixte sur les Déficits Visuels vise à identifier et comprendre les défis rencontrés par les personnes ayant une déficience visuelle dans leur vie quotidienne, ainsi que les obstacles auxquels elles sont confrontées. Le projet entend également évaluer les mesures existantes pour améliorer l’adaptation des environnements aux besoins spécifiques de ces individus.",
+    "contexte": "La présence d’une déficience visuelle peut avoir des répercussions négatives sur la vie quotidienne des personnes qui sont touchées, et de celle de leurs proches. En effet, lorsque l’environnement physique et social n’est pas suffisamment adapté, elle peut donner lieu à des situations de handicap sévère.",
+    "problematique": "Les mesures existantes pour améliorer l’adaptation des environnements aux besoins spécifiques de personnes ayant une déficience visuelle sont insuffisantes. Les réponses aux besoins des personnes ayant un handicap visuel sont insuffisantes, car les mesures s’articulent principalement autour de la déficience, alors qu’elles pourraient favoriser l’intégration et le bien-être.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les défis rencontrés par les personnes ayant une déficience visuelle dans leur vie quotidienne",
+      "Comprendre les obstacles auxquels elles sont confrontées",
+      "Évaluer les mesures existantes pour améliorer l’adaptation des environnements aux besoins spécifiques de ces individus"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\022_2023_communaute_de_recherche_mixte_sur_les_deficiences_visuelles.txt",
+  "nom_fichier": "022_2023_communaute_de_recherche_mixte_sur_les_deficiences_visuelles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/communaute-de-recherche-mixte-sur-les-deficiences-visuelles/",
+  "original_title": "Communauté de recherche mixte sur les déficiences visuelles",
+  "collection_date": ""
 }

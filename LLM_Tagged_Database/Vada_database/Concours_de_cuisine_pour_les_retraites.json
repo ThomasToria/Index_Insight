@@ -1,34 +1,44 @@
 {
-    "titre": "Concours de cuisine pour les retraités",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un concours de cuisine organisé pour les seniors, visant à sensibiliser aux besoins nutritionnels des personnes âgées seules.",
-        "contexte": "La ville de Brest a identifié un besoin en matière d'éducation alimentaire auprès des seniors qui vivent seules. L'initiative vise à renforcer le lien social et intergénérationnel.",
-        "problematique": "Renforcement du lien social entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un concours de cuisine qui associe seniors et étudiants pour favoriser le partage culinaire et l'éducation nutritionnelle.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Favoriser le plaisir alimentaire quand on vit seul"
-        ]
-    },
-    "porteur_initiative": "Office des Retraités de Brest",
-    "date": [
-        "fin février 2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Concours_de_cuisine_pour_les_retraites.txt",
-    "nom_fichier": "Concours_de_cuisine_pour_les_retraites.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Concours de cuisine pour les retraités",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un concours de cuisine organisé pour les seniors, visant à sensibiliser aux besoins nutritionnels des personnes âgées seules.",
+    "contexte": "La ville de Brest a identifié un besoin en matière d'éducation alimentaire auprès des seniors qui vivent seules. L'initiative vise à renforcer le lien social et intergénérationnel.",
+    "problematique": "Renforcement du lien social entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un concours de cuisine qui associe seniors et étudiants pour favoriser le partage culinaire et l'éducation nutritionnelle.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Favoriser le plaisir alimentaire quand on vit seul"
+    ]
+  },
+  "porteur_initiative": "Office des Retraités de Brest",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Concours_de_cuisine_pour_les_retraites.txt",
+  "nom_fichier": "Concours_de_cuisine_pour_les_retraites.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/849-pe-concours-de-cuisine-pour-les-retraites.pdf",
+  "original_title": "Concours de cuisine pour les retraités",
+  "collection_date": ""
 }

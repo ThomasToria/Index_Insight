@@ -1,33 +1,43 @@
 {
-    "titre": "Un projet intergénérationnel autour de Verdun",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Le projet s'inscrit dans le cadre du Centenaire de la Première Guerre Mondiale, visant à mobiliser différents publics autour de la mémoire de Verdun.",
-        "contexte": "La ville de Vaulx-en-Velin a organisé un projet intergénérationnel en partenariat avec les seniors et associations mémorielles. Le but est d'engager les enfants dans une commémoration annuelle du Centenaire, mêlant mémoire et participation.",
-        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un projet annuel mêlant des enfants et des seniors autour de la mémoire de Verdun. Les participants se préparent ensemble pour une commémoration commune.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La Ville de Vaulx-en-Velin",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_intergenerationnel_autour_de_Verdun.txt",
-    "nom_fichier": "Un_projet_intergenerationnel_autour_de_Verdun.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un projet intergénérationnel autour de Verdun",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Le projet s'inscrit dans le cadre du Centenaire de la Première Guerre Mondiale, visant à mobiliser différents publics autour de la mémoire de Verdun.",
+    "contexte": "La ville de Vaulx-en-Velin a organisé un projet intergénérationnel en partenariat avec les seniors et associations mémorielles. Le but est d'engager les enfants dans une commémoration annuelle du Centenaire, mêlant mémoire et participation.",
+    "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un projet annuel mêlant des enfants et des seniors autour de la mémoire de Verdun. Les participants se préparent ensemble pour une commémoration commune.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La Ville de Vaulx-en-Velin",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_intergenerationnel_autour_de_Verdun.txt",
+  "nom_fichier": "Un_projet_intergenerationnel_autour_de_Verdun.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/394-394-pe-projet-intergenerationnel-autour-de-verdun.pdf",
+  "original_title": "Un projet intergénérationnel autour de Verdun",
+  "collection_date": ""
 }

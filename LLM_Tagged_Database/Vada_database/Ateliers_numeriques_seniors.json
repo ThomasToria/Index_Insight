@@ -1,32 +1,44 @@
 {
-    "titre": "Ateliers numériques seniors",
-    "territoire": "Marchiennes (59)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le projet visait à sensibiliser les seniors de la commune aux outils numériques, en organisant des ateliers réguliers dans une salle informatique de l'école élémentaire G. Brassens.",
-        "contexte": "La mairie de Marchiennes a permis la mise à disposition de la salle informatique, tandis que l'association Remues Méninges a animé les ateliers.",
-        "problematique": "Le besoin de renforcer les liens sociaux et favoriser l'inclusion numérique parmi les seniors de la commune.",
-        "solution_envisagee": "Ateliers numériques réguliers organisés dans une salle informatique de l'école élémentaire G. Brassens, avec des jeunes conseillers du Conseil Municipal des Jeunes Marchiennois et l'association Remues Méninges pour sensibiliser les seniors aux outils numériques.",
-        "objectifs": [
-            "Sensibiliser le public senior à l'outil numérique",
-            "Optimiser l'apprentissage en organisant des ateliers réguliers"
-        ]
-    },
-    "porteur_initiative": "Association Remues Méninges et la mairie de Marchiennes",
-    "date": [
-        "depuis 2021"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "numérique",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_numeriques_seniors.txt",
-    "nom_fichier": "Ateliers_numeriques_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ateliers numériques seniors",
+  "territoire": [
+    "marchiennes (59)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le projet visait à sensibiliser les seniors de la commune aux outils numériques, en organisant des ateliers réguliers dans une salle informatique de l'école élémentaire G. Brassens.",
+    "contexte": "La mairie de Marchiennes a permis la mise à disposition de la salle informatique, tandis que l'association Remues Méninges a animé les ateliers.",
+    "problematique": "Le besoin de renforcer les liens sociaux et favoriser l'inclusion numérique parmi les seniors de la commune.",
+    "solution_envisagee": "Ateliers numériques réguliers organisés dans une salle informatique de l'école élémentaire G. Brassens, avec des jeunes conseillers du Conseil Municipal des Jeunes Marchiennois et l'association Remues Méninges pour sensibiliser les seniors aux outils numériques.",
+    "objectifs": [
+      "Sensibiliser le public senior à l'outil numérique",
+      "Optimiser l'apprentissage en organisant des ateliers réguliers"
+    ]
+  },
+  "porteur_initiative": "Association Remues Méninges et la mairie de Marchiennes",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "numérique",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ateliers_numeriques_seniors.txt",
+  "nom_fichier": "Ateliers_numeriques_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "numérique et accès à l'information",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/689-pe-ateliers-numeriques-seniors-marchiennes-1.pdf",
+  "original_title": "Ateliers numériques seniors",
+  "collection_date": ""
 }

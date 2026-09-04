@@ -1,33 +1,45 @@
 {
-    "titre": "Plan tous en forme: nutrition, sport, santé",
-    "territoire": "Commune de Tassin la Demi-Lune, 69",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Plan municipal visant à sensibiliser et accompagner le grand public sur les questions de santé publique, en particulier dans la prévention des maladies liées à la nutrition et l'activité physique.",
-        "contexte": "Les travaux scientifiques ont montré que la bonne nutrition et une activité physique régulière réduisent les risques de maladies et d'incapacités.",
-        "problematique": "Reduction des risques de maladies liées à la mauvaise nutrition et l'absence d'activité physique.",
-        "solution_envisagee": "Mobiliser les acteurs du territoire pour sensibiliser le grand public aux bonnes pratiques alimentaires et physiques, en particulier auprès des personnes âgées.",
-        "objectifs": [
-            "Reduction des risques de maladies liées à la mauvaise nutrition",
-            "Amélioration de la santé globale des habitants",
-            "Développement d'activités adaptées pour les publics cibles"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2017, Tassin la Demi-Lune (69)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plan_tous_en_forme_nutrition_sport_sante.txt",
-    "nom_fichier": "Plan_tous_en_forme_nutrition_sport_sante.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Plan tous en forme: nutrition, sport, santé",
+  "territoire": [
+    "tassin la demi-lune, 69"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Plan municipal visant à sensibiliser et accompagner le grand public sur les questions de santé publique, en particulier dans la prévention des maladies liées à la nutrition et l'activité physique.",
+    "contexte": "Les travaux scientifiques ont montré que la bonne nutrition et une activité physique régulière réduisent les risques de maladies et d'incapacités.",
+    "problematique": "Reduction des risques de maladies liées à la mauvaise nutrition et l'absence d'activité physique.",
+    "solution_envisagee": "Mobiliser les acteurs du territoire pour sensibiliser le grand public aux bonnes pratiques alimentaires et physiques, en particulier auprès des personnes âgées.",
+    "objectifs": [
+      "Reduction des risques de maladies liées à la mauvaise nutrition",
+      "Amélioration de la santé globale des habitants",
+      "Développement d'activités adaptées pour les publics cibles"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2017, Tassin la Demi-Lune (69)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Plan_tous_en_forme_nutrition_sport_sante.txt",
+  "nom_fichier": "Plan_tous_en_forme_nutrition_sport_sante.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/993-concours-2023-plan-tous-en-forme-nutrition-sport-sante.pdf",
+  "original_title": "Plan tous en forme : nutrition, sport, santé",
+  "collection_date": ""
 }

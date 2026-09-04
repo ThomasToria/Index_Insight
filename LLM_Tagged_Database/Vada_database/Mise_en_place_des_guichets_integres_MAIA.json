@@ -1,35 +1,46 @@
 {
-    "titre": "Mise en place des guichets intégrés MAIA",
-    "territoire": "Havrais",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Décentraliser l’information pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnements.",
-        "contexte": "Le Havre (76) a mis en place un guichet intégré sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un guichet intégré MAIA a été mis en place sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
-        "objectifs": [
-            "Décentraliser l'information",
-            "Favoriser l'équité de traitement des usagers sur le territoire",
-            "Donner la bonne réponse au bon moment aux usagers",
-            "Permettre de détecter les personnes âgées fragiles pour proposer l'aide adéquate avant que la situation ne se dît dégradée"
-        ]
-    },
-    "porteur_initiative": "Le Havre (76)",
-    "date": [
-        "2014",
-        "octobre 2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_des_guichets_integres_MAIA.txt",
-    "nom_fichier": "Mise_en_place_des_guichets_integres_MAIA.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mise en place des guichets intégrés MAIA",
+  "territoire": [
+    "havrais"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Décentraliser l’information pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnements.",
+    "contexte": "Le Havre (76) a mis en place un guichet intégré sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un guichet intégré MAIA a été mis en place sur le territoire Havrais pour permettre aux acteurs qui sont au plus près des personnes âgées de bénéficier de toutes les informations nécessaires à leur orientation vers des dispositifs d’accompagnement.",
+    "objectifs": [
+      "Décentraliser l'information",
+      "Favoriser l'équité de traitement des usagers sur le territoire",
+      "Donner la bonne réponse au bon moment aux usagers",
+      "Permettre de détecter les personnes âgées fragiles pour proposer l'aide adéquate avant que la situation ne se dît dégradée"
+    ]
+  },
+  "porteur_initiative": "Le Havre (76)",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_des_guichets_integres_MAIA.txt",
+  "nom_fichier": "Mise_en_place_des_guichets_integres_MAIA.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/261-261-guichets-integres-maia-le-havre.pdf",
+  "original_title": "Mise en place des guichets intégrés MAIA",
+  "collection_date": ""
 }

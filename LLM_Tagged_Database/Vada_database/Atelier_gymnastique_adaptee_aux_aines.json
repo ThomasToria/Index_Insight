@@ -1,33 +1,43 @@
 {
-    "titre": "Atelier gymnastique adaptée aux aînés",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La présidente de l'association généraliste, ayant participé au Séminaire Ville Amie des Aînés, s'est rendu compte de la nécessité d'adapter les offres d'activités physiques. En effet, une partie des adhérents, beaucoup moins dynamique, se retrouvait régulièrement en difficulté, car les séances n'étaient plus adaptées à leurs capacités physiques, intellectuelles, cognitives.",
-        "contexte": "Les séances d'activité physique étaient dédiées aux seniors et ne s'adaptait pas aux capacités des participants. Les adhérents se retrouvaient régulièrement en difficulté car les séances n'étaient plus adaptées à leurs capacités physiques, intellectuelles, cognitives.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des séances d'activité physique adaptées aux capacités physiques et intellectuelles des participants. Les séances étaient encadrées par un éducateur sportif APA pour s'adapter à leurs besoins et attentes.",
-        "objectifs": [
-            "Permettre aux seniors de maintenir une activité physique",
-            "Adaptée à leurs capacités et à leurs besoins",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville de Canet-en-Roussillon et Association 'Vivre à Canet'",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_gymnastique_adaptee_aux_aines.txt",
-    "nom_fichier": "Atelier_gymnastique_adaptee_aux_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier gymnastique adaptée aux aînés",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La présidente de l'association généraliste, ayant participé au Séminaire Ville Amie des Aînés, s'est rendu compte de la nécessité d'adapter les offres d'activités physiques. En effet, une partie des adhérents, beaucoup moins dynamique, se retrouvait régulièrement en difficulté, car les séances n'étaient plus adaptées à leurs capacités physiques, intellectuelles, cognitives.",
+    "contexte": "Les séances d'activité physique étaient dédiées aux seniors et ne s'adaptait pas aux capacités des participants. Les adhérents se retrouvaient régulièrement en difficulté car les séances n'étaient plus adaptées à leurs capacités physiques, intellectuelles, cognitives.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des séances d'activité physique adaptées aux capacités physiques et intellectuelles des participants. Les séances étaient encadrées par un éducateur sportif APA pour s'adapter à leurs besoins et attentes.",
+    "objectifs": [
+      "Permettre aux seniors de maintenir une activité physique",
+      "Adaptée à leurs capacités et à leurs besoins",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville de Canet-en-Roussillon et Association 'Vivre à Canet'",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_gymnastique_adaptee_aux_aines.txt",
+  "nom_fichier": "Atelier_gymnastique_adaptee_aux_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1116-pe-atelier-gymnastique-adaptee-aux-aines-1.pdf",
+  "original_title": "Atelier gymnastique adaptée aux aînés",
+  "collection_date": ""
 }

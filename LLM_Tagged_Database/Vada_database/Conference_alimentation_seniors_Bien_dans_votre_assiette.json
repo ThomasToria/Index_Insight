@@ -1,34 +1,46 @@
 {
-    "titre": "Conférence alimentation seniors: \"Bien dans votre assiette!\"",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Conférence alimentation seniors: \"Bien dans votre assiette!\"",
-        "contexte": "La Ville de Lille s'est appuyée sur un important diagnostic et des ateliers de concertation avec les seniors pour élaborer un plan d'actions composé de sept objectifs qui se découpent en dix-huit actions.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser une conférence et un forum sur le thème d'alimentation, avec des ateliers de cuisine ludiques et pédagogiques pour sensibiliser les seniors à l’impact de la qualité de l'alimentation sur leur santé.",
-        "objectifs": [
-            "Sensibiliser les seniors à l’impact de la qualité de l’alimentation sur leur santé.",
-            "Donner des outils pour développer des habitudes alimentaires saines.",
-            "Faire découvrir ou redécouvrir aux seniors les équipements proposant des ateliers de cuisine.",
-            "Informer les seniors sur les circuits courts, la filière bio locale, la nutrition."
-        ]
-    },
-    "porteur_initiative": "La Ville de Lille",
-    "date": [
-        "depuis 2017"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "services et accompagnement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conference_alimentation_seniors_Bien_dans_votre_assiette.txt",
-    "nom_fichier": "Conference_alimentation_seniors_Bien_dans_votre_assiette.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Conférence alimentation seniors: \"Bien dans votre assiette!\"",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Conférence alimentation seniors: \"Bien dans votre assiette!\"",
+    "contexte": "La Ville de Lille s'est appuyée sur un important diagnostic et des ateliers de concertation avec les seniors pour élaborer un plan d'actions composé de sept objectifs qui se découpent en dix-huit actions.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser une conférence et un forum sur le thème d'alimentation, avec des ateliers de cuisine ludiques et pédagogiques pour sensibiliser les seniors à l’impact de la qualité de l'alimentation sur leur santé.",
+    "objectifs": [
+      "Sensibiliser les seniors à l’impact de la qualité de l’alimentation sur leur santé.",
+      "Donner des outils pour développer des habitudes alimentaires saines.",
+      "Faire découvrir ou redécouvrir aux seniors les équipements proposant des ateliers de cuisine.",
+      "Informer les seniors sur les circuits courts, la filière bio locale, la nutrition."
+    ]
+  },
+  "porteur_initiative": "La Ville de Lille",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "services et accompagnement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conference_alimentation_seniors_Bien_dans_votre_assiette.txt",
+  "nom_fichier": "Conference_alimentation_seniors_Bien_dans_votre_assiette.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/652-pe-520-conference-alimentation-lille-1.pdf",
+  "original_title": "Conférence alimentation seniors : \"Bien dans votre assiette !\"",
+  "collection_date": ""
 }

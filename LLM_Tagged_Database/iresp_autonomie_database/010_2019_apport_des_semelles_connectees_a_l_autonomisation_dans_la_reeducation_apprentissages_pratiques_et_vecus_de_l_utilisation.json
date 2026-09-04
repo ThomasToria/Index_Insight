@@ -1,33 +1,43 @@
 {
-    "titre": "Apport des semelles connectées à l'autonomisation dans la rééducation: apprentissages, pratiques et vécus de l’utilisations d’objets connectés pour la rééducation à la marche avec prothèse par les patients amputés du membre inférieur",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette recherche vise à comprendre comment les semelles connectées peuvent contribuer à l'autonomisation des patients amputés du membre inférieur lors de la rééducation à la marche.",
-        "contexte": "Les patients amputés du membre inférieur ont besoin d'apprentissages et de pratiques pour renforcer leur autonomie dans la vie quotidienne, notamment en matière de marche avec prothèse. Les semelles connectées présentent des potentialités intéressantes pour aider à cette rééducation.",
-        "problematique": "Comment les semelles connectées peuvent-elles contribuer à l'autonomisation des patients amputés du membre inférieur lors de la rééducation à la marche?",
-        "solution_envisagee": "Cette recherche vise à identifier comment les semelles connectées peuvent être utilisées pour aider les patients amputés du membre inférieur dans leur rééducation à la marche.",
-        "objectifs": [
-            "Identifier les potentialités des semelles connectées pour l'autonomisation des patients amputés du membre inférieur lors de la rééducation à la marche",
-            "Analyser les pratiques et les apprentissages effectués par les patients amputés du membre inférieur avec les semelles connectées pendant leur rééducation à la marche",
-            "Évaluer l'impact des semelles connectées sur le niveau d'autonomie des patients amputés du membre inférieur lors de la rééducation à la marche"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\010_2019_apport_des_semelles_connectees_a_l_autonomisation_dans_la_reeducation_apprentissages_pratiques_et_vecus_de_l_utilisation.txt",
-    "nom_fichier": "010_2019_apport_des_semelles_connectees_a_l_autonomisation_dans_la_reeducation_apprentissages_pratiques_et_vecus_de_l_utilisation.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Apport des semelles connectées à l'autonomisation dans la rééducation: apprentissages, pratiques et vécus de l’utilisations d’objets connectés pour la rééducation à la marche avec prothèse par les patients amputés du membre inférieur",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette recherche vise à comprendre comment les semelles connectées peuvent contribuer à l'autonomisation des patients amputés du membre inférieur lors de la rééducation à la marche.",
+    "contexte": "Les patients amputés du membre inférieur ont besoin d'apprentissages et de pratiques pour renforcer leur autonomie dans la vie quotidienne, notamment en matière de marche avec prothèse. Les semelles connectées présentent des potentialités intéressantes pour aider à cette rééducation.",
+    "problematique": "Comment les semelles connectées peuvent-elles contribuer à l'autonomisation des patients amputés du membre inférieur lors de la rééducation à la marche?",
+    "solution_envisagee": "Cette recherche vise à identifier comment les semelles connectées peuvent être utilisées pour aider les patients amputés du membre inférieur dans leur rééducation à la marche.",
+    "objectifs": [
+      "Identifier les potentialités des semelles connectées pour l'autonomisation des patients amputés du membre inférieur lors de la rééducation à la marche",
+      "Analyser les pratiques et les apprentissages effectués par les patients amputés du membre inférieur avec les semelles connectées pendant leur rééducation à la marche",
+      "Évaluer l'impact des semelles connectées sur le niveau d'autonomie des patients amputés du membre inférieur lors de la rééducation à la marche"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\010_2019_apport_des_semelles_connectees_a_l_autonomisation_dans_la_reeducation_apprentissages_pratiques_et_vecus_de_l_utilisation.txt",
+  "nom_fichier": "010_2019_apport_des_semelles_connectees_a_l_autonomisation_dans_la_reeducation_apprentissages_pratiques_et_vecus_de_l_utilisation.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/apport-des-semelles-connectees-a-lautonomisation-dans-la-reeducation-apprentissages-pratiques-et-vecus-de-lutilisations-dobjets-connectes-pour-la-reeducation-a-la-marche/",
+  "original_title": "Apport des semelles connectées à l’autonomisation dans la rééducation : apprentissages, pratiques et vécus de l’utilisations d’objets connectés pour la rééducation à la marche avec prothèse par les patients amputés du membre inférieur",
+  "collection_date": ""
 }

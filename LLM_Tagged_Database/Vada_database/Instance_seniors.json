@@ -1,33 +1,45 @@
 {
-    "titre": "Instance seniors",
-    "territoire": "Commune : MAXÉVILLE, Métropole de Lyon",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette instance regroupe des seniors âgés de 60 ans et plus, portés volontaires, sans obligation de présence pour une durée limitée (éléments demandés par les seniors lors des temps de rencontres dans le cadre de la démarche Ville Amie des Ainés). Cette instance se veut représentative de l'ensemble des quartiers, des générations de senior s.",
-        "contexte": "Dans le cadre de la démarche « Ville Amie des Ainés », la ville a co-travaillé un plan d’actions avec les seniors afin de s’assurer qu’il soit en adéquation avec les réels besoins du territoire. Ce plan d'actions propose 28 objectifs déclinés à travers 22 actions concrètes dont celle de la mise en place d'une nouvelle instance seniors.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Cette instance seniors vise à créer un espace d'échange intergénérationnel où les seniors peuvent partager leurs expériences et connaissances avec les jeunes générations et les citoyens du quartier, en valorisant leur mémoire et leur contribution à la vie locale.",
-        "objectifs": [
-            "Permettre à un groupe de seniors de pouvoir apporter leurs connaissances et expertise au profit de la politique du vieillissement",
-            "Faire évoluer le plan d'action VADA pour s'adapter aux besoins des seniors"
-        ]
-    },
-    "porteur_initiative": "Service seniors",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Instance_seniors.txt",
-    "nom_fichier": "Instance_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Instance seniors",
+  "territoire": [
+    "maxéville, métropole de lyon"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette instance regroupe des seniors âgés de 60 ans et plus, portés volontaires, sans obligation de présence pour une durée limitée (éléments demandés par les seniors lors des temps de rencontres dans le cadre de la démarche Ville Amie des Ainés). Cette instance se veut représentative de l'ensemble des quartiers, des générations de senior s.",
+    "contexte": "Dans le cadre de la démarche « Ville Amie des Ainés », la ville a co-travaillé un plan d’actions avec les seniors afin de s’assurer qu’il soit en adéquation avec les réels besoins du territoire. Ce plan d'actions propose 28 objectifs déclinés à travers 22 actions concrètes dont celle de la mise en place d'une nouvelle instance seniors.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Cette instance seniors vise à créer un espace d'échange intergénérationnel où les seniors peuvent partager leurs expériences et connaissances avec les jeunes générations et les citoyens du quartier, en valorisant leur mémoire et leur contribution à la vie locale.",
+    "objectifs": [
+      "Permettre à un groupe de seniors de pouvoir apporter leurs connaissances et expertise au profit de la politique du vieillissement",
+      "Faire évoluer le plan d'action VADA pour s'adapter aux besoins des seniors"
+    ]
+  },
+  "porteur_initiative": "Service seniors",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Instance_seniors.txt",
+  "nom_fichier": "Instance_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Instance-seniors.pdf",
+  "original_title": "Instance seniors",
+  "collection_date": ""
 }

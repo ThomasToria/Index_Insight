@@ -1,35 +1,47 @@
 {
-    "titre": "Assemblée des seniors du pays de Mormal",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Une assemblée des seniors a été mise en place dans le cadre de la démarche Communauté Amie des Aînés de la communauté de communes du Pays de Mormal.",
-        "contexte": "La création d'une assemblée des seniors nécessite une importante organisation logistique, impliquant les acteurs de ce projet pour permettre aux seniors de la communauté d'exercer leur rôle de citoyen.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une assemblée des seniors a été organisée pour impliquer concrètement les seniors dans la vie citoyenne de la communauté de communes du Pays de Mormal.",
-        "objectifs": [
-            "Maintenir l'implication des seniors au cœur du dispositif",
-            "Valoriser leur parole, leur expérience",
-            "Informer les personnes âgées sur les actions mises en place et inciter à y participer",
-            "Créer du lien social",
-            "Créer une assemblée des seniors pour les impliquer dans la démarche de la Communauté amie des aînés"
-        ]
-    },
-    "porteur_initiative": "Communes, clubs des aînés et partenaires des groupes de travail",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Assemblee_des_seniors_du_pays_de_Mormal.txt",
-    "nom_fichier": "Assemblee_des_seniors_du_pays_de_Mormal.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Assemblée des seniors du pays de Mormal",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Une assemblée des seniors a été mise en place dans le cadre de la démarche Communauté Amie des Aînés de la communauté de communes du Pays de Mormal.",
+    "contexte": "La création d'une assemblée des seniors nécessite une importante organisation logistique, impliquant les acteurs de ce projet pour permettre aux seniors de la communauté d'exercer leur rôle de citoyen.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une assemblée des seniors a été organisée pour impliquer concrètement les seniors dans la vie citoyenne de la communauté de communes du Pays de Mormal.",
+    "objectifs": [
+      "Maintenir l'implication des seniors au cœur du dispositif",
+      "Valoriser leur parole, leur expérience",
+      "Informer les personnes âgées sur les actions mises en place et inciter à y participer",
+      "Créer du lien social",
+      "Créer une assemblée des seniors pour les impliquer dans la démarche de la Communauté amie des aînés"
+    ]
+  },
+  "porteur_initiative": "Communes, clubs des aînés et partenaires des groupes de travail",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Assemblee_des_seniors_du_pays_de_Mormal.txt",
+  "nom_fichier": "Assemblee_des_seniors_du_pays_de_Mormal.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/385-pe-assemblee-des-seniors-du-pays-de-mormal-mise-a-jour-2023.pdf",
+  "original_title": "Assemblée des seniors du pays de Mormal",
+  "collection_date": ""
 }

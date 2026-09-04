@@ -1,35 +1,47 @@
 {
-    "titre": "Longueau: des activités physiques adaptées pour les seniors",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Les activités physiques démarrent en septembre et les seniors peuvent s'inscrire tout au long de l'année. Les séances ont lieu pendant toute l'année, de septembre à juin, sauf pendant les périodes de vacances scolaires.",
-        "contexte": "Dans le cadre des animations seniors proposées par le CCAS, beaucoup de personnes étaient en demande de gym douce. Ce type d'activités a donc été développé sur la Commune à partir de septembre 2021 afin de permettre au plus grand nombre d'y participer.",
-        "problematique": "Les seniors ont besoin de pratiquer régulièrement des activités physiques pour prévenir les risques de chutes et favoriser le lien social.",
-        "solution_envisagee": "Des séances d'activités physiques adaptées sont proposées tout au long de l'année, avec une programmation d'ateliers et un éducateur sportif qui propose des parcours de marche nordique différents chaque semaine.",
-        "objectifs": [
-            "Permettre aux seniors de bien vieillir",
-            "Les maintenir le plus longtemps possible dans les meilleurs conditions",
-            "Prévenir les risques de chutes",
-            "Diminuer la perte d'autonomie",
-            "Faire découvrir des espaces de nature à proximité de la Commune"
-        ]
-    },
-    "porteur_initiative": "CCAS (Communauté de Communes)",
-    "date": [
-        "depuis 2021"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Longueau_des_activites_physiques_adaptees_pour_les_seniors.txt",
-    "nom_fichier": "Longueau_des_activites_physiques_adaptees_pour_les_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Longueau: des activités physiques adaptées pour les seniors",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Les activités physiques démarrent en septembre et les seniors peuvent s'inscrire tout au long de l'année. Les séances ont lieu pendant toute l'année, de septembre à juin, sauf pendant les périodes de vacances scolaires.",
+    "contexte": "Dans le cadre des animations seniors proposées par le CCAS, beaucoup de personnes étaient en demande de gym douce. Ce type d'activités a donc été développé sur la Commune à partir de septembre 2021 afin de permettre au plus grand nombre d'y participer.",
+    "problematique": "Les seniors ont besoin de pratiquer régulièrement des activités physiques pour prévenir les risques de chutes et favoriser le lien social.",
+    "solution_envisagee": "Des séances d'activités physiques adaptées sont proposées tout au long de l'année, avec une programmation d'ateliers et un éducateur sportif qui propose des parcours de marche nordique différents chaque semaine.",
+    "objectifs": [
+      "Permettre aux seniors de bien vieillir",
+      "Les maintenir le plus longtemps possible dans les meilleurs conditions",
+      "Prévenir les risques de chutes",
+      "Diminuer la perte d'autonomie",
+      "Faire découvrir des espaces de nature à proximité de la Commune"
+    ]
+  },
+  "porteur_initiative": "CCAS (Communauté de Communes)",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Longueau_des_activites_physiques_adaptees_pour_les_seniors.txt",
+  "nom_fichier": "Longueau_des_activites_physiques_adaptees_pour_les_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/953-concours-2023-longueau-des-activites-physiques-adaptees-pour-les-seniors.pdf",
+  "original_title": "Longueau: des activités physiques adaptées pour les seniors",
+  "collection_date": ""
 }

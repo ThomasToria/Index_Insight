@@ -1,31 +1,43 @@
 {
-    "titre": "Fête de Noël",
-    "territoire": "Commune du Vauclin, Martinique",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Favoriser le lien social et la convivialité en offrant un moment festif et valorisant les seniors isolés du territoire.",
-        "contexte": "Les personnes âgées de 60 ans et plus résidant sur la commune se retrouvent isolées pendant les périodes de fête, ce qui peut accentuer la solitude et le sentiment d'isolement. La situation est aggravée par l'allongement de l'espoir de vie et du vieillissement de la population.",
-        "problematique": "L’isolement des personnes âgées, notamment les seniors, dans leur milieu communautaire.",
-        "solution_envisagee": "Organiser une Fête de Noël solidaire qui valorise les seniors isolés et contribue à lutter contre l'isolement social.",
-        "objectifs": [
-            "Lutter contre l’isolement social des seniors pendant la période des fêtes"
-        ]
-    },
-    "porteur_initiative": "CCAS du Vauclin",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Fete_de_noel.txt",
-    "nom_fichier": "Fete_de_noel.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Fête de Noël",
+  "territoire": [
+    "commune du vauclin, martinique"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Favoriser le lien social et la convivialité en offrant un moment festif et valorisant les seniors isolés du territoire.",
+    "contexte": "Les personnes âgées de 60 ans et plus résidant sur la commune se retrouvent isolées pendant les périodes de fête, ce qui peut accentuer la solitude et le sentiment d'isolement. La situation est aggravée par l'allongement de l'espoir de vie et du vieillissement de la population.",
+    "problematique": "L’isolement des personnes âgées, notamment les seniors, dans leur milieu communautaire.",
+    "solution_envisagee": "Organiser une Fête de Noël solidaire qui valorise les seniors isolés et contribue à lutter contre l'isolement social.",
+    "objectifs": [
+      "Lutter contre l’isolement social des seniors pendant la période des fêtes"
+    ]
+  },
+  "porteur_initiative": "CCAS du Vauclin",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Fete_de_noel.txt",
+  "nom_fichier": "Fete_de_noel.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Fete-de-noel-2.pdf",
+  "original_title": "Fête de noël",
+  "collection_date": ""
 }

@@ -1,33 +1,43 @@
 {
-    "titre": "LOTO INTERGENERATIONNEL /SENIORS ET CONSEIL MUNICIPAL DES ENFANTS",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La commune de Montauban a organisé un loto intergénérationnel pendant la semaine bleue, visant à redynamiser les foyers seniors et créer du lien entre les résidents des EHPAD et les enfants du Conseil Municipal.",
-        "contexte": "Dans le cadre de la démarche VADA, la commune de Montauban a organisé un loto intergénérationnel pendant la semaine bleue. Les seniors et les enfants y trouvent leur compte, créant ainsi du lien social et culturel.",
-        "problematique": "Redynamiser les foyers seniors, créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal.",
-        "solution_envisagee": "L’organisation d’un loto intergénérationnel pendant la semaine bleue pour redynamiser les foyers seniors et créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal.",
-        "objectifs": [
-            "Redynamiser les foyers seniors",
-            "Créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal"
-        ]
-    },
-    "porteur_initiative": "Commune de Montauban",
-    "date": [
-        "depuis 2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LOTO_INTERGENERATIONNEL_SENIORS_ET_CONSEIL_MUNICIPAL_DES_ENFANTS.txt",
-    "nom_fichier": "LOTO_INTERGENERATIONNEL_SENIORS_ET_CONSEIL_MUNICIPAL_DES_ENFANTS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "LOTO INTERGENERATIONNEL /SENIORS ET CONSEIL MUNICIPAL DES ENFANTS",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La commune de Montauban a organisé un loto intergénérationnel pendant la semaine bleue, visant à redynamiser les foyers seniors et créer du lien entre les résidents des EHPAD et les enfants du Conseil Municipal.",
+    "contexte": "Dans le cadre de la démarche VADA, la commune de Montauban a organisé un loto intergénérationnel pendant la semaine bleue. Les seniors et les enfants y trouvent leur compte, créant ainsi du lien social et culturel.",
+    "problematique": "Redynamiser les foyers seniors, créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal.",
+    "solution_envisagee": "L’organisation d’un loto intergénérationnel pendant la semaine bleue pour redynamiser les foyers seniors et créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal.",
+    "objectifs": [
+      "Redynamiser les foyers seniors",
+      "Créer du lien social et culturel entre les résidents des EHPAD et les enfants du Conseil Municipal"
+    ]
+  },
+  "porteur_initiative": "Commune de Montauban",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LOTO_INTERGENERATIONNEL_SENIORS_ET_CONSEIL_MUNICIPAL_DES_ENFANTS.txt",
+  "nom_fichier": "LOTO_INTERGENERATIONNEL_SENIORS_ET_CONSEIL_MUNICIPAL_DES_ENFANTS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-LOTO-INTERGENERATIONNEL-SENIORS-ET-CONSEIL-MUNICIPAL-DES-ENFANTS-1.pdf",
+  "original_title": "LOTO INTERGENERATIONNEL /SENIORS ET CONSEIL MUNICIPAL DES ENFANTS",
+  "collection_date": ""
 }

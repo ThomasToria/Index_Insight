@@ -1,32 +1,44 @@
 {
-    "titre": "Colocation intergénérationnelle",
-    "territoire": "Commune de Caluire-et-Cuire, Rhône-Alpes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "L'idée du projet est de profiter du logement vacant du gardien de la Résidence Autonomie de Caluire-et-Cuire pour proposer l'appartement à la location à deux jeunes étudiants à un prix modéré pour créer du lien avec les résidents retraités.",
-        "contexte": "Le projet a été validé auprès du bailleur public afin d'affecter ce logement professionnel en habitat intergénérationnel. Des travaux de réaménagement ont ensuite été réalisés pour créer une deuxième chambre.",
-        "problematique": "Proposer un environnement sécurisant pour des jeunes quittant le domicile parental grâce à la colocation et à l'intégration dans un lieu collectif avec une présence physique de professionnels 24h/24h.",
-        "solution_envisagee": "Faire valider auprès du bailleur public le fait d'affecter ce logement professionnel en habitat intergénérationnel. Des travaux de réaménagement ont ensuite été réalisés pour créer une deuxième chambre.",
-        "objectifs": [
-            "Créer du lien entre les générations",
-            "Répondre aux difficultés de logement des étudiants en région lyonnaise"
-        ]
-    },
-    "porteur_initiative": "Ville de Caluire-et-Cuire",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Colocation_intergenerationnelle.txt",
-    "nom_fichier": "Colocation_intergenerationnelle.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Colocation intergénérationnelle",
+  "territoire": [
+    "caluire-et-cuire, rhône-alpes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "L'idée du projet est de profiter du logement vacant du gardien de la Résidence Autonomie de Caluire-et-Cuire pour proposer l'appartement à la location à deux jeunes étudiants à un prix modéré pour créer du lien avec les résidents retraités.",
+    "contexte": "Le projet a été validé auprès du bailleur public afin d'affecter ce logement professionnel en habitat intergénérationnel. Des travaux de réaménagement ont ensuite été réalisés pour créer une deuxième chambre.",
+    "problematique": "Proposer un environnement sécurisant pour des jeunes quittant le domicile parental grâce à la colocation et à l'intégration dans un lieu collectif avec une présence physique de professionnels 24h/24h.",
+    "solution_envisagee": "Faire valider auprès du bailleur public le fait d'affecter ce logement professionnel en habitat intergénérationnel. Des travaux de réaménagement ont ensuite été réalisés pour créer une deuxième chambre.",
+    "objectifs": [
+      "Créer du lien entre les générations",
+      "Répondre aux difficultés de logement des étudiants en région lyonnaise"
+    ]
+  },
+  "porteur_initiative": "Ville de Caluire-et-Cuire",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Colocation_intergenerationnelle.txt",
+  "nom_fichier": "Colocation_intergenerationnelle.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/710-pe110422-15-colocation-intergenerationnelle-caluireetcuire.pdf",
+  "original_title": "Colocation intergénérationnelle",
+  "collection_date": ""
 }

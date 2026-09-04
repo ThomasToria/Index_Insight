@@ -1,34 +1,43 @@
 {
-    "titre": "Perspectives Comparées des Effets du Covid sur les Politiques et les Professionnels du Care Auprès des Personnes âgées En Perte d'Autonomie à Domicile",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette recherche comparative vise à comprendre comment la crise du Covid-19, en révélant et exacerbant une tension autour du travail de 'care', a transformé les politiques et les pratiques professionnelles dans le domaine des soins aux personnes âgées en perte d'autonomie à domicile.",
-        "contexte": "",
-        "problematique": "La crise du Covid-19 a exacerbé une tension autour du travail de 'care' dans le domaine des soins aux personnes âgées en perte d'autonomie à domicile, conduisant à des changements significatifs dans les politiques et les pratiques professionnelles.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Comprendre comment la crise du Covid-19 a transformé les politiques et les pratiques professionnelles dans le domaine des soins aux personnes âgées en perte d'autonomie à domicile",
-            "Analyser les impacts de ces changements sur l'efficacité des services de santé et de bien-être des seniors",
-            "Identifier les défis identifiés par les professionnels du care face à cette crise et leurs réponses innovantes"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\102_2020_perspectives_comparees_des_effets_du_covid_sur_les_politiques_et_les_professionnels_du_care_aupres_des_personnes_agees_e.txt",
-    "nom_fichier": "102_2020_perspectives_comparees_des_effets_du_covid_sur_les_politiques_et_les_professionnels_du_care_aupres_des_personnes_agees_e.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Perspectives Comparées des Effets du Covid sur les Politiques et les Professionnels du Care Auprès des Personnes âgées En Perte d'Autonomie à Domicile",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette recherche comparative vise à comprendre comment la crise du Covid-19, en révélant et exacerbant une tension autour du travail de 'care', a transformé les politiques et les pratiques professionnelles dans le domaine des soins aux personnes âgées en perte d'autonomie à domicile.",
+    "contexte": "",
+    "problematique": "La crise du Covid-19 a exacerbé une tension autour du travail de 'care' dans le domaine des soins aux personnes âgées en perte d'autonomie à domicile, conduisant à des changements significatifs dans les politiques et les pratiques professionnelles.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Comprendre comment la crise du Covid-19 a transformé les politiques et les pratiques professionnelles dans le domaine des soins aux personnes âgées en perte d'autonomie à domicile",
+      "Analyser les impacts de ces changements sur l'efficacité des services de santé et de bien-être des seniors",
+      "Identifier les défis identifiés par les professionnels du care face à cette crise et leurs réponses innovantes"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\102_2020_perspectives_comparees_des_effets_du_covid_sur_les_politiques_et_les_professionnels_du_care_aupres_des_personnes_agees_e.txt",
+  "nom_fichier": "102_2020_perspectives_comparees_des_effets_du_covid_sur_les_politiques_et_les_professionnels_du_care_aupres_des_personnes_agees_e.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/perspectives-comparees-des-effets-du-covid-sur-les-politiques-et-les-professionnels-du-care-aupres-des-personnes-agees-en-perte-dautonomie-a-domicile/",
+  "original_title": "Perspectives comparées des effets du Covid sur les politiques et les professionnels du care auprès des personnes âgées en perte d’autonomie à domicile",
+  "collection_date": ""
 }

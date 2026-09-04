@@ -1,33 +1,44 @@
 {
-    "titre": "La politisation des situations de handicap: accessibilité, participation et citoyenneté des personnes handicapées en France (2019-2022)",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à étudier la participation politique des personnes handicapées en France, en particulier dans le contexte de l'accessibilité et du citoyenneté.",
-        "contexte": "La participation politique des personnes handicapées est une question qui s’impose de plus en plus fortement dans l’agenda politique, mais elle demeure un angle mort des travaux en sociologie du handicap comme en sociologie électorale (contrairement à d'autres pays, les États-Unis en particulier). L’une des dernières contributions à la question émane de la rapporteure spéciale de l’ONU sur le droit à la participation politique.",
-        "problematique": "La problématique de cette initiative est de comprendre comment et pourquoi les personnes handicapées participent ou ne participent pas aux politiques publiques, en particulier dans le domaine de l'accessibilité et du citoyenneté.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Étudier la participation politique des personnes handicapées en France",
-            "Analyser les facteurs qui influencent leur participation ou non à la politique publique",
-            "Identifier les obstacles aux participations de ces individus dans le domaine de l'accessibilité et du citoyenneté"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019-2022"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\076_2018_la_politisation_des_situations_de_handicap_accessibilite_participation_et_citoyennete_des_personnes_handicapees_en_franc.txt",
-    "nom_fichier": "076_2018_la_politisation_des_situations_de_handicap_accessibilite_participation_et_citoyennete_des_personnes_handicapees_en_franc.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La politisation des situations de handicap: accessibilité, participation et citoyenneté des personnes handicapées en France (2019-2022)",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à étudier la participation politique des personnes handicapées en France, en particulier dans le contexte de l'accessibilité et du citoyenneté.",
+    "contexte": "La participation politique des personnes handicapées est une question qui s’impose de plus en plus fortement dans l’agenda politique, mais elle demeure un angle mort des travaux en sociologie du handicap comme en sociologie électorale (contrairement à d'autres pays, les États-Unis en particulier). L’une des dernières contributions à la question émane de la rapporteure spéciale de l’ONU sur le droit à la participation politique.",
+    "problematique": "La problématique de cette initiative est de comprendre comment et pourquoi les personnes handicapées participent ou ne participent pas aux politiques publiques, en particulier dans le domaine de l'accessibilité et du citoyenneté.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Étudier la participation politique des personnes handicapées en France",
+      "Analyser les facteurs qui influencent leur participation ou non à la politique publique",
+      "Identifier les obstacles aux participations de ces individus dans le domaine de l'accessibilité et du citoyenneté"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019",
+    "2022"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\076_2018_la_politisation_des_situations_de_handicap_accessibilite_participation_et_citoyennete_des_personnes_handicapees_en_franc.txt",
+  "nom_fichier": "076_2018_la_politisation_des_situations_de_handicap_accessibilite_participation_et_citoyennete_des_personnes_handicapees_en_franc.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/la-politisation-des-situations-de-handicap-accessibilite-participation-et-citoyennete-des-personnes-handicapees-en-france-2019-2022/",
+  "original_title": "La politisation des situations de handicap : accessibilité, participation et citoyenneté des personnes handicapées en France (2019-2022)",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Petits et grands fêtent Pâques",
-    "territoire": "Commune: La Plaine-sur-Mer (44)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La commune de La Plaine-sur-Mer a organisé un atelier bricolage pour les seniors pendant la Pâques.",
-        "contexte": "Les seniors ont exprimé leur satisfaction du travail en équipe, dans une ambiance joyeuse, qui a permis à certains d'entre eux de se sentir valorisés et engagés.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des ateliers similaires à ceux qui avaient été mis en place pour les fêtes de Noël, afin de renouveler ce type d'ateliers lors des rencontres Pause Café.",
-        "objectifs": [
-            "Animer la commune",
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
-        ]
-    },
-    "porteur_initiative": "La Plaine-sur-Mer (44)",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Petits_et_grands_fetent_Paques.txt",
-    "nom_fichier": "Petits_et_grands_fetent_Paques.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Petits et grands fêtent Pâques",
+  "territoire": [
+    "la plaine-sur-mer (44)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La commune de La Plaine-sur-Mer a organisé un atelier bricolage pour les seniors pendant la Pâques.",
+    "contexte": "Les seniors ont exprimé leur satisfaction du travail en équipe, dans une ambiance joyeuse, qui a permis à certains d'entre eux de se sentir valorisés et engagés.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des ateliers similaires à ceux qui avaient été mis en place pour les fêtes de Noël, afin de renouveler ce type d'ateliers lors des rencontres Pause Café.",
+    "objectifs": [
+      "Animer la commune",
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
+    ]
+  },
+  "porteur_initiative": "La Plaine-sur-Mer (44)",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Petits_et_grands_fetent_Paques.txt",
+  "nom_fichier": "Petits_et_grands_fetent_Paques.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Petits-et-grands-fetent-Paques.pdf",
+  "original_title": "Petits et grands fêtent Pâques",
+  "collection_date": ""
 }

@@ -1,34 +1,46 @@
 {
-    "titre": "Le réseau sentinelle: un dispositif pour lutter contre l'isolement",
-    "territoire": "Commune du Havre (76)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un réseau de partenaires, professionnels et bénévoles qui repère les personnes âgées fragilisées par la solitude pour mettre en place des réponses adaptées à leur situation.",
-        "contexte": "Le Havre (76) a mis en place le Réseau Sentinelle dans le cadre du label « Bien vieillir, vivre ensemble » en 2013. Le projet vise à créer un réseau de partenaires et professionnels qui identifient les personnes âgées fragilisées par la solitude.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Créer un réseau de partenaires, professionnels et bénévoles qui repère les personnes âgées fragilisées par la solitude pour mettre en place des réponses adaptées à leur situation. Former des jeunes sur un métier du social.",
-        "objectifs": [
-            "Créer un réseau de partenaires, professionnels et bénévoles afin de repérer les personnes âgées fragilisées par la solitude",
-            "Lutter contre l’isolement",
-            "Accompagner les personnes âgées identifiées en leur proposant le dispositif le plus adapté à leur situation"
-        ]
-    },
-    "porteur_initiative": "Ville du Havre (76)",
-    "date": [
-        "2013",
-        "2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_reseau_sentinelle_un_dispositif_pour_lutter_contre_lisolement.txt",
-    "nom_fichier": "Le_reseau_sentinelle_un_dispositif_pour_lutter_contre_lisolement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le réseau sentinelle: un dispositif pour lutter contre l'isolement",
+  "territoire": [
+    "commune du havre (76)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un réseau de partenaires, professionnels et bénévoles qui repère les personnes âgées fragilisées par la solitude pour mettre en place des réponses adaptées à leur situation.",
+    "contexte": "Le Havre (76) a mis en place le Réseau Sentinelle dans le cadre du label « Bien vieillir, vivre ensemble » en 2013. Le projet vise à créer un réseau de partenaires et professionnels qui identifient les personnes âgées fragilisées par la solitude.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Créer un réseau de partenaires, professionnels et bénévoles qui repère les personnes âgées fragilisées par la solitude pour mettre en place des réponses adaptées à leur situation. Former des jeunes sur un métier du social.",
+    "objectifs": [
+      "Créer un réseau de partenaires, professionnels et bénévoles afin de repérer les personnes âgées fragilisées par la solitude",
+      "Lutter contre l’isolement",
+      "Accompagner les personnes âgées identifiées en leur proposant le dispositif le plus adapté à leur situation"
+    ]
+  },
+  "porteur_initiative": "Ville du Havre (76)",
+  "date": [
+    "2013",
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_reseau_sentinelle_un_dispositif_pour_lutter_contre_lisolement.txt",
+  "nom_fichier": "Le_reseau_sentinelle_un_dispositif_pour_lutter_contre_lisolement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/182-182-reseau-sentinelle-le-havre.pdf",
+  "original_title": "Le réseau sentinelle : un dispositif pour lutter contre l'isolement",
+  "collection_date": ""
 }

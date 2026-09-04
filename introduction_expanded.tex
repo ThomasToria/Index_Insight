@@ -1,0 +1,148 @@
+\chapter{Introduction}
+
+\section{Internship context}
+
+Population ageing raises interconnected challenges for housing, mobility, access
+to healthcare, social participation, digital inclusion, and support for caregivers.
+These challenges are addressed not only through national policy frameworks, but
+also through locally designed initiatives carried by municipalities, associations,
+social-protection organisations, care providers, and citizen groups. Such
+initiatives constitute situated forms of knowledge: they document how actors in a
+specific territory identify local needs and develop responses to them.
+
+This internship was carried out within the International Chair ``Inclusive
+Societies and Ageing'' (SIAGE) at the University of Lorraine and contributes to
+the INSIGHT research project. SIAGE brings together research in the social
+sciences, public-policy studies, and technical disciplines in order to examine the
+conditions of inclusion and exclusion associated with ageing. Its work is concerned
+with both the diversity of older adults' life courses and the role of social,
+institutional, physical, and digital environments in supporting participation,
+autonomy, and citizenship.
+
+Among its participatory action-research activities, the Chair develops the
+\textit{Senior Citizen Design Workshops}. Developed in France since 2018 in
+collaboration with local authorities and the international REIACTIS network, this
+approach aims to involve older adults as citizens rather than only as users or
+beneficiaries of public action. The workshops are organised around four connected
+stages: participatory diagnosis, citizen-centred co-design, dialogue with public
+decision-makers, and follow-up and evaluation. They produce action sheets and
+other textual material in which participants describe local problems, proposed
+solutions, actors, and territorial resources.
+
+The documentary material available to the project extends beyond the action sheets
+produced within the Senior Citizen Design Workshops. Numerous initiatives are also
+carried locally by other territorial and gerontological actors. Their websites,
+reports, project descriptions, and practical sheets contain valuable, localised
+knowledge about responses to ageing-related challenges. However, this knowledge is
+dispersed across organisations, territories, formats, and editorial practices.
+
+Taken together, these resources form a large but heterogeneous French-language
+corpus. They are partially structured and difficult to mobilise systematically for
+researchers, local practitioners, policy-makers, and older citizens who may wish
+to identify or draw inspiration from initiatives developed in other territories.
+The purpose of \textit{Index\_Insight} is to make this dispersed material more
+visible, comparable, and reusable while preserving its documentary provenance.
+
+\section{Problem statement}
+
+Although the corpus contains rich descriptions of local responses to population
+ageing, the absence of a shared structure limits its practical and scientific use.
+It is difficult to search across territories, compare initiative types, identify the
+actors involved, or examine the themes and needs addressed by the documented
+initiatives. This scarcity of accessible and comparable information limits the
+capacity of researchers to analyse local ageing policies, of practitioners and local
+elected representatives to identify transferable experiences, and of older citizens
+to learn from initiatives developed elsewhere.
+
+This is also a natural language processing problem. The documents do not use a
+common template: a target audience, territorial scale, initiative holder, or date
+may appear in a heading, a table, a paragraph, or not be stated at all. Relevant
+information can be expressed through varied French formulations, while PDF
+extraction and web scraping may introduce boilerplate, broken encoding, or missing
+layout information. A useful system must therefore do more than fill database
+fields: it must distinguish absent information from extraction failure, retain a
+link to the source, and make uncertain outputs reviewable.
+
+The problem addressed in this internship is consequently not only the technical
+extraction of information from text. It is the design of a documented and
+interdisciplinary workflow capable of transforming heterogeneous documentary
+resources into structured metadata that can support exploration, comparison,
+capitalisation of experience, and the circulation of knowledge between territories.
+The intended result is an exploratory index, rather than an exhaustive inventory
+of initiatives or a system that evaluates their quality or effectiveness.
+
+\section{Objectives of the thesis}
+
+The objective of this work is to design and implement a prototype tool based on
+natural language processing techniques. More specifically, the project aims to:
+
+\begin{enumerate}
+    \item collect French-language documentary resources from multiple sources and
+    preserve their raw content and provenance;
+    \item clean and organise these heterogeneous materials into a coherent,
+    traceable corpus;
+    \item extract structured metadata relevant to the description of territorial
+    initiatives, using both rule-based methods and a constrained local language
+    model;
+    \item normalise selected themes and initiative types into controlled French
+    vocabularies while retaining the original extracted labels; and
+    \item evaluate the observed quality of selected metadata fields against human
+    annotations, and identify the limits of the resulting descriptive analyses.
+\end{enumerate}
+
+\paragraph{Research question.}
+This internship addresses the following research question: \emph{to what extent
+can a locally deployed language model transform heterogeneous textual
+descriptions of territorial initiatives related to population ageing into
+reliable, structured, and reusable metadata?} Three operational questions
+follow: (i) how can documents with different formats and editorial structures be
+collected and normalised in a traceable way; (ii) which metadata can be extracted
+under controlled vocabularies; and (iii) how should corpus quality be assessed
+without confusing field completion with factual correctness?
+
+\section{Scope of the prototype}
+
+\textit{Index\_Insight} focuses on French-language textual resources that describe
+initiatives, projects, services, or reflections related to ageing and territorial
+inclusion. Its structured records are intended to support documentary retrieval and
+exploratory comparison. They do not constitute an evaluation of an initiative's
+impact, a ranking of territories, or a representation of all initiatives existing
+in France. The system is likewise not designed to make decisions about people or
+organisations. These boundaries are important because the corpus reflects the
+availability and editorial choices of its sources as much as it reflects the
+underlying initiatives.
+
+\section{Contributions}
+
+The first contribution of this internship is a documented corpus of 1,153
+resources from six complementary sources. The collection is accompanied by a data
+architecture that separates raw documents, intermediate processing artefacts,
+structured outputs, and evaluation material. This organisation makes it possible
+to inspect each stage of the workflow and to revisit a record when a source or an
+extraction decision needs to be checked.
+
+The second contribution is an extraction pipeline adapted to documentary
+heterogeneity. It combines a transparent rule-based baseline with a local LLM
+workflow that uses a French prompt, controlled labels, and machine-readable JSON
+outputs. The pipeline produces metadata covering target audience, initiative type,
+theme, territorial scale, territory, initiative holder, and date. A deterministic
+normalisation layer then improves comparability between documents without
+overwriting the original model outputs.
+
+The third contribution is an initial empirical evaluation of the LLM-assisted
+metadata. A human-annotated, source-stratified sample makes it possible to report
+field-level quality rather than relying solely on output completeness. Together
+with provenance fields and archived raw responses, this evaluation positions the
+prototype as a reviewable research tool and provides concrete priorities for
+future improvement, especially for temporally ambiguous information.
+
+\section{Structure of the thesis}
+
+Chapter~2 reviews related work on information extraction, named entity
+recognition, text classification, large language models, and information
+retrieval. Chapter~3 presents the corpus, the collection process, the data model,
+and the extraction methodology. Chapter~4 describes the implementation and the
+reproducibility measures adopted in the project. Chapter~5 reports the evaluation
+protocol and results. Chapter~6 discusses the contributions, limitations, ethical
+considerations, and possible uses of the index. Finally, Chapter~7 summarises the
+work and outlines the main directions for future development.

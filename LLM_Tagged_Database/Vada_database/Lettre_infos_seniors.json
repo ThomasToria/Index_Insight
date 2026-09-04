@@ -1,32 +1,44 @@
 {
-    "titre": "Lettre d'informations seniors",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Une lettre d’information par mail pour les seniors, professionnels et familles des seniors.",
-        "contexte": "Des seniors ont mis en avant qu'ils lisaient le jour natal et après, ils oubliaient certaines activités proposées et auraient aimé avoir ces informations par mail.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une lettre d'information par mail pour les seniors, professionnels et familles des seniors.",
-        "objectifs": [
-            "Centraliser l’actualité et les activités spécifiques pour les seniors",
-            "Rappeler aux seniors de s’inscrire à certaines activités"
-        ]
-    },
-    "porteur_initiative": "La ville amie des aînés depuis 2025, en route pour le label - Grand-Couronne (76)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lettre_infos_seniors.txt",
-    "nom_fichier": "Lettre_infos_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Lettre d'informations seniors",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Une lettre d’information par mail pour les seniors, professionnels et familles des seniors.",
+    "contexte": "Des seniors ont mis en avant qu'ils lisaient le jour natal et après, ils oubliaient certaines activités proposées et auraient aimé avoir ces informations par mail.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une lettre d'information par mail pour les seniors, professionnels et familles des seniors.",
+    "objectifs": [
+      "Centraliser l’actualité et les activités spécifiques pour les seniors",
+      "Rappeler aux seniors de s’inscrire à certaines activités"
+    ]
+  },
+  "porteur_initiative": "La ville amie des aînés depuis 2025, en route pour le label - Grand-Couronne (76)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lettre_infos_seniors.txt",
+  "nom_fichier": "Lettre_infos_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Lettre-infos-seniors.pdf",
+  "original_title": "Lettre infos seniors",
+  "collection_date": ""
 }

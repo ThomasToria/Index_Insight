@@ -1,33 +1,44 @@
 {
-    "titre": "ATELIER CUSTOMISATION",
-    "territoire": "Commune du Vauclin",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un atelier occupationnel encadré pour les seniors, visant à stimuler la créativité, le lien social et la valorisation des savoir-faire.",
-        "contexte": "Particulièrement de nombreuses personnes âgées du Vauclin sont exposées à un risque d'isolement social et rencontrent des difficultés pour occuper leur temps libre de manière stimulante et structurée.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des ateliers occupationnels adaptés aux personnes âgées, proposant des activités créatives et structurées pour maintenir le bien-être et l’autonomie des seniors.",
-        "objectifs": [
-            "Maintenir et stimuler les capacités cognitives et motrices des participants",
-            "Favoriser l'autonomie au quotidien"
-        ]
-    },
-    "porteur_initiative": "CCAS du Vauclin",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ATELIER_CUSTOMISATION.txt",
-    "nom_fichier": "ATELIER_CUSTOMISATION.txt",
-    "statut_action": "projet réalisé"
+  "titre": "ATELIER CUSTOMISATION",
+  "territoire": [
+    "commune du vauclin"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un atelier occupationnel encadré pour les seniors, visant à stimuler la créativité, le lien social et la valorisation des savoir-faire.",
+    "contexte": "Particulièrement de nombreuses personnes âgées du Vauclin sont exposées à un risque d'isolement social et rencontrent des difficultés pour occuper leur temps libre de manière stimulante et structurée.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des ateliers occupationnels adaptés aux personnes âgées, proposant des activités créatives et structurées pour maintenir le bien-être et l’autonomie des seniors.",
+    "objectifs": [
+      "Maintenir et stimuler les capacités cognitives et motrices des participants",
+      "Favoriser l'autonomie au quotidien"
+    ]
+  },
+  "porteur_initiative": "CCAS du Vauclin",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\ATELIER_CUSTOMISATION.txt",
+  "nom_fichier": "ATELIER_CUSTOMISATION.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-ATELIER-CUSTOMISATION-2.pdf",
+  "original_title": "ATELIER CUSTOMISATION",
+  "collection_date": ""
 }

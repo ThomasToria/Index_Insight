@@ -1,37 +1,45 @@
 {
-    "titre": "Des rencontres intergénérationnelles pour lutter contre l'isolement",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "quartier",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées isolées en leur permettant d’entretenir les liens sociaux et culturels avec leurs proches et la société.",
-        "contexte": "Les seniors isolés sont souvent privés de visites régulières, ce qui peut entraîner un sentiment d'isolement et une perte de lien social. Les initiatives intergénérationnelles permettent de réduire l’isolement des personnes âgées.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer des visites de convivialité à des jeunes volontaires issus du Service Civique pour former les seniors isolés et favoriser le lien social.",
-        "objectifs": [
-            "Réduire l'isolement des personnes âgées",
-            "Développer les liens intergénérationnels",
-            "Favoriser le bien-être des aînés",
-            "Contribuer au maintien de l'autonomie des personnes visitées"
-        ]
-    },
-    "porteur_initiative": "Unis’cité",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.txt",
-    "nom_fichier": "Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des rencontres intergénérationnelles pour lutter contre l'isolement",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées isolées en leur permettant d’entretenir les liens sociaux et culturels avec leurs proches et la société.",
+    "contexte": "Les seniors isolés sont souvent privés de visites régulières, ce qui peut entraîner un sentiment d'isolement et une perte de lien social. Les initiatives intergénérationnelles permettent de réduire l’isolement des personnes âgées.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer des visites de convivialité à des jeunes volontaires issus du Service Civique pour former les seniors isolés et favoriser le lien social.",
+    "objectifs": [
+      "Réduire l'isolement des personnes âgées",
+      "Développer les liens intergénérationnels",
+      "Favoriser le bien-être des aînés",
+      "Contribuer au maintien de l'autonomie des personnes visitées"
+    ]
+  },
+  "porteur_initiative": "Unis’cité",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.txt",
+  "nom_fichier": "Des_rencontres_intergenerationnelles_pour_lutter_contre_lisolement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/180-pe-lutte-contre-l-isolement-mise-en-forme-2023.pdf",
+  "original_title": "Des rencontres intergénérationnelles pour lutter contre l'isolement",
+  "collection_date": ""
 }

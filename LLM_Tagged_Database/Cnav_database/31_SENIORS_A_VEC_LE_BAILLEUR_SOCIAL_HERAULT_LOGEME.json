@@ -1,29 +1,39 @@
 {
-    "titre": "SENIORS A VEC LE BAILLEUR SOCIAL HÉRAULT LOGEMENT",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La Carsat du Languedoc-Roussillon et le bailleur social Hérault Logement ont défini un parcours de prévention à destination des résidents retraités pour permettre aux retraités locataires d’avoir un vieillissement actif et en santé.",
-        "contexte": "Face aux nouveaux enjeux liés aux retombées de la transition démographique, la Carsat ne cesse d’élargir ses prérogatives pour répondre au mieux aux défis du bien-vieillir. À ce titre, la Carsat engage de nouveaux partenariats avec les bailleurs sociaux.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Développement d’un parcours de prévention à destination des retraités locataires pour permettre un vieillissement actif et en santé.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Carsat du Languedoc-Roussillon",
-    "date": [
-        "01/01/2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt",
-    "nom_fichier": "31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt",
-    "statut_action": "projet réalisé"
+  "titre": "SENIORS A VEC LE BAILLEUR SOCIAL HÉRAULT LOGEMENT",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La Carsat du Languedoc-Roussillon et le bailleur social Hérault Logement ont défini un parcours de prévention à destination des résidents retraités pour permettre aux retraités locataires d’avoir un vieillissement actif et en santé.",
+    "contexte": "Face aux nouveaux enjeux liés aux retombées de la transition démographique, la Carsat ne cesse d’élargir ses prérogatives pour répondre au mieux aux défis du bien-vieillir. À ce titre, la Carsat engage de nouveaux partenariats avec les bailleurs sociaux.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Développement d’un parcours de prévention à destination des retraités locataires pour permettre un vieillissement actif et en santé.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Carsat du Languedoc-Roussillon",
+  "date": [
+    "2023-01-01"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt",
+  "nom_fichier": "31_SENIORS_A_VEC_LE_BAILLEUR_SOCIAL_HERAULT_LOGEME.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "SENIORS A VEC LE BAILLEUR SOCIAL HÉRAULT LOGEMENT",
+  "collection_date": ""
 }

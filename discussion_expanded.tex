@@ -1,0 +1,184 @@
+% Requires BibTeX entries: cnil2024reuse, strubell2019energy,
+% and unesco2021recommendation.
+
+\chapter{Discussion}
+
+\section{Contributions of the internship}
+
+This internship delivers a documented corpus of 1,153 French-language
+resources on territorial adaptation to ageing, containing approximately
+917,554 word tokens. It brings together heterogeneous material from six
+institutional and associative sources: CNAV, Fondation de France, SIAGE,
+HCFEA, IReSP Autonomie, and the French Network of Age-friendly Cities
+(RFVAA). Beyond the corpus itself, the project provides a traceable data
+architecture that preserves raw documents, intermediate files, structured
+records, and review artefacts.
+
+The work also proposes a practical natural language processing workflow for a
+documentary context in which sources differ substantially in form and level of
+detail. A transparent rule-based baseline is complemented by a local LLM-based
+extractor with a constrained French prompt and JSON output. The resulting
+records can be explored through fields such as target audience, initiative
+type, theme, territorial scale, territory, holder, and date. A deterministic
+normalisation layer then maps the extracted themes and initiative types to
+controlled French vocabularies while retaining the original model outputs.
+
+Finally, the internship makes the resulting index more auditable. Each
+structured record is associated, where available, with provenance fields such
+as the source site, source URL, original title, and collection date. This
+distinction between extracted metadata and documentary provenance is important:
+the former supports exploration, whereas the latter allows a user to return to
+the source and verify an interpretation. The project should therefore be seen
+as both an NLP prototype and a documented foundation for a future INSIGHT
+index.
+
+\section{Interpretation of the extraction results}
+
+The human review of a stratified sample of 60 documents provides evidence that
+the constrained extraction workflow is usable for several fields, but it does
+not establish perfect reliability for the whole corpus. In particular, the
+four controlled categorical fields obtained very high agreement with the gold
+annotations: target audience, initiative type, and theme reached a micro-F1 of
+1.000, while territorial scale reached a micro-F1 of 0.993. These results are
+consistent with the fact that a restricted label set reduces output variation
+and makes both automatic parsing and manual assessment easier.
+
+The open-text fields require a more nuanced reading. On evaluable cases,
+accepted rates were 0.981 for territory, 0.974 for initiative holder, and
+0.786 for date. These figures should not be interpreted as an intrinsic
+property of the model alone. They reflect the interaction between the model,
+the prompt, the extraction limit, and--above all--the evidence available in the
+source documents. A holder or date may be absent, implicit, or ambiguous in a
+document. For this reason, the annotation protocol distinguished an incorrect
+answer from a correct absence: when the source did not provide a reliable value
+and the system returned an empty field, this was considered an accepted
+outcome. Conversely, non-evaluable cases were excluded from the denominator
+because the source did not allow a confident human decision either.
+
+The source-level analysis further shows why an aggregate score is not
+sufficient. The controlled fields were stable across the six subsets, whereas
+the date field varied more strongly according to source format. For example,
+dates were less often accepted in the CNAV and RFVAA subsets than in sources
+whose documents expose publication dates more consistently. Territorial scale
+also missed one label in the Fondation de France subset. These results do not
+demonstrate that one source is inherently more difficult than another: each
+subset contains only ten documents. They nevertheless identify concrete
+priorities for improvement, particularly a clearer temporal schema and
+source-specific checks for fields that are often incomplete.
+
+Overall, the experiment supports the use of the metadata as an exploratory and
+reviewable index. It does not justify presenting every extracted value as a
+verified fact, nor does it replace human judgement for public-facing
+publication or policy analysis. The evaluation is best understood as a first
+benchmark that can be extended with further annotations, a second annotator,
+and agreement measures between annotators.
+
+\section{Interpretation of descriptive outputs}
+
+The normalised records make it possible to describe the documentary collection
+and to compare subsets of documents. The most frequent thematic labels include
+\textit{autonomie et avanc\'ee en \^age}, \textit{sant\'e et pr\'evention}, and
+\textit{lien social et lutte contre l'isolement}. Among initiative types,
+workshops, training, studies or surveys, awareness-raising activities, and
+events are recurrent. These patterns are plausible in a corpus devoted to
+adaptation to ageing, but they must be read as properties of the collected and
+labelled documents rather than as estimates of the real distribution of
+initiatives in France.
+
+Several mechanisms can influence these descriptive outputs. First, the corpus
+is highly unbalanced across sources: RFVAA documents represent the largest
+share of the collection. Second, the same initiative may be documented by more
+than one resource, whereas other initiatives may have little or no web
+presence. Third, source editors decide which activities to publish and how to
+describe them. Finally, a single document can receive several themes or
+initiative types; category counts are therefore not mutually exclusive.
+
+The normalisation step improves comparability without eliminating these
+limitations. It applies deterministic mappings to the original extracted
+labels, so it does not create a second model prediction. However, any
+controlled vocabulary necessarily groups together some distinctions present in
+the source material. The preservation of the original fields, the use of an
+\textit{autre / \`a revoir} category, and versioning of the taxonomy are thus
+important safeguards. In this context, the figures and tables generated by the
+project are most useful for exploratory navigation, hypothesis generation, and
+discussion with INSIGHT users. They should not be used to rank territories,
+assess local performance, or infer causal effects.
+
+\section{Ethical, legal, and methodological considerations}
+
+The corpus is composed of publicly accessible institutional and associative
+resources, supplemented by SIAGE action sheets supplied within the internship
+context. Its purpose is documentary analysis; the system does not profile
+individuals and must not be used to make consequential decisions about people,
+organisations, or territories. Public accessibility is not equivalent to an
+unlimited right of reuse. Collection and dissemination must remain compatible
+with the terms of access of the source websites, intellectual-property rights,
+database rights where applicable, and data-protection obligations
+\cite{cnil2024reuse}.
+
+Provenance is consequently both a technical and an ethical requirement. When a
+document comes from an external website, the index should retain its source
+site and URL, as well as its original title. This makes attribution possible,
+allows corrections to be traced back to their origin, and enables a user to
+consult the source rather than treating the extracted metadata as a substitute
+for it. In a future public interface, the index should preferentially expose
+short metadata and links to the original resource, rather than redistributing
+full documents without a clear legal basis.
+
+The use of an LLM also requires calibrated claims. Structured outputs can be
+wrong, incomplete, or overly confident even when they are syntactically valid.
+The project mitigates this risk through controlled vocabularies, raw-output
+archiving, provenance fields, and manual evaluation. These measures improve
+auditability, but human review remains necessary before metadata are published
+as factual statements. This is particularly important for territories, holders,
+and dates, for which the source evidence can be ambiguous.
+
+The project also has an environmental dimension. Local inference avoids
+transmitting document content to a commercial remote API, but it does not make
+the workflow impact-free. Energy use depends on the hardware, model, number of
+requests, and repeated experimentation. As no energy measurement was performed,
+the internship does not claim a quantified carbon footprint. Instead, it adopts
+proportionate measures: a relatively small local model, no model training,
+bounded input and output lengths, deterministic inference settings, and the
+archiving of outputs to avoid unnecessary repeated runs. These choices are in
+line with calls to consider the environmental costs of NLP and the broader
+responsibility of AI systems \cite{strubell2019energy, unesco2021recommendation}.
+
+\section{Limitations and future work}
+
+The first limitation concerns corpus coverage. The collection is not a
+representative sample of all initiatives related to ageing in France: it
+inherits the selection and editorial practices of the six sources, and its
+source distribution is strongly unbalanced. Some documents are web pages,
+others are PDFs or action sheets; their textual quality, metadata, and layout
+vary substantially. Web pages can also change after collection. The corpus
+should therefore be described as a documented collection, not as an exhaustive
+inventory of French initiatives.
+
+The evaluation is deliberately modest. It uses 60 documents, ten per source,
+and one human reviewer. This design is useful for detecting systematic
+problems and comparing source formats, but it does not provide a large enough
+sample for precise generalisation. Moreover, only the fields selected in the
+annotation workbook were evaluated; free-text descriptions and every
+normalised mapping were not independently assessed. Ten corpus documents do
+not yet have an LLM output and are consequently absent from the structured
+descriptive analyses. The next version should complete these records, enlarge
+the benchmark, introduce double annotation on an overlapping subset, report
+inter-annotator agreement, and assess the normalised fields directly.
+
+Date extraction deserves specific attention. A single field can refer to a
+publication date, an event date, a project start date, a duration, or no date
+at all. A more explicit temporal schema, accompanied by source-specific rules
+or evidence spans, would make the field more informative and easier to
+evaluate. Similar improvements could be made for holder and territory by
+storing the textual evidence that supports an extracted value. Future data
+collection should also populate \texttt{collection\_date} at the time of
+acquisition, rather than attempting to reconstruct it afterwards.
+
+Further technical work could compare several local models and prompt versions,
+add duplicate or near-duplicate detection, and develop automatic checks for
+missing or contradictory metadata. Finally, a faceted search interface or a
+hybrid lexical--semantic retrieval system could make the index more useful to
+INSIGHT users. Such an interface should be designed with users, expose the
+source and uncertainty of metadata, and keep human validation in the loop for
+uses that go beyond exploratory documentary search.

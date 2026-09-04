@@ -1,33 +1,43 @@
 {
-    "titre": "En voiture seniors!",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La Ville Amie des Aînés de Louhans a organisé une série d'ateliers sur la mobilité pour les seniors, visant à améliorer leur sécurité routière.",
-        "contexte": "Les seniors ont exprimé le besoin de renforcer leurs compétences en matière de conduite et de préserver leur autonomie. La Ville Amie des Aînés a décidé d'organiser un programme d'éducation routière pour les résidents de la commune.",
-        "problematique": "La mobilité reste essentielle pour la vie sociale, mais les seniors ont peur de commettre des erreurs de conduite et de se faire malentendre par les autres conducteurs. Les sessions d'ateliers visent à lutter contre ces préoccupations.",
-        "solution_envisagee": "Les sessions d'ateliers sur la mobilité ont été organisées pour améliorer la sécurité routière des seniors et leur permettre de continuer à se déplacer, tout en préservant leur autonomie et leur qualité de vie.",
-        "objectifs": [
-            "Améliorer la sécurité routière des seniors",
-            "Permettre aux résidents de la commune de se déplacer plus facilement",
-            "Maintenir l'autonomie et le lien social chez les aînés"
-        ]
-    },
-    "porteur_initiative": "CCAS de Louhans",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\En_voiture_seniors.txt",
-    "nom_fichier": "En_voiture_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "En voiture seniors!",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La Ville Amie des Aînés de Louhans a organisé une série d'ateliers sur la mobilité pour les seniors, visant à améliorer leur sécurité routière.",
+    "contexte": "Les seniors ont exprimé le besoin de renforcer leurs compétences en matière de conduite et de préserver leur autonomie. La Ville Amie des Aînés a décidé d'organiser un programme d'éducation routière pour les résidents de la commune.",
+    "problematique": "La mobilité reste essentielle pour la vie sociale, mais les seniors ont peur de commettre des erreurs de conduite et de se faire malentendre par les autres conducteurs. Les sessions d'ateliers visent à lutter contre ces préoccupations.",
+    "solution_envisagee": "Les sessions d'ateliers sur la mobilité ont été organisées pour améliorer la sécurité routière des seniors et leur permettre de continuer à se déplacer, tout en préservant leur autonomie et leur qualité de vie.",
+    "objectifs": [
+      "Améliorer la sécurité routière des seniors",
+      "Permettre aux résidents de la commune de se déplacer plus facilement",
+      "Maintenir l'autonomie et le lien social chez les aînés"
+    ]
+  },
+  "porteur_initiative": "CCAS de Louhans",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\En_voiture_seniors.txt",
+  "nom_fichier": "En_voiture_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1098-concours-2024-en-voiture-seniors.pdf",
+  "original_title": "En voiture seniors !",
+  "collection_date": ""
 }

@@ -1,32 +1,43 @@
 {
-    "titre": "Seniors au volant",
-    "territoire": "Commune des Pennes-Mirabeau, 13",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Organiser une journée de sensibilisation à la sécurité routière pour les seniors afin de prévenir les risques d'accident.",
-        "contexte": "La mobilité est un enjeu majeur pour garantir l'autonomie des plus âgés, et compte tenu de la configuration de la ville, certains conducteurs doivent utiliser leurs véhicules pour se déplacer.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Préserver l'autonomie des seniors",
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_au_volant.txt",
-    "nom_fichier": "Seniors_au_volant.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Seniors au volant",
+  "territoire": [
+    "commune des pennes-mirabeau, 13"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Organiser une journée de sensibilisation à la sécurité routière pour les seniors afin de prévenir les risques d'accident.",
+    "contexte": "La mobilité est un enjeu majeur pour garantir l'autonomie des plus âgés, et compte tenu de la configuration de la ville, certains conducteurs doivent utiliser leurs véhicules pour se déplacer.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Préserver l'autonomie des seniors",
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_au_volant.txt",
+  "nom_fichier": "Seniors_au_volant.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/819-concours-2022-46-seniors-aux-volant.pdf",
+  "original_title": "Seniors au volant",
+  "collection_date": ""
 }

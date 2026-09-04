@@ -1,35 +1,47 @@
 {
-    "titre": "Un projet intergénérationnel autour de l'opéra Little Nemo",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un projet intergénérationnel autour de l'opéra Little Nemo, rassemblant une classe d'école primaire et un groupe de personnes âgées.",
-        "contexte": "Le projet a été mené depuis 2012-2013 avec succès pour plusieurs saisons, illustré par des opéras familiaux et radio. L'opéra Little Nemo créé en janvier 2017 à Angers-Nantes Opéra a inspiré la création d'un nouveau projet.",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un atelier intergénérationnel rassemblant une classe d'école primaire et un groupe de personnes âgées autour d'une thématique commune: l'opéra. Le projet vise à maintenir le lien social, sensibiliser les jeunes à l'univers de l'opéra, et coordonner la reconstruction intergénérationnelle d'une œuvre musicale.",
-        "objectifs": [
-            "Rassembler une classe d'école primaire et un groupe de personnes âgées autour d’une thématique commune: l’opéra.",
-            "Coordonner la création collective d’un opéra-radio.",
-            "Découvrir collectivement un opéra et les coulisses de sa production.",
-            "Maintenir le lien social."
-        ]
-    },
-    "porteur_initiative": "Opéra de Dijon",
-    "date": [
-        "2016-09",
-        "2017-02"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_intergenerationnel_autour_de_lopera_little_nemo.txt",
-    "nom_fichier": "Un_projet_intergenerationnel_autour_de_lopera_little_nemo.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un projet intergénérationnel autour de l'opéra Little Nemo",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un projet intergénérationnel autour de l'opéra Little Nemo, rassemblant une classe d'école primaire et un groupe de personnes âgées.",
+    "contexte": "Le projet a été mené depuis 2012-2013 avec succès pour plusieurs saisons, illustré par des opéras familiaux et radio. L'opéra Little Nemo créé en janvier 2017 à Angers-Nantes Opéra a inspiré la création d'un nouveau projet.",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un atelier intergénérationnel rassemblant une classe d'école primaire et un groupe de personnes âgées autour d'une thématique commune: l'opéra. Le projet vise à maintenir le lien social, sensibiliser les jeunes à l'univers de l'opéra, et coordonner la reconstruction intergénérationnelle d'une œuvre musicale.",
+    "objectifs": [
+      "Rassembler une classe d'école primaire et un groupe de personnes âgées autour d’une thématique commune: l’opéra.",
+      "Coordonner la création collective d’un opéra-radio.",
+      "Découvrir collectivement un opéra et les coulisses de sa production.",
+      "Maintenir le lien social."
+    ]
+  },
+  "porteur_initiative": "Opéra de Dijon",
+  "date": [
+    "2016",
+    "2017"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_intergenerationnel_autour_de_lopera_little_nemo.txt",
+  "nom_fichier": "Un_projet_intergenerationnel_autour_de_lopera_little_nemo.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/332-332-opera-little-nemo.pdf",
+  "original_title": "Un projet intergénérationnel autour de l’opéra little nemo",
+  "collection_date": ""
 }

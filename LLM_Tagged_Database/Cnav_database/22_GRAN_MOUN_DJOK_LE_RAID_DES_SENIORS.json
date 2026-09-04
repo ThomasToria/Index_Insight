@@ -1,30 +1,40 @@
 {
-    "titre": "GRAN MOUN DJOK – LE RAID DES SENIORS",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Manifestation ayant pour objectif de valoriser les bienfaits de l'activité physique adaptée pour les personnes âgées de plus de 55 ans, avec pour valeur: l’émulation collective, la pratique physique, l’aspect ludique, le dépassement de soi, l’aspect culturel et la mobilisation des capacités mnésiques.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Valoriser l'activité physique adaptée pour les personnes âgées par une manifestation ludique et éducative.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "association APASAM (Activités Physiques Adaptées Santé Martinique)",
-    "date": [
-        "01/02/2023",
-        "17/02/2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt",
-    "nom_fichier": "22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "GRAN MOUN DJOK – LE RAID DES SENIORS",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Manifestation ayant pour objectif de valoriser les bienfaits de l'activité physique adaptée pour les personnes âgées de plus de 55 ans, avec pour valeur: l’émulation collective, la pratique physique, l’aspect ludique, le dépassement de soi, l’aspect culturel et la mobilisation des capacités mnésiques.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Valoriser l'activité physique adaptée pour les personnes âgées par une manifestation ludique et éducative.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "association APASAM (Activités Physiques Adaptées Santé Martinique)",
+  "date": [
+    "2023-02-01",
+    "2023-02-17"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt",
+  "nom_fichier": "22_GRAN_MOUN_DJOK_LE_RAID_DES_SENIORS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "GRAN MOUN DJOK – LE RAID DES SENIORS",
+  "collection_date": ""
 }

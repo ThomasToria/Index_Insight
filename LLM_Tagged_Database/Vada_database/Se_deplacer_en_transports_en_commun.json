@@ -1,33 +1,43 @@
 {
-    "titre": "Se déplacer en transports en commun",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le maintien de l'autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028. Cette autonomie passe par l’utilisation des transports en commun.",
-        "contexte": "Les résidents ont exprimé, à de nombreuses reprises, leurs réticences à emprunter le tramway ou le bus. En vieillissant, les personnes âgées rencontrent des problèmes de mobilité, notamment avec l’utilisation d’aides techniques nécessaires au quotidien.",
-        "problematique": "Les seniors ont des difficultés à se déplacer en transports en commun, principalement concernant la mobilité et l'utilisation d’aides techniques.",
-        "solution_envisagee": "L’initiative vise à renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale. Elle propose des ateliers théoriques et pratiques sur le réseau de transports en commun.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des seniors dans la vie locale",
-            "Susciter l’envie de se déplacer en transports en commun"
-        ]
-    },
-    "porteur_initiative": "CCAS de Tours",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_en_transports_en_commun.txt",
-    "nom_fichier": "Se_deplacer_en_transports_en_commun.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Se déplacer en transports en commun",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le maintien de l'autonomie des seniors est l’un des principaux objectifs du projet d’établissement des EHPA 2024-2028. Cette autonomie passe par l’utilisation des transports en commun.",
+    "contexte": "Les résidents ont exprimé, à de nombreuses reprises, leurs réticences à emprunter le tramway ou le bus. En vieillissant, les personnes âgées rencontrent des problèmes de mobilité, notamment avec l’utilisation d’aides techniques nécessaires au quotidien.",
+    "problematique": "Les seniors ont des difficultés à se déplacer en transports en commun, principalement concernant la mobilité et l'utilisation d’aides techniques.",
+    "solution_envisagee": "L’initiative vise à renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale. Elle propose des ateliers théoriques et pratiques sur le réseau de transports en commun.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des seniors dans la vie locale",
+      "Susciter l’envie de se déplacer en transports en commun"
+    ]
+  },
+  "porteur_initiative": "CCAS de Tours",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Se_deplacer_en_transports_en_commun.txt",
+  "nom_fichier": "Se_deplacer_en_transports_en_commun.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1067-concours-2024-se-deplacer-en-transports-en-commun.pdf",
+  "original_title": "Se déplacer en transports en commun",
+  "collection_date": ""
 }

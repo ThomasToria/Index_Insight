@@ -1,30 +1,42 @@
 {
-    "titre": "ATALIER « HABITAT: LES CLEFS DE MA SANTÉ »",
-    "territoire": "Dordogne, Gironde, Landes, Lot-et-Garonne et Pyrénées-Atlantiques",
-    "echelle": [
-        "départementale",
-        "régionale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Atelier en 5 séances de 2 heures pour 12 personnes environ, couvrant les notions d'habitat, de bien-être et de santé, la santé environnementale et la qualité de l'air intérieur.",
-        "contexte": "Identifier les liens entre les notions d'habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives; identifier les leviers d'action pour limiter les dépenses énergétiques et optimiser son budget et son aménagement intérieur.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Atelier en 5 séances de 2 heures pour 12 personnes environ couvrant les notions d'habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives; identifier les leviers d'action pour limiter les dépenses énergétiques et optimiser son budget et son aménagement intérieur.",
-        "objectifs": "Identifier les liens entre les notions d'habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives; identifier les leviers d'action pour limiter les dépenses énergétiques et optimiser son budget et son aménagement intérieur."
-    },
-    "porteur_initiative": "association Santé Éducation et Prévention sur les Territoires",
-    "date": [
-        "à partir de septembre 2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt",
-    "nom_fichier": "18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt",
-    "statut_action": "projet réalisé"
+  "titre": "ATALIER « HABITAT: LES CLEFS DE MA SANTÉ »",
+  "territoire": [
+    "dordogne, gironde, landes, lot-et-garonne et pyrénées-atlantiques"
+  ],
+  "echelle": [
+    "départementale",
+    "régionale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Atelier en 5 séances de 2 heures pour 12 personnes environ, couvrant les notions d'habitat, de bien-être et de santé, la santé environnementale et la qualité de l'air intérieur.",
+    "contexte": "Identifier les liens entre les notions d'habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives; identifier les leviers d'action pour limiter les dépenses énergétiques et optimiser son budget et son aménagement intérieur.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Atelier en 5 séances de 2 heures pour 12 personnes environ couvrant les notions d'habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives; identifier les leviers d'action pour limiter les dépenses énergétiques et optimiser son budget et son aménagement intérieur.",
+    "objectifs": "Identifier les liens entre les notions d'habitat, de bien-être et de santé; aborder la santé environnementale et la qualité de l'air intérieur; évoquer les grandes thématiques en lien avec la santé environnementale: les perturbateurs endocriniens, l'utilisation des produits ménagers et les alternatives; identifier les leviers d'action pour limiter les dépenses énergétiques et optimiser son budget et son aménagement intérieur."
+  },
+  "porteur_initiative": "association Santé Éducation et Prévention sur les Territoires",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt",
+  "nom_fichier": "18_ATELIER_HABITAT_LES_CLEFS_DE_MA_SANTE.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "ATELIER « HABITAT : LES CLEFS DE MA SANTÉ »",
+  "collection_date": ""
 }

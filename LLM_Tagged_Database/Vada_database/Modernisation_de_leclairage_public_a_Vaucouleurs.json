@@ -1,32 +1,43 @@
 {
-    "titre": "Modernisation de l'éclairage public à Vaucouleurs",
-    "territoire": "Commune: Vaucouleurs, Meuse",
-    "echelle": [
-        "communale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La ville de Vaucouleurs a décidé de moderniser l'éclairage public dans le quartier, en remplaçant les lumières traditionnelles par des LED.",
-        "contexte": "Les seniors et leurs proches ont exprimé une sentiment d'insécurité lors des sorties nocturnes, notamment pendant les soirées organisées par les associations. La ville a donc décidé de mettre en place un système de vidéo protection pour renforcer la sécurité.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La mise en place d'un système de vidéo protection pour renforcer la sécurité des seniors lors des sorties nocturnes.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Ville de Vaucouleurs",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Modernisation_de_leclairage_public_a_Vaucouleurs.txt",
-    "nom_fichier": "Modernisation_de_leclairage_public_a_Vaucouleurs.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Modernisation de l'éclairage public à Vaucouleurs",
+  "territoire": [
+    "vaucouleurs, meuse"
+  ],
+  "echelle": [
+    "communale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La ville de Vaucouleurs a décidé de moderniser l'éclairage public dans le quartier, en remplaçant les lumières traditionnelles par des LED.",
+    "contexte": "Les seniors et leurs proches ont exprimé une sentiment d'insécurité lors des sorties nocturnes, notamment pendant les soirées organisées par les associations. La ville a donc décidé de mettre en place un système de vidéo protection pour renforcer la sécurité.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La mise en place d'un système de vidéo protection pour renforcer la sécurité des seniors lors des sorties nocturnes.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Ville de Vaucouleurs",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Modernisation_de_leclairage_public_a_Vaucouleurs.txt",
+  "nom_fichier": "Modernisation_de_leclairage_public_a_Vaucouleurs.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1079-pe-modernisation-de-l-eclairage-public-a-vaucouleurs-1.pdf",
+  "original_title": "Modernisation de l'éclairage public à Vaucouleurs",
+  "collection_date": ""
 }

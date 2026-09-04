@@ -1,33 +1,43 @@
 {
-    "titre": "Groupes d'échanges: de l'aide aux aidants en accueil de jour",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un projet d'initiative visant à renforcer les liens entre les aidants des personnes atteintes de maladie neurodégénérative dans un centre d'accueil de jour.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les aidants des personnes atteintes de maladie neurodégénérative et leur famille, en particulier pour gérer la relation nouvelle qui apparaît lorsqu'une personne atteinte est accueillie dans un centre d'accueil de jour.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les aidants des personnes atteintes et leur famille",
-            "Promouvoir l'engagement des aidants dans la vie du centre d'accueil de jour",
-            "Établir un dialogue constructif entre les aidants, les familles et les membres de l'équipe du centre"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "handicap et aidants",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Groupes_dechanges_de_laide_aux_aidants_en_accueil_de_jour.txt",
-    "nom_fichier": "Groupes_dechanges_de_laide_aux_aidants_en_accueil_de_jour.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Groupes d'échanges: de l'aide aux aidants en accueil de jour",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un projet d'initiative visant à renforcer les liens entre les aidants des personnes atteintes de maladie neurodégénérative dans un centre d'accueil de jour.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les aidants des personnes atteintes de maladie neurodégénérative et leur famille, en particulier pour gérer la relation nouvelle qui apparaît lorsqu'une personne atteinte est accueillie dans un centre d'accueil de jour.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les aidants des personnes atteintes et leur famille",
+      "Promouvoir l'engagement des aidants dans la vie du centre d'accueil de jour",
+      "Établir un dialogue constructif entre les aidants, les familles et les membres de l'équipe du centre"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "handicap et aidants",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Groupes_dechanges_de_laide_aux_aidants_en_accueil_de_jour.txt",
+  "nom_fichier": "Groupes_dechanges_de_laide_aux_aidants_en_accueil_de_jour.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "aidants, handicap et vulnérabilités",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/417-417-groupe-de-parole-aidants-dijon.pdf",
+  "original_title": "Groupes d’échanges : de l’aide aux aidants en accueil de jour",
+  "collection_date": ""
 }

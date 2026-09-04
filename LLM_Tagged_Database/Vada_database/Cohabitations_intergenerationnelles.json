@@ -1,33 +1,45 @@
 {
-    "titre": "Cohabitations intergénérationnelles",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un accompagnement pour garantir le succès des colocations entre seniors et étudiants après études des dossiers de candidatures et rencontres individuelles.",
-        "contexte": "Le projet concerne les seniors âgés de 60 ans et plus qui souhaitent héberger un étudiant, principalement des étudiants en deuxième année. Les seniors sont généralement des personnes âgées de 75 ans et plus.",
-        "problematique": "La réticence des personnes âgées à l'idée d'héberger un jeune qu'elles ne connaissent pas à leur domicile, ce qui conduit souvent à une hostilité ou à la non-cohabitation.",
-        "solution_envisagee": "L’association met en place un accompagnement pour garantir le succès des colocations. Elle organise des rencontres individuelles et de groupe entre les seniors et les étudiants, puis organise des rencontres individuelles entre les seniors et les jeunes.",
-        "objectifs": [
-            "Promouvoir la cohésion sociale",
-            "Améliorer l'état psychologique des personnes âgées qui cohabitent avec un jeune",
-            "Fournir une expérience d'apprentissage pour les étudiants en deuxième année"
-        ]
-    },
-    "porteur_initiative": "Parisolidaire",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cohabitations_intergenerationnelles.txt",
-    "nom_fichier": "Cohabitations_intergenerationnelles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Cohabitations intergénérationnelles",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un accompagnement pour garantir le succès des colocations entre seniors et étudiants après études des dossiers de candidatures et rencontres individuelles.",
+    "contexte": "Le projet concerne les seniors âgés de 60 ans et plus qui souhaitent héberger un étudiant, principalement des étudiants en deuxième année. Les seniors sont généralement des personnes âgées de 75 ans et plus.",
+    "problematique": "La réticence des personnes âgées à l'idée d'héberger un jeune qu'elles ne connaissent pas à leur domicile, ce qui conduit souvent à une hostilité ou à la non-cohabitation.",
+    "solution_envisagee": "L’association met en place un accompagnement pour garantir le succès des colocations. Elle organise des rencontres individuelles et de groupe entre les seniors et les étudiants, puis organise des rencontres individuelles entre les seniors et les jeunes.",
+    "objectifs": [
+      "Promouvoir la cohésion sociale",
+      "Améliorer l'état psychologique des personnes âgées qui cohabitent avec un jeune",
+      "Fournir une expérience d'apprentissage pour les étudiants en deuxième année"
+    ]
+  },
+  "porteur_initiative": "Parisolidaire",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cohabitations_intergenerationnelles.txt",
+  "nom_fichier": "Cohabitations_intergenerationnelles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/303-pe-cohabitations-interge-parisolidaire.pdf",
+  "original_title": "Cohabitations intergénérationnelles",
+  "collection_date": ""
 }

@@ -1,33 +1,42 @@
 {
-    "titre": "Bien vieillir et horizon 2024",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "La Ville d'Arras, en collaboration avec les associations sportives et à finalité sociale, a lancé le dispositif 'Bien Vieillir et Horizon 2024'. Ce projet vise à renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "contexte": "La lutte contre les inégalités sociales, les situations d'exclusion ou d'isolement ainsi que le développement de la dépendance sont des axes de développement identifiés au sein de la dynamique locale. Les seniors vulnérables représentent une nouvelle cible pour l'action.",
-        "problematique": "La lutte contre les inégalités sociales, les situations d'exclusion ou d'isolement ainsi que le développement de la dépendance sont des axes de développement identifiés au sein de la dynamique locale. Les seniors vulnérables représentent une nouvelle cible pour l'action.",
-        "solution_envisagee": "Proposer des créneaux d’activités physiques et sportives pour un public dit 'vulnérable' dans le cadre de la prévention primaire, secondaire ou tertiaire.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Villes Amies des Aînés en France",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_et_horizon_2024.txt",
-    "nom_fichier": "Bien_vieillir_et_horizon_2024.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bien vieillir et horizon 2024",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "La Ville d'Arras, en collaboration avec les associations sportives et à finalité sociale, a lancé le dispositif 'Bien Vieillir et Horizon 2024'. Ce projet vise à renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "contexte": "La lutte contre les inégalités sociales, les situations d'exclusion ou d'isolement ainsi que le développement de la dépendance sont des axes de développement identifiés au sein de la dynamique locale. Les seniors vulnérables représentent une nouvelle cible pour l'action.",
+    "problematique": "La lutte contre les inégalités sociales, les situations d'exclusion ou d'isolement ainsi que le développement de la dépendance sont des axes de développement identifiés au sein de la dynamique locale. Les seniors vulnérables représentent une nouvelle cible pour l'action.",
+    "solution_envisagee": "Proposer des créneaux d’activités physiques et sportives pour un public dit 'vulnérable' dans le cadre de la prévention primaire, secondaire ou tertiaire.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Villes Amies des Aînés en France",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bien_vieillir_et_horizon_2024.txt",
+  "nom_fichier": "Bien_vieillir_et_horizon_2024.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1025-concours-2023-bien-vieillir-et-horizon-2024.pdf",
+  "original_title": "Bien vieillir et horizon 2024",
+  "collection_date": ""
 }

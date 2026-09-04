@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1480" viewBox="0 0 1200 1480" role="img" aria-labelledby="title desc">
+  <title id="title">Index Insight processing pipeline</title>
+  <desc id="desc">A vertical flow diagram showing documentary sources, collection, cleaning, rule-based and local LLM extraction, human evaluation, analytical outputs, and future search.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#4b5563"/>
+    </marker>
+    <style>
+      .title { font-family: Arial, Helvetica, sans-serif; font-size: 32px; font-weight: 700; fill: #1f2937; }
+      .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill: #4b5563; }
+      .node { stroke: #4b5563; stroke-width: 2; rx: 12; ry: 12; }
+      .core { fill: #eaf2f8; }
+      .rule { fill: #f7f0df; }
+      .llm { fill: #e7f4ee; }
+      .output { fill: #eef0f3; }
+      .future { fill: #ffffff; stroke-dasharray: 8 6; }
+      .label { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 600; fill: #1f2937; text-anchor: middle; }
+      .small { font-family: Arial, Helvetica, sans-serif; font-size: 17px; fill: #374151; text-anchor: middle; }
+      .arrow { stroke: #4b5563; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke-dasharray: 8 6; }
+    </style>
+  </defs>
+
+  <text x="600" y="55" class="title" text-anchor="middle">Index_Insight processing pipeline</text>
+  <text x="600" y="85" class="subtitle" text-anchor="middle">From heterogeneous documentation to evaluated structured metadata</text>
+
+  <rect x="400" y="125" width="400" height="75" class="node core"/>
+  <text x="600" y="157" class="label">Documentary sources</text>
+  <text x="600" y="183" class="small">Institutional websites, PDFs, and action sheets</text>
+
+  <path d="M600 200 L600 245" class="arrow"/>
+  <rect x="400" y="255" width="400" height="70" class="node core"/>
+  <text x="600" y="298" class="label">Source-specific collection</text>
+
+  <path d="M600 325 L600 370" class="arrow"/>
+  <rect x="400" y="380" width="400" height="70" class="node core"/>
+  <text x="600" y="423" class="label">Raw text corpus</text>
+
+  <path d="M600 450 L600 495" class="arrow"/>
+  <rect x="350" y="505" width="500" height="85" class="node core"/>
+  <text x="600" y="540" class="label">Cleaning and quality control</text>
+  <text x="600" y="568" class="small">Normalisation, deduplication, relevance screening</text>
+
+  <path d="M600 590 L600 635" class="arrow"/>
+  <rect x="400" y="645" width="400" height="70" class="node core"/>
+  <text x="600" y="678" class="label">Cleaned corpus</text>
+  <text x="600" y="704" class="small">Source provenance preserved</text>
+
+  <path d="M600 715 L600 755 L310 755 L310 800" class="arrow"/>
+  <path d="M600 715 L600 755 L890 755 L890 800" class="arrow"/>
+
+  <rect x="90" y="810" width="440" height="105" class="node rule"/>
+  <text x="310" y="848" class="label">Rule-based baseline</text>
+  <text x="310" y="876" class="small">Segmentation, candidate extraction,</text>
+  <text x="310" y="898" class="small">and heuristic scoring</text>
+
+  <rect x="670" y="810" width="440" height="105" class="node llm"/>
+  <text x="890" y="848" class="label">Local LLM extraction</text>
+  <text x="890" y="876" class="small">Constrained JSON prompt and</text>
+  <text x="890" y="898" class="small">controlled vocabularies</text>
+
+  <path d="M310 915 L310 960" class="arrow"/>
+  <path d="M890 915 L890 960" class="arrow"/>
+  <rect x="90" y="970" width="440" height="70" class="node output"/>
+  <text x="310" y="1013" class="label">Rule-based JSON records</text>
+  <rect x="670" y="970" width="440" height="70" class="node output"/>
+  <text x="890" y="1013" class="label">LLM JSON records</text>
+
+  <path d="M890 1040 L890 1085" class="arrow"/>
+  <rect x="670" y="1095" width="440" height="85" class="node llm"/>
+  <text x="890" y="1130" class="label">Human reference evaluation</text>
+  <text x="890" y="1158" class="small">Stratified sample of 60 documents</text>
+
+  <path d="M310 1040 L310 1215 L600 1215 L600 1250" class="arrow"/>
+  <path d="M890 1180 L890 1215 L600 1215" class="arrow"/>
+  <rect x="350" y="1260" width="500" height="85" class="node output"/>
+  <text x="600" y="1295" class="label">Analytical outputs</text>
+  <text x="600" y="1323" class="small">Structured data, tables, spreadsheets, and charts</text>
+
+  <path d="M600 1345 L600 1390" class="arrow dashed"/>
+  <rect x="350" y="1400" width="500" height="65" class="node future"/>
+  <text x="600" y="1440" class="label">Future search and exploration interface</text>
+</svg>

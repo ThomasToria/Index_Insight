@@ -1,31 +1,40 @@
 {
-    "titre": "Salon du bien vieillir en Mayenne",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le Conseil départemental de la Mayenne a organisé un salon avec une envergure départementale pour renforcer les liens sociaux entre seniors, leurs proches, et la société civile.",
-        "contexte": "Manque d'information sur différents dispositifs et structures existantes, difficultés à être orienté vers bonnes solutions, manque de prise de conscience et d'anticipation.",
-        "problematique": "Renforcement des liens sociaux entre seniors, leurs proches, et la société civile pour renforcer les compétences en matière de participation citoyenne.",
-        "solution_envisagee": "Organisation d'un salon convivial avec des exposants potentiels pour inviter à participer aux différents thèmes prioritaires identifiés.",
-        "objectifs": [
-            "Renforcer les liens sociaux entre seniors et leurs proches",
-            "Promouvoir la participation citoyenne auprès du public âgé"
-        ]
-    },
-    "porteur_initiative": "Conseil départemental de la Mayenne",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_du_bien_vieillir_en_Mayenne.txt",
-    "nom_fichier": "Salon_du_bien_vieillir_en_Mayenne.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Salon du bien vieillir en Mayenne",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le Conseil départemental de la Mayenne a organisé un salon avec une envergure départementale pour renforcer les liens sociaux entre seniors, leurs proches, et la société civile.",
+    "contexte": "Manque d'information sur différents dispositifs et structures existantes, difficultés à être orienté vers bonnes solutions, manque de prise de conscience et d'anticipation.",
+    "problematique": "Renforcement des liens sociaux entre seniors, leurs proches, et la société civile pour renforcer les compétences en matière de participation citoyenne.",
+    "solution_envisagee": "Organisation d'un salon convivial avec des exposants potentiels pour inviter à participer aux différents thèmes prioritaires identifiés.",
+    "objectifs": [
+      "Renforcer les liens sociaux entre seniors et leurs proches",
+      "Promouvoir la participation citoyenne auprès du public âgé"
+    ]
+  },
+  "porteur_initiative": "Conseil départemental de la Mayenne",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_du_bien_vieillir_en_Mayenne.txt",
+  "nom_fichier": "Salon_du_bien_vieillir_en_Mayenne.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1109-concours-2024-salon-du-bien-vieillir-en-mayenne-1-1.pdf",
+  "original_title": "Salon du bien vieillir en Mayenne",
+  "collection_date": ""
 }

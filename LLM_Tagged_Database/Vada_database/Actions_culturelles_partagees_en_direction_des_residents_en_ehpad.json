@@ -1,37 +1,49 @@
 {
-    "titre": "Actions culturelles partagées en direction des résidents en EHPAD",
-    "territoire": "Commune: Charleville-Mézières, Métropole de Charleville-Mézières",
-    "echelle": [
-        "communale",
-        "intercommunale"
+  "titre": "Actions culturelles partagées en direction des résidents en EHPAD",
+  "territoire": [
+    "charleville-mézières, métropole de charleville-mézières"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La ville d'Charleville-Mézières a organisé une série de projets culturels en direction des résidents de l'EHPAD Pâquis, visant à renforcer les liens entre les personnes âgées et la société civile.",
+    "contexte": "Les résidents du EHPAD ont apprécié la représentation théâtrale 'Le peintre et son modèle' présentée par la compagnie Les Animaux en Paradis, qui a été suivie d'échanges avec les artistes. Cela a conduit à l'idée de créer des ateliers créatifs pour associer les résidents aux élèves du lycée.",
+    "problematique": "Renforcer les liens entre les personnes âgées et la société civile, valoriser leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": [
+      "Actions culturelles partagées",
+      "Ateliers créatifs pour associer les résidents aux élèves du lycée"
     ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La ville d'Charleville-Mézières a organisé une série de projets culturels en direction des résidents de l'EHPAD Pâquis, visant à renforcer les liens entre les personnes âgées et la société civile.",
-        "contexte": "Les résidents du EHPAD ont apprécié la représentation théâtrale 'Le peintre et son modèle' présentée par la compagnie Les Animaux en Paradis, qui a été suivie d'échanges avec les artistes. Cela a conduit à l'idée de créer des ateliers créatifs pour associer les résidents aux élèves du lycée.",
-        "problematique": "Renforcer les liens entre les personnes âgées et la société civile, valoriser leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": [
-            "Actions culturelles partagées",
-            "Ateliers créatifs pour associer les résidents aux élèves du lycée"
-        ],
-        "objectifs": [
-            "Renforcer les liens entre les personnes âgées et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Apporter une expérience culturelle à des jeunes en formation dans le domaine de la communication"
-        ]
-    },
-    "porteur_initiative": "CCAS de Charleville-Mézières, Ville Amie des Aînés depuis 2018",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.txt",
-    "nom_fichier": "Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.txt",
-    "statut_action": "projet réalisé"
+    "objectifs": [
+      "Renforcer les liens entre les personnes âgées et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Apporter une expérience culturelle à des jeunes en formation dans le domaine de la communication"
+    ]
+  },
+  "porteur_initiative": "CCAS de Charleville-Mézières, Ville Amie des Aînés depuis 2018",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.txt",
+  "nom_fichier": "Actions_culturelles_partagees_en_direction_des_residents_en_ehpad.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/861-pe-actions-culturelles-partagees-en-direction-de-residents-en-ehpad.pdf",
+  "original_title": "Actions culturelles partagées en direction des résidents en ehpad",
+  "collection_date": ""
 }

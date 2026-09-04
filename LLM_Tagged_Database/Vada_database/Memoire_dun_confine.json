@@ -1,34 +1,46 @@
 {
-    "titre": "Mémoire d’un confiné",
-    "territoire": "Commune de Boulogne-sur-Mer, 62",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "groupe de parole",
-    "description": {
-        "description_generale": "Le projet a été initié suite à la crise sanitaire due au coronavirus (COVID-19) en 2020.",
-        "contexte": "La collecte de témoignages des seniors a permis d’identifier les impacts psychologiques et physiques dus à l’épidémie.",
-        "problematique": "Les seniors ont été impactés psychologiquement et physiquement par la crise sanitaire, notamment en raison du confinement.",
-        "solution_envisagee": "Organiser une exposition de témoignages pour valoriser les savoirs expérimentiels des aînés et favoriser l’intergénérationnalité.",
-        "objectifs": [
-            "Coordonner et organiser une réunion en partenariat avec les Archives Municipales afin de planifier et organiser les rencontres",
-            "Communiquer autour du projet, organisant les rencontres",
-            "Exposer les photos et un diaporama retraçant les témoignages pour permettre des rencontres intergénérationnelles",
-            "Evaluer le projet avec un bilan de fin d’action et perspectives de développement du partenariat avec le service des Archives Municipales"
-        ]
-    },
-    "porteur_initiative": "Service des Archives Municipales de la Ville de Boulogne-sur-Mer, Centre Communal d'Action Sociale",
-    "date": [
-        "2020"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoire_dun_confine.txt",
-    "nom_fichier": "Memoire_dun_confine.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mémoire d’un confiné",
+  "territoire": [
+    "boulogne-sur-mer, 62"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "groupe de parole",
+  "description": {
+    "description_generale": "Le projet a été initié suite à la crise sanitaire due au coronavirus (COVID-19) en 2020.",
+    "contexte": "La collecte de témoignages des seniors a permis d’identifier les impacts psychologiques et physiques dus à l’épidémie.",
+    "problematique": "Les seniors ont été impactés psychologiquement et physiquement par la crise sanitaire, notamment en raison du confinement.",
+    "solution_envisagee": "Organiser une exposition de témoignages pour valoriser les savoirs expérimentiels des aînés et favoriser l’intergénérationnalité.",
+    "objectifs": [
+      "Coordonner et organiser une réunion en partenariat avec les Archives Municipales afin de planifier et organiser les rencontres",
+      "Communiquer autour du projet, organisant les rencontres",
+      "Exposer les photos et un diaporama retraçant les témoignages pour permettre des rencontres intergénérationnelles",
+      "Evaluer le projet avec un bilan de fin d’action et perspectives de développement du partenariat avec le service des Archives Municipales"
+    ]
+  },
+  "porteur_initiative": "Service des Archives Municipales de la Ville de Boulogne-sur-Mer, Centre Communal d'Action Sociale",
+  "date": [
+    "2020"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Memoire_dun_confine.txt",
+  "nom_fichier": "Memoire_dun_confine.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "groupe de parole",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/627-boulogne-memoire-d-un-confine.pdf",
+  "original_title": "Mémoire d’un confiné",
+  "collection_date": ""
 }

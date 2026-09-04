@@ -1,32 +1,42 @@
 {
-    "titre": "Accompagnement au développement de l'habitat participatif",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Accompagner les porteurs de projets d'habitat alternatif dédié aux seniors sur le territoire communautaire.",
-        "contexte": "Les aînés du territoire ont exprimé un besoin pour des logements adaptés à leur situation, mais ils refusent l'EHPAD. La maison où ils habitent depuis longtemps n'est pas améliorée.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'habitat alternatif dédié aux seniors et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer un accompagnement technique aux communes pour faciliter le développement d'habitats alternatifs dédiés aux seniors sur le territoire communautaire.",
-        "objectifs": [
-            "Favoriser l'émergence et la réalisation de projets d'habitats dédiés aux seniors par des porteurs identifiés",
-            "Compléter l'offre liée à l'habitat dédié aux seniors du territoire communautaire avec une offre en accueil familial ou EHPAD du territoire"
-        ]
-    },
-    "porteur_initiative": "Communauté de communes du Pays de Mormal (59)",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_au_developpement_de_lhabitat_participatif.txt",
-    "nom_fichier": "Accompagnement_au_developpement_de_lhabitat_participatif.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accompagnement au développement de l'habitat participatif",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Accompagner les porteurs de projets d'habitat alternatif dédié aux seniors sur le territoire communautaire.",
+    "contexte": "Les aînés du territoire ont exprimé un besoin pour des logements adaptés à leur situation, mais ils refusent l'EHPAD. La maison où ils habitent depuis longtemps n'est pas améliorée.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'habitat alternatif dédié aux seniors et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer un accompagnement technique aux communes pour faciliter le développement d'habitats alternatifs dédiés aux seniors sur le territoire communautaire.",
+    "objectifs": [
+      "Favoriser l'émergence et la réalisation de projets d'habitats dédiés aux seniors par des porteurs identifiés",
+      "Compléter l'offre liée à l'habitat dédié aux seniors du territoire communautaire avec une offre en accueil familial ou EHPAD du territoire"
+    ]
+  },
+  "porteur_initiative": "Communauté de communes du Pays de Mormal (59)",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Accompagnement_au_developpement_de_lhabitat_participatif.txt",
+  "nom_fichier": "Accompagnement_au_developpement_de_lhabitat_participatif.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/693-pe-41-accompagnement-au-developpement-de-l-habitat-participatif-la-marguerite-des-champs-pays-de-mormal.pdf",
+  "original_title": "Accompagnement au développement de l'habitat participatif",
+  "collection_date": ""
 }

@@ -1,31 +1,41 @@
 {
-    "titre": "Aller vers ALLER VERS",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La Carsat du Languedoc-Roussillon développe un projet de prévention de l’isolement en mobilisant l'expertise des acteurs de terrain pour repérer et accompagner les retraités isolés. Les partenaires sociaux, notamment pôles évaluateurs, Services d’aide à domicile, associations de prévention, bailleurs sociaux, centres sociaux, CCAS, Petits Frères des Pauvres et Monalisa, participent au repérage et à la prise en charge des personnes isolées.",
-        "contexte": "Face aux nouveaux enjeux liés à la transition démographique, la Carsat développe un projet innovant pour répondre aux défis du bien-vieillir. L’objectif est de fédérer l'ensemble des professionnels concernés dans un écosystème innovant.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La Carsat développe un projet innovant pour répondre aux défis du bien-vieillir. L'objectif est de fédérer l'ensemble des professionnels concernés dans un écosystème innovant en mobilisant l'expertise des acteurs de terrain.",
-        "objectifs": "Fédérer l’ensemble des professionnels concernés dans un écosystème innovant, repérer et accompagner les retraités isolés, identifier d'autres problématiques et inscrire la personne dans un parcours d'accès aux droits, aux soins et à la prévention."
-    },
-    "porteur_initiative": "Carsat du Languedoc-Roussillon",
-    "date": [
-        "01/09/2022",
-        "01/05/2023",
-        "31/12/2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.txt",
-    "nom_fichier": "35_Aller_vers_ALLER_VERS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Aller vers ALLER VERS",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La Carsat du Languedoc-Roussillon développe un projet de prévention de l’isolement en mobilisant l'expertise des acteurs de terrain pour repérer et accompagner les retraités isolés. Les partenaires sociaux, notamment pôles évaluateurs, Services d’aide à domicile, associations de prévention, bailleurs sociaux, centres sociaux, CCAS, Petits Frères des Pauvres et Monalisa, participent au repérage et à la prise en charge des personnes isolées.",
+    "contexte": "Face aux nouveaux enjeux liés à la transition démographique, la Carsat développe un projet innovant pour répondre aux défis du bien-vieillir. L’objectif est de fédérer l'ensemble des professionnels concernés dans un écosystème innovant.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La Carsat développe un projet innovant pour répondre aux défis du bien-vieillir. L'objectif est de fédérer l'ensemble des professionnels concernés dans un écosystème innovant en mobilisant l'expertise des acteurs de terrain.",
+    "objectifs": "Fédérer l’ensemble des professionnels concernés dans un écosystème innovant, repérer et accompagner les retraités isolés, identifier d'autres problématiques et inscrire la personne dans un parcours d'accès aux droits, aux soins et à la prévention."
+  },
+  "porteur_initiative": "Carsat du Languedoc-Roussillon",
+  "date": [
+    "2022-09-01",
+    "2023-05-01",
+    "2023-12-31"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\35_Aller_vers_ALLER_VERS.txt",
+  "nom_fichier": "35_Aller_vers_ALLER_VERS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "Aller vers ALLER VERS",
+  "collection_date": ""
 }

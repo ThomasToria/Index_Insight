@@ -1,32 +1,44 @@
 {
-    "titre": "Sensibilisation aux questions du vieillissement",
-    "territoire": "Commune: Strasbourg (67)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative vise à sensibiliser les professionnels aux questions du vieillissement, en particulier ceux qui travaillent avec les seniors.",
-        "contexte": "Les seniors sont confrontés à diverses problématiques liées au vieillissement, notamment la perte d'autonomie et le besoin de prévention et d'accompagnement.",
-        "problematique": "Améliorer la connaissance des services de l'accompagnement proposé par la ville de Strasbourg pour les seniors.",
-        "solution_envisagee": "Des ateliers participatifs et des débats autour de concepts clés comme le vieillissement, la perte d'autonomie, et la prévention.",
-        "objectifs": [
-            "Améliorer la connaissance des services de l'accompagnement proposé par la ville de Strasbourg pour les seniors",
-            "Sensibiliser les professionnels aux questions du vieillissement"
-        ]
-    },
-    "porteur_initiative": "Ville Membre depuis 2015",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sensibilisation_aux_questions_du_vieillissement.txt",
-    "nom_fichier": "Sensibilisation_aux_questions_du_vieillissement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Sensibilisation aux questions du vieillissement",
+  "territoire": [
+    "strasbourg (67)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette initiative vise à sensibiliser les professionnels aux questions du vieillissement, en particulier ceux qui travaillent avec les seniors.",
+    "contexte": "Les seniors sont confrontés à diverses problématiques liées au vieillissement, notamment la perte d'autonomie et le besoin de prévention et d'accompagnement.",
+    "problematique": "Améliorer la connaissance des services de l'accompagnement proposé par la ville de Strasbourg pour les seniors.",
+    "solution_envisagee": "Des ateliers participatifs et des débats autour de concepts clés comme le vieillissement, la perte d'autonomie, et la prévention.",
+    "objectifs": [
+      "Améliorer la connaissance des services de l'accompagnement proposé par la ville de Strasbourg pour les seniors",
+      "Sensibiliser les professionnels aux questions du vieillissement"
+    ]
+  },
+  "porteur_initiative": "Ville Membre depuis 2015",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sensibilisation_aux_questions_du_vieillissement.txt",
+  "nom_fichier": "Sensibilisation_aux_questions_du_vieillissement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/799-concours-2022-20-sensibilisation-aux-questions-du-vieillissement.pdf",
+  "original_title": "Sensibilisation aux questions du vieillissement",
+  "collection_date": ""
 }

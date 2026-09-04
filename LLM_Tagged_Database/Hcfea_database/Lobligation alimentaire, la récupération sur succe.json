@@ -1,28 +1,37 @@
 {
-    "titre": "L'obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l'aide sociale à l'hébergement",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Rapport adopté par les membres le 9 juillet 2020",
-        "contexte": "Les personnes âgées bénéficient de l'aide sociale à l'hébergement (ASH) malgré la modestie de leurs ressources. Cette aide subsidiaire est récupérée sur l'actif net de la succession ou sur les donataires au décès du résident.",
-        "problematique": "Les personnes âgées doivent solliciter leurs enfants pour bénéficier de l'aide sociale à l'hébergement, ce qui peut entraîner des contraintes et une renonciation à l'entrée en Ehpad. Les contempteurs soulignent également que l'ASH se situe en marge du mouvement historique de constitution de droits sociaux directs et personnels.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "20/07/2020"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.txt",
-    "nom_fichier": "Lobligation alimentaire, la récupération sur succe.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l'aide sociale à l'hébergement",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Rapport adopté par les membres le 9 juillet 2020",
+    "contexte": "Les personnes âgées bénéficient de l'aide sociale à l'hébergement (ASH) malgré la modestie de leurs ressources. Cette aide subsidiaire est récupérée sur l'actif net de la succession ou sur les donataires au décès du résident.",
+    "problematique": "Les personnes âgées doivent solliciter leurs enfants pour bénéficier de l'aide sociale à l'hébergement, ce qui peut entraîner des contraintes et une renonciation à l'entrée en Ehpad. Les contempteurs soulignent également que l'ASH se situe en marge du mouvement historique de constitution de droits sociaux directs et personnels.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2020-07-20"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Lobligation alimentaire, la récupération sur succe.txt",
+  "nom_fichier": "Lobligation alimentaire, la récupération sur succe.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/lobligation-alimentaire-la-recuperation-sur-succession-et-leur-mise-en-oeuvre-dans-le-cadre-de-laide-sociale-lhebergement",
+  "original_title": "L’obligation alimentaire, la récupération sur succession et leur mise en œuvre dans le cadre de l’aide sociale à l’hébergement",
+  "collection_date": ""
 }

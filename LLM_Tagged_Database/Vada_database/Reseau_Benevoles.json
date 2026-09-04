@@ -1,33 +1,43 @@
 {
-    "titre": "Réseau Bénévoles",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Créer des interactions régulières entre les bénévoles et les aînés pour briser l'isolement.",
-        "contexte": "Le vieillissement croissant, la solitude chez certains seniors, et le non-recours aux services rendent les situations de précarité plus graves.",
-        "problematique": "L’absence de réseau social des personnes âgées contribue à l’isolement et à la fragilité sociale.",
-        "solution_envisagee": "Un réseau de bénévoles pour établir un lien social avec les personnes âgées isolées, offrant de la compagnie, du soutien et accès aux services nécessaires.",
-        "objectifs": [
-            "Mobiliser des citoyens volontaires",
-            "Établir un lien social entre les bénévoles et les aînés",
-            "Offrir une assistance logistique pour l'accès aux services de santé, aux activités culturelles et aux loisirs"
-        ]
-    },
-    "porteur_initiative": "La ville de Colomiers",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Benevoles.txt",
-    "nom_fichier": "Reseau_Benevoles.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Réseau Bénévoles",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Créer des interactions régulières entre les bénévoles et les aînés pour briser l'isolement.",
+    "contexte": "Le vieillissement croissant, la solitude chez certains seniors, et le non-recours aux services rendent les situations de précarité plus graves.",
+    "problematique": "L’absence de réseau social des personnes âgées contribue à l’isolement et à la fragilité sociale.",
+    "solution_envisagee": "Un réseau de bénévoles pour établir un lien social avec les personnes âgées isolées, offrant de la compagnie, du soutien et accès aux services nécessaires.",
+    "objectifs": [
+      "Mobiliser des citoyens volontaires",
+      "Établir un lien social entre les bénévoles et les aînés",
+      "Offrir une assistance logistique pour l'accès aux services de santé, aux activités culturelles et aux loisirs"
+    ]
+  },
+  "porteur_initiative": "La ville de Colomiers",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reseau_Benevoles.txt",
+  "nom_fichier": "Reseau_Benevoles.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1129-pe-reseau-benevoles-1.pdf",
+  "original_title": "Réseau Bénévoles",
+  "collection_date": ""
 }

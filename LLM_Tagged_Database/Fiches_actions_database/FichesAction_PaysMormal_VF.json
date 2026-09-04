@@ -1,32 +1,44 @@
 {
-    "titre": "Toujours citoyen! Mais comment?",
-    "territoire": "Pays de Mormal (59)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Fiche-action sur la citoyenneté dans les EHPADs, visant à renforcer l'engagement des résidents et de leurs proches.",
-        "contexte": "Les personnes âgées vivent souvent isolées et perçoivent leur établissement comme un lieu distinct. Il est important d’encourager le contact avec la société civile pour valoriser leur contribution.",
-        "problematique": "Le manque de visibilité des résidents dans les événements organisés par l'établissement, notamment lors des festivités et manifestations sportives.",
-        "solution_envisagee": "Organisation d'activités intergénérationnelles pour favoriser le contact avec la société civile, promotion du lien social entre les résidents et leurs proches, participation à des événements scolaires.",
-        "objectifs": [
-            "Renforcer l’engagement des résidents dans les activités organisées par l’établissement",
-            "Promouvoir le lien social entre les résidents et la société civile"
-        ]
-    },
-    "porteur_initiative": "Association locale",
-    "date": [
-        "2024-06-21"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FichesAction_PaysMormal_VF.txt",
-    "nom_fichier": "FichesAction_PaysMormal_VF.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Toujours citoyen! Mais comment?",
+  "territoire": [
+    "pays de mormal (59)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "autre / à revoir",
+  "description": {
+    "description_generale": "Fiche-action sur la citoyenneté dans les EHPADs, visant à renforcer l'engagement des résidents et de leurs proches.",
+    "contexte": "Les personnes âgées vivent souvent isolées et perçoivent leur établissement comme un lieu distinct. Il est important d’encourager le contact avec la société civile pour valoriser leur contribution.",
+    "problematique": "Le manque de visibilité des résidents dans les événements organisés par l'établissement, notamment lors des festivités et manifestations sportives.",
+    "solution_envisagee": "Organisation d'activités intergénérationnelles pour favoriser le contact avec la société civile, promotion du lien social entre les résidents et leurs proches, participation à des événements scolaires.",
+    "objectifs": [
+      "Renforcer l’engagement des résidents dans les activités organisées par l’établissement",
+      "Promouvoir le lien social entre les résidents et la société civile"
+    ]
+  },
+  "porteur_initiative": "Association locale",
+  "date": [
+    "2024-06-21"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FichesAction_PaysMormal_VF.txt",
+  "nom_fichier": "FichesAction_PaysMormal_VF.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "autre / à revoir",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FichesAction_PaysMormal_VF.pdf",
+  "collection_date": ""
 }

@@ -1,35 +1,47 @@
 {
-    "titre": "Seniors connectés",
-    "territoire": "Commune de Belfort, Ain",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le projet « seniors connectés » vise à favoriser l'accès au numérique des seniors de la commune de Belfort, en proposant des ateliers collectifs et un accompagnement individuel.",
-        "contexte": "La transformation numérique est une avancée sociétale qui génère également des difficultés d'accès (internet et équipements) et des usages limités. L'exclusion numérique des seniors est devenue un enjeu vital, car le quotidien est de plus en plus rythmé par les procédures numériques.",
-        "problematique": "Lutter contre la fracture numérique des seniors, sensibiliser à l'usage des outils de communication et sécurité sur internet, valoriser les applications mobiles locales, rendre les seniors plus autonomes face au numérique, favoriser le lien social et intergénérationnel, lutter contre l’isolement.",
-        "solution_envisagee": "Organiser des ateliers collectifs en partenariat avec Unis-Cité, prêter équipements nécessaires, offrir un accompagnement individuel adapté aux besoins de chacun, sensibiliser à la communication et sécurité sur internet, valoriser les applications locales.",
-        "objectifs": [
-            "Favoriser l'accès au numérique des seniors",
-            "Rendre les seniors plus autonomes face au numérique",
-            "Valoriser les applications mobiles locales",
-            "Favoriser le lien social et intergénérationnel",
-            "Lutter contre l’isolement des personnes âgées"
-        ]
-    },
-    "porteur_initiative": "CCAS de Belfort, association Unis-Cité",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_connectes.txt",
-    "nom_fichier": "Seniors_connectes.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Seniors connectés",
+  "territoire": [
+    "belfort, ain"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le projet « seniors connectés » vise à favoriser l'accès au numérique des seniors de la commune de Belfort, en proposant des ateliers collectifs et un accompagnement individuel.",
+    "contexte": "La transformation numérique est une avancée sociétale qui génère également des difficultés d'accès (internet et équipements) et des usages limités. L'exclusion numérique des seniors est devenue un enjeu vital, car le quotidien est de plus en plus rythmé par les procédures numériques.",
+    "problematique": "Lutter contre la fracture numérique des seniors, sensibiliser à l'usage des outils de communication et sécurité sur internet, valoriser les applications mobiles locales, rendre les seniors plus autonomes face au numérique, favoriser le lien social et intergénérationnel, lutter contre l’isolement.",
+    "solution_envisagee": "Organiser des ateliers collectifs en partenariat avec Unis-Cité, prêter équipements nécessaires, offrir un accompagnement individuel adapté aux besoins de chacun, sensibiliser à la communication et sécurité sur internet, valoriser les applications locales.",
+    "objectifs": [
+      "Favoriser l'accès au numérique des seniors",
+      "Rendre les seniors plus autonomes face au numérique",
+      "Valoriser les applications mobiles locales",
+      "Favoriser le lien social et intergénérationnel",
+      "Lutter contre l’isolement des personnes âgées"
+    ]
+  },
+  "porteur_initiative": "CCAS de Belfort, association Unis-Cité",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Seniors_connectes.txt",
+  "nom_fichier": "Seniors_connectes.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/848-pe-seniors-connectes.pdf",
+  "original_title": "Seniors connectés",
+  "collection_date": ""
 }

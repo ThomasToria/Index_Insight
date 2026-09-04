@@ -1,32 +1,44 @@
 {
-    "titre": "Parcours prévention santé seniors",
-    "territoire": "Commune: Saint-Paul, Réunion",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le service santé et bien-être du citoyen de la Commune de Saint-Paul a mis en place un parcours de prévention-santé destiné aux personnes âgées.",
-        "contexte": "La population des plus de 60 ans est en augmentation, avec une proportion croissante de personnes seules à leur domicile. La ville signe son contrat local de santé pour l'autonomie des personnes âgées afin de retarder l'entrée dans la dépendance et rompre l'isolement.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un parcours de prévention-santé organisé à la maison de la santé et dans les équipements de proximité dans 16 quartiers de la commune de Saint-Paul.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Service santé et bien-être du citoyen de la Commune de Saint-Paul",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_prevention_sante_seniors.txt",
-    "nom_fichier": "Parcours_prevention_sante_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parcours prévention santé seniors",
+  "territoire": [
+    "saint-paul, réunion"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le service santé et bien-être du citoyen de la Commune de Saint-Paul a mis en place un parcours de prévention-santé destiné aux personnes âgées.",
+    "contexte": "La population des plus de 60 ans est en augmentation, avec une proportion croissante de personnes seules à leur domicile. La ville signe son contrat local de santé pour l'autonomie des personnes âgées afin de retarder l'entrée dans la dépendance et rompre l'isolement.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un parcours de prévention-santé organisé à la maison de la santé et dans les équipements de proximité dans 16 quartiers de la commune de Saint-Paul.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Service santé et bien-être du citoyen de la Commune de Saint-Paul",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Parcours_prevention_sante_seniors.txt",
+  "nom_fichier": "Parcours_prevention_sante_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1026-concours-2023-parcours-prevention-sante-seniors.pdf",
+  "original_title": "Parcours prévention santé seniors",
+  "collection_date": ""
 }

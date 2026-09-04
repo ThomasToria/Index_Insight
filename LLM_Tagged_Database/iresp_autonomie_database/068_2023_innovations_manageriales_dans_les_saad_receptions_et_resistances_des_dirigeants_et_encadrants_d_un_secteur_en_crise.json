@@ -1,33 +1,43 @@
 {
-    "titre": "Innovations managériales dans les SAAD: réceptions et résistances des dirigeants et encadrants d’un secteur en crise",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette recherche vise à comprendre les réceptions et résistances des dirigeants et encadrants d'un secteur en crise, notamment dans le domaine de l'aide à la personne.",
-        "contexte": "",
-        "problematique": "Les innovations managériales et organisationnelles sont essentielles pour répondre aux défis du vieillissement de la population et des préférences individuelles. Cependant, les acteurs institutionnels rencontrent souvent des résistances face à ces changements.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Comprendre les réceptions et résistances des dirigeants et encadrants d'un secteur en crise",
-            "Identifier les obstacles aux innovations managériales et organisationnelles dans le secteur de l'aide à la personne",
-            "Proposer des solutions pour surmonter ces obstacles et favoriser la mise en œuvre réussie des innovations"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\068_2023_innovations_manageriales_dans_les_saad_receptions_et_resistances_des_dirigeants_et_encadrants_d_un_secteur_en_crise.txt",
-    "nom_fichier": "068_2023_innovations_manageriales_dans_les_saad_receptions_et_resistances_des_dirigeants_et_encadrants_d_un_secteur_en_crise.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Innovations managériales dans les SAAD: réceptions et résistances des dirigeants et encadrants d’un secteur en crise",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette recherche vise à comprendre les réceptions et résistances des dirigeants et encadrants d'un secteur en crise, notamment dans le domaine de l'aide à la personne.",
+    "contexte": "",
+    "problematique": "Les innovations managériales et organisationnelles sont essentielles pour répondre aux défis du vieillissement de la population et des préférences individuelles. Cependant, les acteurs institutionnels rencontrent souvent des résistances face à ces changements.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Comprendre les réceptions et résistances des dirigeants et encadrants d'un secteur en crise",
+      "Identifier les obstacles aux innovations managériales et organisationnelles dans le secteur de l'aide à la personne",
+      "Proposer des solutions pour surmonter ces obstacles et favoriser la mise en œuvre réussie des innovations"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\068_2023_innovations_manageriales_dans_les_saad_receptions_et_resistances_des_dirigeants_et_encadrants_d_un_secteur_en_crise.txt",
+  "nom_fichier": "068_2023_innovations_manageriales_dans_les_saad_receptions_et_resistances_des_dirigeants_et_encadrants_d_un_secteur_en_crise.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/innovations-manageriales-dans-les-saad-receptions-et-resistances-des-dirigeants-et-encadrants-dun-secteur-en-crise/",
+  "original_title": "Innovations managériales dans les SAAD : réceptions et résistances des dirigeants et encadrants d’un secteur en crise",
+  "collection_date": ""
 }

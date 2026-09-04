@@ -1,30 +1,40 @@
 {
-    "titre": "MIEUX VIVRE AU QUOTIDIEN AVEC LES MÉDICAMENTS",
-    "territoire": "",
-    "echelle": [
-        "départementale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Association Interrégime Midi-Pyrénées Prévention (M2P) a réalisé une expérimentation avec le CHU de Toulouse et le réseau REIPO sur 3 départements (Ariège, Hautes-Pyrénées et Haute-Garonne) pour assurer la généralisation d'un programme PESBUM (Programme d'Education Sanitaire au Bon Usage des Médicaments) dans certains ateliers de M2P à partir de 2023.",
-        "contexte": "L’objectif est de permettre aux retraités et professionnels de mieux comprendre et vivre avec leurs médicaments, en particulier grâce au bon usage des médicaments pour prévenir les événements indésirables.",
-        "problematique": "Le besoin de renforcer la compréhension du bon usage des médicaments parmi les retraités et professionnels, ainsi que la prévention des événements indésirables responsables de nombreuses hospitalisations.",
-        "solution_envisagee": "La mise en place d'ateliers de M2P avec 4 séances sur le bon usage des médicaments, couvrant différentes thématiques liées aux médicaments.",
-        "objectifs": "Permettre aux retraités et professionnels de mieux comprendre et vivre avec leurs médicaments, en particulier grâce au bon usage des médicaments pour prévenir les événements indésirables."
-    },
-    "porteur_initiative": "Association Interrégime Midi-Pyrénées Prévention (M2P)",
-    "date": [
-        "depuis 2022"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
-    "nom_fichier": "25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "MIEUX VIVRE AU QUOTIDIEN AVEC LES MÉDICAMENTS",
+  "territoire": [],
+  "echelle": [
+    "départementale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Association Interrégime Midi-Pyrénées Prévention (M2P) a réalisé une expérimentation avec le CHU de Toulouse et le réseau REIPO sur 3 départements (Ariège, Hautes-Pyrénées et Haute-Garonne) pour assurer la généralisation d'un programme PESBUM (Programme d'Education Sanitaire au Bon Usage des Médicaments) dans certains ateliers de M2P à partir de 2023.",
+    "contexte": "L’objectif est de permettre aux retraités et professionnels de mieux comprendre et vivre avec leurs médicaments, en particulier grâce au bon usage des médicaments pour prévenir les événements indésirables.",
+    "problematique": "Le besoin de renforcer la compréhension du bon usage des médicaments parmi les retraités et professionnels, ainsi que la prévention des événements indésirables responsables de nombreuses hospitalisations.",
+    "solution_envisagee": "La mise en place d'ateliers de M2P avec 4 séances sur le bon usage des médicaments, couvrant différentes thématiques liées aux médicaments.",
+    "objectifs": "Permettre aux retraités et professionnels de mieux comprendre et vivre avec leurs médicaments, en particulier grâce au bon usage des médicaments pour prévenir les événements indésirables."
+  },
+  "porteur_initiative": "Association Interrégime Midi-Pyrénées Prévention (M2P)",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
+  "nom_fichier": "25_MIEUX_VIVRE_AU_QUOTIDIEN_A_VEC_LES_MEDICAMENTS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "MIEUX VIVRE AU QUOTIDIEN A VEC LES MÉDICAMENTS",
+  "collection_date": ""
 }

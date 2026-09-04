@@ -1,33 +1,45 @@
 {
-    "titre": "Pour plus de mobilité, des chaises dans la ville",
-    "territoire": "Saint-Germain-au-Mont-d’Or (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La commune de Saint-Germain-au-Mont-d’Or a lancé une initiative visant à améliorer la mobilité des seniors dans sa ville en installant des chaises pour reposer.",
-        "contexte": "Les seniors du territoire ont exprimé le besoin d'une meilleure accessibilité et de lieux de repos publics. Le Conseil des Seniors a identifié un manque de structures de repos sur les routes piétons.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Installer des chaises pour reposer permettrait aux seniors d'entrevoir le monde extérieur et partager des moments de convivialité.",
-        "objectifs": [
-            "Améliorer l’accessibilité des seniors",
-            "Renforcer les liens entre les résidents, leurs proches et la société civile"
-        ]
-    },
-    "porteur_initiative": "Saint-Germain-au-Mont-d’Or (69)",
-    "date": [
-        "2016",
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pour_plus_de_mobilite_des_chaises_dans_la_ville.txt",
-    "nom_fichier": "Pour_plus_de_mobilite_des_chaises_dans_la_ville.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Pour plus de mobilité, des chaises dans la ville",
+  "territoire": [
+    "saint-germain-au-mont-d'or (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La commune de Saint-Germain-au-Mont-d’Or a lancé une initiative visant à améliorer la mobilité des seniors dans sa ville en installant des chaises pour reposer.",
+    "contexte": "Les seniors du territoire ont exprimé le besoin d'une meilleure accessibilité et de lieux de repos publics. Le Conseil des Seniors a identifié un manque de structures de repos sur les routes piétons.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Installer des chaises pour reposer permettrait aux seniors d'entrevoir le monde extérieur et partager des moments de convivialité.",
+    "objectifs": [
+      "Améliorer l’accessibilité des seniors",
+      "Renforcer les liens entre les résidents, leurs proches et la société civile"
+    ]
+  },
+  "porteur_initiative": "Saint-Germain-au-Mont-d’Or (69)",
+  "date": [
+    "2016",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Pour_plus_de_mobilite_des_chaises_dans_la_ville.txt",
+  "nom_fichier": "Pour_plus_de_mobilite_des_chaises_dans_la_ville.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/416-pe-des-cahises-dans-la-ville.pdf",
+  "original_title": "Pour plus de mobilité, des chaises dans la ville",
+  "collection_date": ""
 }

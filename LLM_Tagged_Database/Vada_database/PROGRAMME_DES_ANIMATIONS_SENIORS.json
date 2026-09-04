@@ -1,34 +1,45 @@
 {
-    "titre": "PROGRAMME DES ANIMATIONS SENIORS",
-    "territoire": "Commune d'Annecy",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Contribuer activement au bien-être des seniors en r enforçant le lien social, en stimulant la motricité et la mémoire, en éveillant la curiosité et en favorisant la découverte, tout en les encourageant à rester engagés et dynamiques.",
-        "contexte": "Le contexte de vieillissement progressif de la population a conduit à l'organisation d'une première animatrice pour renforcer l'offre d'activité auprès des seniors. Avec le développement de la ville, une équipe d'animation s'est agrandie avec l'ajout de 4 autres animateurs.",
-        "problematique": "Le besoin de rester engagés et dynamiques, de maintenir les liens sociaux et culturels, et de découvrir de nouvelles activités pour les seniors qui ont été impactés par la crise du Covid-19.",
-        "solution_envisagee": "Des activités créatives, des rencontres culturelles, des ateliers sur la mémoire et le multimédia, ainsi que d'autres initiatives visant à renforcer l'autonomie et les liens sociaux des seniors.",
-        "objectifs": [
-            "Pouvoir garder des liens sociaux",
-            "Une autonomie accrue",
-            "Découverte de nouvelles activités"
-        ]
-    },
-    "porteur_initiative": "Direction Santé-Hygiène-Seniors",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\PROGRAMME_DES_ANIMATIONS_SENIORS.txt",
-    "nom_fichier": "PROGRAMME_DES_ANIMATIONS_SENIORS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "PROGRAMME DES ANIMATIONS SENIORS",
+  "territoire": [
+    "commune d'annecy"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Contribuer activement au bien-être des seniors en r enforçant le lien social, en stimulant la motricité et la mémoire, en éveillant la curiosité et en favorisant la découverte, tout en les encourageant à rester engagés et dynamiques.",
+    "contexte": "Le contexte de vieillissement progressif de la population a conduit à l'organisation d'une première animatrice pour renforcer l'offre d'activité auprès des seniors. Avec le développement de la ville, une équipe d'animation s'est agrandie avec l'ajout de 4 autres animateurs.",
+    "problematique": "Le besoin de rester engagés et dynamiques, de maintenir les liens sociaux et culturels, et de découvrir de nouvelles activités pour les seniors qui ont été impactés par la crise du Covid-19.",
+    "solution_envisagee": "Des activités créatives, des rencontres culturelles, des ateliers sur la mémoire et le multimédia, ainsi que d'autres initiatives visant à renforcer l'autonomie et les liens sociaux des seniors.",
+    "objectifs": [
+      "Pouvoir garder des liens sociaux",
+      "Une autonomie accrue",
+      "Découverte de nouvelles activités"
+    ]
+  },
+  "porteur_initiative": "Direction Santé-Hygiène-Seniors",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\PROGRAMME_DES_ANIMATIONS_SENIORS.txt",
+  "nom_fichier": "PROGRAMME_DES_ANIMATIONS_SENIORS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-PROGRAMME-DES-ANIMATIONS-SENIORS.pdf",
+  "original_title": "PROGRAMME DES ANIMATIONS SENIORS",
+  "collection_date": ""
 }

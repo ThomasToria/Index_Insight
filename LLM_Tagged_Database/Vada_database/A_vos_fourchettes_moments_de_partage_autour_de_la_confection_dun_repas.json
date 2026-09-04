@@ -1,32 +1,42 @@
 {
-    "titre": "À vos fourchettes: moments de partage autour de la confection d'un repas",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative qui consiste à organiser des moments de convivialité autour de la confection d'un repas, mêlant les savoirs des jeunes étudiants du programme ERASMUS aux traditions culinaires des aînés.",
-        "contexte": "",
-        "problematique": "Renforcement des liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organisation d'actions intergénérationnelles autour de la confection de repas avec des étudiants étrangers pour renforcer les liens entre les résidents, leurs proches et la société civile.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2013"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_vos_fourchettes_moments_de_partage_autour_de_la_confection_dun_repas.txt",
-    "nom_fichier": "A_vos_fourchettes_moments_de_partage_autour_de_la_confection_dun_repas.txt",
-    "statut_action": "projet réalisé"
+  "titre": "À vos fourchettes: moments de partage autour de la confection d'un repas",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative qui consiste à organiser des moments de convivialité autour de la confection d'un repas, mêlant les savoirs des jeunes étudiants du programme ERASMUS aux traditions culinaires des aînés.",
+    "contexte": "",
+    "problematique": "Renforcement des liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organisation d'actions intergénérationnelles autour de la confection de repas avec des étudiants étrangers pour renforcer les liens entre les résidents, leurs proches et la société civile.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2013"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_vos_fourchettes_moments_de_partage_autour_de_la_confection_dun_repas.txt",
+  "nom_fichier": "A_vos_fourchettes_moments_de_partage_autour_de_la_confection_dun_repas.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/218-218-a-vos-fouchettes.pdf",
+  "original_title": "À vos fourchettes : moments de partage autour de la confection d'un repas",
+  "collection_date": ""
 }

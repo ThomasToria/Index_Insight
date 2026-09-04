@@ -1,0 +1,9 @@
+# Conserver des fins de ligne cohérentes dans le dépôt, y compris sous Windows.
+* text=auto
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.tex text eol=lf
+*.csv text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

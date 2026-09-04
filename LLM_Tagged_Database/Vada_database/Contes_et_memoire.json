@@ -1,33 +1,45 @@
 {
-    "titre": "Contes et mémoire",
-    "territoire": "Commune du Doubs, Bourgogne-Franche-Comté",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le projet Contes et Mémoire vise à rassembler les seniors de la commune pour partager leur histoire, valoriser leur mémoire et créer un spectacle de contes intergénérationnel.",
-        "contexte": "La ville de Valentigney a une richesse historique qui nécessite d'être transmise aux générations futures. Les seniors sont des experts de cette histoire et ont vu le développement de la ville au fil du temps.",
-        "problematique": "Le besoin de valoriser l'histoire locale, de renforcer les liens intergénérationnels et de sensibiliser les jeunes à l’importance de la transmission culturelle.",
-        "solution_envisagee": "Organisation d'un spectacle de contes intergénérationnel basé sur des témoignages des seniors, qui sera présentée aux jeunes pour valoriser leur mémoire et transmettre cette histoire à toutes les générations.",
-        "objectifs": [
-            "Valoriser la mémoire des seniors",
-            "Renforcer les liens entre les seniors et les jeunes",
-            "Transmettre l'histoire locale aux générations futures"
-        ]
-    },
-    "porteur_initiative": "CCAS de Valentigney, Association 'A la Lueur des Contes', GIE IMPA, Pays Montbéliard Agglomération, Région Bourgogne-Franche-Comté",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Contes_et_memoire.txt",
-    "nom_fichier": "Contes_et_memoire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Contes et mémoire",
+  "territoire": [
+    "commune du doubs, bourgogne-franche-comté"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le projet Contes et Mémoire vise à rassembler les seniors de la commune pour partager leur histoire, valoriser leur mémoire et créer un spectacle de contes intergénérationnel.",
+    "contexte": "La ville de Valentigney a une richesse historique qui nécessite d'être transmise aux générations futures. Les seniors sont des experts de cette histoire et ont vu le développement de la ville au fil du temps.",
+    "problematique": "Le besoin de valoriser l'histoire locale, de renforcer les liens intergénérationnels et de sensibiliser les jeunes à l’importance de la transmission culturelle.",
+    "solution_envisagee": "Organisation d'un spectacle de contes intergénérationnel basé sur des témoignages des seniors, qui sera présentée aux jeunes pour valoriser leur mémoire et transmettre cette histoire à toutes les générations.",
+    "objectifs": [
+      "Valoriser la mémoire des seniors",
+      "Renforcer les liens entre les seniors et les jeunes",
+      "Transmettre l'histoire locale aux générations futures"
+    ]
+  },
+  "porteur_initiative": "CCAS de Valentigney, Association 'A la Lueur des Contes', GIE IMPA, Pays Montbéliard Agglomération, Région Bourgogne-Franche-Comté",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Contes_et_memoire.txt",
+  "nom_fichier": "Contes_et_memoire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/851-pe-contes-et-memoire.pdf",
+  "original_title": "Contes et mémoire",
+  "collection_date": ""
 }

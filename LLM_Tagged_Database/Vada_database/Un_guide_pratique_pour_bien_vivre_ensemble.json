@@ -1,32 +1,44 @@
 {
-    "titre": "Un Guide Pratique pour Bien Vivre Ensemble",
-    "territoire": "Commune de Lons-le-Saunier",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un guide pratique pour les seniors lédoniens sur la vie quotidienne.",
-        "contexte": "Le Contrat Local de Santé signé en octobre 2013 entre la ville de Lons-le-Saunier et l'Agence Régionale de Santé de Franche-Comté.",
-        "problematique": "Développer l’information à destination des retraités dans divers domaines de leur vie quotidienne.",
-        "solution_envisagee": "Un guide pratique pour les seniors lédoniens sur la vie quotidienne.",
-        "objectifs": [
-            "Établir un guide adapté aux besoins des plus âgés",
-            "Promouvoir l’information à destination des retraités dans divers domaines de leur vie quotidienne"
-        ]
-    },
-    "porteur_initiative": "Agence Régionale de Santé de Franche-Comté et la ville de Lons-le-Saunier",
-    "date": [
-        "2013"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_pratique_pour_bien_vivre_ensemble.txt",
-    "nom_fichier": "Un_guide_pratique_pour_bien_vivre_ensemble.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un Guide Pratique pour Bien Vivre Ensemble",
+  "territoire": [
+    "lons-le-saunier"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un guide pratique pour les seniors lédoniens sur la vie quotidienne.",
+    "contexte": "Le Contrat Local de Santé signé en octobre 2013 entre la ville de Lons-le-Saunier et l'Agence Régionale de Santé de Franche-Comté.",
+    "problematique": "Développer l’information à destination des retraités dans divers domaines de leur vie quotidienne.",
+    "solution_envisagee": "Un guide pratique pour les seniors lédoniens sur la vie quotidienne.",
+    "objectifs": [
+      "Établir un guide adapté aux besoins des plus âgés",
+      "Promouvoir l’information à destination des retraités dans divers domaines de leur vie quotidienne"
+    ]
+  },
+  "porteur_initiative": "Agence Régionale de Santé de Franche-Comté et la ville de Lons-le-Saunier",
+  "date": [
+    "2013"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_guide_pratique_pour_bien_vivre_ensemble.txt",
+  "nom_fichier": "Un_guide_pratique_pour_bien_vivre_ensemble.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/117-117-un-guide-pratique-pour-bien-vivre-ensemble.pdf",
+  "original_title": "Un guide pratique pour bien vivre ensemble",
+  "collection_date": ""
 }

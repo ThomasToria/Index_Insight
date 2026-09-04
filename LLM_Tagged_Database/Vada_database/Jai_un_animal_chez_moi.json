@@ -1,31 +1,41 @@
 {
-    "titre": "J'ai un animal chez moi",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Le Conseil des Aînés lance un dispositif pour les propriétaires d'animaux isolés, intitulé « Merci de prendre soin de mon(es) animal(aux) ».",
-        "contexte": "La présence d'un ou plusieurs animaux chez une personne seule peut soulager son sentiment d'isolement et contribuer à sa santé physique et mentale. Cependant, la perspective d'une absence prolongée peut créer des inquiétudes potentielles.",
-        "problematique": "Le besoin de rassurer les personnes âgées qui ont un animal chez eux si elles devaient s'absenter temporairement ou définitivement du domicile.",
-        "solution_envisagee": "Un dispositif permettant aux intervenants d'être informés des animaux présents dans le logement et facilitant la prise en charge de ces animaux lorsqu'une personne seule doit quitter son domicile.",
-        "objectifs": [
-            "Rassurer les personnes âgées qui ont un animal chez eux si elles devaient s'absenter temporairement ou définitivement du domicile."
-        ]
-    },
-    "porteur_initiative": "Le Conseil des Aînés",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jai_un_animal_chez_moi.txt",
-    "nom_fichier": "Jai_un_animal_chez_moi.txt",
-    "statut_action": "projet réalisé"
+  "titre": "J'ai un animal chez moi",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Le Conseil des Aînés lance un dispositif pour les propriétaires d'animaux isolés, intitulé « Merci de prendre soin de mon(es) animal(aux) ».",
+    "contexte": "La présence d'un ou plusieurs animaux chez une personne seule peut soulager son sentiment d'isolement et contribuer à sa santé physique et mentale. Cependant, la perspective d'une absence prolongée peut créer des inquiétudes potentielles.",
+    "problematique": "Le besoin de rassurer les personnes âgées qui ont un animal chez eux si elles devaient s'absenter temporairement ou définitivement du domicile.",
+    "solution_envisagee": "Un dispositif permettant aux intervenants d'être informés des animaux présents dans le logement et facilitant la prise en charge de ces animaux lorsqu'une personne seule doit quitter son domicile.",
+    "objectifs": [
+      "Rassurer les personnes âgées qui ont un animal chez eux si elles devaient s'absenter temporairement ou définitivement du domicile."
+    ]
+  },
+  "porteur_initiative": "Le Conseil des Aînés",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Jai_un_animal_chez_moi.txt",
+  "nom_fichier": "Jai_un_animal_chez_moi.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Jai-un-animal-chez-moi-.pdf",
+  "original_title": "J’ai un animal chez moi",
+  "collection_date": ""
 }

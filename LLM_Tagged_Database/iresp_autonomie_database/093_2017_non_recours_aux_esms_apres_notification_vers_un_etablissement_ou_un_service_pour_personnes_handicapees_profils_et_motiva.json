@@ -1,33 +1,43 @@
 {
-    "titre": "Non recours aux ESMS (après notification vers un établissement ou un service pour personnes handicapées): profils et motivations",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte: L’évolution récente des politiques publiques montre une prise de conscience: le secteur médico-social à destination d’un public en situation de handicap peine à s’adapter aux nouvelles normes et exigences. Le projet vise à identifier les besoins spécifiques des personnes âgées dans ce domaine.",
-        "contexte": "",
-        "problematique": "Les personnes âgées rencontrent des difficultés pour intégrer correctement le secteur médico-social, notamment en raison de leur expérience et de leurs préoccupations concernant la sécurité et l’adaptabilité aux nouvelles normes. Les professionnels du secteur médico-sociaux ont également besoin d’apprendre à gérer efficacement les situations spécifiques des personnes âgées.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les besoins spécifiques des personnes âgées dans le secteur médico-social",
-            "Analyser les obstacles rencontrés par les personnes âgées lors de leur intégration dans ce domaine",
-            "Former les professionnels du secteur médico-sociaux à gérer efficacement les situations spécifiques des personnes âgées"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\093_2017_non_recours_aux_esms_apres_notification_vers_un_etablissement_ou_un_service_pour_personnes_handicapees_profils_et_motiva.txt",
-    "nom_fichier": "093_2017_non_recours_aux_esms_apres_notification_vers_un_etablissement_ou_un_service_pour_personnes_handicapees_profils_et_motiva.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Non recours aux ESMS (après notification vers un établissement ou un service pour personnes handicapées): profils et motivations",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte: L’évolution récente des politiques publiques montre une prise de conscience: le secteur médico-social à destination d’un public en situation de handicap peine à s’adapter aux nouvelles normes et exigences. Le projet vise à identifier les besoins spécifiques des personnes âgées dans ce domaine.",
+    "contexte": "",
+    "problematique": "Les personnes âgées rencontrent des difficultés pour intégrer correctement le secteur médico-social, notamment en raison de leur expérience et de leurs préoccupations concernant la sécurité et l’adaptabilité aux nouvelles normes. Les professionnels du secteur médico-sociaux ont également besoin d’apprendre à gérer efficacement les situations spécifiques des personnes âgées.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les besoins spécifiques des personnes âgées dans le secteur médico-social",
+      "Analyser les obstacles rencontrés par les personnes âgées lors de leur intégration dans ce domaine",
+      "Former les professionnels du secteur médico-sociaux à gérer efficacement les situations spécifiques des personnes âgées"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\093_2017_non_recours_aux_esms_apres_notification_vers_un_etablissement_ou_un_service_pour_personnes_handicapees_profils_et_motiva.txt",
+  "nom_fichier": "093_2017_non_recours_aux_esms_apres_notification_vers_un_etablissement_ou_un_service_pour_personnes_handicapees_profils_et_motiva.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/non-recours-aux-esms-apres-notification-vers-un-etablissement-ou-un-service-pour-personnes-handicapees-profils-et-motivations/",
+  "original_title": "Non recours aux ESMS (après notification vers un établissement ou un service pour personnes handicapées) : profils et motivations",
+  "collection_date": ""
 }

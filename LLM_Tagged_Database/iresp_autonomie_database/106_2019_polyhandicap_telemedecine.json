@@ -1,33 +1,45 @@
 {
-    "titre": "Polyhandicap & télémédecine",
-    "territoire": "Ile de France",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "L’initiative vise à améliorer le suivi des enfants polyhandicapés en leur permettant un meilleur accès aux soins spécialisés, notamment grâce au déploiement d’une télémédecine.",
-        "contexte": "Les difficultés et déficits d'accès aux soins de premier recours des personnes en situation de handicap ont été soulignés dans de nombreux rapports en France. Les enfants polyhandicapés, particulièrement concernés par cette insuffisance, rencontrent des problèmes pour obtenir un suivi préventif et une consultation avec leur médecin référent.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L’initiative vise à améliorer le suivi des enfants polyhandicapés en leur permettant un meilleur accès aux soins spécialisés, notamment grâce au déploiement d’une télémédecine.",
-        "objectifs": [
-            "Améliorer la qualité du suivi des enfants polyhandicapés",
-            "Renforcer les liens entre les résidents de l’EHPAD et leur famille et société civile",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\106_2019_polyhandicap_telemedecine.txt",
-    "nom_fichier": "106_2019_polyhandicap_telemedecine.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Polyhandicap & télémédecine",
+  "territoire": [
+    "ile de france"
+  ],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "L’initiative vise à améliorer le suivi des enfants polyhandicapés en leur permettant un meilleur accès aux soins spécialisés, notamment grâce au déploiement d’une télémédecine.",
+    "contexte": "Les difficultés et déficits d'accès aux soins de premier recours des personnes en situation de handicap ont été soulignés dans de nombreux rapports en France. Les enfants polyhandicapés, particulièrement concernés par cette insuffisance, rencontrent des problèmes pour obtenir un suivi préventif et une consultation avec leur médecin référent.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L’initiative vise à améliorer le suivi des enfants polyhandicapés en leur permettant un meilleur accès aux soins spécialisés, notamment grâce au déploiement d’une télémédecine.",
+    "objectifs": [
+      "Améliorer la qualité du suivi des enfants polyhandicapés",
+      "Renforcer les liens entre les résidents de l’EHPAD et leur famille et société civile",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\106_2019_polyhandicap_telemedecine.txt",
+  "nom_fichier": "106_2019_polyhandicap_telemedecine.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/polyhandicap-telemedecine/",
+  "original_title": "Polyhandicap & télémédecine",
+  "collection_date": ""
 }

@@ -1,34 +1,44 @@
 {
-    "titre": "Transport solidaire pour seniors",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la mobilité des personnes âgées dans leur quartier communautaire, en proposant un service de transport solidaire adapté aux besoins spécifiques de déplacement.",
-        "contexte": "Les seniors rencontrent des difficultés quotidiennes pour se rendre à leurs soins ou aux consultations médicales. Ils sont également confrontés à la désertification des services publics et les problématiques liées à l'isolement social.",
-        "problematique": "Le besoin de faciliter le déplacement des seniors dans leur quartier communautaire, en particulier pour les courses de première nécessité (alimentation, rendez-vous médicaux).",
-        "solution_envisagee": "Un service de transport solidaire adapté aux besoins spécifiques des seniors, coordonné par un salarié et mené par une équipe d'animateurs bénévoles.",
-        "objectifs": [
-            "Favoriser l'autonomie de déplacement pour les besoins de première nécessité des seniors",
-            "Favoriser le maintien à domicile des seniors",
-            "Développer un tissu social solidaire dans la communauté sochalienne"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.txt",
-    "nom_fichier": "Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Transport solidaire pour seniors",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "offre de service",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la mobilité des personnes âgées dans leur quartier communautaire, en proposant un service de transport solidaire adapté aux besoins spécifiques de déplacement.",
+    "contexte": "Les seniors rencontrent des difficultés quotidiennes pour se rendre à leurs soins ou aux consultations médicales. Ils sont également confrontés à la désertification des services publics et les problématiques liées à l'isolement social.",
+    "problematique": "Le besoin de faciliter le déplacement des seniors dans leur quartier communautaire, en particulier pour les courses de première nécessité (alimentation, rendez-vous médicaux).",
+    "solution_envisagee": "Un service de transport solidaire adapté aux besoins spécifiques des seniors, coordonné par un salarié et mené par une équipe d'animateurs bénévoles.",
+    "objectifs": [
+      "Favoriser l'autonomie de déplacement pour les besoins de première nécessité des seniors",
+      "Favoriser le maintien à domicile des seniors",
+      "Développer un tissu social solidaire dans la communauté sochalienne"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.txt",
+  "nom_fichier": "Fiche-action_1_Transport_Solidaire_seniors_1ere_ne.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "offre de service",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 1 Transport Solidaire seniors 1ère nécessité.pdf",
+  "collection_date": ""
 }

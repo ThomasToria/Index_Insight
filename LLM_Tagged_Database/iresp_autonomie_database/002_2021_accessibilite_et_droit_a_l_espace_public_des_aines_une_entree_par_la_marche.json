@@ -1,33 +1,43 @@
 {
-    "titre": "Accessibilité et Droit à l'espace public des Aînés: une entrée par la Marche",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Le projet ADAM – Accessibilité et Droit à l'espace public des Aînés: une entrée par la Marche – propose d’interroger le rapport à l’espace public des personnes âgées en se concentrant sur la “marche” comme mode de transport le plus utilisé chez les + 65 ans. L’entrée territoriale sur le vieillissement laisse en effet entrevoir un ensemble de questions nouvelles où l’environnement, l'espace public, et leur accessibilité deviennent l'objet de recherche pour interroger la participation sociale des aînés à l’espace public comme une forme concrète de citoyenneté et d'inclusion sociale.",
-        "contexte": "",
-        "problematique": "Le rapport à l'espace public des personnes âgées, en particulier les seniors, est un sujet complexe qui nécessite une approche multidisciplinaire. L'entrée territoriale sur le vieillissement laisse entrevoir de nouvelles questions liées à l'environnement, aux espaces publics et leur accessibilité.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Modéliser l’accessibilité spatial",
-            "Identifier les obstacles physiques et sociaux qui limitent la participation des seniors à l'espace public",
-            "Analyser le rôle de la marche dans la vie quotidienne des seniors et son impact sur leur citoyenneté"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\002_2021_accessibilite_et_droit_a_l_espace_public_des_aines_une_entree_par_la_marche.txt",
-    "nom_fichier": "002_2021_accessibilite_et_droit_a_l_espace_public_des_aines_une_entree_par_la_marche.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accessibilité et Droit à l'espace public des Aînés: une entrée par la Marche",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Le projet ADAM – Accessibilité et Droit à l'espace public des Aînés: une entrée par la Marche – propose d’interroger le rapport à l’espace public des personnes âgées en se concentrant sur la “marche” comme mode de transport le plus utilisé chez les + 65 ans. L’entrée territoriale sur le vieillissement laisse en effet entrevoir un ensemble de questions nouvelles où l’environnement, l'espace public, et leur accessibilité deviennent l'objet de recherche pour interroger la participation sociale des aînés à l’espace public comme une forme concrète de citoyenneté et d'inclusion sociale.",
+    "contexte": "",
+    "problematique": "Le rapport à l'espace public des personnes âgées, en particulier les seniors, est un sujet complexe qui nécessite une approche multidisciplinaire. L'entrée territoriale sur le vieillissement laisse entrevoir de nouvelles questions liées à l'environnement, aux espaces publics et leur accessibilité.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Modéliser l’accessibilité spatial",
+      "Identifier les obstacles physiques et sociaux qui limitent la participation des seniors à l'espace public",
+      "Analyser le rôle de la marche dans la vie quotidienne des seniors et son impact sur leur citoyenneté"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\002_2021_accessibilite_et_droit_a_l_espace_public_des_aines_une_entree_par_la_marche.txt",
+  "nom_fichier": "002_2021_accessibilite_et_droit_a_l_espace_public_des_aines_une_entree_par_la_marche.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/accessibilite-et-droit-a-lespace-public-des-aines-une-entree-par-la-marche/",
+  "original_title": "Accessibilité et Droit à l’espace public des Aînés : une entrée par la Marche",
+  "collection_date": ""
 }

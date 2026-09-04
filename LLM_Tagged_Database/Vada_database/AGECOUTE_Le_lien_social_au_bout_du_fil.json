@@ -1,33 +1,43 @@
 {
-    "titre": "AG'ECOUTE: Le Lien Social au Bout du Fil",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "AG'ECOUTE est un service d’écoute téléphonique mis en place par le CCAS de Metz pour les habitants de plus de 60 ans vivant à domicile dans la commune.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Le lien social est un problème important pour les personnes âgées qui vivent isolément. L’initiative de l’AG'ECOUTE vise à créer des relations de confiance et de soutien entre les résidents, leurs proches et la société civile.",
-        "solution_envisagee": "L’initiative implique une communication active pour favoriser le repérage des situations d’isolement. Des actions citoyennes comme l’inscription à l’AG'ECOUTE, la création de flyers et affiches, et la diffusion dans les clubs seniors ont permis de sensibiliser la population.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Favoriser le repérage des situations d’isolement"
-        ]
-    },
-    "porteur_initiative": "CCAS de Metz",
-    "date": [
-        "depuis 2014"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "culture et loisirs",
-        "services et accompagnement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\AGECOUTE_Le_lien_social_au_bout_du_fil.txt",
-    "nom_fichier": "AGECOUTE_Le_lien_social_au_bout_du_fil.txt",
-    "statut_action": "projet réalisé"
+  "titre": "AG'ECOUTE: Le Lien Social au Bout du Fil",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "AG'ECOUTE est un service d’écoute téléphonique mis en place par le CCAS de Metz pour les habitants de plus de 60 ans vivant à domicile dans la commune.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Le lien social est un problème important pour les personnes âgées qui vivent isolément. L’initiative de l’AG'ECOUTE vise à créer des relations de confiance et de soutien entre les résidents, leurs proches et la société civile.",
+    "solution_envisagee": "L’initiative implique une communication active pour favoriser le repérage des situations d’isolement. Des actions citoyennes comme l’inscription à l’AG'ECOUTE, la création de flyers et affiches, et la diffusion dans les clubs seniors ont permis de sensibiliser la population.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Favoriser le repérage des situations d’isolement"
+    ]
+  },
+  "porteur_initiative": "CCAS de Metz",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\AGECOUTE_Le_lien_social_au_bout_du_fil.txt",
+  "nom_fichier": "AGECOUTE_Le_lien_social_au_bout_du_fil.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/234-234-ag-ecoute.pdf",
+  "original_title": "AG’ECOUTE \"Le lien social au bout du fil\"",
+  "collection_date": ""
 }

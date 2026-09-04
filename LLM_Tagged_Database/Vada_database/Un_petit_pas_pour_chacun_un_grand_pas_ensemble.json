@@ -1,32 +1,44 @@
 {
-    "titre": "Un petit pas pour chacun, un grand pas ensemble",
-    "territoire": "Commune: Valence (26)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Le projet de sortie collective pour les aînés à Valence vise à améliorer la qualité de vie des bénéficiaires en proposant des perspectives positives dans leur vie quotidienne.",
-        "contexte": "L'isolement est un problème social majeur dans la ville, avec une proportion importante d'isolées et isolés. Le personnel du SSIAD constate chaque jour l'isolement de ses bénéficiaires et recueille leurs envies de sorties.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des sorties collectives organisées par le SSIAD pour les bénéficiaires de l'EHPD, menées avec des partenaires comme Petits Frères des Pauvres, Société St-Vincent de Paul et Unis-cités. Les sorties couvrent divers thèmes tels que la culture, la convivialité, etc.",
-        "objectifs": [
-            "Améliorer la qualité de vie des bénéficiaires",
-            "Favoriser le bien-vieillir en proposant des perspectives positives dans leur vie quotidienne"
-        ]
-    },
-    "porteur_initiative": "CCAS de Valence Ville Amie des Aînés depuis 2017",
-    "date": [
-        "depuis mars 2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_petit_pas_pour_chacun_un_grand_pas_ensemble.txt",
-    "nom_fichier": "Un_petit_pas_pour_chacun_un_grand_pas_ensemble.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un petit pas pour chacun, un grand pas ensemble",
+  "territoire": [
+    "valence (26)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Le projet de sortie collective pour les aînés à Valence vise à améliorer la qualité de vie des bénéficiaires en proposant des perspectives positives dans leur vie quotidienne.",
+    "contexte": "L'isolement est un problème social majeur dans la ville, avec une proportion importante d'isolées et isolés. Le personnel du SSIAD constate chaque jour l'isolement de ses bénéficiaires et recueille leurs envies de sorties.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des sorties collectives organisées par le SSIAD pour les bénéficiaires de l'EHPD, menées avec des partenaires comme Petits Frères des Pauvres, Société St-Vincent de Paul et Unis-cités. Les sorties couvrent divers thèmes tels que la culture, la convivialité, etc.",
+    "objectifs": [
+      "Améliorer la qualité de vie des bénéficiaires",
+      "Favoriser le bien-vieillir en proposant des perspectives positives dans leur vie quotidienne"
+    ]
+  },
+  "porteur_initiative": "CCAS de Valence Ville Amie des Aînés depuis 2017",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_petit_pas_pour_chacun_un_grand_pas_ensemble.txt",
+  "nom_fichier": "Un_petit_pas_pour_chacun_un_grand_pas_ensemble.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1059-concours-2024-un-petit-pas-pour-chacun-un-grand-pas-ensemble.pdf",
+  "original_title": "Un petit pas pour chacun, un grand pas ensemble",
+  "collection_date": ""
 }

@@ -1,33 +1,43 @@
 {
-    "titre": "De l’émergence de la catégorie à la gestion des parcours de vie des personnes en « situation de handicap complexe »: une analyse des dispositifs innovants portés par LADAPT Essonne",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette recherche vise à analyser les dispositifs innovants mis en place pour gérer la gestion des parcours de vie des personnes en situation de handicap complexe.",
-        "contexte": "En France, à la suite des grandes évolutions qu’a connu le secteur médico-social à partir des années 1970, de nouvelles catégories ont été créées pour mieux cerner les besoins spécifiques des personnes âgées et handicapées. Ces changements ont conduit à une réflexion sur la manière dont ces individus peuvent gérer leur vie quotidienne.",
-        "problematique": "La gestion efficace des parcours de vie des personnes en situation de handicap complexe est un défi majeur dans le secteur médico-social actuel. Les dispositifs existants ne répondent pas toujours aux besoins spécifiques et complexes de ces individus, ce qui peut entraîner une mauvaise gestion du temps et d’informations.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Analyser les différents dispositifs innovants mis en place pour gérer la gestion des parcours de vie des personnes en situation de handicap complexe",
-            "Identifier les défis majeurs rencontrés par ces individus lors de leur gestion quotidienne et leurs besoins spécifiques",
-            "Évaluer l’efficacité des dispositifs existants dans la gestion des parcours de vie des personnes en situation de handicap complexe"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\032_2024_de_l_emergence_de_la_categorie_a_la_gestion_des_parcours_de_vie_des_personnes_en_situation_de_handicap_complexe_une_anal.txt",
-    "nom_fichier": "032_2024_de_l_emergence_de_la_categorie_a_la_gestion_des_parcours_de_vie_des_personnes_en_situation_de_handicap_complexe_une_anal.txt",
-    "statut_action": "projet réalisé"
+  "titre": "De l’émergence de la catégorie à la gestion des parcours de vie des personnes en « situation de handicap complexe »: une analyse des dispositifs innovants portés par LADAPT Essonne",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette recherche vise à analyser les dispositifs innovants mis en place pour gérer la gestion des parcours de vie des personnes en situation de handicap complexe.",
+    "contexte": "En France, à la suite des grandes évolutions qu’a connu le secteur médico-social à partir des années 1970, de nouvelles catégories ont été créées pour mieux cerner les besoins spécifiques des personnes âgées et handicapées. Ces changements ont conduit à une réflexion sur la manière dont ces individus peuvent gérer leur vie quotidienne.",
+    "problematique": "La gestion efficace des parcours de vie des personnes en situation de handicap complexe est un défi majeur dans le secteur médico-social actuel. Les dispositifs existants ne répondent pas toujours aux besoins spécifiques et complexes de ces individus, ce qui peut entraîner une mauvaise gestion du temps et d’informations.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Analyser les différents dispositifs innovants mis en place pour gérer la gestion des parcours de vie des personnes en situation de handicap complexe",
+      "Identifier les défis majeurs rencontrés par ces individus lors de leur gestion quotidienne et leurs besoins spécifiques",
+      "Évaluer l’efficacité des dispositifs existants dans la gestion des parcours de vie des personnes en situation de handicap complexe"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\032_2024_de_l_emergence_de_la_categorie_a_la_gestion_des_parcours_de_vie_des_personnes_en_situation_de_handicap_complexe_une_anal.txt",
+  "nom_fichier": "032_2024_de_l_emergence_de_la_categorie_a_la_gestion_des_parcours_de_vie_des_personnes_en_situation_de_handicap_complexe_une_anal.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/de-lemergence-de-la-categorie-a-la-gestion-des-parcours-de-vie-des-personnes-en-situation-de-handicap-complexe-une-analyse-des-dispositifs-innovants-portes-par-ladapt-essonne/",
+  "original_title": "De l’émergence de la catégorie à la gestion des parcours de vie des personnes en « situation de handicap complexe » : une analyse des dispositifs innovants portés par LADAPT Essonne",
+  "collection_date": ""
 }

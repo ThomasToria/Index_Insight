@@ -1,30 +1,40 @@
 {
-    "titre": "CARSAT CENTRE-VAL DE LOIRE",
-    "territoire": "",
-    "echelle": [
-        "intercommunale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le bus numérique itinérant rend la formation numérique accessible à tous, quel que soit le lieu géographique. Il s'agit d'allier mobilité et sensibilisation des retraités.",
-        "contexte": "",
-        "problematique": "La prévention de la perte d'autonomie et l'accès aux droits",
-        "solution_envisagee": "Formation numérique itinérante via un bus équipé de postes informatiques, tablettes et antenne satellite pour sensibiliser et accompagner les retraités dans l'utilisation des outils numériques.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "SAS Solutions Vie Pratique",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
-    "nom_fichier": "29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
-    "statut_action": "projet réalisé"
+  "titre": "CARSAT CENTRE-VAL DE LOIRE",
+  "territoire": [],
+  "echelle": [
+    "intercommunale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le bus numérique itinérant rend la formation numérique accessible à tous, quel que soit le lieu géographique. Il s'agit d'allier mobilité et sensibilisation des retraités.",
+    "contexte": "",
+    "problematique": "La prévention de la perte d'autonomie et l'accès aux droits",
+    "solution_envisagee": "Formation numérique itinérante via un bus équipé de postes informatiques, tablettes et antenne satellite pour sensibiliser et accompagner les retraités dans l'utilisation des outils numériques.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "SAS Solutions Vie Pratique",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
+  "nom_fichier": "29_CARSAT_CENTRE-VAL_DE_LOIRE.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "CARSAT CENTRE-VAL DE LOIRE",
+  "collection_date": ""
 }

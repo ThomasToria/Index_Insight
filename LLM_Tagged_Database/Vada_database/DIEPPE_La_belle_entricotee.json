@@ -1,37 +1,45 @@
 {
-    "titre": "DIEPPE, La belle entricotée",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Une initiative artistique et intergénérationnelle à l'échelle de la ville de Dieppe, organisée par la Ville de Dieppe.",
-        "contexte": "Le projet a été initié en réponse au phénomène mondial « Y arn-Bombing », qui consiste à utiliser le mobilier urbain comme support pour tricoter. L'initiative est inspirée du concept et vise à créer des liens autour d'un projet artistique.",
-        "problematique": "Renforcer les liens entre résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser un événement artistique autour du tricotage, avec des ateliers pour les participants et une exposition urbaine qui se poursuit durant les vacances d'été.",
-        "objectifs": [
-            "Coopérer à la mise en œuvre d’un projet artistique à l’échelle de la ville",
-            "Favoriser la participation intergénérationnelle autour d’un événement",
-            "Créer des temps de rencontres et d'échanges avec différents acteurs",
-            "Mettre en œuvre une dynamique transversale au niveau de la collectivité"
-        ]
-    },
-    "porteur_initiative": "Ville de Dieppe, animatrice en gérontologie et artiste locale",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DIEPPE_La_belle_entricotee.txt",
-    "nom_fichier": "DIEPPE_La_belle_entricotee.txt",
-    "statut_action": "projet réalisé"
+  "titre": "DIEPPE, La belle entricotée",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Une initiative artistique et intergénérationnelle à l'échelle de la ville de Dieppe, organisée par la Ville de Dieppe.",
+    "contexte": "Le projet a été initié en réponse au phénomène mondial « Y arn-Bombing », qui consiste à utiliser le mobilier urbain comme support pour tricoter. L'initiative est inspirée du concept et vise à créer des liens autour d'un projet artistique.",
+    "problematique": "Renforcer les liens entre résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser un événement artistique autour du tricotage, avec des ateliers pour les participants et une exposition urbaine qui se poursuit durant les vacances d'été.",
+    "objectifs": [
+      "Coopérer à la mise en œuvre d’un projet artistique à l’échelle de la ville",
+      "Favoriser la participation intergénérationnelle autour d’un événement",
+      "Créer des temps de rencontres et d'échanges avec différents acteurs",
+      "Mettre en œuvre une dynamique transversale au niveau de la collectivité"
+    ]
+  },
+  "porteur_initiative": "Ville de Dieppe, animatrice en gérontologie et artiste locale",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DIEPPE_La_belle_entricotee.txt",
+  "nom_fichier": "DIEPPE_La_belle_entricotee.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/194-194-la-belle-enticotee-dieppe.pdf",
+  "original_title": "DIEPPE, La belle entricotée",
+  "collection_date": ""
 }

@@ -1,0 +1,170 @@
+\chapter{State of the Art}
+
+\section{Information retrieval and documentary indexing}
+
+The intended outcome of Index\_Insight is not simply a collection of text
+files. It is a corpus that can be explored by theme, initiative type,
+territorial scale, holder, and source. This objective places the project at the
+intersection of information retrieval and documentary indexing: retrieval makes
+documents findable, while indexing makes their relevant properties available
+for filtering and comparison.
+
+Lexical retrieval remains an appropriate starting point for this type of
+collection. TF--IDF weights terms according to their importance in a document
+and their rarity in the corpus \citep{salton1988term}; BM25 extends this idea
+with a probabilistic ranking model that accounts for term frequency and document
+length \citep{robertson2009probabilistic}. Both approaches are transparent,
+efficient, and well suited to a future keyword search interface. They are not,
+however, sufficient on their own when two documents describe a similar
+initiative with different vocabulary, or when a user needs to filter documents
+by information that is only stated in the body text.
+
+Dense retrieval represents queries and documents in a shared vector space and
+can retrieve semantically related material even when their wording differs
+\citep{karpukhin2020dense}. This is a relevant future direction for INSIGHT,
+especially for exploratory queries formulated in everyday language. It is not
+implemented in the current prototype. The immediate requirement is instead to
+produce reliable structured metadata from source documents; those metadata can
+later support faceted search, lexical retrieval, or a hybrid lexical--semantic
+interface.
+
+Metadata are central to this distinction. Titles, dates, organisations,
+territories, target audiences, and themes make documentary collections easier
+to navigate than full text alone. In the present corpus, these elements are not
+consistently available as webpage metadata. They must be recovered from HTML
+pages, PDF-derived text, and action sheets, then retained with a link to their
+source. The quality of this metadata extraction is therefore more important to
+the current project than the choice of a final ranking algorithm.
+
+\section{Structured extraction from heterogeneous documents}
+
+Information extraction from the present corpus is difficult because the same
+piece of information takes different forms across sources. A territorial scale
+may be stated in a heading, embedded in a sentence, or only implied by a place
+name. A date can refer to the publication of a report, the start of an
+initiative, or a future event. Websites also vary in HTML structure, while PDF
+conversion may introduce fragmented sentences, repeated headers, and encoding
+artefacts. Source-specific collection is therefore a practical necessity rather
+than an implementation detail \citep{mitchell2018web}.
+
+Rule-based extraction is a natural baseline in this setting. Regular
+expressions, headings, lexicons, and keyword rules are transparent: a predicted
+value can be traced to a matching expression and the rule can be corrected.
+Such methods are effective when documents follow stable templates. Their main
+limitation is maintenance. A rule designed for one editorial structure can fail
+when the information appears elsewhere or is expressed differently
+\citep{sarawagi2008information,grishman2019information}. This limitation is
+particularly relevant here because the corpus combines six source collections
+with substantially different document formats.
+
+Preprocessing reduces some of this variability before extraction. In the
+pipeline, it includes text cleaning, whitespace and file-name normalisation,
+and the separation of raw from cleaned documents. More general operations such
+as tokenisation, lemmatisation, and normalisation are standard components of
+NLP pipelines because they make textual units easier to compare and process
+\citep{manning1999foundations}. They cannot, however, resolve whether an
+organisation mentioned in a document is the initiative holder or merely a
+partner. That decision requires contextual interpretation.
+
+Structured extraction also requires a schema. A document can be represented by
+fields such as target audience, territorial scale, initiative type, territory,
+holder, date, and theme. Controlled vocabularies are useful where comparable
+values are needed: they reduce spelling variation and make filtering possible
+\citep{hedden2016taxonomy}. They should not erase the original wording. For
+this reason, Index\_Insight preserves the extracted values and adds a separate,
+deterministic normalisation layer for themes and initiative types.
+
+\section{LLM-assisted extraction and constrained generation}
+
+Transformer models make it possible to use the context surrounding a candidate
+value rather than relying exclusively on an isolated keyword. The transformer
+architecture introduced by \citet{vaswani2017attention}, and contextual models
+such as BERT \citep{devlin2019bert}, established the importance of contextual
+representations for many NLP tasks. Large language models extend this approach:
+a task can be specified through an instruction and a desired output format
+rather than through a task-specific classifier or a large set of source-specific
+rules \citep{brown2020language}.
+
+For Index\_Insight, the relevant use of an LLM is structured information
+extraction, not open-ended text generation. The model receives a French prompt
+that specifies a JSON schema, the expected type of each field, controlled values
+for target audience and territorial scale, and an explicit instruction not to
+invent unsupported information. Prompting and output constraints are important
+because they make generated records easier to parse, compare, and review
+\citep{liu2023pre}. They also allow empty values to be used when the document
+does not support a reliable answer.
+
+Constrained output does not make an LLM output factual by default. A syntactically
+valid JSON record may still contain an unsupported interpretation, omit a
+relevant value, or select an overly broad category. This concern is central in
+institutional and research contexts, where fluent language can conceal
+uncertainty \citep{bommasani2021opportunities}. The project consequently
+retains raw model responses and source provenance, applies deterministic
+normalisation after extraction, and evaluates selected fields against human
+annotations. The LLM is thus treated as a component of a traceable workflow,
+not as an autonomous source of knowledge.
+
+\section{Comparable systems}
+
+Existing systems address parts of the problem tackled by Index\_Insight, but
+they usually assume either that metadata already exist or that documents belong
+to a relatively uniform collection.
+
+Documentary catalogues and digital libraries organise resources through
+bibliographic or descriptive metadata and offer faceted navigation by author,
+date, subject, institution, or place. Their strength is the use of stable
+schemas and controlled vocabularies. They do not, by themselves, extract the
+metadata needed for this project from long web pages, reports, and action
+sheets.
+
+Search systems based on inverted indexes, TF--IDF, or BM25 can efficiently
+retrieve documents containing query terms \citep{salton1988term,robertson2009probabilistic}.
+Dense retrieval can complement them when query and document vocabulary differ
+\citep{karpukhin2020dense}. Neither approach creates the territorial,
+organisational, temporal, and thematic fields required for the comparative
+exploration envisaged by INSIGHT.
+
+Rule-based information-extraction pipelines use templates, headings, regular
+expressions, and lexicons to identify candidate values. They offer useful
+traceability but require continuous adaptation when formats change
+\citep{sarawagi2008information,grishman2019information}. Prompt-guided LLM
+systems instead request a predefined structure directly from the document. They
+are more flexible in the face of heterogeneous phrasing, but their outputs must
+be constrained and validated \citep{liu2023pre}.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{p{3.2cm}p{3.5cm}p{3.5cm}p{3.4cm}}
+\toprule
+Approach & Main strength & Main limitation for this corpus & Position of Index\_Insight \\
+\midrule
+Documentary catalogue & Stable metadata and faceted navigation & Assumes metadata already exist or are manually curated & Reuses the principle of controlled metadata, but automates part of their production \\
+
+Lexical or dense retrieval & Efficient retrieval and exploration of large collections & Does not itself extract reliable documentary metadata & Future use of the structured corpus; not yet a deployed search engine \\
+
+Rule-based extraction & Transparent and inspectable decisions & Fragile across heterogeneous document structures & Baseline and quality-control layer of the pipeline \\
+
+LLM-assisted extraction & Context-sensitive structuring of varied documents & Risk of unsupported inference and output inconsistency & Constrained local extraction, evaluated against human reference annotations \\
+\bottomrule
+\end{tabular}
+\caption{Positioning of Index\_Insight relative to comparable system families.}
+\label{tab:comparable-systems}
+\end{table}
+
+\section{Synthesis of the state of the art}
+
+The literature supports a hybrid design for a corpus of this kind. Rule-based
+methods offer traceability and remain useful for explicit lexical cues, but they
+are difficult to generalise across heterogeneous layouts. LLM-assisted
+extraction can use contextual information to select and format metadata, but it
+requires constraints, provenance, and empirical evaluation. Controlled
+vocabularies make the resulting records comparable, while future retrieval
+components can use both full text and structured fields.
+
+Index\_Insight adopts this division of labour. The pipeline preserves raw
+sources and intermediate rule-based outputs, uses a local LLM to create JSON
+records, enriches them with provenance, and normalises selected fields without
+overwriting the original outputs. This design does not assume that a completed
+field is correct. It distinguishes technical completion from factual accuracy
+and makes human validation part of the workflow. The following chapters detail
+how this design was implemented and evaluated on the collected corpus.

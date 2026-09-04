@@ -1,33 +1,45 @@
 {
-    "titre": "Le tour du marché",
-    "territoire": "Commune: Dijon (21)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Cette initiative vise à préserver l'autonomie des personnes en perte de mobilité, rompre l'isolement et encourager l'accès au marché jusqu'à la plus grande âge.",
-        "contexte": "Cette activité existe depuis septembre 2013 et répond aux besoins du public inscrit dans le cadre du service accompagnement collectif du CCAS de Dijon. Le choix du marché, un marché de quartier (Port du canal), a été déterminé en fonction de deux critères: facilement accessible en minibus et une surface limitée pour éviter un circuit de marche trop long entre les étales.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer une sortie au marché un mercredi sur deux. Acheter des caddies pour faciliter le transport des courses et inscrire l’activité au programme des animations collectives.",
-        "objectifs": [
-            "Préserver l'autonomie des personnes en perte de mobilité",
-            "Rompre l'isolement",
-            "Encourager l'accès au marché jusqu'à la plus grande âge"
-        ]
-    },
-    "porteur_initiative": "VillesAMIEs",
-    "date": [
-        "2017-09-25"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_tour_du_marche.txt",
-    "nom_fichier": "Le_tour_du_marche.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le tour du marché",
+  "territoire": [
+    "dijon (21)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Cette initiative vise à préserver l'autonomie des personnes en perte de mobilité, rompre l'isolement et encourager l'accès au marché jusqu'à la plus grande âge.",
+    "contexte": "Cette activité existe depuis septembre 2013 et répond aux besoins du public inscrit dans le cadre du service accompagnement collectif du CCAS de Dijon. Le choix du marché, un marché de quartier (Port du canal), a été déterminé en fonction de deux critères: facilement accessible en minibus et une surface limitée pour éviter un circuit de marche trop long entre les étales.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer une sortie au marché un mercredi sur deux. Acheter des caddies pour faciliter le transport des courses et inscrire l’activité au programme des animations collectives.",
+    "objectifs": [
+      "Préserver l'autonomie des personnes en perte de mobilité",
+      "Rompre l'isolement",
+      "Encourager l'accès au marché jusqu'à la plus grande âge"
+    ]
+  },
+  "porteur_initiative": "VillesAMIEs",
+  "date": [
+    "2017-09-25"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_tour_du_marche.txt",
+  "nom_fichier": "Le_tour_du_marche.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/339-339-tour-du-marche-dijon.pdf",
+  "original_title": "Le tour du marché",
+  "collection_date": ""
 }

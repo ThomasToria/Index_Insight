@@ -1,32 +1,44 @@
 {
-    "titre": "A Grenoble, citoyens et habitants à tout âge",
-    "territoire": "Commune: Grenoble",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à renforcer la participation citoyenne et l’engagement des habitants de Grenoble, en particulier les personnes âgées, dans divers domaines municipaux.",
-        "contexte": "La Ville de Grenoble a lancé une série d’actions visant à améliorer la démocratie locale et à renforcer le pouvoir d’agir des citoyens grenoblois. Ces actions incluent notamment l’organisation d’une journée d’échange entre habitants (la ruche) pour pré-sélectionner les projets à étudier, ainsi que la mise en place d’un débat pour présenter et sélectionner les projets.",
-        "problematique": "Renforcer la participation citoyenne et l’engagement des habitants de Grenoble dans divers domaines municipaux",
-        "solution_envisagee": "Organisation d’une journée d’échange entre habitants (la ruche) pour pré-sélectionner les projets à étudier, ainsi que la mise en place d’un débat pour présenter et sélectionner les projets.",
-        "objectifs": [
-            "Renforcer la participation citoyenne",
-            "Améliorer la démocratie locale"
-        ]
-    },
-    "porteur_initiative": "La Ville de Grenoble",
-    "date": [
-        "2017-03-13"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Grenoble_citoyens_et_habitants_a_tout_age.txt",
-    "nom_fichier": "A_Grenoble_citoyens_et_habitants_a_tout_age.txt",
-    "statut_action": "projet réalisé"
+  "titre": "A Grenoble, citoyens et habitants à tout âge",
+  "territoire": [
+    "grenoble"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à renforcer la participation citoyenne et l’engagement des habitants de Grenoble, en particulier les personnes âgées, dans divers domaines municipaux.",
+    "contexte": "La Ville de Grenoble a lancé une série d’actions visant à améliorer la démocratie locale et à renforcer le pouvoir d’agir des citoyens grenoblois. Ces actions incluent notamment l’organisation d’une journée d’échange entre habitants (la ruche) pour pré-sélectionner les projets à étudier, ainsi que la mise en place d’un débat pour présenter et sélectionner les projets.",
+    "problematique": "Renforcer la participation citoyenne et l’engagement des habitants de Grenoble dans divers domaines municipaux",
+    "solution_envisagee": "Organisation d’une journée d’échange entre habitants (la ruche) pour pré-sélectionner les projets à étudier, ainsi que la mise en place d’un débat pour présenter et sélectionner les projets.",
+    "objectifs": [
+      "Renforcer la participation citoyenne",
+      "Améliorer la démocratie locale"
+    ]
+  },
+  "porteur_initiative": "La Ville de Grenoble",
+  "date": [
+    "2017-03-13"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Grenoble_citoyens_et_habitants_a_tout_age.txt",
+  "nom_fichier": "A_Grenoble_citoyens_et_habitants_a_tout_age.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/310-310-fiche-partage-d-experience-grenoble-1.pdf",
+  "original_title": "A Grenoble, citoyens et habitants à tout âge",
+  "collection_date": ""
 }

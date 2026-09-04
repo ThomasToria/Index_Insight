@@ -1,32 +1,42 @@
 {
-    "titre": "Activité Qi Gong",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative a émergé grâce au questionnaire de satisfaction régulièrement remis aux seniors connus du CCAS. Le Qi Gong est une gymnastique chinoise basée sur des mouvements lents et techniques de respiration.",
-        "contexte": "Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années, répondant à l'appel à projets de la Conférence des financeurs. Le Qi Gong est une activité douce permettant aux seniors de se lier entre eux et de valoriser leur mémoire.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'initiative vise à créer des liens intergénérationnels et à valoriser le rôle des seniors dans la communauté.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Lormont",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activite_qi_gong.txt",
-    "nom_fichier": "Activite_qi_gong.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Activité Qi Gong",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative a émergé grâce au questionnaire de satisfaction régulièrement remis aux seniors connus du CCAS. Le Qi Gong est une gymnastique chinoise basée sur des mouvements lents et techniques de respiration.",
+    "contexte": "Le CCAS de Lormont propose un programme de prévention de la perte d'autonomie depuis plusieurs années, répondant à l'appel à projets de la Conférence des financeurs. Le Qi Gong est une activité douce permettant aux seniors de se lier entre eux et de valoriser leur mémoire.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'initiative vise à créer des liens intergénérationnels et à valoriser le rôle des seniors dans la communauté.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Lormont",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Activite_qi_gong.txt",
+  "nom_fichier": "Activite_qi_gong.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/982-concours-2023-activite-qi-gong.pdf",
+  "original_title": "Activité qi gong",
+  "collection_date": ""
 }

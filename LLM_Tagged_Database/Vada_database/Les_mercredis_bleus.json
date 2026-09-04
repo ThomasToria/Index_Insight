@@ -1,32 +1,44 @@
 {
-    "titre": "Les Mercredis Bleus",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Cette initiative vise à favoriser une année bleue par le développement d'un projet intergénérationnel sur des mercredis hors vacances scolaires, avec la participation des associations locales et des services de la ville.",
-        "contexte": "Une attente forte des seniors autour de l'intergénérationnel en concordance avec le souhait des associations de s'investir dans les semaines bleues, ainsi que d'une volonté politique de maintenir la dynamique de la semaine bleue tout au long de l'année.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des mercredis bleus qui favorisent une année bleue par le développement d'un projet intergénérationnel sur des mercredis hors vacances scolaires avec la participation des associations locales et des services de la ville.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mercredis_bleus.txt",
-    "nom_fichier": "Les_mercredis_bleus.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les Mercredis Bleus",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Cette initiative vise à favoriser une année bleue par le développement d'un projet intergénérationnel sur des mercredis hors vacances scolaires, avec la participation des associations locales et des services de la ville.",
+    "contexte": "Une attente forte des seniors autour de l'intergénérationnel en concordance avec le souhait des associations de s'investir dans les semaines bleues, ainsi que d'une volonté politique de maintenir la dynamique de la semaine bleue tout au long de l'année.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des mercredis bleus qui favorisent une année bleue par le développement d'un projet intergénérationnel sur des mercredis hors vacances scolaires avec la participation des associations locales et des services de la ville.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_mercredis_bleus.txt",
+  "nom_fichier": "Les_mercredis_bleus.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1093-pe-les-mercredis-bleus.pdf",
+  "original_title": "Les mercredis bleus",
+  "collection_date": ""
 }

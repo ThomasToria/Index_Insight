@@ -1,36 +1,46 @@
 {
-    "titre": "Les expériences du handicap en France et en Grèce: Relations entre personnes handicapées, aidants familiaux et professionnels",
-    "territoire": [
-        "France",
-        "Grèce"
-    ],
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à explorer les relations entre personnes handicapées, aidants familiaux et professionnels dans le contexte de la France et de la Grèce.",
-        "contexte": "Selon les données d’Eurostat (2015), environ 28% de la population des 18-64 ans en Europe a déclaré une maladie chronique, des difficultés pour réaliser des activités de la vie quotidienne ou les deux ensemble. Les citoyens grecs et français se distinguent dans cette étude.",
-        "problematique": "Les relations entre personnes handicapées, aidants familiaux et professionnels sont-elles structurantes dans le contexte des maladies chroniques?",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les défis auxquels se heurtent les personnes handicapées en France et en Grèce",
-            "Analyser les relations entre les aidants familiaux et professionnels face à ces défis",
-            "Évaluer l’impact des interventions de soutien sur la qualité de vie des personnes handicapées"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\081_2018_les_experiences_du_handicap_en_france_et_en_grecerelations_entre_personnes_handicapees_aidants_familiaux_et_professionne.txt",
-    "nom_fichier": "081_2018_les_experiences_du_handicap_en_france_et_en_grecerelations_entre_personnes_handicapees_aidants_familiaux_et_professionne.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les expériences du handicap en France et en Grèce: Relations entre personnes handicapées, aidants familiaux et professionnels",
+  "territoire": [
+    "france",
+    "grèce"
+  ],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à explorer les relations entre personnes handicapées, aidants familiaux et professionnels dans le contexte de la France et de la Grèce.",
+    "contexte": "Selon les données d’Eurostat (2015), environ 28% de la population des 18-64 ans en Europe a déclaré une maladie chronique, des difficultés pour réaliser des activités de la vie quotidienne ou les deux ensemble. Les citoyens grecs et français se distinguent dans cette étude.",
+    "problematique": "Les relations entre personnes handicapées, aidants familiaux et professionnels sont-elles structurantes dans le contexte des maladies chroniques?",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les défis auxquels se heurtent les personnes handicapées en France et en Grèce",
+      "Analyser les relations entre les aidants familiaux et professionnels face à ces défis",
+      "Évaluer l’impact des interventions de soutien sur la qualité de vie des personnes handicapées"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\081_2018_les_experiences_du_handicap_en_france_et_en_grecerelations_entre_personnes_handicapees_aidants_familiaux_et_professionne.txt",
+  "nom_fichier": "081_2018_les_experiences_du_handicap_en_france_et_en_grecerelations_entre_personnes_handicapees_aidants_familiaux_et_professionne.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/les-experiences-du-handicap-en-france-et-en-grecerelations-entre-personnes-handicapees-aidants-familiaux-et-professionnelsun-reseau-de-jeunes-chercheurs-europeens/",
+  "original_title": "Les expériences du handicap en France et en GrèceRelations entre personnes handicapées, aidants familiaux et professionnelsUn réseau de jeunes chercheurs européens",
+  "collection_date": ""
 }

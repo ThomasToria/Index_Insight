@@ -1,29 +1,39 @@
 {
-    "titre": "Tisica - tissage d'interactions sociales innovantes par la création artistique",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Le projet Tisica est une initiative artistique qui met en place des ateliers créatifs pour les personnes âgées, avec un focus sur la création musicale. Ces ateliers visent à renforcer les interactions sociales et intergénérationnelles.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des activités artistiques créatives auprès des personnes âgées particulièrement exposées au risque de désafférentation sensorielle et d’isolement socioculturel, avec une approche interdisciplinaire à la fois médico-psycho-sociale et environnementale.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Césaré",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.txt",
-    "nom_fichier": "Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Tisica - tissage d'interactions sociales innovantes par la création artistique",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Le projet Tisica est une initiative artistique qui met en place des ateliers créatifs pour les personnes âgées, avec un focus sur la création musicale. Ces ateliers visent à renforcer les interactions sociales et intergénérationnelles.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des activités artistiques créatives auprès des personnes âgées particulièrement exposées au risque de désafférentation sensorielle et d’isolement socioculturel, avec une approche interdisciplinaire à la fois médico-psycho-sociale et environnementale.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Césaré",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.txt",
+  "nom_fichier": "Tisica_-_tissage_dinteractions_sociales_innovantes_par_la_creation_artistique.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/977-concours-2023-tisica-tissage-dʼinteractions-sociales-innovantes-par-la-creation-artistique.pdf",
+  "original_title": "Tisica - tissage d'interactions sociales innovantes par la création artistique",
+  "collection_date": ""
 }

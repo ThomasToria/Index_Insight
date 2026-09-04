@@ -1,29 +1,39 @@
 {
-    "titre": "Médiation animale: approche de l’équithérapie pour les seniors",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Une ferme pédagogique et des temps de soin pour les seniors, proposant des activités autour de la médiation animale.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer des temps de soin à des seniors en difficultés sociales et/ou psychiques par la médiation animale, en l'occurrence le cheval.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediation_animale_approche_de_lequitherapie_pour_les_seniors.txt",
-    "nom_fichier": "Mediation_animale_approche_de_lequitherapie_pour_les_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Médiation animale: approche de l’équithérapie pour les seniors",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Une ferme pédagogique et des temps de soin pour les seniors, proposant des activités autour de la médiation animale.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer des temps de soin à des seniors en difficultés sociales et/ou psychiques par la médiation animale, en l'occurrence le cheval.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mediation_animale_approche_de_lequitherapie_pour_les_seniors.txt",
+  "nom_fichier": "Mediation_animale_approche_de_lequitherapie_pour_les_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/796-pe-mediation-animale.pdf",
+  "original_title": "Médiation animale : approche de l’équithérapie pour les seniors",
+  "collection_date": ""
 }

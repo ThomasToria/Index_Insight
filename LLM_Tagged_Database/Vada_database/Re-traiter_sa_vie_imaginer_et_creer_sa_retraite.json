@@ -1,32 +1,44 @@
 {
-    "titre": "Re-traiter sa vie: imaginer et créer sa retraite",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un stage pour préparer sa retraite, initié par des retraités ayant vécu de la rupture au moment de la retraite.",
-        "contexte": "Le besoin d'identifier un groupe de réflexion composé de retraités et animé par CLIC Entour'âge: le groupe 'Projet de vie'.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un stage 'Re-traiter sa vie' initié par des retraités ayant vécu de la rupture au moment de la retraite.",
-        "objectifs": [
-            "Permettre aux participants de s'adapter aux changements et notamment celui du passage à la retraite en dépassant les expériences douloureuses pour aller vers une sorte de résilience, retrouver l'estime de soi.",
-            "Aider à l'orientation vers des engagements ou des activités tout en tenant compte à la fois de ses ressources personnelles, des valeurs auxquelles l'on tient, et en respectant un certain équilibre pour la satisfaction de la personne."
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis 1998"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.txt",
-    "nom_fichier": "Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Re-traiter sa vie: imaginer et créer sa retraite",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un stage pour préparer sa retraite, initié par des retraités ayant vécu de la rupture au moment de la retraite.",
+    "contexte": "Le besoin d'identifier un groupe de réflexion composé de retraités et animé par CLIC Entour'âge: le groupe 'Projet de vie'.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un stage 'Re-traiter sa vie' initié par des retraités ayant vécu de la rupture au moment de la retraite.",
+    "objectifs": [
+      "Permettre aux participants de s'adapter aux changements et notamment celui du passage à la retraite en dépassant les expériences douloureuses pour aller vers une sorte de résilience, retrouver l'estime de soi.",
+      "Aider à l'orientation vers des engagements ou des activités tout en tenant compte à la fois de ses ressources personnelles, des valeurs auxquelles l'on tient, et en respectant un certain équilibre pour la satisfaction de la personne."
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "1998"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.txt",
+  "nom_fichier": "Re-traiter_sa_vie_imaginer_et_creer_sa_retraite.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/802-concours-2022-43-retraiter-sa-vie.pdf",
+  "original_title": "Re-traiter sa vie : imaginer et créer sa retraite",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Réveil musculaire",
-    "territoire": "Maxéville (54)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Issu d'une demande et d'un besoin des seniors, dans le cadre de la démarche VADA, les séances de réveil musculaire sont accessibles à tous les maxévillois.",
-        "contexte": "",
-        "problematique": "Prévenir les chutes, et garder son corps et sa tête en forme.",
-        "solution_envisagee": "Une activité physique douce, accessible à tous les seniors pour renforcer leur endurance et améliorer leur qualité de vie.",
-        "objectifs": [
-            "Permettre à chaque maxévillois de profiter d'une séance d'activité physique par semaine",
-            "Garder son corps et sa tête en forme"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reveil_musculaire.txt",
-    "nom_fichier": "Reveil_musculaire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Réveil musculaire",
+  "territoire": [
+    "maxéville (54)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Issu d'une demande et d'un besoin des seniors, dans le cadre de la démarche VADA, les séances de réveil musculaire sont accessibles à tous les maxévillois.",
+    "contexte": "",
+    "problematique": "Prévenir les chutes, et garder son corps et sa tête en forme.",
+    "solution_envisagee": "Une activité physique douce, accessible à tous les seniors pour renforcer leur endurance et améliorer leur qualité de vie.",
+    "objectifs": [
+      "Permettre à chaque maxévillois de profiter d'une séance d'activité physique par semaine",
+      "Garder son corps et sa tête en forme"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reveil_musculaire.txt",
+  "nom_fichier": "Reveil_musculaire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Reveil-musculaire.pdf",
+  "original_title": "Réveil musculaire",
+  "collection_date": ""
 }

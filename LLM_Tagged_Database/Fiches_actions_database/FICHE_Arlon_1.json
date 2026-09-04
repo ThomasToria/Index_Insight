@@ -1,29 +1,41 @@
 {
-    "titre": "",
-    "territoire": "Commune d'Arlon",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d'Arlon. L’offre de base pour les petits villages n’est pas satisfaisante. Cette dernière apparaît comme trop dépendante des périodes scolaires. De plus, on observe un manque de courtoisie et de ponctualité de la part de certains chauffeurs. Enfin, les horaires de passage sont peu connus du fait du manque d’affichages aux abris.",
-        "contexte": "",
-        "problematique": "l'offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d'Arlon. L'offre de base pour les petits villages n'est pas satisfaisante. Cette dernière apparaît comme trop dépendante des périodes scolaires. De plus, on observe un manque de courtoisie et de ponctualité de la part de certains chauffeurs. Enfin, les horaires de passage sont peu connus du fait du manque d’affichages aux abris.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "intergénérationnel",
-        "mobilité et transport"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_Arlon_1.txt",
-    "nom_fichier": "FICHE_Arlon_1.txt",
-    "statut_action": "proposition de projet"
+  "titre": "FICHE Arlon 1",
+  "territoire": [
+    "commune d'arlon"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Constat: l’offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d'Arlon. L’offre de base pour les petits villages n’est pas satisfaisante. Cette dernière apparaît comme trop dépendante des périodes scolaires. De plus, on observe un manque de courtoisie et de ponctualité de la part de certains chauffeurs. Enfin, les horaires de passage sont peu connus du fait du manque d’affichages aux abris.",
+    "contexte": "",
+    "problematique": "l'offre des transports ne correspond pas à la demande et aux besoins des habitantes et habitants de la commune d'Arlon. L'offre de base pour les petits villages n'est pas satisfaisante. Cette dernière apparaît comme trop dépendante des périodes scolaires. De plus, on observe un manque de courtoisie et de ponctualité de la part de certains chauffeurs. Enfin, les horaires de passage sont peu connus du fait du manque d’affichages aux abris.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "intergénérationnel",
+    "mobilité et transport"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_Arlon_1.txt",
+  "nom_fichier": "FICHE_Arlon_1.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "intergénérationnel",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE Arlon 1.docx",
+  "collection_date": ""
 }

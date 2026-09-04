@@ -1,23 +1,31 @@
 {
-    "titre": "",
-    "territoire": "",
-    "echelle": [],
-    "public_vise": "public non connu",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale."
-    },
-    "porteur_initiative": "",
-    "date": [],
-    "thematique": [
-        "handicap et aidants"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.txt",
-    "nom_fichier": "FICHE_ACTION_soutien_des_proches_aidants.txt",
-    "statut_action": "proposition de projet"
+  "titre": "FICHE ACTION_soutien des proches aidants",
+  "territoire": [],
+  "echelle": [],
+  "public_vise": "public non connu",
+  "nature_initiative": "autre / à revoir",
+  "description": {
+    "description_generale": "",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale."
+  },
+  "porteur_initiative": "",
+  "date": [],
+  "thematique": [
+    "handicap et aidants"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_soutien_des_proches_aidants.txt",
+  "nom_fichier": "FICHE_ACTION_soutien_des_proches_aidants.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "autre / à revoir",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE ACTION_soutien des proches aidants.pdf",
+  "collection_date": ""
 }

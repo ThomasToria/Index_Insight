@@ -1,33 +1,42 @@
 {
-    "titre": "Dossier d'Action pour la Prévention des Épidémies",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La mise en place d'un système de dossiers d'action pour la prévention des épidémies.",
-        "contexte": "Les responsables d'établissements et les professionnels sont confrontés à des situations complexes où ils doivent prendre des décisions rapidement sans avoir accès à une information précise.",
-        "problematique": "Le besoin de standardiser les procédures en cas d’épidémie pour éviter la confusion et les décisions arbitraires.",
-        "solution_envisagee": "Créer un système de dossiers d'action décrivant clairement les mesures à prendre en cas de phénomènes pandémiques, accompagnés de bonnes pratiques, conseils de responsabilisation et une information accessible et vulnérable.",
-        "objectifs": [
-            "Permettre des réactions plus appropriées à un contexte d’épidémie",
-            "Éviter les périodes de confusion",
-            "Éviter les décisions à la discrétion les responsables d'établissements"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "services et accompagnement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_3_new.txt",
-    "nom_fichier": "Fiche-action_3_new.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Dossier d'Action pour la Prévention des Épidémies",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "rapport ou publication",
+  "description": {
+    "description_generale": "La mise en place d'un système de dossiers d'action pour la prévention des épidémies.",
+    "contexte": "Les responsables d'établissements et les professionnels sont confrontés à des situations complexes où ils doivent prendre des décisions rapidement sans avoir accès à une information précise.",
+    "problematique": "Le besoin de standardiser les procédures en cas d’épidémie pour éviter la confusion et les décisions arbitraires.",
+    "solution_envisagee": "Créer un système de dossiers d'action décrivant clairement les mesures à prendre en cas de phénomènes pandémiques, accompagnés de bonnes pratiques, conseils de responsabilisation et une information accessible et vulnérable.",
+    "objectifs": [
+      "Permettre des réactions plus appropriées à un contexte d’épidémie",
+      "Éviter les périodes de confusion",
+      "Éviter les décisions à la discrétion les responsables d'établissements"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "services et accompagnement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_3_new.txt",
+  "nom_fichier": "Fiche-action_3_new.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 3 new.pdf",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Ciné senior",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Stimuler son esprit critique concernant les films d'indifférenciés.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer aux seniors une animation culturelle autour d'un film récent au cinéma, suivi d'un goûter préparé par les agents du CCAS et la cuisine centrale.",
-        "objectifs": [
-            "Permettre une activité culturelle partagée autour de l'actualité cinématographique",
-            "Favoriser la rencontre et le lien social"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_senior.txt",
-    "nom_fichier": "Cine_senior.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ciné senior",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Stimuler son esprit critique concernant les films d'indifférenciés.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer aux seniors une animation culturelle autour d'un film récent au cinéma, suivi d'un goûter préparé par les agents du CCAS et la cuisine centrale.",
+    "objectifs": [
+      "Permettre une activité culturelle partagée autour de l'actualité cinématographique",
+      "Favoriser la rencontre et le lien social"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cine_senior.txt",
+  "nom_fichier": "Cine_senior.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Cine-senior.pdf",
+  "original_title": "Ciné senior",
+  "collection_date": ""
 }

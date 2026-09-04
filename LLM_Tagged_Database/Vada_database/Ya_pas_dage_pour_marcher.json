@@ -1,34 +1,46 @@
 {
-    "titre": "Y’a pas d’âge pour marcher",
-    "territoire": "Commune: Besançon, Métropole de Besançon",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Une marche intergénérationnelle organisée par les associations de marches et de randonnées.",
-        "contexte": "La ville organise une marche annuelle depuis 2010, visant à favoriser la solidarité et l’accessibilité pour tous âges et types de marcheurs.",
-        "problematique": "Favoriser les liens entre différentes générations et personnes âgées dans leur communauté.",
-        "solution_envisagee": "Une marche intergénérationnelle organisée par des associations, visant à valoriser la mémoire et les contributions de tous les participants.",
-        "objectifs": [
-            "valoriser l’expérience des résidents",
-            "promouvoir le lien social entre générations",
-            "encourager les seniors à se déplacer en ville"
-        ]
-    },
-    "porteur_initiative": "Association de marches et de randonnées",
-    "date": [
-        "depuis 2010"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ya_pas_dage_pour_marcher.txt",
-    "nom_fichier": "Ya_pas_dage_pour_marcher.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Y’a pas d’âge pour marcher",
+  "territoire": [
+    "besançon, métropole de besançon"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Une marche intergénérationnelle organisée par les associations de marches et de randonnées.",
+    "contexte": "La ville organise une marche annuelle depuis 2010, visant à favoriser la solidarité et l’accessibilité pour tous âges et types de marcheurs.",
+    "problematique": "Favoriser les liens entre différentes générations et personnes âgées dans leur communauté.",
+    "solution_envisagee": "Une marche intergénérationnelle organisée par des associations, visant à valoriser la mémoire et les contributions de tous les participants.",
+    "objectifs": [
+      "valoriser l’expérience des résidents",
+      "promouvoir le lien social entre générations",
+      "encourager les seniors à se déplacer en ville"
+    ]
+  },
+  "porteur_initiative": "Association de marches et de randonnées",
+  "date": [
+    "2010"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ya_pas_dage_pour_marcher.txt",
+  "nom_fichier": "Ya_pas_dage_pour_marcher.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/273-pe-y-a-pas-d-age-pour-marcher-mise-a-jour-2023.pdf",
+  "original_title": "« Y’a pas d’âge pour marcher »",
+  "collection_date": ""
 }

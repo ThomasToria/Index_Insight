@@ -1,32 +1,44 @@
 {
-    "titre": "Dyna Marche",
-    "territoire": "Maxéville (54)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la mobilité des seniors en les aidant à maintenir leur autonomie quotidienne grâce à l'activité physique, principalement la marche active.",
-        "contexte": "La perte d'autonomie est un problème important pour les personnes âgées qui souhaitent rester chez eux. Les seniors sont exposés aux risques de chutes et de blessures lorsqu'ils pratiquent des activités physiques.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'initiative vise à prévenir les chutes en proposant des activités physiques adaptées en extérieur, principalement de la marche active et du renforcement musculaire. Elle met l'accent sur l'autonomie des participants afin de développer la pratique en auto-nomie.",
-        "objectifs": [
-            "Prévenir les chutes",
-            "Améliorer la mobilité des seniors"
-        ]
-    },
-    "porteur_initiative": "La ville de Maxéville",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dyna_Marche.txt",
-    "nom_fichier": "Dyna_Marche.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Dyna Marche",
+  "territoire": [
+    "maxéville (54)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la mobilité des seniors en les aidant à maintenir leur autonomie quotidienne grâce à l'activité physique, principalement la marche active.",
+    "contexte": "La perte d'autonomie est un problème important pour les personnes âgées qui souhaitent rester chez eux. Les seniors sont exposés aux risques de chutes et de blessures lorsqu'ils pratiquent des activités physiques.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'initiative vise à prévenir les chutes en proposant des activités physiques adaptées en extérieur, principalement de la marche active et du renforcement musculaire. Elle met l'accent sur l'autonomie des participants afin de développer la pratique en auto-nomie.",
+    "objectifs": [
+      "Prévenir les chutes",
+      "Améliorer la mobilité des seniors"
+    ]
+  },
+  "porteur_initiative": "La ville de Maxéville",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dyna_Marche.txt",
+  "nom_fichier": "Dyna_Marche.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Dyna-Marche.pdf",
+  "original_title": "Dyna Marche",
+  "collection_date": ""
 }

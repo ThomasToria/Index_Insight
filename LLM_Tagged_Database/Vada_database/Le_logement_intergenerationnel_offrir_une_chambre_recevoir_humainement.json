@@ -1,34 +1,46 @@
 {
-    "titre": "Le logement intergénérationnel: offrir une chambre, recevoir humainement",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Cette initiative vise à mettre en relation des jeunes âgés de 18 ans ou plus avec des seniors disposant d'une chambre libre, pour créer un lien social et intergénérationnel.",
-        "contexte": "Le besoin croissant de logements solides et économiques pour les seniors a conduit à l'élaboration de solutions innovantes comme le logement intergénérationnel. Cette initiative vise à répondre à ce besoin en proposant une solution unique : la chambre d'un senior qui accueille un jeune.",
-        "problematique": "Le besoin de créer des liens sociaux et intergénérationnels entre jeunes âgés et seniors, tout en offrant une solution logistique économique et solidaire.",
-        "solution_envisagee": "La chambre d'un senior qui accueille un jeune dans le cadre d'une cohabitation conviviale sans subordination. Les jeunes bénéficient de services et/ou d'un complément de revenus, tandis que les seniors peuvent bénéficier de l'assistance des jeunes.",
-        "objectifs": [
-            "Créer ou tisser du lien social et intergénérationnel",
-            "Rompre la solitude et l’isolement des seniors",
-            "Contribuer à leur maintien à domicile",
-            "Bénéficier de services et/ou d’un complément de revenus"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_logement_intergenerationnel_offrir_une_chambre_recevoir_humainement.txt",
-    "nom_fichier": "Le_logement_intergenerationnel_offrir_une_chambre_recevoir_humainement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le logement intergénérationnel: offrir une chambre, recevoir humainement",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Cette initiative vise à mettre en relation des jeunes âgés de 18 ans ou plus avec des seniors disposant d'une chambre libre, pour créer un lien social et intergénérationnel.",
+    "contexte": "Le besoin croissant de logements solides et économiques pour les seniors a conduit à l'élaboration de solutions innovantes comme le logement intergénérationnel. Cette initiative vise à répondre à ce besoin en proposant une solution unique : la chambre d'un senior qui accueille un jeune.",
+    "problematique": "Le besoin de créer des liens sociaux et intergénérationnels entre jeunes âgés et seniors, tout en offrant une solution logistique économique et solidaire.",
+    "solution_envisagee": "La chambre d'un senior qui accueille un jeune dans le cadre d'une cohabitation conviviale sans subordination. Les jeunes bénéficient de services et/ou d'un complément de revenus, tandis que les seniors peuvent bénéficier de l'assistance des jeunes.",
+    "objectifs": [
+      "Créer ou tisser du lien social et intergénérationnel",
+      "Rompre la solitude et l’isolement des seniors",
+      "Contribuer à leur maintien à domicile",
+      "Bénéficier de services et/ou d’un complément de revenus"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_logement_intergenerationnel_offrir_une_chambre_recevoir_humainement.txt",
+  "nom_fichier": "Le_logement_intergenerationnel_offrir_une_chambre_recevoir_humainement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/164-164-logement-intergenerationnel-binome-21.pdf",
+  "original_title": "Le logement intergénérationnel : offrir une chambre, recevoir humainement",
+  "collection_date": ""
 }

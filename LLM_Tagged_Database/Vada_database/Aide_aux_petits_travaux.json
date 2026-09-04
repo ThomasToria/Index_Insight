@@ -1,32 +1,44 @@
 {
-    "titre": "Aide aux petits travaux",
-    "territoire": "Commune de Morteau, 25",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un service très cadré d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap.",
-        "contexte": "Les personnes âgées n'ayant pas ou peu d'entourage sont parfois désemparées face à un petit travail à faire à leur domicile. Face à ces situations régulières et les appels au CCAS, ce service a été mis en place pour répondre aux besoins des aînés.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un service d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap. Ce service intervient chez les personnes isolées pour réaliser des petits services ou travaux nécessitant une intervention de moins de 30 minutes.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS (Commune d'Amis des Aînés)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aide_aux_petits_travaux.txt",
-    "nom_fichier": "Aide_aux_petits_travaux.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Aide aux petits travaux",
+  "territoire": [
+    "morteau, 25"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un service très cadré d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap.",
+    "contexte": "Les personnes âgées n'ayant pas ou peu d'entourage sont parfois désemparées face à un petit travail à faire à leur domicile. Face à ces situations régulières et les appels au CCAS, ce service a été mis en place pour répondre aux besoins des aînés.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un service d'aide aux petits travaux a été mis en place pour les personnes âgées de plus de 70 ans ou en situation de handicap. Ce service intervient chez les personnes isolées pour réaliser des petits services ou travaux nécessitant une intervention de moins de 30 minutes.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS (Commune d'Amis des Aînés)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aide_aux_petits_travaux.txt",
+  "nom_fichier": "Aide_aux_petits_travaux.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/936-pe-aide-aux-petits-travaux-1.pdf",
+  "original_title": "Aide aux petits travaux",
+  "collection_date": ""
 }

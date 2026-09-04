@@ -1,32 +1,42 @@
 {
-    "titre": "Satisfaction des besoins d'aide des personnes âgées vivant en domicile ordinaire et en institution: évaluations à partir des enquêtes CARe-Seniors",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à évaluer les besoins d'aide des personnes âgées vivant en domicile ordinaire et en institution.",
-        "contexte": "D'après les premières estimations issues de l'enquête CARe-Ménages de 2015, 4 à 10 % (0,4 à 1,5 million) des personnes âgées de 60 ans ou plus vivant en domicile ordinaire ont besoin d'aide pour la réalisation des activités de la vie courante, dont 220 000 à 260 000 seraient en perte sévère d'autonomie. En institution, 86 % des personnes de 75 ans ou plus sont dans une situation de dépendance.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'Établissement pour Personnes âgées (EHPAD) et leurs proches",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\117_2018_satisfaction_des_besoins_d_aide_des_personnes_agees_vivant_en_domicile_ordinaire_et_en_institution_evaluations_a_partir_.txt",
-    "nom_fichier": "117_2018_satisfaction_des_besoins_d_aide_des_personnes_agees_vivant_en_domicile_ordinaire_et_en_institution_evaluations_a_partir_.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Satisfaction des besoins d'aide des personnes âgées vivant en domicile ordinaire et en institution: évaluations à partir des enquêtes CARe-Seniors",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à évaluer les besoins d'aide des personnes âgées vivant en domicile ordinaire et en institution.",
+    "contexte": "D'après les premières estimations issues de l'enquête CARe-Ménages de 2015, 4 à 10 % (0,4 à 1,5 million) des personnes âgées de 60 ans ou plus vivant en domicile ordinaire ont besoin d'aide pour la réalisation des activités de la vie courante, dont 220 000 à 260 000 seraient en perte sévère d'autonomie. En institution, 86 % des personnes de 75 ans ou plus sont dans une situation de dépendance.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'Établissement pour Personnes âgées (EHPAD) et leurs proches",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\117_2018_satisfaction_des_besoins_d_aide_des_personnes_agees_vivant_en_domicile_ordinaire_et_en_institution_evaluations_a_partir_.txt",
+  "nom_fichier": "117_2018_satisfaction_des_besoins_d_aide_des_personnes_agees_vivant_en_domicile_ordinaire_et_en_institution_evaluations_a_partir_.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/satisfaction-des-besoins-daide-des-personnes-agees-vivant-en-domicile-ordinaire-et-en-institution-evaluations-a-partir-des-enquetes-care-seniors/",
+  "original_title": "Satisfaction des besoins d’aide des personnes âgées vivant en domicile ordinaire et en institution : évaluations à partir des enquêtes CARe-Seniors",
+  "collection_date": ""
 }

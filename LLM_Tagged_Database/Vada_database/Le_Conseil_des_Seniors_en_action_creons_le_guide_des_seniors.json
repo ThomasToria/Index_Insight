@@ -1,32 +1,44 @@
 {
-    "titre": "Le Conseil des Seniors en action: créons le guide des séniors",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un guide centralisé pour les seniors, renforçant l'autonomie et favorisant l'entraide.",
-        "contexte": "Absence d'un guide centralisé pour les ressources, services et aides des seniors de plus de 60 ans dans la commune.",
-        "problematique": "L’absence d’un guide centralisé pour faciliter l’accès aux ressources, services et aides financières pour les personnes de plus de 60 ans.",
-        "solution_envisagee": "Un guide centralisé simplifiant la vie quotidienne, renforçant l’autonomie et favorisant l’entraide au sein de la communauté.",
-        "objectifs": [
-            "Informer clairement sur les droits, services, aides financières et contacts essentiels",
-            "Renforcer l'autonomie des seniors et faciliter leur participation à diverses activités"
-        ]
-    },
-    "porteur_initiative": "Le Conseil des Seniors de la ville de Condé-sur-l'Escaut",
-    "date": [
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Seniors_en_action_creons_le_guide_des_seniors.txt",
-    "nom_fichier": "Le_Conseil_des_Seniors_en_action_creons_le_guide_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le Conseil des Seniors en action: créons le guide des séniors",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un guide centralisé pour les seniors, renforçant l'autonomie et favorisant l'entraide.",
+    "contexte": "Absence d'un guide centralisé pour les ressources, services et aides des seniors de plus de 60 ans dans la commune.",
+    "problematique": "L’absence d’un guide centralisé pour faciliter l’accès aux ressources, services et aides financières pour les personnes de plus de 60 ans.",
+    "solution_envisagee": "Un guide centralisé simplifiant la vie quotidienne, renforçant l’autonomie et favorisant l’entraide au sein de la communauté.",
+    "objectifs": [
+      "Informer clairement sur les droits, services, aides financières et contacts essentiels",
+      "Renforcer l'autonomie des seniors et faciliter leur participation à diverses activités"
+    ]
+  },
+  "porteur_initiative": "Le Conseil des Seniors de la ville de Condé-sur-l'Escaut",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Seniors_en_action_creons_le_guide_des_seniors.txt",
+  "nom_fichier": "Le_Conseil_des_Seniors_en_action_creons_le_guide_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Le-Conseil-des-Seniors-en-action-creons-le-guide-des-seniors-1.pdf",
+  "original_title": "Le Conseil des Seniors en action : créons le guide des séniors",
+  "collection_date": ""
 }

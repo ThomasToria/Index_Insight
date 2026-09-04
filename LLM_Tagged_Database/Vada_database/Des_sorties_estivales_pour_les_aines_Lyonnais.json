@@ -1,32 +1,44 @@
 {
-    "titre": "Des sorties estivales pour les aînés Lyonnais",
-    "territoire": "Commune de Lyon, Rhône-Alpes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Organisation d'activités à la journée pour les aînés lyonnais, incluant des sorties culturelles et gastronomiques.",
-        "contexte": "Le CCAS de Lyon organise régulièrement des sorties à la journée pour les retraités lyonnais, en complément d'autres actions comme les séjours d'une semaine à l'extérieur. Ces sorties sont organisées avec les mairies des arrondissements et bénéficient d'un budget alloué.",
-        "problematique": "Le besoin de maintenir le lien social entre les personnes âgées, leur famille et la société civile, tout en valorisant leur mémoire et leur contribution à la vie locale.",
-        "solution_envisagee": "Organiser des sorties culturelles et gastronomiques pour les aînés lyonnais, avec un focus sur le thème de la ville (Lyon) et l'isolement social.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Lyon",
-    "date": [
-        "2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "services et accompagnement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sorties_estivales_pour_les_aines_Lyonnais.txt",
-    "nom_fichier": "Des_sorties_estivales_pour_les_aines_Lyonnais.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des sorties estivales pour les aînés Lyonnais",
+  "territoire": [
+    "lyon, rhône-alpes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Organisation d'activités à la journée pour les aînés lyonnais, incluant des sorties culturelles et gastronomiques.",
+    "contexte": "Le CCAS de Lyon organise régulièrement des sorties à la journée pour les retraités lyonnais, en complément d'autres actions comme les séjours d'une semaine à l'extérieur. Ces sorties sont organisées avec les mairies des arrondissements et bénéficient d'un budget alloué.",
+    "problematique": "Le besoin de maintenir le lien social entre les personnes âgées, leur famille et la société civile, tout en valorisant leur mémoire et leur contribution à la vie locale.",
+    "solution_envisagee": "Organiser des sorties culturelles et gastronomiques pour les aînés lyonnais, avec un focus sur le thème de la ville (Lyon) et l'isolement social.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Lyon",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sorties_estivales_pour_les_aines_Lyonnais.txt",
+  "nom_fichier": "Des_sorties_estivales_pour_les_aines_Lyonnais.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/111-pe-sorties-estivales-lyon.pdf",
+  "original_title": "Des sorties estivales pour les aînés Lyonnais",
+  "collection_date": ""
 }

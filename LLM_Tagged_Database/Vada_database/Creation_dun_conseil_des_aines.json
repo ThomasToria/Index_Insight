@@ -1,33 +1,45 @@
 {
-    "titre": "Création d'un conseil des aînés",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La création d’un Conseil des Aînés à Soucieu-en-Jarrest répond à une volonté collective de la commune et de ses habitants de construire un village adapté à sa population, en répondant positivement à l'enjeu et au défi du vieillissement dans le cadre d'une dynamique Ville Amie des Aînés.",
-        "contexte": "Le projet a été valorisé par tous les moyens de communication à disposition de la collectivité. Au-delà des supports municipaux (magazine, site internet, panneaux lumineux), le Conseil des Aînés a tissé des liens avec la presse locale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser le fonctionnement et les réunions du Conseil des aînés. Etablir un programme.",
-        "objectifs": [
-            "Recenser les besoins des seniors",
-            "Permettre aux personnes âgées de participer à la vie, à l’organisation de la commune ainsi qu’aux prises de décisions collectives",
-            "Les inciter à s'exprimer et être écoutées"
-        ]
-    },
-    "porteur_initiative": "Soucieu-en-Jarrest (69)",
-    "date": [
-        "depuis 2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_conseil_des_aines.txt",
-    "nom_fichier": "Creation_dun_conseil_des_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Création d'un conseil des aînés",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La création d’un Conseil des Aînés à Soucieu-en-Jarrest répond à une volonté collective de la commune et de ses habitants de construire un village adapté à sa population, en répondant positivement à l'enjeu et au défi du vieillissement dans le cadre d'une dynamique Ville Amie des Aînés.",
+    "contexte": "Le projet a été valorisé par tous les moyens de communication à disposition de la collectivité. Au-delà des supports municipaux (magazine, site internet, panneaux lumineux), le Conseil des Aînés a tissé des liens avec la presse locale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser le fonctionnement et les réunions du Conseil des aînés. Etablir un programme.",
+    "objectifs": [
+      "Recenser les besoins des seniors",
+      "Permettre aux personnes âgées de participer à la vie, à l’organisation de la commune ainsi qu’aux prises de décisions collectives",
+      "Les inciter à s'exprimer et être écoutées"
+    ]
+  },
+  "porteur_initiative": "Soucieu-en-Jarrest (69)",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Creation_dun_conseil_des_aines.txt",
+  "nom_fichier": "Creation_dun_conseil_des_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/403-403-conseil-des-aines.pdf",
+  "original_title": "Création d’un conseil des aînés",
+  "collection_date": ""
 }

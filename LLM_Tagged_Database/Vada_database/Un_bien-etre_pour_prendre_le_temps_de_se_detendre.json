@@ -1,32 +1,42 @@
 {
-    "titre": "Un bien-être pour prendre le temps de se détendre",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Valenciennes, adhérente de 'Villes Amies des Ainés' a organisé des ateliers seniors participatifs afin de recueillir la parole des aînés. Ceux-ci ont exprimé leur souhait de découvrir des techniques de relaxation et de bien-être pour se sentir mieux au quotidien.",
-        "contexte": "Les seniors, avec une particularité autour de l'estime de soi et de l'importance de prendre du temps pour soi; une volonté de se retrouver dans un espace dédié pour se sentir bien, une bulle de douceur. La recherche d'un prestataire professionnel a été faite.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une action en lien avec le bien-être et l’estime de soi. Le projet consiste à une découverte de la relaxation. De la méditation a été proposée par différentes techniques: respiration, réflexologie plantaire et palmaire en automassage, mais aussi par des temps d'esthétique et de revalorisation de soi-même (beauté des mains, soins du visage, conseils de mise en beauté).",
-        "objectifs": [
-            "Améliorer la qualité de vie au quotidien",
-            "Permettre des rencontres intergénérationnelles"
-        ]
-    },
-    "porteur_initiative": "CCAS de Valencienne",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_bien-etre_pour_prendre_le_temps_de_se_detendre.txt",
-    "nom_fichier": "Un_bien-etre_pour_prendre_le_temps_de_se_detendre.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un bien-être pour prendre le temps de se détendre",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Valenciennes, adhérente de 'Villes Amies des Ainés' a organisé des ateliers seniors participatifs afin de recueillir la parole des aînés. Ceux-ci ont exprimé leur souhait de découvrir des techniques de relaxation et de bien-être pour se sentir mieux au quotidien.",
+    "contexte": "Les seniors, avec une particularité autour de l'estime de soi et de l'importance de prendre du temps pour soi; une volonté de se retrouver dans un espace dédié pour se sentir bien, une bulle de douceur. La recherche d'un prestataire professionnel a été faite.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une action en lien avec le bien-être et l’estime de soi. Le projet consiste à une découverte de la relaxation. De la méditation a été proposée par différentes techniques: respiration, réflexologie plantaire et palmaire en automassage, mais aussi par des temps d'esthétique et de revalorisation de soi-même (beauté des mains, soins du visage, conseils de mise en beauté).",
+    "objectifs": [
+      "Améliorer la qualité de vie au quotidien",
+      "Permettre des rencontres intergénérationnelles"
+    ]
+  },
+  "porteur_initiative": "CCAS de Valencienne",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_bien-etre_pour_prendre_le_temps_de_se_detendre.txt",
+  "nom_fichier": "Un_bien-etre_pour_prendre_le_temps_de_se_detendre.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1028-concours-2023-un-bien-etre-pour-prendre-le-temps-de-se-detendre.pdf",
+  "original_title": "Un bien-être pour prendre le temps de se détendre",
+  "collection_date": ""
 }

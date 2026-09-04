@@ -1,32 +1,42 @@
 {
-    "titre": "Les Intergénéreux: apporter le sourire avec des visites",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Unis-Cité est une association de volontaires du Service Civique âgés de 16 à 25 ans qui organise des visites gratuites aux personnes âgées isolées.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une initiative autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 1994"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_Intergenereux_apporter_le_sourire_avec_des_visites.txt",
-    "nom_fichier": "Les_Intergenereux_apporter_le_sourire_avec_des_visites.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les Intergénéreux: apporter le sourire avec des visites",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Unis-Cité est une association de volontaires du Service Civique âgés de 16 à 25 ans qui organise des visites gratuites aux personnes âgées isolées.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une initiative autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "1994"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_Intergenereux_apporter_le_sourire_avec_des_visites.txt",
+  "nom_fichier": "Les_Intergenereux_apporter_le_sourire_avec_des_visites.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/155-155-uniscite-dijon.pdf",
+  "original_title": "Les Intergénéreux : apporter le sourire avec des visites",
+  "collection_date": ""
 }

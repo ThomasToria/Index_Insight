@@ -1,35 +1,47 @@
 {
-    "titre": "Maison des seniors",
-    "territoire": "Commune: La Possession, Ville Amie des Aînés depuis 2024",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La Maison des seniors est un projet participatif initié par la Ville de La Possession en collaboration avec les ainés, les institutions, les associations, les services municipaux et les élus pour favoriser le lien social et l'autonomie des aînés.",
-        "contexte": "Le vieillissement démographique est un défi majeur pour la ville de La Possession. Les initiatives locales visent à répondre à ce besoin en créant une Maison des seniors qui facilite les interactions entre les résidents, leurs proches et la société civile.",
-        "problematique": "Renforcer le lien social et l'autonomie des aînés dans un contexte de vieillissement démographique.",
-        "solution_envisagee": "Maison des seniors",
-        "objectifs": [
-            "Favoriser le lien social et le développement de l'autonomie des aînés à travers divers actions mis en place par une équipe dédiée",
-            "Être un lieu ressources pour les acteurs et habitants",
-            "Orienter et soutenir la construction de projets et d'initiatives personnelles ou collectives",
-            "Être au plus près des aînés à travers une stratégie de proximité favorisant le lien intergénérationnel"
-        ]
-    },
-    "porteur_initiative": "La Possession (974)",
-    "date": [
-        "2019",
-        "juillet 2024"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_des_seniors.txt",
-    "nom_fichier": "Maison_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Maison des seniors",
+  "territoire": [
+    "la possession, ville amie des aînés depuis 2024"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La Maison des seniors est un projet participatif initié par la Ville de La Possession en collaboration avec les ainés, les institutions, les associations, les services municipaux et les élus pour favoriser le lien social et l'autonomie des aînés.",
+    "contexte": "Le vieillissement démographique est un défi majeur pour la ville de La Possession. Les initiatives locales visent à répondre à ce besoin en créant une Maison des seniors qui facilite les interactions entre les résidents, leurs proches et la société civile.",
+    "problematique": "Renforcer le lien social et l'autonomie des aînés dans un contexte de vieillissement démographique.",
+    "solution_envisagee": "Maison des seniors",
+    "objectifs": [
+      "Favoriser le lien social et le développement de l'autonomie des aînés à travers divers actions mis en place par une équipe dédiée",
+      "Être un lieu ressources pour les acteurs et habitants",
+      "Orienter et soutenir la construction de projets et d'initiatives personnelles ou collectives",
+      "Être au plus près des aînés à travers une stratégie de proximité favorisant le lien intergénérationnel"
+    ]
+  },
+  "porteur_initiative": "La Possession (974)",
+  "date": [
+    "2019",
+    "2024"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_des_seniors.txt",
+  "nom_fichier": "Maison_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/PE-Maison-des-seniors.pdf",
+  "original_title": "Maison des seniors",
+  "collection_date": ""
 }

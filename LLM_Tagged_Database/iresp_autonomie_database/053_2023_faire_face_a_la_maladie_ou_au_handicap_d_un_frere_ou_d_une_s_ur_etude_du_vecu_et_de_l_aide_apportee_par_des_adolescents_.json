@@ -1,33 +1,43 @@
 {
-    "titre": "Faire face à la maladie ou au handicap d’un frère ou d’une sœur: Etude du vécu et de l’aide apportée par des adolescents et des jeunes adultes",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette étude vise à comprendre le parcours de vie d'un adolescent ou d'un jeune adulte confronté à la maladie ou au handicap d'un frère ou d'une sœur, et l'aide apportée par des adolescents et des jeunes adultes.",
-        "contexte": "",
-        "problematique": "Le besoin de mieux comprendre les expériences vécues par les personnes confrontées à la maladie ou au handicap de leurs proches pour améliorer le soutien psychologique et social.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Comprendre les expériences vécues par les adolescents et jeunes adultes confrontés à la maladie ou au handicap d'un frère ou d'une sœur",
-            "Identifier les besoins en soutien psychologique et social des personnes concernées",
-            "Évaluer l'aide apportée par les adolescents et des jeunes adultes pour améliorer le soutien psychologique et social."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\053_2023_faire_face_a_la_maladie_ou_au_handicap_d_un_frere_ou_d_une_s_ur_etude_du_vecu_et_de_l_aide_apportee_par_des_adolescents_.txt",
-    "nom_fichier": "053_2023_faire_face_a_la_maladie_ou_au_handicap_d_un_frere_ou_d_une_s_ur_etude_du_vecu_et_de_l_aide_apportee_par_des_adolescents_.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Faire face à la maladie ou au handicap d’un frère ou d’une sœur: Etude du vécu et de l’aide apportée par des adolescents et des jeunes adultes",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette étude vise à comprendre le parcours de vie d'un adolescent ou d'un jeune adulte confronté à la maladie ou au handicap d'un frère ou d'une sœur, et l'aide apportée par des adolescents et des jeunes adultes.",
+    "contexte": "",
+    "problematique": "Le besoin de mieux comprendre les expériences vécues par les personnes confrontées à la maladie ou au handicap de leurs proches pour améliorer le soutien psychologique et social.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Comprendre les expériences vécues par les adolescents et jeunes adultes confrontés à la maladie ou au handicap d'un frère ou d'une sœur",
+      "Identifier les besoins en soutien psychologique et social des personnes concernées",
+      "Évaluer l'aide apportée par les adolescents et des jeunes adultes pour améliorer le soutien psychologique et social."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\053_2023_faire_face_a_la_maladie_ou_au_handicap_d_un_frere_ou_d_une_s_ur_etude_du_vecu_et_de_l_aide_apportee_par_des_adolescents_.txt",
+  "nom_fichier": "053_2023_faire_face_a_la_maladie_ou_au_handicap_d_un_frere_ou_d_une_s_ur_etude_du_vecu_et_de_l_aide_apportee_par_des_adolescents_.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/faire-face-a-la-maladie-ou-au-handicap-dun-frere-ou-dune-soeur-etude-du-vecu-et-de-laide-apportee-par-des-adolescents-et-des-jeunes-adultes/",
+  "original_title": "Faire face à la maladie ou au handicap d’un frère ou d’une sœur : Etude du vécu et de l’aide apportée par des adolescents et des jeunes adultes",
+  "collection_date": ""
 }

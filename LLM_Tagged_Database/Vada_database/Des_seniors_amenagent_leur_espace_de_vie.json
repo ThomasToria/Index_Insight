@@ -1,34 +1,45 @@
 {
-    "titre": "Des seniors aménagent leur espace de vie",
-    "territoire": "Commune : Caen",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Des seniors aménagent leur espace de vie communautaire à la résidence autonomie 'La Résidence de l'Ille'.",
-        "contexte": "Les résidents ont exprimé des besoins pour les espaces extérieurs, notamment pour créer une convivialité.",
-        "problematique": "Nécessité d'aménager les espaces extérieurs communautaires à la résidence autonomie 'La Résidence de l'Ille'.",
-        "solution_envisagee": "Construire et aménager des mobiliers adaptés pour créer des espaces de convivialité.",
-        "objectifs": [
-            "Améliorer le cadre de vie des résidents",
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser l'image des résidences seniors dans la vie de quartier"
-        ]
-    },
-    "porteur_initiative": "Association d'éducation populaire 'Art Itinérant'",
-    "date": [
-        "2023",
-        "janvier 2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_amenagent_leur_espace_de_vie.txt",
-    "nom_fichier": "Des_seniors_amenagent_leur_espace_de_vie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des seniors aménagent leur espace de vie",
+  "territoire": [
+    "caen"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Des seniors aménagent leur espace de vie communautaire à la résidence autonomie 'La Résidence de l'Ille'.",
+    "contexte": "Les résidents ont exprimé des besoins pour les espaces extérieurs, notamment pour créer une convivialité.",
+    "problematique": "Nécessité d'aménager les espaces extérieurs communautaires à la résidence autonomie 'La Résidence de l'Ille'.",
+    "solution_envisagee": "Construire et aménager des mobiliers adaptés pour créer des espaces de convivialité.",
+    "objectifs": [
+      "Améliorer le cadre de vie des résidents",
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser l'image des résidences seniors dans la vie de quartier"
+    ]
+  },
+  "porteur_initiative": "Association d'éducation populaire 'Art Itinérant'",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_seniors_amenagent_leur_espace_de_vie.txt",
+  "nom_fichier": "Des_seniors_amenagent_leur_espace_de_vie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1037-pe-des-seniors-amenagent-leur-espace-de-vie.pdf",
+  "original_title": "Des seniors aménagent leur espace de vie",
+  "collection_date": ""
 }

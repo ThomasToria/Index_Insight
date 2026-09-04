@@ -1,32 +1,44 @@
 {
-    "titre": "Amélioration et accessibilité des lieux publics au profit des seniors",
-    "territoire": "Saint-Germain-au-Mont-d’Or (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La commune de Saint-Germain-au-Mont-d’Or a initié une démarche Ville Amie des Aînés en commençant par créer un Conseil des seniors. Un diagnostic original a été réalisé en marchant pour identifier les contraintes sur les principaux cheminements piétons et proposer de nouvelles installations.",
-        "contexte": "Les lieux publics du territoire communal présentent des problèmes d’accessibilité, notamment avec des trottoirs étroits ou dégradés, bancs insuffisants, traversées de chaussée inadaptées, etc. Un diagnostic en marchant a permis d’identifier un manque de structure de repos dans les lieux publics.",
-        "problematique": "Les seniors rencontrent des difficultés à accéder et à utiliser les lieux publics du territoire communal, notamment en raison de la pénurie de structures de repos appropriées.",
-        "solution_envisagee": "Installer des structures de repos dans les lieux publics pour faciliter l’accès aux seniors et inciter les personnes âgées à sortir.",
-        "objectifs": [
-            "Améliorer et rendre accessible aux seniors les lieux publics",
-            "Inciter les personnes âgées à sortir de leurs résidences"
-        ]
-    },
-    "porteur_initiative": "Conseil des seniors de Saint-Germain-au-Mont-d’Or",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Amelioration_et_accessibilite_des_lieux_publics_au_profit_des_seniors.txt",
-    "nom_fichier": "Amelioration_et_accessibilite_des_lieux_publics_au_profit_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Amélioration et accessibilité des lieux publics au profit des seniors",
+  "territoire": [
+    "saint-germain-au-mont-d'or (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La commune de Saint-Germain-au-Mont-d’Or a initié une démarche Ville Amie des Aînés en commençant par créer un Conseil des seniors. Un diagnostic original a été réalisé en marchant pour identifier les contraintes sur les principaux cheminements piétons et proposer de nouvelles installations.",
+    "contexte": "Les lieux publics du territoire communal présentent des problèmes d’accessibilité, notamment avec des trottoirs étroits ou dégradés, bancs insuffisants, traversées de chaussée inadaptées, etc. Un diagnostic en marchant a permis d’identifier un manque de structure de repos dans les lieux publics.",
+    "problematique": "Les seniors rencontrent des difficultés à accéder et à utiliser les lieux publics du territoire communal, notamment en raison de la pénurie de structures de repos appropriées.",
+    "solution_envisagee": "Installer des structures de repos dans les lieux publics pour faciliter l’accès aux seniors et inciter les personnes âgées à sortir.",
+    "objectifs": [
+      "Améliorer et rendre accessible aux seniors les lieux publics",
+      "Inciter les personnes âgées à sortir de leurs résidences"
+    ]
+  },
+  "porteur_initiative": "Conseil des seniors de Saint-Germain-au-Mont-d’Or",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Amelioration_et_accessibilite_des_lieux_publics_au_profit_des_seniors.txt",
+  "nom_fichier": "Amelioration_et_accessibilite_des_lieux_publics_au_profit_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/329-329-fiche-pe-bancs.pdf",
+  "original_title": "Amélioration et accessibilité des lieux publics au profit des seniors",
+  "collection_date": ""
 }

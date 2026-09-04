@@ -1,35 +1,43 @@
 {
-    "titre": "Déambulons ensemble pour plus de mobilité",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La commune a souhaité approfondir le diagnostic participatif en organisant un diagnostic en marchant afin d'appréhender directement les aspects de mobilité de la commune.",
-        "contexte": "Le projet a été validé par le comité de pilotage de la démarche VADA puis par le bureau municipal communal.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Commune de Claix",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deambulons_ensemble_pour_plus_de_mobilite.txt",
-    "nom_fichier": "Deambulons_ensemble_pour_plus_de_mobilite.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Déambulons ensemble pour plus de mobilité",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La commune a souhaité approfondir le diagnostic participatif en organisant un diagnostic en marchant afin d'appréhender directement les aspects de mobilité de la commune.",
+    "contexte": "Le projet a été validé par le comité de pilotage de la démarche VADA puis par le bureau municipal communal.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Commune de Claix",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Deambulons_ensemble_pour_plus_de_mobilite.txt",
+  "nom_fichier": "Deambulons_ensemble_pour_plus_de_mobilite.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/690-pe-deambulons-ensemble-pour-plus-de-mobilite-claix-1.pdf",
+  "original_title": "Déambulons ensemble pour plus de mobilité",
+  "collection_date": ""
 }

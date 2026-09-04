@@ -1,34 +1,43 @@
 {
-    "titre": "Vélo cognitif",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Un programme de prévention de la perte d'autonomie organisé par le CCAS de Lormont, qui a rencontré Rev'lim pour développer une solution innovante.",
-        "contexte": "Le CCAS de Lormont propose un programme de prévention depuis plusieurs années et répond à l'appel à projets de la Conférence des financeurs. Le projet de vélo cognitif est le résultat d'une collaboration entre Rev'lim, société créée en 2013 pour améliorer le bien-être et la qualité de vie des personnes fragilisées.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un programme d'initiative innovante qui associe le sport à l'activité intellectuelle pour prévenir la perte d'autonomie.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Lormont",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Velo_cognitif.txt",
-    "nom_fichier": "Velo_cognitif.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Vélo cognitif",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Un programme de prévention de la perte d'autonomie organisé par le CCAS de Lormont, qui a rencontré Rev'lim pour développer une solution innovante.",
+    "contexte": "Le CCAS de Lormont propose un programme de prévention depuis plusieurs années et répond à l'appel à projets de la Conférence des financeurs. Le projet de vélo cognitif est le résultat d'une collaboration entre Rev'lim, société créée en 2013 pour améliorer le bien-être et la qualité de vie des personnes fragilisées.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un programme d'initiative innovante qui associe le sport à l'activité intellectuelle pour prévenir la perte d'autonomie.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Lormont",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Velo_cognitif.txt",
+  "nom_fichier": "Velo_cognitif.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/893-concours-2023-velo-cognitif.pdf",
+  "original_title": "Vélo cognitif",
+  "collection_date": ""
 }

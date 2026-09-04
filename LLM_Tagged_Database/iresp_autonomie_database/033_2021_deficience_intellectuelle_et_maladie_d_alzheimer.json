@@ -1,33 +1,43 @@
 {
-    "titre": "Déficience intellectuelle et maladie d'Alzheimer",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à renforcer les liens entre personnes présentant une déficience intellectuelle et celles atteintes de la maladie d'Alzheimer, en particulier dans le cadre des communautés mixtes.",
-        "contexte": "Les personnes présentant un handicap mental peuvent désormais développer des pathologies telles que la maladie d’Alzheimer. Les professionnels médicosociaux sont confrontés à cette situation de manière plus fréquente, et ils se trouvent particulièrement démunis pour y faire face.",
-        "problematique": "Renforcer les liens entre personnes présentant une déficience intellectuelle et celles atteintes de la maladie d'Alzheimer, en particulier dans le cadre des communautés mixtes.",
-        "solution_envisagee": "Organiser des événements intergénérationnels qui permettent aux personnes présentant une déficience intellectuelle de partager leurs expériences et connaissances avec celles atteintes de la maladie d'Alzheimer, en améliorant ainsi les interactions et les échanges.",
-        "objectifs": [
-            "Renforcer les liens entre personnes présentant une déficience intellectuelle et celles atteintes de la maladie d'Alzheimer",
-            "Améliorer l’accompagnement des personnes atteintes de la maladie d'Alzheimer par les professionnels médicosociaux",
-            "Promouvoir le partage d’expériences entre les deux groupes concernés"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\033_2021_deficience_intellectuelle_et_maladie_d_alzheimer.txt",
-    "nom_fichier": "033_2021_deficience_intellectuelle_et_maladie_d_alzheimer.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Déficience intellectuelle et maladie d'Alzheimer",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à renforcer les liens entre personnes présentant une déficience intellectuelle et celles atteintes de la maladie d'Alzheimer, en particulier dans le cadre des communautés mixtes.",
+    "contexte": "Les personnes présentant un handicap mental peuvent désormais développer des pathologies telles que la maladie d’Alzheimer. Les professionnels médicosociaux sont confrontés à cette situation de manière plus fréquente, et ils se trouvent particulièrement démunis pour y faire face.",
+    "problematique": "Renforcer les liens entre personnes présentant une déficience intellectuelle et celles atteintes de la maladie d'Alzheimer, en particulier dans le cadre des communautés mixtes.",
+    "solution_envisagee": "Organiser des événements intergénérationnels qui permettent aux personnes présentant une déficience intellectuelle de partager leurs expériences et connaissances avec celles atteintes de la maladie d'Alzheimer, en améliorant ainsi les interactions et les échanges.",
+    "objectifs": [
+      "Renforcer les liens entre personnes présentant une déficience intellectuelle et celles atteintes de la maladie d'Alzheimer",
+      "Améliorer l’accompagnement des personnes atteintes de la maladie d'Alzheimer par les professionnels médicosociaux",
+      "Promouvoir le partage d’expériences entre les deux groupes concernés"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\033_2021_deficience_intellectuelle_et_maladie_d_alzheimer.txt",
+  "nom_fichier": "033_2021_deficience_intellectuelle_et_maladie_d_alzheimer.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/deficience-intellectuelle-et-maladie-dalzheimer/",
+  "original_title": "Déficience intellectuelle et maladie d’Alzheimer",
+  "collection_date": ""
 }

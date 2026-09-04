@@ -1,33 +1,43 @@
 {
-    "titre": "L'intergénérationnel au service du bien vivre ensemble",
-    "territoire": "départemental",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un état des lieux a mis en évidence que 20% de la population âgée du département de la Côte d’Or connaissait des problèmes de solitude et d'isolement. De ce constat est né le projet qui est constitué de visites de convivialité et de cohabitations intergénérationnelles.",
-        "contexte": "La situation actuelle soulève un problème majeur concernant la qualité de vie des personnes âgées dans leur environnement familial ou social. Les seniors se sentent souvent isolés, en particulier lorsqu'ils vivent à l'écart du monde familial et professionnel.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un projet d'intergénérationnalité qui permet à une personne âgée de rester à son domicile tout en bénéficiant d'une présence le soir, la nuit et parfois le week-end. Les échanges entre jeunes et seniors apportent bien-être et enrichissement mutuel dans un esprit de solidarité, de bienveillance et de convivialité.",
-        "objectifs": [
-            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Binôme21",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lintergenerationnel_au_service_du_bien_vivre_ensemble.txt",
-    "nom_fichier": "Lintergenerationnel_au_service_du_bien_vivre_ensemble.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'intergénérationnel au service du bien vivre ensemble",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un état des lieux a mis en évidence que 20% de la population âgée du département de la Côte d’Or connaissait des problèmes de solitude et d'isolement. De ce constat est né le projet qui est constitué de visites de convivialité et de cohabitations intergénérationnelles.",
+    "contexte": "La situation actuelle soulève un problème majeur concernant la qualité de vie des personnes âgées dans leur environnement familial ou social. Les seniors se sentent souvent isolés, en particulier lorsqu'ils vivent à l'écart du monde familial et professionnel.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un projet d'intergénérationnalité qui permet à une personne âgée de rester à son domicile tout en bénéficiant d'une présence le soir, la nuit et parfois le week-end. Les échanges entre jeunes et seniors apportent bien-être et enrichissement mutuel dans un esprit de solidarité, de bienveillance et de convivialité.",
+    "objectifs": [
+      "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Binôme21",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Lintergenerationnel_au_service_du_bien_vivre_ensemble.txt",
+  "nom_fichier": "Lintergenerationnel_au_service_du_bien_vivre_ensemble.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/692-pe-11-binome21-dijon.pdf",
+  "original_title": "L'intergénérationnel au service du bien vivre ensemble",
+  "collection_date": ""
 }

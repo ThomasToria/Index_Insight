@@ -1,33 +1,42 @@
 {
-    "titre": "Exposition 'En Corps, En Vie' - Quinzaine de la Photographie Nantaise 2023",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Exposition d'images de photographes âgés, réalisées pour le rapport annuel des Petits Frères des Pauvres 'Vie Affective, Intime et Sexuelle'.",
-        "contexte": "",
-        "problematique": "La lutte contre l’âgisme et la pleine intégration des seniors dans la vie de la cité.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Lutter contre l’âgisme",
-            "Inviter le public à changer de regard sur les normes/critères de beauté",
-            "Sortir les personnes âgées de l’invisibilité",
-            "Libérer la parole et lever les tabous sur la vie intime et le désir chez les personnes âgées"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Exposition_en_corps_en_vie_-_quinzaine_de_la_photographie_nantaise_2023.txt",
-    "nom_fichier": "Exposition_en_corps_en_vie_-_quinzaine_de_la_photographie_nantaise_2023.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Exposition 'En Corps, En Vie' - Quinzaine de la Photographie Nantaise 2023",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Exposition d'images de photographes âgés, réalisées pour le rapport annuel des Petits Frères des Pauvres 'Vie Affective, Intime et Sexuelle'.",
+    "contexte": "",
+    "problematique": "La lutte contre l’âgisme et la pleine intégration des seniors dans la vie de la cité.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Lutter contre l’âgisme",
+      "Inviter le public à changer de regard sur les normes/critères de beauté",
+      "Sortir les personnes âgées de l’invisibilité",
+      "Libérer la parole et lever les tabous sur la vie intime et le désir chez les personnes âgées"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Exposition_en_corps_en_vie_-_quinzaine_de_la_photographie_nantaise_2023.txt",
+  "nom_fichier": "Exposition_en_corps_en_vie_-_quinzaine_de_la_photographie_nantaise_2023.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1032-pe-exposition-en-corps-en-vie-quinzaine-de-la-photographie-nantaise-qpn-2023-1.pdf",
+  "original_title": "Exposition \"en corps, en vie\" - quinzaine de la photographie nantaise 2023",
+  "collection_date": ""
 }

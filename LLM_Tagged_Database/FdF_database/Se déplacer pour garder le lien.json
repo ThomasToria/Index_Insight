@@ -1,32 +1,44 @@
 {
-    "titre": "Se déplacer pour garder le lien",
-    "territoire": "Villeurbanne, Rhône-Alpes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La Résidence Gustave Prost à Villeurbanne organise des balades urbaines pour les résidents âgés qui ont des problèmes de mobilité, visant à renforcer le lien social.",
-        "contexte": "Le confinement a eu un impact significatif sur la mobilité et l’interaction sociale des personnes âgées dans la Résidence Gustave Prost. Les résidents se sont retirés et ont perdu du lien social.",
-        "problematique": "Renforcer le lien social et lutter contre l'isolement chez les personnes âgées, en encourageant leur participation à des activités physiques comme les balades urbaines.",
-        "solution_envisagee": "Organiser des balades urbaines pour les résidents âgés qui ont des problèmes de mobilité, favoriser la rencontre et le lien social.",
-        "objectifs": [
-            "Renforcer le lien social",
-            "Lutter contre l'isolement"
-        ]
-    },
-    "porteur_initiative": "Résidence Gustave Prost à Villeurbanne",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Se déplacer pour garder le lien.txt",
-    "nom_fichier": "Se déplacer pour garder le lien.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Se déplacer pour garder le lien",
+  "territoire": [
+    "villeurbanne, rhône-alpes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La Résidence Gustave Prost à Villeurbanne organise des balades urbaines pour les résidents âgés qui ont des problèmes de mobilité, visant à renforcer le lien social.",
+    "contexte": "Le confinement a eu un impact significatif sur la mobilité et l’interaction sociale des personnes âgées dans la Résidence Gustave Prost. Les résidents se sont retirés et ont perdu du lien social.",
+    "problematique": "Renforcer le lien social et lutter contre l'isolement chez les personnes âgées, en encourageant leur participation à des activités physiques comme les balades urbaines.",
+    "solution_envisagee": "Organiser des balades urbaines pour les résidents âgés qui ont des problèmes de mobilité, favoriser la rencontre et le lien social.",
+    "objectifs": [
+      "Renforcer le lien social",
+      "Lutter contre l'isolement"
+    ]
+  },
+  "porteur_initiative": "Résidence Gustave Prost à Villeurbanne",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Se déplacer pour garder le lien.txt",
+  "nom_fichier": "Se déplacer pour garder le lien.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-agees/se-deplacer-pour-garder-le-lien",
+  "original_title": "Se déplacer pour garder le lien",
+  "collection_date": ""
 }

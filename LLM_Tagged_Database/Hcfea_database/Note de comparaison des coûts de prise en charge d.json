@@ -1,33 +1,43 @@
 {
-    "titre": "Note de comparaison des coûts de prise en charge d’une personne en perte d’autonomie selon le lieu de vie (domicile ou Ehpad)",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Cette note propose une estimation du coût de prise en charge des personnes en perte d'autonomie (principalement bénéficiaires de l’APA) et de sa répartition entre dépenses publiques et reste-à-charge (RAC) pour les personnes selon leur lieu de vie, mais aussi selon la configuration de leur ménage (en couple ou non) et leur niveau de revenu, pour différents GIR et niveaux de salaire horaire des intervenants à domicile.",
-        "contexte": "",
-        "problematique": "Le coût actuel de prise en charge des personnes en perte d'autonomie selon le lieu de vie (domicile ou Ehpad) est plus faible que l'accueil en Ehpad, mais les dépenses publiques sont plus importantes pour les allocataires en GIR 1 à domicile.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Éclairer l’impact économique d’une politique de virage domiciliaire",
-            "Estimer le coût de prise en charge des personnes en perte d'autonomie selon leur lieu de vie et leur configuration socio-économique"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2021"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note de comparaison des coûts de prise en charge d.txt",
-    "nom_fichier": "Note de comparaison des coûts de prise en charge d.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Note de comparaison des coûts de prise en charge d’une personne en perte d’autonomie selon le lieu de vie (domicile ou Ehpad)",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Cette note propose une estimation du coût de prise en charge des personnes en perte d'autonomie (principalement bénéficiaires de l’APA) et de sa répartition entre dépenses publiques et reste-à-charge (RAC) pour les personnes selon leur lieu de vie, mais aussi selon la configuration de leur ménage (en couple ou non) et leur niveau de revenu, pour différents GIR et niveaux de salaire horaire des intervenants à domicile.",
+    "contexte": "",
+    "problematique": "Le coût actuel de prise en charge des personnes en perte d'autonomie selon le lieu de vie (domicile ou Ehpad) est plus faible que l'accueil en Ehpad, mais les dépenses publiques sont plus importantes pour les allocataires en GIR 1 à domicile.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Éclairer l’impact économique d’une politique de virage domiciliaire",
+      "Estimer le coût de prise en charge des personnes en perte d'autonomie selon leur lieu de vie et leur configuration socio-économique"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Note de comparaison des coûts de prise en charge d.txt",
+  "nom_fichier": "Note de comparaison des coûts de prise en charge d.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/note-de-comparaison-des-couts-de-prise-en-charge-dune-personne-en-perte-dautonomie-selon-le-lieu-de-vie-domicile-ou-ehpad",
+  "original_title": "Note de comparaison des coûts de prise en charge d’une personne en perte d’autonomie selon le lieu de vie (domicile ou Ehpad)",
+  "collection_date": ""
 }

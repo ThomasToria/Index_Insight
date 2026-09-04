@@ -1,32 +1,44 @@
 {
-    "titre": "Des rencontres pour informer les jeunes retraités",
-    "territoire": "Commune: Sceaux (92)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La Ville de Sceaux propose des rencontres d'information et d'échange aux jeunes retraités, visant à informer les futurs et jeunes retraités sur la commune.",
-        "contexte": "Les seniors sont traditionnellement peu touchés par les actions seniors de la ville.",
-        "problematique": "Informer les jeunes retraités de la tenue des rencontres.",
-        "solution_envisagee": "Proposer des ateliers, une table de documentation thématique et des témoignages de jeunes retraités pour encourager les échanges.",
-        "objectifs": [
-            "informer",
-            "toucher le plus grand nombre possible"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_pour_informer_les_jeunes_retraites.txt",
-    "nom_fichier": "Des_rencontres_pour_informer_les_jeunes_retraites.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des rencontres pour informer les jeunes retraités",
+  "territoire": [
+    "sceaux (92)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La Ville de Sceaux propose des rencontres d'information et d'échange aux jeunes retraités, visant à informer les futurs et jeunes retraités sur la commune.",
+    "contexte": "Les seniors sont traditionnellement peu touchés par les actions seniors de la ville.",
+    "problematique": "Informer les jeunes retraités de la tenue des rencontres.",
+    "solution_envisagee": "Proposer des ateliers, une table de documentation thématique et des témoignages de jeunes retraités pour encourager les échanges.",
+    "objectifs": [
+      "informer",
+      "toucher le plus grand nombre possible"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_rencontres_pour_informer_les_jeunes_retraites.txt",
+  "nom_fichier": "Des_rencontres_pour_informer_les_jeunes_retraites.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/319-pe-infos-nouveaux-retraites.pdf",
+  "original_title": "Des rencontres pour informer les jeunes retraités",
+  "collection_date": ""
 }

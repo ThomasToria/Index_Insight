@@ -1,32 +1,42 @@
 {
-    "titre": "Visiteurs à domicile",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Le réseau des visiteurs à domicile du CCAS d’Amiens, c’est plus de 80 seniors qui visitent à domicile d e plus de 120 seniors isolés sur Amiens, et réalisent près de 260 00 visites par an. Les visiteurs signent la charte d u bénévolat, assistent à un séminaire de formation par an.",
-        "contexte": "Le réseau des visiteurs à domicile existe depuis 2011 (75 personnes isolées, 375 visites effectuées par agents du CCAS). Il a fortement évolué en 14 ans. Le CCAS a constitué une équipe de plus de 92 bénévoles qui se rendent à domicile et ont effectué près de 2600 visites en 2024.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Créer du lien intergénérationnel",
-        "objectifs": [
-            "Prévenir l'isolement des seniors",
-            "Participation citoyenne & emploi"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2011"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Visiteurs_a_domicile.txt",
-    "nom_fichier": "Visiteurs_a_domicile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Visiteurs à domicile",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Le réseau des visiteurs à domicile du CCAS d’Amiens, c’est plus de 80 seniors qui visitent à domicile d e plus de 120 seniors isolés sur Amiens, et réalisent près de 260 00 visites par an. Les visiteurs signent la charte d u bénévolat, assistent à un séminaire de formation par an.",
+    "contexte": "Le réseau des visiteurs à domicile existe depuis 2011 (75 personnes isolées, 375 visites effectuées par agents du CCAS). Il a fortement évolué en 14 ans. Le CCAS a constitué une équipe de plus de 92 bénévoles qui se rendent à domicile et ont effectué près de 2600 visites en 2024.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Créer du lien intergénérationnel",
+    "objectifs": [
+      "Prévenir l'isolement des seniors",
+      "Participation citoyenne & emploi"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2011"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Visiteurs_a_domicile.txt",
+  "nom_fichier": "Visiteurs_a_domicile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Visiteurs-a-domicile.pdf",
+  "original_title": "Visiteurs à domicile",
+  "collection_date": ""
 }

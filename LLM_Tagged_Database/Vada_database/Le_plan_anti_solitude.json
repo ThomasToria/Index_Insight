@@ -1,34 +1,44 @@
 {
-    "titre": "Le plan anti solitude",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un plan pour lutter contre la solitude",
-        "contexte": "Les évolutions de la société ont conduit à une augmentation des situations d'isolement relationnel et de solitude subie. Les causes majeures comprennent le vieillissement de la population, le chômage de masse et longue durée, l’augmentation de la pauvreté, la monoparentalité, les accidents du parcours de vie (ruptures, veuvage, déménagement, retraite) et d'autres facteurs.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Rompre l'isolement des personnes et ainsi éviter le renfermement, la perte d'estime de soi, le repli chez soi, l'interruption de la vie sociale et de sa participation à la vie de la cité.",
-            "Permettre à tous de s’impliquer dans la lutte contre la solitude et de contribuer à la rupture des situations d'isolement.",
-            "Proposer des actions en direction de tous les publics, du plus jeune au plus âgé."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2018-09-29",
-        "2018-09-30"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_plan_anti_solitude.txt",
-    "nom_fichier": "Le_plan_anti_solitude.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le plan anti solitude",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un plan pour lutter contre la solitude",
+    "contexte": "Les évolutions de la société ont conduit à une augmentation des situations d'isolement relationnel et de solitude subie. Les causes majeures comprennent le vieillissement de la population, le chômage de masse et longue durée, l’augmentation de la pauvreté, la monoparentalité, les accidents du parcours de vie (ruptures, veuvage, déménagement, retraite) et d'autres facteurs.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Rompre l'isolement des personnes et ainsi éviter le renfermement, la perte d'estime de soi, le repli chez soi, l'interruption de la vie sociale et de sa participation à la vie de la cité.",
+      "Permettre à tous de s’impliquer dans la lutte contre la solitude et de contribuer à la rupture des situations d'isolement.",
+      "Proposer des actions en direction de tous les publics, du plus jeune au plus âgé."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2018-09-29",
+    "2018-09-30"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_plan_anti_solitude.txt",
+  "nom_fichier": "Le_plan_anti_solitude.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/566-566-plan-anti-solitude.pdf",
+  "original_title": "Le plan anti solitude",
+  "collection_date": ""
 }

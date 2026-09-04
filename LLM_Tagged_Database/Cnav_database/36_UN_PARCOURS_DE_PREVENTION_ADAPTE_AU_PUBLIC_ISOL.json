@@ -1,30 +1,40 @@
 {
-    "titre": "UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un parcours spécifique pour retraités isolés fragilisés, offrant des ateliers sur la prévention de la santé.",
-        "contexte": "Les Petits Frères des Pauvres proposent un cycle d'ateliers adaptés aux retraités accueillis dans leurs locaux.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Création d'un parcours spécifique avec des ateliers sur différents sujets de prévention de la santé.",
-        "objectifs": "Valoriser l'estime de soi des participants, susciter l'envie d'action au quotidien sur sa santé, créer une dynamique au sein du groupe et réaliser un bilan à l'issue du parcours."
-    },
-    "porteur_initiative": "Carsat Bretagne, pôle des actions collectives de prévention de l’ASR",
-    "date": [
-        "09/11/2023",
-        "14/03/2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
-    "nom_fichier": "36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
-    "statut_action": "projet réalisé"
+  "titre": "UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un parcours spécifique pour retraités isolés fragilisés, offrant des ateliers sur la prévention de la santé.",
+    "contexte": "Les Petits Frères des Pauvres proposent un cycle d'ateliers adaptés aux retraités accueillis dans leurs locaux.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Création d'un parcours spécifique avec des ateliers sur différents sujets de prévention de la santé.",
+    "objectifs": "Valoriser l'estime de soi des participants, susciter l'envie d'action au quotidien sur sa santé, créer une dynamique au sein du groupe et réaliser un bilan à l'issue du parcours."
+  },
+  "porteur_initiative": "Carsat Bretagne, pôle des actions collectives de prévention de l’ASR",
+  "date": [
+    "2023-11-09",
+    "2024-03-14"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
+  "nom_fichier": "36_UN_PARCOURS_DE_PREVENTION_ADAPTE_AU_PUBLIC_ISOL.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "UN PARCOURS DE PRÉVENTION ADAPTÉ AU PUBLIC ISOLÉ FRAGILE",
+  "collection_date": ""
 }

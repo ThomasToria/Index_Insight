@@ -1,29 +1,39 @@
 {
-    "titre": "Difficultés d'Inclusion des Elèves avec TSA: Attitudes et Comportements des Enseignants (DIETACE)",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "",
-        "contexte": "",
-        "problematique": "Les lois du 11 février 2005 et du 8 juillet 2013 constituent une avancée majeure dans la scolarisation des élèves avec trouble du spectre autistique (TSA, DSM-V; APA, 2015). En effet, ces lois précisent que ces élèves doivent dorénavant bénéficier d'une inclusion au sein de l'école ordinaire et d'adaptations pédagogiques en lien avec leurs besoins éducatifs particuliers. Si sur le plan législatoire, les acteurs de l’éducation sont outillés, un certain nombre d’obstacles psycho-sociaux persiste pourtant dans la mise en œuvre de l’inclusion.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\035_2017_difficultes_d_inclusion_des_eleves_avec_tsa_attitudes_et_comportements_des_enseignants_dietace.txt",
-    "nom_fichier": "035_2017_difficultes_d_inclusion_des_eleves_avec_tsa_attitudes_et_comportements_des_enseignants_dietace.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Difficultés d'Inclusion des Elèves avec TSA: Attitudes et Comportements des Enseignants (DIETACE)",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "",
+    "contexte": "",
+    "problematique": "Les lois du 11 février 2005 et du 8 juillet 2013 constituent une avancée majeure dans la scolarisation des élèves avec trouble du spectre autistique (TSA, DSM-V; APA, 2015). En effet, ces lois précisent que ces élèves doivent dorénavant bénéficier d'une inclusion au sein de l'école ordinaire et d'adaptations pédagogiques en lien avec leurs besoins éducatifs particuliers. Si sur le plan législatoire, les acteurs de l’éducation sont outillés, un certain nombre d’obstacles psycho-sociaux persiste pourtant dans la mise en œuvre de l’inclusion.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\035_2017_difficultes_d_inclusion_des_eleves_avec_tsa_attitudes_et_comportements_des_enseignants_dietace.txt",
+  "nom_fichier": "035_2017_difficultes_d_inclusion_des_eleves_avec_tsa_attitudes_et_comportements_des_enseignants_dietace.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/difficultes-dinclusion-des-eleves-avec-tsa-attitudes-et-comportements-des-enseignants-dietace/",
+  "original_title": "Difficultés d’Inclusion des Elèves avec TSA : Attitudes et Comportements des Enseignants (DIETACE)",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Miss Daisy et son chauffeur",
-    "territoire": "Commune de Chasselay, 69",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Une initiative pour améliorer la mobilité des aînés dans le village de Chasselay.",
-        "contexte": "Chasselay est un village étendu de 2 800 habitants situé à 17 km de Lyon, mal desservi par les transports en commun.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une initiative pour améliorer la mobilité des aînés dans le village de Chasselay.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La Ville de Chasselay",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Miss_daisy_et_son_chauffeur.txt",
-    "nom_fichier": "Miss_daisy_et_son_chauffeur.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Miss Daisy et son chauffeur",
+  "territoire": [
+    "chasselay, 69"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Une initiative pour améliorer la mobilité des aînés dans le village de Chasselay.",
+    "contexte": "Chasselay est un village étendu de 2 800 habitants situé à 17 km de Lyon, mal desservi par les transports en commun.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une initiative pour améliorer la mobilité des aînés dans le village de Chasselay.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La Ville de Chasselay",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Miss_daisy_et_son_chauffeur.txt",
+  "nom_fichier": "Miss_daisy_et_son_chauffeur.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/493-pe-miss-daisy-et-son-chauffeur-mise-en-forme-2023.pdf",
+  "original_title": "Miss daisy et son chauffeur",
+  "collection_date": ""
 }

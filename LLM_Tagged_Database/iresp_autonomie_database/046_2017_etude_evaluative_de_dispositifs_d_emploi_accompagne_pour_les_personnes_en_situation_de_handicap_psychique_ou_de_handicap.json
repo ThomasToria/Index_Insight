@@ -1,32 +1,42 @@
 {
-    "titre": "Etude évaluative de dispositifs d'emploi accompagné pour les personnes en situation de handicap psychique ou de handicap mental",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Contexte: L’insertion professionnelle durable des personnes ayant un handicap psychique (liés à une maladie psychiatrique chronique) ou un handicap mental, est devenue une préoccupation d'actualité, en tant que facteur majeur d'accès aux services sociaux et médico-sociaux. Objectifs: Évaluer les dispositifs existants pour l’accompagnement des personnes en situation de handicap psychique ou de handicap mental dans le cadre des établissements et services médico-sociaux, afin de proposer des solutions plus efficaces.",
-        "contexte": "",
-        "problematique": "Les personnes en situation de handicap psychique ou de handicap mental rencontrent des difficultés à trouver un emploi qui correspond à leur profil professionnel. Ces obstacles sont dus notamment à la discrimination professionnelle et aux préjugés associés au handicap, ainsi qu'à l'absence d'accès aux ressources nécessaires pour se former.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Évaluer les dispositifs existants pour l’accompagnement des personnes en situation de handicap psychique ou de handicap mental dans le cadre des établissements et services médico-sociaux",
-            "Proposer des solutions plus efficaces pour faciliter l'insertion professionnelle durable des personnes en situation de handicap psychique ou de handicap mental"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\046_2017_etude_evaluative_de_dispositifs_d_emploi_accompagne_pour_les_personnes_en_situation_de_handicap_psychique_ou_de_handicap.txt",
-    "nom_fichier": "046_2017_etude_evaluative_de_dispositifs_d_emploi_accompagne_pour_les_personnes_en_situation_de_handicap_psychique_ou_de_handicap.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Etude évaluative de dispositifs d'emploi accompagné pour les personnes en situation de handicap psychique ou de handicap mental",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Contexte: L’insertion professionnelle durable des personnes ayant un handicap psychique (liés à une maladie psychiatrique chronique) ou un handicap mental, est devenue une préoccupation d'actualité, en tant que facteur majeur d'accès aux services sociaux et médico-sociaux. Objectifs: Évaluer les dispositifs existants pour l’accompagnement des personnes en situation de handicap psychique ou de handicap mental dans le cadre des établissements et services médico-sociaux, afin de proposer des solutions plus efficaces.",
+    "contexte": "",
+    "problematique": "Les personnes en situation de handicap psychique ou de handicap mental rencontrent des difficultés à trouver un emploi qui correspond à leur profil professionnel. Ces obstacles sont dus notamment à la discrimination professionnelle et aux préjugés associés au handicap, ainsi qu'à l'absence d'accès aux ressources nécessaires pour se former.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Évaluer les dispositifs existants pour l’accompagnement des personnes en situation de handicap psychique ou de handicap mental dans le cadre des établissements et services médico-sociaux",
+      "Proposer des solutions plus efficaces pour faciliter l'insertion professionnelle durable des personnes en situation de handicap psychique ou de handicap mental"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\046_2017_etude_evaluative_de_dispositifs_d_emploi_accompagne_pour_les_personnes_en_situation_de_handicap_psychique_ou_de_handicap.txt",
+  "nom_fichier": "046_2017_etude_evaluative_de_dispositifs_d_emploi_accompagne_pour_les_personnes_en_situation_de_handicap_psychique_ou_de_handicap.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/etude-evaluative-de-dispositifs-demploi-accompagne-pour-les-personnes-en-situation-de-handicap-psychique-ou-de-handicap-mental/",
+  "original_title": "Etude évaluative de dispositifs d’emploi accompagné pour les personnes en situation de handicap psychique ou de handicap mental",
+  "collection_date": ""
 }

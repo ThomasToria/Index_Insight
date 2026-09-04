@@ -1,32 +1,44 @@
 {
-    "titre": "Les aînés dessinent le parcours de demain",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Une démarche participative visant à améliorer la mobilité des personnes âgées dans la commune de Dijon.",
-        "contexte": "Les aînés sont acteurs engagés dans une démarche d’exploration urbaine, menée par un observatoire de l’âge et soutenue par divers services municipaux et associations.",
-        "problematique": "Renforcement des liens sociaux entre les seniors, les proches et la société civile, valorisation des expériences des aînés dans le contexte d’une mobilité réduite.",
-        "solution_envisagee": "Une démarche participative visant à améliorer la mobilité des personnes âgées en leur proposant des balades urbaines et valorisant leurs expériences.",
-        "objectifs": [
-            "Renforcer les liens sociaux entre les seniors, leurs proches et la société civile",
-            "Valoriser les expériences des aînés dans le contexte d'une mobilité réduite"
-        ]
-    },
-    "porteur_initiative": "Observatoire de l’âge de Dijon",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aines_dessinent_le_parcours_de_demain.txt",
-    "nom_fichier": "Les_aines_dessinent_le_parcours_de_demain.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les aînés dessinent le parcours de demain",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Une démarche participative visant à améliorer la mobilité des personnes âgées dans la commune de Dijon.",
+    "contexte": "Les aînés sont acteurs engagés dans une démarche d’exploration urbaine, menée par un observatoire de l’âge et soutenue par divers services municipaux et associations.",
+    "problematique": "Renforcement des liens sociaux entre les seniors, les proches et la société civile, valorisation des expériences des aînés dans le contexte d’une mobilité réduite.",
+    "solution_envisagee": "Une démarche participative visant à améliorer la mobilité des personnes âgées en leur proposant des balades urbaines et valorisant leurs expériences.",
+    "objectifs": [
+      "Renforcer les liens sociaux entre les seniors, leurs proches et la société civile",
+      "Valoriser les expériences des aînés dans le contexte d'une mobilité réduite"
+    ]
+  },
+  "porteur_initiative": "Observatoire de l’âge de Dijon",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_aines_dessinent_le_parcours_de_demain.txt",
+  "nom_fichier": "Les_aines_dessinent_le_parcours_de_demain.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/476-476-les-aines-dessinent-le-parcours-de-demain-1.pdf",
+  "original_title": "Les aînés dessinent le parcours de demain",
+  "collection_date": ""
 }

@@ -1,33 +1,45 @@
 {
-    "titre": "Manifestation pour un EHPAD de rêve",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement. Les résidents ont manifesté pour un EHPAD de rêve.",
-        "contexte": "Le texte indique que le projet visait à rassembler les revendications des résidents autour d'un atelier 'manifestation'.",
-        "problematique": "Réaliser une manifestation pour un EHPAD de rêve, valoriser les revendications des résidents et inclure les résidents dans une pratique artistique et réflexion collective.",
-        "solution_envisagee": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement. Les résidents ont manifesté pour un EHPAD de rêve, rassemblant les revendications autour d'un projet d'ateliers.",
-        "objectifs": [
-            "valoriser les revendications des résidents",
-            "apprendre à formuler ses souhaits pour améliorer le cadre de vie au sein des établissements",
-            "inclure les résidents dans une pratique artistique et réflexion collective"
-        ]
-    },
-    "porteur_initiative": "EHPAD Saint-Bruno",
-    "date": [
-        "2022"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Manifestation_pour_un_EHPAD_de_reve.txt",
-    "nom_fichier": "Manifestation_pour_un_EHPAD_de_reve.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Manifestation pour un EHPAD de rêve",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement. Les résidents ont manifesté pour un EHPAD de rêve.",
+    "contexte": "Le texte indique que le projet visait à rassembler les revendications des résidents autour d'un atelier 'manifestation'.",
+    "problematique": "Réaliser une manifestation pour un EHPAD de rêve, valoriser les revendications des résidents et inclure les résidents dans une pratique artistique et réflexion collective.",
+    "solution_envisagee": "Un atelier 'manifestation' a été mené à l'EHPAD Saint-Bruno avec l'aide de bénévoles et du personnel de l'établissement. Les résidents ont manifesté pour un EHPAD de rêve, rassemblant les revendications autour d'un projet d'ateliers.",
+    "objectifs": [
+      "valoriser les revendications des résidents",
+      "apprendre à formuler ses souhaits pour améliorer le cadre de vie au sein des établissements",
+      "inclure les résidents dans une pratique artistique et réflexion collective"
+    ]
+  },
+  "porteur_initiative": "EHPAD Saint-Bruno",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Manifestation_pour_un_EHPAD_de_reve.txt",
+  "nom_fichier": "Manifestation_pour_un_EHPAD_de_reve.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/786-concours-2022-7-manifestation-pour-un-ephad-de-reve.pdf",
+  "original_title": "Manifestation pour un EHPAD de rêve",
+  "collection_date": ""
 }

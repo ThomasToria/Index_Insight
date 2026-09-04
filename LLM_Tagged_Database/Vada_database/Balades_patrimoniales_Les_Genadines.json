@@ -1,33 +1,45 @@
 {
-    "titre": "Balades patrimoniales: Les Genadines",
-    "territoire": "Commune de Genas, 69",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La création de balades patrimoniales au sein de la ville, s'inscrit dans l'ambitieuse réfection du site de Gandil et la mise en place de projets qui permettent de recréer du lien entre les habitants et le territoire genassien.",
-        "contexte": "Après un diagnostic complet (réunion de travail, rencontres et entretiens avec les personnes ressources, état des lieux des thématiques, des collections, recherches de contenus, étude paysagère, écoute des publics...), la municipalité a décidé de créer plusieurs sentiers-promenades, destinés à proposer aux habitants et aux visiteurs de Genas des déambulations thématiques pour découvrir ou re-découvrir la commune.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La création des parcours thématiques s'est accompagnée d'une collecte de témoignages des aînés, car l'objectif était de définir des thématiques en rapport avec les spécificités patrimoniales de Genas. Ainsi, quatre parcours ont été élaborés: Art mural, Art minéral, Art sacré, et Art végétal.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La municipalité de Genas",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Balades_patrimoniales_Les_Genadines.txt",
-    "nom_fichier": "Balades_patrimoniales_Les_Genadines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Balades patrimoniales: Les Genadines",
+  "territoire": [
+    "genas, 69"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La création de balades patrimoniales au sein de la ville, s'inscrit dans l'ambitieuse réfection du site de Gandil et la mise en place de projets qui permettent de recréer du lien entre les habitants et le territoire genassien.",
+    "contexte": "Après un diagnostic complet (réunion de travail, rencontres et entretiens avec les personnes ressources, état des lieux des thématiques, des collections, recherches de contenus, étude paysagère, écoute des publics...), la municipalité a décidé de créer plusieurs sentiers-promenades, destinés à proposer aux habitants et aux visiteurs de Genas des déambulations thématiques pour découvrir ou re-découvrir la commune.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La création des parcours thématiques s'est accompagnée d'une collecte de témoignages des aînés, car l'objectif était de définir des thématiques en rapport avec les spécificités patrimoniales de Genas. Ainsi, quatre parcours ont été élaborés: Art mural, Art minéral, Art sacré, et Art végétal.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La municipalité de Genas",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Balades_patrimoniales_Les_Genadines.txt",
+  "nom_fichier": "Balades_patrimoniales_Les_Genadines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1087-pe-balades-patrimoniales-les-genadines-1.pdf",
+  "original_title": "Balades patrimoniales : Les Genadines",
+  "collection_date": ""
 }

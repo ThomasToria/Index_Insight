@@ -1,41 +1,52 @@
 {
-    "titre": "Tout l'UTL randonne",
-    "territoire": "communale, départementale, régionale, nationale, internationale",
-    "echelle": [
-        "quartier",
-        "communale",
-        "intercommunale",
-        "départementale",
-        "régionale",
-        "nationale",
-        "internationale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un projet de randonnées thématiques organisé par l'Université du Temps Libre du Pays de Rennes (UTL Rennes) pour les habitants de Rennes et alentours.",
-        "contexte": "La Ville Amie des Aînés depuis 2012",
-        "problematique": "Créer un rassemblement convivial, faciliter les rencontres entre participants, créer du lien social, découvrir des points d'intérêt culturel dans Rennes, pratiquer une activité physique (la marche), et monter l'équipe du projet.",
-        "solution_envisagee": "Organiser des randonnées thématiques en lien avec un thème spécifique développé par un conférencier ou spécialiste: histoire, eau, botanique...",
-        "objectifs": [
-            "Créer un rassemblement convivial",
-            "Faciliter les rencontres entre participants (adhérents et non-adhérents de l’UTL)",
-            "Creer du lien social",
-            "Dcouvrir des points d'intérêt culturel dans Rennes",
-            "Pratiquer une activité physique (la marche)",
-            "Monter l'équipe du projet"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tout_lUTL_randonne.txt",
-    "nom_fichier": "Tout_lUTL_randonne.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Tout l'UTL randonne",
+  "territoire": [
+    "communale, départementale, régionale, nationale, internationale"
+  ],
+  "echelle": [
+    "quartier",
+    "communale",
+    "intercommunale",
+    "départementale",
+    "régionale",
+    "nationale",
+    "internationale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un projet de randonnées thématiques organisé par l'Université du Temps Libre du Pays de Rennes (UTL Rennes) pour les habitants de Rennes et alentours.",
+    "contexte": "La Ville Amie des Aînés depuis 2012",
+    "problematique": "Créer un rassemblement convivial, faciliter les rencontres entre participants, créer du lien social, découvrir des points d'intérêt culturel dans Rennes, pratiquer une activité physique (la marche), et monter l'équipe du projet.",
+    "solution_envisagee": "Organiser des randonnées thématiques en lien avec un thème spécifique développé par un conférencier ou spécialiste: histoire, eau, botanique...",
+    "objectifs": [
+      "Créer un rassemblement convivial",
+      "Faciliter les rencontres entre participants (adhérents et non-adhérents de l’UTL)",
+      "Creer du lien social",
+      "Dcouvrir des points d'intérêt culturel dans Rennes",
+      "Pratiquer une activité physique (la marche)",
+      "Monter l'équipe du projet"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tout_lUTL_randonne.txt",
+  "nom_fichier": "Tout_lUTL_randonne.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/513-pe-tout-l-utl-randonne.pdf",
+  "original_title": "Tout l'UTL randonne",
+  "collection_date": ""
 }

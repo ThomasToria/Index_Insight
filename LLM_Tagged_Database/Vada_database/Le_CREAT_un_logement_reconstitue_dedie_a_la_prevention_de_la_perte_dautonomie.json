@@ -1,32 +1,44 @@
 {
-    "titre": "Le CREAT: un logement reconstitué dédié à la prévention de la perte d'autonomie",
-    "territoire": "Nantes Métropole (44)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce site est un équipement unique en Loire-Atlantique. Les professionnels du CreAT sont à la disposition des visiteurs pour leur donner des conseils personnalisés selon la problématique.",
-        "contexte": "Le CreAT, situé 10 rue de Bruxelles à Nantes, propose une expérience d'accompagnement et de découverte des aides techniques destinées à faciliter la vie quotidienne des personnes âgées. Ce logement reconstitué a été conçu dans le cadre du Grand Débat Longévité (janvier à mai 2019) pour répondre aux attentes des citoyens et professionnels.",
-        "problematique": "La problématique est de proposer un accompagnement personnalisé et gratuit sous forme de RDV individuels ou d'ateliers, en particulier pour les aidants (familiaux ou professionnels) qui cherchent des informations nécessaires au bien-être de leurs proches et aidés.",
-        "solution_envisagee": "Un logement reconstitué: des solutions pour mieux vieillir chez soi!",
-        "objectifs": [
-            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CreAT",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.txt",
-    "nom_fichier": "Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le CREAT: un logement reconstitué dédié à la prévention de la perte d'autonomie",
+  "territoire": [
+    "nantes métropole (44)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce site est un équipement unique en Loire-Atlantique. Les professionnels du CreAT sont à la disposition des visiteurs pour leur donner des conseils personnalisés selon la problématique.",
+    "contexte": "Le CreAT, situé 10 rue de Bruxelles à Nantes, propose une expérience d'accompagnement et de découverte des aides techniques destinées à faciliter la vie quotidienne des personnes âgées. Ce logement reconstitué a été conçu dans le cadre du Grand Débat Longévité (janvier à mai 2019) pour répondre aux attentes des citoyens et professionnels.",
+    "problematique": "La problématique est de proposer un accompagnement personnalisé et gratuit sous forme de RDV individuels ou d'ateliers, en particulier pour les aidants (familiaux ou professionnels) qui cherchent des informations nécessaires au bien-être de leurs proches et aidés.",
+    "solution_envisagee": "Un logement reconstitué: des solutions pour mieux vieillir chez soi!",
+    "objectifs": [
+      "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CreAT",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.txt",
+  "nom_fichier": "Le_CREAT_un_logement_reconstitue_dedie_a_la_prevention_de_la_perte_dautonomie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/731-pe-599-le-creat-nantes-metropole-1.pdf",
+  "original_title": "Le CREAT : un logement reconstitué dédié à la prévention de la perte d’autonomie",
+  "collection_date": ""
 }

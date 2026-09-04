@@ -1,36 +1,44 @@
 {
-    "titre": "Viens, je t'emmène!",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "communale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Un programme d'événements intergénérationnels organisé par la ville de Saint-Quentin, visant à renforcer le lien social et l'isolement des aînés.",
-        "contexte": "La ville de Saint-Quentin a développé un programme spécifique pour répondre aux attentes et souhaits des résidents âgés pendant la période de crise sanitaire. Le but est d'améliorer le bien-être des personnes âgées en proposant diverses activités.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile pour lutter contre l'isolement des aînés.",
-        "solution_envisagee": "Organiser un événement intergénérationnel qui permet de proposer diverses activités à Saint-Quentin et sur le département.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Lutter contre l'isolement des aînés",
-            "Faire découvrir de nouvelles activités et thématiques"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2017",
-    "date": [
-        "depuis 2014"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene.txt",
-    "nom_fichier": "Viens_je_temmene.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Viens, je t'emmène!",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Un programme d'événements intergénérationnels organisé par la ville de Saint-Quentin, visant à renforcer le lien social et l'isolement des aînés.",
+    "contexte": "La ville de Saint-Quentin a développé un programme spécifique pour répondre aux attentes et souhaits des résidents âgés pendant la période de crise sanitaire. Le but est d'améliorer le bien-être des personnes âgées en proposant diverses activités.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile pour lutter contre l'isolement des aînés.",
+    "solution_envisagee": "Organiser un événement intergénérationnel qui permet de proposer diverses activités à Saint-Quentin et sur le département.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Lutter contre l'isolement des aînés",
+      "Faire découvrir de nouvelles activités et thématiques"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2017",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene.txt",
+  "nom_fichier": "Viens_je_temmene.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/957-concours-2023-viens-je-t-emmene-1.pdf",
+  "original_title": "Viens, je t'emmène !",
+  "collection_date": ""
 }

@@ -1,34 +1,46 @@
 {
-    "titre": "Le village des mobilités",
-    "territoire": "Commune de Nancy, Vaudreuil et autres communes voisines",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Promouvoir les parcours piétons, sensibiliser aux mobilités douces et valoriser l'isolation sociale.",
-        "contexte": "La Ville de Nancy a organisé un centre-ville réservé aux piétons et à la mobilité douce le 19 et 20 septembre 2020. Le but était de découvrir la ville autrement, en faisant une pause dans les journées Européennes du Patrimoine, déballage des commerçants, village des mobilités, puces gourmandes, jardin éphémère et week-end de clôture de la manifestation de rayonnement national « Le Livre sur la Place ».",
-        "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser un village des mobilités avec une promotion des parcours piétons créés par et pour les seniors, sensibilisation aux mobilités douces et installation d'un point de rencontre physique pour promouvoir ces parcours.",
-        "objectifs": [
-            "Réunir les citoyens sur la nature de la manifestation, son organisation et la communication",
-            "Organiser une animation avec des partenaires"
-        ]
-    },
-    "porteur_initiative": "La Ville de Nancy",
-    "date": [
-        "2020-09-19",
-        "2020-09-20"
-    ],
-    "thematique": [
-        "mobilité et transport",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_village_des_mobilites.txt",
-    "nom_fichier": "Le_village_des_mobilites.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le village des mobilités",
+  "territoire": [
+    "nancy, vaudreuil et autres communes voisines"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Promouvoir les parcours piétons, sensibiliser aux mobilités douces et valoriser l'isolation sociale.",
+    "contexte": "La Ville de Nancy a organisé un centre-ville réservé aux piétons et à la mobilité douce le 19 et 20 septembre 2020. Le but était de découvrir la ville autrement, en faisant une pause dans les journées Européennes du Patrimoine, déballage des commerçants, village des mobilités, puces gourmandes, jardin éphémère et week-end de clôture de la manifestation de rayonnement national « Le Livre sur la Place ».",
+    "problematique": "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser un village des mobilités avec une promotion des parcours piétons créés par et pour les seniors, sensibilisation aux mobilités douces et installation d'un point de rencontre physique pour promouvoir ces parcours.",
+    "objectifs": [
+      "Réunir les citoyens sur la nature de la manifestation, son organisation et la communication",
+      "Organiser une animation avec des partenaires"
+    ]
+  },
+  "porteur_initiative": "La Ville de Nancy",
+  "date": [
+    "2020-09-19",
+    "2020-09-20"
+  ],
+  "thematique": [
+    "mobilité et transport",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_village_des_mobilites.txt",
+  "nom_fichier": "Le_village_des_mobilites.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "mobilité et accessibilité",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/668-pe-536-village-des-mobilites-nancy.pdf",
+  "original_title": "Le village des mobilités",
+  "collection_date": ""
 }

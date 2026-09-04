@@ -1,33 +1,43 @@
 {
-    "titre": "Atelier bien-être à Lormont",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Le service d'aide à domicile du CCAS de Lormont a organisé un atelier bien-être pour les seniors lors de la Semaine Bleue 2023.",
-        "contexte": "La ville de Lormont, située dans le département de l'Ille-et-Vilaine, a participé au concours des Ville Amies des Aînés en France avec ce projet d'ateliers bien-être.",
-        "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser un atelier bien-être pour seniors lors de la Semaine Bleue 2023, proposant des activités telles que le maquillage, la pose de vernis, le coiffage et le massage des mains.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD",
-            "Favoriser l'estime de soi chez les seniors",
-            "Créer un environnement convivial pour la participation à l'atelier bien-être"
-        ]
-    },
-    "porteur_initiative": "CCAS de Lormont",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bien-etre_a_Lormont.txt",
-    "nom_fichier": "Atelier_bien-etre_a_Lormont.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier bien-être à Lormont",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Le service d'aide à domicile du CCAS de Lormont a organisé un atelier bien-être pour les seniors lors de la Semaine Bleue 2023.",
+    "contexte": "La ville de Lormont, située dans le département de l'Ille-et-Vilaine, a participé au concours des Ville Amies des Aînés en France avec ce projet d'ateliers bien-être.",
+    "problematique": "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser un atelier bien-être pour seniors lors de la Semaine Bleue 2023, proposant des activités telles que le maquillage, la pose de vernis, le coiffage et le massage des mains.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD",
+      "Favoriser l'estime de soi chez les seniors",
+      "Créer un environnement convivial pour la participation à l'atelier bien-être"
+    ]
+  },
+  "porteur_initiative": "CCAS de Lormont",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bien-etre_a_Lormont.txt",
+  "nom_fichier": "Atelier_bien-etre_a_Lormont.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1015-concours-2023-atelier-bien-etre-a-lormont.pdf",
+  "original_title": "Atelier bien-être à Lormont",
+  "collection_date": ""
 }

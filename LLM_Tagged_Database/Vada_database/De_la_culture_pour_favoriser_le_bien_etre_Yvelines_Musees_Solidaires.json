@@ -1,34 +1,45 @@
 {
-    "titre": "De la culture pour favoriser le bien-être! Yvelines Musees Solidaires",
-    "territoire": "Yvelines (78)",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Le Département accompagne les musées pour qu'ils participent à l'offre inclusive du territoire.",
-        "contexte": "Les musées yvelinois ont exprimé le besoin d'être épaulés sur leur accessibilité, conscient de la difficulté pour accueillir les publics âgés et handicapés.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents des établissements culturels, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Donner aux établissements culturels compétences et outils pour développer une politique d'accessibilité universelle structurée sur le long terme.",
-        "objectifs": [
-            "Développer des politiques d'accessibilité universelle structurées sur le long terme",
-            "Renforcer les liens entre les résidents, leurs proches et la société civile"
-        ]
-    },
-    "porteur_initiative": "Direction Culture de Yvelines",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_la_culture_pour_favoriser_le_bien_etre_Yvelines_Musees_Solidaires.txt",
-    "nom_fichier": "De_la_culture_pour_favoriser_le_bien_etre_Yvelines_Musees_Solidaires.txt",
-    "statut_action": "projet réalisé"
+  "titre": "De la culture pour favoriser le bien-être! Yvelines Musees Solidaires",
+  "territoire": [
+    "yvelines (78)"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Le Département accompagne les musées pour qu'ils participent à l'offre inclusive du territoire.",
+    "contexte": "Les musées yvelinois ont exprimé le besoin d'être épaulés sur leur accessibilité, conscient de la difficulté pour accueillir les publics âgés et handicapés.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents des établissements culturels, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Donner aux établissements culturels compétences et outils pour développer une politique d'accessibilité universelle structurée sur le long terme.",
+    "objectifs": [
+      "Développer des politiques d'accessibilité universelle structurées sur le long terme",
+      "Renforcer les liens entre les résidents, leurs proches et la société civile"
+    ]
+  },
+  "porteur_initiative": "Direction Culture de Yvelines",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\De_la_culture_pour_favoriser_le_bien_etre_Yvelines_Musees_Solidaires.txt",
+  "nom_fichier": "De_la_culture_pour_favoriser_le_bien_etre_Yvelines_Musees_Solidaires.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-De-la-culture-pour-favoriser-le-bien-etre-Yvelines-Musees-Solidaires.pdf",
+  "original_title": "De la culture pour favoriser le bien être ! Yvelines Musees Solidaires",
+  "collection_date": ""
 }

@@ -1,0 +1,138 @@
+% ============================================================================
+% ETHICAL, LEGAL, AND ENVIRONMENTAL CONSIDERATIONS
+% ============================================================================
+% Replace the existing section of the same name in the Discussion chapter with
+% this block. It assumes that the bibliography contains the three entries given
+% after the block.
+% ============================================================================
+
+\section{Ethical, legal, and environmental considerations}
+
+The Index\_Insight pipeline processes French-language documents collected from
+institutional, associative, and territorial sources, together with action sheets
+provided by the SIAGE Chair. Its intended purpose is documentary exploration and
+research support, rather than the profiling, ranking, or evaluation of persons
+or organisations. Nevertheless, the construction of a searchable corpus and the
+use of a language model raise data-governance, epistemic, and environmental
+questions that must be considered throughout the pipeline.
+
+\subsection{Data governance and reuse of documentary sources}
+
+Most collected materials are publicly accessible documents describing projects,
+public actions, or organisations. Public accessibility does not, however, remove
+all legal and ethical obligations. A document may contain the name or contact
+details of an individual, a testimony, or information that becomes identifying
+when combined with other data. Under the GDPR, a personal datum is any
+information relating to an identified or identifiable natural person; data
+published online can therefore still be personal data \cite{cnil2024reuse}.
+
+The project consequently follows a principle of data minimisation. It collects
+documents because they describe initiatives relevant to territorial ageing, not
+to construct personal profiles. The structured database retains the documentary
+metadata needed for exploration---for example, source, territory, theme,
+initiative holder, and date---but does not intentionally infer sensitive
+attributes about individuals. Provenance is retained so that a user can return
+to the original source, verify an extracted value, and request a correction or
+removal where appropriate. Future public releases should also verify the terms
+of reuse and copyright conditions for each source, respect website access
+conditions, and avoid redistributing full texts when this is not permitted.
+
+\subsection{Human oversight and responsible interpretation}
+
+The model-generated records should be understood as navigational metadata, not
+as authoritative factual statements. A language model may omit a value,
+normalise an ambiguous expression too strongly, or produce an unsupported
+interpretation. This risk is particularly important for fields such as the
+initiative holder and date, for which source documents may not clearly separate
+an organiser from a partner or a publication date from an initiative date.
+
+Several design choices mitigate this risk. The extraction prompt instructs the
+model not to invent information and to return an empty value when evidence is
+insufficient. The original text, source identifier, prompt configuration, and,
+where available, raw model response are retained to support auditability. The
+human reference evaluation reported in Chapter~6 further distinguishes correct,
+partial, incorrect, correctly absent, and non-evaluable cases. In any future
+interface, uncertain metadata should remain linked to its source and should not
+be presented as a verified claim without an appropriate review process.
+
+The corpus itself also conditions what can be concluded from it. It is
+French-language, source-selected, and strongly represented by VADA records.
+Consequently, frequency analyses reflect both territorial initiatives and the
+editorial choices of the sources. The controlled labels used for target audience
+and territorial scale facilitate consistent indexing, but they simplify diverse
+social situations. They must not be treated as exhaustive descriptions of
+people's identities, needs, or experiences. The system should support expert
+interpretation and exploratory access; it should not be used to make automated
+decisions about funding, eligibility, priority, or the quality of an initiative.
+
+\subsection{Local processing and environmental sobriety}
+
+The project uses a local \texttt{qwen2.5:1.5b} model through Ollama for the
+LLM-assisted extraction stage. Local processing limits the transfer of source
+texts to an external commercial API and gives the project team control over the
+inference environment. It does not, by itself, demonstrate a lower environmental
+impact: this depends on the hardware, electricity mix, number of runs, and model
+configuration. The project did not measure electricity consumption or carbon
+emissions, so no quantitative footprint is claimed here.
+
+Nevertheless, the implementation adopts several proportionate measures. It uses
+a relatively small model, performs extraction on a defined corpus rather than
+training a new model, uses deterministic decoding (temperature 0), caps generated
+output at 700 tokens, and archives usable outputs to avoid unnecessary repeated
+inference. Input texts are capped at 2,500 characters to bound computational
+cost, although this introduces a documented recall risk when relevant information
+appears late in a document. These choices are motivated by reproducibility and
+operational constraints as well as by computational sobriety. They do not remove
+the environmental cost of inference or of maintaining data infrastructure.
+
+Environmental impact is a relevant NLP research concern because computational
+choices entail energy and material costs \cite{strubell2019energy}. In line with
+broader AI-ethics guidance, future versions should record the model version,
+hardware, number of processed documents, number of inference runs, and, when
+feasible, energy-use measurements \cite{unesco2021recommendation}. Such records
+would make it possible to compare extraction quality with operational and
+environmental cost rather than treating accuracy as the only optimisation target.
+
+\subsection{Scope and future safeguards}
+
+The current safeguards are appropriate to a research prototype, but they do not
+replace governance for a public service. Before deployment beyond the internship,
+the project should define a source-by-source reuse register, a correction and
+removal procedure, retention rules for raw data and model outputs, and clear
+responsibilities for validating public-facing metadata. A small second human
+annotation would also help assess whether the reference labels are reproducible.
+Together, these measures would preserve the main value of Index\_Insight---making
+dispersed knowledge easier to find---while avoiding the presentation of automated
+extraction as neutral, exhaustive, or error-free.
+
+% ---------------------------------------------------------------------------
+% BibTeX entries to add to your .bib file:
+%
+%@misc{cnil2024reuse,
+%  author       = {{Commission nationale de l'informatique et des libert\'es}},
+%  title        = {R\'eutilisation de vos donn\'ees publi\'ees sur Internet \`a
+%                  des fins commerciales : quels sont vos droits ?},
+%  year         = {2024},
+%  month        = jun,
+%  url          = {https://www.cnil.fr/fr/reutilisation-de-vos-donnees-publiees-sur-internet-des-fins-commerciales-quels-sont-vos-droits},
+%  urldate      = {2026-08-12}
+%}
+%
+%@inproceedings{strubell2019energy,
+%  author       = {Strubell, Emma and Ganesh, Ananya and McCallum, Andrew},
+%  title        = {Energy and Policy Considerations for Deep Learning in {NLP}},
+%  booktitle    = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+%  pages        = {3645--3650},
+%  year         = {2019},
+%  doi          = {10.18653/v1/P19-1355}
+%}
+%
+%@misc{unesco2021recommendation,
+%  author       = {{UNESCO}},
+%  title        = {Recommendation on the Ethics of Artificial Intelligence},
+%  year         = {2021},
+%  month        = nov,
+%  url          = {https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence},
+%  urldate      = {2026-08-12}
+%}
+% ---------------------------------------------------------------------------

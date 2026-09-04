@@ -1,34 +1,44 @@
 {
-    "titre": "Recherche sur les conditions de Transférabilité des Innovations dans l’Accompagnement des Personnes handicapées afin d’élaborer une démarche d’aide au transfert (TIAP)",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Recherche sur les conditions de Transférabilité des Innovations dans l’Accompagnement des Personnes handicapées afin d’élaborer une démarche d’aide au transfert (TIAP)",
-        "contexte": "",
-        "problematique": "Contexte: Dans le champ du handicap, un changement de paradigme s’est opéré ces dernières années, porté par une émergence des innovations et technologies qui permettent l’accompagnement personnalisé et la transversalité entre les acteurs intervenant dans le domaine du handicap. Cependant, malgré cette évolution, il existe encore des obstacles à la diffusion de ces innovations, notamment concernant la capacité d'adaptation des personnes handicapées aux nouvelles pratiques et technologies.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les conditions nécessaires pour une meilleure transversalité entre les acteurs intervenants dans le domaine du handicap",
-            "Analyser les obstacles à la diffusion de l'innovation dans ce contexte",
-            "Proposer des mesures d'aide au transfert (TIAP) qui permettraient de faciliter la transmission et l'utilisation efficace des innovations par les personnes handicapées"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\112_2021_recherche_sur_les_conditions_de_transferabilite_des_innovations_dans_l_accompagnement_des_personnes_handicapees_afin_d_e.txt",
-    "nom_fichier": "112_2021_recherche_sur_les_conditions_de_transferabilite_des_innovations_dans_l_accompagnement_des_personnes_handicapees_afin_d_e.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Recherche sur les conditions de Transférabilité des Innovations dans l’Accompagnement des Personnes handicapées afin d’élaborer une démarche d’aide au transfert (TIAP)",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Recherche sur les conditions de Transférabilité des Innovations dans l’Accompagnement des Personnes handicapées afin d’élaborer une démarche d’aide au transfert (TIAP)",
+    "contexte": "",
+    "problematique": "Contexte: Dans le champ du handicap, un changement de paradigme s’est opéré ces dernières années, porté par une émergence des innovations et technologies qui permettent l’accompagnement personnalisé et la transversalité entre les acteurs intervenant dans le domaine du handicap. Cependant, malgré cette évolution, il existe encore des obstacles à la diffusion de ces innovations, notamment concernant la capacité d'adaptation des personnes handicapées aux nouvelles pratiques et technologies.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les conditions nécessaires pour une meilleure transversalité entre les acteurs intervenants dans le domaine du handicap",
+      "Analyser les obstacles à la diffusion de l'innovation dans ce contexte",
+      "Proposer des mesures d'aide au transfert (TIAP) qui permettraient de faciliter la transmission et l'utilisation efficace des innovations par les personnes handicapées"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\112_2021_recherche_sur_les_conditions_de_transferabilite_des_innovations_dans_l_accompagnement_des_personnes_handicapees_afin_d_e.txt",
+  "nom_fichier": "112_2021_recherche_sur_les_conditions_de_transferabilite_des_innovations_dans_l_accompagnement_des_personnes_handicapees_afin_d_e.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/recherche-sur-les-conditions-de-transferabilite-des-innovations-dans-laccompagnement-des-personnes-handicapees-afin-delaborer-une-demarche-daide-au-transfert-tiap/",
+  "original_title": "Recherche sur les conditions de Transférabilité des Innovations dans l’Accompagnement des Personnes handicapées afin d’élaborer une démarche d’aide au transfert (TIAP)",
+  "collection_date": ""
 }

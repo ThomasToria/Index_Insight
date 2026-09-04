@@ -1,32 +1,44 @@
 {
-    "titre": "Zoom seniors en action",
-    "territoire": "Commune: Mérignac",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "Suite aux attentes exprimées par les personnes âgée s, notamment sur le souhait d’une meilleure lisibilité des activités et services proposés à Mérignac, ains i qu’aux attentes des acteurs bénévoles seniors souha i- tant promouvoir leurs actions, le CCAS de la Ville de Mérignac s’ est lancé dans la réalisation de 10 vidéos de 2 minutes chacune présentant l’ ensemble des initiatives citoyennes.",
-        "contexte": "Les personnes âgées expriment leur désir d'une meilleure lisibilité des activités et services proposés à Mérignac, tandis que les acteurs bénévoles seniors souhaitent promouvoir leurs actions. Le CCAS de la Ville de Mérignac a initié une action pour renforcer l'engagement citoyen.",
-        "problematique": "Renforcement des liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Promouvoir les initiatives citoyennes autour des seniors pour renforcer les liens sociaux et valoriser leur contribution à la communauté.",
-        "objectifs": [
-            "Renforcer l'engagement citoyen",
-            "Valoriser la mémoire et la place des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de la Ville de Mérignac",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Zoom_seniors_en_action.txt",
-    "nom_fichier": "Zoom_seniors_en_action.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Zoom seniors en action",
+  "territoire": [
+    "mérignac"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "Suite aux attentes exprimées par les personnes âgée s, notamment sur le souhait d’une meilleure lisibilité des activités et services proposés à Mérignac, ains i qu’aux attentes des acteurs bénévoles seniors souha i- tant promouvoir leurs actions, le CCAS de la Ville de Mérignac s’ est lancé dans la réalisation de 10 vidéos de 2 minutes chacune présentant l’ ensemble des initiatives citoyennes.",
+    "contexte": "Les personnes âgées expriment leur désir d'une meilleure lisibilité des activités et services proposés à Mérignac, tandis que les acteurs bénévoles seniors souhaitent promouvoir leurs actions. Le CCAS de la Ville de Mérignac a initié une action pour renforcer l'engagement citoyen.",
+    "problematique": "Renforcement des liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Promouvoir les initiatives citoyennes autour des seniors pour renforcer les liens sociaux et valoriser leur contribution à la communauté.",
+    "objectifs": [
+      "Renforcer l'engagement citoyen",
+      "Valoriser la mémoire et la place des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de la Ville de Mérignac",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Zoom_seniors_en_action.txt",
+  "nom_fichier": "Zoom_seniors_en_action.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/573-573-merignac-zoom-seniors-en-action.pdf",
+  "original_title": "Zoom seniors en action",
+  "collection_date": ""
 }

@@ -1,33 +1,45 @@
 {
-    "titre": "Remise en mouvement",
-    "territoire": "Commune: Châtillon (92)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Châtillon, Ville Amie des Aînés depuis 2022, a mis en place un projet de remise en mouvement pour les seniors. Ce projet permet d'encourager la pratique régulière d'une activité physique et de maintenir l'autonomie et la mobilité des personnes âgées.",
-        "contexte": "Le vieillissement démographique accélère, avec une rupture de soins et de pratiques sportives chez les seniors. De plus, de nombreux seniors souhaitent avoir des séances avec des kinésithérapeutes, mais les créneaux sont souvent complétés.",
-        "problematique": "Renforcer l'autonomie et la mobilité des personnes âgées à travers des exercices; Apporter des conseils personnalisés pour soulager les douleurs dorso-lombaires de l'épaule; Encourager à la pratique d'une activité physique régulière.",
-        "solution_envisagee": "Châtillon, Ville Amie des Aînés depuis 2022",
-        "objectifs": [
-            "Préserver l'autonomie et la mobilité des personnes âgées",
-            "Apporter des conseils personnalisés pour soulager les douleurs dorso-lombaires de l'épaule",
-            "Encourager à la pratique d'une activité physique régulière"
-        ]
-    },
-    "porteur_initiative": "Châtillon (92)",
-    "date": [
-        "septembre 2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Remise_en_mouvement.txt",
-    "nom_fichier": "Remise_en_mouvement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Remise en mouvement",
+  "territoire": [
+    "châtillon (92)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Châtillon, Ville Amie des Aînés depuis 2022, a mis en place un projet de remise en mouvement pour les seniors. Ce projet permet d'encourager la pratique régulière d'une activité physique et de maintenir l'autonomie et la mobilité des personnes âgées.",
+    "contexte": "Le vieillissement démographique accélère, avec une rupture de soins et de pratiques sportives chez les seniors. De plus, de nombreux seniors souhaitent avoir des séances avec des kinésithérapeutes, mais les créneaux sont souvent complétés.",
+    "problematique": "Renforcer l'autonomie et la mobilité des personnes âgées à travers des exercices; Apporter des conseils personnalisés pour soulager les douleurs dorso-lombaires de l'épaule; Encourager à la pratique d'une activité physique régulière.",
+    "solution_envisagee": "Châtillon, Ville Amie des Aînés depuis 2022",
+    "objectifs": [
+      "Préserver l'autonomie et la mobilité des personnes âgées",
+      "Apporter des conseils personnalisés pour soulager les douleurs dorso-lombaires de l'épaule",
+      "Encourager à la pratique d'une activité physique régulière"
+    ]
+  },
+  "porteur_initiative": "Châtillon (92)",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Remise_en_mouvement.txt",
+  "nom_fichier": "Remise_en_mouvement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1055-concours-2024-remise-en-mouvement.pdf",
+  "original_title": "Remise en mouvement",
+  "collection_date": ""
 }

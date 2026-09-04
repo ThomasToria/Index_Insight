@@ -1,35 +1,47 @@
 {
-    "titre": "Atouts seniors",
-    "territoire": "Commune: Mérignac (33)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "L'initiative vise à identifier les activités seniors méconnues sur le territoire de Mérignac, afin d'améliorer la visibilité et l’engagement des seniors.",
-        "contexte": "Le diagnostic local a révélé que malgré une variété d’activités disponibles pour les seniors, elles sont souvent ignorées. Les seniors ont exprimé le besoin de trouver un outil simple et attrayant qui puisse aider à la promotion de ces activités.",
-        "problematique": "L'isolement des personnes âgées dans Mérignac a été identifié comme un problème, avec une faible participation aux activités seniors. Les seniors souhaitent une meilleure visibilité et engagement pour leurs activités.",
-        "solution_envisagee": "Le projet de création d'un Carnet d’Activités Seniors et Intergénérationnelles vise à améliorer la promotion des activités seniors sur le territoire, en favorisant leur participation et visibilité.",
-        "objectifs": [
-            "Lutter contre l'isolement",
-            "Favoriser la vie sociale des seniors grâce à une offre d’activités diversifiée",
-            "Promouvoir les activités intergénérationnelles",
-            "Lutter contre l'âgisme",
-            "Favoriser la visibilité et la promotion des activités seniors et intergénérationnelles du territoire"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés de Mérignac depuis 2012",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atouts_seniors.txt",
-    "nom_fichier": "Atouts_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atouts seniors",
+  "territoire": [
+    "mérignac (33)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "L'initiative vise à identifier les activités seniors méconnues sur le territoire de Mérignac, afin d'améliorer la visibilité et l’engagement des seniors.",
+    "contexte": "Le diagnostic local a révélé que malgré une variété d’activités disponibles pour les seniors, elles sont souvent ignorées. Les seniors ont exprimé le besoin de trouver un outil simple et attrayant qui puisse aider à la promotion de ces activités.",
+    "problematique": "L'isolement des personnes âgées dans Mérignac a été identifié comme un problème, avec une faible participation aux activités seniors. Les seniors souhaitent une meilleure visibilité et engagement pour leurs activités.",
+    "solution_envisagee": "Le projet de création d'un Carnet d’Activités Seniors et Intergénérationnelles vise à améliorer la promotion des activités seniors sur le territoire, en favorisant leur participation et visibilité.",
+    "objectifs": [
+      "Lutter contre l'isolement",
+      "Favoriser la vie sociale des seniors grâce à une offre d’activités diversifiée",
+      "Promouvoir les activités intergénérationnelles",
+      "Lutter contre l'âgisme",
+      "Favoriser la visibilité et la promotion des activités seniors et intergénérationnelles du territoire"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés de Mérignac depuis 2012",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atouts_seniors.txt",
+  "nom_fichier": "Atouts_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/518-518-atouts-seniors.pdf",
+  "original_title": "Atouts seniors",
+  "collection_date": ""
 }

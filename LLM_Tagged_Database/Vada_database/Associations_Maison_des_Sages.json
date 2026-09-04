@@ -1,35 +1,47 @@
 {
-    "titre": "UN HABITAT ALTERNATIF",
-    "territoire": "Commune: Buc, Loges-en-Josas (Yvelines)",
-    "echelle": [
-        "communale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Les Maisons des Sages sont deux habitats Accompagnés Partagés et Insérés dans la cité (API) à Buc et aux Loges-en-Josas (Yvelines) qui accueillent huit personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer un logement alternatif entre le logement classique et l'EHPAD pour des personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
-        "objectifs": [
-            "Offrir un choix alternatif à l’entrée en institution pour des personnes âgées présentant un handicap cognitif",
-            "Permettre une mise en commun de la location d'une grande maison, des dépenses de la vie quotidienne et d'un accompagnement par des auxiliaires.",
-            "Lutter contre l'isolement et le sentiment de solitude."
-        ]
-    },
-    "porteur_initiative": "Conseil départemental des Yvelines (78)",
-    "date": [
-        "2019",
-        "2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Associations_Maison_des_Sages.txt",
-    "nom_fichier": "Associations_Maison_des_Sages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "UN HABITAT ALTERNATIF",
+  "territoire": [
+    "buc, loges-en-josas (yvelines)"
+  ],
+  "echelle": [
+    "communale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Les Maisons des Sages sont deux habitats Accompagnés Partagés et Insérés dans la cité (API) à Buc et aux Loges-en-Josas (Yvelines) qui accueillent huit personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer un logement alternatif entre le logement classique et l'EHPAD pour des personnes âgées atteintes par la maladie d'Alzheimer ou une maladie apparentée, ne pouvant plus rester dans leur domicile ordinaire.",
+    "objectifs": [
+      "Offrir un choix alternatif à l’entrée en institution pour des personnes âgées présentant un handicap cognitif",
+      "Permettre une mise en commun de la location d'une grande maison, des dépenses de la vie quotidienne et d'un accompagnement par des auxiliaires.",
+      "Lutter contre l'isolement et le sentiment de solitude."
+    ]
+  },
+  "porteur_initiative": "Conseil départemental des Yvelines (78)",
+  "date": [
+    "2019",
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Associations_Maison_des_Sages.txt",
+  "nom_fichier": "Associations_Maison_des_Sages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/721-pe-589-190422associations-maison-des-sages-dep-yvelines.pdf",
+  "original_title": "Associations Maison des Sages",
+  "collection_date": ""
 }

@@ -1,32 +1,44 @@
 {
-    "titre": "Conciergerie",
-    "territoire": "Commune de l'Amiénois",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "La conciergerie sociale et solidaire d'Amiens a été créée dans le cadre du Plan pour le Pouvoir d’Achat des A miénois. Elle offre 64 services dans 10 domaines d’activité, y compris mobilité, accès aux droits, alimentation, lien social, vestimentaire, parentalité, habitat, numérique et santé hygiène soins.",
-        "contexte": "Le projet répond à la demande de nombreux professionnels du travail social qui se trouvaient sans solution. Le choix des services a été fait avec le public sollicité sur ses besoins.",
-        "problematique": "Redonner du pouvoir d’achat aux habitants en dessous du seuil de pauvreté et dans les zones à faible revenu, notamment pour les seniors qui ont besoin de soutien social et familial.",
-        "solution_envisagee": "La conciergerie sociale et solidaire d'Amiens propose des services gratuits ou à coût modique, y compris une outilthèque pour le bricolage et la parentothèque pour le matériel de puériculture. Elle compte actuellement plus de 600 adhérents, 2 500 services rendus et près de 100 bénévoles, dont beaucoup de seniors.",
-        "objectifs": [
-            "Atteindre 300 bénévoles",
-            "Atteindre 10 000 services rendus d'ici 3 ans"
-        ]
-    },
-    "porteur_initiative": "CCAS d’Amiens",
-    "date": [
-        "depuis 2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "numérique",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conciergerie.txt",
-    "nom_fichier": "Conciergerie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Conciergerie",
+  "territoire": [
+    "l'amiénois"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "La conciergerie sociale et solidaire d'Amiens a été créée dans le cadre du Plan pour le Pouvoir d’Achat des A miénois. Elle offre 64 services dans 10 domaines d’activité, y compris mobilité, accès aux droits, alimentation, lien social, vestimentaire, parentalité, habitat, numérique et santé hygiène soins.",
+    "contexte": "Le projet répond à la demande de nombreux professionnels du travail social qui se trouvaient sans solution. Le choix des services a été fait avec le public sollicité sur ses besoins.",
+    "problematique": "Redonner du pouvoir d’achat aux habitants en dessous du seuil de pauvreté et dans les zones à faible revenu, notamment pour les seniors qui ont besoin de soutien social et familial.",
+    "solution_envisagee": "La conciergerie sociale et solidaire d'Amiens propose des services gratuits ou à coût modique, y compris une outilthèque pour le bricolage et la parentothèque pour le matériel de puériculture. Elle compte actuellement plus de 600 adhérents, 2 500 services rendus et près de 100 bénévoles, dont beaucoup de seniors.",
+    "objectifs": [
+      "Atteindre 300 bénévoles",
+      "Atteindre 10 000 services rendus d'ici 3 ans"
+    ]
+  },
+  "porteur_initiative": "CCAS d’Amiens",
+  "date": [
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "numérique",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Conciergerie.txt",
+  "nom_fichier": "Conciergerie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "numérique et accès à l'information",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Conciergerie.pdf",
+  "original_title": "Conciergerie",
+  "collection_date": ""
 }

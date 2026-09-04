@@ -1,34 +1,46 @@
 {
-    "titre": "La Chaîne de télé des résidents de l’EHPAD",
-    "territoire": "Commune: Grenoble, 38",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La chaîne de télévision des résidents de l’EHPAD Saint Bruno de Grenoble a été mise en place pour informer sur la vie de la structure, maintenir le lien social interne et externe à l’établissement, permettre l’accès à la culture, participer au maintien des capacités physiques et cognitives, et offrir un moyen de plaisir via un média connu des personnes âgées.",
-        "contexte": "La chaîne a été mise en place pendant le confinement en urgence pour répondre aux besoins d’animation limités. Elle a permis de toucher de nombreux résidents de l’établissement, notamment ceux qui étaient isolés.",
-        "problematique": "Le besoin de maintenir les liens sociaux et culturels entre les résidents des EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La chaîne de télévision interne au sein de l’EHPAD Saint Bruno de Grenoble a été créée pour informer sur la vie de la structure, maintenir le lien social interne et externe à l’établissement, permettre l’accès à la culture, participer au maintien des capacités physiques et cognitives, et offrir un moyen de plaisir via un média connu des personnes âgées.",
-        "objectifs": [
-            "Rechercher des soutiens financiers",
-            "Installer et régler les télévisions des résidents",
-            "Former l’équipe dédiée pour proposer la mise en ligne de contenus divers sur la chaîne",
-            "Embaucher une animatrice"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2016, Grenoble (38)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Chaine_de_tele_des_residents_de_lEHPAD.txt",
-    "nom_fichier": "La_Chaine_de_tele_des_residents_de_lEHPAD.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Chaîne de télé des résidents de l’EHPAD",
+  "territoire": [
+    "grenoble, 38"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La chaîne de télévision des résidents de l’EHPAD Saint Bruno de Grenoble a été mise en place pour informer sur la vie de la structure, maintenir le lien social interne et externe à l’établissement, permettre l’accès à la culture, participer au maintien des capacités physiques et cognitives, et offrir un moyen de plaisir via un média connu des personnes âgées.",
+    "contexte": "La chaîne a été mise en place pendant le confinement en urgence pour répondre aux besoins d’animation limités. Elle a permis de toucher de nombreux résidents de l’établissement, notamment ceux qui étaient isolés.",
+    "problematique": "Le besoin de maintenir les liens sociaux et culturels entre les résidents des EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La chaîne de télévision interne au sein de l’EHPAD Saint Bruno de Grenoble a été créée pour informer sur la vie de la structure, maintenir le lien social interne et externe à l’établissement, permettre l’accès à la culture, participer au maintien des capacités physiques et cognitives, et offrir un moyen de plaisir via un média connu des personnes âgées.",
+    "objectifs": [
+      "Rechercher des soutiens financiers",
+      "Installer et régler les télévisions des résidents",
+      "Former l’équipe dédiée pour proposer la mise en ligne de contenus divers sur la chaîne",
+      "Embaucher une animatrice"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2016, Grenoble (38)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_Chaine_de_tele_des_residents_de_lEHPAD.txt",
+  "nom_fichier": "La_Chaine_de_tele_des_residents_de_lEHPAD.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/639-507-grenoble-le-chaine-de-tele-1.pdf",
+  "original_title": "La Chaîne de télé des résidents de l’EHPAD",
+  "collection_date": ""
 }

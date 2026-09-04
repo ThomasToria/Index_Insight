@@ -1,34 +1,44 @@
 {
-    "titre": "Semaine du bien vieillir sur le territoire granvillais",
-    "territoire": "Granville",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "La ville de Granville souhaite organiser une semaine du bien vieillir sur son territoire, visant à sensibiliser les seniors aux actions existantes et à valoriser le lien intergénérationnel.",
-        "contexte": "Les initiatives locales autour du bien vieillir sont en progression, mais il existe encore des besoins pour renforcer la participation des seniors dans les projets locaux.",
-        "problematique": "Renforcement de la participation des seniors aux projets locaux et valorisation du lien intergénérationnel.",
-        "solution_envisagee": "Organiser une semaine d'actions autour du bien vieillir, en communiquant sur les projets existants et valorisant le lien intergénérationnel.",
-        "objectifs": [
-            "Favoriser la participation des seniors aux projets locaux",
-            "Valoriser le lien intergénérationnel"
-        ]
-    },
-    "porteur_initiative": "La municipalité de Granville",
-    "date": [
-        "janvier 2023",
-        "février 2023",
-        "mars 2023"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Semaine_du_bien_vieillir_sur_le_territoire_granvillais.txt",
-    "nom_fichier": "Semaine_du_bien_vieillir_sur_le_territoire_granvillais.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Semaine du bien vieillir sur le territoire granvillais",
+  "territoire": [
+    "granville"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "La ville de Granville souhaite organiser une semaine du bien vieillir sur son territoire, visant à sensibiliser les seniors aux actions existantes et à valoriser le lien intergénérationnel.",
+    "contexte": "Les initiatives locales autour du bien vieillir sont en progression, mais il existe encore des besoins pour renforcer la participation des seniors dans les projets locaux.",
+    "problematique": "Renforcement de la participation des seniors aux projets locaux et valorisation du lien intergénérationnel.",
+    "solution_envisagee": "Organiser une semaine d'actions autour du bien vieillir, en communiquant sur les projets existants et valorisant le lien intergénérationnel.",
+    "objectifs": [
+      "Favoriser la participation des seniors aux projets locaux",
+      "Valoriser le lien intergénérationnel"
+    ]
+  },
+  "porteur_initiative": "La municipalité de Granville",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Semaine_du_bien_vieillir_sur_le_territoire_granvillais.txt",
+  "nom_fichier": "Semaine_du_bien_vieillir_sur_le_territoire_granvillais.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/950-concours-2023-semaine-du-bien-vieillir-sur-le-territoire-granvillaisiche-vierge-1.pdf",
+  "original_title": "Semaine du bien vieillir sur le territoire granvillais",
+  "collection_date": ""
 }

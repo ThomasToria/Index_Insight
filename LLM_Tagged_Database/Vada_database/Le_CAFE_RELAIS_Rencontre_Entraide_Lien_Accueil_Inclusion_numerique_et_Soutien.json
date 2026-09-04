@@ -1,33 +1,45 @@
 {
-    "titre": "Le CAFE R.E.L.A.I.S. (Rencontre, Entraide, Lien, Accueil, Inclusion Numérique et Soutien)",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le CAFE R.E.L.A.I.S. est un programme mensuel d'animations destiné aux aînés, proposant des activités variées pour maintenir le lien social et améliorer la qualité de vie.",
-        "contexte": "La création du Café RELAIS répond à une problématique liée au besoin de renforcer les liens entre les résidents d'un EHPAD, leurs proches et la société civile. Les aînés ont exprimé le souhait de se sentir mieux au quotidien grâce aux techniques de relaxation.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents d’un EHPAD, leurs proches et la société civile pour améliorer leur qualité de vie.",
-        "solution_envisagee": "Proposer des animations mensuelles gratuites à l’Université de Valenciennes afin de maintenir le lien social et améliorer la qualité de vie.",
-        "objectifs": [
-            "Lutter contre l'isolement",
-            "Créer du lien social",
-            "Partager un temps convivial"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CAFE_RELAIS_Rencontre_Entraide_Lien_Accueil_Inclusion_numerique_et_Soutien.txt",
-    "nom_fichier": "Le_CAFE_RELAIS_Rencontre_Entraide_Lien_Accueil_Inclusion_numerique_et_Soutien.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le CAFE R.E.L.A.I.S. (Rencontre, Entraide, Lien, Accueil, Inclusion Numérique et Soutien)",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le CAFE R.E.L.A.I.S. est un programme mensuel d'animations destiné aux aînés, proposant des activités variées pour maintenir le lien social et améliorer la qualité de vie.",
+    "contexte": "La création du Café RELAIS répond à une problématique liée au besoin de renforcer les liens entre les résidents d'un EHPAD, leurs proches et la société civile. Les aînés ont exprimé le souhait de se sentir mieux au quotidien grâce aux techniques de relaxation.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents d’un EHPAD, leurs proches et la société civile pour améliorer leur qualité de vie.",
+    "solution_envisagee": "Proposer des animations mensuelles gratuites à l’Université de Valenciennes afin de maintenir le lien social et améliorer la qualité de vie.",
+    "objectifs": [
+      "Lutter contre l'isolement",
+      "Créer du lien social",
+      "Partager un temps convivial"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_CAFE_RELAIS_Rencontre_Entraide_Lien_Accueil_Inclusion_numerique_et_Soutien.txt",
+  "nom_fichier": "Le_CAFE_RELAIS_Rencontre_Entraide_Lien_Accueil_Inclusion_numerique_et_Soutien.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Cafe-relais-1.pdf",
+  "original_title": "Le CAFE R.E.L.A.I.S. (Rencontre, Entraide, Lien, Accueil, Inclusion numérique et Soutien)",
+  "collection_date": ""
 }

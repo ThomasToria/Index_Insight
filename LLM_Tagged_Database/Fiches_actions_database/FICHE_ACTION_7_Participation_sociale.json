@@ -1,33 +1,44 @@
 {
-    "titre": "Participation sociale",
-    "territoire": "vallée de Thann",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Proposer des activités collectives pour personnes isolées, créant des moments d'échange et de réalisation.",
-        "contexte": "Plusieurs personnes isolées craignent l'intégration dans les centres socio-culturels.",
-        "problematique": "Peur de ne pas trouver leur place ou être considérés comme inutiles lors des activités collectives.",
-        "solution_envisagee": "Proposer des ateliers bricolage et temps de cuisine collective, suivis de repas pour permettre aux personnes isolées d'interagir avec d'autres personnes et réaliser des projets communs.",
-        "objectifs": [
-            "Échanger différentes idées",
-            "Créer des moments de partage et de réalisation de choses de leurs propres mains",
-            "Ne pas être simplement consommateur mais acteur et participer aux moments comme les repas par exemple (en participant à leur réalisation)",
-            "Permettre de rompre l'isolement"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_7_Participation_sociale.txt",
-    "nom_fichier": "FICHE_ACTION_7_Participation_sociale.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Participation sociale",
+  "territoire": [
+    "vallée de thann"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Proposer des activités collectives pour personnes isolées, créant des moments d'échange et de réalisation.",
+    "contexte": "Plusieurs personnes isolées craignent l'intégration dans les centres socio-culturels.",
+    "problematique": "Peur de ne pas trouver leur place ou être considérés comme inutiles lors des activités collectives.",
+    "solution_envisagee": "Proposer des ateliers bricolage et temps de cuisine collective, suivis de repas pour permettre aux personnes isolées d'interagir avec d'autres personnes et réaliser des projets communs.",
+    "objectifs": [
+      "Échanger différentes idées",
+      "Créer des moments de partage et de réalisation de choses de leurs propres mains",
+      "Ne pas être simplement consommateur mais acteur et participer aux moments comme les repas par exemple (en participant à leur réalisation)",
+      "Permettre de rompre l'isolement"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_7_Participation_sociale.txt",
+  "nom_fichier": "FICHE_ACTION_7_Participation_sociale.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE ACTION 7_Participation sociale.pdf",
+  "collection_date": ""
 }

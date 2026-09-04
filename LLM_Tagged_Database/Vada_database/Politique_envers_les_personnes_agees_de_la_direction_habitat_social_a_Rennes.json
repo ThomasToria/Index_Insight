@@ -1,34 +1,46 @@
 {
-    "titre": "Politique envers les personnes âgées de la direction habitat social à Rennes",
-    "territoire": "Rennes, Métropole",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La ville de Rennes et Rennes Métropole développent une politique envers les personnes âgées souhaitant effectuer une demande de logement social plus adapté à leur vieillissement.",
-        "contexte": "Les demandeurs ont la particularité d'avoir une dérogation quant au choix du quartier, permettant de rester dans un secteur qu'ils connaissent et ne perturber leurs repères géographiques.",
-        "problematique": "Davantage de personnes âgées font la demande d'un logement social en comparaison du nombre de personnes âgées avant la mise en place de ce dispositif, avec des logements peu adaptés à leurs besoins.",
-        "solution_envisagee": "Un ciblage spécifique des demandeurs vers des logements adapté aux attentes des séniors souhaitant déménager dans un lieu plus adapté.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Direction Habitat Social de la ville de Rennes",
-    "date": [
-        "2016",
-        "2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.txt",
-    "nom_fichier": "Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Politique envers les personnes âgées de la direction habitat social à Rennes",
+  "territoire": [
+    "rennes, métropole"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La ville de Rennes et Rennes Métropole développent une politique envers les personnes âgées souhaitant effectuer une demande de logement social plus adapté à leur vieillissement.",
+    "contexte": "Les demandeurs ont la particularité d'avoir une dérogation quant au choix du quartier, permettant de rester dans un secteur qu'ils connaissent et ne perturber leurs repères géographiques.",
+    "problematique": "Davantage de personnes âgées font la demande d'un logement social en comparaison du nombre de personnes âgées avant la mise en place de ce dispositif, avec des logements peu adaptés à leurs besoins.",
+    "solution_envisagee": "Un ciblage spécifique des demandeurs vers des logements adapté aux attentes des séniors souhaitant déménager dans un lieu plus adapté.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Direction Habitat Social de la ville de Rennes",
+  "date": [
+    "2016",
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.txt",
+  "nom_fichier": "Politique_envers_les_personnes_agees_de_la_direction_habitat_social_a_Rennes.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/838-concours-2022-64-politique-de-l-habitat-social-a-rennes.pdf",
+  "original_title": "Politique envers les personnes âgées de la direction habitat social à Rennes",
+  "collection_date": ""
 }

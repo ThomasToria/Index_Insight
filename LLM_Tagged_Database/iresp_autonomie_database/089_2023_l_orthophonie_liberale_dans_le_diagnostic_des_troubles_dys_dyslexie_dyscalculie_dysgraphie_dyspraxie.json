@@ -1,29 +1,39 @@
 {
-    "titre": "L’orthophonie libérale dans le diagnostic des troubles dys",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à étudier les pratiques et les perspectives de l'orthophonie libérale dans le diagnostic des troubles dys (dyslexie, dyscalculie, dysgraphie, dyspraxie). Elle souhaite comprendre comment ces thérapies peuvent être utilisées pour identifier et traiter ces problèmes.",
-        "contexte": "",
-        "problematique": "Les politiques publiques actuelles ont modifié les modalités d'accès aux soins orthophoniques, notamment via la création de plateformes de coordination et d'orientation (PCO) et l'expérimentation de l'accès direct. Cependant, les orthophonistes jouent un rôle crucial dans le diagnostic des troubles spécifiques des apprentissages.",
-        "solution_envisagee": "",
-        "objectifs": "1. Identifier les pratiques actuelles d’orthophonie libérale dans la prise de décision pour les troubles dyslexiques, dyscalculiques, dysgraphiques et dyspraxiques."
-    },
-    "porteur_initiative": "CNSA",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\089_2023_l_orthophonie_liberale_dans_le_diagnostic_des_troubles_dys_dyslexie_dyscalculie_dysgraphie_dyspraxie.txt",
-    "nom_fichier": "089_2023_l_orthophonie_liberale_dans_le_diagnostic_des_troubles_dys_dyslexie_dyscalculie_dysgraphie_dyspraxie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L’orthophonie libérale dans le diagnostic des troubles dys",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à étudier les pratiques et les perspectives de l'orthophonie libérale dans le diagnostic des troubles dys (dyslexie, dyscalculie, dysgraphie, dyspraxie). Elle souhaite comprendre comment ces thérapies peuvent être utilisées pour identifier et traiter ces problèmes.",
+    "contexte": "",
+    "problematique": "Les politiques publiques actuelles ont modifié les modalités d'accès aux soins orthophoniques, notamment via la création de plateformes de coordination et d'orientation (PCO) et l'expérimentation de l'accès direct. Cependant, les orthophonistes jouent un rôle crucial dans le diagnostic des troubles spécifiques des apprentissages.",
+    "solution_envisagee": "",
+    "objectifs": "1. Identifier les pratiques actuelles d’orthophonie libérale dans la prise de décision pour les troubles dyslexiques, dyscalculiques, dysgraphiques et dyspraxiques."
+  },
+  "porteur_initiative": "CNSA",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\089_2023_l_orthophonie_liberale_dans_le_diagnostic_des_troubles_dys_dyslexie_dyscalculie_dysgraphie_dyspraxie.txt",
+  "nom_fichier": "089_2023_l_orthophonie_liberale_dans_le_diagnostic_des_troubles_dys_dyslexie_dyscalculie_dysgraphie_dyspraxie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/lorthophonie-liberale-dans-le-diagnostic-des-troubles-dys-dyslexie-dyscalculie-dysgraphie-dyspraxie/",
+  "original_title": "L’orthophonie libérale dans le diagnostic des troubles dys (dyslexie, dyscalculie, dysgraphie, dyspraxie).",
+  "collection_date": ""
 }

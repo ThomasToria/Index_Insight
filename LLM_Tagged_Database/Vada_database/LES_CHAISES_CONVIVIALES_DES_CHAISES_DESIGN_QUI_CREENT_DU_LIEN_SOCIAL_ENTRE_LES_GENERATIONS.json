@@ -1,32 +1,44 @@
 {
-    "titre": "LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS",
-    "territoire": "Stéphane",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative innovante menée par une habitante âgée avec l’accompagnement de la Ville, qui a permis d’améliorer les liens sociaux entre générations.",
-        "contexte": "Les personnes âgées souffraient de solitude pendant la période estivale et avaient besoin de rencontres dans les espaces publics.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des chaises design ont été mis à disposition durant l’été 2013 pour créer des espaces extérieurs de rencontre dédiés aux seniors et ouverts aux habitants et enfants du quartier, conduisant à un rapport écrit et une poursuite d’études.",
-        "objectifs": [
-            "Améliorer les liens sociaux entre générations",
-            "Favoriser les rencontres dans les espaces publics pour lutter contre l’isolement des personnes âgées pendant la période estivale"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2016",
-    "date": [
-        "depuis 2013"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LES_CHAISES_CONVIVIALES_DES_CHAISES_DESIGN_QUI_CREENT_DU_LIEN_SOCIAL_ENTRE_LES_GENERATIONS.txt",
-    "nom_fichier": "LES_CHAISES_CONVIVIALES_DES_CHAISES_DESIGN_QUI_CREENT_DU_LIEN_SOCIAL_ENTRE_LES_GENERATIONS.txt",
-    "statut_action": "projet réalisé"
+  "titre": "LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS",
+  "territoire": [
+    "stéphane"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative innovante menée par une habitante âgée avec l’accompagnement de la Ville, qui a permis d’améliorer les liens sociaux entre générations.",
+    "contexte": "Les personnes âgées souffraient de solitude pendant la période estivale et avaient besoin de rencontres dans les espaces publics.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des chaises design ont été mis à disposition durant l’été 2013 pour créer des espaces extérieurs de rencontre dédiés aux seniors et ouverts aux habitants et enfants du quartier, conduisant à un rapport écrit et une poursuite d’études.",
+    "objectifs": [
+      "Améliorer les liens sociaux entre générations",
+      "Favoriser les rencontres dans les espaces publics pour lutter contre l’isolement des personnes âgées pendant la période estivale"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2016",
+  "date": [
+    "2013"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LES_CHAISES_CONVIVIALES_DES_CHAISES_DESIGN_QUI_CREENT_DU_LIEN_SOCIAL_ENTRE_LES_GENERATIONS.txt",
+  "nom_fichier": "LES_CHAISES_CONVIVIALES_DES_CHAISES_DESIGN_QUI_CREENT_DU_LIEN_SOCIAL_ENTRE_LES_GENERATIONS.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/VERSION-CORRIGEE-AOUT-2025-LES-CHAISES-CONVIVIALES.pdf",
+  "original_title": "LES CHAISES CONVIVIALES: DES CHAISES DESIGN QUI CRÉENT DU LIEN SOCIAL ENTRE LES GÉNÉRATIONS",
+  "collection_date": ""
 }

@@ -1,33 +1,43 @@
 {
-    "titre": "Darnétal: à chacun son sport!",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Cette initiative propose des activités physiques adaptées aux personnes âgées, en complément de leurs capacités physiques.",
-        "contexte": "En 2011, le CCAS de Darnétal organisait une semaine bleue proposant une nouvelle activité: la gym adaptée aux personnes âgées. Les retours sur cette action étaient positifs.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "La création du dispositif 'Séniors Sportifs' qui permet aux seniors ayant envie de garder une activité physique adaptée de se faire un programme adapté à leurs capacités, tout en bénéficiant d'une sécurité accrue. La gym douce à la Résidence Autonomie offre également des activités adaptées.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD et leur famille",
-            "Valoriser la mémoire et la place des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Darnétal, Service Ménagement des Sports",
-    "date": [
-        "2011",
-        "2012"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Darnetal_a_chacun_son_sport.txt",
-    "nom_fichier": "Darnetal_a_chacun_son_sport.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Darnétal: à chacun son sport!",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Cette initiative propose des activités physiques adaptées aux personnes âgées, en complément de leurs capacités physiques.",
+    "contexte": "En 2011, le CCAS de Darnétal organisait une semaine bleue proposant une nouvelle activité: la gym adaptée aux personnes âgées. Les retours sur cette action étaient positifs.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "La création du dispositif 'Séniors Sportifs' qui permet aux seniors ayant envie de garder une activité physique adaptée de se faire un programme adapté à leurs capacités, tout en bénéficiant d'une sécurité accrue. La gym douce à la Résidence Autonomie offre également des activités adaptées.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD et leur famille",
+      "Valoriser la mémoire et la place des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Darnétal, Service Ménagement des Sports",
+  "date": [
+    "2011",
+    "2012"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Darnetal_a_chacun_son_sport.txt",
+  "nom_fichier": "Darnetal_a_chacun_son_sport.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/969-concours-2023-darnetal-a-chacun-son-sport.pdf",
+  "original_title": "Darnétal: à chacun son sport !",
+  "collection_date": ""
 }

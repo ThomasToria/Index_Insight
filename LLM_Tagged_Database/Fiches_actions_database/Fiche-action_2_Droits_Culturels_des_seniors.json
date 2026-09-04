@@ -1,34 +1,46 @@
 {
-    "titre": "Accès et participation à la vie culturelle",
-    "territoire": "Sochaux, Métropole",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La FICHE-ACTION vise à améliorer l'accès et la participation des seniors sochaliens aux activités culturelles de leur territoire.",
-        "contexte": "L'art 5 de la Déclaration de Fribourg relative au Droit culturels stipule que toute personne a le droit d'accéder et de participer librement à la vie culturelle. Cependant, avec l'avancée en âge, des personnes âgées rencontrent de nombreux freins pour accéder et participer à la vie culturelle de leur territoire.",
-        "problematique": "Les seniors sochaliens rencontrent des difficultés pour accéder aux activités culturelles du territoire. Ils sont souvent isolés, manquent de mobilité, d'informations et de ressources financières suffisantes.",
-        "solution_envisagee": "La FICHE-ACTION propose une combinaison de solutions : des navettes spécifiques pour faciliter l'accès aux équipements culturels du territoire et une communication spécifique pour améliorer la mobilisation des seniors sochaliens. Ces actions visent à créer un environnement plus propice à la participation culturelle.",
-        "objectifs": [
-            "Garantir l’accès à la vie culturelle du territoire pour les seniors sochaliens",
-            "Favoriser le « Vieillissement actif » par la participation régulière à des activités culturelles",
-            "Maintenir des liens sociaux par des sorties culturelles en groupe, encadrées par un animateur dédié"
-        ]
-    },
-    "porteur_initiative": "Collectif de Design Citoyen",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_2_Droits_Culturels_des_seniors.txt",
-    "nom_fichier": "Fiche-action_2_Droits_Culturels_des_seniors.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Accès et participation à la vie culturelle",
+  "territoire": [
+    "sochaux, métropole"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "offre de service",
+  "description": {
+    "description_generale": "La FICHE-ACTION vise à améliorer l'accès et la participation des seniors sochaliens aux activités culturelles de leur territoire.",
+    "contexte": "L'art 5 de la Déclaration de Fribourg relative au Droit culturels stipule que toute personne a le droit d'accéder et de participer librement à la vie culturelle. Cependant, avec l'avancée en âge, des personnes âgées rencontrent de nombreux freins pour accéder et participer à la vie culturelle de leur territoire.",
+    "problematique": "Les seniors sochaliens rencontrent des difficultés pour accéder aux activités culturelles du territoire. Ils sont souvent isolés, manquent de mobilité, d'informations et de ressources financières suffisantes.",
+    "solution_envisagee": "La FICHE-ACTION propose une combinaison de solutions : des navettes spécifiques pour faciliter l'accès aux équipements culturels du territoire et une communication spécifique pour améliorer la mobilisation des seniors sochaliens. Ces actions visent à créer un environnement plus propice à la participation culturelle.",
+    "objectifs": [
+      "Garantir l’accès à la vie culturelle du territoire pour les seniors sochaliens",
+      "Favoriser le « Vieillissement actif » par la participation régulière à des activités culturelles",
+      "Maintenir des liens sociaux par des sorties culturelles en groupe, encadrées par un animateur dédié"
+    ]
+  },
+  "porteur_initiative": "Collectif de Design Citoyen",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche-action_2_Droits_Culturels_des_seniors.txt",
+  "nom_fichier": "Fiche-action_2_Droits_Culturels_des_seniors.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "offre de service",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche-action 2 Droits Culturels des seniors.pdf",
+  "collection_date": ""
 }

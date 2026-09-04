@@ -1,34 +1,46 @@
 {
-    "titre": "Partage de savoirs intergénérationnels",
-    "territoire": "Hauts-de-France",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La Fondation de France Région Nord a soutenu l'Asapad pour son projet 'Partage de savoirs intergénérationnels'.",
-        "contexte": "La crise sanitaire et sociale accentue la vulnérabilité des personnes âgées, tandis que les adolescents sont confrontés à une nouvelle génération d'informatique.",
-        "problematique": "Renforcer les liens entre les résidents de l'Asapad, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans le territoire.",
-        "solution_envisagee": "Proposer des rencontres intergénérationnelles pour former une équipe d'échange entre élèves de classes de 5 e et 4 e du collège Anatole France de Sin-le-Noble et des personnes âgées volontaires, accompagnées par les services d'aides à domicile de l'Asapad.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'Asapad, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans le territoire",
-            "Faire face aux défis sociaux et sanitaires actuels"
-        ]
-    },
-    "porteur_initiative": "Asapad (Association pour l'Aide à domicile des Personnes âgées Dépendantes)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées adolescents la force des récits partagés.txt",
-    "nom_fichier": "Personnes âgées adolescents la force des récits partagés.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Partage de savoirs intergénérationnels",
+  "territoire": [
+    "hauts-de-france"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La Fondation de France Région Nord a soutenu l'Asapad pour son projet 'Partage de savoirs intergénérationnels'.",
+    "contexte": "La crise sanitaire et sociale accentue la vulnérabilité des personnes âgées, tandis que les adolescents sont confrontés à une nouvelle génération d'informatique.",
+    "problematique": "Renforcer les liens entre les résidents de l'Asapad, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans le territoire.",
+    "solution_envisagee": "Proposer des rencontres intergénérationnelles pour former une équipe d'échange entre élèves de classes de 5 e et 4 e du collège Anatole France de Sin-le-Noble et des personnes âgées volontaires, accompagnées par les services d'aides à domicile de l'Asapad.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'Asapad, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans le territoire",
+      "Faire face aux défis sociaux et sanitaires actuels"
+    ]
+  },
+  "porteur_initiative": "Asapad (Association pour l'Aide à domicile des Personnes âgées Dépendantes)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Personnes âgées adolescents la force des récits partagés.txt",
+  "nom_fichier": "Personnes âgées adolescents la force des récits partagés.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-fondation-de-france-region-nord/personnes-agees-adolescents-la-force-des-recits-partages",
+  "original_title": "Personnes âgées / adolescents : la force des récits partagés",
+  "collection_date": ""
 }

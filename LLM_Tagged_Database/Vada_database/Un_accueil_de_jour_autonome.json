@@ -1,35 +1,47 @@
 {
-    "titre": "Un accueil de jour autonome",
-    "territoire": "Bourg-de-Péage (26)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un accueil de jour autonome a été ouvert à Bourg-de-Péage en 2008, permettant aux personnes âgées en perte d'autonomie de rester le plus longtemps possible dans leur cadre de vie habituel.",
-        "contexte": "La municipalité de Bourg-de-Péage a engagé une politique volontariste pour accompagner la maintenance à domicile des personnes âgées, et a souhaité créer un premier accueil de jour autonome au sein du Clos de l’Hermitage.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'Accueil de Jour, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un programme d’ateliers avec des temps de stimulation et de détente pour maintenir le lien social et prévenir l'isolement des seniors.",
-        "objectifs": [
-            "Permettre aux personnes âgées en perte d'autonomie de rester le plus longtemps possible dans leur cadre de vie habituel",
-            "Maintenir le lien social et prévenir l’isolement des seniors",
-            "Contribuer à préserver les capacités motrices et cognitives des patients",
-            "Soulever et soulager les aidants familiaux en leur offrant un temps de répit"
-        ]
-    },
-    "porteur_initiative": "La municipalité de Bourg-de-Péage, France Alzheimer, CCAS, Département de la Drôme, ARS, Ville de Bourg-de-Péage",
-    "date": [
-        "2008",
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_accueil_de_jour_autonome.txt",
-    "nom_fichier": "Un_accueil_de_jour_autonome.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un accueil de jour autonome",
+  "territoire": [
+    "bourg-de-péage (26)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un accueil de jour autonome a été ouvert à Bourg-de-Péage en 2008, permettant aux personnes âgées en perte d'autonomie de rester le plus longtemps possible dans leur cadre de vie habituel.",
+    "contexte": "La municipalité de Bourg-de-Péage a engagé une politique volontariste pour accompagner la maintenance à domicile des personnes âgées, et a souhaité créer un premier accueil de jour autonome au sein du Clos de l’Hermitage.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'Accueil de Jour, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un programme d’ateliers avec des temps de stimulation et de détente pour maintenir le lien social et prévenir l'isolement des seniors.",
+    "objectifs": [
+      "Permettre aux personnes âgées en perte d'autonomie de rester le plus longtemps possible dans leur cadre de vie habituel",
+      "Maintenir le lien social et prévenir l’isolement des seniors",
+      "Contribuer à préserver les capacités motrices et cognitives des patients",
+      "Soulever et soulager les aidants familiaux en leur offrant un temps de répit"
+    ]
+  },
+  "porteur_initiative": "La municipalité de Bourg-de-Péage, France Alzheimer, CCAS, Département de la Drôme, ARS, Ville de Bourg-de-Péage",
+  "date": [
+    "2008",
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_accueil_de_jour_autonome.txt",
+  "nom_fichier": "Un_accueil_de_jour_autonome.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/306-306-fiche-pe-accueil-de-jour-bdp.pdf",
+  "original_title": "Un accueil de jour autonome",
+  "collection_date": ""
 }

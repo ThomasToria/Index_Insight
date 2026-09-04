@@ -1,32 +1,44 @@
 {
-    "titre": "Atelier bien-être à Longueau",
-    "territoire": "Commune: Longueau (80)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un atelier bien-être organisé par le CCAS à Longueau, visant à renforcer l'estime de soi et la participation des seniors.",
-        "contexte": "Le projet a été initié suite aux demandes d'activités proposées par les seniors de la commune au sein du CCAS. Les participants confectionnent leurs propres produits cosmétiques à partir d'ingrédients naturels, notamment via une démarche écologique.",
-        "problematique": "Renforcer l'estime de soi et maintenir des interactions sociales entre les seniors.",
-        "solution_envisagee": "Confectionner leurs propres produits cosmétiques à partir d'ingrédients naturels, notamment via une démarche écologique.",
-        "objectifs": [
-            "Renforcer l'estime de soi",
-            "Maintenir des interactions sociales entre les seniors"
-        ]
-    },
-    "porteur_initiative": "CCAS (Commune: Longueau)",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bien-etre_a_Longueau.txt",
-    "nom_fichier": "Atelier_bien-etre_a_Longueau.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier bien-être à Longueau",
+  "territoire": [
+    "longueau (80)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un atelier bien-être organisé par le CCAS à Longueau, visant à renforcer l'estime de soi et la participation des seniors.",
+    "contexte": "Le projet a été initié suite aux demandes d'activités proposées par les seniors de la commune au sein du CCAS. Les participants confectionnent leurs propres produits cosmétiques à partir d'ingrédients naturels, notamment via une démarche écologique.",
+    "problematique": "Renforcer l'estime de soi et maintenir des interactions sociales entre les seniors.",
+    "solution_envisagee": "Confectionner leurs propres produits cosmétiques à partir d'ingrédients naturels, notamment via une démarche écologique.",
+    "objectifs": [
+      "Renforcer l'estime de soi",
+      "Maintenir des interactions sociales entre les seniors"
+    ]
+  },
+  "porteur_initiative": "CCAS (Commune: Longueau)",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_bien-etre_a_Longueau.txt",
+  "nom_fichier": "Atelier_bien-etre_a_Longueau.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/974-concours-2023-atelier-bien-etre.pdf",
+  "original_title": "Atelier bien-être à Longueau",
+  "collection_date": ""
 }

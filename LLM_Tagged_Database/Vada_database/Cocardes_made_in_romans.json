@@ -1,33 +1,45 @@
 {
-    "titre": "Cocardes 'made in romans'",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative a pour but de créer des cocardes en hommage à l'Armistice de Romans-sur-Isère, impliquant tous les résidents autonomie et accueil de jour de la ville.",
-        "contexte": "Le projet est né d'une idée initiale qui s'est développée autour du Centenaire de l'Armistice. Les ateliers de création de cocardes ont été organisés par des animatrices, adaptant les thématiques aux préférences et capacités des participants.",
-        "problematique": "Impliquer tous les résidents autonomie et accueil de jour dans la confection de cocardes pour l'Armistice, en valorisant leurs compétences passées et leur mémoire.",
-        "solution_envisagee": "Organiser des ateliers de création de cocardes autour de thématiques variées, permettant aux participants d'exprimer leurs souvenirs et gestes acquis par le passé. Les volontaires ont été recrutés pour participer à ces ateliers.",
-        "objectifs": [
-            "Impliquer tous les résidents autonomie et accueil de jour dans la confection de cocardes",
-            "Valoriser les compétences passées des participants",
-            "Donner l'occasion aux aînés de montrer que leur âge ne les empêche pas d'être acteurs de la ville"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés Romans-sur-Isère depuis 2015",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cocardes_made_in_romans.txt",
-    "nom_fichier": "Cocardes_made_in_romans.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Cocardes 'made in romans'",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette initiative a pour but de créer des cocardes en hommage à l'Armistice de Romans-sur-Isère, impliquant tous les résidents autonomie et accueil de jour de la ville.",
+    "contexte": "Le projet est né d'une idée initiale qui s'est développée autour du Centenaire de l'Armistice. Les ateliers de création de cocardes ont été organisés par des animatrices, adaptant les thématiques aux préférences et capacités des participants.",
+    "problematique": "Impliquer tous les résidents autonomie et accueil de jour dans la confection de cocardes pour l'Armistice, en valorisant leurs compétences passées et leur mémoire.",
+    "solution_envisagee": "Organiser des ateliers de création de cocardes autour de thématiques variées, permettant aux participants d'exprimer leurs souvenirs et gestes acquis par le passé. Les volontaires ont été recrutés pour participer à ces ateliers.",
+    "objectifs": [
+      "Impliquer tous les résidents autonomie et accueil de jour dans la confection de cocardes",
+      "Valoriser les compétences passées des participants",
+      "Donner l'occasion aux aînés de montrer que leur âge ne les empêche pas d'être acteurs de la ville"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés Romans-sur-Isère depuis 2015",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Cocardes_made_in_romans.txt",
+  "nom_fichier": "Cocardes_made_in_romans.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/449-pe-cocardes-mise-en-forme-2023.pdf",
+  "original_title": "Cocardes \"made in romans\"",
+  "collection_date": ""
 }

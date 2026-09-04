@@ -1,0 +1,8 @@
+﻿absence_correcte;accepted_rate_evaluable;accepted_rate_full_sample;correct;exact_match_rate;f1_macro;f1_micro;field;incorrect;metric_type;missing_gold_values;n_annotated;n_evaluable;non_evaluable;partiel;precision_micro;recall_micro
+;;;;0.983;0.993;0.993;echelle;;categorical;0;60;;;;1.0;0.987
+;;;;1.0;1.0;1.0;nature_initiative;;categorical;0;60;;;;1.0;1.0
+;;;;1.0;1.0;1.0;public_vise;;categorical;0;60;;;;1.0;1.0
+0;0.786;0.733;44;;;;date;5;human_judgment;;60;56;4;7;;
+0;0.974;0.617;37;;;;porteur_initiative;1;human_judgment;;60;38;22;0;;
+30;0.981;0.883;23;;;;territoire;0;human_judgment;;60;54;6;1;;
+0;1.0;1.0;60;;;;thematique;0;human_judgment;;60;60;0;0;;

@@ -1,36 +1,48 @@
 {
-    "titre": "Projet d'habitat participatif Soleil Levant",
-    "territoire": "Saint-Nazaire, Loire-Atlantique",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Promouvoir et accompagner des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique.",
-        "contexte": "Initiation d'une démarche d'habitat participatif par la mairie de Saint-Nazaire en 2017. Le premier projet, Soleil Levant (SL), est en cours de réalisation depuis avril 2018.",
-        "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Promouvoir des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique, sous différentes formes juridiques adaptées pour refléter les valeurs énoncées dans sa Charte: lien social, solidarité, respect mutuel, respect de l'environnement, gouvernance démocratique.",
-        "objectifs": [
-            "Renforcer les liens entre résidents et leurs proches",
-            "Valoriser la mémoire des résidents et leur place dans la vie locale",
-            "Initier une démarche participative pour le développement durable"
-        ]
-    },
-    "porteur_initiative": "Association Habitat Participatif Soleil Levant (HPSL)",
-    "date": [
-        "2017",
-        "2019",
-        "2020",
-        "2021"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_dhabitat_participatif_Soleil_Levant.txt",
-    "nom_fichier": "Projet_dhabitat_participatif_Soleil_Levant.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Projet d'habitat participatif Soleil Levant",
+  "territoire": [
+    "saint-nazaire, loire-atlantique"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Promouvoir et accompagner des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique.",
+    "contexte": "Initiation d'une démarche d'habitat participatif par la mairie de Saint-Nazaire en 2017. Le premier projet, Soleil Levant (SL), est en cours de réalisation depuis avril 2018.",
+    "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Promouvoir des projets d'habitat participatif à Saint-Nazaire, en Loire-Atlantique, sous différentes formes juridiques adaptées pour refléter les valeurs énoncées dans sa Charte: lien social, solidarité, respect mutuel, respect de l'environnement, gouvernance démocratique.",
+    "objectifs": [
+      "Renforcer les liens entre résidents et leurs proches",
+      "Valoriser la mémoire des résidents et leur place dans la vie locale",
+      "Initier une démarche participative pour le développement durable"
+    ]
+  },
+  "porteur_initiative": "Association Habitat Participatif Soleil Levant (HPSL)",
+  "date": [
+    "2017",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_dhabitat_participatif_Soleil_Levant.txt",
+  "nom_fichier": "Projet_dhabitat_participatif_Soleil_Levant.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/718-pe-586-150422projet-d-habitat-participatif-soleil-levant-saint-nazaire.pdf",
+  "original_title": "Projet d'habitat participatif Soleil Levant",
+  "collection_date": ""
 }

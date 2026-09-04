@@ -1,33 +1,45 @@
 {
-    "titre": "Réalisation d’un clip vidéo intergénérationnel ‘arts urbains, cultures urbaines’",
-    "territoire": "Commune : Montfort-sur-Meu (35)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La Ville de Montfort-sur-Meu souhaite favoriser le lien social et la solidarité entre les générations pour plus de cohésion sociale, en mettant en place des ateliers intergénérationnels lors des temps périscolaires.",
-        "contexte": "Les actions précédentes ont permis d’organiser des ateliers autour du projet ‘Géné’art’tion’, mêlant l’écriture et la danse hip-hop, pour faire découvrir le lieu de vie aux jeunes et aux résidents.",
-        "problematique": "Le besoin de renforcer les liens entre les générations et valoriser leur mémoire dans le cadre d’ateliers intergénérationnels.",
-        "solution_envisagee": "Un clip vidéo mêlant l’écriture du scénario et son illustration par la danse hip-hop a été réalisé, avec des ateliers d’écriture et de danse animés pour faire découvrir le lieu de vie aux jeunes et aux résidents.",
-        "objectifs": [
-            "Favoriser le lien social entre les générations",
-            "Valoriser l'identité culturelle des résidents",
-            "Développer la créativité des jeunes et des plus âgés"
-        ]
-    },
-    "porteur_initiative": "La Résidence Autonomie et le service enfance de la Ville de Montfort-sur-Meu",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_dun_clip_video_intergenerationnel_arts_urbains_cultures_urbaines.txt",
-    "nom_fichier": "Realisation_dun_clip_video_intergenerationnel_arts_urbains_cultures_urbaines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Réalisation d’un clip vidéo intergénérationnel ‘arts urbains, cultures urbaines’",
+  "territoire": [
+    "montfort-sur-meu (35)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La Ville de Montfort-sur-Meu souhaite favoriser le lien social et la solidarité entre les générations pour plus de cohésion sociale, en mettant en place des ateliers intergénérationnels lors des temps périscolaires.",
+    "contexte": "Les actions précédentes ont permis d’organiser des ateliers autour du projet ‘Géné’art’tion’, mêlant l’écriture et la danse hip-hop, pour faire découvrir le lieu de vie aux jeunes et aux résidents.",
+    "problematique": "Le besoin de renforcer les liens entre les générations et valoriser leur mémoire dans le cadre d’ateliers intergénérationnels.",
+    "solution_envisagee": "Un clip vidéo mêlant l’écriture du scénario et son illustration par la danse hip-hop a été réalisé, avec des ateliers d’écriture et de danse animés pour faire découvrir le lieu de vie aux jeunes et aux résidents.",
+    "objectifs": [
+      "Favoriser le lien social entre les générations",
+      "Valoriser l'identité culturelle des résidents",
+      "Développer la créativité des jeunes et des plus âgés"
+    ]
+  },
+  "porteur_initiative": "La Résidence Autonomie et le service enfance de la Ville de Montfort-sur-Meu",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Realisation_dun_clip_video_intergenerationnel_arts_urbains_cultures_urbaines.txt",
+  "nom_fichier": "Realisation_dun_clip_video_intergenerationnel_arts_urbains_cultures_urbaines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/278-pe-clip-interge-1.pdf",
+  "original_title": "Réalisation d’un clip vidéo intergénérationnel “arts urbains, cultures urbaines”",
+  "collection_date": ""
 }

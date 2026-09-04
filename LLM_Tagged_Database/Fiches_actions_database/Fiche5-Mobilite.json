@@ -1,31 +1,43 @@
 {
-    "titre": "CREER un service de transport solidaire",
-    "territoire": "Entre-Vignes",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l'amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social.",
-        "contexte": "Les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l'extérieur du village.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un service de transport solidaire basé sur le principe de solidarité qui permet aux personnes âgées sans moyens de transport d'accéder à des services essentiels comme les RDV médicaux ou faire leurs courses à l'extérieur du village.",
-        "objectifs": [
-            "Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l'amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social."
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche5-Mobilite.txt",
-    "nom_fichier": "Fiche5-Mobilite.txt",
-    "statut_action": "proposition de projet"
+  "titre": "CREER un service de transport solidaire",
+  "territoire": [
+    "entre-vignes"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "offre de service",
+  "description": {
+    "description_generale": "Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l'amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social.",
+    "contexte": "Les personnes âgées qui ne peuvent plus conduire et se rendre soit à leurs RDV médicaux, soit simplement faire leurs courses (attention il ne s’agit pas d’un accompagnement pour faire les courses mais uniquement pour déposer les personnes sur le lieu) à l'extérieur du village.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un service de transport solidaire basé sur le principe de solidarité qui permet aux personnes âgées sans moyens de transport d'accéder à des services essentiels comme les RDV médicaux ou faire leurs courses à l'extérieur du village.",
+    "objectifs": [
+      "Basé sur le principe de solidarité, proposer de partager son véhicule avec des personnes âgées sans moyens de transport alliant ainsi l'amélioration de la qualité de vie des seniors dans la commune et permettant de créer du lien social."
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\Fiche5-Mobilite.txt",
+  "nom_fichier": "Fiche5-Mobilite.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "offre de service",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "Fiche5-Mobilité.pdf",
+  "collection_date": ""
 }

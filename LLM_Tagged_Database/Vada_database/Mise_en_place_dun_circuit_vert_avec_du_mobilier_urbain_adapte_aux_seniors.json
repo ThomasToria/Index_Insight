@@ -1,33 +1,46 @@
 {
-    "titre": "Mise en place d’un circuit vert avec du mobilier urbain adapté aux seniors",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Faciliter les déplacements doux et sécurisés dans la commune en installant équipements adaptés aux seniors.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Améliorer l'accessibilité des équipements pour répondre aux besoins des seniors.",
-        "solution_envisagee": "Installation de bancs adaptés sur le parc communal et un espace rencontre avec tables et fauteuils près du ping-pong.",
-        "objectifs": [
-            "Améliorer l'accessibilité des équipements pour répondre aux besoins des seniors",
-            "Faciliter les déplacements doux et sécurisés dans la commune"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2023",
-        "2024-2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_dun_circuit_vert_avec_du_mobilier_urbain_adapte_aux_seniors.txt",
-    "nom_fichier": "Mise_en_place_dun_circuit_vert_avec_du_mobilier_urbain_adapte_aux_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mise en place d’un circuit vert avec du mobilier urbain adapté aux seniors",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Faciliter les déplacements doux et sécurisés dans la commune en installant équipements adaptés aux seniors.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Améliorer l'accessibilité des équipements pour répondre aux besoins des seniors.",
+    "solution_envisagee": "Installation de bancs adaptés sur le parc communal et un espace rencontre avec tables et fauteuils près du ping-pong.",
+    "objectifs": [
+      "Améliorer l'accessibilité des équipements pour répondre aux besoins des seniors",
+      "Faciliter les déplacements doux et sécurisés dans la commune"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_dun_circuit_vert_avec_du_mobilier_urbain_adapte_aux_seniors.txt",
+  "nom_fichier": "Mise_en_place_dun_circuit_vert_avec_du_mobilier_urbain_adapte_aux_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Mise-en-place-dun-circuit-vert-avec-du-mobilier-urbain-adapte-aux-seniors-.pdf",
+  "original_title": "Mise en place d’un circuit vert avec du mobilier urbain adapté aux seniors",
+  "collection_date": ""
 }

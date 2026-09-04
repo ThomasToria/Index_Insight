@@ -4,3 +4,8 @@ requests
 beautifulsoup4
 pypdf
 lxml
+tqdm
+openpyxl
+numpy
+pandas
+matplotlib

@@ -1,33 +1,43 @@
 {
-    "titre": "Être messin et faire société",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La Ville de Metz, dans le cadre de sa politique de participation citoyenne et de promotion de la place des seniors dans la Cité a créé un Conseil des seniors. Ce groupe de travail 'Information & Communication' a organisé des actions pour informer les seniors sur les initiatives et dispositifs existants concernant leur vie quotidienne.",
-        "contexte": "La Ville de Metz, en collaboration avec le Conseil des seniors, a mis en place une série d’actions visant à améliorer l’information et la communication auprès des seniors. Ces actions ont été mises en œuvre dans différents lieux publics comme les marchés et les stands d'informations.",
-        "problematique": "Amélioration de l’information et de la communication auprès des seniors",
-        "solution_envisagee": "Organisation d’actions pour informer les seniors sur les initiatives et dispositifs existants concernant leur vie quotidienne, notamment à travers des marchés en plein air et des stands d'informations.",
-        "objectifs": [
-            "Améliorer l’information et la communication auprès des seniors",
-            "Promouvoir les actions et projets pour les seniors"
-        ]
-    },
-    "porteur_initiative": "La Ville de Metz, le Conseil des seniors",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Etre_messin_et_faire_societe.txt",
-    "nom_fichier": "Etre_messin_et_faire_societe.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Être messin et faire société",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La Ville de Metz, dans le cadre de sa politique de participation citoyenne et de promotion de la place des seniors dans la Cité a créé un Conseil des seniors. Ce groupe de travail 'Information & Communication' a organisé des actions pour informer les seniors sur les initiatives et dispositifs existants concernant leur vie quotidienne.",
+    "contexte": "La Ville de Metz, en collaboration avec le Conseil des seniors, a mis en place une série d’actions visant à améliorer l’information et la communication auprès des seniors. Ces actions ont été mises en œuvre dans différents lieux publics comme les marchés et les stands d'informations.",
+    "problematique": "Amélioration de l’information et de la communication auprès des seniors",
+    "solution_envisagee": "Organisation d’actions pour informer les seniors sur les initiatives et dispositifs existants concernant leur vie quotidienne, notamment à travers des marchés en plein air et des stands d'informations.",
+    "objectifs": [
+      "Améliorer l’information et la communication auprès des seniors",
+      "Promouvoir les actions et projets pour les seniors"
+    ]
+  },
+  "porteur_initiative": "La Ville de Metz, le Conseil des seniors",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Etre_messin_et_faire_societe.txt",
+  "nom_fichier": "Etre_messin_et_faire_societe.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/631-metz-etre-senior-messin-et-faire-societe.pdf",
+  "original_title": "Être messin et faire société",
+  "collection_date": ""
 }

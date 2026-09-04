@@ -1,34 +1,44 @@
 {
-    "titre": "Des colocations seniors",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette initiative vise à proposer aux seniors une solution de logement sur-mesure innovante qui répond à leurs besoins.",
-        "contexte": "La Chapelle-sur-Erdre, Nantes Métropole (44)",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Colocation seniors",
-        "objectifs": [
-            "Favoriser le lien social",
-            "Valoriser la mémoire des résidents"
-        ]
-    },
-    "porteur_initiative": "Association Loki Ora",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_colocations_seniors.txt",
-    "nom_fichier": "Des_colocations_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des colocations seniors",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette initiative vise à proposer aux seniors une solution de logement sur-mesure innovante qui répond à leurs besoins.",
+    "contexte": "La Chapelle-sur-Erdre, Nantes Métropole (44)",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Colocation seniors",
+    "objectifs": [
+      "Favoriser le lien social",
+      "Valoriser la mémoire des résidents"
+    ]
+  },
+  "porteur_initiative": "Association Loki Ora",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_colocations_seniors.txt",
+  "nom_fichier": "Des_colocations_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/716-pe584-140422-des-colocations-seniors-lachapellesurerdre.pdf",
+  "original_title": "Des colocations seniors",
+  "collection_date": ""
 }

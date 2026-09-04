@@ -1,0 +1,17 @@
+# Registre de configuration pour toute nouvelle exécution complète.
+# Les scripts historiques utilisent encore certains chemins explicites.
+project:
+  main_database: LLM_Tagged_Database
+  corpus_language: fr
+  taxonomy_version: v1.0
+llm:
+  provider: ollama
+  endpoint: http://localhost:11434/api/chat
+  model: qwen2.5:1.5b
+  prompt_version: v1.0
+  max_input_characters: 2500
+provenance:
+  required_for_new_documents: [source_url, original_title, collection_date, source_site]
+quality_control:
+  validation_report: outputs/quality_checks/llm_database_validation.csv
+  review_ambiguous_taxonomy_values: outputs_graphs/normalisation_taxonomie/valeurs_a_revoir.csv

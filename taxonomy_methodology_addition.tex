@@ -1,0 +1,29 @@
+% Insert after the description of the LLM metadata schema in the Methodology.
+
+\subsection{Post-extraction taxonomy normalisation}
+
+The LLM-generated fields \texttt{thematique} and
+\texttt{nature\_initiative} may contain lexical variants that refer to closely
+related concepts. A deterministic post-processing step therefore adds the fields
+\texttt{thematique\_normalisee} and
+\texttt{nature\_initiative\_normalisee}. The original LLM values are preserved
+unchanged, while the new fields map them to a documented French controlled
+taxonomy used for filtering and descriptive statistics.
+
+The thematic taxonomy contains fifteen substantive categories, including
+\textit{autonomie et avancée en âge}, \textit{santé et prévention},
+\textit{lien social et lutte contre l'isolement}, \textit{mobilité et
+accessibilité}, \textit{habitat et logement}, and \textit{participation
+citoyenne et gouvernance}. The initiative-type taxonomy includes categories such
+as \textit{atelier}, \textit{formation}, \textit{événement}, \textit{outil
+numérique}, \textit{dispositif ou programme}, and \textit{projet
+d'aménagement}. A record may have multiple normalised themes but only one
+normalised initiative type.
+
+The normalisation is rule-based and does not call the LLM again. It operates on
+the extracted labels rather than on the full source text, which keeps the
+transformation reproducible and inspectable. Values that cannot be mapped
+unambiguously are assigned to \textit{autre / à revoir} and reported in a
+dedicated review file. This conservative choice avoids hiding uncertainty behind
+an overly broad automated category while making the taxonomy progressively
+improvable through documented manual review.

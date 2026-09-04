@@ -1,32 +1,42 @@
 {
-    "titre": "Recherche Action Collaborative (RAC): Vivre et habiter ensemble, à tout âge, même en situation de fragilités",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Dans un contexte où l’adaptation des équipements gérontologiques est devenue un enjeu politique majeure, de nouveaux concepts résidentiels et d’accompagnement destinés aux personnes âgées voient le jour. C’est le cas du Pflegemix (qui peut être entendu comme une mixité de l’aide à la personne).",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des résidents dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "L’institut",
-    "date": [
-        "2018"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\110_2018_recherche_action_collaborative_rac_vivre_et_habiter_ensemble_a_tout_age_meme_en_situation_de_fragilites.txt",
-    "nom_fichier": "110_2018_recherche_action_collaborative_rac_vivre_et_habiter_ensemble_a_tout_age_meme_en_situation_de_fragilites.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Recherche Action Collaborative (RAC): Vivre et habiter ensemble, à tout âge, même en situation de fragilités",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Dans un contexte où l’adaptation des équipements gérontologiques est devenue un enjeu politique majeure, de nouveaux concepts résidentiels et d’accompagnement destinés aux personnes âgées voient le jour. C’est le cas du Pflegemix (qui peut être entendu comme une mixité de l’aide à la personne).",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des résidents dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "L’institut",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\110_2018_recherche_action_collaborative_rac_vivre_et_habiter_ensemble_a_tout_age_meme_en_situation_de_fragilites.txt",
+  "nom_fichier": "110_2018_recherche_action_collaborative_rac_vivre_et_habiter_ensemble_a_tout_age_meme_en_situation_de_fragilites.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/recherche-action-collaborative-rac-vivre-et-habiter-ensemble-a-tout-age-meme-en-situation-de-fragilites/",
+  "original_title": "Recherche Action Collaborative (RAC) : Vivre et habiter ensemble, à tout âge, même en situation de fragilités",
+  "collection_date": ""
 }

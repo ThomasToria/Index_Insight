@@ -1,32 +1,42 @@
 {
-    "titre": "INNOVIDEP (INterventions NOn médicamenteuses pour VIvre mieux avec la DEPendance) Communauté mixte de recherche sur les services de santé et les politiques publiques",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Communauté mixte de recherche sur les services de santé et les politiques publiques visant à améliorer la qualité des soins aux personnes dépendantes.",
-        "contexte": "La communauté mixte d'INNOVIDEP vise à renforcer l'action intergénérationnelle et le lien social entre les résidents, leurs proches et la société civile. Elle met en œuvre des interventions non médicamenteuses pour améliorer la qualité des soins aux personnes dépendantes.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "INNOVIDEP propose des interventions non médicamenteuses pour améliorer la qualité des soins aux personnes dépendantes. Ces actions visent à renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "objectifs": [
-            "Renforcer l'action intergénérationnelle",
-            "Améliorer la qualité des soins aux personnes dépendantes"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\069_2022_innovidep_interventions_non_medicamenteuses_pour_vivre_mieux_avec_la_dependance_communaute_mixte_de_recherche_sur_les_se.txt",
-    "nom_fichier": "069_2022_innovidep_interventions_non_medicamenteuses_pour_vivre_mieux_avec_la_dependance_communaute_mixte_de_recherche_sur_les_se.txt",
-    "statut_action": "projet réalisé"
+  "titre": "INNOVIDEP (INterventions NOn médicamenteuses pour VIvre mieux avec la DEPendance) Communauté mixte de recherche sur les services de santé et les politiques publiques",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Communauté mixte de recherche sur les services de santé et les politiques publiques visant à améliorer la qualité des soins aux personnes dépendantes.",
+    "contexte": "La communauté mixte d'INNOVIDEP vise à renforcer l'action intergénérationnelle et le lien social entre les résidents, leurs proches et la société civile. Elle met en œuvre des interventions non médicamenteuses pour améliorer la qualité des soins aux personnes dépendantes.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "INNOVIDEP propose des interventions non médicamenteuses pour améliorer la qualité des soins aux personnes dépendantes. Ces actions visent à renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "objectifs": [
+      "Renforcer l'action intergénérationnelle",
+      "Améliorer la qualité des soins aux personnes dépendantes"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\069_2022_innovidep_interventions_non_medicamenteuses_pour_vivre_mieux_avec_la_dependance_communaute_mixte_de_recherche_sur_les_se.txt",
+  "nom_fichier": "069_2022_innovidep_interventions_non_medicamenteuses_pour_vivre_mieux_avec_la_dependance_communaute_mixte_de_recherche_sur_les_se.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/innovidep-interventions-non-medicamenteuses-pour-vivre-mieux-avec-la-dependance-communaute-mixte-de-recherche-sur-les-services-de-sante-et-les-politiques-publiques/",
+  "original_title": "INNOVIDEP (INterventions NOn médicamenteuses pour VIvre mieux avec la DEPendance) Communauté mixte de recherche sur les services de santé et les politiques publiques",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Parcours inclusif du jeune enfant ayant un trouble du spectre autistique scolarisé dans les Unités d'Enseignement Maternelle: quelle articulation entre le milieu spécialisé et le milieu ordinaire?",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette recherche vise à identifier les défis rencontrés par les jeunes enfants ayant un trouble du spectre autistique scolarisés dans les Unités d'Enseignement Maternelle et à proposer des solutions pour améliorer leur intégration.",
-        "contexte": "",
-        "problematique": "Les jeunes enfants ayant un trouble du spectre autistique ont souvent des difficultés à intégrer correctement le milieu scolaire, notamment en raison de leurs comportements spécifiques et de leurs besoins d'adaptation. Cela peut conduire à une perte d'estime de soi et à une exclusion sociale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les défis rencontrés par les jeunes enfants ayant un trouble du spectre autistique scolarisés dans les Unités d'Enseignement Maternelle",
-            "Proposer des solutions pour améliorer leur intégration au milieu scolaire"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\098_2017_parcours_inclusif_du_jeune_enfant_ayant_un_trouble_du_spectre_autistique_scolarise_dans_les_unites_d_enseignement_matern.txt",
-    "nom_fichier": "098_2017_parcours_inclusif_du_jeune_enfant_ayant_un_trouble_du_spectre_autistique_scolarise_dans_les_unites_d_enseignement_matern.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Parcours inclusif du jeune enfant ayant un trouble du spectre autistique scolarisé dans les Unités d'Enseignement Maternelle: quelle articulation entre le milieu spécialisé et le milieu ordinaire?",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette recherche vise à identifier les défis rencontrés par les jeunes enfants ayant un trouble du spectre autistique scolarisés dans les Unités d'Enseignement Maternelle et à proposer des solutions pour améliorer leur intégration.",
+    "contexte": "",
+    "problematique": "Les jeunes enfants ayant un trouble du spectre autistique ont souvent des difficultés à intégrer correctement le milieu scolaire, notamment en raison de leurs comportements spécifiques et de leurs besoins d'adaptation. Cela peut conduire à une perte d'estime de soi et à une exclusion sociale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les défis rencontrés par les jeunes enfants ayant un trouble du spectre autistique scolarisés dans les Unités d'Enseignement Maternelle",
+      "Proposer des solutions pour améliorer leur intégration au milieu scolaire"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\098_2017_parcours_inclusif_du_jeune_enfant_ayant_un_trouble_du_spectre_autistique_scolarise_dans_les_unites_d_enseignement_matern.txt",
+  "nom_fichier": "098_2017_parcours_inclusif_du_jeune_enfant_ayant_un_trouble_du_spectre_autistique_scolarise_dans_les_unites_d_enseignement_matern.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/parcours-inclusif-du-jeune-enfant-ayant-un-trouble-du-spectre-autistique-scolarise-dans-les-unites-denseignement-maternelle-quelle-articulation-entre-le-milieu-specialise-et-le-milieu-ordin/",
+  "original_title": "Parcours inclusif du jeune enfant ayant un trouble du spectre autistique scolarisé dans les Unités d’Enseignement Maternelle : quelle articulation entre le milieu spécialisé et le milieu ordinaire ? (TSAUEM)",
+  "collection_date": ""
 }

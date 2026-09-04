@@ -1,33 +1,43 @@
 {
-    "titre": "Un club des villes à l'échelle du département pour favoriser les interactions et le partage d’expériences",
-    "territoire": "Départemental",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Le projet a débuté en mai 2022 avec un colloque de restitution de l'expérimentation de 2021, ainsi que le recensement des 50 villes intéressées par la démarche VADA. Au début de l'année 2023, le format et le contenu du club ont été précisés, et le département a sollicité les villes intéressées pour rejoindre le club.",
-        "contexte": "Le Département des Yvelines soutient le développement d'une politique du grand âge à l'échelle locale. Il a ainsi mené en 2021 une expérimentation auprès de 6 villes, engagées dans la démarche Villes Amies des Aînés (VADA). Bien que les territoires diffèrent, des constats similaires sont mis à jour: le fort intérêt de la démarche, la nécessité de transversalité, le risque d'épuisement et d'isolement des porteurs, la difficile mobilisation.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un club des villes à l'échelle du département pour favoriser les interactions et le partage d'expériences",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile.",
-            "Valoriser leur mémoire et leur place dans la vie locale."
-        ]
-    },
-    "porteur_initiative": "Département des Yvelines",
-    "date": [
-        "2021",
-        "2023"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_club_des_villes_a_lechelle_du_departement_pour_favoriser_les_interactions_et_le_partage_dexperiences.txt",
-    "nom_fichier": "Un_club_des_villes_a_lechelle_du_departement_pour_favoriser_les_interactions_et_le_partage_dexperiences.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un club des villes à l'échelle du département pour favoriser les interactions et le partage d’expériences",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Le projet a débuté en mai 2022 avec un colloque de restitution de l'expérimentation de 2021, ainsi que le recensement des 50 villes intéressées par la démarche VADA. Au début de l'année 2023, le format et le contenu du club ont été précisés, et le département a sollicité les villes intéressées pour rejoindre le club.",
+    "contexte": "Le Département des Yvelines soutient le développement d'une politique du grand âge à l'échelle locale. Il a ainsi mené en 2021 une expérimentation auprès de 6 villes, engagées dans la démarche Villes Amies des Aînés (VADA). Bien que les territoires diffèrent, des constats similaires sont mis à jour: le fort intérêt de la démarche, la nécessité de transversalité, le risque d'épuisement et d'isolement des porteurs, la difficile mobilisation.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un club des villes à l'échelle du département pour favoriser les interactions et le partage d'expériences",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile.",
+      "Valoriser leur mémoire et leur place dans la vie locale."
+    ]
+  },
+  "porteur_initiative": "Département des Yvelines",
+  "date": [
+    "2021",
+    "2023"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_club_des_villes_a_lechelle_du_departement_pour_favoriser_les_interactions_et_le_partage_dexperiences.txt",
+  "nom_fichier": "Un_club_des_villes_a_lechelle_du_departement_pour_favoriser_les_interactions_et_le_partage_dexperiences.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1038-pe-outillage-des-communes-yvelinoises-par-le-departement.pdf",
+  "original_title": "Un club des villes à l'échelle du département pour favoriser les interactions et le partage d’expériences",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Analyse des profils et des parcours des personnes vivant dans le grand précarité âgée",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Le projet vise à mieux comprendre les profils et les parcours des personnes en situation de handicap ou de perte d'autonomie suivies par les services du Samusocial de Paris.",
-        "contexte": "",
-        "problematique": "Les difficultés d'accès aux soins et aux structures d'hébergement adaptées, ainsi que l'étude des profils et parcours des personnes en situation de handicap ou de perte d'autonomie.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les difficultés d'accès aux soins et aux structures d'hébergement adaptées",
-            "Établir un profil et un parcours des personnes en situation de handicap ou de perte d'autonomie"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\007_2024_analyse_des_profils_et_des_parcours_des_personnes_vivants_dans_le_grande_precarite_agee.txt",
-    "nom_fichier": "007_2024_analyse_des_profils_et_des_parcours_des_personnes_vivants_dans_le_grande_precarite_agee.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Analyse des profils et des parcours des personnes vivant dans le grand précarité âgée",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Le projet vise à mieux comprendre les profils et les parcours des personnes en situation de handicap ou de perte d'autonomie suivies par les services du Samusocial de Paris.",
+    "contexte": "",
+    "problematique": "Les difficultés d'accès aux soins et aux structures d'hébergement adaptées, ainsi que l'étude des profils et parcours des personnes en situation de handicap ou de perte d'autonomie.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les difficultés d'accès aux soins et aux structures d'hébergement adaptées",
+      "Établir un profil et un parcours des personnes en situation de handicap ou de perte d'autonomie"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\007_2024_analyse_des_profils_et_des_parcours_des_personnes_vivants_dans_le_grande_precarite_agee.txt",
+  "nom_fichier": "007_2024_analyse_des_profils_et_des_parcours_des_personnes_vivants_dans_le_grande_precarite_agee.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/analyse-des-profils-et-des-parcours-des-personnes-vivants-dans-le-grande-precarite-agee/",
+  "original_title": "Analyse des profils et des parcours des personnes vivants dans le grande Précarité Âgée",
+  "collection_date": ""
 }

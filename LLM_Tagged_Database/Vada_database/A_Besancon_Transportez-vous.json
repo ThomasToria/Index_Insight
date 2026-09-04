@@ -1,33 +1,45 @@
 {
-    "titre": "À Besançon: « Transportez-vous »",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative de la Ville de Besançon visant à renforcer les liens entre générations, notamment en organisant des sorties pour les personnes âgées.",
-        "contexte": "La création d'une marche intergénérationnelle intitulée « Y’a pas d’âge pour marcher » a été suivie de l'initiative « Transportez-vous! », qui vise à proposer des accompagnements individuels aux personnes âgées.",
-        "problematique": "Renforcer les liens entre générations, notamment en organisant des sorties pour les personnes âgées.",
-        "solution_envisagee": "Organisation de sorties intergénérationnelles et accompagnement personnalisé par des bénévoles utilisant différents moyens de transport selon les besoins des aînés fragiles.",
-        "objectifs": [
-            "Renforcer les liens entre générations",
-            "Proposer des accompagnements individuels aux personnes âgées",
-            "Favoriser la mobilité et la participation citoyenne des personnes âgées"
-        ]
-    },
-    "porteur_initiative": "La Ville de Besançon, en collaboration avec divers acteurs locaux tels que les associations, le conseillère en mobilité du Grand Besançon, La Roue de Secours, et la société de voitures en partage.",
-    "date": [
-        "depuis 2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Besancon_Transportez-vous.txt",
-    "nom_fichier": "A_Besancon_Transportez-vous.txt",
-    "statut_action": "projet réalisé"
+  "titre": "À Besançon: « Transportez-vous »",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative de la Ville de Besançon visant à renforcer les liens entre générations, notamment en organisant des sorties pour les personnes âgées.",
+    "contexte": "La création d'une marche intergénérationnelle intitulée « Y’a pas d’âge pour marcher » a été suivie de l'initiative « Transportez-vous! », qui vise à proposer des accompagnements individuels aux personnes âgées.",
+    "problematique": "Renforcer les liens entre générations, notamment en organisant des sorties pour les personnes âgées.",
+    "solution_envisagee": "Organisation de sorties intergénérationnelles et accompagnement personnalisé par des bénévoles utilisant différents moyens de transport selon les besoins des aînés fragiles.",
+    "objectifs": [
+      "Renforcer les liens entre générations",
+      "Proposer des accompagnements individuels aux personnes âgées",
+      "Favoriser la mobilité et la participation citoyenne des personnes âgées"
+    ]
+  },
+  "porteur_initiative": "La Ville de Besançon, en collaboration avec divers acteurs locaux tels que les associations, le conseillère en mobilité du Grand Besançon, La Roue de Secours, et la société de voitures en partage.",
+  "date": [
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\A_Besancon_Transportez-vous.txt",
+  "nom_fichier": "A_Besancon_Transportez-vous.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/240-240-transportez-vous.pdf",
+  "original_title": "À Besançon : \"Transportez-vous\"",
+  "collection_date": ""
 }

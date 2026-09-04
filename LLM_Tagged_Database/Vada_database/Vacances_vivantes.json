@@ -1,34 +1,46 @@
 {
-    "titre": "Vacances Vivantes",
-    "territoire": "Commune: Rennes (35)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à sensibiliser les personnes âgées isolées ou en perte de mobilité aux activités culturelles et loisirs proposées par l'association.",
-        "contexte": "Les personnes âgées isolées et en perte de mobilité sont souvent exclues des activités sociales et culturelles. Ce projet vise à les rendre plus actives et connectées.",
-        "problematique": "Le besoin d’engager les personnes âgées isolées dans des activités qui leur permettent de se sentir engagées et reconnues.",
-        "solution_envisagee": "Organiser un séjour culturel et loisir adapté aux besoins spécifiques des personnes âgées à mobilité réduite, en lien avec l’association Anim’ à Dom.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'association",
-            "Valoriser la mémoire et le patrimoine culturel local",
-            "Promouvoir des activités de loisirs et de culture pour les personnes âgées à mobilité réduite"
-        ]
-    },
-    "porteur_initiative": "Association Anim’ à Dom, CLIC de Rennes, Ville Amie des Aînés (Rennes)",
-    "date": [
-        "2019",
-        "2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_vivantes.txt",
-    "nom_fichier": "Vacances_vivantes.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Vacances Vivantes",
+  "territoire": [
+    "rennes (35)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à sensibiliser les personnes âgées isolées ou en perte de mobilité aux activités culturelles et loisirs proposées par l'association.",
+    "contexte": "Les personnes âgées isolées et en perte de mobilité sont souvent exclues des activités sociales et culturelles. Ce projet vise à les rendre plus actives et connectées.",
+    "problematique": "Le besoin d’engager les personnes âgées isolées dans des activités qui leur permettent de se sentir engagées et reconnues.",
+    "solution_envisagee": "Organiser un séjour culturel et loisir adapté aux besoins spécifiques des personnes âgées à mobilité réduite, en lien avec l’association Anim’ à Dom.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'association",
+      "Valoriser la mémoire et le patrimoine culturel local",
+      "Promouvoir des activités de loisirs et de culture pour les personnes âgées à mobilité réduite"
+    ]
+  },
+  "porteur_initiative": "Association Anim’ à Dom, CLIC de Rennes, Ville Amie des Aînés (Rennes)",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Vacances_vivantes.txt",
+  "nom_fichier": "Vacances_vivantes.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/422-pe-vacances-vivantes.pdf",
+  "original_title": "Vacances vivantes",
+  "collection_date": ""
 }

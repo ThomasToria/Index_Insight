@@ -1,32 +1,44 @@
 {
-    "titre": "Tennis de Table Aideurs/Aides",
-    "territoire": "Saint-Nazaire (44)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la qualité de vie des aidants en leur permettant d'effectuer une activité physique.",
-        "contexte": "Les personnes atteintes de maladies neurodégénératives, comme Alzheimer, peuvent avoir un impact significatif sur les aidants. Cela peut conduire à une diminution de la qualité de vie et à l’isolement social.",
-        "problematique": "Le besoin d’améliorer la qualité de vie des aidants en leur permettant de se détendre et de maintenir le lien social.",
-        "solution_envisagee": "Organiser un programme de tennis de table pour les aidants, qui peut être pratiqué seul ou à deux selon leurs préférences.",
-        "objectifs": [
-            "Améliorer la qualité de vie des aidants",
-            "Favoriser le lien social entre les aidants et les personnes malades"
-        ]
-    },
-    "porteur_initiative": "Association France Alzheimer",
-    "date": [
-        "septembre 2022"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tennis_de_table_aidantsaides.txt",
-    "nom_fichier": "Tennis_de_table_aidantsaides.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Tennis de Table Aideurs/Aides",
+  "territoire": [
+    "saint-nazaire (44)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la qualité de vie des aidants en leur permettant d'effectuer une activité physique.",
+    "contexte": "Les personnes atteintes de maladies neurodégénératives, comme Alzheimer, peuvent avoir un impact significatif sur les aidants. Cela peut conduire à une diminution de la qualité de vie et à l’isolement social.",
+    "problematique": "Le besoin d’améliorer la qualité de vie des aidants en leur permettant de se détendre et de maintenir le lien social.",
+    "solution_envisagee": "Organiser un programme de tennis de table pour les aidants, qui peut être pratiqué seul ou à deux selon leurs préférences.",
+    "objectifs": [
+      "Améliorer la qualité de vie des aidants",
+      "Favoriser le lien social entre les aidants et les personnes malades"
+    ]
+  },
+  "porteur_initiative": "Association France Alzheimer",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Tennis_de_table_aidantsaides.txt",
+  "nom_fichier": "Tennis_de_table_aidantsaides.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/894-concours-2023-tennis-de-table-aidantsaides.pdf",
+  "original_title": "Tennis de table aidants/aidés",
+  "collection_date": ""
 }

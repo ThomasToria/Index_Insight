@@ -1,32 +1,42 @@
 {
-    "titre": "La résidence des personnes âgées, implantée au cœur du village de Claix",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La résidence des personnes âgées, implantée au cœur du village de Claix, est un projet d'établissement qui vise à intégrer les habitants de la résidence dans la vie locale.",
-        "contexte": "Le projet a été conçu en collaboration avec divers acteurs locaux et institutionnels pour faciliter l'adaptation des personnes âgées aux conditions locales. Les logements sont équipés pour répondre aux besoins spécifiques des résidents, notamment ceux concernant la mobilité.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de la Résidence et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des actions de prévention et d'accompagnement ont été proposées pour aider à l'intégration des résidents dans la vie locale. Des partenaires sanitaires et médico-sociaux participent également aux activités de prévention.",
-        "objectifs": [
-            "renforcer les liens entre les résidents de la Résidence et la société civile",
-            "valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La résidence autonomie a été créée en 1987 et est attenante au CCAS de la ville, non loin des commerces, des services sociaux et de la médiathèque. Les logements sont tous configurés de la même façon, d'une dimension de 33m² répartis sur deux étages et desservis par un ascenseur.",
-    "date": [
-        "depuis 1987"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_des_personnes_agees_implantee_au_cur_du_village_de_Claix.txt",
-    "nom_fichier": "La_residence_des_personnes_agees_implantee_au_cur_du_village_de_Claix.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La résidence des personnes âgées, implantée au cœur du village de Claix",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La résidence des personnes âgées, implantée au cœur du village de Claix, est un projet d'établissement qui vise à intégrer les habitants de la résidence dans la vie locale.",
+    "contexte": "Le projet a été conçu en collaboration avec divers acteurs locaux et institutionnels pour faciliter l'adaptation des personnes âgées aux conditions locales. Les logements sont équipés pour répondre aux besoins spécifiques des résidents, notamment ceux concernant la mobilité.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de la Résidence et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des actions de prévention et d'accompagnement ont été proposées pour aider à l'intégration des résidents dans la vie locale. Des partenaires sanitaires et médico-sociaux participent également aux activités de prévention.",
+    "objectifs": [
+      "renforcer les liens entre les résidents de la Résidence et la société civile",
+      "valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La résidence autonomie a été créée en 1987 et est attenante au CCAS de la ville, non loin des commerces, des services sociaux et de la médiathèque. Les logements sont tous configurés de la même façon, d'une dimension de 33m² répartis sur deux étages et desservis par un ascenseur.",
+  "date": [
+    "1987"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_des_personnes_agees_implantee_au_cur_du_village_de_Claix.txt",
+  "nom_fichier": "La_residence_des_personnes_agees_implantee_au_cur_du_village_de_Claix.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/737-pe-605-290422la-residence-des-personnes-agees-implantee-au-coeur-du-village-claix.pdf",
+  "original_title": "La résidence des personnes âgées, implantée au cœur du village de Claix",
+  "collection_date": ""
 }

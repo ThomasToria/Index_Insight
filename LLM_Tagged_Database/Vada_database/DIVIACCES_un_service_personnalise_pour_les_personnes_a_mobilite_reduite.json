@@ -1,33 +1,45 @@
 {
-    "titre": "DIVIACCÈS: Un Service Personnalisé pour les Personnes à Mobilité Réduite",
-    "territoire": "Commune de Dijon, Yonne",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un service personnalisé pour les personnes à mobilité réduite dans la commune de Dijon, Yonne.",
-        "contexte": "La ville de Dijon a mis en place un réseau de transports publics accessibles et sécurisés, notamment grâce au développement d'un réseau de tramways et de bus adaptés aux besoins des personnes âgées.",
-        "problematique": "Les personnes âgées rencontrent souvent des difficultés pour se rendre à travers le centre-ville sans assistance. Leur mobilité est limitée parfois, ce qui les empêche d'accéder facilement aux lieux importants de la ville et aux services publics.",
-        "solution_envisagee": "Un service personnalisé adapté aux besoins des personnes âgées pour faciliter leur mobilité dans le centre-ville de Dijon, en utilisant un réseau de tramways et de bus adaptés à leurs spécificités.",
-        "objectifs": [
-            "Accroître la mobilité",
-            "Desservir les lieux importants de la ville et d'agglomération",
-            "Proposer des transports accessibles et sécurisés pour tous"
-        ]
-    },
-    "porteur_initiative": "La Ville de Dijon, Yonne",
-    "date": [
-        "2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DIVIACCES_un_service_personnalise_pour_les_personnes_a_mobilite_reduite.txt",
-    "nom_fichier": "DIVIACCES_un_service_personnalise_pour_les_personnes_a_mobilite_reduite.txt",
-    "statut_action": "projet réalisé"
+  "titre": "DIVIACCÈS: Un Service Personnalisé pour les Personnes à Mobilité Réduite",
+  "territoire": [
+    "dijon, yonne"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un service personnalisé pour les personnes à mobilité réduite dans la commune de Dijon, Yonne.",
+    "contexte": "La ville de Dijon a mis en place un réseau de transports publics accessibles et sécurisés, notamment grâce au développement d'un réseau de tramways et de bus adaptés aux besoins des personnes âgées.",
+    "problematique": "Les personnes âgées rencontrent souvent des difficultés pour se rendre à travers le centre-ville sans assistance. Leur mobilité est limitée parfois, ce qui les empêche d'accéder facilement aux lieux importants de la ville et aux services publics.",
+    "solution_envisagee": "Un service personnalisé adapté aux besoins des personnes âgées pour faciliter leur mobilité dans le centre-ville de Dijon, en utilisant un réseau de tramways et de bus adaptés à leurs spécificités.",
+    "objectifs": [
+      "Accroître la mobilité",
+      "Desservir les lieux importants de la ville et d'agglomération",
+      "Proposer des transports accessibles et sécurisés pour tous"
+    ]
+  },
+  "porteur_initiative": "La Ville de Dijon, Yonne",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\DIVIACCES_un_service_personnalise_pour_les_personnes_a_mobilite_reduite.txt",
+  "nom_fichier": "DIVIACCES_un_service_personnalise_pour_les_personnes_a_mobilite_reduite.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/154-154-55reseau-bus-et-tram-dijon-2-1.pdf",
+  "original_title": "DIVIACCÈS, un service personnalisé pour les personnes à mobilité réduite",
+  "collection_date": ""
 }

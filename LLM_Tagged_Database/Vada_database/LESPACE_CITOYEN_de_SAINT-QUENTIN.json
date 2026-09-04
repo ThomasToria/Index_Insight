@@ -1,34 +1,46 @@
 {
-    "titre": "L’ESPACE CITOYEN",
-    "territoire": "Saint-Quentin (02)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un espace central pour favoriser l’engagement des citoyens dans la démocratie de proximité, permettant aux seniors d’accompagner les habitants dans leurs choix et participer à des projets communautaires.",
-        "contexte": "Suite à trois années de fonctionnement des instances consultatives (Conseil des seniors, Conseil de la vie associative, etc.), Saint-Quentin a constaté que beaucoup de seniors souhaitaient s’investir dans la ville et proposer des projets. Le renouvellement des instances en 2017 a permis d'identifier ce besoin.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un espace central pour favoriser l’engagement des citoyens, permettant aux seniors d’accompagner les habitants dans leurs choix et participer à des projets communautaires.",
-        "objectifs": [
-            "Favoriser la citoyenneté",
-            "Permettre aux seniors de vivre une retraite active",
-            "Accompagner les habitants qui souhaitent s’investir dans le bénévolat et s’engager en faveur de la Ville",
-            "Lutter contre l’isolement"
-        ]
-    },
-    "porteur_initiative": "Saint-Quentin (02)",
-    "date": [
-        "depuis 2017"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LESPACE_CITOYEN_de_SAINT-QUENTIN.txt",
-    "nom_fichier": "LESPACE_CITOYEN_de_SAINT-QUENTIN.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L’ESPACE CITOYEN",
+  "territoire": [
+    "saint-quentin (02)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un espace central pour favoriser l’engagement des citoyens dans la démocratie de proximité, permettant aux seniors d’accompagner les habitants dans leurs choix et participer à des projets communautaires.",
+    "contexte": "Suite à trois années de fonctionnement des instances consultatives (Conseil des seniors, Conseil de la vie associative, etc.), Saint-Quentin a constaté que beaucoup de seniors souhaitaient s’investir dans la ville et proposer des projets. Le renouvellement des instances en 2017 a permis d'identifier ce besoin.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un espace central pour favoriser l’engagement des citoyens, permettant aux seniors d’accompagner les habitants dans leurs choix et participer à des projets communautaires.",
+    "objectifs": [
+      "Favoriser la citoyenneté",
+      "Permettre aux seniors de vivre une retraite active",
+      "Accompagner les habitants qui souhaitent s’investir dans le bénévolat et s’engager en faveur de la Ville",
+      "Lutter contre l’isolement"
+    ]
+  },
+  "porteur_initiative": "Saint-Quentin (02)",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LESPACE_CITOYEN_de_SAINT-QUENTIN.txt",
+  "nom_fichier": "LESPACE_CITOYEN_de_SAINT-QUENTIN.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/503-503-l-espace-citoyen.pdf",
+  "original_title": "L’ESPACE CITOYEN de SAINT-QUENTIN",
+  "collection_date": ""
 }

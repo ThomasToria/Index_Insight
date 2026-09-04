@@ -1,32 +1,44 @@
 {
-    "titre": "Un projet intergénérationnel à vivre ensemble: la colonie",
-    "territoire": "Commune de Lons le Saunier",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un projet intergénérationnel à vivre ensemble: la colonie",
-        "contexte": "En 2010, lors d'une rencontre estivale, l'équipe du Centre Aéré de Montciel a souhaité développer des rencontres intergénérationnelles avec les résidents du Foyer Logement Colbert, géré également par le CCAS de Lons le Saunier. Depuis, une fois par mois, des rencontres intergénérationnelles ont lieu sous forme d'ateliers (tricot, cuisine, arts plastiques, projets nature, jeux, écoute, discussion) entre 15 à 20 enfants de 6 à 16 ans et 8 à 10 résidents de 76 à 90 ans. En complément de ces rencontres régulières, un certain nombre d'animations intergénérationnelles ont également été menées depuis 2010: réalisation d'affiches pour le concours des Droits des Enfants, Forum Débat sur les Droits des Enfants, visite et atelier en commun à la Maison du Comté à Poligny, atelier confiture de pissenlits, défilé de mode lors de la fête de l'Accueil de Loisirs, sortie au Mac Do., jeu 'cache-cache Mamies', relooking du transformateur devant le Foyer Colbert, Street Tricot dans les rues de Lons...",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un projet de colonie de vacances intergénérationnelle a émergé. C'est ainsi que dix enfants âgés de 6 à 15 ans et un groupe de quatre résidents du Foyer Logement Colbert âgés de plus de 80 ans ont partagé trois jours au Duchet dans une maison de vacances en pension complète.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS de Lons le Saunier",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "lien social et isolement",
-        "intergénérationnel",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_intergenerationnel_a_vivre_ensemble_la_colo.txt",
-    "nom_fichier": "Un_projet_intergenerationnel_a_vivre_ensemble_la_colo.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un projet intergénérationnel à vivre ensemble: la colonie",
+  "territoire": [
+    "lons le saunier"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un projet intergénérationnel à vivre ensemble: la colonie",
+    "contexte": "En 2010, lors d'une rencontre estivale, l'équipe du Centre Aéré de Montciel a souhaité développer des rencontres intergénérationnelles avec les résidents du Foyer Logement Colbert, géré également par le CCAS de Lons le Saunier. Depuis, une fois par mois, des rencontres intergénérationnelles ont lieu sous forme d'ateliers (tricot, cuisine, arts plastiques, projets nature, jeux, écoute, discussion) entre 15 à 20 enfants de 6 à 16 ans et 8 à 10 résidents de 76 à 90 ans. En complément de ces rencontres régulières, un certain nombre d'animations intergénérationnelles ont également été menées depuis 2010: réalisation d'affiches pour le concours des Droits des Enfants, Forum Débat sur les Droits des Enfants, visite et atelier en commun à la Maison du Comté à Poligny, atelier confiture de pissenlits, défilé de mode lors de la fête de l'Accueil de Loisirs, sortie au Mac Do., jeu 'cache-cache Mamies', relooking du transformateur devant le Foyer Colbert, Street Tricot dans les rues de Lons...",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un projet de colonie de vacances intergénérationnelle a émergé. C'est ainsi que dix enfants âgés de 6 à 15 ans et un groupe de quatre résidents du Foyer Logement Colbert âgés de plus de 80 ans ont partagé trois jours au Duchet dans une maison de vacances en pension complète.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS de Lons le Saunier",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "lien social et isolement",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_projet_intergenerationnel_a_vivre_ensemble_la_colo.txt",
+  "nom_fichier": "Un_projet_intergenerationnel_a_vivre_ensemble_la_colo.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/282-282-lons-le-saunier-lien-social.pdf",
+  "original_title": "Un projet intergénérationnel à vivre ensemble : la colo",
+  "collection_date": ""
 }

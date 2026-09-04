@@ -1,29 +1,39 @@
 {
-    "titre": "Le rôle de la technologie dans le soutien à l'autonomie. Quel possible? Quelle éthique de la preuve?",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "",
-    "description": {
-        "description_generale": "Séminaire de travail sur le rôle de la technologie dans le soutien à l'autonomie des personnes âgées, abordant également les questions d'éthique.",
-        "contexte": "Organisé par le Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA) en collaboration avec le Conseil de l'âge",
-        "problematique": "Comment la technologie peut-elle aider à améliorer l'autonomie des personnes âgées tout en respectant les principes éthiques ?",
-        "solution_envisagee": "Élaboration et mise en place d'une stratégie de déploiement de technologies adaptées aux besoins des personnes âgées.",
-        "objectifs": "Identifier les opportunités technologiques pour soutenir l'autonomie, comprendre les défis éthiques associés et proposer une approche éthique pour le développement de ces technologies."
-    },
-    "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA) en collaboration avec le Conseil de l'âge",
-    "date": [
-        "2020-09-22"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "numérique"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le rôle de la technologie dans le soutien à lauton.txt",
-    "nom_fichier": "Le rôle de la technologie dans le soutien à lauton.txt",
-    "statut_action": "projet réalisé",
-    "nature_initiative": "publication"
+  "titre": "Le rôle de la technologie dans le soutien à l'autonomie. Quel possible? Quelle éthique de la preuve?",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "public non connu",
+  "description": {
+    "description_generale": "Séminaire de travail sur le rôle de la technologie dans le soutien à l'autonomie des personnes âgées, abordant également les questions d'éthique.",
+    "contexte": "Organisé par le Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA) en collaboration avec le Conseil de l'âge",
+    "problematique": "Comment la technologie peut-elle aider à améliorer l'autonomie des personnes âgées tout en respectant les principes éthiques ?",
+    "solution_envisagee": "Élaboration et mise en place d'une stratégie de déploiement de technologies adaptées aux besoins des personnes âgées.",
+    "objectifs": "Identifier les opportunités technologiques pour soutenir l'autonomie, comprendre les défis éthiques associés et proposer une approche éthique pour le développement de ces technologies."
+  },
+  "porteur_initiative": "Gouvernement Rechercher Menu Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA) en collaboration avec le Conseil de l'âge",
+  "date": [
+    "2020-09-22"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "numérique"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\Le rôle de la technologie dans le soutien à lauton.txt",
+  "nom_fichier": "Le rôle de la technologie dans le soutien à lauton.txt",
+  "statut_action": "projet réalisé",
+  "nature_initiative": "publication",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/le-role-de-la-technologie-dans-le-soutien-lautonomie-quel-possible-quelle-ethique-de-la-preuve",
+  "original_title": "Le rôle de la technologie dans le soutien à l’autonomie. Quel possible ? Quelle éthique de la preuve ?",
+  "collection_date": ""
 }

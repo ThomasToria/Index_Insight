@@ -1,32 +1,44 @@
 {
-    "titre": "CONCOURS LOGO DES SAGES",
-    "territoire": "Commune: Valence-en-Poitou, 86",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Créer un logo représentatif, partagé et approprié pour le territoire afin d'améliorer l'identification de sa communication dédiée aux seniors et aux actions intergénérationnelles.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Créer un logo représentatif, partagé et approprié pour le territoire afin d'améliorer l'identification de sa communication dédiée aux seniors et aux actions intergénérationnelles.",
-        "objectifs": [
-            "Associer les jeunes à la construction d'une identité visuelle dédiée aux seniors et à l'intergénérationnel",
-            "Faire connaître le logo parmi les habitants de la commune"
-        ]
-    },
-    "porteur_initiative": "Collège (sous le pilotage actif de la CPE du collège)",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\CONCOURS_LOGO_DES_SAGES.txt",
-    "nom_fichier": "CONCOURS_LOGO_DES_SAGES.txt",
-    "statut_action": "projet réalisé"
+  "titre": "CONCOURS LOGO DES SAGES",
+  "territoire": [
+    "valence-en-poitou, 86"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Créer un logo représentatif, partagé et approprié pour le territoire afin d'améliorer l'identification de sa communication dédiée aux seniors et aux actions intergénérationnelles.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Créer un logo représentatif, partagé et approprié pour le territoire afin d'améliorer l'identification de sa communication dédiée aux seniors et aux actions intergénérationnelles.",
+    "objectifs": [
+      "Associer les jeunes à la construction d'une identité visuelle dédiée aux seniors et à l'intergénérationnel",
+      "Faire connaître le logo parmi les habitants de la commune"
+    ]
+  },
+  "porteur_initiative": "Collège (sous le pilotage actif de la CPE du collège)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\CONCOURS_LOGO_DES_SAGES.txt",
+  "nom_fichier": "CONCOURS_LOGO_DES_SAGES.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/04/PE-CONCOURS-LOGO-DES-SAGES-1.pdf",
+  "original_title": "CONCOURS LOGO DES SAGES",
+  "collection_date": ""
 }

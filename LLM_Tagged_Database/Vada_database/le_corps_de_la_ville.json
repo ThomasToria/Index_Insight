@@ -1,36 +1,48 @@
 {
-    "titre": "Le Corps de la Ville",
-    "territoire": "Commune: Fouras-les-Bains, Charente-Maritime",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un projet artistique initié par le CCAS de la ville de Fouras (Charente-Maritime) pour valoriser les aînés dans un patrimoine remarquable, mêlant expression corporelle et vidéo.",
-        "contexte": "Le projet a eu lieu de mars 2019 à décembre 2019 et a été projeté devant une quarantaine de personnes.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un court-métrage pour démontrer les stéréotypes sur les seniors et amener ces derniers à se reconnecter avec eux-mêmes et les autres.",
-        "objectifs": [
-            "Organiser le projet vidéo",
-            "Rechercher des acteurs participants au projet",
-            "Organiser des ateliers à destination des personnes âgées ayant des difficultés à se mouvoir",
-            "Tourner les séquences dans l'espace public",
-            "Monter la vidéo",
-            "Organiser des projections dans la ville"
-        ]
-    },
-    "porteur_initiative": "CCAS de Fouras-les-Bains (Charente-Maritime)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\le_corps_de_la_ville.txt",
-    "nom_fichier": "le_corps_de_la_ville.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le Corps de la Ville",
+  "territoire": [
+    "fouras-les-bains, charente-maritime"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un projet artistique initié par le CCAS de la ville de Fouras (Charente-Maritime) pour valoriser les aînés dans un patrimoine remarquable, mêlant expression corporelle et vidéo.",
+    "contexte": "Le projet a eu lieu de mars 2019 à décembre 2019 et a été projeté devant une quarantaine de personnes.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un court-métrage pour démontrer les stéréotypes sur les seniors et amener ces derniers à se reconnecter avec eux-mêmes et les autres.",
+    "objectifs": [
+      "Organiser le projet vidéo",
+      "Rechercher des acteurs participants au projet",
+      "Organiser des ateliers à destination des personnes âgées ayant des difficultés à se mouvoir",
+      "Tourner les séquences dans l'espace public",
+      "Monter la vidéo",
+      "Organiser des projections dans la ville"
+    ]
+  },
+  "porteur_initiative": "CCAS de Fouras-les-Bains (Charente-Maritime)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\le_corps_de_la_ville.txt",
+  "nom_fichier": "le_corps_de_la_ville.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/613-fouras-le-corps-de-la-ville.pdf",
+  "original_title": "le corps de la ville",
+  "collection_date": ""
 }

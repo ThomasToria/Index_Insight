@@ -1,33 +1,43 @@
 {
-    "titre": "Portage de livres",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Une initiative visant à favoriser l'accès à la culture pour les seniors les moins autonomes, garder le lien avec les services de la collectivité et lutter contre l'isolement.",
-        "contexte": "Les seniors ont exprimé un intérêt pour la lecture, mais ils étaient peu nombreux à consulter la bibliothèque. Le portage de livres a été proposé comme une solution.",
-        "problematique": "Le besoin de maintenir la culture auprès des personnes âgées et leur continuer à participer à la vie citoyenne locale.",
-        "solution_envisagee": "Un service supplémentaire pour les seniors, basé sur le portage de livres chez eux.",
-        "objectifs": [
-            "Favoriser l'accès à la culture pour les seniors les moins autonomes",
-            "Garder le lien et l'accès aux services de la collectivité",
-            "Lutter contre l'isolement"
-        ]
-    },
-    "porteur_initiative": "Saint-Quentin (02)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Portage_de_livres.txt",
-    "nom_fichier": "Portage_de_livres.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Portage de livres",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Une initiative visant à favoriser l'accès à la culture pour les seniors les moins autonomes, garder le lien avec les services de la collectivité et lutter contre l'isolement.",
+    "contexte": "Les seniors ont exprimé un intérêt pour la lecture, mais ils étaient peu nombreux à consulter la bibliothèque. Le portage de livres a été proposé comme une solution.",
+    "problematique": "Le besoin de maintenir la culture auprès des personnes âgées et leur continuer à participer à la vie citoyenne locale.",
+    "solution_envisagee": "Un service supplémentaire pour les seniors, basé sur le portage de livres chez eux.",
+    "objectifs": [
+      "Favoriser l'accès à la culture pour les seniors les moins autonomes",
+      "Garder le lien et l'accès aux services de la collectivité",
+      "Lutter contre l'isolement"
+    ]
+  },
+  "porteur_initiative": "Saint-Quentin (02)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Portage_de_livres.txt",
+  "nom_fichier": "Portage_de_livres.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/523-523-portage-de-livres.pdf",
+  "original_title": "Portage de livres",
+  "collection_date": ""
 }

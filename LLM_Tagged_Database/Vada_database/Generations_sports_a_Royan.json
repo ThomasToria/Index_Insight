@@ -1,33 +1,43 @@
 {
-    "titre": "Générations sports à Royan",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Le projet de l'Institut Régional Sport Santé (IRSS) visait à valoriser l’activité sportive comme vecteur d’échanges et de partage entre les aînés et l’ensemble des étudiants de BPJEPS, accompagnés des formateurs de l'école.",
-        "contexte": "Le projet était conçu en collaboration avec l'Adjoint aux Sports de la ville, le responsable du service des sports, l'Adjointe à la Santé et la responsable du service santé et des enseignants de l'IRSS pour une présentation par les étudiants de leur proposition d'action.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un événement sportif fédérateur adapté aux seniors organisé par les étudiants de la classe 'Prépa Sports' de l’Institut Régional Sport Santé (IRSS) de Royan, accompagnés des formateurs de l'école.",
-        "objectifs": [
-            "Valoriser l'activité sportive comme vecteur d'échanges et de partage entre les aînés et l'ensemble des étudiants de BPJEPS",
-            "Développer le lien social et créer un moment de partage et de cohésion intergénérationnelle",
-            "Valoriser la place des jeunes en formation à Royan et des seniors"
-        ]
-    },
-    "porteur_initiative": "Les étudiants de la classe 'Prépa Sports' de l’Institut Régional Sport Santé (IRSS) de Royan, accompagnés des formateurs de l'école",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Generations_sports_a_Royan.txt",
-    "nom_fichier": "Generations_sports_a_Royan.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Générations sports à Royan",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Le projet de l'Institut Régional Sport Santé (IRSS) visait à valoriser l’activité sportive comme vecteur d’échanges et de partage entre les aînés et l’ensemble des étudiants de BPJEPS, accompagnés des formateurs de l'école.",
+    "contexte": "Le projet était conçu en collaboration avec l'Adjoint aux Sports de la ville, le responsable du service des sports, l'Adjointe à la Santé et la responsable du service santé et des enseignants de l'IRSS pour une présentation par les étudiants de leur proposition d'action.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un événement sportif fédérateur adapté aux seniors organisé par les étudiants de la classe 'Prépa Sports' de l’Institut Régional Sport Santé (IRSS) de Royan, accompagnés des formateurs de l'école.",
+    "objectifs": [
+      "Valoriser l'activité sportive comme vecteur d'échanges et de partage entre les aînés et l'ensemble des étudiants de BPJEPS",
+      "Développer le lien social et créer un moment de partage et de cohésion intergénérationnelle",
+      "Valoriser la place des jeunes en formation à Royan et des seniors"
+    ]
+  },
+  "porteur_initiative": "Les étudiants de la classe 'Prépa Sports' de l’Institut Régional Sport Santé (IRSS) de Royan, accompagnés des formateurs de l'école",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Generations_sports_a_Royan.txt",
+  "nom_fichier": "Generations_sports_a_Royan.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1020-concours-2023-generations-sports-a-royan.pdf",
+  "original_title": "Générations sports à Royan\"",
+  "collection_date": ""
 }

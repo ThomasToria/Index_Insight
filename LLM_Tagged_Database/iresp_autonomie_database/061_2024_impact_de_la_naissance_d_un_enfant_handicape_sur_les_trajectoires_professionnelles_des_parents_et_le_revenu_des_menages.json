@@ -1,33 +1,43 @@
 {
-    "titre": "Impact de la naissance d'un enfant handicapé sur les trajectoires professionnelles des parents et le revenu des ménages",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à sensibiliser les parents de jeunes enfants handicapés aux défis professionnels et économiques qu'ils pourraient rencontrer.",
-        "contexte": "",
-        "problematique": "Le besoin d'information sur les effets des handicaps sur la vie future des parents, notamment sur leur insertion professionnelle et économique.",
-        "solution_envisagee": "Organiser une série de conférences et ateliers pour sensibiliser les parents à l’impact du handicap sur leurs perspectives professionnelles et économiques.",
-        "objectifs": [
-            "Améliorer la compréhension des parents concernant les effets futurs du handicap",
-            "Promouvoir une meilleure communication entre les professionnels de santé et les parents pour anticiper les besoins futurs",
-            "Établir un réseau d'information sur l’insertion professionnelle et économique des parents handicapés"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2024"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\061_2024_impact_de_la_naissance_d_un_enfant_handicape_sur_les_trajectoires_professionnelles_des_parents_et_le_revenu_des_menages.txt",
-    "nom_fichier": "061_2024_impact_de_la_naissance_d_un_enfant_handicape_sur_les_trajectoires_professionnelles_des_parents_et_le_revenu_des_menages.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Impact de la naissance d'un enfant handicapé sur les trajectoires professionnelles des parents et le revenu des ménages",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à sensibiliser les parents de jeunes enfants handicapés aux défis professionnels et économiques qu'ils pourraient rencontrer.",
+    "contexte": "",
+    "problematique": "Le besoin d'information sur les effets des handicaps sur la vie future des parents, notamment sur leur insertion professionnelle et économique.",
+    "solution_envisagee": "Organiser une série de conférences et ateliers pour sensibiliser les parents à l’impact du handicap sur leurs perspectives professionnelles et économiques.",
+    "objectifs": [
+      "Améliorer la compréhension des parents concernant les effets futurs du handicap",
+      "Promouvoir une meilleure communication entre les professionnels de santé et les parents pour anticiper les besoins futurs",
+      "Établir un réseau d'information sur l’insertion professionnelle et économique des parents handicapés"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\061_2024_impact_de_la_naissance_d_un_enfant_handicape_sur_les_trajectoires_professionnelles_des_parents_et_le_revenu_des_menages.txt",
+  "nom_fichier": "061_2024_impact_de_la_naissance_d_un_enfant_handicape_sur_les_trajectoires_professionnelles_des_parents_et_le_revenu_des_menages.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/impact-de-la-naissance-dun-enfant-handicape-sur-les-trajectoires-professionnelles-des-parents-et-le-revenu-des-menages/",
+  "original_title": "Impact de la naissance d’un enfant handicapé sur les trajectoires professionnelles des parents et le revenu des ménages",
+  "collection_date": ""
 }

@@ -1,29 +1,39 @@
 {
-    "titre": "",
-    "territoire": "ville",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un guide « Aide mémoire des aîné.e.s » a été édité par le CCCA en 2020, mais il n'a pas été mis à jour depuis. Il serait pourtant intéressant de renouveler puis d'assurer l’actualisation des informations (numéros de téléphone et sites internet notamment) à un rythme biannuel.",
-        "contexte": "",
-        "problematique": "Renouvellement du guide « Aide mémoire des aîné.e.s » pour assurer l'actualisation des informations et la mise en place d'une page à remplir par les personnes concernées sur données médicales en cas d’urgence.",
-        "solution_envisagee": "",
-        "objectifs": "Renouveler le guide « Aide mémoire des aîné.e.s » pour assurer l'actualisation des informations et la mise en place d'une page à remplir par les personnes concernées sur données médicales en cas d’urgence."
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "culture et loisirs"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_Arlon_4.txt",
-    "nom_fichier": "FICHE_Arlon_4.txt",
-    "statut_action": "proposition de projet"
+  "titre": "FICHE Arlon 4",
+  "territoire": [
+    "ville"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un guide « Aide mémoire des aîné.e.s » a été édité par le CCCA en 2020, mais il n'a pas été mis à jour depuis. Il serait pourtant intéressant de renouveler puis d'assurer l’actualisation des informations (numéros de téléphone et sites internet notamment) à un rythme biannuel.",
+    "contexte": "",
+    "problematique": "Renouvellement du guide « Aide mémoire des aîné.e.s » pour assurer l'actualisation des informations et la mise en place d'une page à remplir par les personnes concernées sur données médicales en cas d’urgence.",
+    "solution_envisagee": "",
+    "objectifs": "Renouveler le guide « Aide mémoire des aîné.e.s » pour assurer l'actualisation des informations et la mise en place d'une page à remplir par les personnes concernées sur données médicales en cas d’urgence."
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "culture et loisirs"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_Arlon_4.txt",
+  "nom_fichier": "FICHE_Arlon_4.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE Arlon 4.docx",
+  "collection_date": ""
 }

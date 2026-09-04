@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Territoires — Chaire SIAGE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="Chaire internationale SIAGE, accueil"><img src="assets/logo-siage.png" alt="Chaire internationale SIAGE" /></a>
+      <nav aria-label="Navigation principale">
+        <a href="index.html">Initiatives</a><a class="active" href="territoires.html">Territoires</a><a href="themes.html">Thèmes</a><a href="a-propos.html">À propos</a><a href="ressources.html">Ressources</a>
+      </nav>
+    </header>
+    <main class="explore-page">
+      <section class="explore-hero">
+        <p class="eyebrow">Explorer l’annuaire</p>
+        <h1>Territoires</h1>
+        <p>Explorez les initiatives pour lesquelles un territoire précis a pu être identifié.</p>
+      </section>
+      <section class="territory-layout" aria-label="Initiatives localisées">
+        <div class="territory-map-large"><svg id="territories-map" viewBox="0 0 760 560" role="img" aria-label="Carte de France avec les territoires des initiatives"></svg><p>Défilez pour zoomer, glissez pour vous déplacer et sélectionnez un point pour ouvrir les initiatives concernées.</p></div>
+        <aside class="territory-summary"><p class="map-kicker">Couverture disponible</p><strong id="localized-count"></strong><span>initiatives localisées</span><p>Les initiatives sans localisation précise restent accessibles depuis l’annuaire.</p></aside>
+      </section>
+      <section class="explore-list-section"><div class="section-heading"><h2>Territoires repérés</h2><p id="city-count"></p></div><div class="territory-list" id="territory-list"></div></section>
+    </main>
+    <script src="assets/d3.min.js"></script><script src="assets/france-regions.js"></script><script src="assets/initiatives.js"></script><script src="territoires.js"></script>
+  </body>
+</html>

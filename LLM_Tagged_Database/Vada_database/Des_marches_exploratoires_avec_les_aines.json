@@ -1,37 +1,43 @@
 {
-    "titre": "Des marches exploratoires avec les aînés",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "consultation citoyenne",
-    "description": {
-        "description_generale": "La mission gérontologie de la Ville de Rennes, en lien avec les Directions de quartier et le service Mobilité urbaine, organise des marches exploratoires pour et avec des aînés dans leur quartier.",
-        "contexte": "Les aînés ont besoin d'aménagements favorables à la mobilité mais aussi d'obstacles et freins. Ces marches visent à identifier ces aménagements et obstacles, en lien avec les habitants du quartier.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des marches exploratoires pour et avec des aînés dans leur quartier",
-        "objectifs": [
-            "Identifier les aménagements favorables à la mobilité",
-            "Déterminer les freins et obstacles aux déplacements des aînés"
-        ]
-    },
-    "porteur_initiative": "La Ville de Rennes, en collaboration avec les Directions de quartier, le Service Mobilité urbaine, et la Politique gérontologique",
-    "date": [
-        "juin 2018",
-        "septembre 2018",
-        "novembre 2018"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_marches_exploratoires_avec_les_aines.txt",
-    "nom_fichier": "Des_marches_exploratoires_avec_les_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des marches exploratoires avec les aînés",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "consultation citoyenne",
+  "description": {
+    "description_generale": "La mission gérontologie de la Ville de Rennes, en lien avec les Directions de quartier et le service Mobilité urbaine, organise des marches exploratoires pour et avec des aînés dans leur quartier.",
+    "contexte": "Les aînés ont besoin d'aménagements favorables à la mobilité mais aussi d'obstacles et freins. Ces marches visent à identifier ces aménagements et obstacles, en lien avec les habitants du quartier.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des marches exploratoires pour et avec des aînés dans leur quartier",
+    "objectifs": [
+      "Identifier les aménagements favorables à la mobilité",
+      "Déterminer les freins et obstacles aux déplacements des aînés"
+    ]
+  },
+  "porteur_initiative": "La Ville de Rennes, en collaboration avec les Directions de quartier, le Service Mobilité urbaine, et la Politique gérontologique",
+  "date": [
+    "2018"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_marches_exploratoires_avec_les_aines.txt",
+  "nom_fichier": "Des_marches_exploratoires_avec_les_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "consultation citoyenne",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/531-pe-marches-exploratoires.pdf",
+  "original_title": "Des marches exploratoires avec les aînés",
+  "collection_date": ""
 }

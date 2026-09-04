@@ -1,34 +1,46 @@
 {
-    "titre": "Boucle acti'santé améliorez votre santé et découvrez nice autrement!",
-    "territoire": "Commune de Nice",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "La ville de Nice a mis en place une série d'initiatives pour améliorer la santé des seniors et leur permettre de découvrir le patrimoine local.",
-        "contexte": "Les seniors ont besoin de pratiquer régulièrement l’activité physique pour prévenir les problèmes de fragilité et de chutes, favoriser la maintien de l’autonomie et prévoir la dépendance avec l’avancée en âge. La pratique d’une activité physique joue un rôle majeur dans la prévention et le traitement des maladies.",
-        "problematique": "Les seniors ont besoin de pratiquer régulièrement l’activité physique pour prévenir les problèmes de fragilité et de chutes, favoriser la maintien de l’autonomie et prévoir la dépendance avec l’avancée en âge. La pratique d’une activité physique joue un rôle majeur dans la prévention et le traitement des maladies.",
-        "solution_envisagee": "La ville de Nice a mis en place une série d’initiatives pour améliorer la santé des seniors et leur permettre de découvrir le patrimoine local. Cela comprend la création d’une boucle acti’santé dans chaque quartier, qui est composée de 7 étapes actives invitant les seniors à réaliser un échauffement au début de la boucle, des exercices de renforcement musculaire et des étirements à la fin de la boucle. Elle a également 16 étapes botaniques invitant l’utilisateur à découvrir le patrimoine végétal du quartier (arbres et plantes) et 3 parcs sont traversés par la boucle.",
-        "objectifs": [
-            "Améliorer la santé des seniors",
-            "Prévenir les problèmes de fragilité et de chutes",
-            "Favoriser la maintien de l’autonomie",
-            "Prévoir la dépendance avec l'avancée en âge"
-        ]
-    },
-    "porteur_initiative": "La ville de Nice",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt",
-    "nom_fichier": "Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Boucle acti'santé améliorez votre santé et découvrez nice autrement!",
+  "territoire": [
+    "nice"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "La ville de Nice a mis en place une série d'initiatives pour améliorer la santé des seniors et leur permettre de découvrir le patrimoine local.",
+    "contexte": "Les seniors ont besoin de pratiquer régulièrement l’activité physique pour prévenir les problèmes de fragilité et de chutes, favoriser la maintien de l’autonomie et prévoir la dépendance avec l’avancée en âge. La pratique d’une activité physique joue un rôle majeur dans la prévention et le traitement des maladies.",
+    "problematique": "Les seniors ont besoin de pratiquer régulièrement l’activité physique pour prévenir les problèmes de fragilité et de chutes, favoriser la maintien de l’autonomie et prévoir la dépendance avec l’avancée en âge. La pratique d’une activité physique joue un rôle majeur dans la prévention et le traitement des maladies.",
+    "solution_envisagee": "La ville de Nice a mis en place une série d’initiatives pour améliorer la santé des seniors et leur permettre de découvrir le patrimoine local. Cela comprend la création d’une boucle acti’santé dans chaque quartier, qui est composée de 7 étapes actives invitant les seniors à réaliser un échauffement au début de la boucle, des exercices de renforcement musculaire et des étirements à la fin de la boucle. Elle a également 16 étapes botaniques invitant l’utilisateur à découvrir le patrimoine végétal du quartier (arbres et plantes) et 3 parcs sont traversés par la boucle.",
+    "objectifs": [
+      "Améliorer la santé des seniors",
+      "Prévenir les problèmes de fragilité et de chutes",
+      "Favoriser la maintien de l’autonomie",
+      "Prévoir la dépendance avec l'avancée en âge"
+    ]
+  },
+  "porteur_initiative": "La ville de Nice",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt",
+  "nom_fichier": "Boucle_actisante_ameliorez_votre_sante_et_decouvrez_nice_autrement.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/905-concours-2023-boucle-acti-sante-ameliorez-votre-sante-et-decouvrez-nice-autrement.pdf",
+  "original_title": "Boucle acti'santé améliorez votre santé et découvrez nice autrement !",
+  "collection_date": ""
 }

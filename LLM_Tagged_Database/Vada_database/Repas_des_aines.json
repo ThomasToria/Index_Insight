@@ -1,32 +1,44 @@
 {
-    "titre": "Repas des aînés",
-    "territoire": "Commune de Savigny-le-Sec (21)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une tradition annuelle organisée par la municipalité de Savigny-le-Sec pour les aînés.",
-        "contexte": "Organisation d'un repas annuel pour les aînés, avec covoiturage et présence d'enfants des écoles maternelle et primaire.",
-        "problematique": "Renforcer le lien social entre les résidents de la ville et les générations plus jeunes.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer le lien social entre les résidents de la ville et les générations plus jeunes",
-            "Développer l'engagement citoyen autour du thème de l'âge"
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2022, Savigny-le-Sec (21)",
-    "date": [
-        "depuis 2022"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Repas_des_aines.txt",
-    "nom_fichier": "Repas_des_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Repas des aînés",
+  "territoire": [
+    "savigny-le-sec (21)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une tradition annuelle organisée par la municipalité de Savigny-le-Sec pour les aînés.",
+    "contexte": "Organisation d'un repas annuel pour les aînés, avec covoiturage et présence d'enfants des écoles maternelle et primaire.",
+    "problematique": "Renforcer le lien social entre les résidents de la ville et les générations plus jeunes.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer le lien social entre les résidents de la ville et les générations plus jeunes",
+      "Développer l'engagement citoyen autour du thème de l'âge"
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2022, Savigny-le-Sec (21)",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Repas_des_aines.txt",
+  "nom_fichier": "Repas_des_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1003-pe-repas-des-aines.pdf",
+  "original_title": "Repas des aînés",
+  "collection_date": ""
 }

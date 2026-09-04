@@ -1,36 +1,43 @@
 {
-    "titre": "Accueil des aînés : informations et services gratuits",
-    "territoire": [
-        "communale"
-    ],
-    "echelle": [
-        "quartier",
-        "intercommunale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer l'accès aux informations et aux services gratuits pour les personnes âgées et leurs aidants.",
-        "contexte": "Les activités « grand public » classiques sont souvent trop chères, et les informations concernant les activités gratuites ne sont pas toujours facilement accessibles. Plusieurs personnes disent manquer d'informations quant aux aides disponibles pour les aînés en situation de perte d'autonomie / fragilité.",
-        "problematique": "Manque d’informations sur les droits et les services gratuits pour les aînés, notamment concernant l’adaptation des habitations et les aides à domicile.",
-        "solution_envisagee": "Créer un accueil physique dans la mairie pour informer les personnes âgées et leurs aidants familiaux sur les droits et les services disponibles. Ce service sera accessible aux personnes isolées, aînés en situation de handicap / dépendance, ou non, ainsi que leurs aidants.",
-        "objectifs": [
-            "Améliorer l'accès à l'information pour les personnes âgées et leurs aidants familiaux",
-            "Renforcer la connaissance des droits et services disponibles pour les aînés en situation de fragilité / dépendance"
-        ]
-    },
-    "porteur_initiative": "Mairie de la commune concernée",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "habitat et logement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_3_Informations_senior_Accueil.txt",
-    "nom_fichier": "FICHE_ACTION_3_Informations_senior_Accueil.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Accueil des aînés : informations et services gratuits",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "intercommunale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "offre de service",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer l'accès aux informations et aux services gratuits pour les personnes âgées et leurs aidants.",
+    "contexte": "Les activités « grand public » classiques sont souvent trop chères, et les informations concernant les activités gratuites ne sont pas toujours facilement accessibles. Plusieurs personnes disent manquer d'informations quant aux aides disponibles pour les aînés en situation de perte d'autonomie / fragilité.",
+    "problematique": "Manque d’informations sur les droits et les services gratuits pour les aînés, notamment concernant l’adaptation des habitations et les aides à domicile.",
+    "solution_envisagee": "Créer un accueil physique dans la mairie pour informer les personnes âgées et leurs aidants familiaux sur les droits et les services disponibles. Ce service sera accessible aux personnes isolées, aînés en situation de handicap / dépendance, ou non, ainsi que leurs aidants.",
+    "objectifs": [
+      "Améliorer l'accès à l'information pour les personnes âgées et leurs aidants familiaux",
+      "Renforcer la connaissance des droits et services disponibles pour les aînés en situation de fragilité / dépendance"
+    ]
+  },
+  "porteur_initiative": "Mairie de la commune concernée",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "habitat et logement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_3_Informations_senior_Accueil.txt",
+  "nom_fichier": "FICHE_ACTION_3_Informations_senior_Accueil.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "offre de service",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE ACTION 3_Informations senior_Accueil.pdf",
+  "collection_date": ""
 }

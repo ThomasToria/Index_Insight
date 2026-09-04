@@ -1,34 +1,46 @@
 {
-    "titre": "Les bulles de répit pour les aidants",
-    "territoire": "Commune: Rennes, Ville Membre depuis 2012",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "La Maison des Aînés et des Aidants a développé une initiative de bulles de répit pour les aidants, visant à soutenir les personnes âgées et leurs proches dans la gestion du stress et de l'isolement.",
-        "contexte": "Face à l'épuisement et à l'isolement des aidants renforcés pendant la crise sanitaire (72% des aidants ont ressenti un épuisement physique et 75% un épuisement moral), la Maison des Aînés et des Aidants a souhaité développer un accompagnement des aidants.",
-        "problematique": "Le besoin de soutien pour les aidants face à l'épuisement et à l'isolement, en particulier dans le contexte post-crise sanitaire.",
-        "solution_envisagee": "Des bulles de répit structurées autour d'actions complémentaires: sophrologie par cycles de trois séances; temps mensuel d'expression corporelle; art-thérapie; ateliers de théâtre d'improvisation.",
-        "objectifs": [
-            "Soutenir les aidants dans la gestion du stress et de l'isolement",
-            "Renforcer les liens entre les aidants, leurs proches et la société civile",
-            "Valoriser le rôle des aidants auprès de la personne aidée"
-        ]
-    },
-    "porteur_initiative": "Maison des Aînés et des Aidants",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_bulles_de_repit_pour_les_aidants.txt",
-    "nom_fichier": "Les_bulles_de_repit_pour_les_aidants.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les bulles de répit pour les aidants",
+  "territoire": [
+    "rennes, ville membre depuis 2012"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "La Maison des Aînés et des Aidants a développé une initiative de bulles de répit pour les aidants, visant à soutenir les personnes âgées et leurs proches dans la gestion du stress et de l'isolement.",
+    "contexte": "Face à l'épuisement et à l'isolement des aidants renforcés pendant la crise sanitaire (72% des aidants ont ressenti un épuisement physique et 75% un épuisement moral), la Maison des Aînés et des Aidants a souhaité développer un accompagnement des aidants.",
+    "problematique": "Le besoin de soutien pour les aidants face à l'épuisement et à l'isolement, en particulier dans le contexte post-crise sanitaire.",
+    "solution_envisagee": "Des bulles de répit structurées autour d'actions complémentaires: sophrologie par cycles de trois séances; temps mensuel d'expression corporelle; art-thérapie; ateliers de théâtre d'improvisation.",
+    "objectifs": [
+      "Soutenir les aidants dans la gestion du stress et de l'isolement",
+      "Renforcer les liens entre les aidants, leurs proches et la société civile",
+      "Valoriser le rôle des aidants auprès de la personne aidée"
+    ]
+  },
+  "porteur_initiative": "Maison des Aînés et des Aidants",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_bulles_de_repit_pour_les_aidants.txt",
+  "nom_fichier": "Les_bulles_de_repit_pour_les_aidants.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/807-concours-2022-29-les-bulles-de-repit-pour-les-aidants.pdf",
+  "original_title": "Les bulles de répit pour les aidants",
+  "collection_date": ""
 }

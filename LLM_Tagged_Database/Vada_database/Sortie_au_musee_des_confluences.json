@@ -1,33 +1,43 @@
 {
-    "titre": "Sortie au musée des Confluences",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Une sortie organisée par une association de téléassistance pour les personnes âgées et en situation de handicap, visant à rompre l'isolement.",
-        "contexte": "L'association a organisé une visite du musée des Confluences avec des personnes âgées et en situation de handicap, dans le cadre d'une action intergénérationnelle.",
-        "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des sorties culturelles pour les personnes âgées et en situation de handicap, favoriser l'échange social et créer des relations nouvelles.",
-        "objectifs": [
-            "Renforcer les liens entre résidents",
-            "Favoriser l'échange social",
-            "Valoriser la mémoire et la place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association ALERTE, Ville Amie des Aînés depuis 2009, Lyon (69)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sortie_au_musee_des_confluences.txt",
-    "nom_fichier": "Sortie_au_musee_des_confluences.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Sortie au musée des Confluences",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Une sortie organisée par une association de téléassistance pour les personnes âgées et en situation de handicap, visant à rompre l'isolement.",
+    "contexte": "L'association a organisé une visite du musée des Confluences avec des personnes âgées et en situation de handicap, dans le cadre d'une action intergénérationnelle.",
+    "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des sorties culturelles pour les personnes âgées et en situation de handicap, favoriser l'échange social et créer des relations nouvelles.",
+    "objectifs": [
+      "Renforcer les liens entre résidents",
+      "Favoriser l'échange social",
+      "Valoriser la mémoire et la place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association ALERTE, Ville Amie des Aînés depuis 2009, Lyon (69)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sortie_au_musee_des_confluences.txt",
+  "nom_fichier": "Sortie_au_musee_des_confluences.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/309-pe-sortie-au-musee-confluences.pdf",
+  "original_title": "Sortie au musée des confluences",
+  "collection_date": ""
 }

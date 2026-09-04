@@ -1,33 +1,44 @@
 {
-    "titre": "Bien préparer sa retraite: un accompagnement personnalisé pour les agents proches de la retraite du Vauclin",
-    "territoire": "Vauclin (972)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce projet vise à informer et accompagner les agents de la collectivité du Vauclin dans la préparation de leur départ à la retraite, en leur apportant les informations, les outils et le soutien nécessaires pour anticiper cette étape importante de leur parcours professionnel.",
-        "contexte": "Le besoin d'accompagnement à la retraite a été identifié par la Direction des Ressources Humaines, qui assure la gestion des carrières des agents tout au long de leur vie active. Un dispositif structuré a été conçu en combinant des actions collectives (réunions d’information) et un accompagnement individualisé.",
-        "problematique": "Le besoin de sécuriser les parcours professionnels et faciliter la transition vers la retraite, en particulier pour les agents proches de la retraite qui ont une longue expérience dans leur fonction.",
-        "solution_envisagee": "Un accompagnement personnalisé comprenant des réunions d'information, des entretiens individuels et la mise à disposition de ressources personnalisées. L’objectif est de sécuriser les parcours professionnels et faciliter la transition vers la retraite.",
-        "objectifs": [
-            "Accompagner les agents dans la construction progressive de leur projet de retraite",
-            "Apporter les informations, les outils et le soutien nécessaires pour anticiper cette étape importante de leur parcours professionnel"
-        ]
-    },
-    "porteur_initiative": "Direction des Ressources Humaines (DRH), Encadrants de proximité, Centre de Gestion (CDG), Caisses de retraite (CGSS, CNRACL, RAFP, etc.), Centre National de la Fonction Publique Territoriale (CNFPT)",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "culture et loisirs",
-        "services et accompagnement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\BPreparer_sa_retraite_un_accompagnement_personnalise_pour_les_agents_proches_de_la_retraite_du_Vauclin.txt",
-    "nom_fichier": "BPreparer_sa_retraite_un_accompagnement_personnalise_pour_les_agents_proches_de_la_retraite_du_Vauclin.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bien préparer sa retraite: un accompagnement personnalisé pour les agents proches de la retraite du Vauclin",
+  "territoire": [
+    "vauclin (972)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce projet vise à informer et accompagner les agents de la collectivité du Vauclin dans la préparation de leur départ à la retraite, en leur apportant les informations, les outils et le soutien nécessaires pour anticiper cette étape importante de leur parcours professionnel.",
+    "contexte": "Le besoin d'accompagnement à la retraite a été identifié par la Direction des Ressources Humaines, qui assure la gestion des carrières des agents tout au long de leur vie active. Un dispositif structuré a été conçu en combinant des actions collectives (réunions d’information) et un accompagnement individualisé.",
+    "problematique": "Le besoin de sécuriser les parcours professionnels et faciliter la transition vers la retraite, en particulier pour les agents proches de la retraite qui ont une longue expérience dans leur fonction.",
+    "solution_envisagee": "Un accompagnement personnalisé comprenant des réunions d'information, des entretiens individuels et la mise à disposition de ressources personnalisées. L’objectif est de sécuriser les parcours professionnels et faciliter la transition vers la retraite.",
+    "objectifs": [
+      "Accompagner les agents dans la construction progressive de leur projet de retraite",
+      "Apporter les informations, les outils et le soutien nécessaires pour anticiper cette étape importante de leur parcours professionnel"
+    ]
+  },
+  "porteur_initiative": "Direction des Ressources Humaines (DRH), Encadrants de proximité, Centre de Gestion (CDG), Caisses de retraite (CGSS, CNRACL, RAFP, etc.), Centre National de la Fonction Publique Territoriale (CNFPT)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\BPreparer_sa_retraite_un_accompagnement_personnalise_pour_les_agents_proches_de_la_retraite_du_Vauclin.txt",
+  "nom_fichier": "BPreparer_sa_retraite_un_accompagnement_personnalise_pour_les_agents_proches_de_la_retraite_du_Vauclin.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2026/02/PE-Bien-preparer-sa-retraite-un-accompagnement-personnalise-pour-les-agents-proches-de-la-retraite-du-Vauclin.pdf",
+  "original_title": "BPréparer sa retraite : un accompagnement personnalisé pour les agents proches de la retraite du Vauclin",
+  "collection_date": ""
 }

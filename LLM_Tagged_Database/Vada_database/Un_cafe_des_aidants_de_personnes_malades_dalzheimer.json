@@ -1,34 +1,46 @@
 {
-    "titre": "Un café des aidants de personnes malades d'Alzheimer",
-    "territoire": "Commune: Dijon, Métropole: Bourgogne-Franche-Comté",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Le Réseau RESEDA est un réseau de santé qui re-groupe des professionnels impliqués dans la prise en charge des problématiques liées à la maladie d’Alzheimer et maladies apparentées. Le CCA S de Dijon est quant à lui très impliqué dans les actions de prévention et d’accueil des seniors et leur famille.",
-        "contexte": "Actuellement, il existe sur Dijon différentes formules de soutien et de répit les unes sont destinées aux couples aidants/aidés, d'autres aux personnes malades uniquement, certaines aux aidants de structures (Marronniers) mais peu sont destinées aux aidants d'un proche atteint de maladie d'Alzheimer.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un café des aidants avec le réseau RESEDA pour compléter les dispositifs déjà existants. Actuellement, il existe sur Dijon différentes formules de soutien et de répit les unes sont destinées aux couples aidants/aidés, d'autres aux personnes malades uniquement, certaines aux aidants de structures (Marronniers) mais peu sont destinées aux aidants d'un proche atteint de maladie d'Alzheimer.",
-        "objectifs": [
-            "Soutenir l’aidant dans son accompagnement de la personne malade et l’aider à trouver des pistes d’amélioration face à des situations complexes ou difficiles.",
-            "Proposer une formule de répit à l’aidant, accompagner la prise de recul nécessaire.",
-            "Agir en prévention du épuisement de l’aidant et de l’isolement social. Favoriser le partage et l’échange d’expériences."
-        ]
-    },
-    "porteur_initiative": "CCAS",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_cafe_des_aidants_de_personnes_malades_dalzheimer.txt",
-    "nom_fichier": "Un_cafe_des_aidants_de_personnes_malades_dalzheimer.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un café des aidants de personnes malades d'Alzheimer",
+  "territoire": [
+    "dijon, métropole: bourgogne-franche-comté"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Le Réseau RESEDA est un réseau de santé qui re-groupe des professionnels impliqués dans la prise en charge des problématiques liées à la maladie d’Alzheimer et maladies apparentées. Le CCA S de Dijon est quant à lui très impliqué dans les actions de prévention et d’accueil des seniors et leur famille.",
+    "contexte": "Actuellement, il existe sur Dijon différentes formules de soutien et de répit les unes sont destinées aux couples aidants/aidés, d'autres aux personnes malades uniquement, certaines aux aidants de structures (Marronniers) mais peu sont destinées aux aidants d'un proche atteint de maladie d'Alzheimer.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un café des aidants avec le réseau RESEDA pour compléter les dispositifs déjà existants. Actuellement, il existe sur Dijon différentes formules de soutien et de répit les unes sont destinées aux couples aidants/aidés, d'autres aux personnes malades uniquement, certaines aux aidants de structures (Marronniers) mais peu sont destinées aux aidants d'un proche atteint de maladie d'Alzheimer.",
+    "objectifs": [
+      "Soutenir l’aidant dans son accompagnement de la personne malade et l’aider à trouver des pistes d’amélioration face à des situations complexes ou difficiles.",
+      "Proposer une formule de répit à l’aidant, accompagner la prise de recul nécessaire.",
+      "Agir en prévention du épuisement de l’aidant et de l’isolement social. Favoriser le partage et l’échange d’expériences."
+    ]
+  },
+  "porteur_initiative": "CCAS",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_cafe_des_aidants_de_personnes_malades_dalzheimer.txt",
+  "nom_fichier": "Un_cafe_des_aidants_de_personnes_malades_dalzheimer.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/428-428-pe-cafe-des-aidants.pdf",
+  "original_title": "Un café des aidants de personnes malades d’alzheimer",
+  "collection_date": ""
 }

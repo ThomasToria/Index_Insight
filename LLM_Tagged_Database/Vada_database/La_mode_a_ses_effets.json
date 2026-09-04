@@ -1,33 +1,45 @@
 {
-    "titre": "La mode a ses effets",
-    "territoire": "Commune: Angers (49)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "L'initiative a consisté à organiser une animation autour du printemps, visant à renforcer les liens entre les résidents de l'EHPAD Roseraie, leurs proches et la société civile.",
-        "contexte": "Le projet a été initié en décembre 2015 lors d'une rencontre entre élèves de Bac Pro ACCOMPAGNEMENT SOINS ET SERVICES À LA PERSONNE (ASSP) et élèves de Bac Pro METRIQUES DE LA MODE ET DU VÉtement (MMV).",
-        "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile pour lutter contre l'isolement des personnes âgées.",
-        "solution_envisagee": "Organiser une animation autour du printemps visant à renforcer les liens intergénérationnels.",
-        "objectifs": [
-            "Renforcer les liens entre résidents de l'EHPAD Roseraie, leurs proches et la société civile",
-            "Lutter contre l'isolement des personnes âgées dans le quartier de la Roseraie"
-        ]
-    },
-    "porteur_initiative": "EHPAD Roseraie, Lycée Simone Veil, CCAS Ville d’Angers",
-    "date": [
-        "2016-03-22",
-        "2016-06-16"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_mode_a_ses_effets.txt",
-    "nom_fichier": "La_mode_a_ses_effets.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La mode a ses effets",
+  "territoire": [
+    "angers (49)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "L'initiative a consisté à organiser une animation autour du printemps, visant à renforcer les liens entre les résidents de l'EHPAD Roseraie, leurs proches et la société civile.",
+    "contexte": "Le projet a été initié en décembre 2015 lors d'une rencontre entre élèves de Bac Pro ACCOMPAGNEMENT SOINS ET SERVICES À LA PERSONNE (ASSP) et élèves de Bac Pro METRIQUES DE LA MODE ET DU VÉtement (MMV).",
+    "problematique": "Renforcer les liens entre résidents, leurs proches et la société civile pour lutter contre l'isolement des personnes âgées.",
+    "solution_envisagee": "Organiser une animation autour du printemps visant à renforcer les liens intergénérationnels.",
+    "objectifs": [
+      "Renforcer les liens entre résidents de l'EHPAD Roseraie, leurs proches et la société civile",
+      "Lutter contre l'isolement des personnes âgées dans le quartier de la Roseraie"
+    ]
+  },
+  "porteur_initiative": "EHPAD Roseraie, Lycée Simone Veil, CCAS Ville d’Angers",
+  "date": [
+    "2016-03-22",
+    "2016-06-16"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_mode_a_ses_effets.txt",
+  "nom_fichier": "La_mode_a_ses_effets.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/284-pe-la-mode-a-ses-effets.pdf",
+  "original_title": "La mode a ses effets",
+  "collection_date": ""
 }

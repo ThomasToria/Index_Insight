@@ -1,31 +1,42 @@
 {
-    "titre": "Promenades à Saint-Sébastien-sur-Loire",
-    "territoire": "Saint-Sébastien-sur-Loire, Loir-et-Cher",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative est basée sur des promenades pour maintenir le lien social entre les personnes âgées et leur environnement.",
-        "contexte": "La crise sanitaire a accentué la distanciation sociale, provoquant une perte de mobilité et un vieillissement accru. Les animateurs ont identifié ces problèmes lors d'appels auprès des seniors.",
-        "problematique": "Le manque de lien social, le déclin de la mobilité et l'isolement sont les principales problématiques rencontrées par les personnes âgées dans une situation de crise sanitaire.",
-        "solution_envisagee": "Promenades en plein air pour maintenir le lien social et la mobilité des seniors, tout en respectant les règles sanitaires.",
-        "objectifs": [
-            "Renforcer le lien social entre les personnes âgées et leur environnement",
-            "Conserver les capacités liées à la mobilité des seniors"
-        ]
-    },
-    "porteur_initiative": "Villes Amies des Aînés en France, Ville Amie des Aînés de Saint-Sébastien-sur-Loire depuis 2016",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Promenades_a_Saint-Sebastien-sur-Loire.txt",
-    "nom_fichier": "Promenades_a_Saint-Sebastien-sur-Loire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Promenades à Saint-Sébastien-sur-Loire",
+  "territoire": [
+    "saint-sébastien-sur-loire, loir-et-cher"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative est basée sur des promenades pour maintenir le lien social entre les personnes âgées et leur environnement.",
+    "contexte": "La crise sanitaire a accentué la distanciation sociale, provoquant une perte de mobilité et un vieillissement accru. Les animateurs ont identifié ces problèmes lors d'appels auprès des seniors.",
+    "problematique": "Le manque de lien social, le déclin de la mobilité et l'isolement sont les principales problématiques rencontrées par les personnes âgées dans une situation de crise sanitaire.",
+    "solution_envisagee": "Promenades en plein air pour maintenir le lien social et la mobilité des seniors, tout en respectant les règles sanitaires.",
+    "objectifs": [
+      "Renforcer le lien social entre les personnes âgées et leur environnement",
+      "Conserver les capacités liées à la mobilité des seniors"
+    ]
+  },
+  "porteur_initiative": "Villes Amies des Aînés en France, Ville Amie des Aînés de Saint-Sébastien-sur-Loire depuis 2016",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Promenades_a_Saint-Sebastien-sur-Loire.txt",
+  "nom_fichier": "Promenades_a_Saint-Sebastien-sur-Loire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/906-concours-2023-promenades-a-saint-sebastien-sur-loire.pdf",
+  "original_title": "Promenades à Saint-Sébastien-sur-Loire",
+  "collection_date": ""
 }

@@ -1,33 +1,43 @@
 {
-    "titre": "Co-construction d’une Éducation Thérapeutique du patient dans une démarche de recherche communautaire avec des patients APhasiques Et leurs aidantS (ETAPES)",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette initiative vise à mettre en place une démarche de recherche communautaire autour des patients APhasiques et leurs aidantsS (ETAPES) pour améliorer l’Education Thérapeutique du patient.",
-        "contexte": "",
-        "problematique": "Le besoin d’améliorer la compréhension des patients APhasiques sur leur handicap de communication, en particulier dans le contexte communautaire et familial.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Améliorer la compréhension des patients APhasiques sur leur handicap de communication",
-            "Promouvoir l’Education Thérapeutique du patient auprès des aidantsS (ETAPES)",
-            "Établir un lien entre les patients APhasiques et leurs aidantsS pour améliorer la qualité de vie dans le contexte communautaire"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\018_2021_co_construction_d_une_education_therapeutique_du_patient_dans_une_demarche_de_recherche_communautaire_avec_des_patients_.txt",
-    "nom_fichier": "018_2021_co_construction_d_une_education_therapeutique_du_patient_dans_une_demarche_de_recherche_communautaire_avec_des_patients_.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Co-construction d’une Éducation Thérapeutique du patient dans une démarche de recherche communautaire avec des patients APhasiques Et leurs aidantS (ETAPES)",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette initiative vise à mettre en place une démarche de recherche communautaire autour des patients APhasiques et leurs aidantsS (ETAPES) pour améliorer l’Education Thérapeutique du patient.",
+    "contexte": "",
+    "problematique": "Le besoin d’améliorer la compréhension des patients APhasiques sur leur handicap de communication, en particulier dans le contexte communautaire et familial.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Améliorer la compréhension des patients APhasiques sur leur handicap de communication",
+      "Promouvoir l’Education Thérapeutique du patient auprès des aidantsS (ETAPES)",
+      "Établir un lien entre les patients APhasiques et leurs aidantsS pour améliorer la qualité de vie dans le contexte communautaire"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\018_2021_co_construction_d_une_education_therapeutique_du_patient_dans_une_demarche_de_recherche_communautaire_avec_des_patients_.txt",
+  "nom_fichier": "018_2021_co_construction_d_une_education_therapeutique_du_patient_dans_une_demarche_de_recherche_communautaire_avec_des_patients_.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/co-construction-dune-deducation-therapeutique-du-patient-dans-une-demarche-de-recherche-communautaire-avec-des-patients-aphasiques-et-leurs-aidants-etapes/",
+  "original_title": "Co-construction d’une Éducation Thérapeutique du patient dans une démarche de recherche communautaire avec des patients APhasiques Et leurs aidantS (ETAPES)",
+  "collection_date": ""
 }

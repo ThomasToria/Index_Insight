@@ -1,32 +1,44 @@
 {
-    "titre": "Forum Habitat",
-    "territoire": "Saint-Nazaire (44)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "La ville de Saint-Nazaire a organisé un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d'habitat.",
-        "contexte": "Saint-Nazaire s'est engagée à développer une politique volontariste favorable au vieillissement actif, créant le conseil des aînés et organisant un forum sur l’habitat.",
-        "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d’habitat.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Saint-Nazaire (44)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_habitat.txt",
-    "nom_fichier": "Forum_habitat.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Forum Habitat",
+  "territoire": [
+    "saint-nazaire (44)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "La ville de Saint-Nazaire a organisé un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d'habitat.",
+    "contexte": "Saint-Nazaire s'est engagée à développer une politique volontariste favorable au vieillissement actif, créant le conseil des aînés et organisant un forum sur l’habitat.",
+    "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser un forum sur les habitudes pour sensibiliser la population aux nouveaux modèles d’habitat.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Saint-Nazaire (44)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Forum_habitat.txt",
+  "nom_fichier": "Forum_habitat.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/729-pe-597-forum-habitat-saint-nazaire.pdf",
+  "original_title": "Forum habitat",
+  "collection_date": ""
 }

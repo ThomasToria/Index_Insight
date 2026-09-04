@@ -1,0 +1,108 @@
+% Replace the current Chapter 2 with this version.
+% Add references to the official SIAGE and INSIGHT project presentations before
+% the final submission.
+
+\chapter{General Context of the Project}
+
+\section{Host institution and research setting}
+
+This internship was carried out within the International Chair ``Inclusive
+Societies and Ageing'' (SIAGE) at the University of Lorraine. The Chair studies
+population ageing through the question of inclusive societies: how can social,
+institutional, physical, and digital environments support the participation,
+autonomy, rights, and citizenship of older adults? This perspective does not
+reduce ageing to an individual health issue. It also considers life courses,
+social inequalities, public policies, professional practices, and territorial
+configurations that can facilitate or hinder inclusion.
+
+SIAGE develops an interdisciplinary research environment that brings together
+social sciences, public-policy studies, public health, engineering, and digital
+technologies. Its objective is to connect academic research with territorial
+actors, public decision-makers, professionals, associations, and older citizens.
+Within this setting, digital methods are useful when they help organise and
+compare dispersed knowledge, but their interpretation remains dependent on the
+social and territorial context in which initiatives are developed.
+
+The internship also contributes to the INSIGHT project. INSIGHT promotes the
+connection of Natural Language Processing and Artificial Intelligence with
+research in the Humanities and Social Sciences. \textit{Index\_Insight} is a
+concrete application of this orientation: it uses NLP methods to make a large
+and heterogeneous body of documentation on territorial adaptation to ageing more
+accessible for research and future operational use.
+
+\section{Senior Citizen Design and territorial knowledge}
+
+One of the SIAGE Chair's participatory action-research activities is the
+\textit{Senior Citizen Design} approach. Developed in France since 2018 in
+collaboration with local authorities and the REIACTIS network, it seeks to
+involve older adults as citizens rather than only as users or beneficiaries of
+public action. The approach is structured around four connected stages:
+participatory diagnosis, citizen-centred co-design, dialogue with public
+decision-makers, and follow-up and evaluation.
+
+The Senior Citizen Design Workshops produce action sheets in which participants
+describe local issues, proposed responses, target publics, actors, and resources.
+These documents are valuable because they preserve knowledge produced through
+participatory work. However, they represent only one part of the relevant
+documentary landscape. Numerous other initiatives are carried by municipalities,
+associations, social-protection organisations, care providers, and networks
+specialised in ageing. Their websites, reports, project descriptions, and
+practical sheets also document locally situated responses to ageing-related
+challenges.
+
+\section{The role of Index\_Insight}
+
+The aim of \textit{Index\_Insight} is not simply to create a collection of
+documents. It is to capitalise territorial initiatives, make them visible and
+comparable, and facilitate the circulation of experience between territories. A
+structured index can support several uses: researchers can explore how local
+ageing-related issues are described; territorial actors can identify relevant
+examples; and participants in Senior Citizen Design Workshops can draw on
+initiatives developed elsewhere when discussing local needs and possible
+responses.
+
+This objective creates a specific NLP problem. The relevant information is not
+held in a homogeneous database: it is dispersed across sources with different
+formats, vocabularies, levels of detail, and editorial structures. Titles,
+territories, target audiences, initiative holders, dates, themes, and descriptions
+may be explicit, implicit, absent, or located in different parts of a source
+document. The task is therefore to transform these heterogeneous resources into
+structured, traceable metadata without erasing their provenance or presenting
+automatic inferences as established facts.
+
+The design of the Index was informed by dialogue between its technical development
+and the SIAGE research team. This dialogue contributes to the selection of sources,
+the definition of metadata fields, the vocabulary used for quality control, and the
+interpretation of the outputs. It is essential because the technical schema must
+remain useful for the concrete questions addressed in participatory diagnosis,
+co-design, dialogue with decision-makers, and the capitalisation of experience.
+
+\section{Corpus, stakeholders, and constraints}
+
+The corpus combines two complementary forms of documentation. The first consists
+of action sheets produced by older adults themselves within Senior Citizen Design
+Workshops implemented by SIAGE. The second consists of initiative descriptions
+published by institutional, associative, and territorial actors involved in the
+adaptation of territories to population ageing in France. The external sources were
+selected in dialogue with the SIAGE team according to their relevance to the scope
+of the Index and the availability of sufficiently substantial material for
+structuring.
+
+The intended users are correspondingly diverse: researchers studying ageing and
+local public action, SIAGE participants and facilitators, local elected
+representatives and practitioners, associations, and, in the longer term, older
+citizens. Their needs are not limited to finding a document. They include comparing
+initiative types, identifying territorial scales and stakeholders, locating examples
+related to a particular issue, and understanding the limits of the available
+documentation.
+
+The main technical constraints arise from the organisation of the field itself.
+The French gerontological landscape includes actors operating at national,
+regional, departmental, intermunicipal, and local levels, with complementary
+objectives in prevention, housing, mobility, health, participation, digital
+inclusion, and social connection. This multi-level governance produces a naturally
+fragmented documentary landscape. Relevant information may be distributed across
+several pages of the same website, embedded in PDF documents, or expressed through
+source-specific terminology. The collection, normalisation, and structured
+extraction pipeline described in the following chapters is a response to this
+documentary and institutional heterogeneity.

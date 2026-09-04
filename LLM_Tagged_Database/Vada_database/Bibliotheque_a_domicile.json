@@ -1,35 +1,45 @@
 {
-    "titre": "Bibliothèque à domicile",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Le service de bibliothèque à domicile est le fruit d'un partenariat entre la Bibliothèque municipale Léon - Deubel et le CCAS (Centre communal d'action sociale) de la Ville de Belfort. Il s'adresse aux personnes âgées ou à mobilité réduite, même temporairement.",
-        "contexte": "Le service vise à rendre la lecture accessible aux personnes âgées, malades ou à mobilité réduite qui ne peuvent pas se rendre physiquement à la bibliothèque municipale. Ce dispositif s'inscrit dans un cadre plus large de services inclusifs proposés par la bibliothèque municipale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un service de bibliothèque à domicile permettant aux personnes âgées, malades ou à mobilité réduite d'avoir accès à la culture et à la lecture, tout en maintenir un lien social et culturel même en cas d'isolement.",
-        "objectifs": [
-            "rendre la lecture accessible",
-            "favoriser l'inclusion sociale",
-            "maintenir le lien culturel"
-        ]
-    },
-    "porteur_initiative": "La Ville de Belfort",
-    "date": [
-        "2019",
-        "fin janvier 2025"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bibliotheque_a_domicile.txt",
-    "nom_fichier": "Bibliotheque_a_domicile.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Bibliothèque à domicile",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Le service de bibliothèque à domicile est le fruit d'un partenariat entre la Bibliothèque municipale Léon - Deubel et le CCAS (Centre communal d'action sociale) de la Ville de Belfort. Il s'adresse aux personnes âgées ou à mobilité réduite, même temporairement.",
+    "contexte": "Le service vise à rendre la lecture accessible aux personnes âgées, malades ou à mobilité réduite qui ne peuvent pas se rendre physiquement à la bibliothèque municipale. Ce dispositif s'inscrit dans un cadre plus large de services inclusifs proposés par la bibliothèque municipale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un service de bibliothèque à domicile permettant aux personnes âgées, malades ou à mobilité réduite d'avoir accès à la culture et à la lecture, tout en maintenir un lien social et culturel même en cas d'isolement.",
+    "objectifs": [
+      "rendre la lecture accessible",
+      "favoriser l'inclusion sociale",
+      "maintenir le lien culturel"
+    ]
+  },
+  "porteur_initiative": "La Ville de Belfort",
+  "date": [
+    "2019",
+    "2025"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Bibliotheque_a_domicile.txt",
+  "nom_fichier": "Bibliotheque_a_domicile.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Bibliotheque-a-domicile-1.pdf",
+  "original_title": "Bibliothèque à domicile",
+  "collection_date": ""
 }

@@ -1,33 +1,45 @@
 {
-    "titre": "Salon des seniors",
-    "territoire": "Commune de Vienne (38)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Organiser un Salon des seniors rassemblant les principaux services aux seniors, associations et entreprises pour informer sur les actions qui favorisent leur socialisation.",
-        "contexte": "Les publics âgés ont un frein à la mobilité et sont globalement moins connectés (neuf fois plus de personnes en situation d'illectronisme chez les 75 ans).",
-        "problematique": "Organiser un Salon des seniors rassemblant les principaux services aux seniors, associations et entreprises pour informer sur les actions qui favorisent leur socialisation.",
-        "solution_envisagee": "Proposer une large information par l'intervention de professionnels sur les grandes questions relatives au vieillissement.",
-        "objectifs": [
-            "Renforcer la connaissance des services aux seniors",
-            "Promouvoir le lien social entre les résidents et la société civile",
-            "Valoriser la mémoire et la place des seniors dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Service Animation seniors de Vienne (38)",
-    "date": [
-        "depuis 2022"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "mobilité et transport",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_des_seniors.txt",
-    "nom_fichier": "Salon_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Salon des seniors",
+  "territoire": [
+    "vienne (38)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Organiser un Salon des seniors rassemblant les principaux services aux seniors, associations et entreprises pour informer sur les actions qui favorisent leur socialisation.",
+    "contexte": "Les publics âgés ont un frein à la mobilité et sont globalement moins connectés (neuf fois plus de personnes en situation d'illectronisme chez les 75 ans).",
+    "problematique": "Organiser un Salon des seniors rassemblant les principaux services aux seniors, associations et entreprises pour informer sur les actions qui favorisent leur socialisation.",
+    "solution_envisagee": "Proposer une large information par l'intervention de professionnels sur les grandes questions relatives au vieillissement.",
+    "objectifs": [
+      "Renforcer la connaissance des services aux seniors",
+      "Promouvoir le lien social entre les résidents et la société civile",
+      "Valoriser la mémoire et la place des seniors dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Service Animation seniors de Vienne (38)",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "mobilité et transport",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Salon_des_seniors.txt",
+  "nom_fichier": "Salon_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/759-pe-626-vienne-salon-des-seniors-vienne.pdf",
+  "original_title": "Salon des seniors",
+  "collection_date": ""
 }

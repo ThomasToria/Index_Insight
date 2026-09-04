@@ -1,33 +1,43 @@
 {
-    "titre": "Vivre et vieillir parmi les autres",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées en leur permettant d'interagir et de se sentir incluses dans la société.",
-        "contexte": "La Fondation de France a identifié un besoin croissant pour les seniors, notamment concernant l’isolement social et le maintien de leur autonomie. La crise sanitaire a renforcé ces préoccupations.",
-        "problematique": "Le besoin de rester acteur de sa vie, d'être pris en charge sans être isolé, privé de son libre arbitre ou exclu de la société.",
-        "solution_envisagee": "Des actions intergénérationnelles pour renforcer les liens entre les seniors et la société civile, notamment par le biais des échanges et des projets communs.",
-        "objectifs": [
-            "Renforcer les liens entre les seniors et la société civile",
-            "Promouvoir l’engagement des seniors dans diverses actions communautaires",
-            "Améliorer la qualité de vie des personnes âgées en leur permettant d'interagir et de se sentir incluses dans la société"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Vivre et vieillir parmi les autres.txt",
-    "nom_fichier": "Vivre et vieillir parmi les autres.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Vivre et vieillir parmi les autres",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées en leur permettant d'interagir et de se sentir incluses dans la société.",
+    "contexte": "La Fondation de France a identifié un besoin croissant pour les seniors, notamment concernant l’isolement social et le maintien de leur autonomie. La crise sanitaire a renforcé ces préoccupations.",
+    "problematique": "Le besoin de rester acteur de sa vie, d'être pris en charge sans être isolé, privé de son libre arbitre ou exclu de la société.",
+    "solution_envisagee": "Des actions intergénérationnelles pour renforcer les liens entre les seniors et la société civile, notamment par le biais des échanges et des projets communs.",
+    "objectifs": [
+      "Renforcer les liens entre les seniors et la société civile",
+      "Promouvoir l’engagement des seniors dans diverses actions communautaires",
+      "Améliorer la qualité de vie des personnes âgées en leur permettant d'interagir et de se sentir incluses dans la société"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Vivre et vieillir parmi les autres.txt",
+  "nom_fichier": "Vivre et vieillir parmi les autres.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-agees/personnes-agees-vivre-et-vieillir-parmi-les-autres",
+  "original_title": "Vivre et vieillir parmi les autres",
+  "collection_date": ""
 }

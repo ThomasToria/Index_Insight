@@ -1,32 +1,42 @@
 {
-    "titre": "Dispositif d’accompagnement pour l’adaptation des logements des seniors",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Le dispositif d'accompagnement pour l’adaptation des logements des seniors a été créé dans le cadre de la politique de maintien à domicile des personnes âgées en perte d'autonomie. Il vise à fournir des conseils aux résidents qui souhaitent améliorer leurs conditions de vie.",
-        "contexte": "La population de Libourne, une commune du département du Morbihan, est composée principalement de personnes âgées et a besoin de soutien pour maintenir leur autonomie dans le cadre de la politique locale. Le CCAS de Libourne souhaite améliorer les conditions de vie des résidents en adaptant leurs logements.",
-        "problematique": "Le besoin de conseils pour l'aménagement du logement des aînés, afin d'éviter d'engager des dépenses ne correspondant pas aux besoins.",
-        "solution_envisagee": "Un dispositif d’accompagnement pour l’adaptation des logements des seniors permet de fournir des conseils et aide à améliorer les conditions de vie des résidents en perte d'autonomie.",
-        "objectifs": [
-            "Améliorer la qualité de vie des personnes âgées",
-            "Fournir un accompagnement gratuit dans l'adaptation du logement aux besoins spécifiques"
-        ]
-    },
-    "porteur_initiative": "CCAS de Libourne",
-    "date": [
-        "2024-03"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.txt",
-    "nom_fichier": "Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Dispositif d’accompagnement pour l’adaptation des logements des seniors",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Le dispositif d'accompagnement pour l’adaptation des logements des seniors a été créé dans le cadre de la politique de maintien à domicile des personnes âgées en perte d'autonomie. Il vise à fournir des conseils aux résidents qui souhaitent améliorer leurs conditions de vie.",
+    "contexte": "La population de Libourne, une commune du département du Morbihan, est composée principalement de personnes âgées et a besoin de soutien pour maintenir leur autonomie dans le cadre de la politique locale. Le CCAS de Libourne souhaite améliorer les conditions de vie des résidents en adaptant leurs logements.",
+    "problematique": "Le besoin de conseils pour l'aménagement du logement des aînés, afin d'éviter d'engager des dépenses ne correspondant pas aux besoins.",
+    "solution_envisagee": "Un dispositif d’accompagnement pour l’adaptation des logements des seniors permet de fournir des conseils et aide à améliorer les conditions de vie des résidents en perte d'autonomie.",
+    "objectifs": [
+      "Améliorer la qualité de vie des personnes âgées",
+      "Fournir un accompagnement gratuit dans l'adaptation du logement aux besoins spécifiques"
+    ]
+  },
+  "porteur_initiative": "CCAS de Libourne",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.txt",
+  "nom_fichier": "Dispositif_daccompagnement_pour_ladaptation_des_logements_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1051-pe-dispositif-d-accompagnement-pour-l-adaptation-des-logements-des-seniors.pdf",
+  "original_title": "Dispositif d’accompagnement pour l’adaptation des logements des seniors",
+  "collection_date": ""
 }

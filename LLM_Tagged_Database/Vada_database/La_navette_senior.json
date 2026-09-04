@@ -1,33 +1,43 @@
 {
-    "titre": "La navette senior",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Une action autour des 30 ans d'un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
-        "contexte": "Le réalisation d’un diagnostic sur le vieillissement de la population a mis en avant le besoin de déplacement pour les seniors, en particulier ceux ne se sentant pas en sécurité dans les transports en commun.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une navette à sept places pour les seniors de plus de soixante-dix ans mise en place gratuitement pour faciliter le déplacement des seniors sur la commune grâce à un transport adapté et sécurisé.",
-        "objectifs": [
-            "valoriser l’identité communale",
-            "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
-        ]
-    },
-    "porteur_initiative": "Ville de Saint-Priest",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_senior.txt",
-    "nom_fichier": "La_navette_senior.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La navette senior",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Une action autour des 30 ans d'un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
+    "contexte": "Le réalisation d’un diagnostic sur le vieillissement de la population a mis en avant le besoin de déplacement pour les seniors, en particulier ceux ne se sentant pas en sécurité dans les transports en commun.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une navette à sept places pour les seniors de plus de soixante-dix ans mise en place gratuitement pour faciliter le déplacement des seniors sur la commune grâce à un transport adapté et sécurisé.",
+    "objectifs": [
+      "valoriser l’identité communale",
+      "renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile"
+    ]
+  },
+  "porteur_initiative": "Ville de Saint-Priest",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_navette_senior.txt",
+  "nom_fichier": "La_navette_senior.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/675-pe-543-navette-senior-saint-priest.pdf",
+  "original_title": "La navette senior",
+  "collection_date": ""
 }

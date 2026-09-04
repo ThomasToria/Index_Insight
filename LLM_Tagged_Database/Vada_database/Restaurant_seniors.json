@@ -1,36 +1,48 @@
 {
-    "titre": "Restaurant seniors",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la qualité de vie des aînés en leur permettant d'avoir un repas pris dans l'intégralité, en lutte contre la désocialisation (facilitée par les repas à domicile), et en apportant des repères.",
-        "contexte": "Le besoin a été identifié suite à une concertation avec les aînés et une conférence sur le thème de l'autonomie, des services et des soins. Les aînés ont choisi d'avoir un restaurant seniors plutôt que le service de repas à domicile.",
-        "problematique": "Lutter contre la malnutrition, faciliter la communication entre les aînés et les jeunes enfants, valoriser l'identité culturelle des aînés, créer des liens intergénérationnels.",
-        "solution_envisagee": "Un restaurant seniors accessible à tous les aînés de plus de 65 ans, situé dans une commune communale. Les repas sont proposés en thèmes variés et permettent aux jeunes enfants d'assister à des fêtes d'anniversaire.",
-        "objectifs": [
-            "Lutter contre la malnutrition",
-            "Faciliter la communication entre les aînés et les jeunes enfants",
-            "Valoriser l'identité culturelle des aînés",
-            "Créer des liens intergénérationnels"
-        ]
-    },
-    "porteur_initiative": "Commune de Meaulne-Vitray",
-    "date": [
-        "2015",
-        "2024",
-        "2025"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Restaurant_seniors.txt",
-    "nom_fichier": "Restaurant_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Restaurant seniors",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la qualité de vie des aînés en leur permettant d'avoir un repas pris dans l'intégralité, en lutte contre la désocialisation (facilitée par les repas à domicile), et en apportant des repères.",
+    "contexte": "Le besoin a été identifié suite à une concertation avec les aînés et une conférence sur le thème de l'autonomie, des services et des soins. Les aînés ont choisi d'avoir un restaurant seniors plutôt que le service de repas à domicile.",
+    "problematique": "Lutter contre la malnutrition, faciliter la communication entre les aînés et les jeunes enfants, valoriser l'identité culturelle des aînés, créer des liens intergénérationnels.",
+    "solution_envisagee": "Un restaurant seniors accessible à tous les aînés de plus de 65 ans, situé dans une commune communale. Les repas sont proposés en thèmes variés et permettent aux jeunes enfants d'assister à des fêtes d'anniversaire.",
+    "objectifs": [
+      "Lutter contre la malnutrition",
+      "Faciliter la communication entre les aînés et les jeunes enfants",
+      "Valoriser l'identité culturelle des aînés",
+      "Créer des liens intergénérationnels"
+    ]
+  },
+  "porteur_initiative": "Commune de Meaulne-Vitray",
+  "date": [
+    "2015",
+    "2024",
+    "2025"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Restaurant_seniors.txt",
+  "nom_fichier": "Restaurant_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Restaurant-seniors.pdf",
+  "original_title": "Restaurant seniors",
+  "collection_date": ""
 }

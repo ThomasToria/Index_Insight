@@ -1,33 +1,45 @@
 {
-    "titre": "L’OPAD: une multitude de loisirs pour les seniors Dijonnais",
-    "territoire": "Commune : Dijon, Ain",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "L’OPAD est une association de loisirs pour les seniors d’origine dijonnaise, fondée en 1982. Elle propose un vaste programme d’activités à la fois physiques et culturelles.",
-        "contexte": "La population âgée actuelle a des attentes plus élevées en termes de loisirs que celle de l’époque précédente, ce qui nécessite une adaptation du service aux seniors pour les aider à s'épanouir.",
-        "problematique": "Les seniors d’origine dijonnaise ont besoin d’activités adaptées et accessibles pour maintenir leur santé mentale et physique.",
-        "solution_envisagee": "L’OPAD propose un vaste programme de loisirs, y compris des ateliers de sculpture, de photographie, de cuisine, de self-défense, de méditation, de généalogie, de langues étrangères, d’initiation aux nouvelles technologies, et des conférences sur la mémoire, l’équilibre, du code de la route et de la conduite.",
-        "objectifs": [
-            "Promouvoir les loisirs pour les seniors",
-            "Soutenir leur santé mentale et physique",
-            "Retarder le grand vieillissement"
-        ]
-    },
-    "porteur_initiative": "Association L’OPAD",
-    "date": [
-        "1982"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "numérique"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LOPAD_une_multitude_de_loisirs_pour_les_seniors_Dijonnais.txt",
-    "nom_fichier": "LOPAD_une_multitude_de_loisirs_pour_les_seniors_Dijonnais.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L’OPAD: une multitude de loisirs pour les seniors Dijonnais",
+  "territoire": [
+    "dijon, ain"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "L’OPAD est une association de loisirs pour les seniors d’origine dijonnaise, fondée en 1982. Elle propose un vaste programme d’activités à la fois physiques et culturelles.",
+    "contexte": "La population âgée actuelle a des attentes plus élevées en termes de loisirs que celle de l’époque précédente, ce qui nécessite une adaptation du service aux seniors pour les aider à s'épanouir.",
+    "problematique": "Les seniors d’origine dijonnaise ont besoin d’activités adaptées et accessibles pour maintenir leur santé mentale et physique.",
+    "solution_envisagee": "L’OPAD propose un vaste programme de loisirs, y compris des ateliers de sculpture, de photographie, de cuisine, de self-défense, de méditation, de généalogie, de langues étrangères, d’initiation aux nouvelles technologies, et des conférences sur la mémoire, l’équilibre, du code de la route et de la conduite.",
+    "objectifs": [
+      "Promouvoir les loisirs pour les seniors",
+      "Soutenir leur santé mentale et physique",
+      "Retarder le grand vieillissement"
+    ]
+  },
+  "porteur_initiative": "Association L’OPAD",
+  "date": [
+    "1982"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "numérique"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\LOPAD_une_multitude_de_loisirs_pour_les_seniors_Dijonnais.txt",
+  "nom_fichier": "LOPAD_une_multitude_de_loisirs_pour_les_seniors_Dijonnais.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/159-159-opad.pdf",
+  "original_title": "L’OPAD : une multitude de loisirs pour les seniors Dijonnais",
+  "collection_date": ""
 }

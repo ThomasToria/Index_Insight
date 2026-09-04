@@ -1,33 +1,43 @@
 {
-    "titre": "Le cercle des aidants",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette action est une réponse à l’axe n°2 du programme d’action « Bien Vieillir » qui a pour objectif de renforcer la coordination des acteurs pour une meilleure prise en charge des personnes âgées isolées. Le Département de la Seine-Maritime et la Ville du Havre ont lancé le projet « Le cercle des aidants ». Ce dispositif vise à développer des groupes d’aide aux aidants, notamment auprès de personnes handicapées (jeunes ou adultes) et de personnes âgées.",
-        "contexte": "La perte d'autonomie d'un proche est un sujet qui touche de nombreux aînés. Les aidants naturels, comme les conjoints, enfants, amis, voisins, etc., sont souvent isolés et perçoivent une forte isolation sociale. C'est pourquoi la création du cercle des aidants est essentielle pour renforcer l'engagement et le soutien aux aidants familiaux.",
-        "problematique": "Le besoin de développer des groupes d'aide aux aidants, notamment auprès de personnes handicapées (jeunes ou adultes) et de personnes âgées, afin de les aider à surmonter les défis liés à la perte d'autonomie. Les aidants naturels sont souvent isolés et perçoivent une forte isolation sociale.",
-        "solution_envisagee": "Proposer des rencontres à plusieurs aidants familiaux de personnes handicapées (jeunes ou adultes) et de personnes âgées, ainsi que des programmes de sensibilisation sur des thématiques techniques différentes comme la maintenance à domicile, les solutions pour les répit, l'admission en EHPAD...",
-        "objectifs": [
-            "Développer des groupes d'aide aux aidants",
-            "Soutenir et informer les aidants et leurs familles confrontés à la perte d'autonomie d'un proche",
-            "Proposer des rencontres à plusieurs aidants familiaux de personnes handicapées (jeunes ou adultes) et de personnes âgées"
-        ]
-    },
-    "porteur_initiative": "La Ville du Havre, Département de la Seine-Maritime",
-    "date": [
-        "2013"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cercle_des_aidants.txt",
-    "nom_fichier": "Le_cercle_des_aidants.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le cercle des aidants",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette action est une réponse à l’axe n°2 du programme d’action « Bien Vieillir » qui a pour objectif de renforcer la coordination des acteurs pour une meilleure prise en charge des personnes âgées isolées. Le Département de la Seine-Maritime et la Ville du Havre ont lancé le projet « Le cercle des aidants ». Ce dispositif vise à développer des groupes d’aide aux aidants, notamment auprès de personnes handicapées (jeunes ou adultes) et de personnes âgées.",
+    "contexte": "La perte d'autonomie d'un proche est un sujet qui touche de nombreux aînés. Les aidants naturels, comme les conjoints, enfants, amis, voisins, etc., sont souvent isolés et perçoivent une forte isolation sociale. C'est pourquoi la création du cercle des aidants est essentielle pour renforcer l'engagement et le soutien aux aidants familiaux.",
+    "problematique": "Le besoin de développer des groupes d'aide aux aidants, notamment auprès de personnes handicapées (jeunes ou adultes) et de personnes âgées, afin de les aider à surmonter les défis liés à la perte d'autonomie. Les aidants naturels sont souvent isolés et perçoivent une forte isolation sociale.",
+    "solution_envisagee": "Proposer des rencontres à plusieurs aidants familiaux de personnes handicapées (jeunes ou adultes) et de personnes âgées, ainsi que des programmes de sensibilisation sur des thématiques techniques différentes comme la maintenance à domicile, les solutions pour les répit, l'admission en EHPAD...",
+    "objectifs": [
+      "Développer des groupes d'aide aux aidants",
+      "Soutenir et informer les aidants et leurs familles confrontés à la perte d'autonomie d'un proche",
+      "Proposer des rencontres à plusieurs aidants familiaux de personnes handicapées (jeunes ou adultes) et de personnes âgées"
+    ]
+  },
+  "porteur_initiative": "La Ville du Havre, Département de la Seine-Maritime",
+  "date": [
+    "2013"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_cercle_des_aidants.txt",
+  "nom_fichier": "Le_cercle_des_aidants.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/262-262-le-cercle-des-aidants-le-havre.pdf",
+  "original_title": "Le cercle des aidants",
+  "collection_date": ""
 }

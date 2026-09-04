@@ -1,29 +1,39 @@
 {
-    "titre": "Référentiel Adaptations Logement Neuf et RÉhabilitation",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un outil pratique pour un habitat favorable au vieillissement, développé dans le cadre de la démarche 'Villes Amies des Aînés' par Rennes Métropole depuis 2017.",
-        "contexte": "",
-        "problematique": "Développer une politique d’habitat favorisant le bien vieillir chez soi, en particulier pour les personnes âgées qui souhaitent vivre à domicile.",
-        "solution_envisagee": "Un référentiel de logement adapté et accessible aux personnes âgées, incluant des aménagements pour la qualité du logement et l’extérieur.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "Rennes Métropole (35)",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",
-    "nom_fichier": "Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Référentiel Adaptations Logement Neuf et RÉhabilitation",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un outil pratique pour un habitat favorable au vieillissement, développé dans le cadre de la démarche 'Villes Amies des Aînés' par Rennes Métropole depuis 2017.",
+    "contexte": "",
+    "problematique": "Développer une politique d’habitat favorisant le bien vieillir chez soi, en particulier pour les personnes âgées qui souhaitent vivre à domicile.",
+    "solution_envisagee": "Un référentiel de logement adapté et accessible aux personnes âgées, incluant des aménagements pour la qualité du logement et l’extérieur.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "Rennes Métropole (35)",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",
+  "nom_fichier": "Referentiel_adaptations_logement_neuf_et_rehabilitation.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/663-pe-531-demarche-habitat-favorable-au-vieillissement-rennes-metropole.pdf",
+  "original_title": "Référentiel adaptations logement neuf et réhabilitation",
+  "collection_date": ""
 }

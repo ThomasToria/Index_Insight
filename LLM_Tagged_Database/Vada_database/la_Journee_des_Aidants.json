@@ -1,32 +1,44 @@
 {
-    "titre": "La Journée des Aidants",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une journée consacrée aux aidants familiaux et professionnels.",
-        "contexte": "Les personnes âgées ou dépendantes ont des besoins grandissants, mais malgré les actions proposées, malgré les services accessibles, bon nombre de proches aidants ont des réticences à céder leur place.",
-        "problematique": "Malgré la qualité des actions et les services disponibles pour relayer l’aidant principal, malgré les recommandations des professionnels, bon nombre de proches aidants ont des réticences à céder leur place auprès de la personne aidée.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Villes Amies des Aînés",
-    "date": [
-        "24/04/2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\la_Journee_des_Aidants.txt",
-    "nom_fichier": "la_Journee_des_Aidants.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Journée des Aidants",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une journée consacrée aux aidants familiaux et professionnels.",
+    "contexte": "Les personnes âgées ou dépendantes ont des besoins grandissants, mais malgré les actions proposées, malgré les services accessibles, bon nombre de proches aidants ont des réticences à céder leur place.",
+    "problematique": "Malgré la qualité des actions et les services disponibles pour relayer l’aidant principal, malgré les recommandations des professionnels, bon nombre de proches aidants ont des réticences à céder leur place auprès de la personne aidée.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Villes Amies des Aînés",
+  "date": [
+    "2019-04-24"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\la_Journee_des_Aidants.txt",
+  "nom_fichier": "la_Journee_des_Aidants.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/557-557-la-journee-des-aidants.pdf",
+  "original_title": "la Journée des Aidants",
+  "collection_date": ""
 }

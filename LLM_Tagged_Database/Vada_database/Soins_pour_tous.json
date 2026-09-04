@@ -1,33 +1,43 @@
 {
-    "titre": "Soins pour tous",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Le diagnostic santé réalisé par la Ville de Saint-Priest a démontré qu'une partie des personnes âgées sont en situation de précarité et d'isolement. Les difficultés de maintien à domicile, les coûts et délais d’attente pour l’entrée en EHPAD entraînent des situations complexes d'isolement mais également des abandons de soins.",
-        "contexte": "Les difficultés de mobilité, la faible part de praticiens visitant à domicile sont en effet les premiers facteurs d’isolement mis en avant. L’offre de soins de premier recours est également complexe à Saint-Priest (diminution du nombre de médecins généralistes).",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un dispositif d’orientation et d’accompagnement individualisé aux soins qui répond à des situations « d’isolement médical » de certains habitants. L’objectif est de permettre aux personnes les plus précaisées et éloignées du système médical actuel, d’accéder à une prise en charge sanitaire et sociale dans la recherche d’un bien-être physique, psychique et social où chacun peut être acteur.",
-        "objectifs": [
-            "Améliorer l'accès aux soins et à la prévention pour les personnes les plus démunies",
-            "Assurer le lien entre la population précaire et son environnement sanitaire",
-            "Lutter contre les inégalités territoriales d’accès aux soins"
-        ]
-    },
-    "porteur_initiative": "Ville de Saint-Priest",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soins_pour_tous.txt",
-    "nom_fichier": "Soins_pour_tous.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Soins pour tous",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Le diagnostic santé réalisé par la Ville de Saint-Priest a démontré qu'une partie des personnes âgées sont en situation de précarité et d'isolement. Les difficultés de maintien à domicile, les coûts et délais d’attente pour l’entrée en EHPAD entraînent des situations complexes d'isolement mais également des abandons de soins.",
+    "contexte": "Les difficultés de mobilité, la faible part de praticiens visitant à domicile sont en effet les premiers facteurs d’isolement mis en avant. L’offre de soins de premier recours est également complexe à Saint-Priest (diminution du nombre de médecins généralistes).",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un dispositif d’orientation et d’accompagnement individualisé aux soins qui répond à des situations « d’isolement médical » de certains habitants. L’objectif est de permettre aux personnes les plus précaisées et éloignées du système médical actuel, d’accéder à une prise en charge sanitaire et sociale dans la recherche d’un bien-être physique, psychique et social où chacun peut être acteur.",
+    "objectifs": [
+      "Améliorer l'accès aux soins et à la prévention pour les personnes les plus démunies",
+      "Assurer le lien entre la population précaire et son environnement sanitaire",
+      "Lutter contre les inégalités territoriales d’accès aux soins"
+    ]
+  },
+  "porteur_initiative": "Ville de Saint-Priest",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soins_pour_tous.txt",
+  "nom_fichier": "Soins_pour_tous.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/673-pe-541-soin-pour-tous-saint-priest.pdf",
+  "original_title": "Soins pour tous",
+  "collection_date": ""
 }

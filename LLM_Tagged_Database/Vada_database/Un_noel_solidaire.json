@@ -1,33 +1,43 @@
 {
-    "titre": "Un noël solidaire",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une initiative autour des 30 ans d'un EHPAD, visant à renforcer les liens entre résidents, leurs proches et la société civile.",
-        "contexte": "Les résidents de l'EHPAD Cleunay du CCAS de Rennes évoquaient parfois leur sentiment d'inutilité face aux événements dramatiques de l'actualité, comme par exemple la crise des migrants. En 2016, à l'occasion des fêtes de fin d'année, l'animatrice de l'établissement leur a donc proposé le thème d'un 'Noël solidaire'.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser une journée festive autour des 30 ans d'un EHPAD avec des activités intergénérationnelles, collectes de denrées pour Restos du Cœur, et participation des enfants du centre de loisirs du quartier.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD",
-            "Valoriser leur savoir-faire",
-            "Contribuer à la collecte de denrées pour Restos du Cœur"
-        ]
-    },
-    "porteur_initiative": "EHPAD Cleunay, CCAS de Rennes, Resto du Cœur, Centre de Loisirs du Quartier",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_noel_solidaire.txt",
-    "nom_fichier": "Un_noel_solidaire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Un noël solidaire",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une initiative autour des 30 ans d'un EHPAD, visant à renforcer les liens entre résidents, leurs proches et la société civile.",
+    "contexte": "Les résidents de l'EHPAD Cleunay du CCAS de Rennes évoquaient parfois leur sentiment d'inutilité face aux événements dramatiques de l'actualité, comme par exemple la crise des migrants. En 2016, à l'occasion des fêtes de fin d'année, l'animatrice de l'établissement leur a donc proposé le thème d'un 'Noël solidaire'.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser une journée festive autour des 30 ans d'un EHPAD avec des activités intergénérationnelles, collectes de denrées pour Restos du Cœur, et participation des enfants du centre de loisirs du quartier.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD",
+      "Valoriser leur savoir-faire",
+      "Contribuer à la collecte de denrées pour Restos du Cœur"
+    ]
+  },
+  "porteur_initiative": "EHPAD Cleunay, CCAS de Rennes, Resto du Cœur, Centre de Loisirs du Quartier",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Un_noel_solidaire.txt",
+  "nom_fichier": "Un_noel_solidaire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/444-pe-un-noel-solidaire.pdf",
+  "original_title": "Un noël solidaire",
+  "collection_date": ""
 }

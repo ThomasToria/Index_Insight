@@ -1,31 +1,43 @@
 {
-    "titre": "ADAPTATION DES LOGEMENTS DU PARC SOCIAL D'ILL",
-    "territoire": "Bas-Rhin",
-    "echelle": [
-        "communale",
-        "départementale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Habitat de l’Ill s'est engagé dans la démarche de labellisation Habitat Senior Services® pour favoriser le maintien à domicile des seniors dans son parc social immobilier. La Carsat Alsace-Moselle soutient ce bailleur par le financement de 50 logements labellisés en 2022, avec un objectif d'adapter plus de 400 logements d'ici 2026.",
-        "contexte": "La démarche Habitat Senior Services® vise à prévenir la perte d'autonomie des seniors par l'adaptation de leurs logements. Elle comprend trois axes : un parc adapté, un accompagnement pour prévenir l'isolement social et une organisation interne adaptée grâce à une équipe dédiée.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "L'adaptation des logements tels que la création de douches, pose de barres d'appui dans les salles de bains et toilettes, installation de système de commandes d'éclairage et de volets roulants.",
-        "objectifs": "Adapter plus de 400 logements à l'avenir, en mettant en place un parc adapté, une équipe dédiée pour le maintien à domicile des seniors et un accompagnement pour prévenir l'isolement social."
-    },
-    "porteur_initiative": "Habitat de l’Ill",
-    "date": [
-        "2021",
-        "2026"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt",
-    "nom_fichier": "07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt",
-    "statut_action": "projet réalisé"
+  "titre": "ADAPTATION DES LOGEMENTS DU PARC SOCIAL D'ILL",
+  "territoire": [
+    "bas-rhin"
+  ],
+  "echelle": [
+    "communale",
+    "départementale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Habitat de l’Ill s'est engagé dans la démarche de labellisation Habitat Senior Services® pour favoriser le maintien à domicile des seniors dans son parc social immobilier. La Carsat Alsace-Moselle soutient ce bailleur par le financement de 50 logements labellisés en 2022, avec un objectif d'adapter plus de 400 logements d'ici 2026.",
+    "contexte": "La démarche Habitat Senior Services® vise à prévenir la perte d'autonomie des seniors par l'adaptation de leurs logements. Elle comprend trois axes : un parc adapté, un accompagnement pour prévenir l'isolement social et une organisation interne adaptée grâce à une équipe dédiée.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "L'adaptation des logements tels que la création de douches, pose de barres d'appui dans les salles de bains et toilettes, installation de système de commandes d'éclairage et de volets roulants.",
+    "objectifs": "Adapter plus de 400 logements à l'avenir, en mettant en place un parc adapté, une équipe dédiée pour le maintien à domicile des seniors et un accompagnement pour prévenir l'isolement social."
+  },
+  "porteur_initiative": "Habitat de l’Ill",
+  "date": [
+    "2021",
+    "2026"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt",
+  "nom_fichier": "07_ADAPTATION_DES_LOGEMENTS_DU_PARC_SOCIAL_DHABITA.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "ADAPTATION DES LOGEMENTS DU PARC SOCIAL D’HABITAT DE L ’ILL",
+  "collection_date": ""
 }

@@ -1,29 +1,40 @@
 {
-    "titre": "Polyhandicap: le réseau communautaire de recherche",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Eval-PLH, dispositif unique et innovant, a d'ores et déjà démontré sa légitimité et son apport dans le milieu du polyhandicap en permettant la formalisation d’un grand nombre de projets de recherche.",
-        "contexte": "",
-        "problematique": "L’optimisation de la prise en charge des personnes polyhandicapées n’est possible qu’en approfondissant les connaissances (épidémiologie, caractérisation, parcours de soins, le vécu des aidants, représentations).",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2015-2020"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\105_2021_polyhandicap_le_reseau_communautaire_de_recherche.txt",
-    "nom_fichier": "105_2021_polyhandicap_le_reseau_communautaire_de_recherche.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Polyhandicap: le réseau communautaire de recherche",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Eval-PLH, dispositif unique et innovant, a d'ores et déjà démontré sa légitimité et son apport dans le milieu du polyhandicap en permettant la formalisation d’un grand nombre de projets de recherche.",
+    "contexte": "",
+    "problematique": "L’optimisation de la prise en charge des personnes polyhandicapées n’est possible qu’en approfondissant les connaissances (épidémiologie, caractérisation, parcours de soins, le vécu des aidants, représentations).",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2015",
+    "2020"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\105_2021_polyhandicap_le_reseau_communautaire_de_recherche.txt",
+  "nom_fichier": "105_2021_polyhandicap_le_reseau_communautaire_de_recherche.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/polyhandicap-le-reseau-communautaire-de-recherche/",
+  "original_title": "Polyhandicap : le réseau communautaire de recherche",
+  "collection_date": ""
 }

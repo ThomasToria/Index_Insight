@@ -1,29 +1,39 @@
 {
-    "titre": "Effets d’une nouvelle organisation du travail dans l’aide à domicile: une évaluation par tirage aléatoire",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "",
-        "contexte": "",
-        "problematique": "La structure Buurtzorg, créée par Jos de Blok en 2006 autour d’une dizaine de professionnels, compte aujourd’hui plus de 11 000 employés. Ce succès apparent a inspiré de nombreuses associations du secteur de l’aide à domicile qui ont à leur tour adopté ce modèle organisationnel, à la fois en France et ailleurs dans le monde. En leur donnant davantage d’autonomie pour organiser leurs plannings et les plans de soins, ce modèle ‘d’équipe’ a permis une amélioration significative des conditions de travail et du bien-être des employés.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\038_2022_effets_d_une_nouvelle_organisation_du_travail_dans_l_aide_a_domicile_une_evaluation_par_tirage_aleatoire.txt",
-    "nom_fichier": "038_2022_effets_d_une_nouvelle_organisation_du_travail_dans_l_aide_a_domicile_une_evaluation_par_tirage_aleatoire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Effets d’une nouvelle organisation du travail dans l’aide à domicile: une évaluation par tirage aléatoire",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "",
+    "contexte": "",
+    "problematique": "La structure Buurtzorg, créée par Jos de Blok en 2006 autour d’une dizaine de professionnels, compte aujourd’hui plus de 11 000 employés. Ce succès apparent a inspiré de nombreuses associations du secteur de l’aide à domicile qui ont à leur tour adopté ce modèle organisationnel, à la fois en France et ailleurs dans le monde. En leur donnant davantage d’autonomie pour organiser leurs plannings et les plans de soins, ce modèle ‘d’équipe’ a permis une amélioration significative des conditions de travail et du bien-être des employés.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\038_2022_effets_d_une_nouvelle_organisation_du_travail_dans_l_aide_a_domicile_une_evaluation_par_tirage_aleatoire.txt",
+  "nom_fichier": "038_2022_effets_d_une_nouvelle_organisation_du_travail_dans_l_aide_a_domicile_une_evaluation_par_tirage_aleatoire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/effets-dune-nouvelle-organisation-du-travail-dans-laide-a-domicile-une-evaluation-par-tirage-aleatoire/",
+  "original_title": "Effets d’une nouvelle organisation du travail dans l’aide à domicile : une évaluation par tirage aléatoire",
+  "collection_date": ""
 }

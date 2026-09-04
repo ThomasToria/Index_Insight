@@ -1,36 +1,48 @@
 {
-    "titre": "La Cité des Aînés",
-    "territoire": "Saint-Etienne (42)",
-    "echelle": [
-        "communale",
-        "intercommunale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "La Cité des Aînés est une initiative innovante qui vise à créer un lieu unique capable de prendre en charge toutes les dépendances, dans un environnement générateur de lien social et de bien-être.",
-        "contexte": "Les personnes âgées ont besoin d'un cadre propice pour maintenir leur autonomie et continuer à vivre une vie active. La Cité des Aînés répond à ce besoin en offrant un espace adapté aux besoins spécifiques de la population âgée.",
-        "problematique": "Le besoin de créer un cadre propice pour maintenir l'autonomie et continuer à vivre une vie active, tout en favorisant le lien social et le bien-être des personnes âgées.",
-        "solution_envisagee": "La Cité des Aînés est conçue comme un lieu unique qui offre diverses options d'habitat pour répondre aux différentes niveaux de dépendance. Elle permet également une mixité sociale, favorisant ainsi le lien social et la qualité de vie.",
-        "objectifs": [
-            "maintenir l'autonomie",
-            "favoriser le lien social",
-            "améliorer la qualité de vie"
-        ]
-    },
-    "porteur_initiative": "AESIO Santé",
-    "date": [
-        "2016",
-        "2020",
-        "2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_cite_des_aines.txt",
-    "nom_fichier": "La_cite_des_aines.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La Cité des Aînés",
+  "territoire": [
+    "saint-etienne (42)"
+  ],
+  "echelle": [
+    "communale",
+    "intercommunale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "La Cité des Aînés est une initiative innovante qui vise à créer un lieu unique capable de prendre en charge toutes les dépendances, dans un environnement générateur de lien social et de bien-être.",
+    "contexte": "Les personnes âgées ont besoin d'un cadre propice pour maintenir leur autonomie et continuer à vivre une vie active. La Cité des Aînés répond à ce besoin en offrant un espace adapté aux besoins spécifiques de la population âgée.",
+    "problematique": "Le besoin de créer un cadre propice pour maintenir l'autonomie et continuer à vivre une vie active, tout en favorisant le lien social et le bien-être des personnes âgées.",
+    "solution_envisagee": "La Cité des Aînés est conçue comme un lieu unique qui offre diverses options d'habitat pour répondre aux différentes niveaux de dépendance. Elle permet également une mixité sociale, favorisant ainsi le lien social et la qualité de vie.",
+    "objectifs": [
+      "maintenir l'autonomie",
+      "favoriser le lien social",
+      "améliorer la qualité de vie"
+    ]
+  },
+  "porteur_initiative": "AESIO Santé",
+  "date": [
+    "2016",
+    "2020",
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_cite_des_aines.txt",
+  "nom_fichier": "La_cite_des_aines.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/694-pe-52-la-cite-des-aines-saintetienne.pdf",
+  "original_title": "La cité des aînés",
+  "collection_date": ""
 }

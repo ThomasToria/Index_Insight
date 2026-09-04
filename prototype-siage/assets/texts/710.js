@@ -1,0 +1,1 @@
+window.initiativeFullText = "Titre: La Tour-de-salvany (69) Ville Membre depuis 2021\nCatégories:\nCommune:\nSource PDF: https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/766-pe-se-sentir-libre-mobile-et-heureux-ensemble.pdf";

@@ -1,33 +1,44 @@
 {
-    "titre": "Prévention des chutes par le Silver XIII équilibre",
-    "territoire": "Commune: Ecully (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Programme de prévention des chutes par une pratique d'activité physique adaptée, destiné aux seniors à tout âge.",
-        "contexte": "Population de plus de 60 ans dans la commune d'Ecully est conséquente et supérieure au reste du territoire. Le CCAS propose une programmation de prévention variée depuis longtemps et sollicite régulièrement la population pour l'évolution de son offre.",
-        "problematique": "Renforcement des liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Programme 'Silver XIII équilibre' proposé par l'association Ligue de Rugby à XIII pour Ecully et le bassin de vie, destiné aux seniors d'Ecully et du bassin de vie. La pratique est pédagogique et ludique, proposée en collaboration avec la Fédération Française de Rugby à XIII.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents",
-            "Sensibiliser les seniors à la prévention des chutes",
-            "Contribuer au changement de regard sur la population senior"
-        ]
-    },
-    "porteur_initiative": "CCAS (Communauté de Communes d'Écully) et Ligue de Rugby à XIII",
-    "date": [
-        "2013",
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prevention_des_chutes_par_le_Silver_xiii_equilibre.txt",
-    "nom_fichier": "Prevention_des_chutes_par_le_Silver_xiii_equilibre.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Prévention des chutes par le Silver XIII équilibre",
+  "territoire": [
+    "ecully (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Programme de prévention des chutes par une pratique d'activité physique adaptée, destiné aux seniors à tout âge.",
+    "contexte": "Population de plus de 60 ans dans la commune d'Ecully est conséquente et supérieure au reste du territoire. Le CCAS propose une programmation de prévention variée depuis longtemps et sollicite régulièrement la population pour l'évolution de son offre.",
+    "problematique": "Renforcement des liens entre les résidents, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Programme 'Silver XIII équilibre' proposé par l'association Ligue de Rugby à XIII pour Ecully et le bassin de vie, destiné aux seniors d'Ecully et du bassin de vie. La pratique est pédagogique et ludique, proposée en collaboration avec la Fédération Française de Rugby à XIII.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents",
+      "Sensibiliser les seniors à la prévention des chutes",
+      "Contribuer au changement de regard sur la population senior"
+    ]
+  },
+  "porteur_initiative": "CCAS (Communauté de Communes d'Écully) et Ligue de Rugby à XIII",
+  "date": [
+    "2013",
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Prevention_des_chutes_par_le_Silver_xiii_equilibre.txt",
+  "nom_fichier": "Prevention_des_chutes_par_le_Silver_xiii_equilibre.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1013-concours-2023-prevention-des-chutes-par-le-silver-xiii-equilibre.pdf",
+  "original_title": "Prévention des chutes par le Silver xiii équilibre",
+  "collection_date": ""
 }

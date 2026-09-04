@@ -1,29 +1,39 @@
 {
-    "titre": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Le rendez-vous 'Ma retraite accompagnée' est un nouveau service proposé (en 'aller-vers') à des retraités éloignés des politiques publiques et plus particulièrement des politiques de prévention. Ce rendez-vous est structuré en deux rendez-vous : Rendez-vous 1 - à domicile, environ 1 h 15 ; Rendez-vous 2, par téléphone, environ 20 minutes.",
-        "contexte": "Le service vise les retraités âgés de 68 ans exonérés de la CSG et bénéficiaires d'un plan d'aide de l'Assurance Retraite. Il est proposé par la Caisse nationale de l’Assurance retraite, avec le soutien des partenaires Gérontopôle de Toulouse, I2ML (Institut Méditerranéen des Métiers de la Longévité), des SAAD, Carsat Aquitaine, Midi-Pyrénées, Languedoc-Roussillon.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Déployer un rendez-vous 'Ma retraite accompagnée' auprès de retraités âgés de 68 ans exonérés de CSG intégrant notamment la réalisation de l’étape 1 du programme Icope, et déployer auprès des retraités bénéficiaires d’un plan d’aide de l’Assurance Retraite un 'temps de prévention' réalisé deux fois par an par les auxiliaires de vie.",
-        "objectifs": "Développer le service 'Ma retraite accompagnée' pour atteindre une couverture des retraités âgés de 68 ans exonérés de CSG, et proposer un 'temps de prévention' à tous les bénéficiaires d'un plan d'aide de l’Assurance Retraite."
-    },
-    "porteur_initiative": "Caisse nationale de l’Assurance retraite",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",
-    "nom_fichier": "32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Le rendez-vous 'Ma retraite accompagnée' est un nouveau service proposé (en 'aller-vers') à des retraités éloignés des politiques publiques et plus particulièrement des politiques de prévention. Ce rendez-vous est structuré en deux rendez-vous : Rendez-vous 1 - à domicile, environ 1 h 15 ; Rendez-vous 2, par téléphone, environ 20 minutes.",
+    "contexte": "Le service vise les retraités âgés de 68 ans exonérés de la CSG et bénéficiaires d'un plan d'aide de l'Assurance Retraite. Il est proposé par la Caisse nationale de l’Assurance retraite, avec le soutien des partenaires Gérontopôle de Toulouse, I2ML (Institut Méditerranéen des Métiers de la Longévité), des SAAD, Carsat Aquitaine, Midi-Pyrénées, Languedoc-Roussillon.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents d'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Déployer un rendez-vous 'Ma retraite accompagnée' auprès de retraités âgés de 68 ans exonérés de CSG intégrant notamment la réalisation de l’étape 1 du programme Icope, et déployer auprès des retraités bénéficiaires d’un plan d’aide de l’Assurance Retraite un 'temps de prévention' réalisé deux fois par an par les auxiliaires de vie.",
+    "objectifs": "Développer le service 'Ma retraite accompagnée' pour atteindre une couverture des retraités âgés de 68 ans exonérés de CSG, et proposer un 'temps de prévention' à tous les bénéficiaires d'un plan d'aide de l’Assurance Retraite."
+  },
+  "porteur_initiative": "Caisse nationale de l’Assurance retraite",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",
+  "nom_fichier": "32_Accompagner_les_plus_fragiles_et_precaires_dans.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "Accompagner les plus fragiles et précaires dans leur bien vieillir à domicile",
+  "collection_date": ""
 }

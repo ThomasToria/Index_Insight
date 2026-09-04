@@ -1,34 +1,44 @@
 {
-    "titre": "Unapparté",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Démontrer l’articulation entre les aides techniques, numériques et humaines en faveur du soutien à domicile.",
-        "contexte": "Un partenariat entre ACTIS (bailleur social), le TASDA (centre expert sur l'usage du numérique pour le soutien à domicile) et l'UNA (fédération des associations d'aide à domicile).",
-        "problematique": "Démontrer l’articulation entre les aides techniques, numériques et humaines en faveur du soutien à domicile.",
-        "solution_envisagee": "Un appartement aménagé, équipé et scénarisé pour sensibiliser le public âgé aux aides techniques existantes tout en faisant le lien avec les industriels.",
-        "objectifs": [
-            "Démontrer l’articulation entre les aides techniques, numériques et humaines",
-            "Sensibiliser le public âgé à l’ensemble des aides techniques et numériques existantes à domicile",
-            "Valoriser le travail d’aide à domicile via la formation",
-            "Proposer un lieu de formation et d’échanges à l’ensemble des professionnels de l’aide à domicile"
-        ]
-    },
-    "porteur_initiative": "ACTIS, TASDA, UNA",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "numérique"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Unapparte.txt",
-    "nom_fichier": "Unapparte.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Unapparté",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Démontrer l’articulation entre les aides techniques, numériques et humaines en faveur du soutien à domicile.",
+    "contexte": "Un partenariat entre ACTIS (bailleur social), le TASDA (centre expert sur l'usage du numérique pour le soutien à domicile) et l'UNA (fédération des associations d'aide à domicile).",
+    "problematique": "Démontrer l’articulation entre les aides techniques, numériques et humaines en faveur du soutien à domicile.",
+    "solution_envisagee": "Un appartement aménagé, équipé et scénarisé pour sensibiliser le public âgé aux aides techniques existantes tout en faisant le lien avec les industriels.",
+    "objectifs": [
+      "Démontrer l’articulation entre les aides techniques, numériques et humaines",
+      "Sensibiliser le public âgé à l’ensemble des aides techniques et numériques existantes à domicile",
+      "Valoriser le travail d’aide à domicile via la formation",
+      "Proposer un lieu de formation et d’échanges à l’ensemble des professionnels de l’aide à domicile"
+    ]
+  },
+  "porteur_initiative": "ACTIS, TASDA, UNA",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "numérique"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Unapparte.txt",
+  "nom_fichier": "Unapparte.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/593-pe-unapparte.pdf",
+  "original_title": "Unapparté",
+  "collection_date": ""
 }

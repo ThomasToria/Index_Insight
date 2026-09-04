@@ -1,34 +1,46 @@
 {
-    "titre": "La fête des seniors de Cholet",
-    "territoire": "Commune : Cholet, VILLE DE CHOLET",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "La Fête des Seniors est une manifestation annuelle organisée par la Ville de Cholet pour les citoyens âgés de 60 ans et plus, favorisant les liens sociaux et intergénérationnels.",
-        "contexte": "Le but de cette initiative est d'encourager les interactions entre les seniors et les jeunes générations, renforçant ainsi le lien social et lutter contre l'isolement.",
-        "problematique": "Renforcer les liens sociaux entre les seniors et les jeunes générations, renforçant ainsi le lien social et lutter contre l'isolement.",
-        "solution_envisagee": "La Fête des Seniors est un événement annuel organisé par la Ville de Cholet qui favorise les interactions entre les seniors et les jeunes générations, renforce le lien social et lutte contre l'isolement.",
-        "objectifs": [
-            "Renforcer les liens sociaux",
-            "Favoriser les interactions entre les seniors et les jeunes générations",
-            "Renforcer le lien social",
-            "Lutter contre l'isolement"
-        ]
-    },
-    "porteur_initiative": "La Ville de Cholet, Conseil Municipal des Jeunes de la Ville de Cholet, MFR du Vallon, Lycée Jeanne Delanoue",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_fete_des_seniors_de_Cholet.txt",
-    "nom_fichier": "La_fete_des_seniors_de_Cholet.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La fête des seniors de Cholet",
+  "territoire": [
+    "cholet, ville de cholet"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "La Fête des Seniors est une manifestation annuelle organisée par la Ville de Cholet pour les citoyens âgés de 60 ans et plus, favorisant les liens sociaux et intergénérationnels.",
+    "contexte": "Le but de cette initiative est d'encourager les interactions entre les seniors et les jeunes générations, renforçant ainsi le lien social et lutter contre l'isolement.",
+    "problematique": "Renforcer les liens sociaux entre les seniors et les jeunes générations, renforçant ainsi le lien social et lutter contre l'isolement.",
+    "solution_envisagee": "La Fête des Seniors est un événement annuel organisé par la Ville de Cholet qui favorise les interactions entre les seniors et les jeunes générations, renforce le lien social et lutte contre l'isolement.",
+    "objectifs": [
+      "Renforcer les liens sociaux",
+      "Favoriser les interactions entre les seniors et les jeunes générations",
+      "Renforcer le lien social",
+      "Lutter contre l'isolement"
+    ]
+  },
+  "porteur_initiative": "La Ville de Cholet, Conseil Municipal des Jeunes de la Ville de Cholet, MFR du Vallon, Lycée Jeanne Delanoue",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_fete_des_seniors_de_Cholet.txt",
+  "nom_fichier": "La_fete_des_seniors_de_Cholet.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/858-pe-la-fete-des-seniors-de-cholet.pdf",
+  "original_title": "La fête des seniors de Cholet",
+  "collection_date": ""
 }

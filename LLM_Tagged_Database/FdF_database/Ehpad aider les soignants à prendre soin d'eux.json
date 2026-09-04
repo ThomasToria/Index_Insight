@@ -1,32 +1,42 @@
 {
-    "titre": "Ehpad: aider les soignants à prendre soin d'eux",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Une initiative de la Fondation de France pour soutenir les équipes des Ehpad dans le contexte de crise sanitaire.",
-        "contexte": "",
-        "problematique": "Fatigue, stress, tension émotionnelle chez les agents soignants due à la crise sanitaire et aux conditions d’isolement.",
-        "solution_envisagee": "Un accompagnement adapté à l'ensemble du personnel des Ehpad pour surmonter les séquelles de la crise sanitaire.",
-        "objectifs": [
-            "Améliorer le bien-être psychologique des agents soignants",
-            "Renforcer la cohésion et la solidarité entre les équipes"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "services et accompagnement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Ehpad aider les soignants à prendre soin d'eux.txt",
-    "nom_fichier": "Ehpad aider les soignants à prendre soin d'eux.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Ehpad: aider les soignants à prendre soin d'eux",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Une initiative de la Fondation de France pour soutenir les équipes des Ehpad dans le contexte de crise sanitaire.",
+    "contexte": "",
+    "problematique": "Fatigue, stress, tension émotionnelle chez les agents soignants due à la crise sanitaire et aux conditions d’isolement.",
+    "solution_envisagee": "Un accompagnement adapté à l'ensemble du personnel des Ehpad pour surmonter les séquelles de la crise sanitaire.",
+    "objectifs": [
+      "Améliorer le bien-être psychologique des agents soignants",
+      "Renforcer la cohésion et la solidarité entre les équipes"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "services et accompagnement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Ehpad aider les soignants à prendre soin d'eux.txt",
+  "nom_fichier": "Ehpad aider les soignants à prendre soin d'eux.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-fondation-de-france-centre-est/ehpad-aider-les-soignants-a-prendre-soin-d-eux",
+  "original_title": "Ehpad : aider les soignants à prendre soin d’eux",
+  "collection_date": ""
 }

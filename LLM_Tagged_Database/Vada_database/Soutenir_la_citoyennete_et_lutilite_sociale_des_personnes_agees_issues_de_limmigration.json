@@ -1,35 +1,47 @@
 {
-    "titre": "Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration",
-    "territoire": "Commune: Lyon (69)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "L’association L’Olivier des Sages entend valoriser la diversité culturelle de ce quartier en prenant en compte ce public dans son projet à divers égards.",
-        "contexte": "Les personnes âgées occupent une place prépondérante dans la vie d’un quartier. D’un point de vue démographique, elles en représentent une part relativement importante. L’isolement les touche plus particulièrement: beaucoup d’entre elles vivent seules.",
-        "problematique": "Développer les relations et solidarités entre les générations. Accompagner à la citoyenneté. Accompagner dans les démarches de la vie quotidienne (accès aux droits). Écrire la fiche projet.",
-        "solution_envisagee": "Rechercher des partenaires associatifs, financiers. Mettre en relation avec les partenaires. Mettre en place et assurer le suivi des actions. Gérer les inscriptions sur le retroplanning.",
-        "objectifs": [
-            "Valoriser la diversité culturelle de ce quartier",
-            "Développer les relations et solidarités entre les générations",
-            "Accompagner à la citoyenneté",
-            "Accompagner dans les démarches de la vie quotidienne (accès aux droits)",
-            "Écrire la fiche projet"
-        ]
-    },
-    "porteur_initiative": "L’Olivier des Sages",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "participation citoyenne"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.txt",
-    "nom_fichier": "Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration",
+  "territoire": [
+    "lyon (69)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "L’association L’Olivier des Sages entend valoriser la diversité culturelle de ce quartier en prenant en compte ce public dans son projet à divers égards.",
+    "contexte": "Les personnes âgées occupent une place prépondérante dans la vie d’un quartier. D’un point de vue démographique, elles en représentent une part relativement importante. L’isolement les touche plus particulièrement: beaucoup d’entre elles vivent seules.",
+    "problematique": "Développer les relations et solidarités entre les générations. Accompagner à la citoyenneté. Accompagner dans les démarches de la vie quotidienne (accès aux droits). Écrire la fiche projet.",
+    "solution_envisagee": "Rechercher des partenaires associatifs, financiers. Mettre en relation avec les partenaires. Mettre en place et assurer le suivi des actions. Gérer les inscriptions sur le retroplanning.",
+    "objectifs": [
+      "Valoriser la diversité culturelle de ce quartier",
+      "Développer les relations et solidarités entre les générations",
+      "Accompagner à la citoyenneté",
+      "Accompagner dans les démarches de la vie quotidienne (accès aux droits)",
+      "Écrire la fiche projet"
+    ]
+  },
+  "porteur_initiative": "L’Olivier des Sages",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "participation citoyenne"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.txt",
+  "nom_fichier": "Soutenir_la_citoyennete_et_lutilite_sociale_des_personnes_agees_issues_de_limmigration.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "participation citoyenne et gouvernance"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/508-pe-l-olivier-des-sages-mise-en-forme-2023.pdf",
+  "original_title": "Soutenir la citoyenneté et l'utilité sociale des personnes âgées issues de l'immigration",
+  "collection_date": ""
 }

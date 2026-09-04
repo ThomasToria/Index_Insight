@@ -1,34 +1,44 @@
 {
-    "titre": "Accompagnement aux courses",
-    "territoire": "",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "Constatation des difficultés rencontrées par les personnes âgées lors de leurs courses à la demande, en particulier dans les commerces locaux.",
-        "contexte": "",
-        "problematique": "Les personnes âgées rencontrent des difficultés pour accéder aux produits des supermarchés et ne peuvent pas utiliser le transport en commun malgré une métropole frontalière, ce qui conduit à la perte de la capacité de conduire.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Maintien de l'autonomie des personnes fragilisées / ou soutien aux personnes dépendantes",
-            "Maintien du lien intergénérationnel",
-            "Maintien du lien social (sans entrer nécessairement dans un engagement « individualisé » pour les plus jeunes)"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "intergénérationnel",
-        "mobilité et transport"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_4_Accompagnement_aux_courses.txt",
-    "nom_fichier": "FICHE_ACTION_4_Accompagnement_aux_courses.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Accompagnement aux courses",
+  "territoire": [],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "Constatation des difficultés rencontrées par les personnes âgées lors de leurs courses à la demande, en particulier dans les commerces locaux.",
+    "contexte": "",
+    "problematique": "Les personnes âgées rencontrent des difficultés pour accéder aux produits des supermarchés et ne peuvent pas utiliser le transport en commun malgré une métropole frontalière, ce qui conduit à la perte de la capacité de conduire.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Maintien de l'autonomie des personnes fragilisées / ou soutien aux personnes dépendantes",
+      "Maintien du lien intergénérationnel",
+      "Maintien du lien social (sans entrer nécessairement dans un engagement « individualisé » pour les plus jeunes)"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "intergénérationnel",
+    "mobilité et transport"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FICHE_ACTION_4_Accompagnement_aux_courses.txt",
+  "nom_fichier": "FICHE_ACTION_4_Accompagnement_aux_courses.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "intergénérationnel",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FICHE ACTION 4_Accompagnement aux courses.pdf",
+  "collection_date": ""
 }

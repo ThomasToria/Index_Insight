@@ -1,34 +1,46 @@
 {
-    "titre": "Reims urban nature",
-    "territoire": "Commune de Reims, Métropole de Reims",
-    "echelle": [
-        "communale",
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "La création du 'Reims Urban Nature' a été conçue pour rassembler les trois constats identifiés: manque d’initiatives sportives locales, manque de connaissances sur certains parcs et jardins, et besoin croissant de la population de se retrouver avec la nature.",
-        "contexte": "La crise COVID a conduit à une réappropriation des espaces verts par les Rémois, mais ils restent peu connus. Les activités éco-responsables sur le territoire nécessitent un engagement communautaire et intergénérationnel pour valoriser la ville.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer une multitude d'activités ouvertes à des publics cibles, tels que les seniors, personnes en situation de handicap, enfants, etc., avec des temps intergénérationnels organisés par les maisons de quartier, l’USEP et la ville.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale",
-            "Promouvoir des activités sportives locales pour tous"
-        ]
-    },
-    "porteur_initiative": "Organisation du concours 'Villes Amies d’Épargne - Reims Urban Nature'",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reims_urban_nature.txt",
-    "nom_fichier": "Reims_urban_nature.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Reims urban nature",
+  "territoire": [
+    "reims, métropole de reims"
+  ],
+  "echelle": [
+    "communale",
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "La création du 'Reims Urban Nature' a été conçue pour rassembler les trois constats identifiés: manque d’initiatives sportives locales, manque de connaissances sur certains parcs et jardins, et besoin croissant de la population de se retrouver avec la nature.",
+    "contexte": "La crise COVID a conduit à une réappropriation des espaces verts par les Rémois, mais ils restent peu connus. Les activités éco-responsables sur le territoire nécessitent un engagement communautaire et intergénérationnel pour valoriser la ville.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer une multitude d'activités ouvertes à des publics cibles, tels que les seniors, personnes en situation de handicap, enfants, etc., avec des temps intergénérationnels organisés par les maisons de quartier, l’USEP et la ville.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale",
+      "Promouvoir des activités sportives locales pour tous"
+    ]
+  },
+  "porteur_initiative": "Organisation du concours 'Villes Amies d’Épargne - Reims Urban Nature'",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Reims_urban_nature.txt",
+  "nom_fichier": "Reims_urban_nature.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/960-concours-2023-reims-urban-nature.pdf",
+  "original_title": "Reims urban nature",
+  "collection_date": ""
 }

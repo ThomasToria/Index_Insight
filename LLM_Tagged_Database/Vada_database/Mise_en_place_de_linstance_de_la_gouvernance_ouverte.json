@@ -1,32 +1,42 @@
 {
-    "titre": "Mise en place de l'instance de la gouvernance ouverte",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La mise en place d'une instance de gouvernance ouverte dans une commune.",
-        "contexte": "Le projet vise à renforcer la participation citoyenne et l'engagement des acteurs locaux dans le processus décisionnel.",
-        "problematique": "Renforcement du lien social entre les habitants, les élus et les services publics.",
-        "solution_envisagee": "Création d'une instance de gouvernance ouverte pour suivre les engagements pris par la Métropole Nantes-Malestres.",
-        "objectifs": [
-            "Renforcer le lien social entre les habitants, les élus et les services publics",
-            "Promouvoir la participation citoyenne dans le processus décisionnel",
-            "Évaluer l'impact des actions mises en œuvre par Nantes Métropole"
-        ]
-    },
-    "porteur_initiative": "Nantes Métropole",
-    "date": [
-        "2019",
-        "2021"
-    ],
-    "thematique": [
-        "services et accompagnement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_de_linstance_de_la_gouvernance_ouverte.txt",
-    "nom_fichier": "Mise_en_place_de_linstance_de_la_gouvernance_ouverte.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Mise en place de l'instance de la gouvernance ouverte",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La mise en place d'une instance de gouvernance ouverte dans une commune.",
+    "contexte": "Le projet vise à renforcer la participation citoyenne et l'engagement des acteurs locaux dans le processus décisionnel.",
+    "problematique": "Renforcement du lien social entre les habitants, les élus et les services publics.",
+    "solution_envisagee": "Création d'une instance de gouvernance ouverte pour suivre les engagements pris par la Métropole Nantes-Malestres.",
+    "objectifs": [
+      "Renforcer le lien social entre les habitants, les élus et les services publics",
+      "Promouvoir la participation citoyenne dans le processus décisionnel",
+      "Évaluer l'impact des actions mises en œuvre par Nantes Métropole"
+    ]
+  },
+  "porteur_initiative": "Nantes Métropole",
+  "date": [
+    "2019",
+    "2021"
+  ],
+  "thematique": [
+    "services et accompagnement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Mise_en_place_de_linstance_de_la_gouvernance_ouverte.txt",
+  "nom_fichier": "Mise_en_place_de_linstance_de_la_gouvernance_ouverte.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/809-pe-mise-en-place-de-l-instance-de-gouevrnance.pdf",
+  "original_title": "Mise en place de l'instance de la gouvernance ouverte",
+  "collection_date": ""
 }

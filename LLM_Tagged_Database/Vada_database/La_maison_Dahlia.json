@@ -1,31 +1,43 @@
 {
-    "titre": "La maison Dahlia",
-    "territoire": "Commune: Havre (76)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Faciliter la mise en œuvre d’un projet d’adaptation de logement pour personnes âgées en perte d’autonomie.",
-        "contexte": "Dans le cadre du plan d'actions « bien vieillir, vivre ensemble » validé par la municipalité en 2012 et de l'axe 4 du projet social de la Ville, un projet de réalisation d'un appartement/petit logement pédagogique a été retenu.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Créer un poste d'animatrice pour développer des partenariats et faciliter la mise en œuvre du projet de réalisation d'un appartement/petit logement pédagogique.",
-        "objectifs": [
-            "Faciliter la mise en œuvre d’un projet d’adaptation de logement pour personnes âgées en perte d’autonomie."
-        ]
-    },
-    "porteur_initiative": "Ville Amie des Aînés depuis 2014",
-    "date": [
-        "depuis 2011"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_maison_Dahlia.txt",
-    "nom_fichier": "La_maison_Dahlia.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La maison Dahlia",
+  "territoire": [
+    "havre (76)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Faciliter la mise en œuvre d’un projet d’adaptation de logement pour personnes âgées en perte d’autonomie.",
+    "contexte": "Dans le cadre du plan d'actions « bien vieillir, vivre ensemble » validé par la municipalité en 2012 et de l'axe 4 du projet social de la Ville, un projet de réalisation d'un appartement/petit logement pédagogique a été retenu.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Créer un poste d'animatrice pour développer des partenariats et faciliter la mise en œuvre du projet de réalisation d'un appartement/petit logement pédagogique.",
+    "objectifs": [
+      "Faciliter la mise en œuvre d’un projet d’adaptation de logement pour personnes âgées en perte d’autonomie."
+    ]
+  },
+  "porteur_initiative": "Ville Amie des Aînés depuis 2014",
+  "date": [
+    "2011"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_maison_Dahlia.txt",
+  "nom_fichier": "La_maison_Dahlia.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/348-348-pe-maison-dahlia-1.pdf",
+  "original_title": "La maison Dahlia",
+  "collection_date": ""
 }

@@ -1,38 +1,50 @@
 {
-    "titre": "Design for all",
-    "territoire": "Commune: Toulouse, Ville Amie des Aînés depuis 2015",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Un outil d'accessibilité à la culture pour les personnes âgées.",
-        "contexte": "Contexte démographique marqué par le vieillissement de la population, augmentation des seniors dans la population et refus du déambulateur.",
-        "problematique": "L’absence de solutions inclusives pour l’accessibilité des ERP, comportement de refus des seniors face aux outils d’aide à la mobilité et besoin de confort de tous.",
-        "solution_envisagee": "Un déambulateur à roues disponible au sein d’établissements culturels partenaires.",
-        "objectifs": [
-            "Mettre à disposition un déambulateur à roues",
-            "Accompagner la marche et la mobilité des personnes âgées et des personnes fragiles par l’accès à la culture",
-            "Prévenir la perte de mobilité",
-            "Changer le regard sur l’environnement des personnes fragiles",
-            "Lutter contre l’âgisme grâce au design for all",
-            "Encourager l’usage des outils de soutien à l’autonomie par tous",
-            "Soutenir et favoriser les relations intergénérationnelles"
-        ]
-    },
-    "porteur_initiative": "E-Hé, société créée pour porter le projet",
-    "date": [
-        "2018",
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Design_for_all.txt",
-    "nom_fichier": "Design_for_all.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Design for all",
+  "territoire": [
+    "toulouse, ville amie des aînés depuis 2015"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Un outil d'accessibilité à la culture pour les personnes âgées.",
+    "contexte": "Contexte démographique marqué par le vieillissement de la population, augmentation des seniors dans la population et refus du déambulateur.",
+    "problematique": "L’absence de solutions inclusives pour l’accessibilité des ERP, comportement de refus des seniors face aux outils d’aide à la mobilité et besoin de confort de tous.",
+    "solution_envisagee": "Un déambulateur à roues disponible au sein d’établissements culturels partenaires.",
+    "objectifs": [
+      "Mettre à disposition un déambulateur à roues",
+      "Accompagner la marche et la mobilité des personnes âgées et des personnes fragiles par l’accès à la culture",
+      "Prévenir la perte de mobilité",
+      "Changer le regard sur l’environnement des personnes fragiles",
+      "Lutter contre l’âgisme grâce au design for all",
+      "Encourager l’usage des outils de soutien à l’autonomie par tous",
+      "Soutenir et favoriser les relations intergénérationnelles"
+    ]
+  },
+  "porteur_initiative": "E-Hé, société créée pour porter le projet",
+  "date": [
+    "2018",
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Design_for_all.txt",
+  "nom_fichier": "Design_for_all.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/614-toulouse-design-for-all-1.pdf",
+  "original_title": "Design for all",
+  "collection_date": ""
 }

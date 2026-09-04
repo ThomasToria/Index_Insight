@@ -1,33 +1,43 @@
 {
-    "titre": "Guide des commerces de proximité ouverts",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Ce guide recense les commerces ouverts durant l'été à Laval, visant à informer les personnes âgées et le public en général.",
-        "contexte": "Le projet a été initié suite à une réflexion sur l’isolement des personnes âgées pendant la période estivale, inspiré par des initiatives similaires à Paris et d'autres villes.",
-        "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Concerne principalement les personnes âgées et le public en général",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Mission commerce de la Ville de Laval",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_commerces_de_proximite_ouverts.txt",
-    "nom_fichier": "Guide_des_commerces_de_proximite_ouverts.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Guide des commerces de proximité ouverts",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Ce guide recense les commerces ouverts durant l'été à Laval, visant à informer les personnes âgées et le public en général.",
+    "contexte": "Le projet a été initié suite à une réflexion sur l’isolement des personnes âgées pendant la période estivale, inspiré par des initiatives similaires à Paris et d'autres villes.",
+    "problematique": "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Concerne principalement les personnes âgées et le public en général",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'ÉHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Mission commerce de la Ville de Laval",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_des_commerces_de_proximite_ouverts.txt",
+  "nom_fichier": "Guide_des_commerces_de_proximite_ouverts.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/251-copie-de-pe-fiche-vierge-1.pdf",
+  "original_title": "Guide des commerces de proximité ouverts",
+  "collection_date": ""
 }

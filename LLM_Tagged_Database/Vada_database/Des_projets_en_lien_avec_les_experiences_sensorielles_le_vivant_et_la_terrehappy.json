@@ -1,31 +1,40 @@
 {
-    "titre": "Des projets, en lien avec les expériences sensorielles, le vivant et la terre...",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Ce projet vise à renforcer les liens entre les résidents des EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "contexte": "Les seniors ont exprimé le besoin de maintenir les liens avec le vivant et l'expérience sensorielle. Les résidents ont également souhaité des activités à sensation pour se détendre.",
-        "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Programmer des ateliers de jardinage mensuels, aménager des espaces pour accueillir les animaux (chatons et moutons) et acquérir des casques de réalité virtuelle pour des activités de relaxation.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_projets_en_lien_avec_les_experiences_sensorielles_le_vivant_et_la_terrehappy.txt",
-    "nom_fichier": "Des_projets_en_lien_avec_les_experiences_sensorielles_le_vivant_et_la_terrehappy.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des projets, en lien avec les expériences sensorielles, le vivant et la terre...",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Ce projet vise à renforcer les liens entre les résidents des EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "contexte": "Les seniors ont exprimé le besoin de maintenir les liens avec le vivant et l'expérience sensorielle. Les résidents ont également souhaité des activités à sensation pour se détendre.",
+    "problematique": "Renforcer les liens entre les résidents, leurs proches et la société civile tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Programmer des ateliers de jardinage mensuels, aménager des espaces pour accueillir les animaux (chatons et moutons) et acquérir des casques de réalité virtuelle pour des activités de relaxation.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_projets_en_lien_avec_les_experiences_sensorielles_le_vivant_et_la_terrehappy.txt",
+  "nom_fichier": "Des_projets_en_lien_avec_les_experiences_sensorielles_le_vivant_et_la_terrehappy.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/909-concours-2023-des-projets-en-lien-avec-les-experiences-sensorielles-le-vivant-et-la-terre-happy-1.pdf",
+  "original_title": "Des projets, en lien avec les expériences sensorielles, le vivant et la terre...\"happy\" !",
+  "collection_date": ""
 }

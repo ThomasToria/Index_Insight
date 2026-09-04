@@ -1,32 +1,44 @@
 {
-    "titre": "Aprem Intergénérationnels",
-    "territoire": "Commune: Maxéville",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux. En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
-        "contexte": "Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux. En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organisation de 36 séances de deux heures d'après-midi de jeux entre séniors et enfants. Cette action permet de créer du lien entre les générations et de déconstruire les à priori générationnels.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association Du Collectif Quartier Des Aulnes",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aprem_intergenerationnels.txt",
-    "nom_fichier": "Aprem_intergenerationnels.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Aprem Intergénérationnels",
+  "territoire": [
+    "maxéville"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux. En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
+    "contexte": "Suite à plusieurs actions réalisées entre les adolescents et les séniors de la commune de Maxéville, le service éducatif a proposé au président de l'Association du Collectif Quartier des Aulnes de permettre à un groupe d'enfants de venir lors de leur séance hebdomadaire, pour jouer à divers jeux de société avec eux. En effet, le jeu permet de passer un moment convivial, propice à créer des liens.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organisation de 36 séances de deux heures d'après-midi de jeux entre séniors et enfants. Cette action permet de créer du lien entre les générations et de déconstruire les à priori générationnels.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association Du Collectif Quartier Des Aulnes",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Aprem_intergenerationnels.txt",
+  "nom_fichier": "Aprem_intergenerationnels.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/978-pe-aprem-intergenerationnels.pdf",
+  "original_title": "Aprem intergénérationnels",
+  "collection_date": ""
 }

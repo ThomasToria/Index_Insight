@@ -1,34 +1,45 @@
 {
-    "titre": "Association 'a vos soins' - l'arbre aux sens",
-    "territoire": "Saint-Nazaire (44)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Association 'a vos soins' organise un projet autour des 5 sens, visant à améliorer la santé et les liens sociaux de résidents en EHPAD.",
-        "contexte": "Le grand-père du chargé de projet a perdu sa autonomie et a été hospitalisé. Une initiative d’association a permis de rétablir son état de santé grâce à des activités sensorielles.",
-        "problematique": "Améliorer la santé et les liens sociaux des résidents en EHPAD",
-        "solution_envisagee": "Organiser des ateliers sensoriels autour des 5 sens, avec plantations adaptées pour améliorer la mobilité et créer des liens.",
-        "objectifs": [
-            "Améliorer la santé physique et psychologique des résidents en EHPAD",
-            "Créer des liens sociaux entre les résidents et leurs proches",
-            "Valoriser l’expérience de vieillesse"
-        ]
-    },
-    "porteur_initiative": "Association 'a vos soins'",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_a_vos_soins_-_larbre_aux_sens.txt",
-    "nom_fichier": "Association_a_vos_soins_-_larbre_aux_sens.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Association 'a vos soins' - l'arbre aux sens",
+  "territoire": [
+    "saint-nazaire (44)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Association 'a vos soins' organise un projet autour des 5 sens, visant à améliorer la santé et les liens sociaux de résidents en EHPAD.",
+    "contexte": "Le grand-père du chargé de projet a perdu sa autonomie et a été hospitalisé. Une initiative d’association a permis de rétablir son état de santé grâce à des activités sensorielles.",
+    "problematique": "Améliorer la santé et les liens sociaux des résidents en EHPAD",
+    "solution_envisagee": "Organiser des ateliers sensoriels autour des 5 sens, avec plantations adaptées pour améliorer la mobilité et créer des liens.",
+    "objectifs": [
+      "Améliorer la santé physique et psychologique des résidents en EHPAD",
+      "Créer des liens sociaux entre les résidents et leurs proches",
+      "Valoriser l’expérience de vieillesse"
+    ]
+  },
+  "porteur_initiative": "Association 'a vos soins'",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Association_a_vos_soins_-_larbre_aux_sens.txt",
+  "nom_fichier": "Association_a_vos_soins_-_larbre_aux_sens.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/1010-concours-2023-association-a-vos-soins-l-arbre-aux-sens.pdf",
+  "original_title": "Association \"a vos soins\" - l'arbre aux sens",
+  "collection_date": ""
 }

@@ -1,29 +1,41 @@
 {
-    "titre": "PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC)",
-    "territoire": "Normandie",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La Carsat Normandie a souhaité enrichir son analyse des dossiers LVC par une expertise architecturale, en collaboration avec les Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
-        "contexte": "Le projet vise à inspirer les porteurs de projets d’habitat senior, notamment bailleurs sociaux, Centres communaux d'action sociale (CCAS), et communes. Il s'agit également d'offrir une diversification de l'offre en matière d'habitat pour les seniors.",
-        "problematique": "Le manque de connaissance sur la pertinence des programmes présentés dans les dossiers LVC nécessite une expertise architecturale et urbanistique pour garantir leur adéquation avec les besoins et conditions du terrain.",
-        "solution_envisagee": "L'expertise apportée par le conseil CAUE à la Carsat permet de vérifier la pertinence des programmes, en amont des projets de construction ou de réhabilitation. Elle offre également une aide à la décision pour l'aménagement du site.",
-        "objectifs": "Inspérer les porteurs de projets par de nouveaux concepts d'habitat senior et diversifier l'offre en matière d'habitat pour les seniors."
-    },
-    "porteur_initiative": "Carsat Normandie et Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "culture et loisirs"
-    ],
-    "source_site": "CNAV",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
-    "nom_fichier": "08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
-    "statut_action": "projet réalisé"
+  "titre": "PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC)",
+  "territoire": [
+    "normandie"
+  ],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La Carsat Normandie a souhaité enrichir son analyse des dossiers LVC par une expertise architecturale, en collaboration avec les Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands.",
+    "contexte": "Le projet vise à inspirer les porteurs de projets d’habitat senior, notamment bailleurs sociaux, Centres communaux d'action sociale (CCAS), et communes. Il s'agit également d'offrir une diversification de l'offre en matière d'habitat pour les seniors.",
+    "problematique": "Le manque de connaissance sur la pertinence des programmes présentés dans les dossiers LVC nécessite une expertise architecturale et urbanistique pour garantir leur adéquation avec les besoins et conditions du terrain.",
+    "solution_envisagee": "L'expertise apportée par le conseil CAUE à la Carsat permet de vérifier la pertinence des programmes, en amont des projets de construction ou de réhabilitation. Elle offre également une aide à la décision pour l'aménagement du site.",
+    "objectifs": "Inspérer les porteurs de projets par de nouveaux concepts d'habitat senior et diversifier l'offre en matière d'habitat pour les seniors."
+  },
+  "porteur_initiative": "Carsat Normandie et Conseils d'architecture d'urbanisme et de l'environnement (CAUE) normands",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "source_site": "CNAV",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Cnav_database\\08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
+  "nom_fichier": "08_PARTENARIAL_DES_DOSSIERS_LIEUX_DE_VIE_COLLECTIF.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.lassuranceretraite.fr/portail-info/files/live/sites/pub/files/PDF/pepites-assurance-retraite-pour-bien-vieillir-2023.pdf",
+  "original_title": "PARTENARIAL DES DOSSIERS « LIEUX DE VIE COLLECTIFS » (LVC)",
+  "collection_date": ""
 }

@@ -1,33 +1,44 @@
 {
-    "titre": "Maison 3S",
-    "territoire": "Commune de Port-Jérôme-sur-Seine, 76",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une maison adaptée au maintien à domicile avec des outils domotiques innovants.",
-        "contexte": "Les années Covid ont malheureusement repoussé l'aboutissement de ce projet, mais la maison a été entièrement réhabilitée par LOGEAL. La Maison 3S (services, solutions, seniors) est une maison témoin du maintien à domicile avec des outils domotiques innovants.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une maison adaptée au maintien à domicile avec des outils domotiques innovants.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS (Comité de Cohésion Sociale)",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "habitat et logement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_3S.txt",
-    "nom_fichier": "Maison_3S.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Maison 3S",
+  "territoire": [
+    "port-jérôme-sur-seine, 76"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une maison adaptée au maintien à domicile avec des outils domotiques innovants.",
+    "contexte": "Les années Covid ont malheureusement repoussé l'aboutissement de ce projet, mais la maison a été entièrement réhabilitée par LOGEAL. La Maison 3S (services, solutions, seniors) est une maison témoin du maintien à domicile avec des outils domotiques innovants.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une maison adaptée au maintien à domicile avec des outils domotiques innovants.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS (Comité de Cohésion Sociale)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "habitat et logement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Maison_3S.txt",
+  "nom_fichier": "Maison_3S.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/835-concours-2022-65-maison-3s.pdf",
+  "original_title": "Maison 3S",
+  "collection_date": ""
 }

@@ -1,32 +1,42 @@
 {
-    "titre": "Viens, je t'emmène... à la Maison de quartier La Touche pour une journée placée sous le thème du jeu",
-    "territoire": "communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une journée d'animation organisée autour du jeu, présentée à la Maison de Quartier La Touche.",
-        "contexte": "Les personnes âgées sont peu représentées dans le public fréquentant la Maison de Quartier.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser une journée d'animation autour du jeu pour favoriser le lien social et encourager les interactions entre les personnes âgées et les résidents de l’EHPAD.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Commission senior de la Maison de Quartier La Touche",
-    "date": [
-        "2015-11-27"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.txt",
-    "nom_fichier": "Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Viens, je t'emmène... à la Maison de quartier La Touche pour une journée placée sous le thème du jeu",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une journée d'animation organisée autour du jeu, présentée à la Maison de Quartier La Touche.",
+    "contexte": "Les personnes âgées sont peu représentées dans le public fréquentant la Maison de Quartier.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser une journée d'animation autour du jeu pour favoriser le lien social et encourager les interactions entre les personnes âgées et les résidents de l’EHPAD.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser la mémoire et la place des personnes âgées dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Commission senior de la Maison de Quartier La Touche",
+  "date": [
+    "2015-11-27"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.txt",
+  "nom_fichier": "Viens_je_temmene_a_la_Maison_de_quartier_La_Touche_pour_une_journee_placee_sous_le_theme_du_jeu.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/254-pe-maison-de-quartier-jeu.pdf",
+  "original_title": "Viens, je t’emmène... à la Maison de quartier La Touche pour une journée placée sous le thème du jeu",
+  "collection_date": ""
 }

@@ -1,29 +1,39 @@
 {
-    "titre": "Développer la démarche palliative dans les lieux de vie des personnes âgées",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Depuis 1981, la Fondation Henri Baboin-Jaubert ~ Générations Solidaires – sous égide de la Fondation de France, agit pour des populations défavorisées dans les pays en voie développement mais s’intéresse également aux projets menés en faveur des personnes âgées notamment en région Rhône-Alpes.",
-        "contexte": "",
-        "problematique": "Les soins palliatifs à domicile, c'est possible",
-        "solution_envisagee": "Avec le soutien de la Fondation Henri Baboin-Jaubert ~ Générations Solidaires, sous égide de la Fondation de France, le 9 ème Colloque Alpin des Soins Palliatifs: « Les soins palliatifs à domicile: c'est possible! » a réuni les acteurs scientifiques et du milieu médical afin d’échanger sur l'accès aux soins palliatifs à domicile.",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2018-06-01"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "habitat et logement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.txt",
-    "nom_fichier": "Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Développer la démarche palliative dans les lieux de vie des personnes âgées",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Depuis 1981, la Fondation Henri Baboin-Jaubert ~ Générations Solidaires – sous égide de la Fondation de France, agit pour des populations défavorisées dans les pays en voie développement mais s’intéresse également aux projets menés en faveur des personnes âgées notamment en région Rhône-Alpes.",
+    "contexte": "",
+    "problematique": "Les soins palliatifs à domicile, c'est possible",
+    "solution_envisagee": "Avec le soutien de la Fondation Henri Baboin-Jaubert ~ Générations Solidaires, sous égide de la Fondation de France, le 9 ème Colloque Alpin des Soins Palliatifs: « Les soins palliatifs à domicile: c'est possible! » a réuni les acteurs scientifiques et du milieu médical afin d’échanger sur l'accès aux soins palliatifs à domicile.",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2018-06-01"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "habitat et logement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.txt",
+  "nom_fichier": "Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Génératio.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "habitat et logement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/actualites-de-fondations/developper-la-demarche-palliative-dans-les-lieux-de-vie-des-personnes-agees-fondation-henri-baboin-jaubert-generations-solidaires",
+  "original_title": "Développer la démarche palliative dans les lieux de vie des personnes âgées - Fondation Henri Baboin-Jaubert ~ Générations Solidaires",
+  "collection_date": ""
 }

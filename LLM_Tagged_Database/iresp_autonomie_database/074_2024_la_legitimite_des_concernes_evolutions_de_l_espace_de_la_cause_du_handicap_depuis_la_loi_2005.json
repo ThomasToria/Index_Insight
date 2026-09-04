@@ -1,33 +1,43 @@
 {
-    "titre": "La légitimité des concernés: évolutions de l'espace de la cause du handicap depuis la loi 2005",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette thèse de science politique, commencée en septembre 2021, analyse les évolutions des relations entre les associations, les mouvements sociaux et les pouvoirs publics dans l'élaboration des politiques publiques du handicap depuis la loi du 11 février 2005. Elle part de l'hypothèse selon laquelle les rôles et les pratiques ont été redéfinis dans les processus de décision politique par la volonté croissante de faire participer des 'personnes concernées'. Cette expression, lorsqu'elle est utilisée par les pouvoirs publics, a pour effet d'ouvrir un espace de participation aux décisions politiques.",
-        "contexte": "",
-        "problematique": "Les changements dans l'espace de la cause du handicap depuis la loi 2005 ont conduit à une réforme des politiques publiques visant à rendre plus participative les personnes concernées. Cependant, ces initiatives ont également engendré des tensions et des défis pour les associations et les mouvements sociaux.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Analyser les changements dans l'espace de la cause du handicap depuis la loi 2005",
-            "Évaluer les impacts des politiques publiques sur le rôle des personnes concernées",
-            "Identifier les défis et tensions pour les associations et mouvements sociaux face à ces initiatives"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2021"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\074_2024_la_legitimite_des_concernes_evolutions_de_l_espace_de_la_cause_du_handicap_depuis_la_loi_2005.txt",
-    "nom_fichier": "074_2024_la_legitimite_des_concernes_evolutions_de_l_espace_de_la_cause_du_handicap_depuis_la_loi_2005.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La légitimité des concernés: évolutions de l'espace de la cause du handicap depuis la loi 2005",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette thèse de science politique, commencée en septembre 2021, analyse les évolutions des relations entre les associations, les mouvements sociaux et les pouvoirs publics dans l'élaboration des politiques publiques du handicap depuis la loi du 11 février 2005. Elle part de l'hypothèse selon laquelle les rôles et les pratiques ont été redéfinis dans les processus de décision politique par la volonté croissante de faire participer des 'personnes concernées'. Cette expression, lorsqu'elle est utilisée par les pouvoirs publics, a pour effet d'ouvrir un espace de participation aux décisions politiques.",
+    "contexte": "",
+    "problematique": "Les changements dans l'espace de la cause du handicap depuis la loi 2005 ont conduit à une réforme des politiques publiques visant à rendre plus participative les personnes concernées. Cependant, ces initiatives ont également engendré des tensions et des défis pour les associations et les mouvements sociaux.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Analyser les changements dans l'espace de la cause du handicap depuis la loi 2005",
+      "Évaluer les impacts des politiques publiques sur le rôle des personnes concernées",
+      "Identifier les défis et tensions pour les associations et mouvements sociaux face à ces initiatives"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2021"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\074_2024_la_legitimite_des_concernes_evolutions_de_l_espace_de_la_cause_du_handicap_depuis_la_loi_2005.txt",
+  "nom_fichier": "074_2024_la_legitimite_des_concernes_evolutions_de_l_espace_de_la_cause_du_handicap_depuis_la_loi_2005.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/la-legitimite-des-concernes-evolutions-de-lespace-de-la-cause-du-handicap-depuis-la-loi-2005/",
+  "original_title": "La légitimité des concernés : évolutions de l’espace de la cause du handicap depuis la loi 2005",
+  "collection_date": ""
 }

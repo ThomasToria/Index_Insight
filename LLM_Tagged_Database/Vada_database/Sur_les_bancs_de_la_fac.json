@@ -1,32 +1,42 @@
 {
-    "titre": "Sur les bancs de la fac",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "L'enseignement à tous les âges: un engagement municipal.",
-        "contexte": "Une campagne de favoriser l’enseignement à tous les âges a été lancée, suivi d’un sondage auprès du public cible. Un partenariat entre la Ville et l'Université Côte d'Azur est mis en place pour offrir des cours variés aux seniors.",
-        "problematique": "Renforcer le lien intergénérationnel par des enseignements universitaires accessibles à tous les âges, notamment auprès de seniors.",
-        "solution_envisagee": "Un dispositif d'enseignement supérieur accessible aux seniors via un statut d'auditeur libre dans différents campus de l'Université Côte d'Azur.",
-        "objectifs": [
-            "Favoriser l'accès à des enseignements supérieurs pour les seniors",
-            "Renforcer le lien intergénérationnel par des cours universitaires accessibles aux seniors"
-        ]
-    },
-    "porteur_initiative": "Ville de Nice",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "services et accompagnement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sur_les_bancs_de_la_fac.txt",
-    "nom_fichier": "Sur_les_bancs_de_la_fac.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Sur les bancs de la fac",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "L'enseignement à tous les âges: un engagement municipal.",
+    "contexte": "Une campagne de favoriser l’enseignement à tous les âges a été lancée, suivi d’un sondage auprès du public cible. Un partenariat entre la Ville et l'Université Côte d'Azur est mis en place pour offrir des cours variés aux seniors.",
+    "problematique": "Renforcer le lien intergénérationnel par des enseignements universitaires accessibles à tous les âges, notamment auprès de seniors.",
+    "solution_envisagee": "Un dispositif d'enseignement supérieur accessible aux seniors via un statut d'auditeur libre dans différents campus de l'Université Côte d'Azur.",
+    "objectifs": [
+      "Favoriser l'accès à des enseignements supérieurs pour les seniors",
+      "Renforcer le lien intergénérationnel par des cours universitaires accessibles aux seniors"
+    ]
+  },
+  "porteur_initiative": "Ville de Nice",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sur_les_bancs_de_la_fac.txt",
+  "nom_fichier": "Sur_les_bancs_de_la_fac.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/793-maj-2025-v2-pe-ville-de-nice-1-2.pdf",
+  "original_title": "Sur les bancs de la fac",
+  "collection_date": ""
 }

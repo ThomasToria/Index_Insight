@@ -1,33 +1,45 @@
 {
-    "titre": "Louise et Compagnie: La COLOC'Étudiante Solidaire",
-    "territoire": "Commune de Brest",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "La résidence Louise LE ROUX, gérée par le CCAS de Brest, a initié un projet d’animation solidaire pour les personnes âgées.",
-        "contexte": "Suite à la vacance d’un ancien logement adjacent, l’établissement a souhaité rénover et louer l’appartement à des étudiants désireux de s’inscrire dans le projet d’animation de la résidence. Les étudiants ont proposé des animations en créneaux habituellement inoccupés pour les retraités.",
-        "problematique": "Lutter contre l’isolement des personnes âgées et favoriser l’accès au logement pour les étudiants en leur proposant une démarche solidaire intergénérationnelle.",
-        "solution_envisagee": "Proposer des animations variées aux résidents âgés dans un cadre convivial, impliquer des étudiants dans une démarche solidaire intergénérationnelle, et effectuer un suivi régulier et un bilan des actions entreprises.",
-        "objectifs": [
-            "Lutter contre l’isolement des personnes âgées",
-            "Inciter les résidents âgés à sortir et échanger",
-            "Favoriser l’accès au logement pour les étudiants en leur proposant une démarche solidaire intergénérationnelle"
-        ]
-    },
-    "porteur_initiative": "La mise en place de cet ambitieux projet a nécessité du temps: initié en mai 2016, les premiers étudiants ont été accueillis en septembre 2017. Entretemps, des recherches techniques et enquêtes de terrain ont été menées par un étudiant pour vérifier la faisabilité et l’adhésion au projet.",
-    "date": [
-        "depuis 2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Louise_et_Compagnie_La_COLOCEtudiante_Solidaire.txt",
-    "nom_fichier": "Louise_et_Compagnie_La_COLOCEtudiante_Solidaire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Louise et Compagnie: La COLOC'Étudiante Solidaire",
+  "territoire": [
+    "brest"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "La résidence Louise LE ROUX, gérée par le CCAS de Brest, a initié un projet d’animation solidaire pour les personnes âgées.",
+    "contexte": "Suite à la vacance d’un ancien logement adjacent, l’établissement a souhaité rénover et louer l’appartement à des étudiants désireux de s’inscrire dans le projet d’animation de la résidence. Les étudiants ont proposé des animations en créneaux habituellement inoccupés pour les retraités.",
+    "problematique": "Lutter contre l’isolement des personnes âgées et favoriser l’accès au logement pour les étudiants en leur proposant une démarche solidaire intergénérationnelle.",
+    "solution_envisagee": "Proposer des animations variées aux résidents âgés dans un cadre convivial, impliquer des étudiants dans une démarche solidaire intergénérationnelle, et effectuer un suivi régulier et un bilan des actions entreprises.",
+    "objectifs": [
+      "Lutter contre l’isolement des personnes âgées",
+      "Inciter les résidents âgés à sortir et échanger",
+      "Favoriser l’accès au logement pour les étudiants en leur proposant une démarche solidaire intergénérationnelle"
+    ]
+  },
+  "porteur_initiative": "La mise en place de cet ambitieux projet a nécessité du temps: initié en mai 2016, les premiers étudiants ont été accueillis en septembre 2017. Entretemps, des recherches techniques et enquêtes de terrain ont été menées par un étudiant pour vérifier la faisabilité et l’adhésion au projet.",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Louise_et_Compagnie_La_COLOCEtudiante_Solidaire.txt",
+  "nom_fichier": "Louise_et_Compagnie_La_COLOCEtudiante_Solidaire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/532-532-brest-louise-et-compagnie.pdf",
+  "original_title": "Louise et Compagnie, La COLOC'Étudiante Solidaire",
+  "collection_date": ""
 }

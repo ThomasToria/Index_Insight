@@ -1,35 +1,45 @@
 {
-    "titre": "La situation des familles, des enfants et des personnes âgées vulnérables dans les départements et régions d’outre-mer (Drom), rapport transversal du HCFEA",
-    "territoire": [
-        "Guadeloupe",
-        "Guyane",
-        "La Réunion",
-        "Martinique",
-        "Mayotte"
-    ],
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "rapport",
-    "description": {
-        "description_generale": "Réalités sociales et politiques menées, dossier transversal du Haut Conseil de la famille, de l'enfance et de l’âge (HCFEA), établit un constat sur la situation des familles, des enfants et des personnes âgées vulnérables dans les départements et régions d’outre-mer (Drom) et propose des pistes en vue d’améliorer cette situation.",
-        "contexte": "Derrière des points communs qui les différencient de la métropole, une grande diversité des territoires ultramarins",
-        "problematique": "La situation de Mayotte apparaît particulièrement problématique; la proportion de familles monoparentales est beaucoup plus élevée qu'en métropole, quel que soit le territoire; la monoparentalité y est souvent une manière de faire famille comme une autre, et non une situation transitoire.",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "HCFEA",
-    "date": [
-        "2016"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "HCFEA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\La situation des familles, des enfants et des pers.txt",
-    "nom_fichier": "La situation des familles, des enfants et des pers.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La situation des familles, des enfants et des personnes âgées vulnérables dans les départements et régions d’outre-mer (Drom), rapport transversal du HCFEA",
+  "territoire": [
+    "guadeloupe",
+    "guyane",
+    "la réunion",
+    "martinique",
+    "mayotte"
+  ],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "rapport",
+  "description": {
+    "description_generale": "Réalités sociales et politiques menées, dossier transversal du Haut Conseil de la famille, de l'enfance et de l’âge (HCFEA), établit un constat sur la situation des familles, des enfants et des personnes âgées vulnérables dans les départements et régions d’outre-mer (Drom) et propose des pistes en vue d’améliorer cette situation.",
+    "contexte": "Derrière des points communs qui les différencient de la métropole, une grande diversité des territoires ultramarins",
+    "problematique": "La situation de Mayotte apparaît particulièrement problématique; la proportion de familles monoparentales est beaucoup plus élevée qu'en métropole, quel que soit le territoire; la monoparentalité y est souvent une manière de faire famille comme une autre, et non une situation transitoire.",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "HCFEA",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "HCFEA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Hcfea_database\\La situation des familles, des enfants et des pers.txt",
+  "nom_fichier": "La situation des familles, des enfants et des pers.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://hcfea.gouv.fr/la-situation-des-familles-des-enfants-et-des-personnes-agees-vulnerables-dans-les-departements-et-regions-doutre-mer-drom-rapport-transversal-du-hcfea",
+  "original_title": "La situation des familles, des enfants et des personnes âgées vulnérables dans les départements et régions d’outre-mer (Drom), rapport transversal du HCFEA",
+  "collection_date": ""
 }

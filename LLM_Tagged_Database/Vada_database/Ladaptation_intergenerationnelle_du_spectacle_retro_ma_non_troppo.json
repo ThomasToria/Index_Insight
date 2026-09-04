@@ -1,35 +1,44 @@
 {
-    "titre": "L'adaptation intergénérationnelle du spectacle «Rétro ma non troppo»",
-    "territoire": "Commune: Ambérieu-en-Bugey",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Ce projet s'articule autour de l'adaptation d'un spectacle d'humour musical utilisant une vidéo sur le style des actualités Gaumont. La rencontre entre jeunes et aînés sur une période riche de l’histoire de France est la clé de vue de ce projet.",
-        "contexte": "La mairie d'Ambérieu-en-Bugey apparaît comme un acteur impliqué dans le soutien financier et logistique du projet. L'association «Allymes en musique» coordonne également cette production, tandis que la MJC sera impliquée.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Un projet d'adaptation du spectacle «Rétro ma non troppo» à une période riche de l’histoire de France permettra de mettre en lien différents acteurs locaux pour une création intégrée à un spectacle professionnel. Il s'agit également d'une action particulièrement originale puisqu'elle mettra en lien différents publics et expériences.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "La mairie d'Ambérieu-en-Bugey",
-    "date": [
-        "2016-09",
-        "2016-10",
-        "2016-11",
-        "2016-12"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ladaptation_intergenerationnelle_du_spectacle_retro_ma_non_troppo.txt",
-    "nom_fichier": "Ladaptation_intergenerationnelle_du_spectacle_retro_ma_non_troppo.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'adaptation intergénérationnelle du spectacle «Rétro ma non troppo»",
+  "territoire": [
+    "ambérieu-en-bugey"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Ce projet s'articule autour de l'adaptation d'un spectacle d'humour musical utilisant une vidéo sur le style des actualités Gaumont. La rencontre entre jeunes et aînés sur une période riche de l’histoire de France est la clé de vue de ce projet.",
+    "contexte": "La mairie d'Ambérieu-en-Bugey apparaît comme un acteur impliqué dans le soutien financier et logistique du projet. L'association «Allymes en musique» coordonne également cette production, tandis que la MJC sera impliquée.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Un projet d'adaptation du spectacle «Rétro ma non troppo» à une période riche de l’histoire de France permettra de mettre en lien différents acteurs locaux pour une création intégrée à un spectacle professionnel. Il s'agit également d'une action particulièrement originale puisqu'elle mettra en lien différents publics et expériences.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "La mairie d'Ambérieu-en-Bugey",
+  "date": [
+    "2016"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ladaptation_intergenerationnelle_du_spectacle_retro_ma_non_troppo.txt",
+  "nom_fichier": "Ladaptation_intergenerationnelle_du_spectacle_retro_ma_non_troppo.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/281-281-amberieu-culture-et-loisirs.pdf",
+  "original_title": "L’adaptation intergénérationnelle du spectacle «rétro ma non troppo»",
+  "collection_date": ""
 }

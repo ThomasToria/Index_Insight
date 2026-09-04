@@ -1,33 +1,45 @@
 {
-    "titre": "Basket bien-être",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Ce projet s'est lancé dans le cadre des actions de prévention proposées par le Guichet Atout Seniors. Il a pour objectif d'adapter les séances de gymnastique individuelles à un public senior, en proposant une activité de basket-ball qui permettrait aux seniors de découvrir un nouveau sport et de se surpasser.",
-        "contexte": "Les seniors du Guichet Atout Seniors souhaitaient des activités physiques adaptées pour maintenir leur santé et leur bien-être. Le projet a été conçu en collaboration avec une éducatrice sportive spécialisée dans les activités physiques adaptées, qui a identifié le basket-ball comme un sport adapté aux seniors.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents du Guichet Atout Seniors et leur communauté pour favoriser une vie sociale active et participative.",
-        "solution_envisagee": "Proposer une activité physique adaptée à la pratique du basket-ball, qui permettrait aux seniors d'acquérir de nouvelles compétences et d'établir des liens sociaux.",
-        "objectifs": [
-            "Favoriser l'intégration sociale",
-            "Promouvoir les activités physiques pour maintenir la santé physique et mentale",
-            "Développer le sentiment d'appartenance à la communauté"
-        ]
-    },
-    "porteur_initiative": "CCAS de Colomiers",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Basket_bien-etre.txt",
-    "nom_fichier": "Basket_bien-etre.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Basket bien-être",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Ce projet s'est lancé dans le cadre des actions de prévention proposées par le Guichet Atout Seniors. Il a pour objectif d'adapter les séances de gymnastique individuelles à un public senior, en proposant une activité de basket-ball qui permettrait aux seniors de découvrir un nouveau sport et de se surpasser.",
+    "contexte": "Les seniors du Guichet Atout Seniors souhaitaient des activités physiques adaptées pour maintenir leur santé et leur bien-être. Le projet a été conçu en collaboration avec une éducatrice sportive spécialisée dans les activités physiques adaptées, qui a identifié le basket-ball comme un sport adapté aux seniors.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents du Guichet Atout Seniors et leur communauté pour favoriser une vie sociale active et participative.",
+    "solution_envisagee": "Proposer une activité physique adaptée à la pratique du basket-ball, qui permettrait aux seniors d'acquérir de nouvelles compétences et d'établir des liens sociaux.",
+    "objectifs": [
+      "Favoriser l'intégration sociale",
+      "Promouvoir les activités physiques pour maintenir la santé physique et mentale",
+      "Développer le sentiment d'appartenance à la communauté"
+    ]
+  },
+  "porteur_initiative": "CCAS de Colomiers",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Basket_bien-etre.txt",
+  "nom_fichier": "Basket_bien-etre.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/902-concours-2023-basket-bien-etre.pdf",
+  "original_title": "Basket bien-être",
+  "collection_date": ""
 }

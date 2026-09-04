@@ -1,0 +1,16 @@
+# Environnements et caches locaux
+venv/
+__pycache__/
+*.py[cod]
+.xlsx_work/
+~$*.xlsx
+
+# Répertoires de travail régénérables
+tmp/
+temp/
+
+# Artefacts locaux de présentation
+canva_logo_preview.png
+
+# Sauvegarde locale volumineuse et réponses LLM brutes
+LLM_Tagged_Database_backup_avant_harmonisation/

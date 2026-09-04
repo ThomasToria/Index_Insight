@@ -1,33 +1,43 @@
 {
-    "titre": "Vécus, besoins et attentes des familles de personnes polyhandicapées vieillissantes",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette recherche vise à identifier les besoins et attentes des familles de personnes polyhandicapées vieillissantes.",
-        "contexte": "La polyhandicap, une affection chronique conséquence d’une anomalie ou d’une lésion survenant sur un cerveau en développement, est une situation rare qui nécessite une prise en charge spécifique. Les personnes atteintes de ce handicap ont des besoins et attentes spécifiques qui ne sont pas toujours pris en compte dans les soins actuels.",
-        "problematique": "Les familles de personnes polyhandicapées vieillissantes rencontrent différents défis liés à l’âge, notamment la difficulté à trouver un équilibre entre le soutien familial et les besoins spécifiques des individus concernés. De plus, ces familles peuvent se sentir isolées dans leur recherche de solutions.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les besoins et attentes des familles de personnes polyhandicapées vieillissantes",
-            "Analyser la situation actuelle des soins proposés aux individus atteints de polyhandicap",
-            "Proposer des solutions pour améliorer l’accompagnement familial dans le contexte de l’âge avancé"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\129_2022_vecus_besoins_et_attentes_des_familles_de_personnes_polyhandicapees_vieillissantes.txt",
-    "nom_fichier": "129_2022_vecus_besoins_et_attentes_des_familles_de_personnes_polyhandicapees_vieillissantes.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Vécus, besoins et attentes des familles de personnes polyhandicapées vieillissantes",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette recherche vise à identifier les besoins et attentes des familles de personnes polyhandicapées vieillissantes.",
+    "contexte": "La polyhandicap, une affection chronique conséquence d’une anomalie ou d’une lésion survenant sur un cerveau en développement, est une situation rare qui nécessite une prise en charge spécifique. Les personnes atteintes de ce handicap ont des besoins et attentes spécifiques qui ne sont pas toujours pris en compte dans les soins actuels.",
+    "problematique": "Les familles de personnes polyhandicapées vieillissantes rencontrent différents défis liés à l’âge, notamment la difficulté à trouver un équilibre entre le soutien familial et les besoins spécifiques des individus concernés. De plus, ces familles peuvent se sentir isolées dans leur recherche de solutions.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les besoins et attentes des familles de personnes polyhandicapées vieillissantes",
+      "Analyser la situation actuelle des soins proposés aux individus atteints de polyhandicap",
+      "Proposer des solutions pour améliorer l’accompagnement familial dans le contexte de l’âge avancé"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\129_2022_vecus_besoins_et_attentes_des_familles_de_personnes_polyhandicapees_vieillissantes.txt",
+  "nom_fichier": "129_2022_vecus_besoins_et_attentes_des_familles_de_personnes_polyhandicapees_vieillissantes.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/vecus-besoins-et-attentes-des-familles-de-personnes-polyhandicapees-vieillissantes/",
+  "original_title": "Vécus, besoins et attentes des familles de personnes polyhandicapées vieillissantes",
+  "collection_date": ""
 }

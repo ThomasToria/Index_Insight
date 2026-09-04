@@ -1,32 +1,44 @@
 {
-    "titre": "Virage numérique au service Anim’à Dom’",
-    "territoire": "Commune: Dom",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Depuis 2015, le service Anim’ à Dom (animation au domicile des personnes âgées) mis en place par l’OPAR (Observatoire et Pôle d’Animation des Retraités Rennais) propose une animation sur les nouvelles technologies: « Virage Numérique ». Cette expérimentation est un projet qui est né à l'initiative des jeunes bénévoles de l’association qui souhaitaient partager leur connaissance dans ce domaine pour faire découvrir 'leur monde numérique aux plus anciens'.",
-        "contexte": "Le service Anim’à Dom crée des occasions d'échanger, les personnes âgées ouvrent les portes de leurs domiciles à des jeunes qui ont parfois des représentations erronées de la vieillesse et inversement. Dans un premier temps, des entretiens ont eu lieu avec les bénévoles pour réfléchir autour du projet et de son élaboration. Afin d'élaborer le module de formation, l’association a acquis des tablettes numériques et a installé des applications et des jeux cognitifs.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des initiatives autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Association",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "numérique"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Virage_numerique_au_service_anima_Dom.txt",
-    "nom_fichier": "Virage_numerique_au_service_anima_Dom.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Virage numérique au service Anim’à Dom’",
+  "territoire": [
+    "dom"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Depuis 2015, le service Anim’ à Dom (animation au domicile des personnes âgées) mis en place par l’OPAR (Observatoire et Pôle d’Animation des Retraités Rennais) propose une animation sur les nouvelles technologies: « Virage Numérique ». Cette expérimentation est un projet qui est né à l'initiative des jeunes bénévoles de l’association qui souhaitaient partager leur connaissance dans ce domaine pour faire découvrir 'leur monde numérique aux plus anciens'.",
+    "contexte": "Le service Anim’à Dom crée des occasions d'échanger, les personnes âgées ouvrent les portes de leurs domiciles à des jeunes qui ont parfois des représentations erronées de la vieillesse et inversement. Dans un premier temps, des entretiens ont eu lieu avec les bénévoles pour réfléchir autour du projet et de son élaboration. Afin d'élaborer le module de formation, l’association a acquis des tablettes numériques et a installé des applications et des jeux cognitifs.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des initiatives autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Association",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "numérique"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Virage_numerique_au_service_anima_Dom.txt",
+  "nom_fichier": "Virage_numerique_au_service_anima_Dom.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/301-anim-a-dom.pdf",
+  "original_title": "Virage numérique au service anim’à Dom’",
+  "collection_date": ""
 }

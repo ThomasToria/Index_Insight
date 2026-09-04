@@ -1,33 +1,43 @@
 {
-    "titre": "Accompagnement à l’Appropriation, l’aUtoGestion et l’édUcation théRapeutique continuE concernant la prévention secondaire du Lesé Médullaire – AUGURE-LME",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "L’IReSP a lancé une enquête pour étudier les pratiques éducatives et le rôle des ressources humaines dans la prévention du Lesé Médullaire.",
-        "contexte": "",
-        "problematique": "Les personnes âgées, souvent isolées, sont vulnérables aux maladies neurologiques comme le Lesé Médullaire. L’objectif de l’enquête est d’étudier les pratiques éducatives et la participation des ressources humaines dans cette prévention.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les pratiques éducatives efficaces pour prévenir le Lesé Médullaire",
-            "Analyser l’impact de ces pratiques sur la santé mentale et physique des personnes âgées",
-            "Formuler des recommandations pour améliorer la prévention du Lesé Médullaire dans les structures d’accueil à domicile"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2022"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\004_2022_accompagnement_a_l_appropriation_l_autogestion_et_l_education_therapeutique_continue_concernant_la_prevention_secondaire.txt",
-    "nom_fichier": "004_2022_accompagnement_a_l_appropriation_l_autogestion_et_l_education_therapeutique_continue_concernant_la_prevention_secondaire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Accompagnement à l’Appropriation, l’aUtoGestion et l’édUcation théRapeutique continuE concernant la prévention secondaire du Lesé Médullaire – AUGURE-LME",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "L’IReSP a lancé une enquête pour étudier les pratiques éducatives et le rôle des ressources humaines dans la prévention du Lesé Médullaire.",
+    "contexte": "",
+    "problematique": "Les personnes âgées, souvent isolées, sont vulnérables aux maladies neurologiques comme le Lesé Médullaire. L’objectif de l’enquête est d’étudier les pratiques éducatives et la participation des ressources humaines dans cette prévention.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les pratiques éducatives efficaces pour prévenir le Lesé Médullaire",
+      "Analyser l’impact de ces pratiques sur la santé mentale et physique des personnes âgées",
+      "Formuler des recommandations pour améliorer la prévention du Lesé Médullaire dans les structures d’accueil à domicile"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\004_2022_accompagnement_a_l_appropriation_l_autogestion_et_l_education_therapeutique_continue_concernant_la_prevention_secondaire.txt",
+  "nom_fichier": "004_2022_accompagnement_a_l_appropriation_l_autogestion_et_l_education_therapeutique_continue_concernant_la_prevention_secondaire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/accompagnement-a-lappropriation-lautogestion-et-leducation-therapeutique-continue-concernant-la-prevention-secondaire-du-lese-medullaire-augure-lme/",
+  "original_title": "Accompagnement à l’Appropriation, l’aUtoGestion et l’édUcation théRapeutique continuE concernant la prévention secondaire du Lesé Médullaire – AUGURE-LME",
+  "collection_date": ""
 }

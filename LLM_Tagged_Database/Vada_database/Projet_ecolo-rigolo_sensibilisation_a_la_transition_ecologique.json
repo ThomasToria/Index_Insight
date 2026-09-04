@@ -1,33 +1,45 @@
 {
-    "titre": "Projet écolo-rigolo: sensibilisation à la transition écologique",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Un projet de défilé de mode intergénérationnel organisé par une troupe de seniors, Les Pétroleuses, pour sensibiliser le public à la transition écologique.",
-        "contexte": "Les Pétroleuses, une troupe de seniors créant un spectacle original sur les thèmes de la transition écologique et de l'histoire avec des costumes d'époque.",
-        "problematique": "Le besoin de sensibiliser le public à la transition écologique et de valoriser les compétences des seniors dans leur ville.",
-        "solution_envisagee": "Organisation d'un défilé de mode intergénérationnel avec costumes créés par une aînée de Clamart, permettant ainsi de sensibiliser le public à la transition écologique et de valoriser les compétences des seniors.",
-        "objectifs": [
-            "valoriser les compétences / les savoirs faire et l'engagement des seniors pour leur ville",
-            "lutter contre l'âgisme",
-            "changer les représentations sur le vieillissement"
-        ]
-    },
-    "porteur_initiative": "Les Pétroleuses, une troupe de seniors",
-    "date": [
-        "2023-05-07"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "environnement et développement durable"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_ecolo-rigolo_sensibilisation_a_la_transition_ecologique.txt",
-    "nom_fichier": "Projet_ecolo-rigolo_sensibilisation_a_la_transition_ecologique.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Projet écolo-rigolo: sensibilisation à la transition écologique",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Un projet de défilé de mode intergénérationnel organisé par une troupe de seniors, Les Pétroleuses, pour sensibiliser le public à la transition écologique.",
+    "contexte": "Les Pétroleuses, une troupe de seniors créant un spectacle original sur les thèmes de la transition écologique et de l'histoire avec des costumes d'époque.",
+    "problematique": "Le besoin de sensibiliser le public à la transition écologique et de valoriser les compétences des seniors dans leur ville.",
+    "solution_envisagee": "Organisation d'un défilé de mode intergénérationnel avec costumes créés par une aînée de Clamart, permettant ainsi de sensibiliser le public à la transition écologique et de valoriser les compétences des seniors.",
+    "objectifs": [
+      "valoriser les compétences / les savoirs faire et l'engagement des seniors pour leur ville",
+      "lutter contre l'âgisme",
+      "changer les représentations sur le vieillissement"
+    ]
+  },
+  "porteur_initiative": "Les Pétroleuses, une troupe de seniors",
+  "date": [
+    "2023-05-07"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "environnement et développement durable"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Projet_ecolo-rigolo_sensibilisation_a_la_transition_ecologique.txt",
+  "nom_fichier": "Projet_ecolo-rigolo_sensibilisation_a_la_transition_ecologique.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "environnement et développement durable"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/920-pe-projet-ecolo-rigolo-sensibilisation-a-la-transition-ecologique-1.pdf",
+  "original_title": "Projet écolo-rigolo : sensibilisation à la transition écologique",
+  "collection_date": ""
 }

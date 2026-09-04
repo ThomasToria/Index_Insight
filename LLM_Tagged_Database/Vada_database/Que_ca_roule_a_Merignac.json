@@ -1,35 +1,45 @@
 {
-    "titre": "Que ça roule à Mérignac",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Communiquer sur l’ensemble des enjeux de la mobilité senior. Proposer de nouveaux modes de déplacement.",
-        "contexte": "La Ville de Mérignac a choisi de développer de nouvelles formes de mobilités douces et alternatives comme le vélo cargo pour les personnes âgées, afin d’offrir des solutions de mobilité ludique et simple.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Organiser des événements festifs pour promouvoir ces solutions alternatives, comme à l’occasion de la Semaine de la Mobilité où différents moyens de locomotion ont été présentés. Ces événements ont rassemblé de nombreux participants, acteurs associatifs et opérateurs privés.",
-        "objectifs": [
-            "Communiquer sur l’ensemble des enjeux de la mobilité senior",
-            "Proposer de nouveaux modes de déplacement",
-            "Créer et expérimenter des réponses innovantes et alternatives aux problèmes de mobilité des personnes âgées",
-            "Lutter contre l’isolement en créant des solutions de maintien de la mobilité autonome"
-        ]
-    },
-    "porteur_initiative": "Mérignac (33)",
-    "date": [
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Que_ca_roule_a_Merignac.txt",
-    "nom_fichier": "Que_ca_roule_a_Merignac.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Que ça roule à Mérignac",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Communiquer sur l’ensemble des enjeux de la mobilité senior. Proposer de nouveaux modes de déplacement.",
+    "contexte": "La Ville de Mérignac a choisi de développer de nouvelles formes de mobilités douces et alternatives comme le vélo cargo pour les personnes âgées, afin d’offrir des solutions de mobilité ludique et simple.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Organiser des événements festifs pour promouvoir ces solutions alternatives, comme à l’occasion de la Semaine de la Mobilité où différents moyens de locomotion ont été présentés. Ces événements ont rassemblé de nombreux participants, acteurs associatifs et opérateurs privés.",
+    "objectifs": [
+      "Communiquer sur l’ensemble des enjeux de la mobilité senior",
+      "Proposer de nouveaux modes de déplacement",
+      "Créer et expérimenter des réponses innovantes et alternatives aux problèmes de mobilité des personnes âgées",
+      "Lutter contre l’isolement en créant des solutions de maintien de la mobilité autonome"
+    ]
+  },
+  "porteur_initiative": "Mérignac (33)",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Que_ca_roule_a_Merignac.txt",
+  "nom_fichier": "Que_ca_roule_a_Merignac.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/501-501-que-ca-roule-a-merignac.pdf",
+  "original_title": "Que ça roule à Mérignac",
+  "collection_date": ""
 }

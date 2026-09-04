@@ -1,32 +1,44 @@
 {
-    "titre": "Séjour à Rome",
-    "territoire": "Commune: Vence (06)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Organisation d'un séjour à Rome pour les seniors, avec des activités de découverte touristique.",
-        "contexte": "Le CCAS de Vence a organisé un séjour à Rome en mai 2023 pour 50 personnes âgées. Le voyage a duré cinq jours et a été financé par l'argent des participants, qui ont payé 890€ chacun.",
-        "problematique": "Permettre aux seniors de Vence de voyager et découvrir de nouveaux paysages, créer du lien social pendant le séjour en rentrant dans les sites touristiques de Rome.",
-        "solution_envisagee": "Organiser un séjour à Rome pour les seniors avec des activités de découverte touristique, permettant aux participants de se sentir en sécurité et d'apprendre de nouvelles expériences.",
-        "objectifs": [
-            "Permettre aux seniors de Vence de voyager et découvrir de nouveaux paysages",
-            "Créer du lien social le temps du séjour en rentrant dans les sites touristiques de Rome"
-        ]
-    },
-    "porteur_initiative": "CCAS de Vence",
-    "date": [
-        "2023-05"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejour_a_Rome.txt",
-    "nom_fichier": "Sejour_a_Rome.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Séjour à Rome",
+  "territoire": [
+    "vence (06)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Organisation d'un séjour à Rome pour les seniors, avec des activités de découverte touristique.",
+    "contexte": "Le CCAS de Vence a organisé un séjour à Rome en mai 2023 pour 50 personnes âgées. Le voyage a duré cinq jours et a été financé par l'argent des participants, qui ont payé 890€ chacun.",
+    "problematique": "Permettre aux seniors de Vence de voyager et découvrir de nouveaux paysages, créer du lien social pendant le séjour en rentrant dans les sites touristiques de Rome.",
+    "solution_envisagee": "Organiser un séjour à Rome pour les seniors avec des activités de découverte touristique, permettant aux participants de se sentir en sécurité et d'apprendre de nouvelles expériences.",
+    "objectifs": [
+      "Permettre aux seniors de Vence de voyager et découvrir de nouveaux paysages",
+      "Créer du lien social le temps du séjour en rentrant dans les sites touristiques de Rome"
+    ]
+  },
+  "porteur_initiative": "CCAS de Vence",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Sejour_a_Rome.txt",
+  "nom_fichier": "Sejour_a_Rome.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/880-pe-sejour-a-rome.pdf",
+  "original_title": "Séjour à Rome",
+  "collection_date": ""
 }

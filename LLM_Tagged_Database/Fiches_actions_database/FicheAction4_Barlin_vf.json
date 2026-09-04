@@ -1,33 +1,43 @@
 {
-    "titre": "Projet Papot'Age – Démarche de design citoyen à Barlin (62)",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette fiche action propose des pistes pour améliorer le lien entre habitants, mairie et associations actives sur la commune.",
-        "contexte": "Les habitants de Barlin expriment une frustration concernant l'absence de manifestations ou d'événements organisés par la mairie, les associations et les clubs. Les élus ne sont pas toujours écoutés, et certains habitants se sentent incompris.",
-        "problematique": "Le besoin de renforcer le lien entre les habitants, les élus et les associations pour améliorer l'information et la participation des ainés à la vie communale.",
-        "solution_envisagee": "Proposer des rencontres et formations remise à niveau pour les personnes intéressées. Organiser des moments conviviaux et une réflexion sur le mot « ainé » afin de favoriser un dialogue plus ouvert avec les associations.",
-        "objectifs": [
-            "Améliorer la communication entre habitants, élus et associations",
-            "Favoriser l'engagement du public dans les actions communales",
-            "Renforcer le lien social et intergénérationnel"
-        ]
-    },
-    "porteur_initiative": "Assemblée des ainés de Barlin",
-    "date": [
-        "2025-04-24"
-    ],
-    "thematique": [
-        "participation citoyenne",
-        "activité physique et sport",
-        "services et accompagnement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction4_Barlin_vf.txt",
-    "nom_fichier": "FicheAction4_Barlin_vf.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Projet Papot'Age – Démarche de design citoyen à Barlin (62)",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Cette fiche action propose des pistes pour améliorer le lien entre habitants, mairie et associations actives sur la commune.",
+    "contexte": "Les habitants de Barlin expriment une frustration concernant l'absence de manifestations ou d'événements organisés par la mairie, les associations et les clubs. Les élus ne sont pas toujours écoutés, et certains habitants se sentent incompris.",
+    "problematique": "Le besoin de renforcer le lien entre les habitants, les élus et les associations pour améliorer l'information et la participation des ainés à la vie communale.",
+    "solution_envisagee": "Proposer des rencontres et formations remise à niveau pour les personnes intéressées. Organiser des moments conviviaux et une réflexion sur le mot « ainé » afin de favoriser un dialogue plus ouvert avec les associations.",
+    "objectifs": [
+      "Améliorer la communication entre habitants, élus et associations",
+      "Favoriser l'engagement du public dans les actions communales",
+      "Renforcer le lien social et intergénérationnel"
+    ]
+  },
+  "porteur_initiative": "Assemblée des ainés de Barlin",
+  "date": [
+    "2025-04-24"
+  ],
+  "thematique": [
+    "participation citoyenne",
+    "activité physique et sport",
+    "services et accompagnement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction4_Barlin_vf.txt",
+  "nom_fichier": "FicheAction4_Barlin_vf.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "participation citoyenne et gouvernance",
+    "activité physique et sport",
+    "services et accompagnement"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FicheAction4_Barlin_vf.pdf",
+  "collection_date": ""
 }

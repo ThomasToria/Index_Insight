@@ -1,30 +1,41 @@
 {
-    "titre": "Le Conseil des Seniors Actifs",
-    "territoire": "Commune: Saint-Jean-du-Gard, 30",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "publication",
-    "description": {
-        "description_generale": "",
-        "contexte": "",
-        "problematique": "Les problématiques rencontrées et les besoins des seniors sur la commune",
-        "solution_envisagee": "",
-        "objectifs": "Soulever les problématiques rencontrées et les beso ins des seniors sur la commune"
-    },
-    "porteur_initiative": "La commune de Saint-Jean-du-Gard, via le prestataire référencé VADA",
-    "date": [
-        "2024",
-        "janvier 2024"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "participation citoyenne",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Seniors_Actifs.txt",
-    "nom_fichier": "Le_Conseil_des_Seniors_Actifs.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Le Conseil des Seniors Actifs",
+  "territoire": [
+    "saint-jean-du-gard, 30"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "publication",
+  "description": {
+    "description_generale": "",
+    "contexte": "",
+    "problematique": "Les problématiques rencontrées et les besoins des seniors sur la commune",
+    "solution_envisagee": "",
+    "objectifs": "Soulever les problématiques rencontrées et les beso ins des seniors sur la commune"
+  },
+  "porteur_initiative": "La commune de Saint-Jean-du-Gard, via le prestataire référencé VADA",
+  "date": [
+    "2024"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "participation citoyenne",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Le_Conseil_des_Seniors_Actifs.txt",
+  "nom_fichier": "Le_Conseil_des_Seniors_Actifs.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "participation citoyenne et gouvernance",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "rapport ou publication",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/09/PE-Le-Conseil-des-Seniors-Actifs.pdf",
+  "original_title": "Le Conseil des Seniors Actifs",
+  "collection_date": ""
 }

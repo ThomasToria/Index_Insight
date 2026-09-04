@@ -1,34 +1,44 @@
 {
-    "titre": "Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024)",
-    "territoire": "communale",
-    "echelle": [
-        "quartier",
-        "intercommunale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "projet d'aménagement",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la consultation des habitants afin d'éviter les problèmes d'aménagement et de mieux prendre en compte les situations quotidiennes.",
-        "contexte": "Les travaux d’aménagement ont été effectués sans consultation précise préalable, ce qui a conduit à des conflits avec les résidents. Le marché actuel est jugé dangereux et sujet à violations. Les équipements de ramassage de déchets ne sont pas adaptés aux situations personnelles.",
-        "problematique": "Les aménagements de trottoir ont été faits sans consultation précise préalable, ce qui a conduit à des conflits avec les résidents. Le marché actuel est jugé dangereux et sujet à violations. Les équipements de ramassage de déchets ne sont pas adaptés aux situations personnelles.",
-        "solution_envisagee": "Améliorer la consultation des habitants afin d'éviter les problèmes d'aménagement et de mieux prendre en compte les situations quotidiennes, inspirant l’application de Oignies pour que tous les habitants puissent signaler les problèmes rencontrés sur la voirie.",
-        "objectifs": [
-            "Être informé de façon plus précise et régulière",
-            "Déplacer le marché vers le fond gauche de la place Albert Thomas",
-            "Envisager le ramassage hebdomadaire des poubelles vertes, noires et jaunes"
-        ]
-    },
-    "porteur_initiative": "Commune d'Ostricourt",
-    "date": [
-        "2024-04-10"
-    ],
-    "thematique": [
-        "participation citoyenne",
-        "activité physique et sport",
-        "espaces publics et aménagement"
-    ],
-    "source_site": "Fiches actions",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction6_Ostricourt_VF.txt",
-    "nom_fichier": "FicheAction6_Ostricourt_VF.txt",
-    "statut_action": "proposition de projet"
+  "titre": "Projet Papot’âge – Démarche de design citoyen à Ostricourt (59) – Les fiches-actions présentées lors de la restitution publique (version du 10 avril 2024)",
+  "territoire": [],
+  "echelle": [
+    "quartier",
+    "intercommunale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "consultation citoyenne",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la consultation des habitants afin d'éviter les problèmes d'aménagement et de mieux prendre en compte les situations quotidiennes.",
+    "contexte": "Les travaux d’aménagement ont été effectués sans consultation précise préalable, ce qui a conduit à des conflits avec les résidents. Le marché actuel est jugé dangereux et sujet à violations. Les équipements de ramassage de déchets ne sont pas adaptés aux situations personnelles.",
+    "problematique": "Les aménagements de trottoir ont été faits sans consultation précise préalable, ce qui a conduit à des conflits avec les résidents. Le marché actuel est jugé dangereux et sujet à violations. Les équipements de ramassage de déchets ne sont pas adaptés aux situations personnelles.",
+    "solution_envisagee": "Améliorer la consultation des habitants afin d'éviter les problèmes d'aménagement et de mieux prendre en compte les situations quotidiennes, inspirant l’application de Oignies pour que tous les habitants puissent signaler les problèmes rencontrés sur la voirie.",
+    "objectifs": [
+      "Être informé de façon plus précise et régulière",
+      "Déplacer le marché vers le fond gauche de la place Albert Thomas",
+      "Envisager le ramassage hebdomadaire des poubelles vertes, noires et jaunes"
+    ]
+  },
+  "porteur_initiative": "Commune d'Ostricourt",
+  "date": [
+    "2024-04-10"
+  ],
+  "thematique": [
+    "participation citoyenne",
+    "activité physique et sport",
+    "espaces publics et aménagement"
+  ],
+  "source_site": "SIAGE",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\fiches_actions_database\\FicheAction6_Ostricourt_VF.txt",
+  "nom_fichier": "FicheAction6_Ostricourt_VF.txt",
+  "statut_action": "proposition de projet",
+  "thematique_normalisee": [
+    "participation citoyenne et gouvernance",
+    "activité physique et sport",
+    "espaces publics et aménagement"
+  ],
+  "nature_initiative_normalisee": "consultation citoyenne",
+  "version_taxonomie": "v1.0",
+  "source_url": "",
+  "original_title": "FicheAction6_Ostricourt_VF.pdf",
+  "collection_date": ""
 }

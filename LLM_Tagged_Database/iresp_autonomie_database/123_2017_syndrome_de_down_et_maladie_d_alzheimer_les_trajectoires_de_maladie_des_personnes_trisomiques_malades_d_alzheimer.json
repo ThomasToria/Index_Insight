@@ -1,29 +1,39 @@
 {
-    "titre": "Syndrome de Down et maladie d'Alzheimer. Les trajectoires de maladie des personnes trisomiques malades d'Alzheimer",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Avec le phénomène d'allongement de l’espérance de vie, les personnes en situation de handicap font aujourd’hui l’expérience de vieillir. Les personnes atteintes du syndrome de Down (ou trisomie 21) présentent une prévalence particulièrement élevée de la maladie d’Alzheimer, et elles déclarent les symptômes de la maladie à un âge précoce. Or, plusieurs difficultés spécifiques apparaissent pour les personnes trisomiques malades d’Alzheimer. Tout d’abord, le diagnostic de maladie d’Alzheimer semble",
-        "contexte": "",
-        "problematique": "le diagnostic de maladie d’Alzheimer semble tarder à être effectué et la prise en charge des personnes atteintes est insuffisante. Les difficultés spécifiques pour les personnes trisomiques malades d’Alzheimer comprennent également une prévalence plus élevée de symptômes, un retard dans le diagnostic et une perte de mémoire plus rapide.",
-        "solution_envisagee": "",
-        "objectifs": "identifier les difficultés spécifiques pour les personnes trisomiques malades d’Alzheimer lors du diagnostic et de la prise en charge de la maladie d’Alzheimer, et proposer des solutions pour améliorer ces conditions."
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2017"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\123_2017_syndrome_de_down_et_maladie_d_alzheimer_les_trajectoires_de_maladie_des_personnes_trisomiques_malades_d_alzheimer.txt",
-    "nom_fichier": "123_2017_syndrome_de_down_et_maladie_d_alzheimer_les_trajectoires_de_maladie_des_personnes_trisomiques_malades_d_alzheimer.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Syndrome de Down et maladie d'Alzheimer. Les trajectoires de maladie des personnes trisomiques malades d'Alzheimer",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Avec le phénomène d'allongement de l’espérance de vie, les personnes en situation de handicap font aujourd’hui l’expérience de vieillir. Les personnes atteintes du syndrome de Down (ou trisomie 21) présentent une prévalence particulièrement élevée de la maladie d’Alzheimer, et elles déclarent les symptômes de la maladie à un âge précoce. Or, plusieurs difficultés spécifiques apparaissent pour les personnes trisomiques malades d’Alzheimer. Tout d’abord, le diagnostic de maladie d’Alzheimer semble",
+    "contexte": "",
+    "problematique": "le diagnostic de maladie d’Alzheimer semble tarder à être effectué et la prise en charge des personnes atteintes est insuffisante. Les difficultés spécifiques pour les personnes trisomiques malades d’Alzheimer comprennent également une prévalence plus élevée de symptômes, un retard dans le diagnostic et une perte de mémoire plus rapide.",
+    "solution_envisagee": "",
+    "objectifs": "identifier les difficultés spécifiques pour les personnes trisomiques malades d’Alzheimer lors du diagnostic et de la prise en charge de la maladie d’Alzheimer, et proposer des solutions pour améliorer ces conditions."
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2017"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\123_2017_syndrome_de_down_et_maladie_d_alzheimer_les_trajectoires_de_maladie_des_personnes_trisomiques_malades_d_alzheimer.txt",
+  "nom_fichier": "123_2017_syndrome_de_down_et_maladie_d_alzheimer_les_trajectoires_de_maladie_des_personnes_trisomiques_malades_d_alzheimer.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/syndrome-de-down-et-maladie-dalzheimer-les-trajectoires-de-maladie-des-personnes-trisomiques-malades-dalzheimer/",
+  "original_title": "Syndrome de Down et maladie d’Alzheimer. Les trajectoires de maladie des personnes trisomiques malades d’Alzheimer",
+  "collection_date": ""
 }

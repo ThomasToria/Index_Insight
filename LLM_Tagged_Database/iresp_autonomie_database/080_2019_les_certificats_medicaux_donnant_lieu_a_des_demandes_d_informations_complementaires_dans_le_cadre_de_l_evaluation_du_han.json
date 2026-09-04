@@ -1,32 +1,42 @@
 {
-    "titre": "Les certificats médicaux donnant lieu à des demandes d’informations complémentaires dans le cadre de l’évaluation du handicap psychique: l’avis des MDPH, des médecins et des usagers",
-    "territoire": "",
-    "echelle": [
-        "nationale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Cette initiative vise à identifier les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux.",
-        "contexte": "La loi du 11 février 2005, qui a ouvert un droit à la compensation, a favorisé l'accès aux personnes vivant avec des troubles mentaux à des droits et prestations. L’accès à ces prestations est conditionné par une évaluation préalable.",
-        "problematique": "Les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux, notamment la nécessité d'une évaluation préalable.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux",
-            "Fournir des informations complémentaires à l'équipe de pilotage du projet"
-        ]
-    },
-    "porteur_initiative": "autre",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\080_2019_les_certificats_medicaux_donnant_lieu_a_des_demandes_d_informations_complementaires_dans_le_cadre_de_l_evaluation_du_han.txt",
-    "nom_fichier": "080_2019_les_certificats_medicaux_donnant_lieu_a_des_demandes_d_informations_complementaires_dans_le_cadre_de_l_evaluation_du_han.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les certificats médicaux donnant lieu à des demandes d’informations complémentaires dans le cadre de l’évaluation du handicap psychique: l’avis des MDPH, des médecins et des usagers",
+  "territoire": [],
+  "echelle": [
+    "nationale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Cette initiative vise à identifier les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux.",
+    "contexte": "La loi du 11 février 2005, qui a ouvert un droit à la compensation, a favorisé l'accès aux personnes vivant avec des troubles mentaux à des droits et prestations. L’accès à ces prestations est conditionné par une évaluation préalable.",
+    "problematique": "Les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux, notamment la nécessité d'une évaluation préalable.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les obstacles aux accès aux droits et prestations pour les personnes vivant avec des troubles mentaux",
+      "Fournir des informations complémentaires à l'équipe de pilotage du projet"
+    ]
+  },
+  "porteur_initiative": "autre",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\080_2019_les_certificats_medicaux_donnant_lieu_a_des_demandes_d_informations_complementaires_dans_le_cadre_de_l_evaluation_du_han.txt",
+  "nom_fichier": "080_2019_les_certificats_medicaux_donnant_lieu_a_des_demandes_d_informations_complementaires_dans_le_cadre_de_l_evaluation_du_han.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/les-certificats-medicaux-donnant-lieu-a-des-demandes-dinformations-complementaires-dans-le-cadre-de-levaluation-du-handicap-psychique-lavis-des-mdph-des-medecins-et-des-u/",
+  "original_title": "Les certificats médicaux donnant lieu à des demandes d’informations complémentaires dans le cadre de l’évaluation du handicap psychique : l’avis des MDPH, des médecins et des usagers",
+  "collection_date": ""
 }

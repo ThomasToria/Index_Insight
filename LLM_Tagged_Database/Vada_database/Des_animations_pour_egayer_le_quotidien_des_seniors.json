@@ -1,33 +1,43 @@
 {
-    "titre": "Des animations pour égayer le quotidien des seniors",
-    "territoire": "Communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Une ville amie des aînés organise une série d'animations collectives destinées aux seniors de plus de 60 ans.",
-        "contexte": "Les animations proposées sont nombreuses, y compris visites sur sites, conférences-débats, théâtre, spectacles et cinéma. Elles permettent aux seniors de se détendre et d'échanger avec la société civile.",
-        "problematique": "Le besoin de maintenir la mobilité et le lien social, réduire l'isolement et participer à des animations collectives pour les aînés.",
-        "solution_envisagee": "Des visites sur sites, conférences-débats, théâtre, spectacles et cinéma sont organisées régulièrement. Les animations se font dans des salles municipales ou directement dans les lieux culturels pour permettre aux seniors de participer à ces activités.",
-        "objectifs": [
-            "Maintenir la mobilité et le lien social",
-            "Réduire l'isolement",
-            "Participer à des animations collectives"
-        ]
-    },
-    "porteur_initiative": "CCAS de Dijon",
-    "date": [
-        "depuis 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs",
-        "espaces publics et aménagement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_animations_pour_egayer_le_quotidien_des_seniors.txt",
-    "nom_fichier": "Des_animations_pour_egayer_le_quotidien_des_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des animations pour égayer le quotidien des seniors",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Une ville amie des aînés organise une série d'animations collectives destinées aux seniors de plus de 60 ans.",
+    "contexte": "Les animations proposées sont nombreuses, y compris visites sur sites, conférences-débats, théâtre, spectacles et cinéma. Elles permettent aux seniors de se détendre et d'échanger avec la société civile.",
+    "problematique": "Le besoin de maintenir la mobilité et le lien social, réduire l'isolement et participer à des animations collectives pour les aînés.",
+    "solution_envisagee": "Des visites sur sites, conférences-débats, théâtre, spectacles et cinéma sont organisées régulièrement. Les animations se font dans des salles municipales ou directement dans les lieux culturels pour permettre aux seniors de participer à ces activités.",
+    "objectifs": [
+      "Maintenir la mobilité et le lien social",
+      "Réduire l'isolement",
+      "Participer à des animations collectives"
+    ]
+  },
+  "porteur_initiative": "CCAS de Dijon",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs",
+    "espaces publics et aménagement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_animations_pour_egayer_le_quotidien_des_seniors.txt",
+  "nom_fichier": "Des_animations_pour_egayer_le_quotidien_des_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs",
+    "espaces publics et aménagement"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/146-146-animations-seniors-dijon.pdf",
+  "original_title": "Des animations pour égayer le quotidien des seniors",
+  "collection_date": ""
 }

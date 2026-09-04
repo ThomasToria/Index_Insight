@@ -1,34 +1,46 @@
 {
-    "titre": "Des séjours intergénérationnels pour favoriser le 'bien vieillir ensemble'",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Le projet a pour objectif de créer des liens intergénérationnels entre les résidents d'un EHPAD, leurs proches et la société civile.",
-        "contexte": "Les activités proposées dans les centres sociaux à Toulon sont diverses mais ne permettent pas de créer des liens intergénérationnels.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile pour apprendre à mieux se connaître.",
-        "solution_envisagee": "Un projet de séjours organisé par le Ser vice Animation Seniors de la Ville avec des jeunes issus des centres sociaux et des volontaires aînés.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents, leurs proches et la société civile",
-            "Apprendre à mieux se connaître",
-            "Favoriser l'interaction entre différentes générations et cultures"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "2013",
-        "2014"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sejours_intergenerationnels_pour_favoriser_le_bien_vieillir_ensemble.txt",
-    "nom_fichier": "Des_sejours_intergenerationnels_pour_favoriser_le_bien_vieillir_ensemble.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Des séjours intergénérationnels pour favoriser le 'bien vieillir ensemble'",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Le projet a pour objectif de créer des liens intergénérationnels entre les résidents d'un EHPAD, leurs proches et la société civile.",
+    "contexte": "Les activités proposées dans les centres sociaux à Toulon sont diverses mais ne permettent pas de créer des liens intergénérationnels.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents, leurs proches et la société civile pour apprendre à mieux se connaître.",
+    "solution_envisagee": "Un projet de séjours organisé par le Ser vice Animation Seniors de la Ville avec des jeunes issus des centres sociaux et des volontaires aînés.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents, leurs proches et la société civile",
+      "Apprendre à mieux se connaître",
+      "Favoriser l'interaction entre différentes générations et cultures"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2013",
+    "2014"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Des_sejours_intergenerationnels_pour_favoriser_le_bien_vieillir_ensemble.txt",
+  "nom_fichier": "Des_sejours_intergenerationnels_pour_favoriser_le_bien_vieillir_ensemble.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/119-119-des-sejours-intergenerationnels-pour-favoriser-le-bien-vivre-ensemble-1.pdf",
+  "original_title": "Des séjours intergénérationnels pour favoriser le \"bien vieillir ensemble\"",
+  "collection_date": ""
 }

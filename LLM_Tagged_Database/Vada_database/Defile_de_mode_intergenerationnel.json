@@ -1,34 +1,46 @@
 {
-    "titre": "Défilé de mode intergénérationnel",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un défilé de mode intergénérationnel organisé à Brest, France.",
-        "contexte": "L'initiative vise à mettre en lumière les seniors et à lutter contre le stéréotype associé au vieillissement.",
-        "problematique": "Renforcer la valorisation des seniors dans la société et dépasser les préjugés liés au vieillissement.",
-        "solution_envisagee": "Organiser un défilé de mode intergénérationnel avec seniors et lycéens, mêlant réflexion sur le bien-être physique et mental des seniors.",
-        "objectifs": [
-            "Renforcer la valorisation des seniors dans la société",
-            "Dépasser les préjugés liés au vieillissement",
-            "Promouvoir une image positive du vieillissement"
-        ]
-    },
-    "porteur_initiative": "Office des Retraités de Brest",
-    "date": [
-        "2018",
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "intergénérationnel",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_intergenerationnel.txt",
-    "nom_fichier": "Defile_de_mode_intergenerationnel.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Défilé de mode intergénérationnel",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un défilé de mode intergénérationnel organisé à Brest, France.",
+    "contexte": "L'initiative vise à mettre en lumière les seniors et à lutter contre le stéréotype associé au vieillissement.",
+    "problematique": "Renforcer la valorisation des seniors dans la société et dépasser les préjugés liés au vieillissement.",
+    "solution_envisagee": "Organiser un défilé de mode intergénérationnel avec seniors et lycéens, mêlant réflexion sur le bien-être physique et mental des seniors.",
+    "objectifs": [
+      "Renforcer la valorisation des seniors dans la société",
+      "Dépasser les préjugés liés au vieillissement",
+      "Promouvoir une image positive du vieillissement"
+    ]
+  },
+  "porteur_initiative": "Office des Retraités de Brest",
+  "date": [
+    "2018",
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Defile_de_mode_intergenerationnel.txt",
+  "nom_fichier": "Defile_de_mode_intergenerationnel.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "intergénérationnel",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/850-pe-defile-de-mode-intergenerationnel.pdf",
+  "original_title": "Défilé de mode intergénérationnel",
+  "collection_date": ""
 }

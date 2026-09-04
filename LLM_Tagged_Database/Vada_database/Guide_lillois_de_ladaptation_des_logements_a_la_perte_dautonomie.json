@@ -1,33 +1,45 @@
 {
-    "titre": "Guide lillois de l’adaptation des logements à la perte d’autonomie",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Guide local d'information visant à informer le grand public sur les différents types possibles de travaux d'adaptation du logement à la perte d'autonomie, les démarches à entreprendre et les subventions mobilisables.",
-        "contexte": "La création du guide Lillois de l'adaptation du logement à la perte d'autonomie favorise une transition de vie liée à la perte d'autonomie, en sensibilisant et informant sur des solutions existantes. Les travaux d'adaptation du logement engagés suite à la lecture du guide permettent d'améliorer la qualité de vie et la sécurité des personnes âgées à leur domicile.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des ateliers participatifs menés en 2018 ont permis de centraliser l'information sur les solutions et dispositifs dédiés à l'aménagement des logements à la perte d'autonomie, ainsi que sur les démarches à entreprendre et les subventions mobilisables.",
-        "objectifs": [
-            "centralisation de l'information",
-            "amélioration de la qualité de vie",
-            "renforcement des liens sociaux"
-        ]
-    },
-    "porteur_initiative": "Villes Amies des Aînés",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "habitat et logement",
-        "activité physique et sport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",
-    "nom_fichier": "Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Guide lillois de l’adaptation des logements à la perte d’autonomie",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Guide local d'information visant à informer le grand public sur les différents types possibles de travaux d'adaptation du logement à la perte d'autonomie, les démarches à entreprendre et les subventions mobilisables.",
+    "contexte": "La création du guide Lillois de l'adaptation du logement à la perte d'autonomie favorise une transition de vie liée à la perte d'autonomie, en sensibilisant et informant sur des solutions existantes. Les travaux d'adaptation du logement engagés suite à la lecture du guide permettent d'améliorer la qualité de vie et la sécurité des personnes âgées à leur domicile.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des ateliers participatifs menés en 2018 ont permis de centraliser l'information sur les solutions et dispositifs dédiés à l'aménagement des logements à la perte d'autonomie, ainsi que sur les démarches à entreprendre et les subventions mobilisables.",
+    "objectifs": [
+      "centralisation de l'information",
+      "amélioration de la qualité de vie",
+      "renforcement des liens sociaux"
+    ]
+  },
+  "porteur_initiative": "Villes Amies des Aînés",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "habitat et logement",
+    "activité physique et sport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",
+  "nom_fichier": "Guide_lillois_de_ladaptation_des_logements_a_la_perte_dautonomie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "habitat et logement",
+    "activité physique et sport"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/798-concours-2022-19-guide-lillois.pdf",
+  "original_title": "Guide lillois de l’adaptation des logements à la perte d’autonomie",
+  "collection_date": ""
 }

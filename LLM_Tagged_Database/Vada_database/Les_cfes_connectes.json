@@ -1,33 +1,42 @@
 {
-    "titre": "Les c@fés connectés",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Un accompagnement numérique et convivial pour les personnes âgées de 65 ans et plus sur un cycle de neuf mois dans l’utilisation de la tablette numérique.",
-        "contexte": "Les personnes âgées sont particulièrement touchées par la place grandissante du numérique et se sentent perdues face aux démarches administratives en ligne.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Une action autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents, avec une problématique de sensibilisation, des ateliers d’initiation et des c@fés connectés.",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "CCAS (Centre Communautaire d'Action Sociale) de Morteau",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "numérique"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_cfes_connectes.txt",
-    "nom_fichier": "Les_cfes_connectes.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les c@fés connectés",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Un accompagnement numérique et convivial pour les personnes âgées de 65 ans et plus sur un cycle de neuf mois dans l’utilisation de la tablette numérique.",
+    "contexte": "Les personnes âgées sont particulièrement touchées par la place grandissante du numérique et se sentent perdues face aux démarches administratives en ligne.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Une action autour des 30 ans d’un EHPAD visant les échanges intergénérationnels et la valorisation des résidents, avec une problématique de sensibilisation, des ateliers d’initiation et des c@fés connectés.",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "CCAS (Centre Communautaire d'Action Sociale) de Morteau",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "numérique"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_cfes_connectes.txt",
+  "nom_fichier": "Les_cfes_connectes.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "numérique et accès à l'information"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/653-pe-521-cafes-connectes-morteau-1.pdf",
+  "original_title": "Les c@fés connectés",
+  "collection_date": ""
 }

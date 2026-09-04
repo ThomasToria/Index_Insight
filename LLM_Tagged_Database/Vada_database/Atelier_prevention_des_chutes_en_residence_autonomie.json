@@ -1,32 +1,42 @@
 {
-    "titre": "Atelier prévention des chutes en résidence autonomie",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "atelier",
-    "description": {
-        "description_generale": "Suite à l’observation du vieillissement, et de l'augmentation du nombre de seniors ayant pour habitudes des activités de loisirs mais n’y associant, ou très peu, d’activités ciblées dans le domaine de l’entretien physique ou de la prévention des chutes, le CIAS du Chotelais a voulu agir. En effet, il s’est avéré important d'apporter des outils aux seniors en matière de mobilité physique, d'équilibre pour éviter la chute, mais aussi des outils pour se relever d'une chute, cette dernière ayant de graves conséquences physiques (perte de mobilité, diminution de l’activité physique, baisse de l’équilibre) et psychologiques (angoisses, peur de tomber) afin de maintenir une qualité de vie tout au long du vieillissement.",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Des ateliers complets",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
-            "Valoriser leur mémoire et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2023"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_prevention_des_chutes_en_residence_autonomie.txt",
-    "nom_fichier": "Atelier_prevention_des_chutes_en_residence_autonomie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Atelier prévention des chutes en résidence autonomie",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "atelier",
+  "description": {
+    "description_generale": "Suite à l’observation du vieillissement, et de l'augmentation du nombre de seniors ayant pour habitudes des activités de loisirs mais n’y associant, ou très peu, d’activités ciblées dans le domaine de l’entretien physique ou de la prévention des chutes, le CIAS du Chotelais a voulu agir. En effet, il s’est avéré important d'apporter des outils aux seniors en matière de mobilité physique, d'équilibre pour éviter la chute, mais aussi des outils pour se relever d'une chute, cette dernière ayant de graves conséquences physiques (perte de mobilité, diminution de l’activité physique, baisse de l’équilibre) et psychologiques (angoisses, peur de tomber) afin de maintenir une qualité de vie tout au long du vieillissement.",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Des ateliers complets",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile",
+      "Valoriser leur mémoire et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2023"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Atelier_prevention_des_chutes_en_residence_autonomie.txt",
+  "nom_fichier": "Atelier_prevention_des_chutes_en_residence_autonomie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "atelier",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/951-concours-2023-atelier-prevention-des-chutes-en-residence-autonomie-1.pdf",
+  "original_title": "Atelier prévention des chutes en résidence autonomie",
+  "collection_date": ""
 }

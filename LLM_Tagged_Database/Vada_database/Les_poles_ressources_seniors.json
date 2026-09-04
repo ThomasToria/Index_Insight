@@ -1,33 +1,43 @@
 {
-    "titre": "Les pôles ressources seniors",
-    "territoire": "Communale",
-    "echelle": [
-        "quartier"
-    ],
-    "public_vise": "ainés",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées fragiles dans leur quartier, en les permettant d'interagir avec leurs ressources locales et fréquentant leurs infrastructures.",
-        "contexte": "Les seniors vivent souvent isolés et se sentent déshumanisés. Ils ont besoin d’engagement social et de nouvelles expériences pour maintenir leur autonomie et participer à la vie locale.",
-        "problematique": "Le besoin de renforcer les liens entre les résidents des pôles seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "Proposer une offre d'animation intergénérationnelle basée sur l'engagement de seniors riverains pour créer un environnement de sociabilité et d'activité au sein même du quartier, en utilisant les ressources locales.",
-        "objectifs": [
-            "Améliorer la qualité de vie des personnes âgées fragiles dans leur quartier",
-            "Fournir une activité physique et culturelle adaptée aux seniors riverains",
-            "Contribuer à l'empowerment des seniors riverains"
-        ]
-    },
-    "porteur_initiative": "EHPAD La Résidence de l’Ille",
-    "date": [
-        "depuis octobre 2015"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_poles_ressources_seniors.txt",
-    "nom_fichier": "Les_poles_ressources_seniors.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Les pôles ressources seniors",
+  "territoire": [],
+  "echelle": [
+    "quartier"
+  ],
+  "public_vise": "ainés",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Cette initiative vise à améliorer la qualité de vie des personnes âgées fragiles dans leur quartier, en les permettant d'interagir avec leurs ressources locales et fréquentant leurs infrastructures.",
+    "contexte": "Les seniors vivent souvent isolés et se sentent déshumanisés. Ils ont besoin d’engagement social et de nouvelles expériences pour maintenir leur autonomie et participer à la vie locale.",
+    "problematique": "Le besoin de renforcer les liens entre les résidents des pôles seniors, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "Proposer une offre d'animation intergénérationnelle basée sur l'engagement de seniors riverains pour créer un environnement de sociabilité et d'activité au sein même du quartier, en utilisant les ressources locales.",
+    "objectifs": [
+      "Améliorer la qualité de vie des personnes âgées fragiles dans leur quartier",
+      "Fournir une activité physique et culturelle adaptée aux seniors riverains",
+      "Contribuer à l'empowerment des seniors riverains"
+    ]
+  },
+  "porteur_initiative": "EHPAD La Résidence de l’Ille",
+  "date": [
+    "2015"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Les_poles_ressources_seniors.txt",
+  "nom_fichier": "Les_poles_ressources_seniors.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/288-288-nancy-lien-social-pe.pdf",
+  "original_title": "Les pôles ressources seniors",
+  "collection_date": ""
 }

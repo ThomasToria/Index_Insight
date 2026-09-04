@@ -1,32 +1,44 @@
 {
-    "titre": "Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon",
-    "territoire": "Commune: Besançon, Ain",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "professionnels",
-    "nature_initiative": "événement",
-    "description": {
-        "description_generale": "Le projet consiste en un programme d'échanges intergénérationnels au sein de résidences autonomie, visant à favoriser les liens et les rencontres entre résidents seniors et jeunes. Par un contact régulier et durable entre ces derniers, des échanges et une meilleure connaissance réciproque permettent de faire tomber les représentations négatives, de créer du lien social et de favoriser la découverte d'autres cultures.",
-        "contexte": "Le CCAS de Besançon gère de longue date cinq résidences autonomie. Ces structures constituent une alternative entre le logement classique et l'EHPAD. En Octobre 2005, les normes de sécurité ('type J') ont contraint l'une d'elles (les Hortensias) à ne plus pouvoir accueillir de personnes âgées sur les trois derniers étages, soit vingt-deux logements. Afin que l’équilibre financier de l'établissement puisse être maintenu, il a été décidé de louer ces vingt-deux logements à des étudiants, majoritairement étudiants étrangers inscrits au CLA (Centre de linguistique appliqué).",
-        "problematique": "Le manque de relation intergénérationnelle au sein de la résidence.",
-        "solution_envisagee": "Une démarche intergénérationnelle expérimentale pour six logements, où les jeunes occupaient leur logement dans le cadre d'une convention d'occupation temporaire. Ils pouvaient percevoir l’APL et sur la base d’un engagement d'un contrat d'engagement pour les jeunes (échange de services).",
-        "objectifs": [
-            "Favoriser les liens entre habitants de résidences autonomie: aînés et jeunes.",
-            "Offrir à des jeunes (étudiants, en formation ou en 1er emploi) des logements permettant une cohabitation avec des aînés et les faire bénéficier de coûts locatifs allégés."
-        ]
-    },
-    "porteur_initiative": "CCAS de Besançon",
-    "date": [
-        "2005"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "lien social et isolement",
-        "intergénérationnel"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logements_intergenerationnels_dans_les_residences_autonomie_du_CCAS_de_Besancon.txt",
-    "nom_fichier": "Logements_intergenerationnels_dans_les_residences_autonomie_du_CCAS_de_Besancon.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon",
+  "territoire": [
+    "besançon, ain"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "professionnels",
+  "nature_initiative": "événement",
+  "description": {
+    "description_generale": "Le projet consiste en un programme d'échanges intergénérationnels au sein de résidences autonomie, visant à favoriser les liens et les rencontres entre résidents seniors et jeunes. Par un contact régulier et durable entre ces derniers, des échanges et une meilleure connaissance réciproque permettent de faire tomber les représentations négatives, de créer du lien social et de favoriser la découverte d'autres cultures.",
+    "contexte": "Le CCAS de Besançon gère de longue date cinq résidences autonomie. Ces structures constituent une alternative entre le logement classique et l'EHPAD. En Octobre 2005, les normes de sécurité ('type J') ont contraint l'une d'elles (les Hortensias) à ne plus pouvoir accueillir de personnes âgées sur les trois derniers étages, soit vingt-deux logements. Afin que l’équilibre financier de l'établissement puisse être maintenu, il a été décidé de louer ces vingt-deux logements à des étudiants, majoritairement étudiants étrangers inscrits au CLA (Centre de linguistique appliqué).",
+    "problematique": "Le manque de relation intergénérationnelle au sein de la résidence.",
+    "solution_envisagee": "Une démarche intergénérationnelle expérimentale pour six logements, où les jeunes occupaient leur logement dans le cadre d'une convention d'occupation temporaire. Ils pouvaient percevoir l’APL et sur la base d’un engagement d'un contrat d'engagement pour les jeunes (échange de services).",
+    "objectifs": [
+      "Favoriser les liens entre habitants de résidences autonomie: aînés et jeunes.",
+      "Offrir à des jeunes (étudiants, en formation ou en 1er emploi) des logements permettant une cohabitation avec des aînés et les faire bénéficier de coûts locatifs allégés."
+    ]
+  },
+  "porteur_initiative": "CCAS de Besançon",
+  "date": [
+    "2005"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "lien social et isolement",
+    "intergénérationnel"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Logements_intergenerationnels_dans_les_residences_autonomie_du_CCAS_de_Besancon.txt",
+  "nom_fichier": "Logements_intergenerationnels_dans_les_residences_autonomie_du_CCAS_de_Besancon.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement",
+    "intergénérationnel"
+  ],
+  "nature_initiative_normalisee": "événement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/681-besancon-laureats-concours-villes-amies-des-aines-2021-19-20.pdf",
+  "original_title": "Logements intergénérationnels dans les résidences autonomie du CCAS de Besançon",
+  "collection_date": ""
 }

@@ -1,31 +1,40 @@
 {
-    "titre": "Journée forum préparer et bien vivre sa retraite",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Organisation d'une journée pour préparer et bien vivre sa retraite, comprenant des conférences, stands et animations.",
-        "contexte": "Initiatives précédentes sur la préparation de la retraite réussies ont permis de renforcer les liens entre les résidents, leurs proches et la société civile.",
-        "problematique": "Renforcement des liens entre les personnes concernées par la retraite, valorisation de leur mémoire et place dans la vie locale.",
-        "solution_envisagee": "Organisation d'une journée annuelle sur une seule journée et un seul lieu pour préparer et bien vivre sa retraite.",
-        "objectifs": [
-            "Renforcer les liens entre les personnes concernées par la retraite",
-            "Valoriser leur mémoire et place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "Maison des Seniors",
-    "date": [
-        "juin 2022"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_forum_preparer_et_bien_vivre_sa_retraite.txt",
-    "nom_fichier": "Journee_forum_preparer_et_bien_vivre_sa_retraite.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Journée forum préparer et bien vivre sa retraite",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Organisation d'une journée pour préparer et bien vivre sa retraite, comprenant des conférences, stands et animations.",
+    "contexte": "Initiatives précédentes sur la préparation de la retraite réussies ont permis de renforcer les liens entre les résidents, leurs proches et la société civile.",
+    "problematique": "Renforcement des liens entre les personnes concernées par la retraite, valorisation de leur mémoire et place dans la vie locale.",
+    "solution_envisagee": "Organisation d'une journée annuelle sur une seule journée et un seul lieu pour préparer et bien vivre sa retraite.",
+    "objectifs": [
+      "Renforcer les liens entre les personnes concernées par la retraite",
+      "Valoriser leur mémoire et place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "Maison des Seniors",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Journee_forum_preparer_et_bien_vivre_sa_retraite.txt",
+  "nom_fichier": "Journee_forum_preparer_et_bien_vivre_sa_retraite.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/818-concours-2022-44-forum-preparer-et-bien-vivre-sa-retraite.pdf",
+  "original_title": "Journée forum préparer et bien vivre sa retraite",
+  "collection_date": ""
 }

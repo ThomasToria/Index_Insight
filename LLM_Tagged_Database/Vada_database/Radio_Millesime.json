@@ -1,33 +1,44 @@
 {
-    "titre": "Radio Millésime",
-    "territoire": "Commune: Sceaux (92)",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "public non connu",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Créer un outil de communication permettant aux personnes âgées, y compris les plus vulnérables, de rester connectés à la vie locale et d'être stimulées, et réduire la fracture numérique.",
-        "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "problematique": "Lutter contre l'isolement social et encourager la participation citoyenne des seniors en leur donnant un espace d'expression et d'échange, et en favorisant leur accès à une information régulière.",
-        "solution_envisagee": "Radio Millésime",
-        "objectifs": [
-            "Lutter contre l'isolement social",
-            "Encourager la participation citoyenne des seniors"
-        ]
-    },
-    "porteur_initiative": "Radio Millésime SAS, Ville de Sceaux, CCAS, Service Seniors, Service Communication: alimentation de la radio, coordination, communication sur le projet, organisation d'événements (animation sur écran tactile à la résidence des Imbergères).",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "lien social et isolement"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Radio_Millesime.txt",
-    "nom_fichier": "Radio_Millesime.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Radio Millésime",
+  "territoire": [
+    "sceaux (92)"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "public non connu",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Créer un outil de communication permettant aux personnes âgées, y compris les plus vulnérables, de rester connectés à la vie locale et d'être stimulées, et réduire la fracture numérique.",
+    "contexte": "Le besoin de renforcer les liens entre les résidents de l’EHPAD, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "problematique": "Lutter contre l'isolement social et encourager la participation citoyenne des seniors en leur donnant un espace d'expression et d'échange, et en favorisant leur accès à une information régulière.",
+    "solution_envisagee": "Radio Millésime",
+    "objectifs": [
+      "Lutter contre l'isolement social",
+      "Encourager la participation citoyenne des seniors"
+    ]
+  },
+  "porteur_initiative": "Radio Millésime SAS, Ville de Sceaux, CCAS, Service Seniors, Service Communication: alimentation de la radio, coordination, communication sur le projet, organisation d'événements (animation sur écran tactile à la résidence des Imbergères).",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "lien social et isolement"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Radio_Millesime.txt",
+  "nom_fichier": "Radio_Millesime.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Radio-Millesime.pdf",
+  "original_title": "Radio Millésime",
+  "collection_date": ""
 }

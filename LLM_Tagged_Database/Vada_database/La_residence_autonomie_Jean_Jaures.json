@@ -1,32 +1,42 @@
 {
-    "titre": "La résidence autonomie Jean Jaurès",
-    "territoire": "",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "accompagnement",
-    "description": {
-        "description_generale": "La résidence autonomie Jean Jaurès est un établissement non médicalisé qui accueille des seniors reconnus en situation de handicap (dès l’âge de 57 ans), des retraités (dès l’âge de 60 ans) ainsi que des étudiants (CROUS).",
-        "contexte": "",
-        "problematique": "Le besoin de renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Renforcer les liens entre les résidents de l'établissement",
-            "Valoriser la mémoire des seniors et leur place dans la vie locale"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_autonomie_Jean_Jaures.txt",
-    "nom_fichier": "La_residence_autonomie_Jean_Jaures.txt",
-    "statut_action": "projet réalisé"
+  "titre": "La résidence autonomie Jean Jaurès",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "accompagnement",
+  "description": {
+    "description_generale": "La résidence autonomie Jean Jaurès est un établissement non médicalisé qui accueille des seniors reconnus en situation de handicap (dès l’âge de 57 ans), des retraités (dès l’âge de 60 ans) ainsi que des étudiants (CROUS).",
+    "contexte": "",
+    "problematique": "Le besoin de renforcer les liens entre les résidents de l’établissement, leurs proches et la société civile, tout en valorisant leur mémoire et leur place dans la vie locale.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Renforcer les liens entre les résidents de l'établissement",
+      "Valoriser la mémoire des seniors et leur place dans la vie locale"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\La_residence_autonomie_Jean_Jaures.txt",
+  "nom_fichier": "La_residence_autonomie_Jean_Jaures.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "accompagnement",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/245-pe-residence-jaures-mise-en-forme-2023.pdf",
+  "original_title": "La résidence autonomie Jean Jaurès",
+  "collection_date": ""
 }

@@ -1,33 +1,43 @@
 {
-    "titre": "L'orientation scolaire des élèves soutenus par le dispositif ULIS en fin de troisième: continuités des pratiques et des représentations, discontinuités des parcours?",
-    "territoire": "",
-    "echelle": [
-        "départementale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "La scolarisation des élèves en situation de handicap à l’école ordinaire s’impose depuis les années 2000 sur l’agenda politique de la plupart des pays occidentaux. En France, les travaux de la Direction de l'évaluation, du pilotage et de la prospective (DEPP) montrent que cette orientation est une mesure d'urgence pour améliorer le parcours scolaire des élèves en situation de handicap.",
-        "contexte": "",
-        "problematique": "La scolarisation des élèves en situation de handicap à l’école ordinaire s’impose depuis les années 2000 sur l’agenda politique de la plupart des pays occidentaux. En France, les travaux de la Direction de l'évaluation, du pilotage et de la prospective (DEPP) montrent que cette orientation est une mesure d'urgence pour améliorer le parcours scolaire des élèves en situation de handicap.",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Identifier les obstacles aux parcours scolaires des élèves en situation de handicap",
-            "Analyser les pratiques et représentations des enseignants concernant la scolarisation des élèves en situation de handicap",
-            "Proposer des solutions pour améliorer le parcours scolaire des élèves en situation de handicap"
-        ]
-    },
-    "porteur_initiative": "",
-    "date": [
-        "2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "IRESP",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\088_2020_l_orientation_scolaire_des_eleves_soutenus_par_le_dispositif_ulis_en_fin_de_troisieme_continuites_des_pratiques_et_des_r.txt",
-    "nom_fichier": "088_2020_l_orientation_scolaire_des_eleves_soutenus_par_le_dispositif_ulis_en_fin_de_troisieme_continuites_des_pratiques_et_des_r.txt",
-    "statut_action": "projet réalisé"
+  "titre": "L'orientation scolaire des élèves soutenus par le dispositif ULIS en fin de troisième: continuités des pratiques et des représentations, discontinuités des parcours?",
+  "territoire": [],
+  "echelle": [
+    "départementale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "La scolarisation des élèves en situation de handicap à l’école ordinaire s’impose depuis les années 2000 sur l’agenda politique de la plupart des pays occidentaux. En France, les travaux de la Direction de l'évaluation, du pilotage et de la prospective (DEPP) montrent que cette orientation est une mesure d'urgence pour améliorer le parcours scolaire des élèves en situation de handicap.",
+    "contexte": "",
+    "problematique": "La scolarisation des élèves en situation de handicap à l’école ordinaire s’impose depuis les années 2000 sur l’agenda politique de la plupart des pays occidentaux. En France, les travaux de la Direction de l'évaluation, du pilotage et de la prospective (DEPP) montrent que cette orientation est une mesure d'urgence pour améliorer le parcours scolaire des élèves en situation de handicap.",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Identifier les obstacles aux parcours scolaires des élèves en situation de handicap",
+      "Analyser les pratiques et représentations des enseignants concernant la scolarisation des élèves en situation de handicap",
+      "Proposer des solutions pour améliorer le parcours scolaire des élèves en situation de handicap"
+    ]
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "IReSP Autonomie",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\iresp_autonomie_database\\088_2020_l_orientation_scolaire_des_eleves_soutenus_par_le_dispositif_ulis_en_fin_de_troisieme_continuites_des_pratiques_et_des_r.txt",
+  "nom_fichier": "088_2020_l_orientation_scolaire_des_eleves_soutenus_par_le_dispositif_ulis_en_fin_de_troisieme_continuites_des_pratiques_et_des_r.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://iresp.net/projets_finances/lorientation-scolaire-des-eleves-soutenus-par-le-dispositif-ulis-en-fin-de-troisieme-continuites-des-pratiques-et-des-representations-discontinuites-des-parcours/",
+  "original_title": "L’orientation scolaire des élèves soutenus par le dispositif ULIS en fin de troisième : continuités des pratiques et des représentations, discontinuités des parcours ?",
+  "collection_date": ""
 }

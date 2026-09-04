@@ -1,32 +1,41 @@
 {
-    "titre": "Colloque « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie »",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "sensibilisation",
-    "description": {
-        "description_generale": "Colloque organisé par la Fondation de France pour l'occasion des 30 ans d'un EHPAD, visant à promouvoir les échanges intergénérationnels et valoriser les résidents.",
-        "contexte": "",
-        "problematique": "Comment laisser le droit au choix aux personnes vulnérables ? Les technologies pour l'autonomie et la santé aident-elles au respect des droits et libertés?",
-        "solution_envisagee": "",
-        "objectifs": [
-            "Promouvoir les échanges intergénérationnels",
-            "Valoriser les résidents de l'EHPAD",
-            "Améliorer la qualité de vie des personnes âgées et leurs aidants"
-        ]
-    },
-    "porteur_initiative": "Fondation de France Centre Est",
-    "date": [
-        "16/10/2018"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "handicap et aidants"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",
-    "nom_fichier": "Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Colloque « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie »",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "sensibilisation",
+  "description": {
+    "description_generale": "Colloque organisé par la Fondation de France pour l'occasion des 30 ans d'un EHPAD, visant à promouvoir les échanges intergénérationnels et valoriser les résidents.",
+    "contexte": "",
+    "problematique": "Comment laisser le droit au choix aux personnes vulnérables ? Les technologies pour l'autonomie et la santé aident-elles au respect des droits et libertés?",
+    "solution_envisagee": "",
+    "objectifs": [
+      "Promouvoir les échanges intergénérationnels",
+      "Valoriser les résidents de l'EHPAD",
+      "Améliorer la qualité de vie des personnes âgées et leurs aidants"
+    ]
+  },
+  "porteur_initiative": "Fondation de France Centre Est",
+  "date": [
+    "2018-10-16"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "handicap et aidants"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",
+  "nom_fichier": "Colloque Vivre ses choix, prendre des risques jusqu'à la fin de sa vie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "aidants, handicap et vulnérabilités"
+  ],
+  "nature_initiative_normalisee": "sensibilisation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/cat-personnes-agees/colloque-vivre-ses-choix-prendre-des-risques-jusqu-a-la-fin-de-sa-vie",
+  "original_title": "Colloque « Vivre ses choix, prendre des risques jusqu'à la fin de sa vie »",
+  "collection_date": ""
 }

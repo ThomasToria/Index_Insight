@@ -1,32 +1,41 @@
 {
-    "titre": "Forum pour s'informer et préparer sa retraite",
-    "territoire": "communale",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "formation",
-    "description": {
-        "description_generale": "Un forum organisé par la Maison des Seniors pour préparer et bien vivre sa retraite, comprenant conférences, stands et animations.",
-        "contexte": "La Maison des Seniors a lancé une initiative en 2017 avec succès, suivie d'une journée de renouvellement organisée en 2019. Le projet est un événement annuel organisé sur une seule journée pour aider les futurs et nouveaux retraités à préparer leur passage à la retraite.",
-        "problematique": "Préparer sa retraite d’un point de vue juridique, administratif et financier; approche sociologique de la retraite: être à la retraite, qu’est-ce que cela signifie? Comment aborder cette nouvelle étape?",
-        "solution_envisagee": "Des stands, des animations, des conférences et des ateliers sur différents angles pour préparer et bien vivre sa retraite.",
-        "objectifs": [
-            "Aider les futurs et nouveaux retraités à préparer leur passage à la retraite",
-            "Promouvoir l'information sur la préparation de la retraite",
-            "Fournir des informations pratiques et utiles aux participants"
-        ]
-    },
-    "porteur_initiative": "Maison des Seniors",
-    "date": [
-        "juin 2022"
-    ],
-    "thematique": [
-        "autonomie et grand âge",
-        "culture et loisirs"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ecole_du_temps_libre_et_du_bien_vieillir.txt",
-    "nom_fichier": "Ecole_du_temps_libre_et_du_bien_vieillir.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Forum pour s'informer et préparer sa retraite",
+  "territoire": [],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "formation",
+  "description": {
+    "description_generale": "Un forum organisé par la Maison des Seniors pour préparer et bien vivre sa retraite, comprenant conférences, stands et animations.",
+    "contexte": "La Maison des Seniors a lancé une initiative en 2017 avec succès, suivie d'une journée de renouvellement organisée en 2019. Le projet est un événement annuel organisé sur une seule journée pour aider les futurs et nouveaux retraités à préparer leur passage à la retraite.",
+    "problematique": "Préparer sa retraite d’un point de vue juridique, administratif et financier; approche sociologique de la retraite: être à la retraite, qu’est-ce que cela signifie? Comment aborder cette nouvelle étape?",
+    "solution_envisagee": "Des stands, des animations, des conférences et des ateliers sur différents angles pour préparer et bien vivre sa retraite.",
+    "objectifs": [
+      "Aider les futurs et nouveaux retraités à préparer leur passage à la retraite",
+      "Promouvoir l'information sur la préparation de la retraite",
+      "Fournir des informations pratiques et utiles aux participants"
+    ]
+  },
+  "porteur_initiative": "Maison des Seniors",
+  "date": [
+    "2022"
+  ],
+  "thematique": [
+    "autonomie et grand âge",
+    "culture et loisirs"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Ecole_du_temps_libre_et_du_bien_vieillir.txt",
+  "nom_fichier": "Ecole_du_temps_libre_et_du_bien_vieillir.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "autonomie et avancée en âge",
+    "culture et loisirs"
+  ],
+  "nature_initiative_normalisee": "formation",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/06/818-concours-2022-44-forum-preparer-et-bien-vivre-sa-retraite-1.pdf",
+  "original_title": "École du temps libre et du bien vieillir",
+  "collection_date": ""
 }

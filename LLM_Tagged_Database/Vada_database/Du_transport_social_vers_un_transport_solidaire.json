@@ -1,33 +1,44 @@
 {
-    "titre": "Du transport social vers un transport solidaire",
-    "territoire": "Commune",
-    "echelle": [
-        "communale"
-    ],
-    "public_vise": "ainés et autres",
-    "nature_initiative": "dispositif",
-    "description": {
-        "description_generale": "Un projet de transition du transport social à un transport solidaire a été mené dans une commune.",
-        "contexte": "Le CCAS avait mis en place un service de transport pour les seniors, mais la volonté des bénévoles d'assurer ce service ponctuellement a conduit à son développement vers un mode plus solidaire.",
-        "problematique": "La transition du transport social à un transport solidaire est motivée par le besoin de renforcer les liens sociaux et l'aide aux seniors, tout en respectant la volonté des bénévoles d'assurer ce service ponctuellement.",
-        "solution_envisagee": "Le projet a permis de développer une relation plus solidaire entre les bénéficiaires et les acteurs impliqués dans le transport social, en mettant l’accent sur la valorisation des liens sociaux et la participation citoyenne.",
-        "objectifs": [
-            "Apporter une aide de proximité aux administrés en difficulté",
-            "Renforcer les relations sociales entre les seniors et les bénéficiaires"
-        ]
-    },
-    "porteur_initiative": "CCAS, volontaires, bénéficiaires",
-    "date": [
-        "2019",
-        "depuis 2019"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "lien social et isolement",
-        "mobilité et transport"
-    ],
-    "source_site": "VADA",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_transport_social_vers_un_transport_solidaire.txt",
-    "nom_fichier": "Du_transport_social_vers_un_transport_solidaire.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Du transport social vers un transport solidaire",
+  "territoire": [
+    "commune"
+  ],
+  "echelle": [
+    "communale"
+  ],
+  "public_vise": "ainés et autres",
+  "nature_initiative": "dispositif",
+  "description": {
+    "description_generale": "Un projet de transition du transport social à un transport solidaire a été mené dans une commune.",
+    "contexte": "Le CCAS avait mis en place un service de transport pour les seniors, mais la volonté des bénévoles d'assurer ce service ponctuellement a conduit à son développement vers un mode plus solidaire.",
+    "problematique": "La transition du transport social à un transport solidaire est motivée par le besoin de renforcer les liens sociaux et l'aide aux seniors, tout en respectant la volonté des bénévoles d'assurer ce service ponctuellement.",
+    "solution_envisagee": "Le projet a permis de développer une relation plus solidaire entre les bénéficiaires et les acteurs impliqués dans le transport social, en mettant l’accent sur la valorisation des liens sociaux et la participation citoyenne.",
+    "objectifs": [
+      "Apporter une aide de proximité aux administrés en difficulté",
+      "Renforcer les relations sociales entre les seniors et les bénéficiaires"
+    ]
+  },
+  "porteur_initiative": "CCAS, volontaires, bénéficiaires",
+  "date": [
+    "2019"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "lien social et isolement",
+    "mobilité et transport"
+  ],
+  "source_site": "RFVAA",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Vada_database\\Du_transport_social_vers_un_transport_solidaire.txt",
+  "nom_fichier": "Du_transport_social_vers_un_transport_solidaire.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "lien social et lutte contre l'isolement",
+    "mobilité et accessibilité"
+  ],
+  "nature_initiative_normalisee": "dispositif ou programme",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.villesamiesdesaines-rf.fr/wp-content/uploads/2025/12/PE-Du-transport-social-vers-un-transport-solidaire.pdf",
+  "original_title": "Du transport social vers un transport solidaire",
+  "collection_date": ""
 }

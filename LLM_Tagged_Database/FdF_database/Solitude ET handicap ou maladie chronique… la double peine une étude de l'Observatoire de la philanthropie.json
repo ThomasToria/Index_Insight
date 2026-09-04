@@ -1,29 +1,39 @@
 {
-    "titre": "Solitude ET Handicap ou Maladie Chronique… La Double Peine: Une Étude de l'Observatoire de la Philanthropie",
-    "territoire": "",
-    "echelle": [
-        "régionale"
-    ],
-    "public_vise": "autre",
-    "nature_initiative": "enquête",
-    "description": {
-        "description_generale": "Cette étude de l’Observatoire de la Philanthropie s’intéresse à la solitude des personnes en situation de handicap ou souffrant de maladies chroniques.",
-        "contexte": "",
-        "problematique": "La double peine: solitude et handicap ou maladie chronique",
-        "solution_envisagee": "",
-        "objectifs": ""
-    },
-    "porteur_initiative": "",
-    "date": [
-        "depuis 2010"
-    ],
-    "thematique": [
-        "santé et prévention",
-        "handicap et aidants",
-        "lien social et isolement"
-    ],
-    "source_site": "Fondation de France",
-    "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.txt",
-    "nom_fichier": "Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.txt",
-    "statut_action": "projet réalisé"
+  "titre": "Solitude ET Handicap ou Maladie Chronique… La Double Peine: Une Étude de l'Observatoire de la Philanthropie",
+  "territoire": [],
+  "echelle": [
+    "régionale"
+  ],
+  "public_vise": "autre",
+  "nature_initiative": "enquête",
+  "description": {
+    "description_generale": "Cette étude de l’Observatoire de la Philanthropie s’intéresse à la solitude des personnes en situation de handicap ou souffrant de maladies chroniques.",
+    "contexte": "",
+    "problematique": "La double peine: solitude et handicap ou maladie chronique",
+    "solution_envisagee": "",
+    "objectifs": ""
+  },
+  "porteur_initiative": "",
+  "date": [
+    "2010"
+  ],
+  "thematique": [
+    "santé et prévention",
+    "handicap et aidants",
+    "lien social et isolement"
+  ],
+  "source_site": "Fondation de France",
+  "fichier_source": "C:\\Users\\PC\\Desktop\\Project_Internship\\Index_Insight\\Cleaned_Database\\Fdf_database\\Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.txt",
+  "nom_fichier": "Solitude ET handicap ou maladie chronique… la double peine une étude de l'Observatoire de la philanthropie.txt",
+  "statut_action": "projet réalisé",
+  "thematique_normalisee": [
+    "santé et prévention",
+    "aidants, handicap et vulnérabilités",
+    "lien social et lutte contre l'isolement"
+  ],
+  "nature_initiative_normalisee": "enquête ou étude",
+  "version_taxonomie": "v1.0",
+  "source_url": "https://www.fondationdefrance.org/fr/?view=article&id=1136:solitude-et-handicap-ou-maladie-chronique-la-double-peine-une-etude-de-l-observatoire-de-la-philanthropie&catid=107",
+  "original_title": "Solitude ET handicap ou maladie chronique… la double peine : une étude de l'Observatoire de la philanthropie",
+  "collection_date": ""
 }
